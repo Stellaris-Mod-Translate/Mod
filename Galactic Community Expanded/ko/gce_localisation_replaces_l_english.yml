@@ -1,0 +1,9 @@
+﻿l_english:
+
+ resolution_category_space_fauna_tiyanki:1 "우주 생물군: 티안키 정책"
+ #was previously just "Space Fauna"
+
+ resolution_repeal_amoeba_conservation_act_effect_success:0 "§Y우주 아메바 보호법§!결의안을 폐지헙니다."  
+ #previously included ", leaving §Y$resolution_tiyanki_conservation_act$§! as galactic law", removed bc obviously separated categories
+ 
+ 

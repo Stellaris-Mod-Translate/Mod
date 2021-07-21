@@ -1,0 +1,59 @@
+﻿l_english:
+
+
+# Country Type
+
+
+#국가 유형
+
+
+# 국가 유형
+
+mod_planet_state: "$COUNTRY_PLANET_STATE$"
+COUNTRY_PLANET_STATE: "행성 국가"
+CAN_TAKE_HOSTILE_ACTION_PLANET_STATE: "우리는 우리 국경 내의 단일 행성 국가에만 적대적인 행위를 취할 수 있습니다."
+
+# 함선
+
+
+#함선
+
+
+# 건물
+
+
+# 함선
+
+
+# 함선들
+
+collector_station: "단일 행성 국가 항성기지"
+
+#건물
+
+collector_station_plural: "단일 행성 국가 항성기지들"
+
+# 건물
+
+
+# 건물들
+
+building_collectors_vault: "보물 금고"
+building_collectors_vault_desc: "매우 경비가 삼엄한 금고로 부유층을 위한 박물관이기도 합니다."
+
+# Static Modifiers
+
+planet_lost_autonomy: "빼앗긴 자치권"
+planet_lost_autonomy_desc: "이 행성은 과거에 독립적인 단일 행성 국가였습니다. 이 행성의 주민들은 독립을 강하게 원하며 행성을 되찾을 기회만을 기다리고 있습니다."
+leader_trait_ruler_arcane_holder: "$r_arcane_rune$의 소유자"
+leader_trait_ruler_arcane_holder_desc: " "
+leader_trait_ruler_illusion_holder: "$r_illusion_rune$의 소유자"
+leader_trait_ruler_illusion_holder_desc: " "
+leader_trait_ruler_mighty_holder: "$r_damage_rune$의 소유자"
+leader_trait_ruler_mighty_holder_desc: " "
+leader_trait_ruler_invisibility_holder: "$r_invisibility_rune$의 소유자"
+leader_trait_ruler_invisibility_holder_desc: " "
+leader_trait_ruler_regeneration_holder: "$r_regeneration_rune$의 소유자"
+leader_trait_ruler_regeneration_holder_desc: " "
+leader_trait_ruler_haste_holder: "$r_haste_rune$의 소유자"
+leader_trait_ruler_haste_holder_desc: " "

@@ -1,0 +1,34 @@
+﻿l_english:
+
+
+nano_shipyard_cs:0 "나노봇 조선소"
+nano_shipyard_cs_DESC:0 "$mega_shipyard_3_DESC$"
+extra_shipyard_cs:0 "타차원 조선소"
+extra_shipyard_cs_DESC:0 "$mega_shipyard_3_DESC$"
+swarm_shipyard_cs:0 "무리 조선소"
+swarm_shipyard_cs_DESC:0 "$mega_shipyard_3_DESC$"
+
+nano_shipyard_restored_cs:0 "$nano_shipyard_cs$"
+nano_shipyard_restored_cs_DESC:0 "$nano_shipyard_cs_DESC$ §R(경고: 이 개체는 더 이상 사용되지 않으며 버전 1.2.5에서 제거됩니다.)§!"
+nanite_factory_shipyard_cs:0 "$nano_shipyard_cs$"
+nanite_factory_shipyard_cs_DESC:0 "$nano_shipyard_cs_DESC$"
+nanite_factory_shipyard_r_cs:0 "$nano_shipyard_cs$"
+nanite_factory_shipyard_r_cs_DESC:0 "$nano_shipyard_cs_DESC$ §R(경고: 이 개체는 더 이상 사용되지 않으며 버전 1.2.5에서 제거됩니다.)§!"
+nanite_factory_shipyard_c_cs:0 "$nano_shipyard_cs$"
+nanite_factory_shipyard_c_cs_DESC:0 "$nano_shipyard_cs_DESC$ §R(경고: 이 개체는 더 이상 사용되지 않으며 버전 1.2.5에서 제거됩니다.)§!"
+
+tech_nano_shipyard_cs:0 "나노봇 조선소"
+tech_nano_shipyard_cs_desc:0 "$UNIVERSAL_ANSWER$"
+tech_nano_shipyard_cs_detail:0 "§H거대구조물 잠금해제:§! 나노봇 조선소"
+
+tech_extra_shipyard_cs:0 "타차원 조선소"
+tech_extra_shipyard_cs_desc:0 "$UNIVERSAL_ANSWER$"
+tech_extra_shipyard_cs_detail:0 "§H거대구조물 잠금해제:§! 타차원 조선소"
+
+tech_swarm_shipyard_cs:0 "무리 조선소"
+tech_swarm_shipyard_cs_desc:0 "$UNIVERSAL_ANSWER$"
+tech_swarm_shipyard_cs_detail:0 "§H거대구조물 잠금해제:§! 무리 조선소"
+
+tech_swarm_shipyard_cs:0 "몰락제국 조선소"
+tech_swarm_shipyard_cs_desc:0 "$UNIVERSAL_ANSWER$"
+tech_swarm_shipyard_cs_detail:0 "§H거대구조물 잠금해제:§! 무리 조선소"

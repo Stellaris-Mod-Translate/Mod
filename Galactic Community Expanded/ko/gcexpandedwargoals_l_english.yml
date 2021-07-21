@@ -1,0 +1,21 @@
+﻿l_english:
+  casus_belli_cb_unequal_treaties:0 "불평등 조약"
+  war_goal_wg_unequal_treaties:0 "시장 개방"
+  war_goal_wg_unequal_treaties_desc:0 "우리의 이념을 강요하고 시장을 개방시키기 위해 전쟁이 벌어지고 있습니다. 우리가 승리한다면, 상대는 우리의 윤리관과 정치관을 채택할 것이고, 상대방의 영토에 존재하는 지사를 얻습니다  \n\n 현상유지 평화의 경우, 우리가 점유하고 있는 성계에 적어도 하나의 행성을 포함한다면 새로운 이념적 동맹국이 형성될 것입니다."
+
+  wg_unequal_treaties_accept:1 "§Y[From.GetName]§! 은 §Y[Root.GetName]§!의 윤리관인 과두정과 거대기업을 채택하도록 강요받을 것입니다. §Y[Root.GetName]§!는 유효한 모든 지사를 얻을 것입니다. \n"
+  wg_unequal_treaties_accept_2:0 "§Y[From.GetRulerTitle] [From.GetRulerName]§! 은 퇴위를 강요받습니다.\n"
+  wg_unequal_treaties_accept_3:0 "§Y[From.GetName]§!은 그들의 연방을 떠나도록 강요받습니다."
+
+  casus_belli_cb_crusade_against_the_heretic:0 "십자군!"
+  casus_belli_cb_stop_crusade:0 "십자군 중단"
+  war_goal_wg_end_threat_crusade:0 "십자군 위협 중단"
+  war_goal_wg_end_threat_crusade_desc:0 "광신자들이 우리의 절멸을 막기 위해 전쟁을 벌이고 있습니다!"
+  war_goal_wg_crusade_against_the_heretic:0 "이단자에 대항하는 십자군"
+  war_goal_wg_crusade_against_the_heretic_desc:0 "성전은 우주의 진리에 대한 적의 마음을 열기 위해 일어났습니다. 우리가 승리할 때, 그들은 만물의 영적 본성을 이해하도록 만들어질 것이며, 모든 국민들은 개종 할 것입니다. \n\n 현상유지 평화의 경우, 우리가 점유하고 있는 성계가 적어도 하나의 행성을 포함한다면 새로운 이념적 동맹국이 될 것입니다."
+  war_goal_wg_crusade_against_the_soulless:0 "영혼없는 자들에 대한 십자군"
+  war_goal_wg_crusade_against_the_soulless_desc:0 "우리는 신에 대항하는 영혼없는 자들을 없애버릴 것입니다. 자비는 없을 것입니다."
+
+  wg_crusade_against_the_heretic_accept:1 "§Y[From.GetName]§!은/는 진신된 신앙을 믿도록 강요받습니다"
+  wg_crusade_against_the_heretic_accept_2:0 "§Y[From.GetRulerTitle] [From.GetRulerName]§!은/는 퇴위를 강요받습니다.\n"
+  wg_crusade_against_the_heretic_accept_3:0 "§Y[From.GetName]§!은/는 그들의 연방을 떠나도록 강요받습니다."

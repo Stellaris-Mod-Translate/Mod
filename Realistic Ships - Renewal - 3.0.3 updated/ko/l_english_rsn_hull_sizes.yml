@@ -1,0 +1,22 @@
+﻿l_english:
+ #########################################
+ # Hull Sizes                            #  
+ #########################################
+ RS_SUPPORT_CRUISER:0 "지원 순양함"
+ rs_support_cruiser:0 "지원 순양함"
+ rs_support_cruiser_plural:0 "지원 순양함"
+ RS_EA_CRUISER:0 "전자전 순양함"
+ rs_ea_cruiser:0 "전자전 순양함"
+ rs_ea_cruiser_plural:0 "전자전 순양함"
+ RS_BATTLECRUISER:0 "전투순양함"
+ rs_battlecruiser:0 "전투순양함"
+ rs_battlecruiser_plural:0 "전투순양함"
+ RS_DREADNOUGHT:0 "드레드노트"
+ rs_dreadnought:0 "드레드노트"
+ rs_dreadnought_plural:0 "드레드노트"
+ RS_CARRIER:0 "항공모함"
+ rs_carrier:0 "항공모함"
+ rs_carrier_plural:0 "항공모함"
+ RS_HEAVY_DREADNOUGHT:0 "헤비 드레드노트"
+ rs_heavy_dreadnought:0 "헤비 드레드노트"
+ rs_heavy_dreadnought_plural:0 "헤비 드레드노트"
