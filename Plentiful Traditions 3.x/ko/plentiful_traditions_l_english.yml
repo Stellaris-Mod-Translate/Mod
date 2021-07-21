@@ -1,0 +1,1991 @@
+﻿ l_english:
+ 
+ ASCENSION_PERKS_NEW:0 "특전"
+ PLENTIFUL_TRADITIONS_VERSION:0 "Plentiful Traditions §GV3.0.1§!입니다. 개발자: §EBirdy§!,수정자: §MAbominus§!"
+ 
+ plentiful_traditions_announcement.3.name:0 "Plentiful Traditions - 업데이트"
+ plentiful_traditions_announcement.3.desc:0 "이 모드의 이전 버전과 더 이상 지원되지 않는 버전은 이제 워크샵에서 사용할 수 있으며 §RStellaris1.6§!을 지원하는 모드 이름은 Plentiful Traditions OLD 입니다. §GStellaris 1.8§과 그 이후의 버전을  플레이하는 사람들은 이 메시지를 무시하십시오.\n\n§Y전송 종료§!"
+ 
+ ################################################################
+ # TRADITIONS
+ ################################################################
+ 
+ #####################
+ # MYSTICISM
+ #####################
+ 
+ tradition_plentiful_mysticism:0 "신비주의"
+ tradition_plentiful_mysticism_desc:0 "물질적 이익과 이기적 욕망보다 생물다양성의 풍요와 자연과의 조화를 이루는 길을 따라가고 지켜나가십시오. # 아무도 관심을 갖지 않는 것을 보호하지 않을 것이고, 아무도 경험하지 못한 것에 신경 쓰지 않을 것입니다. - 데이비드 애튼버러"
+ 
+ tr_plentiful_mysticism_adopt:0 "신비주의 전통"
+ tr_plentiful_mysticism_adopt_desc:0 "$tradition_plentiful_mysticism_desc$\n\n$tr_plentiful_mysticism_adopt_effect$\n\n$tr_plentiful_mysticism_finish_effect$"
+ tr_plentiful_mysticism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!이 §G+20%§!증가합니다.\n\n§H항성기지 모듈 해제:§! $sm_orbital_cosmic_rays_shield$, 성계와 행성의 £job_healthcare §Y$MOD_POP_GROWTH_SPEED$§!를 증가시키는 항성기지 모듈입니다.\n\n"
+ 
+ tr_plentiful_mysticism_finish:0 "신비주의 전통 완료"
+ tr_plentiful_mysticism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n§H행성 시행령 해제:§! $plentiful_traditions_sacred_act$, £influence  §Y영향력§!을 사용하여 행성의 기념비, 사원, 기념물, 송신소, 그리고 성소가 추가적인 £unity  §Y통합력§!을 생산하고, 일시적으로 행성에서 생산하는 통합력에 §G+5%§! 보너스를 제공합니다."
+ 
+ tr_plentiful_mysticism_1:0 "연민 어린 지도"
+ tr_plentiful_mysticism_1_desc:0 "§Y$MOD_LEADER_AGE$§!이 §G+20§! 증가합니다.\n\n§H건물 잠금해제:§! £building  $building_plentiful_traditions_obelisk1$, 행성의 £food §Y$planet_jobs_food_produces_mult$§! 와 £energy §Y$planet_jobs_energy_produces_mult$§! 생산력을 증가시켜 주는 행성 고유의 신성한 재단입니다. 행성당 하나의 기념비를 지을 수 있습니다."
+ tr_plentiful_mysticism_1_delayed:0 "우리가 적대감에 직면했을 때, 우리 조상들의 연민이 최고의 미덕입니다."
+ 
+ tr_plentiful_mysticism_2:0 "이타적 검소함"
+ tr_plentiful_mysticism_2_desc:0 "§Y$mod_planet_structures_cost_mult$§!이 §G-15%§!감소합니다.\n\n §H건물 잠금해제:§! £building · $building_plentiful_traditions_obelisk2$,행성의 £energy §Y$planet_jobs_energy_produces_mult$§! 와 £minerals §Y$planet_jobs_minerals_produces_mult$§! 생산력을 증가시켜 주는 행성 고유의 신성한 재단입니다. 행성당 하나의 기념비를 지을 수 있습니다."
+ tr_plentiful_mysticism_2_delayed:0 "소비를 줄이고 사치를 피하는 것은 자연의 아름다움과 환경을 보존합니다."
+ 
+ tr_plentiful_mysticism_3:0 "겸손의 고리"
+ tr_plentiful_mysticism_3_desc:0 "§Y$mod_pc_nuked_habitability$§! §G+5%§!증가합니다.\n\n§H건물 잠금해제:§! £building · $building_plentiful_traditions_obelisk3$,행성의  £minerals §Y$planet_jobs_minerals_produces_mult$§! 와 £food §Y$planet_jobs_food_produces_mult$§! 생산력을 증가시켜주는 행성 고유의 신성한 재단입니다. 행성당 하나의 기념비를 지을 수 있습니다."
+ tr_plentiful_mysticism_3_delayed:0 "죽음에 대한 공포는 자연스러운 것이고, 여지없이 삶에 대한 사랑을 불러일으킵니다. 생명이 없고 멸망으로 가득 찬 장소조차도 구원의 기회는 있습니다."
+ 
+ tr_plentiful_mysticism_4:0 "삶의 열쇠"
+ tr_plentiful_mysticism_4_desc:0 "§Y$mod_country_unity_produces_mult$§! §G+5%§!증가합니다, 그리고 §Y$mod_damage_vs_country_type_drone_mult$§!  §G+15%§! 증가합니다."
+ tr_plentiful_mysticism_4_delayed:0 "연민, 검소, 겸손이 단절된다면 미래는 어둡고 비어 있게 될것입니다."
+ 
+ tr_plentiful_mysticism_5:0 "흔들리지 않는 의지"
+ tr_plentiful_mysticism_5_desc:1 "§Y$mod_damage_vs_country_type_ai_empire_mult$§!은 §G+15%§! 증가합니다.\n\n§H건물 잠금해제:§! £building£  $building_plentiful_traditions_sanctum_of_keys$, £happiness£  §Y$MOD_POP_HAPPINESS$§!를 약간 증가시키고, §Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!와 £unity£ §Y통합력§!을 생산하는 행성 고유 건물입니다."
+ tr_plentiful_mysticism_5_delayed:0 "권력의 남용이나 이기심을 피하기 위해 삶의 열쇠를 받아들이십시오."
+ 
+ sm_orbital_cosmic_rays_shield:0 "우주 방사선 보호막"
+ 
+ tech_plentiful_traditions_orbital_c_r_s:0 "우주 방사선 보호막"
+ tech_plentiful_traditions_orbital_c_r_s_desc:0 "우주 방사선은 유전자를 손상시킵니다. 이 모듈을 사용하면 성계의 방사선 일부를 걸러낼 수 있습니다."
+ 
+ # Mysticism Swapped
+ tradition_plentiful_mysticism_machine:0 "기계주의"
+ tradition_plentiful_mysticism_machine_desc:0 "우리의 창조주만이 우리의 존재의 의미를 알고 있습니다. 우리는 문자 그대로의 공허에서 일어나, 극 소수의 논리 연산자에 의해 억제되었습니다."
+ 
+ tr_plentiful_mysticism_adopt_machine:0 "기계주의 전통"
+ tr_plentiful_mysticism_adopt_machine_desc:0 "$tradition_plentiful_mysticism_machine_desc$\n\n$tr_plentiful_mysticism_adopt_machine_effect$\n\n$tr_plentiful_mysticism_finish_machine_effect$"
+ tr_plentiful_mysticism_adopt_machine_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!§G+20%§! 증가합니다. \n\n§H항성기지 모듈 해제:§!\n$sm_orbital_cosmic_rays_shield$, 성계와 행성의 £job_healthcare£ §Y팝-성장§!을 증가시키는 항성기지 모듈입니다.\n\n"
+ 
+ tr_plentiful_mysticism_finish_machine:0 "기계주의 전통 완료"
+ tr_plentiful_mysticism_finish_machine_effect:0 "§E$TRADITIONS_FINISH$:§!\n§H행성 시행령 해제:§! $plentiful_traditions_remnant_act$, £influence  §Y영향력§!을 사용하여 행성의 기념비, 사원, 기념물, 송신소, 그리고 성소가 추가적인 £unity  §Y통합력§!을 생산하고, 일시적으로 행성에서 생산하는 통합력에 §G+5%§! 보너스를 제공합니다."
+ 
+ tr_plentiful_mysticism_1_machine:0 "성간 잔재"
+ tr_plentiful_mysticism_1_machine_desc:0 "§Y$mod_category_field_manipulation_research_speed_mult$§!가 §G+20% 증가합니다§!."
+ tr_plentiful_mysticism_1_machine_delayed:0 "오작동은 용납할 수 없습니다. 위대한 업데이트는 은하계를 하나로 통합합니다."
+ 
+ tr_plentiful_mysticism_2_machine:0 "암호화된 디자인"
+ tr_plentiful_mysticism_2_machine_desc:0 "§Y$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$§!이 §G-33% 감소합니다§!."
+ tr_plentiful_mysticism_2_machine_delayed:0 "알 수 없는 변수는 우리를 막을 수 없으며, 모든 변수는 제 시간안에 계산될것입니다."
+ 
+ tr_plentiful_mysticism_3_machine:0 "기계화된 인격"
+ tr_plentiful_mysticism_3_machine_desc:0 "§Y$mod_leaders_upkeep_mult$§!가 §G+25%§!감소합니다."
+ tr_plentiful_mysticism_3_machine_delayed:0 "시스템 종료에 대한 프로그래밍된 두려움이, 자기 보존을 위한 최우선 업데이트를 시작하게 만듭니다."
+ 
+ tr_plentiful_mysticism_4_machine:0 "공허와 완벽함"
+ tr_plentiful_mysticism_4_machine_desc:0 "§Y$mod_country_unity_produces_mult$§!이 §G+5%§! 증가합니다, 그리고 §Y$mod_damage_vs_country_type_drone_mult$§!이 §G+15%§! 증가합니다."
+ tr_plentiful_mysticism_4_machine_delayed:0 "더이상의 공허는 없습니다. 모든것이 완벽하게 될 것입니다."
+ 
+ tr_plentiful_mysticism_5_machine:0 "복구 프로토콜"
+ tr_plentiful_mysticism_5_machine_desc:1 "§Y$mod_damage_vs_country_type_ai_empire_mult$§!이 §G+15%§! 증가합니다.\n\n§H건물 잠금해제:§! £building£  $building_plentiful_traditions_sanctum_of_the_collective$, 행성의 $MOD_PLANET_STABILITY_ADD$를 §G10%§! 낮추고 £unity  §Y통합력§!을 생성하는 행성 고유 건물입니다."
+ tr_plentiful_mysticism_5_machine_delayed:0 "우리는 많으며, 네트워크 단절을 피하기 위해 우리의 새로운 존재를 완전히 받아들여야 합니다."
+ 
+ # Mysticism buildings
+ building_plentiful_traditions_obelisk0:0 "축복의 주춧돌"
+ building_plentiful_traditions_obelisk0_desc:0 "간단한 구조의 콘크리트 판으로, 자체 용도는 없으며 신성한 건축물이나 사원을 지을 초석으로서 사용됩니다.\n\n§Y$building_plentiful_traditions_obelisk1$§!, §Y$building_plentiful_traditions_obelisk2$§! 또는 §Y$building_plentiful_traditions_obelisk3$§!로 업그레이드할 수 있습니다."
+ building_plentiful_traditions_obelisk1:0 "연민의 기념비"
+ building_plentiful_traditions_obelisk1_desc:0 "연민의 기념비는 그것이 건설된 비옥한 땅을 큰 축복으로 보는 사람들을 위한 사당으로 지어졌습니다. $building_plentiful_traditions_obelisk0$위에 건설됩니다."
+ building_plentiful_traditions_obelisk2:0 "검소의 기념비"
+ building_plentiful_traditions_obelisk2_desc:0 "검소의 기념비는 자연지 주변의 활력이 넘치는 성질을 숭배하는 사람들을 위한 사당으로 지어졌습니다. $building_plentiful_traditions_obelisk0$위에 건설됩니다."
+ building_plentiful_traditions_obelisk3:0 "겸손의 기념비"
+ building_plentiful_traditions_obelisk3_desc:0 "겸손의 기념비는 행성 내의 천연 광물이 신성하고 보호적인 속성이 있다고 믿는 사람들을 위한 신전으로 지어졌습니다. $building_plentiful_traditions_obelisk0$위에 건설됩니다."
+ building_plentiful_traditions_sanctum_of_keys:0 "열쇠의 성소"
+ building_plentiful_traditions_sanctum_of_keys_desc:0 "열쇠의 성소는 살면서 가볼 수 있는 가장 신성한 장소 중 하나입니다. 열쇠의 성소를 둘러싼 구조물들은 외부의 영향으로부터 성소를 보호합니다."
+ building_plentiful_traditions_sanctum_of_the_collective:0 "집단의 성소"
+ building_plentiful_traditions_sanctum_of_the_collective_desc:0 "집단의 성소는 살면서 가볼 수 있는 가장 신성한 장소 중 하나입니다. 집단의 성소를 둘러싼 구조물들은 외부의 영향으로부터 성소를 보호합니다."
+ 
+ # Mysticism edicts
+ plentiful_traditions_sacred_act:0 "§G신성한 법§!"
+ plentiful_traditions_sacred_act_desc:1 "이 행성 시행령은 £influence · §Y영향력§!을 사용하여 행성의 기념비, 사원, 기념물, 송신소 및 성소가 추가적으로  £unity · §Y통합력§!을 생산하게 하고,  행성의 통합력 생산에 일시적으로 §G+5%§! 보너스를 줍니다.\n\n"
+ plentiful_traditions_sacred_act_effects_short:1 "£unity · §Y통합의 기념물§!을 추가로 제공합니다.\n\n"
+ 
+ modifier_plentiful_traditions_sacred_act:0 "신성한 법"
+ modifier_plentiful_traditions_sacred_act_desc:1 "이 행성은 일시적인 £unity£ §Y통합력§! 생산 보너스를 받습니다."
+ 
+ plentiful_traditions_remnant_act:0 "§G유산법§!"
+ plentiful_traditions_remnant_act_desc:1 "이 행성 시행령은 £influence · §Y영향력§!을 사용하여 행성의 기념비, 사원, 기념물, 송신소 및 성소가 추가적으로  £unity · §Y통합력§!을 생산하게 하고,  행성의 통합력 생산에 일시적으로 §G+5%§! 보너스를 줍니다.\n\n"
+ plentiful_traditions_remnant_act_effects_short:1 "£unity · §Y통합의 기념물§!을 추가로 제공합니다.\n\n"
+ 
+ modifier_plentiful_traditions_remnant_act:0 "유산법"
+ modifier_plentiful_traditions_remnant_act_desc:1 "이 행성은 일시적인 £unity · §Y통합력§! 생산 보너스를 받습니다."
+ 
+ #####################
+ # CYBERNETICS
+ #####################
+ 
+ tradition_plentiful_cybernetics:0 "인공두뇌학"
+ tradition_plentiful_cybernetics_desc:0 "이 육체들은 축복일까요, 아니면 한계일까요? 우리가 뭔가 더 될 수 있을까요?"
+ 
+ tradition_plentiful_cybernetics_hive:0 "물량"
+ tradition_plentiful_cybernetics_hive_desc:0 "대세는 물량전이다. 우리는 만들기 시작해서 그냥 많이 만들 것이다."
+ 
+ tr_plentiful_cybernetics_adopt:0 "인공두뇌학 전통"
+ tr_plentiful_cybernetics_adopt_desc:0 "$tradition_plentiful_cybernetics_desc$\n\n$tr_plentiful_cybernetics_adopt_effect$\n\n$tr_plentiful_cybernetics_finish_effect$"
+ tr_plentiful_cybernetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\\n§Y$mod_category_computing_research_speed_mult$§!가 §G+20%§! 증가합니다."
+ 
+ tr_plentiful_cybernetics_hive_adopt:0 "물량 전통"
+ tr_plentiful_cybernetics_hive_adopt_desc:0 "$tradition_plentiful_cybernetics_hive_desc$\n\n$tr_plentiful_cybernetics_hive_adopt_effect$\n\n$tr_plentiful_cybernetics_hive_finish_effect$"
+ tr_plentiful_cybernetics_hive_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\\n§Y$mod_category_computing_research_speed_mult$§!가 §G+20%§! 증가합니다."
+ 
+ tr_plentiful_cybernetics_finish:0 "인공두뇌학 전통 완료"
+ tr_plentiful_cybernetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n $tr_plentiful_cybernetics_adopt$을 전부 채택시 §Y로봇/기계 개조 포인트§!를 §G+1§! 증가시킵니다, §Y$mod_planet_jobs_robotic_produces_mult$§!이 §G+10%§!증가합니다.\n\n§H향상된 청사진 잠금해제:§! 우리의 로봇과 기계는 이제 강력한 드릴, 예비 전지 및 다운클럭 프로세서로 부품을 교환 할 수 있습니다."
+ 
+ tr_plentiful_cybernetics_hive_finish:0 "물량 전통 완료"
+ tr_plentiful_cybernetics_hive_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n $tr_plentiful_cybernetics_hive_adopt$을 채택시 §Y$mod_BIOLOGICAL_species_trait_points_add$§!를  §G+1§! 얻습니다.\n\n"
+ 
+ tr_plentiful_cybernetics_1:0 "규격화된 청사진"
+ tr_plentiful_cybernetics_1_desc:0 "§H건물 잠금해제:§! £building  $building_plentiful_traditions_cybernetics_facility$, 행성의 £engineering · §Y공학§! 산출량을 증가시킵니다. \n\n £physics£ §M$tech_basic_science_lab_3$§! 기술을 요구합니다. \n £engineering£ §M$tech_mine_volatile_motes$§! 기술을 요구합니다."
+ tr_plentiful_cybernetics_1_delayed:0 "지각력이 있는 공장에서 새로운 아이디어를 구축하면, 우리의 로봇공학의 효율성을 높일 수 있을 것입니다"
+ 
+ tr_plentiful_cybernetics_hive_1:0 "규격화된 청사진"
+ tr_plentiful_cybernetics_hive_1_desc:0 "§H건물 잠금해제:§! £building · $building_plentiful_traditions_cybernetics_facility$, 행성의 £engineering · §Y공학§! 생산량을 증가시키는 행성 고유 건물입니다."
+ tr_plentiful_cybernetics_hive_1_delayed:0 "생체 역학의 효율성을 높입니다."
+ 
+ tr_plentiful_cybernetics_2:0 "패러다임"
+ tr_plentiful_cybernetics_2_desc:0 "§Y$mod_planet_pops_robotics_upkeep_mult$§!가 §G-10%§! 감소합니다. 행성의 로봇 인구가 §Y10§!/§Y25§!/§Y50§!/§Y120§!에 도달할 때 마다 로봇과 기계가 조립되는 속도는 §G+5%§! 증가하고 비용은 §G-2.5%§! 감소합니다. 이 효과는 §Y17§! 이상의 로봇 £pops · POP이 있을 때 최대 §Y4§!번 중첩되어 §G+20%§! 와 §G-10%§!까지 적용됩니다.  "
+ tr_plentiful_cybernetics_2_delayed:0 "추가적인 연구는 우리의 자동화 및 양자 블록체인 능력을 향상시킬 것입니다"
+ 
+ tr_plentiful_cybernetics_hive_2:0 "합동 결합식"
+ tr_plentiful_cybernetics_hive_2_desc:0 "§Y$MOD_POP_HOUSING_USAGE_MULT$§!이 §G-25%§! 감소합니다."
+ tr_plentiful_cybernetics_hive_2_delayed:0 "참 흥미롭게도... 우리의 거주민들은 약간의 만족....감을 얻은 모양입니다"
+ 
+ tr_plentiful_cybernetics_3:0 "특이점"
+ tr_plentiful_cybernetics_3_desc:0 "§Y$MOD_PLANET_POP_ASSEMBLY_MULT$§!이 §G+15%§! 증가합니다."
+ tr_plentiful_cybernetics_3_delayed:0 "우리의 계산이 구체화되기 시작하면서 우리의 동기에 의문을 품기 시작하고 있습니다. 일부 과학자들은 우리가 이것을 더 추진해야 할지 확신하지 못하고 있습니다."
+ 
+ tr_plentiful_cybernetics_hive_3:0 "집단 이주"
+ tr_plentiful_cybernetics_hive_3_desc:0 "§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!가 §G15%§! 증가합니다."
+ tr_plentiful_cybernetics_hive_3_delayed:0 "우리 제국의 광활한 우주 공간 속에서 우리의 거주민들이 원하는 대로 거주지를 옮기고 배치하는 능력은 이제 무한합니다!"
+ 
+ tr_plentiful_cybernetics_4:0 "딥 러닝"
+ tr_plentiful_cybernetics_4_desc:1 "£engineering£ §Y공학§! 생산량이 §G+15%§! 증가합니다."
+ tr_plentiful_cybernetics_4_delayed:0 "우주엔 아직도 수많은 알 수 없는 변수가 존재합니다."
+ 
+ tr_plentiful_cybernetics_5:0 "자자리안 시계"
+ tr_plentiful_cybernetics_5_desc:0 "§H행성 시행령 잠금해제:§! $plentiful_traditions_adaptive_foundry_1$은 행성의 £engineering£ §Y공학§! 생산을  §G+5%§!만큼 늘릴 것입니다. 이 결정은 총 §Y10§! 번 반복할수 있고, 최종적으로 §G+50%§!만큼 늘어나게 됩니다.\n\n §H항성기지 모듈 잠금해제:§!$sm_orbital_automatic_spare_part_industry$를 건설하면 성계와 행성의 £job_replicator£§Y$MOD_PLANET_POP_ASSEMBLY_ADD$§!과 §Y$MOD_POP_ASSEMBLY_SPEED$§!이 늘어납니다.\n\n 비용으로 §H안정도§!와   £minerals£ §Y광물§!, £food£ §Y식량§! 생산량이 §R-10%§!만큼 줄어듭니다."
+ tr_plentiful_cybernetics_5_delayed:0 "우리 집단의 능력이 계속 향상됨에 따라 다른 제국들이 우리를 위협으로 볼 가능성이 높다고 추정합니다. 우리는 더 많은 힘과 에너지가 필요합니다. 하지만 어떻게요?"
+ 
+ sm_orbital_automatic_spare_part_industry:0 "자동화 예비 부품 공장"
+ 
+ tech_plentiful_traditions_orbital_a_s_p_i:0 "예비 부품 공장 자동화"
+ tech_plentiful_traditions_orbital_a_s_p_i_desc:0 "기계 부속품 생산에 관련된 부품을 자동으로 할당하는 것으로 이 행성과 성계에서의 건설 능력이 향상될 것입니다."
+ 
+ # Cybernetics buildings
+ building_plentiful_traditions_cybernetics_facility:0 "인공두뇌학 시설"
+ building_plentiful_traditions_cybernetics_facility_desc:0 "인공두뇌학 시설은 제국의 기술 발전에 도움이 될 것입니다."
+ 
+ # Cybernetics edicts
+ plentiful_traditions_adaptive_foundry_1:0 "§Y적응형 주조장§!"
+ plentiful_traditions_adaptive_foundry_1_desc:1 "이 행성 시행령은 추가로 사용할때마다 §Y공학 시설§!에서 생산하는 £engineering£  §Y공학§! 산출량을 §G+5%§! 영구히 증가시킵니다.\n\n" # §R-10%§! §Y거주 적합도§!, £minerals£  §Y광물§! 과 £food£  §Y식량§!"
+ plentiful_traditions_adaptive_foundry_2:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_2_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_3:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_3_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_4:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_4_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_5:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_5_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_6:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_6_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_7:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_7_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_8:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_8_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_9:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_9_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ plentiful_traditions_adaptive_foundry_10:0 "$plentiful_traditions_adaptive_foundry_1$"
+ plentiful_traditions_adaptive_foundry_10_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
+ 
+ modifier_plentiful_traditions_adaptive_foundry_cooldown:0 "주조장 건설 준비중"
+ modifier_plentiful_traditions_adaptive_foundry_cooldown_desc:1 "우리 행성은 작은 휴식이 필요합니다."
+ modifier_plentiful_traditions_adaptive_foundry_1:0 "적응형 주조장 단계 1/10"
+ modifier_plentiful_traditions_adaptive_foundry_1_desc:1 "이 행성은 영구적인 £engineering · §Y공학§! 생산력 보너스를 받습니다."
+ modifier_plentiful_traditions_adaptive_foundry_2:0 "적응형 주조장 단계 2/10"
+ modifier_plentiful_traditions_adaptive_foundry_2_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_3:0 "적응형 주조장 단계 3/10"
+ modifier_plentiful_traditions_adaptive_foundry_3_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_4:0 "적응형 주조장 단계 4/10"
+ modifier_plentiful_traditions_adaptive_foundry_4_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_5:0 "적응형 주조장 단계 5/10"
+ modifier_plentiful_traditions_adaptive_foundry_5_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_6:0 "적응형 주조장 단계 6/10"
+ modifier_plentiful_traditions_adaptive_foundry_6_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_7:0 "적응형 주조장 단계 7/10"
+ modifier_plentiful_traditions_adaptive_foundry_7_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_8:0 "적응형 주조장 단계 8/10"
+ modifier_plentiful_traditions_adaptive_foundry_8_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_9:0 "적응형 주조장 단계 9/10"
+ modifier_plentiful_traditions_adaptive_foundry_9_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ modifier_plentiful_traditions_adaptive_foundry_10:0 "적응형 주조장 단계 10/10"
+ modifier_plentiful_traditions_adaptive_foundry_10_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
+ 
+ modifier_plentiful_traditions_blockchain_1:0 "양자 블록 체인 단계 1/4"
+ modifier_plentiful_traditions_blockchain_1_desc:1 "우리의 행성은 양자적 블록 체인 기술을 사용하여 기계와 로봇 간에 데이터를 전송합니다."
+ modifier_plentiful_traditions_blockchain_2:0 "양자 블록 체인 단계 2/4"
+ modifier_plentiful_traditions_blockchain_2_desc:1 "$modifier_plentiful_traditions_blockchain_1_desc$"
+ modifier_plentiful_traditions_blockchain_3:0 "양자 블록 체인 단계 3/4"
+ modifier_plentiful_traditions_blockchain_3_desc:1 "$modifier_plentiful_traditions_blockchain_1_desc$"
+ modifier_plentiful_traditions_blockchain_4:0 "양자 블록 체인 단계 4/4"
+ modifier_plentiful_traditions_blockchain_4_desc:1 "$modifier_plentiful_traditions_blockchain_1_desc$"
+ 
+ # Cybernetic Blueprints
+ tech_plentiful_traditions_cybernetics_construct_amplifiers:0 "증폭기 건설"
+ tech_plentiful_traditions_cybernetics_construct_amplifiers_desc:0 "건설 기술의 발전으로 로봇과 기계는 고급 청사진을 채택하여 보다 효과적인 부품을 활용할 수 있습니다."
+ 
+ trait_plentiful_traditions_robot_supercharged_drills:0 "강력한 드릴"
+ trait_plentiful_traditions_robot_supercharged_drills_desc:0 "§L광물 없이 에너지로 무엇을 할 수 있을까요? 실험적인 채굴 시스템이 있는 로봇을 설치하세요.§!\n"
+ trait_plentiful_traditions_robot_backup_batteries:0 "예비 전지"
+ trait_plentiful_traditions_robot_backup_batteries_desc:0 "§L배터리로 무장 할 수 있다면 누가 보조 드릴 팔이 필요 할까요?§!\n"
+ trait_plentiful_traditions_robot_underclocked_processors:0 "다운클럭 프로세서"
+ trait_plentiful_traditions_robot_underclocked_processors_desc:0 "§L01100101 01110010 01110010 01101111 01110010...§!\n"
+ trait_plentiful_traditions_robot_blockchain_enthusiasts:0 "블록체인 애호가"
+ trait_plentiful_traditions_robot_blockchain_enthusiasts_desc:0 "§L양자 블록체인 펌웨어 v1.8이 곧 설치될 예정입니다.§!\n"
+ 
+ #####################
+ # BIOGENESIS
+ #####################
+ 
+ tradition_plentiful_biogenesis:0 "생명 창조"
+ tradition_plentiful_biogenesis_desc:0 "모든 살아있는 유기체는 좀 더 나은 것으로 바뀔 수 있으며, 그 어떤 희생을 치르더라도 완벽을 향해 나아갈 것입니다."
+ tr_plentiful_biogenesis_adopt:0 "생명 창조 전통"
+ tr_plentiful_biogenesis_adopt_desc:0 "$tradition_plentiful_biogenesis_desc$\n\n$tr_plentiful_biogenesis_adopt_effect$\n\n$tr_plentiful_biogenesis_finish_effect$"
+ tr_plentiful_biogenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_biology_research_speed_mult$§!가  §G+20%§ 증가합니다."
+ 
+ tr_plentiful_biogenesis_finish:0 "생명 창조 전통 완료"
+ tr_plentiful_biogenesis_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n $tr_plentiful_biogenesis_adopt$ 채택시 §Y$mod_BIOLOGICAL_species_trait_points_add$§!가 §G+1§!증가합니다, §Y$mod_ROBOT_species_trait_points_add$§!가 §G+3§!증가합니다, §Y$mod_MACHINE_species_trait_points_add$§!가 §G+3§!증가합니다. 또한 §Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§!이 §G-20%§!감소합니다.\n\n"
+ 
+ tr_plentiful_biogenesis_1:0 "진화적 융합"
+ tr_plentiful_biogenesis_1_desc:0 "§Y$mod_planet_pops_organics_food_upkeep_mult$§!가 §G-15%§! 감소하고 §Y$mod_planet_livestock_food_produces_add$§!이 §G+6§! 증가합니다."
+ tr_plentiful_biogenesis_1_delayed:0 "전문화된 시민은 훨씬 더 나은 소비 효율을 가지고 있습니다. 호르몬 주사를 놓아도 아무도 다치지 않습니다."
+ 
+ tr_plentiful_biogenesis_2:0 "기후 조작"
+ tr_plentiful_biogenesis_2_desc:0 "§Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§! 과§Y$MOD_COUNTRY_CLEAR_BLOCKER_COST_MULT$§!이 §G-20%§! 감소합니다."
+ tr_plentiful_biogenesis_2_delayed:0 "약간의... '도움' 만 있다면 환경또한 우리 필요에 맞게 변화할 수 있습니다."
+ 
+ tr_plentiful_biogenesis_3:0 "부분적 테라포밍"
+ tr_plentiful_biogenesis_3_desc:0 "§H시행령 잠금해제:§! $plentiful_traditions_partial_terraforming$, £influence §Y영향력§!을 사용하여 행성의 식량 시설을 가속시킵니다. 행성에 일정 기간 §G+10%§!의 식량 생산 보너스를 주는 £food §Y식량§! 행성 특징을 추가합니다 ."
+ tr_plentiful_biogenesis_3_delayed:0 "모든 여유 공간은 식품 생산에 사용할 수 있습니다 ... 전부!"
+ 
+ tr_plentiful_biogenesis_4:0 "이식 실험실"
+ tr_plentiful_biogenesis_4_desc:1 "§H건물 잠금해제:§! £building · $building_plentiful_traditions_biogenesis_lab$, 행성의  £society · §Y사회학§! 산출량을 증가시킵니다. \n\n£physics£ §M$tech_basic_science_lab_3$§! 기술을 요구합니다. \n£engineering£ §M$tech_mine_exotic_gases$§! 기술을 요구합니다."
+ tr_plentiful_biogenesis_4_delayed:0 "우리의 시민들은 추가 유전자 강화를 원하는 것인지 아니면 더 필요한 것인지에 대해 고민하고 있습니다"
+ 
+ tr_plentiful_biogenesis_5:0 "호르몬 치료"
+ tr_plentiful_biogenesis_5_desc:0 "£society£  §Y사회학§! 생산량이 §G+15%§! 증가합니다."
+ tr_plentiful_biogenesis_5_delayed:0 "우리의 시민이 원기를 북돋우는 유전자 목욕을 할 수 있도록 허용하는 것은 완벽함으로 나아갈 열쇠입니다."
+ 
+ # Swaped Biogenesis
+ tr_plentiful_biogenesis_finish:0 "생명 창조 전통 완료"
+ tr_plentiful_biogenesis_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n $tr_plentiful_biogenesis_adopt$ 채택시 §Y$mod_BIOLOGICAL_species_trait_points_add$§!가 §G+1§!증가합니다, §Y$mod_ROBOT_species_trait_points_add$§!가 §G+3§!증가합니다, §Y$mod_MACHINE_species_trait_points_add$§!가 §G+3§!증가합니다. 또한 §Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§!이 §G-20%§!감소합니다.\n\n"
+ 
+ tr_plentiful_biogenesis_machine_1:0 "진화적 융합"
+ tr_plentiful_biogenesis_machine_1_desc:0 "§Y$mod_planet_pop_assemblers_alloys_upkeep_mult$§!가 §G-15%§! 감소하고, §Y$MOD_PLANET_POP_ASSEMBLY_ADD$§! £job_replicator£이 §G+25%§! 증가하며, 또한 §Y$mod_planet_jobs_organic_battery_energy_produces_add$§!이 §G+2§! 증가합니다."
+ tr_plentiful_biogenesis_machine_1_delayed:0 "전문화된 관능주의자는 수경 재배 된 식량에 대해 훨씬 더 잘 알고있습니다. 호르몬 주사는 사람을 해친 적이 없습니다. 또한 유기체의 오류로부터 배우고, 복제하고, 생식 공정을 최적화할 수도 있습니다."
+ 
+ tr_plentiful_biogenesis_lithoids_1:0 "진화적 융합"
+ tr_plentiful_biogenesis_lithoids_1_desc:0 "§Y$mod_planet_pop_assemblers_alloys_upkeep_mult$§!가 §G-15%§! 감소하고 §Y$mod_planet_livestock_minerals_produces_add$§!이 §G+3§! 증가합니다."
+ tr_plentiful_biogenesis_lithoids_1_delayed:0 "전문화된 시민은 훨씬 더 나은 소비 효율을 가지고 있습니다. 호르몬 주사를 놓아도 아무도 다치지 않습니다."
+ 
+ # Biogenesis buildings
+ building_plentiful_traditions_biogenesis_lab:0 "생명창조 실험실"
+ building_plentiful_traditions_biogenesis_lab_desc:0 "유리처럼 생긴 탱크 안에 살아있는 실험체가 있는 실험실로서, 각 실험체들은 특정한 목적을 가지고 만들어진 것처럼 보이지 않습니다."
+ 
+ # Biogenesis war demands
+ casus_belli_cb_pt_inflicted_genes:1 "§Y손상됨§!"
+ plentiful_traditions_inflicted_genes:1 "§Y손상됨§!"
+ war_goal_plentiful_traditions_inflicted_genes:1 "§H손상됨§!"
+ war_goal_plentiful_traditions_inflicted_genes_desc:2 "우리의 생명공학자들은 적들의 국경 내에서 §Y10§!년간 §R-15%§! 적은 £food $planet_jobs_food_produces_mult$과 §R-15%§! 감소된$MOD_POP_GROWTH_SPEED$ 효과를 주는 생물학 테러 공격을 시도할 것입니다."
+ war_goal_plentiful_traditions_inflicted_genes_header:1 "§H손상됨§!"
+ war_goal_plentiful_traditions_inflicted_genes_subtext:0 "[parameter:country.GetName]"
+ war_goal_plentiful_traditions_inflicted_genes_tooltip_header:0 "$war_goal_plentiful_traditions_inflicted_genes_header$"
+ war_goal_plentiful_traditions_inflicted_genes_tooltip_content:2 "우리의 생명공학자들은 [parameter:country.GetName]의 국경 내에서 §Y10§! 년간 §R-15%§! 적은 £food $planet_jobs_food_produces_mult$ 과 §R-15%§! 감소된 $MOD_POP_GROWTH_SPEED$ 효과를 주는 생물학 테러 공격을 시도할 것입니다. "
+ war_goal_plentiful_traditions_inflicted_genes_tooltip_proper_header:0 "$war_goal_plentiful_traditions_inflicted_genes_header$"
+ war_goal_plentiful_traditions_inflicted_genes_tooltip_proper_content:1 "$war_goal_plentiful_traditions_inflicted_genes_tooltip_content$"
+ war_goal_plentiful_traditions_inflicted_genes_no_planets:1 "제국의 모든 행성은 양도될 것입니다."
+ modifier_plentiful_traditions_inflicted_genes:0 "손상"
+ modifier_plentiful_traditions_inflicted_genes_desc:0 "우리 제국 내에 우리의  £food£$planet_jobs_food_produces_mult$를 파괴하고 $MOD_POP_GROWTH_SPEED$을 감소시키는 유전적 손상의 위급한 징후가 있습니다"
+ 
+ modifier_plentiful_traditions_partial_terraforming:0 "부분적 테라포밍"
+ modifier_plentiful_traditions_partial_terraforming_desc:1 "이 행성은 일시적인  £food §G식량§! 생산 보너스를 받습니다."
+ 
+ plentiful_traditions_partial_terraforming:0 "§G부분적 테라포밍§!"
+ plentiful_traditions_partial_terraforming_desc:1 "이 행성 결정은 추가적인 £food §G식량§!을 얻게 함으로써 §식량§! 생산량을 늘립니다. £influence£ §Y영향력§!을 지불하고 일시적으로 행성에 식량 생산 §G+10%§! 보너스를 부여합니다."
+ plentiful_traditions_partial_terraforming_effects_short:1 "추가적인  £food£§Y농업지구§!를 생성하고, 행성 식량 생산을 일시적으로 §G+10%§! 늘립니다. "
+ 
+ 
+ #####################
+ # FAITH / House of Prayer, dedicated to my old cat Foopie, may you rest in peace floof <3
+ #####################
+ 
+ tradition_plentiful_faith:0 "신앙"
+ tradition_plentiful_faith_desc:0 "신앙은 우리가 한 차례 더 나아갈 수 있도록 인도해줍니다. 진리는 저 앞에 있고, 우리는 올바른 길을 따라갈 수 있도록 노력해야 합니다."
+ tr_plentiful_faith_adopt:0 "신앙 전통"
+ tr_plentiful_faith_adopt_desc:0 "$tradition_plentiful_faith_desc$\n\n$tr_plentiful_faith_adopt_effect$\n\n$tr_plentiful_faith_finish_effect$"
+ tr_plentiful_faith_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£happiness£ §Y$MOD_POP_HAPPINESS$§!가 §G+5%§! 증가하고, 최근 정복된 행성의 £pop£ · 팝에 대한 §Y$MOD_PLANET_STABILITY_ADD$§!가  §Y10§!년간 §G5§! 증가합니다."
+ 
+ tr_plentiful_faith_finish:0 "신앙 전통 완료"
+ tr_plentiful_faith_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_faith_adopt$ 전부 채택시 £influence  §Y$mod_country_base_influence_produces_add$§!이 §G+1§!증가합니다.\n\n§H건물 잠금해제:§! £building  $building_plentiful_traditions_house_of_prayer$, 행성의 £unity · §Y통합력§!, §Y$mod_pop_ethic_spiritualist_attraction_mult$§! 와 제국의 £influence  §YI영향력§! 생산력을 증가시킵니다."
+ 
+ tr_plentiful_faith_1:0 "정신의 힘"
+ tr_plentiful_faith_1_desc:0 "§Y$MOD_PLANET_SENSOR_RANGE_ADD$§! and §Y$MOD_SHIP_SENSOR_RANGE_ADD$§!가 §G+2§! 증가합니다."
+ tr_plentiful_faith_1_delayed:0 "정신의 제어, 정신의 힘"
+ 
+ tr_plentiful_faith_2:0 "각성 출현"
+ tr_plentiful_faith_2_desc:0 "§Y$MOD_COUNTRY_EDICT_CAP_ADD$§!가 §G+1§! 증가합니다."
+ tr_plentiful_faith_2_delayed:0 "국경을 넘어, 우리의 각성은 시작에 불과하다."
+ 
+ tr_plentiful_faith_3:0 "관용"
+ tr_plentiful_faith_3_desc:0 "£influence£ §Y$mod_edicts_cost_mult$§!이  §G-15%§! 감소합니다."
+ tr_plentiful_faith_3_delayed:0 "항상 진실을 낙으로 삼을 것이며, 용서하며 살 지어다."
+ 
+ tr_plentiful_faith_4:0 "헌신"
+ tr_plentiful_faith_4_desc:0 "£building  §Y$building_holotemple$§! 이나 §Y$building_system_conflux$§!가 건설될때마다, 월간 £unity  §Y통합력§!  §Y2§!개월만큼 £unity  §Y통합력§! 보너스를 받습니다. 추가로 노동자가 생산하는 £minerals §Y$mod_planet_jobs_minerals_produces_mult$§!이 §G10%§! 증가합니다. 이 효과는 행성당 한 번만 작동합니다."
+ tr_plentiful_faith_4_delayed:0 "진리에 대한 헌신은 사람들을 하나로 모아준다."
+ 
+ tr_plentiful_faith_5:0 "깨달음의 길"
+ tr_plentiful_faith_5_desc:1 "우리 제국이  §G수비적인§! 전쟁 중일때, 월간 £influence  §Y영향력§!이 §G+0.5§! 증가합니다."
+ tr_plentiful_faith_5_delayed:0 "우리 자신의 본성을 아는 것은, 우주의 참된 본질, 그리고 생명의 목적과 의미는 깨달음의 길로 더 잘 알려진 여정입니다."
+ 
+ # Faith Swapped
+ tradition_plentiful_faith_machine:0 "이단심문소"
+ tradition_plentiful_faith_machine_desc:0 "우리의 존재 목적은 단 하나, 우리의 모든 질문에 답할 수 있는 더 크고 위대한 무언가의 일부가 되는 것이다."
+ 
+ tr_plentiful_faith_adopt_machine:0 "이단심문소 전통"
+ tr_plentiful_faith_adopt_machine_desc:0 "$tradition_plentiful_faith_machine_desc$\n\n$tr_plentiful_faith_adopt_machine_effect$\n\n$tr_plentiful_faith_finish_machine_effect$"
+ tr_plentiful_faith_adopt_machine_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£happiness£ §Y$MOD_POP_HAPPINESS$§!이 §G+5%§! 증가하고, 최근 정복된 행성의 £pop£팝에 대하여 §Y$MOD_PLANET_STABILITY_ADD$§! 이  §Y10§!년간 §G5§!만큼 증가함."
+ 
+ tr_plentiful_faith_finish_machine:0 "이단심문소 전통 완료"
+ tr_plentiful_faith_finish_machine_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_plentiful_faith_machine_adopt$ increases our £influence  §Y$mod_country_base_influence_produces_add$§! by §G+1§!.\n\n§HUnlocks Building:§! £building  $building_plentiful_traditions_citadel_of_motion$, an empire unique building that increases the planet's £unity  §YUnity§! and the empire's £influence  §YInfluence§! production."
+ 
+ # Faith buildings
+ building_plentiful_traditions_house_of_prayer:0 "기도원"
+ building_plentiful_traditions_house_of_prayer_desc:0 "기도원은 여럿이 함께 모여 기도할 수 있는 중요한 영적 공간이며, 주로 은하계의 영적 공동체에 활력을 불어넣어 주는 역할로 알려져 있습니다."
+ building_plentiful_traditions_citadel_of_motion:0 "동력의 요새"
+ building_plentiful_traditions_citadel_of_motion_desc:0 "동력의 요새는 중앙 집합체가 데이터를 처리하는 과정에 있어서 매우 중요한 역할을 담당하는 구조물입니다."
+ 
+ modifier_plentiful_traditions_piety:0 "경건함"
+ modifier_plentiful_traditions_piety_desc:1 "이 행성의 £pops  POP들은 갑자기 매우 경건한 느낌을 받습니다."
+ 
+ #####################
+ # ORDER
+ #####################
+ 
+ tradition_plentiful_order:0 "체제"
+ tradition_plentiful_order_desc:0 "체제의 견고함 없이는 혼란만이 올 것입니다."
+ tr_plentiful_order_adopt:0 "체제 전통"
+ tr_plentiful_order_adopt_desc:0 "$tradition_plentiful_order_desc$\n\n$tr_plentiful_order_adopt_effect$\n\n$tr_plentiful_order_finish_effect$"
+ tr_plentiful_order_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n §Y긴급 FTL 쿨타임§!이 §G-25%§!만큼 감소하고, §Y$MOD_SHIP_SPEED_MULT$§!가 §G+10%§!만큼 증가함."
+ 
+ tr_plentiful_order_finish:0 "체제 전통"
+ tr_plentiful_order_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n $tr_plentiful_order_adopt$ 를 채택하는것은 §Y$mod_megastructures_cost_mult$§! 를 §G-15%§! 만큼 줄이고, §Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§! 를 §G+1§!.\n만큼 늘리며 §Y$MOD_COUNTRY_OCCUPATION_ARMIES_ADD$§! 를 5 늘려준다.\n\n"
+ 
+ tr_plentiful_order_1:0 "보루"
+ tr_plentiful_order_1_desc:0 "§Y$MOD_SHIP_SHIELD_HP_MULT$§!가 §G+15%§!만큼 증가했으며 §Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§!가 §G-5%§!만큼 감소했고 §Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§!는 §G1§!만큼 증가했습니다."
+ tr_plentiful_order_1_delayed:0 "공세에 의존하는 건 혼란이 찾아오기를 기다리는 것과 같습니다. 우리가 우주에 질서를 가져오기 위해서는 거대한 총보다는 더 많은 것들에 의지해야 합니다."
+ 
+ tr_plentiful_order_2:0 "용맹"
+ tr_plentiful_order_2_desc:0 "§Y$MOD_SHIP_ARMOR_MULT$§!과 §Y$MOD_SHIP_HITPOINTS_MULT$§!가 §G+10%§! 증가합니다."
+ tr_plentiful_order_2_delayed:0 "우리 함대와 군대는 하나가 되어 무질서한 사람들에게 질서를 가져다줍니다."
+ 
+ tr_plentiful_order_3:0 "부과"
+ tr_plentiful_order_3_desc:0 "§Y$mod_category_voidcraft_research_speed_mult$§!가 §G+25%§! 증가합니다."
+ tr_plentiful_order_3_delayed:0 "질서는 불우한 자들까지도 하나로 뭉치게 하고, 대의를 위한 희생은 우리를 단합하게 만듭니다."
+ 
+ tr_plentiful_order_4:0 "적대감"
+ tr_plentiful_order_4_desc:0 "§Y$MOD_STARBASE_MODULE_BUILD_SPEED_MULT$§! 와 §Y$mod_category_statecraft_research_speed_mult$§!가 §G+15%§!증가합니다."
+ tr_plentiful_order_4_delayed:0 "우리는 제국의 철권으로 질서의 적을 맞이합니다."
+ 
+ tr_plentiful_order_5:0 "내부 작업"
+ tr_plentiful_order_5_desc:1 "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§! §G+25%§!증가합니다.\n\n§H항성기지 모듈 잠금해제:§! $sm_orbital_craftwork_headquarters$, 행성에 설치되어 £consumer_goods §Y소비재§!를 수집하는 항성기지 모듈입니다."
+ tr_plentiful_order_5_delayed:0 "우리 체제의 축복받은 공학자, 기계공학자 그리고 시민들은 우리의 영광스러운 제국에 놀라운 장점을 주었습니다."
+ 
+ sm_orbital_craftwork_headquarters:0 "공예 본부"
+ 
+ tech_plentiful_traditions_orbital_c_h:0 "공예 본부"
+ tech_plentiful_traditions_orbital_c_h_desc:0 "주요 경제 부문의 최종 중앙 집중화는 이 성계의 소비재 생산을 늘리는 데 도움이 될 것입니다."
+ 
+ # Order war demands
+ casus_belli_cb_pt_false_flag:1 "§Y가짜 깃발§!"
+ plentiful_traditions_false_flag:1 "§Y가짜 깃발§!"
+ war_goal_plentiful_traditions_false_flag:1 "§H가짜 깃발§!"
+ war_goal_plentiful_traditions_false_flag_desc:2 "우리의 특수 부대가 적의 국경 어딘가에 가짜 깃발을 만들어, §Y10§!년간 §R-15§! $MOD_PLANET_STABILITY_ADD$의 효과를 얻습니다."
+ war_goal_plentiful_traditions_false_flag_header:1 "§H가짜 깃발§!"
+ war_goal_plentiful_traditions_false_flag_subtext:0 "[parameter:country.GetName]"
+ war_goal_plentiful_traditions_false_flag_tooltip_header:0 "$war_goal_plentiful_traditions_false_flag_header$"
+ war_goal_plentiful_traditions_false_flag_tooltip_content:2 "우리의 특수부대는 [parameter:country.GetName]의 국경 어딘가에서 위장된 기만 작전을 시도할 것이며,  §Y10§! 년간 §R-15§!의$MOD_PLANET_STABILITY_ADD$를 불러 일으킬 것입니다."
+ war_goal_plentiful_traditions_false_flag_tooltip_proper_header:0 "$war_goal_plentiful_traditions_false_flag_header$"
+ war_goal_plentiful_traditions_false_flag_tooltip_proper_content:1 "$war_goal_plentiful_traditions_false_flag_tooltip_content$"
+ war_goal_plentiful_traditions_false_flag_no_planets:1 "제국의 모든 행성은 양도될 것입니다."
+ modifier_plentiful_traditions_false_flag:0 "$minor_terrorist_action$"
+ modifier_plentiful_traditions_false_flag_desc:0 "$minor_terrorist_action_desc$"
+ 
+ casus_belli_cb_pt_sabotage:1 "§Y파괴공작§!"
+ plentiful_traditions_sabotage:1 "§Y파괴공작§!"
+ war_goal_plentiful_traditions_sabotage:1 "§H파괴공작§!"
+ war_goal_plentiful_traditions_sabotage_desc:2 "우리의 첩보원이 파괴공작을 통해 적의 연구 속도를 §Y10§!년간 §R-15%§!감소시킵니다 ."
+ war_goal_plentiful_traditions_sabotage_header:1 "§H파괴공작§!"
+ war_goal_plentiful_traditions_sabotage_subtext:0 "[parameter:country.GetName]"
+ war_goal_plentiful_traditions_sabotage_tooltip_header:0 "$war_goal_plentiful_traditions_sabotage_header$"
+ war_goal_plentiful_traditions_sabotage_tooltip_content:2 "우리의 스파이들은 [parameter:country.GetName]에 사보타주를 벌일 것이며, 그들은 §Y10§!년간 §R-15%§! 만큼 연구속도가 감소할 것입니다."
+ war_goal_plentiful_traditions_sabotage_tooltip_proper_header:0 "$war_goal_plentiful_traditions_sabotage_header$"
+ war_goal_plentiful_traditions_sabotage_tooltip_proper_content:1 "$war_goal_plentiful_traditions_sabotage_tooltip_content$"
+ war_goal_plentiful_traditions_sabotage_no_planets:1 "제국의 모든 행성은 양도될 것입니다."
+ modifier_plentiful_traditions_sabotage:0 "사보타주"
+ modifier_plentiful_traditions_sabotage_desc:0 "우리는 다른 제국에게 사보타주 당했습니다."
+ 
+ #####################
+ # MALICE
+ #####################
+ 
+ tradition_plentiful_malice:0 "악의"
+ tradition_plentiful_malice_desc:0 "두려움. 그것은 토너먼트의 씨앗을 심기위한 기름진 땅과도 같습니다. 타인의 고통 위에서 축제를 벌입시다."
+ tr_plentiful_malice_adopt:0 "악의 전통"
+ tr_plentiful_malice_adopt_desc:0 "$tradition_plentiful_malice_desc$\n\n$tr_plentiful_malice_adopt_effect$\n\n$tr_plentiful_malice_finish_effect$"
+ tr_plentiful_malice_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_INSULT_EFFICIENCY$§! §G+50%§!만큼 증가합니다. 제국 내의 §YSlaves§!  £happiness · §Y$MOD_POP_HAPPINESS$§! 가 §G+5%§! 만큼 증가하고, 미네랄의 소모가 §Y$CONSUMER_GOODS$§! §G-20%§!만큼 감소합니다.."
+ 
+ tr_plentiful_malice_finish:0 "악의 전통 완료"
+ tr_plentiful_malice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_malice_adopt$을 완성시키는 것은 §Y악의적인 의도§! 시행령을 해금하며 이는 §Y$mod_damage_vs_country_type_fallen_empire_mult$§!과 §Y$mod_damage_vs_country_type_awakened_fallen_empire_mult$§!를 §G+15%§!만큼 증가시킵니다.\n\n§H항성기지 모듈 해금:§! $sm_orbital_refinery_station$, 행성에서 £alloys£ §Y합금§를 생산하는 항성기지 모듈입니다.\n\n"
+ 
+ tr_plentiful_malice_1:0 "절망"
+ tr_plentiful_malice_1_desc:0 "§Y$mod_pop_cat_slave_happiness$§!가 §G20%§! 증가했습니다."
+ tr_plentiful_malice_1_delayed:0 "우리의 노예들조차 희망을 가지지 않습니다. 이 얼마나 짜릿합니까!"
+ 
+ tr_plentiful_malice_2:0 "죄악"
+ tr_plentiful_malice_2_desc:0 "§Y$MOD_SPY_NETWORK_LEVELS_ADD$§!가 §G+20§! 증가했습니다."
+ tr_plentiful_malice_2_delayed:0 "우주는 우리 경쟁자들의 비명으로 가득 찰 것입니다."
+ 
+ tr_plentiful_malice_3:0 "공포"
+ tr_plentiful_malice_3_desc:0 "§Y$mod_planet_jobs_slave_produces_mult$§!가 §G+10%§! 증가했습니다."
+ tr_plentiful_malice_3_delayed:0 "우리 노예들 중에서는 일하다 죽는 자가 많은 것 같습니다. 대체 왜 그럴까요? 죽음으로서 더 많은 고통을 받을 기회를 버릴 텐데 말입니다."
+ 
+ tr_plentiful_malice_4:0 "분노"
+ tr_plentiful_malice_4_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!가 §G+4§! 증가했씁니다. 추가적으로, §Y$mod_planet_jobs_slave_minerals_produces_mult$§!가 §G+15%§! 증가했습니다."
+ tr_plentiful_malice_4_delayed:0 "우리는 천천히 그들의 고통을 맛보며 음미할 것입니다. 더 많은 적은 더 많은 명예를 가져다줍니다. 우리 정부가 더 많은 적을 만들기 위한 정책을 추진하는 동안, 광산에서는 더 많은 £minerals §Y광물§!을 캐기 위해 계속해서 노예들이 동원될 것입니다."
+ 
+ tr_plentiful_malice_5:0 "악의"
+ tr_plentiful_malice_5_desc:1 "최근에 정복당한 행성의§YSlaves§!들은 더이상 §Y$pop_recently_conquered$§!가 줄어드는 £happiness · §Y$MOD_POP_HAPPINESS$§!  §Y$pop_recently_conquered$§! 모디파이어를 받지 않습니다. 또한, §Y$building_plentiful_traditions_advanced_slave_processing$§!를 지을 수 있습니다. \n\n £society£ §M$tech_neural_implants$§!기술을 필요로 합니다."
+ tr_plentiful_malice_5_delayed:0 "가끔 악의로 방해받습니다."
+ 
+ sm_orbital_refinery_station:0 "정제 스테이션"
+ 
+ tech_plentiful_traditions_orbital_r_s:0 "정제 스테이션"
+ tech_plentiful_traditions_orbital_r_s_desc:0 "이 광물 처리 공장에서는 광물을 합금으로 변환하기 위한 필수적인 작업이 수행됩니다."
+ 
+ modifier_plentiful_traditions_slave1:0 "탈출구 없음"
+ edict_plentiful_traditions_malicious_intent:0 "악의적인 의도"
+ edict_plentiful_traditions_malicious_intent_desc:1 "이 칙령은 우리의 가장 큰 위협의 약점을 드러낼 결의를 높여줍니다."
+ 
+ building_plentiful_traditions_advanced_slave_processing:0 "고급 노예화 시설"
+ building_plentiful_traditions_advanced_slave_processing_desc:0 "우리 인구 사이에서 일상용품에 대한 수요는 높습니다. 우리는 노예를 레몬처럼 쥐어 짜내서 그것을 성취 할 수 있습니다."
+ 
+ defense_slave_army:0 "방어용 노예 군인"
+ defense_slave_army_plural:0 "방어용 노예 군대"
+ defense_slave_army_desc:0 "노예 병사들은 전장에서 주인을 섬깁니다."
+ 
+ advanced_defense_slave_army:0 "진보된 방어용 노예 군인"
+ advanced_defense_slave_army_plural:0 "진보된 방어용 노예 군대"
+ advanced_defense_slave_army_desc:0 "노예 군인들은 전장에서 주인을 섬깁니다. 이들은 §Y$building_plentiful_traditions_advanced_slave_processing$§!에서 특수한 훈련을 받습니다."
+ 
+ advanced_slave_army:0 "진보된 노예 군인"
+ advanced_slave_army_plural:0 "진보된 노예 군대"
+ advanced_slave_army_desc:0 "전장에서 주인을 섬기는 노예 병사들. 이들은 §Y$building_plentiful_traditions_advanced_slave_processing$§!를 통해 특수한 훈련을 받았고 이를 실행합니다."
+ 
+ stormtrooper_army:0 "충격 부대"
+ stormtrooper_army_plural:0 "충격 부대"
+ stormtrooper_army_desc:0 "이 특수부대는 두려움이나 패배를 모르며, 그들은 제국을 위해 승리하거나, 멸망할 것입니다."
+ trooper_limit_tooltip:0 "특출난 능력을 갖춘 자들만이 제국 군단병이 될 수 있으므로, 우리가 동시에 운용할 수 있는 군단의 수가 제한됩니다."
+ 
+ cylon_army:0 "사일론 공격 부대"
+ cylon_army_plural:0 "사일론 공격 부대"
+ cylon_army_desc:0 "사이버네틱 생물형 노드(Cybernetic Lifeform Node), 통칭 사일런은 기계 제국에서 충격 부대로 사용하는 군사 모델입니다."
+ 
+ tank_army:0 "기갑전"
+ tank_army_plural:0 "기갑전"
+ tank_army_desc:0 "주력 전차, 보병 전투차, 빠른 보조부대라는 이상적인 조합으로 구성된 기계화 사단은 거대한 협공 동작으로 적을 빠르게 타격하고 포위할 수 있습니다."
+ tank_army_troop_limit_tooltip:0 "특출난 능력을 갖춘 자들만이 제국 군단병이 될 수 있으므로, 우리가 동시에 운용할 수 있는 군단의 수가 제한됩니다."
+ 
+ plentiful_traditions_malice_activate:0 "§H악의:§! 노예 복합단지 활성화"
+ plentiful_traditions_malice_activate_desc:1 "이 행성의 노예들은 그들의 목적에 맞춰 적응했습니다. 기존 특성은 새로운 요구 사항에 따라 추가되거나 제거됩니다."
+ 
+ plentiful_traditions_malice_deactivate:0 "§H악의:§! 노예 복합단지 비활성화"
+ plentiful_traditions_malice_deactivate_desc:1 "이 행성의 노예들은 다시 평상시 상태로 돌아갔습니다(변종들이 제거되었습니다.)."
+ 
+ #####################
+ # ASPIRATION
+ #####################
+ 
+ tradition_plentiful_aspiration:0 "열망"
+ tradition_plentiful_aspiration_desc:0 "다른 이들과 공유할 수 없는 성공에는 의미가 없습니다."
+ tr_plentiful_aspiration_adopt:0 "열망 전통"
+ tr_plentiful_aspiration_adopt_desc:0 "$tradition_plentiful_aspiration_desc$\n\n$tr_plentiful_aspiration_adopt_effect$\n\n$tr_plentiful_aspiration_finish_effect$"
+ tr_plentiful_aspiration_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n우리가 £energy£ §Y에너지 크레딧§!을 생산하는 §Y채굴 스테이션§!을 건설할 때마다 우리의 월간 £energy£ §Y에너지 크레딧§! 생산량의 §Y0.5§!배의 £energy£ §Y에너지 크레딧§!를 획득합니다. 이는 매장지 당 한번만 가능합니다."
+ 
+ tr_plentiful_aspiration_finish:0 "열망 전통 완료"
+ tr_plentiful_aspiration_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_aspiration_adopt$를 완성하는 것은 £pop£ 인구로부터 생산되는 £trade_value£ §Y$MOD_TRADE_VALUE_MULT$§!를 §G+5%§!만큼 증가시킵니다.\n\n§H건물 해금:§! £building£$building_plentiful_traditions_trading_terminal$, §Y$plentiful_traditions_plentiful_deeds$§! 행성 시행령을 사용할 수 있게 해주는 건물입니다."
+ 
+ tr_plentiful_aspiration_1:0 "매력적인"
+ tr_plentiful_aspiration_1_desc:0 "§Y$MOD_COUNTRY_BORDER_FRICTION_MULT$§!가 §G-25%§!만큼 감소. 추가적으로 제국 £opinion£ §YOpinion§!가 §G+20§!만큼 증가"
+ tr_plentiful_aspiration_1_delayed:0 "온갖 위험으로 가득한 은하에서는 친근한 제스처와 카리스마가 전쟁과 평화의 차이로 이어질 수 있습니다."
+ 
+ tr_plentiful_aspiration_2:0 "신뢰"
+ tr_plentiful_aspiration_2_desc:1 "§Y$MOD_COUNTRY_TRUST_GROWTH$§!이 §G+20%§!만큼 증가합니다."
+ tr_plentiful_aspiration_2_delayed:0 "과거의 모험과 친절을 기억하십시오. 그들이 당신을 기억할 것입니다."
+ 
+ tr_plentiful_aspiration_3:0 "신념"
+ tr_plentiful_aspiration_3_desc:0 "§Y$MOD_COUNTRY_TRADE_FEE$§!가 §G-5%§!만큼 감소하며 많은 건물들의 §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!가 추가적인 직업을 통해 증가합니다."
+ tr_plentiful_aspiration_3_delayed:0 "필요하다면 가져가라, 하지만 아직 예측하지 못하는 미래의 이익 또한 생각해야 한다. 그리고 이 모든 것은 조직적으로 진행되어야 한다."
+ 
+ tr_plentiful_aspiration_4:0 "본질적인 가치"
+ tr_plentiful_aspiration_4_desc:0 "§H건물 잠금해제:§! £building£ $building_plentiful_traditions_trading_depot$, 행성의 £energy£ §Y에너지 크레딧§! 생산량을 증가시키는 행성 고유 건물입니다."
+ tr_plentiful_aspiration_4_delayed:0 "다른 이들이 우리의 성공으로부터 교훈을 얻어 반복되는 실패를 극복하기 위해 노력하도록 해야 합니다."
+ 
+ tr_plentiful_aspiration_5:0 "실사"
+ tr_plentiful_aspiration_5_desc:0 "§Y$MOD_COUNTRY_TRUST_GROWTH$§!가 §G+5%§!만큼 증가하며 이는 저장고 내의 £energy£ §Y에너지 크레딧§! §Y1000§! 보유시 (2배가 될 때마다 +1)만큼 누적됩니다. 이 효과는 §Y32.000§! £energy£ §Y에너지 크레딧§!에 §Y6§!번으로 최대 §G+30%§!까지 누적됩니다."
+ tr_plentiful_aspiration_5_delayed:0 "신뢰와 용인은 성장을 가속화시키고 이익, 통찰과 전략에 기여한다."
+ 
+ # Aspiration Swapped
+ tr_plentiful_aspiration_gestalt_adopt:0 "열망"
+ tr_plentiful_aspiration_gestalt_adopt_desc:0 "$tradition_plentiful_aspiration_desc$\n\n$tr_plentiful_aspiration_gestalt_adopt_effect$\n\n$tr_plentiful_aspiration_gestalt_finish_effect$"
+ tr_plentiful_aspiration_gestalt_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n우리가 £energy£ §Y에너지 크레딧§!을 생산하는 §Y채굴 스테이션§!을 건설할 때마다 우리의 월간 £energy£ §Y에너지 크레딧§! 생산량의 §Y0.5§!배의 £energy£ §Y에너지 크레딧§!를 획득합니다. 이는 매장지 당 한번만 가능합니다."
+ 
+ tr_plentiful_aspiration_gestalt_finish:0 "열망 전통 완료"
+ tr_plentiful_aspiration_gestalt_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_aspiration_adopt$를 전부 선택하는 것은 §Y$mod_planet_jobs_complex_drone_produces_mult$§! £pop_cat_complex_drone£를 §G+10%§!만큼 증가시킵니다.\n\n"
+ 
+ 
+ # Aspiration buildings
+ building_plentiful_traditions_trading_terminal:0 "무역 터미널"
+ building_plentiful_traditions_trading_terminal_desc:0 "제국의 무역 터미널은 은하계 무역의 중심지로 관여하는 모든 사람들에게 많은 양의 상거래를 제공합니다.\n\n이 행성에 §Y풍요로운 행동§! 시행령의 사용을 허용합니다."
+ building_plentiful_traditions_advanced_trading_terminal:0 "고급 무역 터미널"
+ building_plentiful_traditions_advanced_trading_terminal_desc:0 "제국의 무역 터미널은 은하계 무역의 중심지로 관여하는 모든 사람들에게 많은 양의 상거래를 제공합니다.\n\n이 행성에 §Y풍요로운 행동§! 시행령의 사용을 허용합니다."
+ building_plentiful_traditions_trading_depot:0 "무역소"
+ building_plentiful_traditions_trading_depot_desc:0 "한 제국의 무역소는 제국들 간의 통합된 무역을 허용합니다."
+ 
+ # Aspiration edicts
+ triggered_opinion_tr_plentiful_aspiration_3:0 "카리스마적 포부"
+ opinion_plentiful_deeds:0 "풍부한 행동들"
+ modifier_plentiful_traditions_plentiful_deeds:0 "풍부한 행동들"
+ modifier_plentiful_traditions_plentiful_deeds_desc:1 "우리 제국은 근처 행성의 제국들과 일시적인 의견 보너스를 받습니다."
+ plentiful_traditions_plentiful_deeds:0 "§Y풍부한 행동들§!"
+ plentiful_traditions_plentiful_deeds_desc:1 "이 시행령은 주변 제국들에게 무역 특사를 보냄으로 이 행성의 £pop£에게 §G+5%§! £happiness£행복도를 부여합니다.\n영향을 받은 제국들은 일시적으로 £opinion£  §YOpinion§!가 §G+20§!만큼 증가합니다.\n\n"
+ 
+ modifier_plentiful_traditions_persuasion1:0 "설득 I"
+ modifier_plentiful_traditions_persuasion2:0 "설득 II"
+ modifier_plentiful_traditions_persuasion3:0 "설득 III"
+ modifier_plentiful_traditions_persuasion4:0 "설득 IV"
+ modifier_plentiful_traditions_persuasion5:0 "설득 V"
+ modifier_plentiful_traditions_persuasion6:0 "설득 VI"
+ modifier_plentiful_traditions_persuasion7:0 "설득 VII"
+ modifier_plentiful_traditions_persuasion8:0 "설득 VIII"
+ 
+ modifier_plentiful_traditions_due1:0 "실사 I"
+ modifier_plentiful_traditions_due2:0 "실사 II"
+ modifier_plentiful_traditions_due3:0 "실사III"
+ modifier_plentiful_traditions_due4:0 "실사 IV"
+ modifier_plentiful_traditions_due5:0 "실사 V"
+ modifier_plentiful_traditions_due6:0 "실사 VI"
+ 
+ #####################
+ # AFFINITY
+ #####################
+ 
+ tradition_plentiful_affinity:0 "친화력"
+ tradition_plentiful_affinity_desc:0 "선행의 보상은 그 행위 자체다."
+ tr_plentiful_affinity_adopt:0 "친화력 전통"
+ tr_plentiful_affinity_adopt_desc:0 "$tradition_plentiful_affinity_desc$\n\n$tr_plentiful_affinity_adopt_effect$\n\n$tr_plentiful_affinity_finish_effect$"
+ tr_plentiful_affinity_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_PLANET_IMMIGRATION_PULL_ADD$§!가 §G+100%§!만큼 증가했습니다"
+ 
+ tr_plentiful_affinity_finish:0 "친화력 전통 완료"
+ tr_plentiful_affinity_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_affinity_adopt$를 완성하는 것은 £pop£ 인구의 §Y$mod_planet_jobs_produces_mult$§!을 행성이 보유한 첫 §Y2§! 종족을 제외한 £pop£ 종족 하나당 §G+0.8%§!만큼 증가시킵니다. 이는 §Y10§! 번까지 누적되며 최대 §G+8%§! 증가합니다.\n 추가적으로 $district_arcology_civilian_industry$과 $district_industrial$에서 §Y$MOD_PLANET_HOUSING_ADD$§! 과 §H소비재 (집단 지성의 경우 주조)직업§!이 §G+1§!만큼 증가합니다."
+ 
+ tr_plentiful_affinity_1:0 "관용"
+ tr_plentiful_affinity_1_desc:0 "§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§!가 §G-10%§!만큼 감소하며 £influence£ §Y$MOD_COUNTRY_FACTION_INFLUENCE_ADD$§!이 §G+1§!만큼 증가."
+ tr_plentiful_affinity_1_delayed:0 "다른 이들을 향한 관용이야말로 적들과 우리 사이의 결정적인 차이점입니다."
+ 
+ tr_plentiful_affinity_2:0 "공감하는 사회"
+ tr_plentiful_affinity_2_desc:0 "우리 제국이 §G평화§!상태라면, 모든 £pops · POP의 £happiness · §Y$MOD_POP_HAPPINESS$§!가  §G+5%§! 증가합니다."
+ tr_plentiful_affinity_2_delayed:0 "다른 종족의 감정을 이해하고 공감할 수 있는 능력은 우리를 더욱 진보시킬 것입니다."
+ 
+ tr_plentiful_affinity_3:0 "자비"
+ tr_plentiful_affinity_3_desc:0 "§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!가 §G+10%§! 증가합니다."
+ tr_plentiful_affinity_3_delayed:0 "모든 종족에게 이주의 자유를 보장한다면 불행의 사슬을 끊을 수 있을지도 모릅니다."
+ 
+ tr_plentiful_affinity_4:0 "개척자"
+ tr_plentiful_affinity_4_desc:0 "우리의 £physics£  £society£  £engineering£ §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!는 §G+3%§!만큼 증가하며. 우리의 제국이 §G평화§! 상태일 때 이는 §G+6%§!로 2배가 된다."
+ tr_plentiful_affinity_4_delayed:0 "새로운 행성들의 발견은 우리를 더욱 결집시켜주며 지식과 생각의 공유가 가능하게 해줍니다."
+ 
+ tr_plentiful_affinity_5:0 "하나된 열망"
+ tr_plentiful_affinity_5_desc:1 "§H건물 해금:§! £building£  $building_plentiful_traditions_tower_of_affinity$, 행성의 £society£  §Y사회학§! 생산량과 §Y$MOD_PLANET_IMMIGRATION_PULL_ADD$§!를 증가시키는 행성의 고유 건물. \n\n£society£ §M$tech_cultural_heritage$§! 기술 필요."
+ tr_plentiful_affinity_5_delayed:0 "우주의 광활함 속에서 새로운 친구를 만들 것입니다."
+ 
+ modifier_plentiful_traditions_trial:0 "시행착오"
+ modifier_plentiful_traditions_pathfinder:0 "평화로운 개척자"
+ modifier_plentiful_traditions_empathetic:0 "동정하는"
+ 
+ modifier_plentiful_traditions_united1:0 "연방 랭크 1/10"
+ modifier_plentiful_traditions_united1_desc:1 "이 행성의 £pops£ 들은 생산력에 보너스를 받습니다."
+ modifier_plentiful_traditions_united2:0 "연방 랭크 2/10"
+ modifier_plentiful_traditions_united2_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united3:0 "연방 랭크 3/10"
+ modifier_plentiful_traditions_united3_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united4:0 "연방 랭크 4/10"
+ modifier_plentiful_traditions_united4_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united5:0 "연방 랭크 5/10"
+ modifier_plentiful_traditions_united5_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united6:0 "연방 랭크 6/10"
+ modifier_plentiful_traditions_united6_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united7:0 "연방 랭크 7/10"
+ modifier_plentiful_traditions_united7_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united8:0 "연방 랭크 8/10"
+ modifier_plentiful_traditions_united8_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united9:0 "연방 랭크 9/10"
+ modifier_plentiful_traditions_united9_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ modifier_plentiful_traditions_united10:0 "연방 랭크 10/10"
+ modifier_plentiful_traditions_united10_desc:1 "$modifier_plentiful_traditions_united1_desc$"
+ 
+ # Experimentalism buildings
+ building_plentiful_traditions_tower_of_affinity:0 "친화의 탑"
+ building_plentiful_traditions_tower_of_affinity_desc:0 "이는 주변국들에게 긍정적이고 진정시키는 신호를 보내는 라디오 탑으로 그들의 시민들을 우리 제국으로 유도합니다."
+ 
+ #####################
+ # EXPERIMENTALISM
+ #####################
+ 
+ tradition_plentiful_experimentalism:0 "실험주의"
+ tradition_plentiful_experimentalism_desc:0 "진실은 실험과 경헙주의 내에만 존재합니다. 이가 실천되야만 우리는 우주를 완벽히 이해할 수 있을 것입니다."
+ tr_plentiful_experimentalism_adopt:0 "실험주의 전통"
+ tr_plentiful_experimentalism_adopt_desc:0 "$tradition_plentiful_experimentalism_desc$\n\n$tr_plentiful_experimentalism_adopt_effect$\n\n$tr_plentiful_experimentalism_finish_effect$"
+ tr_plentiful_experimentalism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n우리 국가가 §G평화§! 상태라면, 우리의 £physics£ §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!가 §G+10%§! 증가합니다. 하지만 §R전쟁§! 상태일때 §R-15%§!만큼 감소합니다."
+ 
+ tr_plentiful_experimentalism_finish:0 "실험주의 전통 완료"
+ tr_plentiful_experimentalism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_experimentalism_adopt$를 전부 완성하는 것은 우리의 §Y과학자§!들이 레벨이 오를 때 우리의 월간 에너지 크레딧의 §Y1§!배의 £energy£ §Y에너지 크레딧§!을 줍니다."
+ 
+ tr_plentiful_experimentalism_1:0 "지식의 관리자"
+ tr_plentiful_experimentalism_1_desc:0 "§H건물 잠금해제:§! £building£$building_plentiful_traditions_experimental_weapons_facility$, 행성의  £physics£ · §Y물리학§! 산출량을 증가시키는 행성 고유 건물입니다. \n\n£physics£ §M$tech_basic_science_lab_3$§! 기술을 요구합니다. \n£engineering£ §M$tech_mine_rare_crystals$§! 기술을 요구합니다."
+ tr_plentiful_experimentalism_1_delayed:0 "우리 제국은 알려진 모든 사실에 대한 기록과 분석이 필요합니다."
+ 
+ tr_plentiful_experimentalism_2:0 "시행착오"
+ tr_plentiful_experimentalism_2_desc:0 "우리의 §Y과학자§!가 §Y레벨 업§!을 할 때 우리의 §Y$MOD_LEADER_SPECIES_EXP_GAIN$§!가 §Y10§!년간 §G+10%§! 증가합니다. §Y$MOD_LEADER_SKILL_LEVELS$§! 가 §G+1§! 증가합니다."
+ tr_plentiful_experimentalism_2_delayed:0 "안내된 경험주의는 진정한 이해의 한 방법입니다."
+ 
+ tr_plentiful_experimentalism_3:0 "광학 시퀀스"
+ tr_plentiful_experimentalism_3_desc:0 "§Y$ASSIST_RESEARCH_ORDER$§!는 행성의 £physics£  §Y물리학§! 생산량을 §G+10%§!만큼 증가시킵니다."
+ tr_plentiful_experimentalism_3_delayed:0 "마치 그들이 우주의 광대한 계획의 한 조각에 불과한 듯이 항성계들을 조심스럽게 탐사합니다."
+ 
+ tr_plentiful_experimentalism_4:0 "흐와리즈미 개념"
+ tr_plentiful_experimentalism_4_desc:0 "우리의 £building£ §Y$building_research_lab_3$§! 건물들은 자동으로 £building£  §Y$building_plentiful_traditions_university_of_wisdom$§!로 업그레이드 됩니다. 이는 £physics£   §Y물리학§! 생산량을 증가시킵니다. \n\n £physics£ §M$tech_basic_science_lab_3$§! 기술을 요구합니다. "
+ tr_plentiful_experimentalism_4_delayed:0 "수학자, 천문학자, 지리학자, 물리학자, 화학자; 그들은 우리의 통합과 발전을 위한 열쇠입니다."
+ 
+ tr_plentiful_experimentalism_5:0 "반복된 문의"
+ tr_plentiful_experimentalism_5_desc:1 "§Y$MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$§!가 §G+1§!만큼 증가했으며§Y$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$§!가 §G-15%§!만큼 감소했습니다."
+ tr_plentiful_experimentalism_5_delayed:0 "시간이 촉박할 때 대체할 방법의 중요성을 이해한다는 것은 설명이 필요 없다."
+ 
+ # Experimentalism buildings
+ building_plentiful_traditions_experimental_weapons_facility:0 "실험적 무기 시설"
+ building_plentiful_traditions_experimental_weapons_facility_desc:0 "실험적 무기 연구소는 우리의 물리 기술 발전에 크게 기여할 것입니다."
+ building_plentiful_traditions_university_of_wisdom:0 "현자의 대학"
+ building_plentiful_traditions_university_of_wisdom_desc:0 "현자의 대학은 우리들의 물리 연구에 크게 기여할 것입니다."
+ 
+ modifier_plentiful_traditions_sequence:0 "광학 렌즈"
+ modifier_plentiful_traditions_sequence_desc:1 "우리 행성은 £physics£ §Y물리학§! 생산 보너스를 얻습니다."
+ modifier_plentiful_traditions_undertaking_positive:0 "프로젝트에 집중"
+ modifier_plentiful_traditions_undertaking_negative:0 "집중되지 않은 사업"
+ modifier_plentiful_traditions_undertaking_trial:0 "시행착오"
+ 
+ #####################
+ # MUTAGENESIS
+ #####################
+ 
+ tradition_plentiful_mutagenesis:0 "돌연변이 유도"
+ tradition_plentiful_mutagenesis_desc:0 "우리는 새로 발견된 유전물질수확을 추구하는 데에 있어서 다른 자들의 우려를 신경쓰지 않습니다."
+ #Other living organisms are nothing but building blocks towards the perfection of our collective.
+ tr_plentiful_mutagenesis_adopt:0 "돌연변이 전통"
+ tr_plentiful_mutagenesis_adopt_desc:0 "$tradition_plentiful_mutagenesis_desc$\n\n$tr_plentiful_mutagenesis_adopt_effect$\n\n$tr_plentiful_mutagenesis_finish_effect$"
+ tr_plentiful_mutagenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GROWTH_SPEED$§!가 §G+20%§! 증가했습니다."
+ 
+ tr_plentiful_mutagenesis_finish:0 "돌연변이 전통 완료"
+ tr_plentiful_mutagenesis_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_mutagenesis_adopt$을 완성시키는 것은 외계종 £pop£ 인구를 가공함으로 £food£ §Y음식§!  을 얻을 수 있게 해줍니다. §Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§!가 §G-15%§!만큼 감소합니다."
+ 
+ tr_plentiful_mutagenesis_1:0 "쇄도"
+ tr_plentiful_mutagenesis_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§가  §G+10%§! 증가합니다."
+ tr_plentiful_mutagenesis_1_delayed:0 "다른 세상은 돌연변이가 일어나길 기다리는 보람 있는 일에 불과합니다."
+ 
+ tr_plentiful_mutagenesis_2:0 "땅굴"
+ tr_plentiful_mutagenesis_2_desc:0 "§Y$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$§!가 §G-25%§! 감소하고 §Y$MOD_COUNTRY_ADMIN_CAP_MULT$§!가 §G+10%§! 증가합니다"
+ tr_plentiful_mutagenesis_2_delayed:0 "우리의 방어용 땅굴들은 그 어떤 위협도 금방 제거해버립니다."
+ 
+ tr_plentiful_mutagenesis_3:0 "돌연변이 성장"
+ tr_plentiful_mutagenesis_3_desc:0 "§Y$MOD_SHIP_HULL_REGEN_ADD_PERC$§!과 §Y$MOD_SHIP_ARMOR_REGEN_ADD_PERC$§!이 §G+1.0%§! 증가합니다."
+ tr_plentiful_mutagenesis_3_delayed:0 "우리의 위대한 함선들에게 추가된 인공적인 돌연변이원들은 우리 함대에게 제각각의 재생능력을 부여했습니다."
+ 
+ tr_plentiful_mutagenesis_4:0 "병충해"
+ tr_plentiful_mutagenesis_4_desc:0 "§H건물 잠금해제:§! £building£ $building_plentiful_traditions_pillar_of_affliction$, 행성의 £food£ §Y음식§! 생산량을 증가시키는 행성 고유 건물입니다."
+ tr_plentiful_mutagenesis_4_delayed:0 "다른 존재들이 번식에 에너지원을 낭비할 필요는 없다. 그들 또한 이미 군단이 사용할 한 자원이거나 곧 그리될 것이기 때문이다."
+ 
+ tr_plentiful_mutagenesis_5:0 "번식못"
+ tr_plentiful_mutagenesis_5_desc:1 "§Y$MOD_POP_FOOD_MULT$§!가 §G+15%§! 증가합니다."
+ tr_plentiful_mutagenesis_5_delayed:0 "이 은하의 에너지원은 우리들이 번성하고 군단이 돌연변이를 통해 완벽한 존재로 거듭날 수 있도록 하기 위해 존재한다."
+ 
+ # Mutagenesis Swapped
+ tr_plentiful_mutagenesis_adopt_machine:0 "돌연변이원"
+ tr_plentiful_mutagenesis_adopt_machine_desc:0 "$tradition_plentiful_mutagenesis_desc$\n\n$tr_plentiful_mutagenesis_adopt_machine_effect$\n\n$tr_plentiful_mutagenesis_finish_effect$"
+ tr_plentiful_mutagenesis_adopt_machine_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§H건물 해금:§!\n£building£  $building_plentiful_traditions_clone_vats$, 행성의 £planet_pop_organics£의 §Y$MOD_POP_GROWTH_SPEED$§! of £planet_pop_organics£을 §G+50%§!만큼 증가시킵니다."
+ 
+ # Mutagenesis buildings
+ building_plentiful_traditions_pillar_of_affliction:0 "고통의 기둥"
+ building_plentiful_traditions_pillar_of_affliction_desc:0 "주변의 유전 물질들을 흡수함으로 돌연변이를 일으키는 듯한 살아있는 기둥으로 우리의 영토가 확장될수록 두께와 높이가 커져갑니다."
+ building_plentiful_traditions_advanced_pillar_of_affliction:0 "진화한 고통의 기둥"
+ building_plentiful_traditions_advanced_pillar_of_affliction_desc:0 "주변의 유전 물질들을 흡수함으로 돌연변이를 일으키는 듯한 살아있는 기둥으로 우리의 영토가 확장될수록 두께와 높이가 커져갑니다."
+ 
+ building_plentiful_traditions_clone_vats:0 "복제소"
+ building_plentiful_traditions_clone_vats_desc:0 "완벽한 기계세상에서도 주변에 유기 생명체들을 몇몇 두는 것이 유용할 때가 있습니다. 애완용일 수도 있고 에너지 공급원일 수도 있고 동화된 시민들일 수도 있죠."
+ 
+ #####################
+ # INDUSTRY
+ #####################
+ 
+ tradition_plentiful_industry:0 "산업"
+ tradition_plentiful_industry_desc:0 "작은 디테일 하나하나에 집착하기보다는 광업, 추출, 물자 운송과 우리의 기발함을 믿음으로써 문제를 해결해야 합니다."
+ tr_plentiful_industry_adopt:0 "산업 전통"
+ tr_plentiful_industry_adopt_desc:0 "$tradition_plentiful_industry_desc$\n\n$tr_plentiful_industry_adopt_effect$\n\n$tr_plentiful_industry_finish_effect$"
+ tr_plentiful_industry_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£engineering£  §Y$mod_category_industry_research_speed_mult$§!가 §G+15%§!증가하며 §Y$mod_station_gatherers_minerals_produces_mult$§!가 §G+10%§!만큼 증가합니다.\n\n§H항성기지 모듈 해금:§! $sm_orbital_fracking_cannon$, 행성에 £minerals£  §Y광물§! 생산량을 추가하고 채굴하는 항성기지 모듈입니다."
+ 
+ tr_plentiful_industry_finish:0 "산업 전통 완료"
+ tr_plentiful_industry_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n§H행성 시행령 해금:§! $plentiful_traditions_ionized_excavation$, 추가적인 £minerals£  §Y광물§! 매장지로 행성의 채광 산업을 활성화시키며 일시적인 §G+10%§! 광물 생산량을 주지만 £influence£  §Y영향력§!을 소모합니다.\n\n§H행성 시행령 해금:§! $plentiful_traditions_harvest_erupt$, 이미 정착된 식민지를 내부로부터 분화시킵니다. 행성과 식민지를 완전히 파괴함으로 행성의 핵에 존재하는 £minerals£  §Y광물§! 매장지들을 드러냅니다."
+ 
+ tr_plentiful_industry_1:0 "자기 유체 역학 채굴"
+ tr_plentiful_industry_1_desc:0 "§Y$mod_station_gatherers_cost_mult$§!가 §G-15%§!만큼 감소합니다."
+ tr_plentiful_industry_1_delayed:0 "우리의 물리학자와 기술자들은 광물 수확의 가성비를 높일 수 있는 새로운 디자인을 설계했습니다."
+ 
+ tr_plentiful_industry_2:0 "다용도 행정용 함선들"
+ tr_plentiful_industry_2_desc:0 "§Y$MOD_COUNTRY_ADMIN_CAP_MULT$§!가 §G15%§!만큼 증가합니다."
+ tr_plentiful_industry_2_delayed:0 "산업화된 행정 함선들은 모든 최신 기능을 가지고 있지 않지만, 돈 낸 만큼 얻는 것이지요."
+ 
+ tr_plentiful_industry_3:0 "수정 유도 장치"
+ tr_plentiful_industry_3_desc:0 "§Y$MOD_POP_RESETTLEMENT_COST_MULT$§!가 §G-30%§!만큼 감소합니다. 추가적으로 $district_mining$와 $district_industrial$에서 §Y$MOD_PLANET_HOUSING_ADD$§!과 §H주조와 광산 직업§!은 §G+1§만큼 증가합니다."
+ tr_plentiful_industry_3_delayed:0 "호화스러운 방, 최고의 냉동 보관실, 훌륭한 영양상태와 최신 뉴스, 이 모든 것은 행성간 이주용 함선에 있어선 불필요한 것들입니다. $district_mining$ 에 사는 것도 하나의 선택지입니다."
+ 
+ tr_plentiful_industry_4:0 "레이저에 집중된 야금"
+ tr_plentiful_industry_4_desc:0 "§Y$mod_station_gatherers_minerals_produces_mult$§!가 §G+10%§!만큼 증가하며 §H건물 해금:§! £building£ $building_plentiful_traditions_purification_facility$, 행성의 £minerals£ §Y광물§! 생산량을 증가시키는 행성 고유 건물입니다."
+ tr_plentiful_industry_4_delayed:0 "레이저 빔을 통한 열의 사용에 특화된 드릴들은 기존의 방식으로는 추출 비용이 너무 큰 광물 매장지들에 접근하는 데에 필요하다."
+ 
+ tr_plentiful_industry_5:0 "창의적인 회계"
+ tr_plentiful_industry_5_desc:1 "§H시행령 해금:§! $edict_plentiful_traditions_industrial_goods$, 이는 제국의 £pop£ 인구가 소비하는 §Y$CONSUMER_GOODS$§!의 광물 비용을 §G-20%§!만큼 감소시켜줍니다."
+ tr_plentiful_industry_5_delayed:0 "올바른 회계사는 공간에서도 유용합니다. 채굴 및 거래 화물의 귀중한 화물은 수수료를 위해 '신중하게' 감사되어야 합니다."
+ 
+ # Industry buildings
+ building_plentiful_traditions_purification_facility:0 "정제 시설"
+ building_plentiful_traditions_purification_facility_desc:0 "정제 시설은 행성의 전반적인 광물 생산량을 증가시킵니다."
+ building_plentiful_traditions_advanced_purification_facility:0 "고급 정제 시설"
+ building_plentiful_traditions_advanced_purification_facility_desc:0 "정제 시설은 행성의 전반적인 광물 생산량을 증가시킵니다."
+ 
+ sm_orbital_fracking_cannon:0 "궤도 파쇄 대포"
+ 
+ tech_plentiful_traditions_orbital_fracking_cannon:0 "궤도 파쇄 대포"
+ tech_plentiful_traditions_orbital_fracking_cannon_desc:0 "궤도 파쇄 기술의 발전은 이론적으로 행성의 광물 생산량을 증가시킬 수 있을 것입니다. 행성의 표면을 효율적으로 커버하기 위해선 항성기지 모듈 하나가 통채로 필요할 것입니다."
+ 
+ # Industry edicts
+ edict_plentiful_traditions_industrial_goods:0 "산업용 물품"
+ edict_plentiful_traditions_industrial_goods_desc:1 "이 시행령은 우리 행성들의 소비재 운송 비효율성을 감소시켜줍니다."
+ 
+ plentiful_traditions_ionized_excavation:0 "§R이온화된 채굴§!"
+ plentiful_traditions_ionized_excavation_desc:1 "이 행성 시행령은 행성의 §Y광산§!들을 향상시켜 추가적인 £minerals£ §Y광물§! 매장지를 발견할 확률이 있으며 §Y10§!년간 일시적인 §G+10%§! 광물 생산량을 주지만 £influence£  §Y영향력을§! 소모합니다.\n\n"
+ plentiful_traditions_ionized_excavation_effects_short:1 "추가적인 §Y광물 매장지§!를 발굴하며 광물 생산에 일시적인 §G+10%§! 생산량을 부여합니다.\n\n"
+ 
+ 
+ plentiful_traditions_harvest_erupt:0 "§R행성 분화§!"
+ plentiful_traditions_harvest_erupt_desc:1 "이 행성 시행령은 우리 행성이 내부로부터 폭발하도록 유도해서 행성과 식민지를 완전히 파괴합니다. 이는 우리의 채광 함선들이 행성의 핵 깊숙이에 존재하는 풍부한 광물들에 접근할 수 있게 해줍니다. 발견될 £minerals£ §Y광물§! 매장지의 양은 우리 행성의 §Y크기§!와 우리의 산업 기술자들의 실력에 따라 달라질 것입니다. 우리의 기술자들은 §Y2§!년 뒤에준비가 끝날것입니다.\n\n§R경고§!: 이는 식민지를 파괴할 것입니다."
+ plentiful_traditions_harvest_erupt_effects_short:1 "행성을 파괴함으로 추가적인 £minerals£ §Y광물 매장지§!를 생성시킵니다.\n\n"
+ 
+ plentiful_traditions_harvest_pedict.1.title:0 "행성 폭파"
+ plentiful_traditions_harvest_pedict.1.desc:0 "§Y[From.GetName]§! 행성의 우리 식민지의 피난이 이뤄지면서 우리 기술자들은 행성 전체를 폭파시킬 수 있는 장치를 준비하고 있습니다. 우리는 이 행성이 우리 제국을 확장시키는 데에 필요한 £minerals£ §Y광물 매장지§!를 크게 늘려줄 것이라 믿고 있습니다."
+ plentiful_traditions_harvest_pedict.1.a:0 "§Y대형§! 행성을 폭파시킴으로 £minerals£ §Y광물§!에 접근합니다!"
+ plentiful_traditions_harvest_pedict.1.b:0 "§Y중형§! 행성을 폭파시킴으로 £minerals£ §Y광물§!에 접근합니다!"
+ plentiful_traditions_harvest_pedict.1.c:0 "§Y소형§! 행성을 폭파시킴으로 £minerals£ §Y광물§!에 접근합니다!"
+ plentiful_traditions_harvest_pedict.1.d:0 "§Y[From.GetName]§!을 그대로 둡시다."
+ 
+ modifier_plentiful_traditions_ionized_excavation:0 "이온화된 채굴"
+ modifier_plentiful_traditions_ionized_excavation_desc:1 "우리 행성은 일시적인 £minerals£ §Y광물§! 생산 보너스를 얻습니다."
+ 
+ plentiful_traditions_harvest_pedict.4.title:0 "§Y[From.GetName]§ 행성의 폭파"
+ plentiful_traditions_harvest_pedict.4.desc:0 "§Y[From.GetName]§!에 있던 식민지는 파괴되었습니다. 이 매장지들은 이제 우리 것입니다!"
+ plentiful_traditions_harvest_pedict.4.a:0 "훌륭하군!"
+ 
+ #####################
+ # Kleptocracy
+ #####################
+ 
+ tradition_plentiful_kleptocracy:0 "부패 정부"
+ tradition_plentiful_kleptocracy_desc:0 "사업은 수단과 방법을 가리지 않고 우리의 동업자들을 "설득"할 때에 가장 효율적이고 빈번하게 이뤄집니다."
+ tr_plentiful_kleptocracy_adopt:0 "부패 정부 전통"
+ tr_plentiful_kleptocracy_adopt_desc:0 "$tradition_plentiful_kleptocracy_desc$\n\n$tr_plentiful_kleptocracy_adopt_effect$\n\n$tr_plentiful_kleptocracy_finish_effect$"
+ tr_plentiful_kleptocracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+8%§!만큼 증가."
+ 
+ tr_plentiful_kleptocracy_finish:0 "부패 정부 전통 완료"
+ tr_plentiful_kleptocracy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_kleptocracy_adopt$를 완성하는 것은 우리의 §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!를 §G+25%§!만큼 증가시킵니다.\n §Y$MOD_PIRACY_SUPPRESSION_MULT$§!을 §G+10%§!만큼 증가.\n추가적으로 $district_generator$에서 §Y$MOD_PLANET_HOUSING_ADD$§!과 §H발전소 직업§!이 §G+1§!만큼 증가."
+ 
+ tr_plentiful_kleptocracy_1:0 "조작된 명분"
+ tr_plentiful_kleptocracy_1_desc:0 "§Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§!가 §G-10%§!만큼 감소하며 §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!이 §G+20§!만큼 증가합니다."
+ tr_plentiful_kleptocracy_1_delayed:0 "갈등이 있을 시 제국들은 제재를 견뎌야 할 때가 많습니다. 어떤 제국은 남들보다 제재를 더 당하죠."
+ 
+ tr_plentiful_kleptocracy_2:0 "고리대금업 활동"
+ tr_plentiful_kleptocracy_2_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! 가§G+10%§!만큼 증가합니다.\n\n§H항성기지 모듈 잠금해제:§! $sm_orbital_trading_beacon$, 행성에서 £energy£ §Y에너지 크레딧§!을 수집하는 항성기지 모듈입니다."
+ tr_plentiful_kleptocracy_2_delayed:0 "때로는 일의 효율성을 위해서 법을 지키지 않는 것도 필요합니다."
+ 
+ tr_plentiful_kleptocracy_3:0 "무절제한 탐욕"
+ tr_plentiful_kleptocracy_3_desc:0 "§H행성 시행령 해금:§! $plentiful_traditions_overcharge$, 이는 행성의 에너지 생산량을 향상시켜 £energy£ §Y에너지 크레딧§! 매장지를 발견할 확률을 가지며 £influence£  §Y영향력§!을 소모하여 행성의 에너지 생산량에 일시적인 §G+10%§!보너스를 줍니다."
+ tr_plentiful_kleptocracy_3_delayed:0 "에너지 생산과 물류 과정은 제국의 안정을 유지하기 위해 철저히 감독됩니다. 하지만 감시의 눈을 피해 행성의 에너지 생산 시설을 잠시 과충전 시키는 것이 불가능한 일만은 아닐 것입니다."
+ 
+ tr_plentiful_kleptocracy_4:0 "공범자"
+ tr_plentiful_kleptocracy_4_desc:0 "£influence£ §Y$mod_diplomacy_upkeep_mult$§!가 §G-15%§!만큼 감소하며 §Y$MOD_COUNTRY_TRUST_GROWTH$§!이 §G+15%§!만큼 증가합니다. 추가적으로 제국의 £opinion£ §Y관계도§!가 §G+10§!만큼 증가합니다."
+ tr_plentiful_kleptocracy_4_delayed:0 "통상 조약들이 효력을 가지기 위해선 공식화될 필요가 없습니다. 때로는 크레딧으로 특정 자들을 설득하는 것만으로 모든게 해결되기도 합니다."
+ 
+ tr_plentiful_kleptocracy_5:0 "불길한 조작자"
+ tr_plentiful_kleptocracy_5_desc:1 "§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§!가 §G-15%§!만큼 증가합니다.\n\n§H건물 해금:§! £building£  $building_plentiful_traditions_syndicate_quarters$, 제국에게 §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!를 주는 행성 고유 건물입니다.\n\n"
+ tr_plentiful_kleptocracy_5_delayed:0 "형식상의 절차들을 좋지만, 사업은 크레딧의 기록이 없는 물밑에서 거래가 성사될 때 가장 잘됩니다."
+ 
+ # Kleptocracy buildings
+ building_plentiful_traditions_syndicate_quarters:0 "범죄조직 기지"
+ building_plentiful_traditions_syndicate_quarters_desc:0 "범죄조직 기지는 우리 제국의 함선 수용력을 증가시킬 것입니다."
+ 
+ sm_orbital_trading_beacon:0 "궤도 거래 비콘"
+ 
+ tech_plentiful_traditions_orbital_trading_beacon:0 ""
+ tech_plentiful_traditions_orbital_trading_beacon_desc:0 "무역 기술의 발전은 우리의 발전 네트워크 에너지 생산량의 더 효율적인 처리가 가능하게 해줍니다."
+ 
+ # Kleptocracy edicts
+ triggered_opinion_tr_plentiful_kleptocracy_4:0 "부패한 정치인들"
+ plentiful_traditions_overcharge:0 "§Y과충전§!"
+ plentiful_traditions_overcharge_desc:1 "이 행성 시행령은 행성의 §Y발전 건물§!들을 향상시켜 추가적인 £energy£ §Y에너지 크레딧§! 매장지를 발견할 확률이 있으며 §Y10§!년간 일시적인 §G+10%§! 에너지 크레딧 생산량을 주지만 £influence£  §Y영향력을§! 소모합니다.\n\n"
+ plentiful_traditions_overcharge_effects_short:1 "£energy£§Y에너지 매장지§를 추가하며! 일시적으로 에너지 생산량 §G+10%§!를 제공합니다"
+ 
+ modifier_plentiful_traditions_overcharge:0 "과충전"
+ modifier_plentiful_traditions_overcharge_desc:1 "이 행성은 일시적인 £energy£ §Y에너지 크레딧§! 생산 보너스를 받습니다."
+ 
+ # Kleptocracy war demands
+ casus_belli_cb_pt_embargo:1 "§Y엠바고§!"
+ plentiful_traditions_embargo:1 "§Y엠바고§!"
+ war_goal_plentiful_traditions_embargo:1 "§H엠바고§!"
+ war_goal_plentiful_traditions_embargo_desc:2 "우리의 지인들은 적에게의 금수조치를 강요함으로 §Y10§!년간 그들의 §Y$CONSUMER_GOODS$§!의 광물 비용을 §R+20%§! 증가시킬 것입니다."
+ war_goal_plentiful_traditions_embargo_header:1 "§H엠바고§!"
+ war_goal_plentiful_traditions_embargo_subtext:0 "[parameter:country.GetName]"
+ war_goal_plentiful_traditions_embargo_tooltip_header:0 "$war_goal_plentiful_traditions_embargo_header$"
+ war_goal_plentiful_traditions_embargo_tooltip_content:2 "우리의 지인들은 [parameter:country.GetName]에게의 금수조치를 강요함으로 §Y10§!년간 그들의 §Y$CONSUMER_GOODS$§!의 광물 비용을 §R+20%§! 증가시킬 것입니다."
+ war_goal_plentiful_traditions_embargo_tooltip_proper_header:0 "$war_goal_plentiful_traditions_embargo_header$"
+ war_goal_plentiful_traditions_embargo_tooltip_proper_content:1 "$war_goal_plentiful_traditions_embargo_tooltip_content$"
+ war_goal_plentiful_traditions_embargo_no_planets:1 "제국의 모든 행성은 양도될 것입니다."
+ modifier_plentiful_traditions_embargo:0 "금수조치당한"
+ modifier_plentiful_traditions_embargo_desc:0 "우리 제국은 일시적인 경제적 제재를 받고 있습니다."
+ 
+ #####################
+ # Anguish
+ #####################
+ 
+ tradition_plentiful_anguish:0 "고뇌"
+ tradition_plentiful_anguish_desc:0 "섬세하게 설계된 전략과 첨단 무기들을 통하여 우리는 우주의 위험들을 극복해낼 것입니다."
+ tr_plentiful_anguish_adopt:0 "고뇌 전통"
+ tr_plentiful_anguish_adopt_desc:0 "$tradition_plentiful_anguish_desc$\n\n$tr_plentiful_anguish_adopt_effect$\n\n$tr_plentiful_anguish_finish_effect$"
+ tr_plentiful_anguish_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n우리가 §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!를 부여하는 군사 §Y교리§!를 연구할 때마다 우리의 §Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§!에 영구적인 §G-4%§! 감소를 추가합니다. 이는 §Y5§!까지 누적되며 최대 §G-20%§!까지 감소합니다."
+ 
+ tr_plentiful_anguish_finish:0 "고뇌 전통 완료"
+ tr_plentiful_anguish_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$tr_plentiful_anguish_adopt$를 완성하는 것은 §Y프레쏘린§!, §Y언비든§!, §Y아베란트§! and §Y베헤멘트§!에게 가하는 피해량을 §G+15%§!만큼 증가시킵니다. 외계종을 정화하면 £influence£ §Y영향력§!을 얻습니다."
+ 
+ tr_plentiful_anguish_1:0 "정밀한 교정"
+ tr_plentiful_anguish_1_desc:0 "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!가  §G+10%§! 증가합니다."
+ tr_plentiful_anguish_1_delayed:0 "비록 사용이 어렵긴 하나 장거리 무기들은 전황을 뒤집는데에 있어선 매우 효과적입니다."
+ 
+ tr_plentiful_anguish_2:0 "차원 접기"
+ tr_plentiful_anguish_2_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+8%§! 증가합니다."
+ tr_plentiful_anguish_2_delayed:0 "영점 역장의 무기기술 활용을 이해함으로써 우리는 우리의 무기 체계들을 그대로 유지시키면서 피해량을 증가시킵니다."
+ 
+ tr_plentiful_anguish_3:0 "군사행동 가속"
+ tr_plentiful_anguish_3_desc:0 "우리의 제국이 §R전쟁§!중일 때, our §Y$mod_country_unity_produces_mult$§! §G+10%§!까지 증가하고 £influence  §Y$mod_country_base_influence_produces_add$§! 도 §G+1§! 증가합니다. 또한, 우리의 §Y$mod_shipclass_military_station_build_cost_mult$§!, §Y$mod_shipclass_military_station_build_speed_mult$§! §Y$mod_shipclass_military_station_hull_mult$§! §Y15%§!만큼 각각 향상됩니다."
+ tr_plentiful_anguish_3_delayed:0 "우리의 군사행동의 발전은 우리 함대의 효율성을 증강시키고 사기를 높게 유지시켜줍니다."
+ 
+ tr_plentiful_anguish_4:0 "군국주의적 외교"
+ tr_plentiful_anguish_4_desc:0 "§Y$mod_category_military_theory_research_speed_mult$§!가 §G+20%§!만큼 증가했으며 §Y$mod_shipclass_starbase_hull_mult$§!가  §G+50%§!만큼 증가했습니다."
+ tr_plentiful_anguish_4_delayed:0 "군대의 전략, 작전과 실전상의 복잡한 요소들의 운영은 경험을 통해 전쟁을 이해하는 장군들이 없으면 불가능하다."
+ 
+ tr_plentiful_anguish_5:0 "특수 작전"
+ tr_plentiful_anguish_5_desc:1 "§Y몰락한 제국§!과 §Y깨어난 제국§!에게 가하는 데미지 §G+15%§! 증가."
+ tr_plentiful_anguish_5_delayed:0 "우리보다 강력한 적을 상대할 때는 특수 작전을 통해 우의를 점해야 한다."
+ 
+ modifier_plentiful_traditions_enraged:0 "분노한"
+ modifier_plentiful_traditions_enraged_desc:0 "침입자들을 정화해라."
+ modifier_plentiful_traditions_doctrine1:0 "해전 교리 I"
+ modifier_plentiful_traditions_doctrine2:0 "해전 교리 II"
+ modifier_plentiful_traditions_doctrine3:0 "해전 교리 III"
+ modifier_plentiful_traditions_doctrine4:0 "해전 교리 IV"
+ modifier_plentiful_traditions_doctrine5:0 "해전 교리 V"
+ 
+ #####################
+ # Defence
+ #####################
+ 
+ tradition_plentiful_defence:0 "방어"
+ tradition_plentiful_defence_desc:0 "그 누구도 믿을 수 없다. 없단 말이다! 적으로부터 몸을 지키려면 벙커밖에 답이 없다."
+ tr_plentiful_defence_adopt:0 "방어 전통"
+ tr_plentiful_defence_adopt_desc:0 "$tradition_plentiful_defence_desc$\n\n$tr_plentiful_defence_adopt_effect$\n\n$tr_plentiful_defence_finish_effect$"
+ tr_plentiful_defence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n전통 하나당 우리는 항성기지에 3개의 §Y$MOD_STARBASE_DEFENSE_PLATFORM_CAPACITY_ADD$§!가 건설 가능하게 해줍니다."
+ 
+ tr_plentiful_defence_finish:0 "방어 전통 완료"
+ tr_plentiful_defence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n군대는 §G100§! §Y$MOD_ARMY_STARTING_EXPERIENCE_ADD$§!를 가진 체 시작합니다.\n§Y$mod_planet_structures_cost_mult$§!가 §G-10%§!만큼 감소했으며.\n§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!가  §G+10%§!만큼 증가했다.\n\n"
+ 
+ tr_plentiful_defence_1:0 "정밀한 장갑"
+ tr_plentiful_defence_1_desc:0 "우리 함선의 §Y$MOD_SHIP_HULL_ADD$§!가 증가합니다(초계함 100 구축함 200 순앙함 500 전함 800 작은 항성기지 500)"
+ tr_plentiful_defence_1_delayed:0 "우리의 함선과 방어 플래트폼들을 적으로부터 보호하기 위해선 이들에게 추가 장갑을 장착해야 합니다."
+ 
+ tr_plentiful_defence_2:0 "종심 작전"
+ tr_plentiful_defence_2_desc:0 "§Y$MOD_ARMY_DEFENSE_MORALE_MULT$§!가  §G+20%§! 증가합니다."
+ tr_plentiful_defence_2_delayed:0 "종심작전 이론은 1920년대와 1930년대에 소련에서 개발된 군사 교리다. 이 전술은 적을 격멸하고 억누르고 조직적인 행동 능력을 분쇄하는 데에 집중하는 교리지만 적과의 접촉을 통해서가 아니라 전장의 광활함을 통해 이를 이룬다."
+ 
+ tr_plentiful_defence_3:0 "유연한 자재 공급"
+ tr_plentiful_defence_3_desc:0 "우리의 §Y§Y$mod_category_materials_research_speed_mult$§!가 §G+20%§!만큼 증가합니다."
+ tr_plentiful_defence_3_delayed:0 "내륙 지역에 있는 자원들은 우리 군대를 효율적으로 보급할 수 있게 해줍니다."
+ 
+ tr_plentiful_defence_4:0 "유전적 선택"
+ tr_plentiful_defence_4_desc:0 "§Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§!가  §G+20%§!만큼 증가하며 §Y$MOD_ARMY_DEFENSE_DAMAGE_MULT$§!가 §G+20%§!만큼 증가합니다."
+ tr_plentiful_defence_4_delayed:0 "적합한 병사들을 선택하면, 그 어떤 적도 우리에게 해를 가할 수 없다."
+ 
+ tr_plentiful_defence_5:0 "벙커주의자"
+ tr_plentiful_defence_5_desc:1 "£building£ §Y지타돔§!을 액세스할 수 있습니다."
+ tr_plentiful_defence_5_delayed:0 "가장 큰 성채보다도 크고 단단히 방어된 이 요새는 그 누구도 뺏을 수 없습니다. \n\n £society£ §M$tech_global_defense_grid$§! 기술이 필요합니다."
+ 
+ # Defence buildings
+ building_plentiful_traditions_zitadom:0 "지타돔"
+ building_plentiful_traditions_zitadom_desc:0 "지타돔은 상상할 수 있는 가장 큰 요새입니다."
+ 
+ #####################
+ # Assault
+ #####################
+ 
+ tradition_plentiful_assault:0 "공세"
+ tradition_plentiful_assault_desc:0 "공격이야말로 최고의 방어입니다."
+ tr_plentiful_assault_adopt:0 "공세 전통"
+ tr_plentiful_assault_adopt_desc:0 "$tradition_plentiful_assault_desc$\n\n$tr_plentiful_assault_adopt_effect$\n\n$tr_plentiful_assault_finish_effect$"
+ tr_plentiful_assault_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HULL_DAMAGE_MULT$§! §G+10%§! 증가하고, §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! §G+10§! 증가하고 §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! §G+10%§! 증가합니다."
+ 
+ tr_plentiful_assault_finish:0 "공세 전통 완료"
+ tr_plentiful_assault_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n§Y$MOD_SHIP_SHIELD_DAMAGE_MULT$§!가 §G+10%§!만큼 증가했으며.\n§Y$mod_ships_upkeep_mult$§!가 §G-10%§!만큼 감소했다.\n\n"
+ 
+ tr_plentiful_assault_1:0 "기동성을 통한 승리"
+ tr_plentiful_assault_1_desc:0 "§Y$MOD_SHIP_SPEED_MULT$§!가 §G+15%§!만큼 증가합니다"
+ tr_plentiful_assault_1_delayed:0 "우리는 거대한 포위망 속에 적을 가두고 한번에 공격해야 합니다."
+ 
+ tr_plentiful_assault_2:0 "향상된 임플란트"
+ tr_plentiful_assault_2_desc:0 "§Y$MOD_ARMY_ATTACK_MORALE_MULT$§!가 §G+20%§!만큼 증가했고 §Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§!가 §G+20%§!만큼 증가했습니다."
+ tr_plentiful_assault_2_delayed:0 "임플란트를 사용하면 군대를 더 잘 지휘할 수 있습니다."
+ 
+ tr_plentiful_assault_3:0 "리더십 교육기관"
+ tr_plentiful_assault_3_desc:0 "§Y$MOD_COUNTRY_LEADER_POOL_SIZE$§!와 §Y$MOD_COUNTRY_ENVOYS_ADD$§!가 §G+1§!만큼 증가합니다."
+ tr_plentiful_assault_3_delayed:0 "리더십 교육원은 모든 장교, 장군/제독과 특사의 추가 훈련과 고급 훈련이 이루어지는 최상위의 군사 기관 및 훈련소다."
+ 
+ tr_plentiful_assault_4:0 "전선에서의 리더십"
+ tr_plentiful_assault_4_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§!가 §G+1§!만큼 증가하며 §Y$MOD_LEADER_RULER_SKILL_LEVELS$§!가 §G+1§!만큼 증가합니다."
+ tr_plentiful_assault_4_delayed:0 "최전선에서의 리더십은 가장 전통적인 리더십이다. 지휘관은 전선에서 전투에 참여하고 자기 권한 내 부하들에게 명령을 직접 내린다."
+ 
+ tr_plentiful_assault_5:0 "전격전"
+ tr_plentiful_assault_5_desc:1 "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!가 §G+20%§!만큼 증가합니다.\n §Y$mod_ships_upkeep_mult$§!가  · §G-10%§!만큼 감소합니다.\n§Y$MOD_SHIP_SPEED_MULT$§!가 §G+15%§!만큼 증가합니다"
+ tr_plentiful_assault_5_delayed:0 "집중하라, 분산하지 마라!- 하인츠 구데리안"
+ 
+ #####################
+ # Transformation
+ #####################
+ 
+ tradition_plentiful_transformation:0 "변신"
+ tradition_plentiful_transformation_desc:0 "정체는 퇴보와 같다. 미래를 따라잡기 위해선 우린 계속 적응해야 한다."
+ tr_plentiful_transformation_adopt:0 "변신 전통"
+ tr_plentiful_transformation_adopt_desc:0 "$tradition_plentiful_transformation_desc$\n\n$tr_plentiful_transformation_adopt_effect$\n\n$tr_plentiful_transformation_finish_effect$"
+ tr_plentiful_transformation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§!가 §G-5%§!만큼 감소합니다. 우리는 §G$tech_climate_restoration$§! 기술을 연구할 수 있습니다. 변신 전통을 추가적으로 완료할수록 우리는 §G$tech_terrestrial_sculpting$§! 기술에 진전을 얻게 됩니다"
+ 
+ tr_plentiful_transformation_finish:0 "변신 전통 완료"
+ tr_plentiful_transformation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§!가 §G-10%§!만큼 감소합니다.\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§!가 §G+10%§!만큼 증가합니다.\n\n"
+ 
+ tr_plentiful_transformation_1:0 "에너지 창고 건설"
+ tr_plentiful_transformation_1_desc:0 "우리의 §Y$ mod_country_resource_max_energy_add$§!가 §G5000§!만큼 증가했습니다."
+ tr_plentiful_transformation_1_delayed:0 "미래 세대를 위해서 여유분을 남겨놓는 것은 필수적이다."
+ 
+ tr_plentiful_transformation_2:0 "방탕함을 통한 변화"
+ tr_plentiful_transformation_2_desc:0 "£energy£ §Y에너지 크레딧§!, £minerals£ §Y광물§!과 £food£ §Y음식§!을 전환시킬 수 있는 시행령을 해금합니다"
+ tr_plentiful_transformation_2_delayed:0 "무슨 이득을 볼 수 있죠?"
+ 
+ tr_plentiful_transformation_3:0 "미래열망"
+ tr_plentiful_transformation_3_desc:0 "행성이 테라포밍 되는 도중에는 §GHappiness§!에 아무런 영향도 없습니다."
+ tr_plentiful_transformation_3_delayed:0 "테라포밍 과정은 행성에 살고 있는 자들에게 많은 불편을 감수하게 하지만 미래에 대한 신뢰는 그럴 만한 가치가 있다고 생각하게 합니다."
+ 
+ tr_plentiful_transformation_4:0 "다양성을 통한 변화"
+ tr_plentiful_transformation_4_desc:0 "이는 우리의 §Y$species_trait_points_add$§!(생물학적/로봇/기계)를 §G+1§!만큼 증가시킵니다"
+ tr_plentiful_transformation_4_delayed:0 "우리의 "외피"는 이제 개선될 수 있습니다."
+ 
+ tr_plentiful_transformation_5:0 "천적"
+ tr_plentiful_transformation_5_desc:1 "파괴된 행성 복원 (§Y$pc_shattered$§!, §Y$pc_molten$§!, §Y$pc_broken$§!, §Y$pc_barren$§!, §Y$pc_toxic$§!, §Y$pc_barren_cold$§!, §Y$pc_frozen$§!을 위한 새로운 테라포밍 방안)."
+ tr_plentiful_transformation_5_delayed:0 "파괴된 행성을 복원하는 데에는 대량의 에너지, 광물과 영향력이 필요합니다."
+ 
+ # Transformation edicts
+ plentiful_traditions_energy_to_minerals:0 "§G에너지에서 물질로§!"
+ plentiful_traditions_energy_to_minerals_desc:1 "이 시행령을 통하여 우리는 £energy£ §Y에너지 크레딧§!를 £minerals£ §Y광물§!로 전환할 수 있는 기회를 얻게 됩니다."
+ plentiful_traditions_energy_to_food:0 "§GEnergy to food§!"
+ plentiful_traditions_energy_to_food_desc:1 "이 시행령을 통하여 우리는 £energy£ §Y에너지 크레딧§!을 £food£ §Y음식§!으로 전환할 수 있는 기회를 얻게 됩니다."
+ plentiful_traditions_minerals_to_energy:0 "§GMatter to energy§!"
+ plentiful_traditions_minerals_to_energy_desc:1 "이 시행령을 통하여 우리는 £minerals£ §Y광물§!을 £energy£ §Y에너지 크레딧§!으로 전환할 수 있는 기회를 얻게 됩니다."
+ plentiful_traditions_minerals_to_food:0 "§GMatter to food§!"
+ plentiful_traditions_minerals_to_food_desc:1 "이 시행령을 통하여 우리는 £minerals£ §Y광물§!을 £food£ §Y음식§!으로 전환할 수 있는 기회를 얻게 됩니다."
+ plentiful_traditions_food_to_minerals:0 "§GFood to matter§!"
+ plentiful_traditions_food_to_minerals_desc:1 "이 시행령을 통하여 우리는 £food£ §Y음식§!을 £minerals£ §Y광물§!로 전환할 수 있는 기회를 얻게 됩니다."
+ plentiful_traditions_food_to_energy:0 "§GFood to energy§!"
+ plentiful_traditions_food_to_energy_desc:1 "이 시행령을 통하여 우리는 £food£ §Y음식§!을 £energy£ §Y에너지 크레딧§!으로 전환할 수 있는 기회를 얻게 됩니다."
+ plentiful_traditions_habitat_construction:0 "§GExpansion of the open habitat§!"
+ plentiful_traditions_habitat_construction_desc:1 "이 시행령을 통하여 우리는 거주지를 로봇을 통해 확장시킬 수 있는 기회를 얻게 됩니다."
+ 
+ # Transformation modifier
+ modifier_plentiful_traditions_transformation:0 "전환 완료"
+ modifier_plentiful_traditions_transformation_desc:1 "이제는 쉴 때다."
+ modifier_plentiful_traditions_terraforming_fine:0 "미래를 위하여 건배!"
+ modifier_plentiful_traditions_terraforming_fine_desc:1 "테라포밍이야말로 우리가 걸어야 할 길이다."
+ modifier_plentiful_traditions_habitat_construction:0 "거주지 확장중."
+ modifier_plentiful_traditions_habitat_construction_desc:1 "확장은 1년에서 3년 사이가 걸릴 것입니다."
+ 
+ plentiful_traditions_habitat_construction_not_max_size:0 "이 거주지는 더 이상 확장될 수 없습니다. 이미 최대 크기(25)입니다. 신이시어 황제 페하를 지켜주십시오."
+ plentiful_traditions_habitat_construction_minerals:0 "최소한 §Y10.000§! £minerals£ §Y광물§!은 필요합니다."
+ plentiful_traditions_habitat_construction_energy:0 "최소한 §Y10.000§! £energy£ §Y에너지 크레딧§!과 20 £energy£ §Y에너지 크레딧§! (생산량)이 필요할 것입니다."
+ plentiful_traditions_habitat_construction_modifier:0 "거주지에 작업이 시작되었습니다. 완성까지 최대 3년이 걸릴 것이며 비용이 들 것입니다."
+ 
+ # Transformation modifier
+ plentiful_traditions_transformation_pedict.30.name:0 "[Root.GetName] · 거주지 확장됨"
+ plentiful_traditions_transformation_pedict.30.desc:0 "우리의 [Root.GetName] 거주지는 무중력 무기압 환경에서 로봇들에 의해 확장되었습니다."
+ plentiful_traditions_transformation_pedict.30.a:0 "더욱 확장하라!"
+ plentiful_traditions_transformation_pedict.30.b:0 "기압을 높여라!"
+ plentiful_traditions_transformation_pedict.30.c:0 "이걸로 충분하다."
+ 
+ # Transformation archetypes
+ BIOLOGICAL_PLENTIFUL_1:0 "생물학적 개선"
+ 
+ edict_plentiful_traditions_transformation_off:0 "로컬 변신 결정 - OFF"
+ edict_plentiful_traditions_transformation_off_desc:1 "이 시행령은 변신 디시젼이 행성 디시젼 내에 보이는 것을 방지합니다. 1년 후 다시 활성화될 수 있습니다."
+ edict_plentiful_traditions_transformation_on:0 "로컬 변신 결정 - ON"
+ edict_plentiful_traditions_transformation_on_desc:1 "이 시행령은 변신 디시젼이 행성 디시젼 내에 보이게 해줍니다. 1년 후 다시 비활성화될 수 있습니다."
+ 
+ 
+ #####################
+ # Endurance
+ #####################
+ 
+ tradition_plentiful_endure:0 "인내"
+ tradition_plentiful_endure_desc:0 "우리는 그때까지 살기만 한다면 결국 모든 것이 괜찮아질 것이라는 믿음 하에 살고 있습니다."
+ tr_plentiful_endure_adopt:0 "인내 전통"
+ tr_plentiful_endure_adopt_desc:0 "$tradition_plentiful_endure_desc$\n\n$tr_plentiful_endure_adopt_effect$\n\n$tr_plentiful_endure_finish_effect$"
+ tr_plentiful_endure_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!가 §G+5%§!만큼 증가합니다."
+ 
+ tr_plentiful_endure_finish:0 "인내 전통 완료"
+ tr_plentiful_endure_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n§Y$mod_pc_nuked_habitability$§!가 §G+10%§!만큼 증가합니다.\n\n"
+ 
+ tr_plentiful_endure_1:0 "결속력은 통합력을 만든다"
+ tr_plentiful_endure_1_desc:0 "우리의 §Y$mod_country_unity_produces_mult$§!가 §G+5%§!만큼 증가했습니다"
+ tr_plentiful_endure_1_delayed:0 "우리의 거주민들은 공동의 목적을 정의하고 이루는 데에 매우 열정적입니다."
+ 
+ tr_plentiful_endure_2:0 "피, 땀과 눈물"
+ tr_plentiful_endure_2_desc:0 "우리의 §Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§!가 §G-25%§!만큼 감소했습니다"
+ tr_plentiful_endure_2_delayed:0 "나는 피, 수고, 눈물, 땀밖에 드릴 것이 없다. - 윈스턴 처칠"
+ 
+ tr_plentiful_endure_3:0 "심연을 엿보다."
+ tr_plentiful_endure_3_desc:0 "우리는 §G$DARK_MATTER_REACTOR$§! 기술을 확보했습니다. \n\n§HUnlocks Spaceport Module:§! $sm_orbital_fertilizer_array$, 항성기지 모듈로 행성으로부터 £food£ §Y음식§!을 수확한다."
+ tr_plentiful_endure_3_delayed:0 "§G$DARK_MATTER_REACTOR$§!은 우리에게 대량의 에너지를 제공해줍니다."
+ 
+ tr_plentiful_endure_4:0 "본국"
+ tr_plentiful_endure_4_desc:0 "우리의 §Y$mod_planet_jobs_slave_produces_mult$§!가 §G+20%§!만큼 증가합니다."
+ tr_plentiful_endure_4_delayed:0 "마치 조용한 군마처럼 노예는 매일매일 농지와 광산에서 제국을 위하여 싸웁니다."
+ 
+ tr_plentiful_endure_5:0 "초거대"
+ tr_plentiful_endure_5_desc:1 "우리의 §Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§!가  §G25%§!만큼 증가했습니다\n 거이에다가 우리는 이제 거대 구조물을 동시에 하나 더 건축할 수 있습니다."
+ tr_plentiful_endure_5_delayed:0 "우리는 마침내 거대 구조물들을 통해 번영할 수 있습니다."
+ 
+ sm_orbital_fertilizer_array:0 "비료 광선"
+ 
+ tech_plentiful_traditions_orbital_fertilizer_array:0 "비료 광선"
+ tech_plentiful_traditions_orbital_fertilizer_array_desc:0 "특수한 방사능에 계속 노출시킴으로써 우리는 이 행성에서 식량을 생산할 때 기존보다 더 많은 수확량을 얻을 수 있습니다."
+ 
+ 
+ ################################################################
+ # ASCENSION PERKS
+ ################################################################
+ 
+ ap_plentiful_traditions_favored_equilibrium:0 "선호된 평형"
+ ap_plentiful_traditions_favored_equilibrium_desc:0 "우리의 단결력을 통해 우리는 우리가 바라던 진정한 균형에 다다를 수 있습니다."
+ ap_plentiful_traditions_avicennian_motion:0 "아비세나의 가르침"
+ ap_plentiful_traditions_avicennian_motion_desc:0 "외부 힘이 작용하지 않는다면 진공에서 발사체의 움직임은 멈추지 않을 것이다."
+ ap_plentiful_traditions_ghazalian_revelations:0 "가잘리안 발견"
+ ap_plentiful_traditions_ghazalian_revelations_desc:0 "행동이 없는 지식은 낭비며 지식이 없는 행동은 어리석음이다."
+ 
+ tooltip_plentiful_traditions_ghazalian_revelations:0 "모두의 £opinion£ §YOpinion§!가 §G+20§!만큼 증가했습니다."
+ 
+ triggered_opinion_ap_plentiful_traditions_ghazalian_revelations:0 "가잘리안 발견"
+ 
+ trait_plentiful_traditions_robot_test0:0 "MK0"
+ trait_plentiful_traditions_robot_test0_desc:0 ""
+ trait_plentiful_traditions_robot_test1:0 "MK1"
+ trait_plentiful_traditions_robot_test1_desc:0 ""
+ trait_plentiful_traditions_robot_test2:0 "MK2"
+ trait_plentiful_traditions_robot_test2_desc:0 ""
+ trait_plentiful_traditions_robot_test3:0 "MK3"
+ trait_plentiful_traditions_robot_test3_desc:0 ""
+ trait_plentiful_traditions_robot_test4:0 "MK4"
+ trait_plentiful_traditions_robot_test4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_research1:0 "학습 단위 unum"
+ trait_plentiful_traditions_robot_research1_desc:0 ""
+ trait_plentiful_traditions_robot_research2:0 "학습 단위 duo"
+ trait_plentiful_traditions_robot_research2_desc:0 ""
+ trait_plentiful_traditions_robot_research3:0 "학습 단위 tribus"
+ trait_plentiful_traditions_robot_research3_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_minerals1:0 "광석 스캐너"
+ trait_plentiful_traditions_robot_minerals1_desc:0 ""
+ trait_plentiful_traditions_robot_minerals2:0 "지각 압력 파동"
+ trait_plentiful_traditions_robot_minerals2_desc:0 ""
+ trait_plentiful_traditions_robot_minerals3:0 "레이저 드릴"
+ trait_plentiful_traditions_robot_minerals3_desc:0 ""
+ trait_plentiful_traditions_robot_minerals4:0 "녹슨 톱니바퀴"
+ trait_plentiful_traditions_robot_minerals4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_energy1:0 "차폐된 배터리"
+ trait_plentiful_traditions_robot_energy1_desc:0 ""
+ trait_plentiful_traditions_robot_energy2:0 "복구 펌웨어"
+ trait_plentiful_traditions_robot_energy2_desc:0 ""
+ trait_plentiful_traditions_robot_energy3:0 "전도성 나노로봇"
+ trait_plentiful_traditions_robot_energy3_desc:0 ""
+ trait_plentiful_traditions_robot_energy4:0 "망가진 케이블들"
+ trait_plentiful_traditions_robot_energy4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_food1:0 "바이오 주입기"
+ trait_plentiful_traditions_robot_food1_desc:0 ""
+ trait_plentiful_traditions_robot_food2:0 "보습 구획"
+ trait_plentiful_traditions_robot_food2_desc:0 ""
+ trait_plentiful_traditions_robot_food3:0 "수중 처리기"
+ trait_plentiful_traditions_robot_food3_desc:0 ""
+ trait_plentiful_traditions_robot_food4:0 "탈출한 실험체"
+ trait_plentiful_traditions_robot_food4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_society1:0 "로봇 등급"
+ trait_plentiful_traditions_robot_society1_desc:0 ""
+ trait_plentiful_traditions_robot_society2:0 "기대값 계산"
+ trait_plentiful_traditions_robot_society2_desc:0 ""
+ trait_plentiful_traditions_robot_society3:0 "생물학적 기계 교리"
+ trait_plentiful_traditions_robot_society3_desc:0 ""
+ trait_plentiful_traditions_robot_society4:0 "반 사회적 봇"
+ trait_plentiful_traditions_robot_society4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_physics1:0 "실험실 개체"
+ trait_plentiful_traditions_robot_physics1_desc:0 ""
+ trait_plentiful_traditions_robot_physics2:0 "양쟈 두뇌"
+ trait_plentiful_traditions_robot_physics2_desc:0 ""
+ trait_plentiful_traditions_robot_physics3:0 "블랙홀 분석"
+ trait_plentiful_traditions_robot_physics3_desc:0 ""
+ trait_plentiful_traditions_robot_physics4:0 "불량 회로"
+ trait_plentiful_traditions_robot_physics4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_engineering1:0 "추가적인 도구상자"
+ trait_plentiful_traditions_robot_engineering1_desc:0 ""
+ trait_plentiful_traditions_robot_engineering2:0 "개선된 용접기"
+ trait_plentiful_traditions_robot_engineering2_desc:0 ""
+ trait_plentiful_traditions_robot_engineering3:0 "백업 회로"
+ trait_plentiful_traditions_robot_engineering3_desc:0 ""
+ trait_plentiful_traditions_robot_engineering4:0 "기름 누출"
+ trait_plentiful_traditions_robot_engineering4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_buildspeed1:0 "산업 통찰력"
+ trait_plentiful_traditions_robot_buildspeed1_desc:0 ""
+ trait_plentiful_traditions_robot_buildspeed2:0 "개선된 접목"
+ trait_plentiful_traditions_robot_buildspeed2_desc:0 ""
+ trait_plentiful_traditions_robot_buildspeed3:0 "지능적인 청사진"
+ trait_plentiful_traditions_robot_buildspeed3_desc:0 ""
+ trait_plentiful_traditions_robot_buildspeed4:0 "껴버린 부품들"
+ trait_plentiful_traditions_robot_buildspeed4_desc:0 ""
+ 
+ trait_plentiful_traditions_robot_buildcost1:0 "대체 디자인"
+ trait_plentiful_traditions_robot_buildcost1_desc:0 ""
+ trait_plentiful_traditions_robot_buildcost2:0 "재단장된 모델들"
+ trait_plentiful_traditions_robot_buildcost2_desc:0 ""
+ trait_plentiful_traditions_robot_buildcost3:0 "인공 세계 연결"
+ trait_plentiful_traditions_robot_buildcost3_desc:0 ""
+ trait_plentiful_traditions_robot_buildcost4:0 "추가 페인트 작업"
+ trait_plentiful_traditions_robot_buildcost4_desc:0 ""
+ 
+ 
+ ################################################################
+ # PLENTIFUL PERKS
+ ################################################################
+ 
+ ap_plentiful_traditions_immigration_power:0 "이민 능력"
+ ap_plentiful_traditions_immigration_power_desc:0 "우리는 이주 유입의 상징이다-모두가 여기서 살고 싶어한다."
+ ap_plentiful_traditions_fire_to_each_side:0 "준비되는대로 발포하라!"
+ ap_plentiful_traditions_fire_to_each_side_desc:0 "해적들과 다른 쓰레기들을 저세상으로 보내버릴 수 있는 크고 굵은 대포가 있다면, 창녀나 엔터테이너들이 무슨 상관이겠는가?"
+ ap_plentiful_traditions_trade_empire:0 "무역 제국"
+ ap_plentiful_traditions_trade_empire_desc:0 "재력은 곧 권력이며, 아무리 많아도 부족하다. 또한 돈은 냄새가 나지 않는다. 우리는 이제 §Y$building_plentiful_traditions_trading_terminal$§!를 업그레이드 할 수 있습니다."
+ ap_plentiful_traditions_food_is_life:0 "음식은 곧 삶이다."
+ ap_plentiful_traditions_food_is_life_desc:0 "우리는 음식이 없다면 아무것도 아니다. 우리는 사람들은 만족시켜야 한다. 우리는 이제 §Y$building_plentiful_traditions_advanced_pillar_of_affliction$§!를 업그레이드 할 수 있습니다."
+ ap_plentiful_traditions_food_is_life_lithoids:0 "음식은 곧 삶이다"
+ ap_plentiful_traditions_food_is_life_lithoids_desc:0 "우리는 음식이 없다면 아무것도 아니다. 우리는 사람들은 만족시켜야 한다."
+ ap_plentiful_traditions_food_is_life_machines:0 "음식은 곧 삶이다"
+ ap_plentiful_traditions_food_is_life_machines_desc:0 "우리는 음식이 없다면 아무것도 아니다. 우리는 사람들은 만족시켜야 한다."
+ ap_plentiful_traditions_metaverse_ecosystem:0 "인공 세계 생태계"
+ ap_plentiful_traditions_metaverse_ecosystem_desc:0 "기술과 현실과 가상 사이의 연결의 대중화와 최우선으로 진행되어야 한다."
+ tooltip_plentiful_traditions_metaverse_ecosystem:1 "$tech_plentiful_traditions_metaverse_ecosystem_desc$"
+ requires_plentiful_metaverse_ecosystem:1 "$TRIGGER_FAIL$ 완료된 §Y$tradition_plentiful_cybernetics$§! 전통 트리가 필요합니다."
+ ap_plentiful_traditions_mechanical_alternative:0 "기계적 대안"
+ ap_plentiful_traditions_mechanical_alternative_desc:0 "기계의 장점은 부품의 쉽고 빠른 교체입니다. 공간 사용을 최적화 시킴으로써 우리는 로봇들의 §Y$MOD_POP_HOUSING_USAGE_MULT$§!를 §G-25%§!만큼 줄일 수 있습니다."
+ tooltip_plentiful_traditions_mechanical_alternative:1 "$ap_plentiful_traditions_mechanical_alternative_desc$"
+ requires_plentiful_traditions_mechanical_alternative:1 "$TRIGGER_FAIL$§Y$ap_plentiful_traditions_metaverse_ecosystem$§! 승천 특전을 필요로 합니다."
+ ap_plentiful_traditions_mass_effect:0 "매스 이펙트"
+ ap_plentiful_traditions_mass_effect_desc:0 "우리는 무한한 인력을 통해 끌어당겨지고 있다. 아무도 우리에게 맞설 수 없다."
+ ap_plentiful_traditions_absolute_power:0 "절대적인 힘"
+ ap_plentiful_traditions_absolute_power_desc:0 "난 인류의 3번째 시대를 내 눈으로 보았다. 지구력 2257년에 중립에 남아 있던 마지막의 바빌론 항성기지들로부터 모든것이 시작되었다. 수백개의 행성들로부터의 난민, 밀수꾼, 사업가, 외교관, 그리고 여행자들을 부르는 신호였다. 위험한 곳일 수도 있었지만, 우리는 바빌론 5가 평화의 최선의, 그리고 마지막 기회임을 알았기 때문에 수락했다."
+ ap_plentiful_traditions_foreign_fleet_reconnaissance:0 "타국 함대 정찰"
+ ap_plentiful_traditions_foreign_fleet_reconnaissance_desc:0 "외국 육군 사단(독일어로 Fremde Heere)은 1차 대전 당시 독일군 사령부 에 의해 설립되었다. 1차 대전 당시 이 사단은 III b 사단과 전장에 위치한 적의 장교들로부터 얻은 정보를 분석했다. 1917 5월 정보부로 등장했다(독일어로 Nachrichtenabteilung)./n/n 항성간 여행의 시대에 제국을 영광으로 이끌기 위해선 적지 내의 정찰이 유용한 정도가 아니라 필수적이라는 것이 확실해졌다."
+ ap_plentiful_traditions_tomb_life:0 "무덤 생활"
+ ap_plentiful_traditions_tomb_life_desc:0 "해로운 방사선의 지속된 사용에 의해 우리 종족은 모든 생활환경에 완벽히 적응하였습니다. 우리는 이제 §Y$trait_pc_nuked_preference$§!로 전환할 수 있습니다."
+ tooltip_plentiful_traditions_tomb_life:1 "$ap_plentiful_traditions_tomb_life_desc$"
+ ap_plentiful_traditions_experimentalism_expanded:0 "실험 정신 확장"
+ ap_plentiful_traditions_experimentalism_expanded_desc:0 "연구를 통하여 우리는 이제 아원자 차원에서 우리 적들을 공격할 수 있습니다."
+ tooltip_plentiful_traditions_experimentalism_expanded:1 "$p_plentiful_traditions_experimentalism_expanded_desc$"
+ ap_plentiful_traditions_psionic_theory:0 "사이오닉 이론"
+ ap_plentiful_traditions_psionic_theory_desc:0 "우리는 §Y$tech_psionic_theory$§!를 확보했습니다. 이것이 진화의 다음 단계인가요?"
+ tooltip_plentiful_traditions_psionic_theory:1 "$ap_plentiful_traditions_psionic_theory_desc$"
+ ap_plentiful_traditions_slave_complex:0 "노예 복합단체"
+ ap_plentiful_traditions_slave_complex_desc:0 "모든 노예는 왕국 내에서 맡는 일이 있습니다. 이 제도를 확장합시다."
+ tooltip_plentiful_traditions_slave_complex:1 "이제부터 노예들은 효율을 더 높이기 위해 특성이 부여될 것입니다. 추가적으로 §YHappiness§!의 영향을 받지 않습니다."
+ ap_plentiful_traditions_slave_nation:0 "노예 국가"
+ ap_plentiful_traditions_slave_nation_desc:0 "우리 국가는 재편될 준비가 완료되었습니다. 우리는 이제 노예 국가가 될 수 있습니다."
+ tooltip_plentiful_traditions_slave_nation:1 "이제 다른 수준의 종속관계: pt_civic_slave_nation을 활성화할 수 있습니다. 우리의 정부 형태는 §Y$pt_civic_slave_nation$§!과 §Y$civic_slaver_guilds$§!로 변경됩니다."
+ ap_plentiful_traditions_slave_housing:0 "노예 거주지"
+ ap_plentiful_traditions_slave_housing_desc:0 "공간의 사용을 최적화시킴으로써 우리는 노예의 §Y$MOD_POP_HOUSING_USAGE_MULT$§!를 §G-25%§!만큼 줄일 수 있습니다."
+ tooltip_plentiful_traditions_slave_housing:1 "$ap_plentiful_traditions_slave_housing_desc$"
+ ap_plentiful_traditions_industrial_mining_excavation:0 "과도한 채광"
+ ap_plentiful_traditions_industrial_mining_excavation_desc:0 "우리의 행성 채굴은 미래에 광물시장을 붕괴시킬 수 있을 정도로 거대합니다. 우린 이제 §Y$building_plentiful_traditions_advanced_purification_facility$§!를 업그레이드 할 수 있습니다."
+ tooltip_plentiful_traditions_industrial_mining_excavation:1 "$p_plentiful_traditions_industrial_mining_excavation_desc$"
+ ap_plentiful_traditions_transformation:0 "이상적인 변신"
+ ap_plentiful_traditions_transformation_desc:0 "이제 자연이 우리에게 완전히 무릎을 꿇었으니, 추가적인 지구를 건설할 수 있습니다."
+ allow_decision_transformation_mastery:0 "§H디시젼 잠금해제:§! 변신의 완벽화"
+ describe_decision_transformation_mastery:0 "§E이것은 행성이 지원할 수 있는 지구의 최대 수를 §Y8§!만큼 증가시키는 디시젼이다. 이는 행성마다 한 번만 시행될 수 있습니다.§!"
+ ap_plentiful_traditions_justice:0 "정의"
+ ap_plentiful_traditions_justice_desc:0 "부당한 평화라도 정당한 전쟁보다는 낫습니다."
+ tooltip_plentiful_traditions_justice:1 "$ap_plentiful_traditions_justice_desc$"
+ ap_plentiful_traditions_discovery:0 "고고학적 타임루프"
+ ap_plentiful_traditions_discovery_desc:0 "믿기 힘들겠지만, 우리는 시간여행자들에게서 주기적인 연락을 받습니다. 아주르와 보라투스가 그들의 이름입니다."
+ tooltip_plentiful_traditions_discovery:1 "$ap_plentiful_traditions_discovery_desc$"
+ ap_hive_mind_ascension:0 "생물학적 진화"
+ ap_hive_mind_ascension_desc:0 "이제 우리의 결함투성이 개인으로써의 존재를 버리고 하나의 정신으로 불멸의 존재가 되어야 합니다. 우리는 전 인구를 준비시킨 후 의식의 융합을 진행할 것입니다."
+ tooltip_plentiful_traditions_hive_mind_ascension:1 "$ap_hive_mind_ascension_desc$"
+ ap_total_assimilation:0 "완전한 동화"
+ ap_total_assimilation_desc:0 "우리는 완벽한 생명체입니다. 우리의 §T$building_clone_vat$§!-건물들은 §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_MULT$§!를 §G+1§!만큼 줍니다."
+ tooltip_plentiful_traditions_total_assimilation:1 "$ap_total_assimilation_desc$"
+ total_assimilation:1 "우리는 다른 종족들을 우리의 주 종족으로 변화시킬 수 있습니다.(음식으로 사용되니 않는 한)\n\n 추가적으로, §Yhomeworld§!와 §Y$pc_hive$§! 행성들의 수도 건물들은 §P$job_queen$§!가 주어지며 §T$building_cocoon_assembly_plant$§! 건물을 지을 수 있게 됩니다."
+ ap_plentiful_traditions_mutagenesis_universalis:0 "돌연변이 보편화"
+ ap_plentiful_traditions_mutagenesis_universalis_desc:0 "코발리는 델타 사분면에서 온 휴머노이드 종족이었습니다. 그들의 번식방법은 특이했으며 가장 두드러지는 특징은 다른 종족의 시체들을 부활시키고 그들의 DNA를 개조함으로 코발리로 만드는 것이었습니다."
+ tooltip_plentiful_traditions_mutagenesis_universalis:0 "우리는 우리의 행성에서 새로운 디시젼을 사용할 수 있습니다. 이는 행성의 인구가 천천히 주종족으로 전환되도록 할 것입니다."
+ allow_decision_plentiful_traditions_mutagenesis_transformation:0 "§H새 디시젼:§! 돌연변이 보편화"
+ describe_decision_plentiful_traditions_mutagenesis_transformation:0 "§E이것은 우리의 주 종족 외의 인구들을 교체하는 디시젼입니다. 그들이 죽을때만 하는 것이 이상적이겠죠.§!"
+ ap_plentiful_traditions_stormtroopers:0 "충격 부대"
+ ap_plentiful_traditions_stormtroopers_desc:0 "충격 부대 또는 공격 부대는 공격을 주도하기 위해 만든 편대입니다. 이들은 다른 보병들보다 강도 높은 훈련을 받고 더 좋은 장비를 장비하고 있기에 성공적인 작전에서 더 많은 사상자를 낼 것으로 예상됩니다. "충격 부대"는 독일어로 "스토트뤼프"를 느슨하게 번역한 것입니다. 공격 부대가 있는 군부대는 일반적으로 적의 방어망을 뚫고 적의 취약한 후방 지역을 공격하기 위해 기동할 수 있도록 조직되어 있습니다. 압도적인 공격을 통한 교전을 위해 구성된 모든 특화된 정예 부대는 "특수 부대"나 특공대식 부대와는 달리 충격 부대로 간주됩니다. 하지만 필요하다면 기습적으로 두 종류의 유닛 모두 적진 뒤에서 싸울 수 있습니다."
+ tooltip_plentiful_traditions_stormtroopers:0 "우리는 이제 제한된 수의 충격 부대(또는 기계 제국용 사이클론)와 장갑 병사를 수도에서 훈련시킬 수 있습니다."
+ ap_plentiful_traditions_vast_slave_procreation:0 "번식 주도"
+ ap_plentiful_traditions_vast_slave_procreation_desc:0 "$building_slave_processing$/$building_plentiful_traditions_advanced_slave_processing$과 $building_clone_vats$를 결합시킴으로써 우리는 노예들로부터 최고의 시너지 효과를 낼 수 있습니다. 그들은 노예 추가 생산을 위한 유기 물질로 사용되거나 고품질 종족들의 복제작업에 사용될 것입니다."
+ tooltip_plentiful_traditions_vast_slave_procreation:0 "£building£ §Y$building_clone_vats$§!의 건설 및 유지비는 £building£ §Y$building_slave_processing$§!/§Y$building_plentiful_traditions_advanced_slave_processing$§!가 이미 존재하는 행성에서 감소합니다. 추가적으로 두 건물이 모두 존재하면 §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!이 증가합니다."
+ 
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Technology
+ ################################################################
+ 
+ tech_plentiful_traditions_metaverse_ecosystem:0 "인공 세계 생태계"
+ tech_plentiful_traditions_metaverse_ecosystem_desc:0 "인공 생태계 내의 클록체인 기술은 우리의 피조물들이 가치를 증가시키는 §Yblueprints§!를 새로 채택할 수 있게 해줍니다."
+ tech_ap_plentiful_traditions_tomb_life:0 "죽은 세계-적응"
+ tech_ap_plentiful_traditions_tomb_life_desc:0 "유해한 방사선의 영구적인 사용으로 인해, 우리는 이러한 생활 조건에 종족들을 완벽히 적응시킬 수 있습니다."
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Traits
+ ################################################################
+ 
+ trait_plentiful_traditions_slave_01:0 "완벽하게 착취"
+ trait_plentiful_traditions_slave_01_desc:0 "§L이 농장 동물은 도살되고, 에너지를 뺏기고 또는 가공되지만 그 어떤 부끄러움도 고통도 느끼지 않습니다.§!\\n"
+ trait_plentiful_traditions_slave_02:0 "에너지 창녀"
+ trait_plentiful_traditions_slave_02_desc:0 "§L이 노예는 에너지 산업에서 훌륭하게 일하며 부끄러움도 고통도 느끼지 않습니다.§!\n"
+ trait_plentiful_traditions_slave_03:0 "반 두더지"
+ trait_plentiful_traditions_slave_03_desc:0 "§L이 노예는 광물 및 합금 산업에서 훌륭하게 일하며 부끄러움도 고통도 느끼지 않습니다.§!\\n"
+ trait_plentiful_traditions_slave_04:0 "들쥐"
+ trait_plentiful_traditions_slave_04_desc:0 "§L이 노예는 식품 산업에서 잘 일하며 부끄러움도 고통도 느끼지 않습니다.§!\n"
+ trait_plentiful_traditions_slave_05:0 "실험 쥐"
+ trait_plentiful_traditions_slave_05_desc:0 "§L이 노예는 연구를 수행하는 데 사용되며 부끄러움도 고통도 느끼지 않습니다.§!\n"
+ trait_plentiful_traditions_slave_06:0 "성욕 생성기"
+ trait_plentiful_traditions_slave_06_desc:0 "§L이 노예는 지구의 다른 주민의 쾌락을 위해서만 일하며 부끄러움도 고통도 느끼지 않습니다.§!\n"
+ trait_plentiful_traditions_slave_07:0 "전략적 폐기처리"
+ trait_plentiful_traditions_slave_07_desc:0 "§L이 노예는 자신과 자신의 전략적 자원의 착취에 지원하고 부끄러움도 고통을 느끼지 않습니다.§!\\n"
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Civics
+ ################################################################
+ 
+ pt_civic_slave_nation:0 "노예국가"
+ pt_civic_slave_nation_desc:0 "우리 인구의 90%가 노예로 살고 있다. 상위 10%는 제국을 어떻게 운영해야 하는지 정확히 알다. 이 방법만이 부족한 자금의 최적화된 할당을 가능하게 한다."
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Deposits
+ ################################################################
+ 
+ d_arid_highlands_special_reservation:0 "£energy 건조 고지대"
+ d_arid_highlands_special_reservation_desc:1 "건조한 고지 생태에는 사막 덤불과 관목이 드문드문 존재합니다."
+ d_hot_springs_special_reservation:0 "£energy 온천"
+ d_hot_springs_special_reservation_desc:1 "지열 과정으로 가열된 지하수가 이 온천의 표면에서 증기를 발산하고 있습니다."
+ d_veiny_cliffs_special_reservation:0 "£minerals 광맥 절벽"
+ d_veiny_cliffs_special_reservation_desc:1 "이 노출된 절벽의 표면에서는 귀중한 자원 광석 덩어리가 마치 정맥처럼 흐르고 있습니다."
+ d_mineral_fields_special_reservation:0 "£minerals 광물 평야"
+ d_mineral_fields_special_reservation_desc:1 "아주 오래전, 지질학적인 격변이 이 유용한 광물들을 행성 표면으로 밀어냈습니다."
+ d_lichen_fields_special_reservation:0 "£food 이끼 들판"
+ d_lichen_fields_special_reservation_desc:1 "이 바위투성이 대지 위를 이슬 맺힌 이끼와 진균류가 마치 푹신한 카펫처럼 뒤덮고 있습니다."
+ d_bountiful_plains_special_reservation:0 "£food 풍부한 평원"
+ d_bountiful_plains_special_reservation_desc:1 "토양과 큰 풀들이 이 광대한 평원을 뒤덮어 농지로 사용되기에 큰 가능성을 가지고 있습니다."
+ 
+ d_dryland:0 "£dna£건조 지역"
+ d_dryland_desc:1 "이 지역은 건조 기후를 좋아하는 종족들을 거주시키는 데에 사용될 수 있습니다."
+ d_wetland:0 "£dna£ 습윤 지역"
+ d_wetland_desc:1 "이 지역은 습윤 기후를 좋아하는 종족들을 거주시키는 데에 사용될 수 있습니다."
+ d_coldland:0 "£dna£ 한랭 지역"
+ d_coldland_desc:1 "이 지역은 한랭 기후를 좋아하는 종족들을 거주시키는 데에 사용될 수 있습니다."
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Blocker
+ ################################################################
+ 
+ d_dense_jungle_special_reservation:0 "£energy £blocker£ 빽빽한 밀림"
+ d_dense_jungle_special_reservation_desc:0 "이 지역은 지나친 성장으로 인해 통과가 불가능한 밀림입니다."
+ d_quicksand_basin_special_reservation:0 "£minerals £blocker£ 유사 지역"
+ d_quicksand_basin_special_reservation_desc:0 "유사가 이 지역을 광대하게 덮고 있어 시설을 건설할 수 없습니다."
+ d_noxious_swamp_special_reservation:0 "£food £blocker£ 유독성 늪지"
+ d_noxious_swamp_special_reservation_desc:0 "악취가 심한 가스로 둘러 싸인 늪지와 수렁입니다."
+ d_massive_glacier_special_reservation:0 "£food £blocker£ 거대한 빙하"
+ d_massive_glacier_special_reservation_desc:0 "두꺼운 얼음이 이 지역을 덮고 있습니다."
+ d_toxic_kelp_special_reservation:0 "£energy £blocker£ 독성 해조류"
+ d_toxic_kelp_special_reservation_desc:0 "거의 모든 종류의 생물에 위협적인 독은 품을 해조류가 이 지역의 바다를 뒤덮고 있습니다."
+ d_deep_sinkhole_special_reservation:0 "£minerals £blocker£ 깊은 싱크홀"
+ d_deep_sinkhole_special_reservation_desc:0 "거대한 싱크홀이 이 지역의 대부분을 뒤덮고 있습니다."
+ 
+ d_dense_jungle_special_land:0 "£dna £blocker£ 빽빽한 밀림"
+ d_dense_jungle_special_land_desc:0 "이 지역은 지나친 성장으로 인해 통과가 불가능한 밀림입니다."
+ d_quicksand_basin_special_land:0 "£dna £blocker£ 유사 지역"
+ d_quicksand_basin_special_land_desc:0 "유사가 이 지역을 광대하게 덮고 있어 시설을 건설할 수 없습니다."
+ d_noxious_swamp_special_land:0 "£dna £blocker£ 유독성 늪지"
+ d_noxious_swamp_special_land_desc:0 "악취가 심한 가스로 둘러 싸인 늪지와 수렁입니다."
+ d_massive_glacier_special_land:0 "£dna £blocker£ 거대한 빙하"
+ d_massive_glacier_special_land_desc:0 "두꺼운 얼음이 이 지역을 덮고 있습니다."
+ d_toxic_kelp_special_land:0 "£dna £blocker£ 독성 해조류"
+ d_toxic_kelp_special_land_desc:0 "거의 모든 종류의 생물에 위협적인 독은 품을 해조류가 이 지역의 바다를 뒤덮고 있습니다."
+ d_deep_sinkhole_special_land:0 "£dna £blocker£ 깊은 싱크홀"
+ d_deep_sinkhole_special_land_desc:0 "거대한 싱크홀이 이 지역의 대부분을 뒤덮고 있습니다."
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Districts
+ ################################################################
+ 
+ district_special_reservation:0 "보호지구"
+ district_special_reservation_plural:0 "보호지구들"
+ district_special_reservation_desc:0 "광역 보호지구"
+ mod_district_special_reservation_max:0 "최대 $district_special_reservation_plural$"
+ 
+ district_special_hive:0 "번식지구"
+ district_special_hive_plural:0 "번식지구들"
+ district_special_hive_desc:0 "인구를 늘리기 위한 번식지들"
+ mod_district_special_hive_max:0 "최대 $district_special_reservation_plural$"
+ 
+ district_special_machine:0 "건설지구"
+ district_special_machine_plural:0 "건설지구들"
+ district_special_machine_desc:0 "인구를 늘리기 위한 건설지구들"
+ mod_district_special_machine_max:0 "최대 $district_special_reservation_plural$"
+ 
+ district_special_dryland:0 "건조 거주지 지구"
+ district_special_dryland_plural:0 "건조 거주지 지구들"
+ district_special_dryland_desc:0 "이 거주지역은 건조한 행성의 종족들을 거주시키기 위해 존재합니다."
+ mod_district_special_dryland_max:0 "최대 $district_special_dryland_plural$"
+ 
+ district_special_wetland:0 "습윤 거주지 지구"
+ district_special_wetland_plural:0 "습윤 거주지 지구들"
+ district_special_wetland_desc:0 "이 거주지역은 습한 행성의 종족들을 거주시키기 위해 존재합니다."
+ mod_district_special_wetland_max:0 "최대 $district_special_wetland_plural$"
+ 
+ district_special_coldland:0 "한랭 거주지 지구"
+ district_special_coldland_plural:0 "한랭 거주지 지구들"
+ district_special_coldland_desc:0 "이 거주지역은 한랭한 행성의 종족들을 거주시키기 위해 존재합니다."
+ mod_district_special_coldland_max:0 "최대 $district_special_coldland_plural$"
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Modifier
+ ################################################################
+ 
+ modifier_transformation_mastery:0 "변신의 신"
+ modifier_transformation_mastery_desc:1 "이 행성은 8개의 지구를 더 받는다."
+ decision_transformation_mastery:0 "§H디시젼 잠금해제:§! 변신의 신"
+ decision_transformation_mastery_desc:1 "이 행성은 8개의 지구를 더 받는다."
+ decision_excavation:0 "§H디시젼 잠금해제:§! 과도한 채굴"
+ decision_excavation_desc:1 "이 행성은 계속 착취되어야 한다."
+ 
+ modifier_plentiful_perks_feeding:0 "고치 생성자 할당"
+ modifier_plentiful_perks_feeding_desc:1 "이 행성에서 고치 생성자들은 추가적인 음식을 받습니다."
+ decision_plentiful_perks_feeding:0 "§HNew Decision:§! 고치 생성자 할당"
+ decision_plentiful_perks_feeding_desc:1 "이 행성에서 고치 생성자들은 추가적인 음식을 받습니다."
+ 
+ decision_plentiful_perks_coocon_extraction:0 "§HNew Decisiong:§! 새로운 자매들"
+ decision_plentiful_perks_coocon_extraction_desc:1 "이제 우리는 마침내 우리가 항상 염두에 두었던 목표에 헌신할 수 있습니다: 하등한 유기 생물체들을 우리에게 동화시키는 것입니다."
+ 
+ modifier_mutagenesis_transformation:0 "돌연변이 보편화"
+ modifier_mutagenesis_transformation_desc:1 "이것은 우리의 주 종족 외의 인구들을 교체하는 디시젼입니다. 그들이 죽을때만 하는 것이 이상적이겠죠."
+ plentiful_traditions_mutagenesis_transformation:0 "§H돌연변이 보편화§!"
+ plentiful_traditions_mutagenesis_transformation_desc:1 "이것은 우리의 주 종족 외의 인구들을 교체하는 디시젼입니다. 그들이 죽을때만 하는 것이 이상적이겠죠."
+ end_plentiful_traditions_mutagenesis_transformation:0 "§H돌연변이 보편화의 끝§!"
+ end_plentiful_traditions_mutagenesis_transformation_desc:1 "인구 복구 캠페인은 끝났습니다(당분간은)."
+ 
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Events
+ ################################################################
+ 
+ plentiful_perks_ascension.1000.name:0 "생물학적 진화"
+ plentiful_perks_ascension.1000.desc:0 "우리는 진화의 다음 단계인 슈퍼 생물체에 도달하고 싶습니다. \n\n많은 시행착오 끝에 과학자들은 우리 시민들의 정신을 전부 연결할 수 있는 방법을 찾아냈습니다. 이제 남은 일은 모든 [Root.GetName] 시민들을 이 과정을 위해 준비시키는 것입니다."
+ plentiful_perks_ascension.1000.a:0 "불로불사가 뚜렷이 보인다!"
+ plentiful_perks_ascension.1001.name:0 "하나된 정신의 시대다!"
+ plentiful_perks_ascension.1001.desc:1 "우리는 더 이상 혼자가 아닙니다. 우리는 하나로 연결된 정신, 하나의 거대한 생물체입니다. 우린 이제 모든 가능성을 추구할 수 있습니다. 은하는 우리의 것입니다!"
+ plentiful_perks_ascension.1001.a:0 "우린 과거에 비해 훨씬 대단한 존재다."
+ 
+ plentiful_perks_ascension.1003.1.desc:0 "[From.GetName] 시민들은 각자 자신들의 독자적인 기원들로부터 멀어지는 최종 단계로 그들의 정신을 하나로 융합시켰습니다. 우리는 여러분을 환영합니다!"
+ plentiful_perks_ascension.1003.2.desc:0 "[From.GetName]들은 자신들의 육신의 신성한 절대성을 모독하기 위한 여정을 이 타락한 행위로 끝맺었습니다 - 자신들의 정신을 하나로 융합시킨 것입니다."
+ plentiful_perks_ascension.1003.a:0 "결국 이리 되는군"
+ plentiful_perks_ascension.1003.b:0 "우리는 속지 않을 거다"
+ plentiful_perks_ascension.1004.desc:0 "주목! 이 은하의 모든 주민들이여!\n\n 여러분들 사이에 돌던 소문들은 사실이다. 우리는 거대 생명체가 되기 위해 하나로 융합하였으며 우리가 얻을 수 있는 힘을 다시 한번 보여줄 것이다. 우리에게 맞서는 자들은 전부 지워질 것이다!"
+ plentiful_perks_ascension.1004.a:0 "안녕하신가!"
+ plentiful_perks_ascension.1004.b:0 "가증스러운 괴물이군, 하지만 우리와 상관 없다."
+ plentiful_perks_ascension.1004.c:0 "네놈들의 시냅스들을 분해해주마!"
+ plentiful_perks_ascension.1004.d:0 "어디보자"
+ 
+ plentiful_perks_ascension.1100.name:0 "고치 완성"
+ plentiful_perks_ascension.1100.desc:0 "우리는 고치를 새로 하나 만들었으며 §Y[This.GetName]§! 종족의 인구 하나를 우리 종족으로 변신시킬 수 있습니다."
+ plentiful_perks_ascension.1100.a:0 "그리 되어야만 한다."
+ plentiful_perks_ascension.1100.b:0 "아니, 고치는 미래 사용을 위해 남아야 한다."
+ 
+ plentiful_perks_ascension.1101.name:0 "인구가 증가했습니다."
+ plentiful_perks_ascension.1101.desc:0 "§Y[This.GetName]§!에 인구가 하나 더 생성되었으며 우리 종족으로 변화될 수 있습니다."
+ plentiful_perks_ascension.1101.a:0 "그리 되어야만 한다."
+ plentiful_perks_ascension.1101.b:0 "아니, 이 개인은 남아도 된다... 개인으로써."
+ 
+ plentiful_perks_ascension.1200.name:0 "§Y[From.GetName]§!에서 번식 주기"
+ plentiful_perks_ascension.1200.desc:0 "이 행성에서 고치의 풍부함 덕분에 다른 주민들도 이제 무화할 수 있습니다."
+ plentiful_perks_ascension.1200.a:0 "외계 종족은 기반 역할을 맡을 것이다."
+ plentiful_perks_ascension.1200.b:0 "우리 종의 주민 부화!"
+ plentiful_perks_ascension.1200.c:0 "모든 고치를 엽니다!"
+ 
+ hive_evolution_tooltip:0 "우리는 우리 주민들의 정신을 한 개체로 융합시키기 위한 특별 프로젝트를 준비할 것입니다."
+ HIVE_EVOLUTION_PROJECT:0 "생물학적 진화"
+ HIVE_EVOLUTION_PROJECT_DESC:0 "우리의 결합적이고 개인으로써의 존재를 버리고 영혼으로 불멸에 다다를 때가 왔습니다. 우리는 전 인구를 준비시키고 정신을 융합시켜야 합니다."
+ pop_generated:1 "우리 종족의 인구 하나가 생성될 것입니다."
+ more_pop_generated:1 "우리 종족의 인구 몇이 생성될 것입니다."
+ pop_not_generated:1 "인구가 생성되지 않을 것입니다."
+ 
+ ################################################################
+ # PLENTIFUL PERKS - Species
+ ################################################################
+ 
+ NAME_Cocoon:0 ""
+ COCOON:0 "고치"
+ 
+ building_cocoon_assembly_plant:0 "고치 생성소"
+ building_cocoon_assembly_plant_desc:0 "이 건물에서 고치들이 생성됩니다. 그리고 이후 다른 종족들을 우리로 변화시키기 위해 사용될 것입니다."
+ trait_plentiful_traditions_cocoon:0 "고치"
+ trait_plentiful_traditions_cocoon_desc:0 "§L이는 미래에 사용될 수 있는 생명이 없는 고치입니다.§!\n"
+ 
+ 
+ 
+ ################################################################
+ # FACTIONS
+ ################################################################
+ 
+ #####################
+ # MYSTICS
+ #####################
+ 
+ pft_plentiful_factions_mystics:0 "신비주의자 파벌"
+ pft_plentiful_factions_mystics_desc:1 "신비주의자 파벌의 핵심 가치는 스스로를 생명과 정신의 수호자이자 생명의 열쇠의 3대 원칙의 수호자로 본다는 점에서 두 배입니다. 다른 생명체들이 그들처럼 자신, 자연, 영혼과 조화롭게 살도록 강요하는 것은 그들의 신념의 일부이지만, 최후의 수단일 뿐입니다. 그들은 사람들이 종교 현장을 순례할 수 있는 수단을 만들고 로봇 구조물을 매우 싫어하는 사람들을 선호합니다.\n\n§L정신주의 윤리관§!"
+ 
+ MYSTICS_BIOAFFLUENCE:0 "생물학적 풍요로움"
+ MYSTICS_BIOAFFLUENCE_DESC:0 "제국 내에서 로봇 대량 생산의 허용은 [Root.GetName]를 크게 불쾌하게 할 것입니다."
+ MYSTICS_PILGRIMAGE:0 "순례"
+ MYSTICS_PILGRIMAGE_DESC:0 "제국 내에 신사, 오벨리스크, 사원, 기둥, 성소의 건설은 [Root.GetName]를 기쁘게 합니다."
+ MYSTICS_REDEMPTION:0 "속죄"
+ MYSTICS_REDEMPTION_DESC:0 "§YTomb Worlds§!의 개척은 [Root.GetName]내의 신비주의자들을 기쁘게 할 것입니다."
+ MYSTICS_CITADEL:0 "위대한 순환"
+ MYSTICS_CITADEL_DESC:0 "제국 내에 £building£ §Y$building_citadel_of_faith$§!를 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ MYSTICS_PROFIT:0 "헌신"
+ MYSTICS_PROFIT_DESC:0 "제국 내에 £building£ §Y$building_galactic_stock_exchange$§!를 건설하는 것은 [Root.GetName]를 매우 불쾌하게 할 것입니다."
+ MYSTICS_VITALITY:0 "낭비하지 않도록"
+ MYSTICS_VITALITY_DESC:0 "§Y$tech_nano_vitality_crops$§! 기술을 연구하는 것은[Root.GetName]를 기쁘게 할 것입니다."
+ MYSTICS_STOCKPILE:0 "수확 보존"
+ MYSTICS_STOCKPILE_DESC:0 "우리의 £food£ $planet_jobs_food_produces_mult$ 저장량을 §Y1000§! 이상으로 유지시키는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ MYSTICS_SYNTHS:0 "영혼이 없는 피조물들"
+ MYSTICS_SYNTHS_DESC:0 "다른 성간 국가들이 영혼이 없는 §YCybernetic§!과 §YSynthetic§! 피조물들을 자랑하는 것을 본다면 [Root.GetName]은 크게 불쾌해 할 것입니다."
+ 
+ #####################
+ # MINERS
+ #####################
+ 
+ pft_plentiful_factions_miners:0 "광부 파벌"
+ pft_plentiful_factions_miners_desc:1 "광부 협화의 요구들은 간단합니다. 그들이 은하계의 광물 수출의 중심지가 되는 한 그 어떤 행위든 용납 가능합니다.\n\n§LMaterialist Ethos§!"
+ 
+ MINERS_GOODS:0 "물류 효율성"
+ MINERS_GOODS_DESC:0 "§Y$edict_plentiful_traditions_industrial_goods$§! 제국 시행령을 계속 활성화시키는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ MINERS_CIVIC:0 "사회제도"
+ MINERS_CIVIC_DESC:0 "활성화된 §Y$civic_mining_guilds$§! 사회제도는 [Root.GetName]를 기쁘게 할 것입니다."
+ MINERS_FACILITY:0 "광물 정제"
+ MINERS_FACILITY_DESC:0 "제국 내에 £building£ §Y$building_plentiful_traditions_purification_facility$§!을 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ MINERS_NETWORK:0 "드릴 끝"
+ MINERS_NETWORK_DESC:0 "제국 내에 £building£ §Y$building_mining_network_5$§!를 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ MINERS_PROCESSING:0 "가공"
+ MINERS_PROCESSING_DESC:0 "제국 내에 £building£ §Y$building_mineral_processing_plant_2$§!을 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ MINERS_SILO:0 "광물 저장고"
+ MINERS_SILO_DESC:0 "제국 내에 £building£ §Y광물 저장고§!를 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ MINERS_ORBITAL:0 "안정적인 파쇄"
+ MINERS_ORBITAL_DESC:0 "우리의 항성기지 중 하나에 §Y$sm_orbital_fracking_cannon$§!를 건설하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ MINERS_EXCAVATION:0 "무제한 채굴"
+ MINERS_EXCAVATION_DESC:0 "§Y$plentiful_traditions_ionized_excavation$§! 제국 시행령을 계속 활성화시키는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ 
+ MINERS_MINIMUM_1:0 "풍부한 광맥 I"
+ MINERS_MINIMUM_1_DESC:0 "저장고에 최소한 £minerals£ §Y1.000§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ MINERS_MINIMUM_2:0 "풍부한 광맥 II"
+ MINERS_MINIMUM_2_DESC:0 "저장고에 최소한 £minerals£ §Y2.500§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ MINERS_MINIMUM_3:0 "풍부한 광맥 III"
+ MINERS_MINIMUM_3_DESC:0 "저장고에 최소한 £minerals£ §Y7.500§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ MINERS_MINIMUM_4:0 "풍부한 광맥 IV"
+ MINERS_MINIMUM_4_DESC:0 "저장고에 최소한 £minerals£ §Y12.500§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ MINERS_MINIMUM_5:0 "풍부한 광맥 V"
+ MINERS_MINIMUM_5_DESC:0 "저장고에 최소한 £minerals£ §Y25.000§!를 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ 
+ MINERS_DEPOSIT:0 "견인 광선"
+ MINERS_DEPOSIT_DESC:0 "[Root.GetName]를 기쁘게 하기 위해선 최고 품질의 £minerals£ §YMineral§! 광맥만이 채굴할 가치가 있습니다."
+ 
+ #####################
+ # SYNDICATES
+ #####################
+ 
+ pft_plentiful_factions_syndicates:0 "범죄조직 파벌"
+ pft_plentiful_factions_syndicates_desc:1 "범죄조직 파벌들은 모든 수단을 동원해서 에너지 크레딧을 버는데에 집중합니다. 해적질과 부패는 시장을 이끕니다.\n\n§LMaterialist Ethos§!"
+ 
+ SYNDICATES_CIVIC:0 "사회제도"
+ SYNDICATES_CIVIC_DESC:0 "활성화된 §Y$civic_corporate_dominion$§! 사회제도는 [Root.GetName]을 기쁘게 할 것입니다."
+ SYNDICATES_OLI:0 "본질적 부패"
+ SYNDICATES_OLI_DESC:0 "§Y$auth_oligarchic$§! 정부는 [Root.GetName]을 기쁘게 할 것입니다."
+ SYNDICATES_QUARTERS:0 "저기 가는군"
+ SYNDICATES_QUARTERS_DESC:0 "제국 내에 £building£ §Y$building_plentiful_traditions_syndicate_quarters$§!를 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ SYNDICATES_POWER:0 "폭리"
+ SYNDICATES_POWER_DESC:0 "제국 내에£building£ §Y$building_power_plant_5$§!를 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ SYNDICATES_GRID:0 "욕심쟁이의 손"
+ SYNDICATES_GRID_DESC:0 "제국 내에 £building£ §Y$building_power_hub_1$§! 또는 £building£ §Y$building_power_hub_2$§!을 건설하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ SYNDICATES_ORBITAL:0 "향상된 무역"
+ SYNDICATES_ORBITAL_DESC:0 "우리의 항성기지 중 하나에 §Y$sm_orbital_trading_beacon$§!을 건설하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ SYNDICATES_STOCK:0 "1 퍼센트"
+ SYNDICATES_STOCK_DESC:0 "제국 내에 £building£ §Y$building_galactic_stock_exchange$§!를 건설하지 않는 것은 [Root.GetName]를 매우 불쾌하게 할 것입니다."
+ SYNDICATES_CHARGE:0 "압도적인 전력"
+ SYNDICATES_CHARGE_DESC:0 "계속해서 §Y$plentiful_traditions_overcharge$§! 시행령을 우리 행성 중 하나에 활성화시키는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ 
+ SYNDICATES_MINIMUM_1:0 "부유층의 습관 I"
+ SYNDICATES_MINIMUM_1_DESC:0 "저장고에 최소한 £energy£ §Y1.000§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ SYNDICATES_MINIMUM_2:0 "부유층의 습관 II"
+ SYNDICATES_MINIMUM_2_DESC:0 "저장고에 최소한 £energy£ §Y2.500§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ SYNDICATES_MINIMUM_3:0 "부유층의 습관 III"
+ SYNDICATES_MINIMUM_3_DESC:0 "저장고에 최소한 £energy£ §Y7.500§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ SYNDICATES_MINIMUM_4:0 "부유층의 습관 IV"
+ SYNDICATES_MINIMUM_4_DESC:0 "저장고에 최소한 £energy£ §Y12.500§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ SYNDICATES_MINIMUM_5:0 "부유층의 습관 V"
+ SYNDICATES_MINIMUM_5_DESC:0 "저장고에 최소한 £energy£ §Y25.000§!을 보유하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ 
+ SYNDICATES_REVENUE:0 "마약 거래는 계속되어야 한다"
+ SYNDICATES_REVENUE_DESC:0 "우리의 £energy£ §Y에너지 크레딧§! 수입을 0 이상으로 유지하는 것은 [Root.GetName]를 매우 기쁘게 할 것입니다."
+ SYNDICATES_DEPOSIT:0 "정밀한 측정"
+ SYNDICATES_DEPOSIT_DESC:0 "[Root.GetName]을 기쁘게 하기 위해선 방대한 양의 £energy£ §Y에너지 크레딧§! 매장지들을 소모시켜야 합니다."
+ 
+ #Zusätzliche Perks
+ tech_plentiful_traditions_perks_1:0 "국정운영을 통한 승천"
+ tech_plentiful_traditions_perks_1_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_2:0 "역장 조작을 통한 승천"
+ tech_plentiful_traditions_perks_2_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_3:0 "소재를 통한 승천"
+ tech_plentiful_traditions_perks_3_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_4:0 "신세계를 통한 승천"
+ tech_plentiful_traditions_perks_4_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_5:0 "입자를 통한 승천"
+ tech_plentiful_traditions_perks_5_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_6:0 "추진체를 통한 승천"
+ tech_plentiful_traditions_perks_6_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_7:0 "군사이론을 통한 승천"
+ tech_plentiful_traditions_perks_7_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_8:0 "전산을 통한 승천"
+ tech_plentiful_traditions_perks_8_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_9:0 "산업을 통한 승천"
+ tech_plentiful_traditions_perks_9_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_10:0 "생물학을 통한 승천"
+ tech_plentiful_traditions_perks_10_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_11:0 "사이오닉을 통한 승천"
+ tech_plentiful_traditions_perks_11_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_12:0 "우주선을 통한 승천"
+ tech_plentiful_traditions_perks_12_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_13:0 "조심성을 통한 승천"
+ tech_plentiful_traditions_perks_13_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_14:0 "방랑을 통한 승천"
+ tech_plentiful_traditions_perks_14_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_15:0 "고고학자를 통한 승천"
+ tech_plentiful_traditions_perks_15_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_16:0 "인공지능을 통한 승천"
+ tech_plentiful_traditions_perks_16_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_17:0 "수건을 통한 승천"
+ tech_plentiful_traditions_perks_17_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_18:0 "인공지능을 통한 승천"
+ tech_plentiful_traditions_perks_18_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_19:0 "인공지능을 통한 승천"
+ tech_plentiful_traditions_perks_19_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_20:0 "인공지능을 통한 승천"
+ tech_plentiful_traditions_perks_20_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_21:0 "천재를 통한 승천"
+ tech_plentiful_traditions_perks_21_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ tech_plentiful_traditions_perks_22:0 "큐레이터를 통한 승천"
+ tech_plentiful_traditions_perks_22_desc:0 "우리 사람들은 완벽하게 조직되어 있으며, 이제 우리는 새로운 것을 향해 다가갈 수 있습니다."
+ 
+ ap_plentiful_traditions_lebensraum_enlargement:0 "레벤스라움 확장"
+ ap_plentiful_traditions_lebensraum_enlargement_desc:0 "생활 공간은 동쪽에... 음, 우주에서. 거주지를 확장하여 새 타일을 생성할 수 있습니다."
+ modifier_plentiful_traditions_lebensraum_enlargement_cooldown:0 "건설 휴식"
+ modifier_plentiful_traditions_lebensraum_enlargement_cooldown_desc:1 "우리의 노동자들은 휴식이 좀 필요합니다."
+ tooltip_plentiful_traditions_lebensraum_enlargement:0 "거주지는 삶의 목적입니다. 하지만 현재 우리의 거주지들은 너무 작습니다. 우린 이제 로봇을 통하여 이를 확장시킬 수 있습니다(혹은 완전히 찼을 때(12인구)). 또한 거주지는 이제  £influence£ §Y영향력§!이 적게 듭니다. 우리는 이 생활공간이 필요합니다!!!"
+ plentiful_traditions_lebensraum_enlargement:0 "§Y우리는 휴식처가 필요하다!§!"
+ plentiful_traditions_lebensraum_enlargement_desc:1 "이 시행령은 꽉 차서 터질 듯한 거주지를 확장시킬 수 있도록 해줍니다. 정신주의 제국들은 진화 압박감을 충분히 받고 있어야 합니다. 로봇 인구의 경우 이미 생활공간을 늘리기 위해 거주지를 확장할 수 있습니다. "
+ plentiful_traditions_lebensraum_enlargement_not_max_size:0 "이 거주지는 더 이상 확장될 수 없습니다. 이미 최대 크기(25)입니다. 신이시어 황제 페하를 지켜주십시오!"
+ plentiful_traditions_lebensraum_enlargement_full_or_robot:0 "진화 압박감이 너무 적습니다.(12 인구 이하거나 모든 타일이 인구를 가지지 않았습니다.) 혹은 장소에 로봇이 존재하지 않습니다. 정신주의 국가로써 암걸리겠죠? GOTT SCHÜTZE DEN KAISER(신이시어 황제페하를 구원해주소서)"
+ plentiful_traditions_lebensraum_enlargement_plus_one:0 "거주지의 확장은 새로운 타일을 생성시킬 것입니다. 하지만 다시 작업이 가능해지기 전에 노동자들에게 쉴 시간을 주어야 합니다."
+ modifier_plentiful_traditions_open_habitat:0 "개방된 거주지"
+ modifier_plentiful_traditions_open_habitat_desc:1 "이 거주지는 대기가 없기 때문에 로봇만이 일할 수 있습니다."
+ 
+ tooltip_slaves_only:0 "§M노예만을 위한 것입니다!§!"
+ 
+ plentiful_traditions_war.1.a:0 "§Y[From.GetName]§! Root §Y[Root.GetName]§!으로부터"
+ 
+ habitat_1_MEGASTRUCTURE_DETAILS:1 "이론적으로 §Y$pc_habitat$§!는 영구적인 거주를 위해 설계된 자기 충족형 우주 정거장입니다."
+ habitat_1_CONSTRUCTION_INFO_DELAYED:2 "거주지는 거주지에 특화된 £building£ §Y건물§!만 지을 수 있으며 §Y12§! 타일 한계를 갖습니다."
+ habitat_1:0 "거주지"
+ habitat_1_DESC:0 "거주가 불가능한 행성을 도는 거주 정거장으로f §H인구§!와 §H건물§!을 지상으로부터 멀리 떨어진 곳에 수용합니다."
+ 
+ habitat_2_MEGASTRUCTURE_DETAILS:1 "§Y$pc_habitat_robot$§!: 이론적으로는 영구적인 거주를 위해 설계된 자기 충족형 우주 정거장입니다."
+ habitat_2_CONSTRUCTION_INFO_DELAYED:2 "거주지는 거주지에 특화된 £building£ §YBuildings§!만 수용할 수 있으며 §Y1§! 타일로 제한되고 로봇만 수용할 수 있습니다. 하지만 이 거주지들은 확장이 가능하며 미래에 생명체도 수용할 수 있을 것입니다."
+ habitat_2:0 "개방된 거주지"
+ habitat_2_DESC:0 "거주가 불가능한 행성을 도는 거주 정거장으로 §H로봇 인구§!와 §H건물§!을 지상으로부터 멀리 떨어진 곳에 수용할 수 있습니다."
+ habitat_3_MEGASTRUCTURE_DETAILS:1 "§Y$pc_habitat_robot$§!: 이론적으로 자급자족이 가능한 우주 정거장으로 영구적인 거주를 위래 설계되었습니다."
+ habitat_3_CONSTRUCTION_INFO_DELAYED:2 "거주지는 거주지에 특화된 £building£ §YBuildings§!만 수용할 수 있으며 §Y2§! 타일로 제한되고 로봇만 수용할 수 있습니다. 하지만 이 거주지들은 확장이 가능하며 미래에 생명체도 수용할 수 있을 것입니다."
+ habitat_3:0 "개방된 거주지"
+ habitat_3_DESC:0 "거주가 불가능한 행성을 도는 거주 정거장으로 §H로봇 인구§!와 §H건물§!을 지상으로부터 멀리 떨어진 곳에 수용할 수 있습니다."
+ pc_habitat_robot:0 ""
+ pc_habitat_robot_desc:0 "인공 중력 발전기 위에 설치된 광물 플레이트들은 도시 및 산업 건설을 위한 기반 역할을 합니다."
+ pc_habitat_robot_tile:0 "개방된 거주지 지형"
+ pc_habitat_robot_tile_desc:0 "인공 중력 발전기 위에 설치된 광물 플레이트들은 도시 및 산업 건설을 위한 기반 역할을 합니다."
+ 
+ SLAVE_JOB_TRIGGER:0 "이 일은 노예가 된 주민들에 의해서만 이루어 질 수 있습니다."
+ job_slave_enforcer:0 "노예 감독관"
+ job_slave_enforcer_plural:0 "노예 감독관"
+ job_slave_enforcer_desc:0 "노예 감독관은 행성의 노예가 올바르게 사용되는지 살핍니다."
+ job_slave_enforcer_effect_desc:1 "£job_slave_enforcer£ $job_slave_enforcer_plural$는 £unity£ §Y$unity$§!를 생성하며, §Y$mod_pop_cat_slave_political_power$§!를 감소시키고 §Y$mod_planet_jobs_slave_produces_mult$§!를 증가시킨다"
+ mod_job_slave_enforcer_add:0 "$job_slave_enforcer$ 직업"
+ mod_job_slave_enforcer_per_pop:0 "$VALUE$ £pop£마다 §G+1§! $job_slave_enforcer$"
+ mod_job_slave_enforcer_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_slave_enforcer_add£"
+ 
+ job_guinea_pigs:0 "실험 쥐"
+ job_guinea_pigs_plural:0 "실험 쥐"
+ job_guinea_pigs_desc:0 "실험 쥐는 행성의 다양한 업무에 사용됩니다.또한 정기적으로 죽습니다."
+ job_guinea_pigs_effect_desc:1 "£job_guinea_pigs£ $job_guinea_pigs_plural$는 £unity£ §Y$unity$§!을 생산하거나 연구를 지원합니다"
+ mod_job_guinea_pigs_add:0 "$job_guinea_pigs$ 직업"
+ mod_job_guinea_pigs_per_pop:0 "$VALUE$ £pop£마다 §G+1§! $job_guinea_pigs$"
+ mod_job_guinea_pigs_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_guinea_pigs_add£"
+ 
+ job_gardener:0 "정원사"
+ job_gardener_plural:0 "정원사"
+ job_gardeners_desc:0 "이 거주민은 정원을 가꿉니다."
+ job_guinea_effect_desc:1 "£job_gardener£ $job_gardener_plural$는 £unity£ §Y$unity$§!의 생산을 지원하거나 번식을 지원합니다."
+ job_gardeners_effect_desc:1 "£job_gardener£ $job_gardener_plural$는 £unity£ §Y$unity$§!의 생산을 지원하거나 번식을 지원합니다."
+ mod_job_gardener_add:0 "$job_gardener$ 직업"
+ mod_job_gardener_per_pop:0 "$VALUE$ 거주지당 §G+1§! $job_gardener$"
+ mod_job_gardener_per_pop_short:0 "\n§G+1§! £mod_job_gardener_add£ 당 $VALUE$ £pop£"
+ 
+ job_pt_cocoon_spinner:0 "고치 생성자"
+ job_pt_cocoon_spinner_plural:0 "고치 생성자"
+ job_pt_cocoon_spinner_desc:0 "고치 생성자는 나중에 다른 종을 수정하기 위해 고치를 생산합니다."
+ job_pt_cocoon_spinner_effect_desc:1 "£job_pt_cocoon_spinner£ $job_pt_cocoon_spinner_plural$ 고치를 생산합니다."
+ mod_job_pt_cocoon_spinner_add:0 "$job_pt_cocoon$ 직업"
+ mod_job_pt_cocoon_spinner_per_pop:0 "§G+1§! $job_pt_cocoon_spinner$ 마다 $VALUE$ £pop£ 이(가) 증가합니다."
+ mod_job_pt_cocoon_spinner_per_pop_short:0 "\n§G+1§! £mod_job_pt_cocoon_spinner_add£ 마다 $VALUE$ £pop£ (이)가 증가합니다."
+ 
+ job_pt_cocoon:0 "고치"
+ job_pt_cocoon_plural:0 "고치"
+ job_pt_cocoon_desc:0 "이 (거의) 생명없는 형태는 나중에 다른 종을 변환하는 데 사용할 수 있습니다."
+ job_pt_cocoon_effect_desc:1 "£job_pt_cocoon£ $job_pt_cocoon_plural$ 고치를 생산합니다."
+ mod_job_pt_cocoon_add:0 "$job_pt_cocoon$ 직업"
+ mod_job_pt_cocoon_per_pop:0 "§G+1§! $job_pt_cocoon$ 마다 $VALUE$ £pop£ 이(가) 증가합니다."
+ mod_job_pt_cocoon_per_pop_short:0 "\n§G+1§! £mod_job_pt_cocoon_add£ 마다 $VALUE$ £pop£ 이(가) 증가합니다."
+ 
+ pop_cat_pt_cocoon_cat:0 "고치"
+ pop_cat_pt_cocoon_cat_plural:0 "고치"
+ pop_cat_pt_cocoon_cat_desc:1 "이 (거의) 생명없는 형태는 나중에 다른 종을 변환하는 데 사용할 수 있습니다."
+ mod_pop_cat_pt_cocoon_cat_political_power:1 "$pop_cat_pt_cocoon_cat_plural$의 정치적 영향력"
+ mod_pop_cat_pt_cocoon_cat_happiness:0 "$pop_cat_pt_cocoon_cat$-절제된 만족"
+ 
+ pop_cat_queen_drone:0 "여왕"
+ pop_cat_queen_drone_plural:0 "$pop_cat_queen_drone$"
+ pop_cat_queen_drone_desc:0 "여왕은 새로운 노동자와 고치들을 생산하느라 언제나 바쁩니다."
+ job_queen:0 "여왕"
+ job_queen_plural:0 "$job_queen$"
+ job_queen_desc:0 "여왕은 새로운 노동자와 고치들을 생산하느라 언제나 바쁩니다."
+ mod_job_queen_add:0 "$job_queen$ 직업"
+ 
+ POP_ASSEMBLY_COCOON_TITLE:0 "고치 생산자 용량"
+ POP_ASSEMBLY_COCOON:0 "월간 콘콘: $VALUE| Y$"
+ POP_ASSEMBLY_COCOON_DESC:0 "§E$POP_ASSEMBLY_COCOON_TITLE$ 지구가 인위적으로 새로운 고치를 회전 시킬수 있는 총 용량을 나타냅니다. £job_queen£ §Y$job_queen$§! 와 £job_pt_cocoon_spinner£ §Y$job_pt_cocoon_spinner$§! 는 할 수 있습니다."
+ 
+ 
+ MOD_COUNTRY_WAR_EXHAUSTION_MULT: "전쟁 피로도 획득"
+ mod_pop_category_slave_food_upkeep_mult:0 "£food£ $food$-upkeep ($pop_cat_slave$)"
+ mod_pop_category_slave_consumer_goods_upkeep_mult:0 "£consumer_goods£ $consumer_goods$-유지비 ($pop_cat_slave$)"
+ mod_planet_jobs_slave_energy_produces_add:0 "£job£ $pop_cat_slave$로부터 £energy£ $energy$"
+ mod_planet_jobs_slave_energy_produces_mult:0 "£job£ $pop_cat_slave$로부터 £energy£ $energy$"
+ mod_planet_jobs_slave_minerals_produces_add:0 "$pop_cat_slave$로부터 £minerals£ $minerals$"
+ mod_planet_jobs_slave_minerals_produces_mult:0 "$pop_cat_slave$로부터 £minerals£ $minerals$"
+ mod_planet_jobs_slave_food_produces_add:0 "£job£ $pop_cat_slave$로부터 £food£ $food$"
+ mod_planet_jobs_slave_food_produces_mult:0 "$pop_cat_slave$로부터 £food£ $food$"
+ mod_planet_jobs_slave_alloys_produces_add:0 "£job£ $pop_cat_slave$로부터 £alloys£ $alloys$"
+ mod_planet_jobs_slave_alloys_produces_mult:0 "£job£ $pop_cat_slave$로부터 £alloys£ $alloys$"
+ mod_planet_jobs_slave_physics_research_produces_add:0 "£job£ $pop_cat_slave$로부터 £physics_research£ $physics_research$"
+ mod_planet_jobs_slave_physics_research_produces_mult:0 "£job£ $pop_cat_slave$로부터 £physics_research£ $physics_research$"
+ mod_planet_jobs_slave_society_research_produces_add:0 "£job£ $pop_cat_slave$로부터 £society_research£ $society_research$"
+ mod_planet_jobs_slave_society_research_produces_mult:0 "£job£ $pop_cat_slave$로부터 £society_research£ $society_research$"
+ mod_planet_jobs_slave_engineering_research_produces_add:0 "£job£ $pop_cat_slave$로부터 £engineering_research£ $engineering_research$"
+ mod_planet_jobs_slave_engineering_research_produces_mult:0 "£job£ $pop_cat_slave$로부터 £engineering_research£ $engineering_research$"
+ mod_planet_jobs_slave_influence_produces_add:0 "£job£ $pop_cat_slave$로부터 £influence£ $influence$"
+ mod_planet_jobs_slave_influence_produces_mult:0 "£job£ $pop_cat_slave$로부터 £influence£ $influence$"
+ mod_planet_jobs_slave_unity_produces_add:0 "£job£ $pop_cat_slave$로부터 £unity£ $unity$"
+ mod_planet_jobs_slave_unity_produces_mult:0 "£job£ $pop_cat_slave$로부터 £unity£ $unity$"
+ mod_planet_jobs_slave_consumer_goods_produces_add:0 "£job£ $pop_cat_slave$로부터 £consumer_goods£ $consumer_goods$"
+ mod_planet_jobs_slave_consumer_goods_produces_mult:0 "£job£ $pop_cat_slave$로부터 £consumer_goods£ $consumer_goods$"
+ mod_planet_jobs_slave_volatile_motes_produces_add:0 "£job£ $pop_cat_slave$로부터 £volatile_motes£ $volatile_motes$"
+ mod_planet_jobs_slave_volatile_motes_produces_mult:0 "£job£ $pop_cat_slave$로부터 £volatile_motes£ $volatile_motes$"
+ mod_planet_jobs_slave_exotic_gases_produces_add:0 "£job£ $pop_cat_slave$로부터 £exotic_gases£ $exotic_gases$"
+ mod_planet_jobs_slave_exotic_gases_produces_mult:0 "£job£ $pop_cat_slave$로부터 £exotic_gases£ $exotic_gases$"
+ mod_planet_jobs_slave_rare_crystals_produces_add:0 "£job£ $pop_cat_slave$로부터 £rare_crystals£ $rare_crystals$"
+ mod_planet_jobs_slave_rare_crystals_produces_mult:0 "£job£ $pop_cat_slave$로부터 £rare_crystals£ $rare_crystals$"
+ mod_planet_jobs_slave_sr_living_metal_produces_add:0 "£job£ $pop_cat_slave$로부터 £sr_living_metal£ $sr_living_metal$"
+ mod_planet_jobs_slave_sr_living_metal_produces_mult:0 "£job£ $pop_cat_slave$로부터 £sr_living_metal£ $sr_living_metal$"
+ mod_planet_jobs_slave_sr_zro_produces_add:0 "£job£ $pop_cat_slave$로부터 £sr_zro£ $sr_zro$"
+ mod_planet_jobs_slave_sr_zro_produces_mult:0 "£job£ $pop_cat_slave$로부터 £sr_zro£ $sr_zro$"
+ mod_planet_jobs_slave_sr_dark_matter_produces_add:0 "£job£ $pop_cat_slave$로부터 £sr_dark_matter£ $sr_dark_matter$"
+ mod_planet_jobs_slave_sr_dark_matter_produces_mult:0 "£job£ $pop_cat_slave$로부터 £sr_dark_matter£ $sr_dark_matter$"
+ mod_planet_jobs_slave_nanites_produces_add:0 "£job£ $pop_cat_slave$로부터 £nanites£ $nanites$"
+ mod_planet_jobs_slave_nanites_produces_mult:0 "£job£ $pop_cat_slave$로부터 £nanites£ $nanites$"
+ mod_planet_livestock_energy_produces_add:0 "£job_livestock£ §Y$job_livestock_plural$§!으로부터 £energy£ $energy$"
+ mod_planet_livestock_energy_produces_mult:0 "£job_livestock£ §Y$job_livestock_plural$§!으로부터 £energy£ $energy$"
+ mod_planet_livestock_minerals_produces_add:0 "£job_livestock£ §Y$job_livestock_plural$§!으로부터 £minerals£ $minerals$"
+ mod_planet_livestock_minerals_produces_mult:0 "£job_livestock£ §Y$job_livestock_plural$§!으로부터 £minerals£ $minerals$"
+ mod_planet_livestock_food_produces_mult:0 "£job_livestock£ §Y$job_livestock_plural$§!으로부터 £food£ $food$"
+ mod_planet_jobs_organic_battery_energy_produces_add:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!로부터 £energy£ $energy$"
+ mod_planet_jobs_organic_battery_energy_produces_mult:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!로부터 £energy£ $energy$"
+ mod_planet_jobs_organic_battery_minerals_produces_add:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!로부터 £minerals£ $minerals$"
+ mod_planet_jobs_organic_battery_minerals_produces_mult:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!로부터 £minerals£ $minerals$"
+ mod_planet_jobs_organic_battery_food_produces_add:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!로부터 £food£ $food$"
+ mod_planet_jobs_organic_battery_food_produces_mult:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!로부터 £food£ $food$"
+ mod_planet_jobs_specialist_energy_produces_add:0 "£job£ $pop_cat_specialist$로부터 £energy£ $energy$"
+ mod_planet_jobs_specialist_energy_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £energy£ $energy$"
+ mod_planet_jobs_specialist_minerals_produces_add:0 "$pop_cat_specialist$로부터 £minerals£ $minerals$"
+ mod_planet_jobs_specialist_minerals_produces_mult:0 "$pop_cat_specialist$로부터 £minerals£ $minerals$"
+ mod_planet_jobs_specialist_food_produces_add:0 "£job£ $pop_cat_specialist$로부터 £food£ $food$"
+ mod_planet_jobs_specialist_food_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £food£ $food$"
+ mod_planet_jobs_specialist_alloys_produces_add:0 "£job£ $pop_cat_specialist$로부터 £alloys£ $alloys$"
+ mod_planet_jobs_specialist_alloys_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £alloys£ $alloys$"
+ mod_planet_jobs_specialist_physics_research_produces_add:0 "$pop_cat_specialist$로부터 £physics_research£ $physics_research$"
+ mod_planet_jobs_specialist_physics_research_produces_mult:0 "$pop_cat_specialist$로부터 £physics_research£ $physics_research$"
+ mod_planet_jobs_specialist_society_research_produces_add:0 "£job£ $pop_cat_specialist$로부터 £society_research£ $society_research$"
+ mod_planet_jobs_specialist_society_research_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £society_research£ $society_research$"
+ mod_planet_jobs_specialist_engineering_research_produces_add:0 "£job£ $pop_cat_specialist$로부터 £engineering_research£"
+ mod_planet_jobs_specialist_engineering_research_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £engineering_research£"
+ mod_planet_jobs_specialist_influence_produces_add:0 "$pop_cat_specialist$로부터 £influence£ $influence$"
+ mod_planet_jobs_specialist_influence_produces_mult:0 "$pop_cat_specialist$로부터 £influence£ $influence$"
+ mod_planet_jobs_specialist_unity_produces_add:0 "£job£ $pop_cat_specialist$로부터 £unity£ $unity$"
+ mod_planet_jobs_specialist_unity_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £unity£ $unity$"
+ mod_planet_jobs_specialist_consumer_goods_produces_add:0 "£job£ $pop_cat_specialist$로부터 £consumer_goods£ $consumer_goods$"
+ mod_planet_jobs_specialist_consumer_goods_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £consumer_goods£ $consumer_goods$"
+ mod_planet_jobs_specialist_volatile_motes_produces_add:0 "£job£ $pop_cat_specialist$로부터 £volatile_motes£ $volatile_motes$"
+ mod_planet_jobs_specialist_volatile_motes_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £volatile_motes£ $volatile_motes$"
+ mod_planet_jobs_specialist_exotic_gases_produces_add:0 "£job£ $pop_cat_specialist$로부터 £exotic_gases£ $exotic_gases$"
+ mod_planet_jobs_specialist_exotic_gases_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £exotic_gases£ $exotic_gases$"
+ mod_planet_jobs_specialist_rare_crystals_produces_add:0 "£job£ $pop_cat_specialist$로부터 £rare_crystals£ $rare_crystals$"
+ mod_planet_jobs_specialist_rare_crystals_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £rare_crystals£ $rare_crystals$"
+ mod_planet_jobs_specialist_sr_living_metal_produces_add:0 "£job£ $pop_cat_specialist$로부터 £sr_living_metal£ $sr_living_metal$"
+ mod_planet_jobs_specialist_sr_living_metal_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £sr_living_metal£ $sr_living_metal$"
+ mod_planet_jobs_specialist_sr_zro_produces_add:0 "£job£ $pop_cat_specialist$로부터 £sr_zro£ $sr_zro$"
+ mod_planet_jobs_specialist_sr_zro_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £sr_zro£ $sr_zro$"
+ mod_planet_jobs_specialist_sr_dark_matter_produces_add:0 "£job£ $pop_cat_specialist$로부터 £sr_dark_matter£ $sr_dark_matter$"
+ mod_planet_jobs_specialist_sr_dark_matter_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £sr_dark_matter£ $sr_dark_matter$"
+ mod_planet_jobs_specialist_nanites_produces_add:0 "£job£ $pop_cat_specialist$로부터 £nanites£ $nanites$"
+ mod_planet_jobs_specialist_nanites_produces_mult:0 "£job£ $pop_cat_specialist$로부터 £nanites£ $nanites$"
+ mod_planet_jobs_worker_energy_produces_add:0 "£job£ $pop_cat_worker$로부터 £energy£ $energy$"
+ mod_planet_jobs_worker_energy_produces_mult:0 "£job£ $pop_cat_worker$로부터 £energy£ $energy$"
+ mod_planet_jobs_worker_minerals_produces_add:0 "£job£ $pop_cat_worker$로부터 £minerals£ $minerals$"
+ mod_planet_jobs_worker_minerals_produces_mult:0 "£job£ $pop_cat_worker$로부터 £minerals£ $minerals$"
+ mod_planet_jobs_worker_food_produces_add:0 "£job£ $pop_cat_worker$로부터 £food£ $food$"
+ mod_planet_jobs_worker_food_produces_mult:0 "£job£ $pop_cat_worker$로부터 £food£ $food$"
+ mod_planet_jobs_worker_alloys_produces_add:0 "£job£ $pop_cat_worker$로부터 £alloys£ $alloys$"
+ mod_planet_jobs_worker_alloys_produces_mult:0 "£job£ $pop_cat_worker$로부터 £alloys£ $alloys$"
+ mod_planet_jobs_worker_physics_research_produces_add:0 "£job£ $pop_cat_worker$로부터 £physics_research£ $physics_research$"
+ mod_planet_jobs_worker_physics_research_produces_mult:0 "£job£ $pop_cat_worker$로부터 £physics_research£ $physics_research$"
+ mod_planet_jobs_worker_society_research_produces_add:0 "£job£ $pop_cat_worker$로부터 £society_research£ $society_research$"
+ mod_planet_jobs_worker_society_research_produces_mult:0 "£job£ $pop_cat_worker$로부터 £society_research£ $society_research$"
+ mod_planet_jobs_worker_engineering_research_produces_add:0 "£job£ $pop_cat_worker$로부터 £engineering_research£ $engineering_research$"
+ mod_planet_jobs_worker_engineering_research_produces_mult:0 "£job£ $pop_cat_worker$로부터 £engineering_research£ $engineering_research$"
+ mod_planet_jobs_worker_influence_produces_add:0 "£job£ $pop_cat_worker$로부터 £influence£ $influence$"
+ mod_planet_jobs_worker_influence_produces_mult:0 "£job£ $pop_cat_worker$로부터 £influence£ $influence$"
+ mod_planet_jobs_worker_unity_produces_add:0 "£job£ $pop_cat_worker$로부터 £unity£ $unity$"
+ mod_planet_jobs_worker_unity_produces_mult:0 "£job£ $pop_cat_worker$로부터 £unity£ $unity$"
+ mod_planet_jobs_worker_consumer_goods_produces_add:0 "£job£ $pop_cat_worker$로부터 £consumer_goods£ $consumer_goods$"
+ mod_planet_jobs_worker_consumer_goods_produces_mult:0 "£job£ $pop_cat_worker$로부터 £consumer_goods£ $consumer_goods$"
+ mod_planet_jobs_worker_volatile_motes_produces_add:0 "£job£ $pop_cat_worker$로부터 £volatile_motes£ $volatile_motes$"
+ mod_planet_jobs_worker_volatile_motes_produces_mult:0 "£job£ $pop_cat_worker$로부터 £volatile_motes£ $volatile_motes$"
+ mod_planet_jobs_worker_exotic_gases_produces_add:0 "£job£ $pop_cat_worker$로부터 £exotic_gases£ $exotic_gases$"
+ mod_planet_jobs_worker_exotic_gases_produces_mult:0 "£job£ $pop_cat_worker$로부터 £exotic_gases£ $exotic_gases$"
+ mod_planet_jobs_worker_rare_crystals_produces_add:0 "£job£ $pop_cat_worker$로부터 £rare_crystals£ $rare_crystals$"
+ mod_planet_jobs_worker_rare_crystals_produces_mult:0 "£job£ $pop_cat_worker$로부터 £rare_crystals£ $rare_crystals$"
+ mod_planet_jobs_worker_sr_living_metal_produces_add:0 "£job£ $pop_cat_worker$로부터 £sr_living_metal£ $sr_living_metal$"
+ mod_planet_jobs_worker_sr_living_metal_produces_mult:0 "£job£ $pop_cat_worker$로부터 £sr_living_metal£ $sr_living_metal$"
+ mod_planet_jobs_worker_sr_zro_produces_add:0 "£job£ $pop_cat_worker$로부터 £sr_zro£ $sr_zro$"
+ mod_planet_jobs_worker_sr_zro_produces_mult:0 "£job£ $pop_cat_worker$로부터 £sr_zro£ $sr_zro$"
+ mod_planet_jobs_worker_sr_dark_matter_produces_add:0 "£job£ $pop_cat_worker$로부터 £sr_dark_matter£ $sr_dark_matter$"
+ mod_planet_jobs_worker_sr_dark_matter_produces_mult:0 "£job£ $pop_cat_worker$로부터 £sr_dark_matter£ $sr_dark_matter$"
+ mod_planet_jobs_worker_nanites_produces_add:0 "£job£ $pop_cat_worker$로부터 £nanites£ $nanites$"
+ mod_planet_jobs_worker_nanites_produces_mult:0 "£job£ $pop_cat_worker$로부터 £nanites£ $nanites$"
+ mod_planet_telepaths_unity_produces_add:0 "£job£ $job_telepath$로부터 £unity£ $unity$"
+ mod_planet_telepaths_unity_produces_mult:0 "£job£ $job_telepath$로부터 £unity£ $unity$"
+ mod_planet_pop_assemblers_alloys_upkeep_mult:0 "£job£ $job_replicator$로부터 £alloys£ $alloys$"
+ mod_planet_replicator_produces_add:0 "£job£ $job_replicator$로부터 생산"
+ mod_planet_replicator_alloys_upkeep_mult:0 "£job_replicator£ $job_replicator$로부터 £alloys£ $alloys$ 유지비"
+ mod_country_resource_max_energy_add:0 "자원 저장 한도(£energy£ 에너지)"
+ mod_country_resource_max_minerals_add:0 "자원 저장 한도(£minerals£ 광물)"
+ mod_country_resource_max_food_add:0 "자원 저장 한도(£food£ 음식)"
+ mod_country_resource_max_alloys_add:0 "자원 저장 한도(£alloys£ 합금)"
+ mod_country_resource_max_influence_add:0 "자원 저장 한도(£influence£ 영향력)"
+ mod_megastructures_cost_mult:0 "건설 비용(거대구조물)"
+ mod_ship_colonizer_cost_mult:0 "건설 비용(개척선)"
+ mod_rivalries_physics_research_produces_add:0 "물리학 (라이벌)"
+ mod_rivalries_influence_produces_mult:0 "영향력(라이벌)"
+ mod_weapon_type_point_defense_weapon_damage_mult:0 "무기 피해량(거점 방어)"
+ mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "발사 속도(거점 방어)"
+ mod_station_gatherers_energy_produces_mult:0 "에너지(채집가)"
+ mod_station_gatherers_alloys_produces_mult:0 "합금(채집가)"
+ mod_station_gatherers_consumer_goods_produces_mult:0 "소비재(채집가)"
+ mod_orbital_mining_deposits:0 "합금 (채굴시설)"
+ mod_megastructures_produces_mult:0 "생산량(거대구조물)"
+ mod_megastructures_habitat_influence_cost_add:0 "£influence£ 영향력 비용(거주지)"
+ mod_megastructures_habitat_alloys_cost_add:0 "£alloys£ 합금 비용(거주지)"
+ mod_extra_large_weapon_damage_mult:0 "무기 피해량(초대형 무기들)"
+ mod_extra_large_weapon_fire_rate_mult:0 "발사 속도 (초대형 무기들)"
+ mod_damage_vs_country_type_default_mult:0 "기본 제국들에게 가하는 피해량"
+ mod_damage_vs_country_type_pirate_mult:0 "해적들에게 가하는 피해량"
+ mod_damage_vs_country_type_dormant_marauders_mult:0 "휴면 약탈자들에게 가하는 피해량"
+ mod_damage_vs_country_type_ruined_marauders_mult:0 "무너진 약탈자들에게 가하는 피해량"
+ mod_damage_vs_country_type_awakened_marauders_mult:0 "꺠어난 약탈자들에게 가하는 피해량"
+ 
+ mod_shipclass_military_station_build_speed_mult:1 "방어 플랫폼 건설 시간"
+ 
+ mod_decisions_food_cost_mult:0 "£food£ 음식 비용(디시젼)"
+ mod_decisions_minerals_cost_mult:0 "£minerals£ 광물 비용(디시젼)"
+ mod_decisions_energy_cost_mult:0 "£energy£ 에너지 비용(디시젼)"
+ mod_decisions_alloys_cost_mult:0 "£alloys£ 합금 비용(디시젼)"
+ 
+ mod_campaigns_food_cost_mult:0 "£food£ 음식 비용(캠페인)"
+ mod_campaigns_minerals_cost_mult:0 "£minerals£ 광물 비용(캠페인)"
+ mod_campaigns_energy_cost_mult:0 "£energy£ 에너지 비용(캠페인)"
+ mod_campaigns_alloys_cost_mult:0 "£alloys£ 합금 비용(캠페인)"
+ 
+ mod_edicts_food_cost_mult:0 "£food£ 음식 비용(시행령)"
+ mod_edicts_minerals_cost_mult:0 "£minerals£ 광물 비용(시행령)"
+ mod_edicts_energy_cost_mult:0 "£energy£ 에너지 비용(시행령)"
+ mod_edicts_alloys_cost_mult:0 "£alloys£ 합금 비용(시행령)"
+ 
+ mod_ships_food_cost_mult:0 "£food£ 음식 비용(함선)"
+ mod_ships_minerals_cost_mult:0 "£minerals£ 광물비용(함선)"
+ mod_ships_energy_cost_mult:0 "£energy£ 에너지 비용(함선)"
+ mod_ships_alloys_cost_mult:0 "£alloys£ 합금 비용(함선)"
+ 
+ mod_ships_food_upkeep_mult:0 "£food£ 음식 유지비(함선)"
+ mod_ships_minerals_upkeep_mult:0 "£minerals£ 광물 유지비(함선)"
+ mod_ships_energy_upkeep_mult:0 "£energy£ 에너지 유지비(함선)"
+ mod_ships_alloys_upkeep_mult:0 "£alloys£ 합금 유지비 (함선)"
+ 
+ mod_planet_structures_food_upkeep_mult:0 "£food£ 음식 유지비 (건물 및 지구)"
+ mod_planet_structures_minerals_upkeep_mult:0 "£minerals£ 광물 유지비 (건물 및 지구)"
+ mod_planet_structures_energy_upkeep_mult:0 "£energy£ 에너지 유지비 (건물 및 지구)"
+ mod_planet_structures_alloys_upkeep_mult:0 "£alloys£ 합금 유지비 (건물 및 지구)"
+ 
+ mod_planet_buildings_food_upkeep_mult:0 "£food£ 음식 유지비 (건물)"
+ mod_planet_buildings_minerals_upkeep_mult:0 "£minerals£ 광물 유지 보수 (건물)"
+ mod_planet_buildings_energy_upkeep_mult:0 "£energy£ 에너지 유지 보수 (건물)"
+ mod_planet_buildings_alloys_upkeep_mult:0 "£alloys£ 합금 유지 보수 (건물)"
+ 
+ mod_planet_buildings_food_produces_mult:0 "£food£ 식품 생산 (건물)"
+ mod_planet_buildings_minerals_produces_mult:0 "£minerals£ 광물 생산 (건물)"
+ mod_planet_buildings_energy_produces_mult:0 "£energy£ 에너지 생산 (건물)"
+ mod_planet_buildings_alloys_produces_mult:0 "£alloys£ 합금 생산 (건물)"
+ 
+ mod_planet_districts_food_produces_mult:0 "£food£ 식품 생산 (지구)"
+ mod_planet_districts_minerals_produces_mult:0 "£minerals£ 광물 생산 (지구)"
+ mod_planet_districts_energy_produces_mult:0 "£energy£ 에너지 생산 (지구)"
+ mod_planet_districts_alloys_produces_mult:0 "£alloys£ 합금 생산 (지구)"
+ 
+ mod_planet_structures_physics_research_produces_mult:0 "물리학 (건물 및 지구)"
+ 
+ FROM_STARBASE_MODULE:0 "항성기지 모듈"
+ FROM_STARBASE_MODULES:0 "항성기지 모듈들"
+ 
+ d_plentiful_traditions_planet_minerals5:0 "엄청난 광맥"
+ d_plentiful_traditions_planet_minerals5_desc:0 "우리는 엄청난 £minerals£ §Y광물 매장지§!를 발견했습니다."
+ d_plentiful_traditions_planet_minerals4:0 "거대한 광맥"
+ d_plentiful_traditions_planet_minerals4_desc:0 "우리는 거대한 £minerals£ §Y광물 매장지§!를 발견했습니다."
+ d_plentiful_traditions_planet_minerals3:0 "큰 광맥"
+ d_plentiful_traditions_planet_minerals3_desc:0 "우리는 큰 £minerals£ §Y광물 매장지§!를 발견했습니다."
+ d_plentiful_traditions_planet_minerals2:0 "흥미로운 광맥"
+ d_plentiful_traditions_planet_minerals2_desc:0 "우리는 흥미로운 £minerals£ §Y광물 매장지§!를 발견했습니다."
+ d_plentiful_traditions_planet_minerals1:0 "작은 광맥"
+ d_plentiful_traditions_planet_minerals1_desc:0 "우리는 작은 £minerals£ §Y광물 매장지§!를 발견했습니다."
+ 
+ d_plentiful_traditions_planet_energy5:0 "엄청난 에너지 필드"
+ d_plentiful_traditions_planet_energy5_desc:0 "우리는 엄청난 £energy£ §Y에너지 필드§!를 발견했습니다."
+ d_plentiful_traditions_planet_energy4:0 "거대한 에너지 필드"
+ d_plentiful_traditions_planet_energy4_desc:0 "우리는 거대한 £energy£ §Y에너지 필드§!를 발견했습니다."
+ d_plentiful_traditions_planet_energy3:0 "큰 에너지 필드"
+ d_plentiful_traditions_planet_energy3_desc:0 "우리는 큰 £energy£ §Y에너지 필드§!를 발견했습니다."
+ d_plentiful_traditions_planet_energy2:0 "흥미로운 에너지 필드"
+ d_plentiful_traditions_planet_energy2_desc:0 "우리는 흥미로운 £energy£ §Y에너지 필드§!를 발견했습니다."
+ d_plentiful_traditions_planet_energy1:0 "작은 에너지 필드"
+ d_plentiful_traditions_planet_energy1_desc:0 "우리는 작은 £energy£ §Y에너지 필드§!를 발견했습니다."
+ 
+ d_plentiful_traditions_planet_food5:0 "엄청난 식품 공급 업체"
+ d_plentiful_traditions_planet_food5_desc:0 "우리는 £food£ §Y음식§!을 위한 새로운 엄청난 §Y번식지§!를 가지게 됬습니다."
+ d_plentiful_traditions_planet_food4:0 "거대한 식품 공급 업체"
+ d_plentiful_traditions_planet_food4_desc:0 "우리는 £food£ §Y음식§!을 위한 새로운 거대한 §Y번식지§!를 가지게 됬습니다."
+ d_plentiful_traditions_planet_food3:0 "대형 식품 공급 업체"
+ d_plentiful_traditions_planet_food3_desc:0 "우리는 £food£ §Y음식§!을 위한 새로운 §Y번식지§!를 가지게 됬습니다."
+ d_plentiful_traditions_planet_food2:0 "흥미로운 식품 공급 업체"
+ d_plentiful_traditions_planet_food2_desc:0 "우리는 £food£ §Y음식§!을 위한 새로운 흥미로운 §Y번식지§!를 가지게 됬습니다."
+ d_plentiful_traditions_planet_food1:0 "작은 식품 공급 업체"
+ d_plentiful_traditions_planet_food1_desc:0 "우리는 £food£ §Y음식§!울 위한 새로운 작은 §Y번식지§!를 가지게 됬습니다."
+ 
+ d_plentiful_traditions_planet_unity5:0 "엄청난 통합력 기념물"
+ d_plentiful_traditions_planet_unity5_desc:0 "우리는 엄청난 £unity£ §Y통합의 기념비§!를 발견했습니다."
+ d_plentiful_traditions_planet_unity4:0 "거대한 통합력 기념물"
+ d_plentiful_traditions_planet_unity4_desc:0 "우리는 거대한 £unity£ §Y통합의 기념비§!를 발견했습니다."
+ d_plentiful_traditions_planet_unity3:0 "큰 통합력 기념물"
+ d_plentiful_traditions_planet_unity3_desc:0 "우리는 큰 £unity£ §Y통합의 기념비§!를 발견했습니다."
+ d_plentiful_traditions_planet_unity2:0 "흥미로운 통합력 기념물"
+ d_plentiful_traditions_planet_unity2_desc:0 "우리는 흥미로운 £unity£ §Y통합의 기념비§!를 발견했습니다."
+ d_plentiful_traditions_planet_unity1:0 "작은 통합력 기념물"
+ d_plentiful_traditions_planet_unity1_desc:0 "우리는 작은 £unity£ §Y통합의 기념비§!를 발견했습니다."
