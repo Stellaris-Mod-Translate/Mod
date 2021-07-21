@@ -1,0 +1,169 @@
+﻿l_english:
+
+ ####################################
+ # Buildings
+ ####################################
+ 
+  #Capital
+ building_system_capital_override:0 "$building_system_capital$"
+ building_system_capital_override_desc:0 "$building_system_capital_desc$ §R \nAVB Override§"
+ building_machine_system_capital_override:0 "$building_machine_system_capital$"
+ building_machine_system_capital_override_desc:0 "$building_machine_system_capital_desc$ §R \nAVB Override§"
+ building_hive_major_capital_override:0 "$building_hive_major_capital$"
+ building_hive_major_capital_override_desc:0 "$building_hive_major_capital_desc$ §R \nAVB Override§"
+ building_hab_major_capital_override:0 "$building_hab_major_capital$"
+ building_hab_major_capital_override_desc:0 "$building_hab_major_capital_desc$ §R \nAVB Override§"
+ building_resort_major_capital_override:0 "$building_resort_major_capital$"
+ building_resort_major_capital_override_desc:0 "$building_resort_major_capital_desc$ §R \nAVB Override§"
+ building_slave_major_capital_override:0 "$building_slave_major_capital$"
+ building_slave_major_capital_override_desc:0 "$building_slave_major_capital_desc$ §R \nAVB Override§"
+ 
+ #Government
+ building_noble_estates_override:0 "$building_noble_estates$"
+ building_noble_estates_override_desc:0 "$building_noble_estates_desc$ §R \nAVB Override§"
+ building_bureaucratic_2_override:0 "$building_bureaucratic_2$"
+ building_bureaucratic_2_override_desc:0 "$building_bureaucratic_2_desc$ §R \nAVB Override§"
+ building_bureaucratic_3_override:0 "$building_bureaucratic_3$"
+ building_bureaucratic_3_override_desc:0 "$building_bureaucratic_3_desc$ §R \nAVB Override§"
+ building_system_conflux_override:0 "$building_system_conflux$"
+ building_system_conflux_override_desc:0 "$building_system_conflux_desc$ §R \nAVB Override§"
+ building_slave_processing_override:0 "$building_slave_processing$"
+ building_slave_processing_override_desc:0 "$building_slave_processing_desc$ §R \nAVB Override§"
+ building_hall_judgment_override:0 "$building_hall_judgment$"
+ building_hall_judgment_override_desc:0 "$building_hall_judgment_desc$ §R \nAVB Override§"
+ building_sentinel_posts_override:0 "$building_sentinel_posts$"
+ building_sentinel_posts_override_desc:0 "$building_sentinel_posts_desc$ §R \nAVB Override§"
+ building_psi_corps_override:0 "$building_psi_corps$"
+ building_psi_corps_override_desc:0 "$building_psi_corps_desc$ §R \nAVB Override§"
+ building_clone_vats_override:0 "$building_clone_vats$"
+ building_clone_vats_override_desc:0 "$building_clone_vats_desc$ §R \nAVB Override§"
+ 
+ #Pop Assembly
+ building_robot_assembly_plant_override:0 "$building_robot_assembly_plant$"
+ building_robot_assembly_plant_override_desc:0 "$building_robot_assembly_plant_desc$ §R \nAVB Override§"
+ building_machine_assembly_complex_override:0 "$building_machine_assembly_complex$"
+ building_machine_assembly_complex_override_desc:0 "$building_machine_assembly_complex_desc$ §R \nAVB Override§"
+ 
+ #Resource
+ building_hydroponics_farm_override:0 "$building_hydroponics_farm$"
+ building_hydroponics_farm_override_desc:0 "$building_hydroponics_farm_desc$ §R \nAVB Override§"
+ building_food_processing_center_override:0 "$building_food_processing_center$"
+ building_food_processing_center_override_desc:0 "$building_food_processing_center_desc$ §R \nAVB Override§"
+ building_mineral_purification_hub_override:0 "$building_mineral_purification_hub$"
+ building_mineral_purification_hub_override_desc:0 "$building_mineral_purification_hub_desc$ §R \nAVB Override§"
+ building_energy_nexus_override:0 "$building_energy_nexus$"
+ building_energy_nexus_override_desc:0 "$building_energy_nexus_desc$ §R \nAVB Override§"
+ building_resource_silo_override:0 "$building_resource_silo$"
+ building_resource_silo_override_desc:0 "$building_resource_silo_desc$ §R \nAVB Override§"
+ building_bio_reactor_override:0 "$building_bio_reactor$"
+ building_bio_reactor_override_desc:0 "$building_bio_reactor_desc$ §R \nAVB Override§"
+
+ #Manufacturing
+ building_foundry_3_override:0 "$building_foundry_3$"
+ building_foundry_3_override_desc:0 "$building_foundry_3_desc$ §R \nAVB Override§"
+ building_factory_3_override:0 "$building_factory_3$"
+ building_factory_3_override_desc:0 "$building_factory_3_desc$ §R \nAVB Override§"
+ building_refinery_override:0 "$building_refinery$"
+ building_refinery_override_desc:0 "$building_refinery_desc$ §R \nAVB Override§"
+ building_chemical_plant_override:0 "$building_chemical_plant$"
+ building_chemical_plant_override_desc:0 "$building_chemical_plant_desc$ §R \nAVB Override§"
+ building_crystal_plant_override:0 "$building_crystal_plant$"
+ building_crystal_plant_override_desc:0 "$building_crystal_plant_desc$ §R \nAVB Override§"
+ building_nanite_transmuter_override:0 "$building_nanite_transmuter$"
+ building_nanite_transmuter_override_desc:0 "$building_nanite_transmuter_desc$ §R \nAVB Override§"
+ building_ministry_production_override:0 "$building_ministry_production$"
+ building_ministry_production_override_desc:0 "$building_ministry_production_desc$ §R \nAVB Override§"
+ building_production_center_override:0 "$building_production_center$"
+ building_production_center_override_desc:0 "$building_production_center_desc$ §R \nAVB Override§"
+ 
+ #Research
+ building_research_lab_3_override:0 "$building_research_lab_3$"
+ building_research_lab_3_override_desc:0 "$building_research_lab_3_desc$ §R \nAVB Override§"
+ building_institute_override:0 "$building_institute$"
+ building_institute_override_desc:0 "$building_institute_desc$ §R \nAVB Override§"
+ building_supercomputer_override:0 "$building_supercomputer$"
+ building_supercomputer_override_desc:0 "$building_supercomputer_desc$ §R \nAVB Override§"
+ 
+ #Trade
+ building_commercial_megaplex_override:0 "$building_commercial_megaplex$"
+ building_commercial_megaplex_override_desc:0 "$building_commercial_megaplex_desc$ §R \nAVB Override§"
+ building_galactic_stock_exchange_override:0 "$building_galactic_stock_exchange$"
+ building_galactic_stock_exchange_override_desc:0 "$building_galactic_stock_exchange_desc$ §R \nAVB Override§"
+ 
+ #Amenities
+ building_paradise_dome_override:0 "$building_paradise_dome$"
+ building_paradise_dome_override_desc:0 "$building_paradise_dome_desc$ §R \nAVB Override§"
+ building_communal_housing_large_override:0 "$building_communal_housing_large$"
+ building_communal_housing_large_override_desc:0 "$building_communal_housing_large_desc$ §R \nAVB Override§"
+ building_drone_megastorage_override:0 "$building_drone_megastorage$"
+ building_drone_megastorage_override_desc:0 "$building_drone_megastorage_desc$ §R \nAVB Override§"
+ building_expanded_warren_override:0 "$building_expanded_warren$"
+ building_expanded_warren_override_desc:0 "$building_expanded_warren_desc$ §R \nAVB Override§"
+ building_hyper_entertainment_forum_override:0 "$building_hyper_entertainment_forum$"
+ building_hyper_entertainment_forum_override_desc:0 "$building_hyper_entertainment_forum_desc$ §R \nAVB Override§"
+ building_hospital_override:0 "$building_hospital$"
+ building_hospital_override_desc:0 "$building_hospital_desc$ §R \nAVB Override§"
+ building_maintenance_depot_override:0 "$building_maintenance_depot$"
+ building_maintenance_depot_override_desc:0 "$building_maintenance_depot_desc$ §R \nAVB Override§"
+ building_spawning_pool_override:0 "$building_spawning_pool$"
+ building_spawning_pool_override_desc:0 "$building_spawning_pool_desc$ §R \nAVB Override§"
+ building_slave_huts_override:0 "$building_slave_huts$"
+ building_slave_huts_override_desc:0 "$building_slave_huts_desc$ §R \nAVB Override§"
+ building_overseer_homes_override:0 "$building_overseer_homes$"
+ building_overseer_homes_override_desc:0 "$building_overseer_homes_desc$ §R \nAVB Override§"
+ 
+ #Unity
+ building_hypercomms_forum_override:0 "$building_hypercomms_forum$"
+ building_hypercomms_forum_override_desc:0 "$building_hypercomms_forum_desc$ §R \nAVB Override§"
+ building_sacred_nexus_override:0 "$building_sacred_nexus$"
+ building_sacred_nexus_override_desc:0 "$building_sacred_nexus_desc$ §R \nAVB Override§"
+ building_hive_confluence_override:0 "$building_hive_confluence$"
+ building_hive_confluence_override_desc:0 "$building_hive_confluence_desc$ §R \nAVB Override§"
+ building_simulation_3_override:0 "$building_simulation_3$"
+ building_simulation_3_override_desc:0 "$building_simulation_3_desc$ §R \nAVB Override§"
+ building_organic_paradise_override:0 "$building_organic_paradise$"
+ building_organic_paradise_override_desc:0 "$building_organic_paradise_desc$ §R \nAVB Override§"
+ building_corporate_forum_override:0 "$building_corporate_forum$"
+ building_corporate_forum_override_desc:0 "$building_corporate_forum_desc$ §R \nAVB Override§"
+ 
+ #Army
+ building_military_academy_override:0 "$building_military_academy$"
+ building_military_academy_override_desc:0 "$building_military_academy_desc$ §R \nAVB Override§"
+ building_fortress_override:0 "$building_fortress$"
+ building_fortress_override_desc:0 "$building_fortress_desc$ §R \nAVB Override§"
+ building_planetary_shield_generator_override:0 "$building_planetary_shield_generator$"
+ building_planetary_shield_generator_override_desc:0 "$building_planetary_shield_generator_desc$ §R \nAVB Override§"
+ 
+ #Deposit
+ building_mote_harvesters_override:0 "$building_mote_harvesters$"
+ building_mote_harvesters_override_desc:0 "$building_mote_harvesters_desc$ §R \nAVB Override§"
+ building_gas_extractors_override:0 "$building_gas_extractors$"
+ building_gas_extractors_override_desc:0 "$building_gas_extractors_desc$ §R \nAVB Override§"
+ building_crystal_mines_override:0 "$building_crystal_mines$"
+ building_crystal_mines_override_desc:0 "$building_crystal_mines_desc$ §R \nAVB Override§"
+ building_betharian_power_plant_override:0 "$building_betharian_power_plant$"
+ building_betharian_power_plant_override_desc:0 "$building_betharian_power_plant_desc$ §R \nAVB Override§"
+ building_xeno_zoo_override:0 "$building_xeno_zoo$"
+ building_xeno_zoo_override_desc:0 "$building_xeno_zoo_desc$ §R \nAVB Override§"
+ 
+ decision_avb_to_vanilla:0 "바닐라 건물 업그레이드 추가 끄기"
+ decision_avb_to_vanilla_custom:0 "이 결정은 바닐라 건물 업그레이드 추가를 비활성화합니다. 언제든지 켤 수 있습니다."
+ decision_avb_to_vanilla_desc:0 "다른 모드의 이벤트 및 업그레이드가 호환되지 않는 문제가 발생하면 이 결정을 사용하십시오."
+ decision_vanilla_to_avb:0 "바닐라 건물 업그레이드 추가 켜기"
+ decision_vanilla_to_avb_custom:0 "이 결정은 추가 바닐라 빌딩에서 바닐라 오버라이드를 가능하게합니다. 언제든지 해제 할 수 있습니다."
+ decision_vanilla_to_avb_desc:0 "바닐라 건물 업그레이드를 추가하고 하고 싶은 경우에 이 결정을 사용하십시오."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

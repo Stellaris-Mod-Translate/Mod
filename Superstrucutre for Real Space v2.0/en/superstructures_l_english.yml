@@ -1,0 +1,405 @@
+﻿l_english:
+
+ ### Planet Cracker ###
+ 
+ planet_cracker_0: "행성 채굴기 건설구역"
+ planet_cracker_0_DESC: "향후 행성 채굴시설 건설에 필요한 기반을 제공하는 궤도 플랫폼입니다."
+ planet_cracker_0_MEGASTRUCTURE_DETAILS: "§Y$planet_cracker_0$§!은 대규모 행성 채굴시설 건설을 위한 궤도 플랫폼의 역할을 합니다."
+ planet_cracker_0_CONSTRUCTION_INFO_DELAYED: "행성 채굴기는 강력한 레이저를 이용하여 대기를 태우고 광물이 풍부한 행성의 핵을 채취하여 결국 행성은 거주할 수 없는 곳이 되어버립니다."  
+ planet_cracker_1: "행성 채굴기"
+ planet_cracker_1_DESC: "§G100%§! 활성화된 행성 채굴기입니다. 이것은 우주 광산업에 핵심 운영 기지로써의 역할을 하며 행성 채굴 업무를 맡은 구성원들의 거처 또한 제공합니다."
+  
+ ### Giant's Igniter ###
+
+ giants_igniter_0: "가스행성 점화기 건설구역"
+ giants_igniter_0_DESC: "이 시설이 완공된다면 가스 행성의 밀도와 온도를 조작하여 행성을 적색 왜성으로 바꿀 것입니다."
+ giants_igniter_0_MEGASTRUCTURE_DETAILS: "§Y$giants_igniter_0$§!은 거대 가스 행성 내부의 수소를 점화시켜 거대한 발전소의 역할을 하도록 만들 것입니다."
+ giants_igniter_0_CONSTRUCTION_INFO_DELAYED: "가스행성 점화기는 가스 행성의 밀도를 증가시켜 행성을 갈색 왜성으로 바꿔버립니다. 그후 갈색 왜성을 타오르게 만들어 적색 왜성으로 바꿉니다."
+ giants_igniter_1: "가스행성 점화기"
+ giants_igniter_1_DESC: "인공 항성에 끝없이 연료를 공급해 어마어마한 양의 에너지를 생성하는 행성 규모의 핵 융합로입니다."
+ 
+ ### Orbital Farm ###
+
+ orbital_farm_0: "농업 오비탈 링 골조"
+ orbital_farm_0_DESC: "이 시설이 완공된다면 제국의 기아에 맞설 대비책이 될 것입니다."
+ orbital_farm_0_MEGASTRUCTURE_DETAILS: "§Y$orbital_farm_0$§!은 농작물을 경작하는 거대한 궤도의 온실 역할을 할 것입니다."
+ orbital_farm_0_CONSTRUCTION_INFO_DELAYED: "농업 오비탈 링은 식물 재배에 적절한 궤도에 위치됩니다. 행성에 위성이 있다면 분해되어 재료로 사용될 것입니다."
+ orbital_farm_1: "농업 오비탈 링"
+ orbital_farm_1_DESC: "고밀도 인구의 행성에 안정적인 식량 공급을 보장하는 농업 오비탈 링입니다."
+ 
+ ### World Shaper ###
+ 
+ world_shaper_0: "환경 조작기 건설구역"
+ world_shaper_0_DESC: "이 시설이 완공된다면 아무리 적대적인 환경의 행성이더라도 그 기후를 바꿔놓을 수 있을 것입니다."
+ world_shaper_0_MEGASTRUCTURE_DETAILS: "§Y$world_shaper_0$§!은 거대한 궤도 테라포밍 시설이 될 것입니다."
+ world_shaper_0_CONSTRUCTION_INFO_DELAYED: "이 궤도 시설은 적대적인 환경을 가진 행성의 테라포밍을 진행합니다. 다만 우리의 제한적인 기술력으론, 왜소 행성만을 테라포밍할 수 있습니다."
+ world_shaper_1: "환경 조작기"
+ world_shaper_1_DESC: "행성의 환경을 끊임없이 조정하여 원래의 적대적인 상태로 돌아가지 않습니다."
+   
+ ### Stellar Foundry ###
+ 
+ stellar_foundry_0: "항성 주조 플랫폼 건설구역"
+ stellar_foundry_0_DESC: "이 시설이 완공된다면 광물로부터 많은 양의 합금을 생산할 수 있을 것입니다."
+ stellar_foundry_0_MEGASTRUCTURE_DETAILS: "§Y$stellar_foundry_0$§!은 항성의 자기장을 이용하여 높은 품질의 합금을 생산할 것입니다."
+ stellar_foundry_0_CONSTRUCTION_INFO_DELAYED: "이 구조물은 중성자별, 펄사, 마그네타와 같이 강력한 자기장을 가진 천체에 건설할 수 있습니다."
+ stellar_foundry_1: "항성 주조 플랫폼"
+ stellar_foundry_1_DESC: "이 시설은 고품질의 합금을 생산합니다." 
+ 
+ ### Orbital Fabricator ###
+ 
+ orbital_fabricator_0: "궤도 산업 플랫폼 건설구역"
+ orbital_fabricator_0_DESC: "완공된다면 이 시설에서 광물을 사용해 대량의 소비재를 생산할 수 있을 것입니다."
+ orbital_fabricator_0_MEGASTRUCTURE_DETAILS: "§Y$orbital_fabricator_0$§!은 소행성을 소비하여 대량의 소비재를 생산할 것입니다."
+ orbital_fabricator_0_CONSTRUCTION_INFO_DELAYED: "이 구조물은 소행성대를 이용하여 제국의 소비재 수요를 충족시킬 것입니다."
+ orbital_fabricator_1: "궤도 산업 플랫폼"
+ orbital_fabricator_1_DESC: "이 시설은 다량의 소비재를 생산합니다."
+ 
+ ### Celestial AI ###
+ 
+ celestial_ai_0: "나노봇 생산 지구"
+ celestial_ai_0_DESC: "거대한 슈퍼컴퓨터 건설에 사용될 나노봇을 생산합니다."
+ celestial_ai_0_MEGASTRUCTURE_DETAILS: "§Y$celestial_ai_0$§!는 위성을 거대한 중앙처리장치로 변환시킬 것입니다."
+ celestial_ai_0_CONSTRUCTION_INFO_DELAYED: "이 시설은 위성을 슈퍼 컴퓨터로 변환하는데 필요한 나노봇을 생산합니다. 이 기술을 면밀히 주시하기 위해서 우리 고향에 아주 가깝게 건설되어야만 합니다."
+ celestial_ai_1: "위성 인공지능"
+ celestial_ai_1_DESC: "이 슈퍼컴퓨터는 우리 연구를 보조하고 있습니다. 비록 적은 양의 연산력을 이용하여 비밀리에 정치 시스템을 우리가 원하는 대로 조작하고 있지만 말이죠."
+ celestial_ai_2: "자폭한 위성 인공지능"
+ celestial_ai_2_DESC: "이것은 신성한 우리 종족의 우월성을 보여주는 기념비입니다. 우리는 우리의 창조물에게 패배하지 않을 것입니다!"  
+ 
+ ### Military Nexus ###
+
+ military_nexus_0: "방위 연결체"
+ military_nexus_0_DESC: "이 시설은 우리 국방부와 정보부를 포함하는 대형 시설입니다."
+ military_nexus_0_MEGASTRUCTURE_DETAILS: "§Y방위 연결체§!는 제국의 방위력을 향상시킵니다."
+ military_nexus_0_CONSTRUCTION_INFO_DELAYED: "이 복합 시설은 우리 군대를 더욱 조직화하여 방위력을 향상시킵니다. 이 시설은 반드시 수도성에 건설되어야 합니다."
+
+ ### Wormhole initiative ###
+ 
+ wormhole_initiative_0: "웜홀 연구 스테이션"
+ wormhole_initiative_0_DESC: "이 시설은 우리 연구를 보조하기 위해 인공적 웜홀 생성을 시도합니다."
+ wormhole_initiative_0_MEGASTRUCTURE_DETAILS: "§Y$wormhole_initiative_0$§!은 빠른 이동을 위한 인공 웜홀 생성을 연구하고 있습니다."
+ wormhole_initiative_0_CONSTRUCTION_INFO_DELAYED: "이 시설을 통해 블랙홀이나 마이크로 퀘이사의 중력 특이점을 이용하여 인공 웜홀을 생성할 수 있기를 희망합니다."
+ wormhole_initiative_1: "인공 웜홀 스테이션"
+ wormhole_initiative_1_DESC: "이 시설을 통해 시공간에 구멍을 뚫을 수 있었지만, 우리 은하에 웜홀을 하나 더 만든 것 같습니다."  
+ wormhole_initiative_2: "인공 L-네트워크 스테이션"
+ wormhole_initiative_2_DESC: "우리는 잊혀졌던 아공간이 얽힌 곳에 접근할 수 있었습니다. 이곳은 일반 우주에서는 접근하기 어려운 곳입니다."
+ BYPASS_WORMHOLE2: "안정적인 시공간 균열"
+ ARTIFICIAL_WORMHOLE:1 "인공 웜홀"
+ ARTIFICIAL_WORMHOLE_DESC_UNEXPLORED:1 "미확인된 인공 웜홀"
+ ARTIFICIAL_WORMHOLE_DESC:0 "이 성계는 §Y$ARTIFICIAL_WORMHOLE$§!이 있습니다."
+
+ ### Protoplanetary Matter Extractor ###
+ 
+ protoplanetary_matter_extractor_0: "원시행성 물질 추출기 건설구역"
+ protoplanetary_matter_extractor_0_DESC: "완공된다면 이 시설에서 원시 행성의 물질을 여과하여 희귀 자원을 얻을 수 있을 것입니다."
+ protoplanetary_matter_extractor_0_MEGASTRUCTURE_DETAILS: "§Y원시행성 물질 추출기§!는 원시 행성으로부터 희귀 수정, 불안정 분말, 이종가스와 같은 희귀 물질을 추출할 수 있습니다."
+ protoplanetary_matter_extractor_0_CONSTRUCTION_INFO_DELAYED: "이 시설은 원시 행성 원반이 있는 어린 항성에만 건설할 수 있습니다."
+ protoplanetary_matter_extractor_1: "원시행성 물질 추출기"
+ protoplanetary_matter_extractor_1_DESC: "물질 추출 과정에서 원반의 입자들과 지속적으로 충돌하기 때문에 관리에는 높은 유지비가 필요할 것입니다."
+ 
+ ### Orbital Drydock ###
+ 
+ orbital_shipyard_0: "궤도 건선거"
+ orbital_shipyard_0_DESC: "완공된다면 많은 함선을 빠르게 생산할 수 있을 것입니다."
+ orbital_shipyard_0_MEGASTRUCTURE_DETAILS: "§Y$orbital_shipyard_0$§!는 성계의 함선 건조 능력을 크게 향상시킬 것입니다."
+ orbital_shipyard_0_CONSTRUCTION_INFO_DELAYED: "이 시설은 우리 제국의 은하적 야망을 실현하는데 필요한 함대를 건설하는데 도움을 줄 것입니다."
+ orbital_shipyard_1: "궤도 조선소 복합단지"
+ orbital_shipyard_1_DESC: "이 조선소는 완전히 작동하고 있습니다."
+ 
+ ### Prototypes ###
+
+ prototypes_0: "시제형 대형 궤도시설 건설구역"
+ prototypes_0_DESC: "아직까지는 궤도 원자로밖에 없지만, 완공된 이후 이 시설은 미래의 거대구조 공학의 어려움을 이해하는 데 도움을 줄 것입니다."
+ prototypes_0_MEGASTRUCTURE_DETAILS: "§Y$prototypes_0$§!은 우주 건설에 대한 우리의 지식을 발전시킬 것입니다."
+ prototypes_0_CONSTRUCTION_INFO_DELAYED: "이 시제형 시설은 우주 건설의 가능성을 테스트하기 위한 시설입니다. 연구비의 한계로 한 번만 건설할 수 있습니다."
+ prototypes_1: "시제형 대형 궤도시설"
+ prototypes_1_DESC: "거대한 궤도 원자로와 채굴 시설은 미래 거대구조 공학의 어려움을 이해하기 위해 건설되었습니다."
+ prototypes_2: "시제형 대형 궤도시설"
+ prototypes_2_DESC: "거대한 궤도 원자로와 채굴 시설, 그리고 온실 구역은 미래 거대구조 공학의 어려움을 이해하기 위해 건설되었습니다."
+ prototypes_3: "시제형 대형 궤도시설"
+ prototypes_3_DESC: "거대한 궤도 원자로, 채굴 시설, 온실 구역, 그리고 조립장은 미래 거대구조 공학과 관련된 문제들에 완전히 숙달되도록 하기 위해 건설되었습니다."
+ 
+ ### Prototypes / Colonization Support Base ###
+ 
+ colonization_support_base_0: "식민화 보조기지"
+ colonization_support_base_0_DESC: "이 시설은 은하 식민화 계획의 작전기지입니다."
+ colonization_support_base_0_MEGASTRUCTURE_DETAILS: "§Y식민화 보조기지§!는 새로운 성계의 식민화와 관련된 보급을 보조합니다."
+ colonization_support_base_0_CONSTRUCTION_INFO_DELAYED: "이 시설은 새로운 성계의 더욱 빠른 개척을 위한 기반시설을 제공합니다."
+ 
+ ### Superstructure Removal ###
+
+ planet_cracker_2: "행성 채굴기 철거"
+ planet_cracker_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ giants_igniter_2: "가스행성 점화기 철거"
+ giants_igniter_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ orbital_farm_2: "농업 오비탈 링 철거"
+ orbital_farm_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ world_shaper_2: "환경 조작기 철거"
+ world_shaper_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ stellar_foundry_2: "항성 주조 플랫폼 철거"
+ stellar_foundry_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ orbital_fabricator_2: "궤도 산업 플랫폼 철거"
+ orbital_fabricator_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ military_nexus_1: "방위 연결체 철거"
+ military_nexus_1_DESC: "이 시설에 철거 명령을 내립니다!"
+ wormhole_initiative_3: "인공 웜홀 스테이션 철거"
+ wormhole_initiative_3_DESC: "이 시설에 철거 명령을 내립니다!"
+ protoplanetary_matter_extractor_2: "원시행성 물질 추출기 철거"
+ protoplanetary_matter_extractor_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ orbital_shipyard_2: "궤도 조선소 복합단지 철거"
+ orbital_shipyard_2_DESC: "이 시설에 철거 명령을 내립니다!"
+ prototypes_4: "시제형 대형 궤도시설 철거"
+ prototypes_4_DESC: "이 시설에 철거 명령을 내립니다!"
+ colonization_support_base_1: "식민화 보조기지 철거"
+ colonization_support_base_1_DESC: "이 시설에 철거 명령을 내립니다!" 
+ 
+ ### Gigantes ###
+
+ sdreadnought:0 "자이언트"
+ sdreadnought_bow:0 "자이언트 선수 스테이션"
+ sdreadnought_hangar:0 "자이언트 격납고 스테이션"
+ sdreadnought_mid:0 "자이언트 선체 스테이션"
+ sdreadnought_stern:0 "자이언트 선미 스테이션"
+ sdreadnought_plural:0 "자이언트"
+ 
+ zeus_cannon:0 "제우스 포"
+ zeus_cannon_core:0 "플라즈마 코어"
+ zeus_cannon_plural:0 "제우스 포"
+
+ SDREADNOUGHT_AURA_Combat:0 "함대 편성 센터" 
+ PERDITION_BEAM_SDREADNOUGHT:0 "실탄 초가속기"
+ PERDITION_BEAM_SDREADNOUGHT_DESC:0 "발사체를 가속시켜 전례없는 화력을 만들어내는 거대한 전자석 배열입니다."
+ PERDITION_BEAM_ZEUS_CANNON:0 "전력 방첨탑"
+ PERDITION_BEAM_ZEUS_CANNON_DESC:0 "강력한 플라즈마 구체를 발사하여 잔례없는 힘의 번개를 만들어냅니다."
+ POINT_DEFENCE_ZEUS_CANNON:0 "전력 방출기"
+ POINT_DEFENCE_ZEUS_CANNON_DESC:0 "근접 비행 중인 함선들을 강력한 번개로 공격합니다."
+ SDREADNOUGHT_COMBAT_COMPUTER_LINE_BASIC:0 "기본 전투 컴퓨터 (전열)"
+ SDREADNOUGHT_COMBAT_COMPUTER_ARTILLERY_BASIC:0 "기본 전투 컴퓨터 (포격)"
+ SDREADNOUGHT_COMBAT_COMPUTER_LINE_ADVANCED:0 "개선된 전투 컴퓨터 (전열)"
+ SDREADNOUGHT_COMBAT_COMPUTER_ARTILLERY_ADVANCED:0 "개선된 전투 컴퓨터 (포격)"
+ SDREADNOUGHT_COMBAT_COMPUTER_LINE_SAPIENT:0 "지각 전투 컴퓨터 (전열)"
+ SDREADNOUGHT_COMBAT_COMPUTER_ARTILLERY_SAPIENT:0 "지각 전투 컴퓨터 (포격)"
+ SDREADNOUGHT_COMBAT_COMPUTER_LINE_PRECOG:0 "예지 접속기 (전열)"
+ SDREADNOUGHT_COMBAT_COMPUTER_ARTILLERY_PRECOG:0 "예지 접속기 (포격)"
+ SDREADNOUGHT_COMBAT_COMPUTER_LINE_AUTONOMOUS:0 "자동화 전투 컴퓨터 (전열)"
+ SDREADNOUGHT_COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS:0 "자동화 전투 컴퓨터 (포격)"
+ SDREADNOUGHT_ANTIMATTER_REACTOR:0 "반물질 반응로"
+ ZEUS_CANNON_ANTIMATTER_REACTOR:0 "반물질 반응로"
+ SDREADNOUGHT_ZERO_POINT_REACTOR:0 "영점 반응로"
+ ZEUS_CANNON_ZERO_POINT_REACTOR:0 "영점 반응로"
+ SDREADNOUGHT_DARK_MATTER_REACTOR:0 "암흑물질 반응로"
+ ZEUS_CANNON_DARK_MATTER_REACTOR:0 "암흑물질 반응로"
+ SDREADNOUGHT_SHIP_THRUSTER_1:0 "화학 추진기"
+ SDREADNOUGHT_SHIP_THRUSTER_2:0 "이온 추진기"
+ SDREADNOUGHT_SHIP_THRUSTER_3:0 "플라즈마 추진기"
+ SDREADNOUGHT_SHIP_THRUSTER_4:0 "임펄스 추진기"
+ SDREADNOUGHT_SHIP_THRUSTER_5:0 "암흑물질 추진기"
+ 
+ sm_sdreadnought_black_site:0 "올림푸스 프로젝트 연구시설"
+ sm_sdreadnought_black_site_desc:0 "올림푸스 프로젝트의 목적은 은하계 곳곳에서 마주친 고대 함선의 디자인을 바탕으로 극비리에 새로운 강력한 함선과 항성기지 설계를 개발하는 것입니다."
+ sm_sdreadnought_black_site_desc_modifier:0 "조선소: §Y자이언트 건조 가능§!"
+ 
+ ### Events ###
+ 
+ planet_cracker.0.name:0 "행성 채굴기 건설구역 완성"
+ planet_cracker.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y행성 채굴기§! 건설을 위한 첫단계가 완료되었습니다. 이제 채굴 레이저 발사를 준비할 수 있습니다."
+  
+ planet_cracker.1.name:0 "행성 채굴기 가동 시작"
+ planet_cracker.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y행성 채굴기§!는 성공적으로 행성 핵에서 광물을 채취하기 시작했습니다."
+ 
+ orbital_farm.0.name:0 "농업 오비탈 링 골조 완성"
+ orbital_farm.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y농업 오비탈 링§! 건설을 위한 첫단계가 완료되었습니다. 이제 본격적으로 궤도 농장을 건설할 수 있을 것입니다."
+ 
+ orbital_farm.1.name:0 "농업 오비탈 링 완성"
+ orbital_farm.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y농업 오비탈 링§! 건설이 완료되었습니다. 이제 우리 행성에서 식량 부족은 옛말이 될 것입니다."
+ 
+ solar_igniter.0.name:0 "가스행성 점화기 건설구역 완성"
+ solar_igniter.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y가스행성 점화기§! 건설을 위한 첫단계가 완료되었습니다. 수소가 연소될 때까지 행성의 밀도와 온도를 높이는 작업을 진행할 수 있을 것입니다."
+ 
+ solar_igniter.1.name:0 "가스행성 점화기 가동 시작"
+ solar_igniter.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y가스행성 점화기§! 건설이 완료되었습니다. 성공적으로 행성을 핵융합로로 변화시켰습니다." 
+ 
+ world_shaper.0.name:0 "환경 조작기 건설구역 완성"
+ world_shaper.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y환경 조작기§! 건설을 위한 첫단계가 완료되었습니다. 곧 우리 구성원들에게 적합한 환경을 조성할 수 있을 것입니다."
+
+ world_shaper.1.name:0 "환경 조작기 가동 시작"
+ world_shaper.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y환경 조작기§! 건설이 완료되었습니다. 성공적으로 행성을 거주 가능한 행성으로 변화시킬 것입니다."
+ 
+ stellar_foundry.0.name:0 "항성 주조 플랫폼 건설구역 완성"
+ stellar_foundry.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y항성 주조 플랫폼§! 건설을 위한 첫단계가 완료되었습니다. 곧 용광로에 불을 붙일 수 있을 것입니다."
+
+ stellar_foundry.1.name:0 "항성 주조 플랫폼 가동 시작"
+ stellar_foundry.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y항성 주조 플랫폼§! 건설이 완료되었습니다. 성공적으로 거대 용광로에 불을 붙였습니다."
+ 
+ orbital_fabricator.0.name:0 "궤도 산업 플랫폼 건설구역 완성"
+ orbital_fabricator.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y궤도 산업 플랫폼§! 건설을 위한 첫단계가 완료되었습니다. 이제 시설에 필요한 기반 시설을 설치해야 합니다."
+ 
+ orbital_fabricator.1.name:0 "궤도 산업 플랫폼 가동 시작"
+ orbital_fabricator.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y궤도 산업 플랫폼§! 건설이 완료되었습니다. 이제 상품을 생산하기 시작했습니다."
+
+ celestial_ai.0.name:0 "나노봇 생산지구 완성"
+ celestial_ai.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y나노봇 생산지구§! 건설이 완료되었습니다. 이 시설은 나노봇을 생산하여 위성을 거대한 슈퍼컴퓨터로 바꿔놓을 것입니다."
+
+ celestial_ai.1.name:0 "위성 인공지능 완성"
+ celestial_ai.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y위성 인공지능§! 건설이 완료되어 위성을 거대한 중앙처리장치로 바꾸어 놓았습니다."
+ 
+ celestial_ai.2.name:0 "위성 인공지능 파괴"
+ celestial_ai.2.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y위성 인공지능§!이 자폭했습니다."
+ 
+ military_nexus.0.name:0 "방위 연결체 완성"
+ military_nexus.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y방위 연결체§! 건설이 완료되어 작동하기 시작했습니다."
+ 
+ wormhole_initiative.0.name:0 "웜홀 연구 스테이션 완성"
+ wormhole_initiative.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y웜홀 연구 스테이션§! 건설이 완료되어 연구 계획이 이 시설로 이관되었습니다."
+ 
+ wormhole_initiative.1.name:0 "인공 웜홀 생성"
+ wormhole_initiative.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y인공 웜홀 스테이션§! 건설이 완료되었습니다. 성공적으로 시공간 구조에 구명을 뚫어 §Y인공 웜홀§!을 생성했습니다."
+ 
+ wormhole_initiative.2.name:0 "L-네트워크 접근"
+ wormhole_initiative.2.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y인공 L-네트워크 스테이션§! 건설이 완료되었습니다. 이제 잊혀졌던 얽힌 아공간에 접근할 수 있습니다."
+  
+ protoplanetary_matter_extractor.0.name:0 "원시행성 물질 추출기 건설구역 완성"
+ protoplanetary_matter_extractor.0.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y원시행성 물질 추출기§! 건설을 위한 첫단계가 완료되었습니다. 곧 추출 작업을 준비할 수 있을 것입니다."
+ 
+ protoplanetary_matter_extractor.1.name:0 "원시행성 물질 추출기 가동 시작"
+ protoplanetary_matter_extractor.1.desc:0 "[From.From.From.From.Planet.GetName]에서 §Y원시행성 물질 추출기§! 건설이 완료되었습니다. 추출 작업을 개시합니다."
+ 
+ orbital_shipyard.0.name:0 "궤도 건선거 완성"
+ orbital_shipyard.0.desc:0 "미래의 조선소를 위한 개별 플랫폼 건설이 완료되었습니다. 이제 추가적인 건선거 건설을 위한 기반시설을 설치할 수 있습니다."
+ 
+ orbital_shipyard.1.name:0 "궤도 조선소 복합단지 완성"
+ orbital_shipyard.1.desc:0 "[From.From.From.From.Planet.GetName]에서 "궤도 조선소 복합단지" 건설이 완료되어 함대 건설을 위한 준비가 완료되었습니다."
+  
+ planet_cracker.3.name:0 "행성 채굴기"
+ planet_cracker.3.desc:0 "수백만 톤의 광석을 채굴하는 동안 얻어진 수송학과 체계학에 대한 지식은 현재 §Y거대 건축물§! 건설을 위한 이론적 모델로 사용되고 있습니다."
+ 
+ orbital_farm.3.name:0 "농업 오비탈 링"
+ orbital_farm.3.desc:0 "인공 궤도 생물권에서 농작물 재배로 얻은 지식은 현재 우리 정부의 새로운 특별 프로젝트인 §Y은하의 불가사의§!로 흘러가고 있습니다."
+ 
+ solar_igniter.3.name:0 "가스행성 점화기"
+ solar_igniter.3.desc:0 "우리 군사 물리학자들은 가스행성 점화기를 이용하여 차세대 우주 정거장을 위한 진보한 태양열 집열기와 열 차폐기의 개발 및 실험을 위한 신청서를 제출했습니다."
+ 
+ world_shaper.3.name:0 "환경 조작기"
+ world_shaper.3.desc:0 "우리의 대기 감지 위성망은 자주 특정한 간섭이 일어납니다. 일부 과학자들은 이러한 간섭의 일부를 우리 태양계 내의 함대의 이동과 링크시켰습니다. 이런 종류의 기술이 군사적으로 응용이 가능할까요?"
+ 
+ stellar_foundry.3.name:0 "항성 주조 플랫폼"
+ stellar_foundry.3.desc:0 "중성자별에 근접한 이 시설은 물질이 어떻게 초밀도 상태를 벗어나는지에 대한 지식을 얻을 수 있게 했습니다. 우리 공학자들은 이 현상을 인공적으로 재현할 수 있을 것이라 믿고 있습니다."
+ 
+ celestial_ai.3.name:0 "위성 인공지능"
+ celestial_ai.3.desc:0 "우리 정부는 자율 나노봇의 사용을 격리된 환경으로 제한하기로 결정했습니다. 정부 조언자들은 이 나노봇들이 어떻게 변화할지 두려워하고 있습니다. 어떤 이들은 이 나노봇들이 주변 행성의 데이터를 적극적으로 수집하고 있다고 믿고 있습니다."
+
+ celestial_ai.4.name:0 "위성 인공지능 파괴"
+ celestial_ai.4.desc:0 "우리 종족은 스스로의 창조물을 제거함으로써 힘과 결의를 증명했습니다. 그럼에도 불구하고 우리는 일부 자율 나노봇이 격리된 위성에서 벗어났을거라 생각하고 있습니다."
+ 
+ orbital_fabricator.3.name:0 "궤도 산업 플랫폼"
+ orbital_fabricator.3.desc:0 "수백만 개의 소비재를 생산하고 수송하는 동안 얻어낸 물류 노하우는 현재 §Y거대 건축물§! 건설을 위한 이론적 모델로 사용되고 있습니다."
+ 
+ wormhole_initiative.3.name:0 "인공 웜홀 스테이션"
+ wormhole_initiative.3.desc:0 "두 개의 블랙홀 사이를 이동할 수 있다는 사실은 우리 연구원들이 자연 웜홀의 안정화에 대한 지식을 얻는 데 도움을 주었습니다. 또한 연구원들 사이에서 인공적인 §Y관문망§!을 만들 수 있다는 이론이 제기되기도 했습니다."
+ wormhole_initiative.4.name:0 "인공 L-네트워크 스테이션"
+ wormhole_initiative.4.desc:0 "우리 연구원들은 정부 관계자들에게 새로이 발견된 L-네트워크를 탐색하도록 압력을 가하고 있습니다."
+ 
+ orbital_shipyard.3.name:0 "궤도 조선소 복합단지"
+ orbital_shipyard.3.desc:0 "우리 건선거의 묘한 아름다움은 제국 전역의 예술가들에게 영감을 주었습니다."
+ 
+ prototypes.3.name:0 "시제형 대형 궤도시설"
+ prototypes.3.desc:0 "공학자들은 시제형 대형 궤도시설 건설이 성공했다고 공개적으로 발표했습니다. 이제 추가적인 연구로 우주의 거대한 공허에 거대 구조물을 건설할 수 있을 것입니다. 이런 성과에도 불구하고 이 시제형 시설의 구성에 만족하지 못하는 정치적인 움직임도 있습니다."
+ 
+ colonization_support_base.3.name:0 "식민화 보조기지"
+ colonization_support_base.3.desc:0 "우리는 이제 은하의 식민지화를 위한 전진기지를 건설했습니다. 이 성공으로 정치적 회의론은 줄어들었고 은하적 야망이 커짐에 따라 우리 종족은 하나로 뭉칠 수 있었습니다."
+ 
+ ### custom Tooltip ###
+ 
+ requires_special_planet:1 "$TRIGGER_FAIL$이 행성은 대형 건축물을 건설하기에 부적절한 유형의 행성입니다."
+ requires_dwarf_planet:1 "$TRIGGER_FAIL$이 대형 건축물을 건설하려면 소형 암석 행성이 필요합니다."
+ wrong_planet_size:1 "$TRIGGER_FAIL$이 대형 건축물을 건설하려면  충분한 크기와 질량을 가진 행성이 필요합니다."
+ requires_giant:1 "$TRIGGER_FAIL$이 대형 건축물 건설을 위해서는 거대 가스행성이 필요합니다."
+ requires_survey_habitable:1 "$TRIGGER_FAIL$탐사되지 않은 행성이나 거주 불가능한 행성에는 건설할 수 없습니다."
+ requires_moons_for_material:0 "$TRIGGER_FAIL$건축 자재로 활용할 위성이 없는 행성에는 건설할 수 없습니다."
+ #requires_no_black_hole:1 "$TRIGGER_FAIL$이 대형 건축물은 블랙홀 주변에 건설할 수 없습니다."
+ requires_moon:1 "$TRIGGER_FAIL$이 대형 건축물은 거주 불가능한 위성에 건설할 수 있습니다."
+ requires_asteroid:1 "$TRIGGER_FAIL$이 대형 건축물은 소행성에 건설할 수 있습니다."
+ requires_not_asteroid:1 "$TRIGGER_FAIL$이 대형 건축물은 소행성에 건설할 수 없습니다."
+ requires_not_moon:1 "$TRIGGER_FAIL$이 대형 건축물은 위성에 건설할 수 없습니다."
+ requires_close_watch:1 "$TRIGGER_FAIL$이 대형 건축물은 시작 성계에 건설해야 합니다."
+ requires_magnetic_star:1 "$TRIGGER_FAIL$이 대형 건축물은 중성자별, 펄사, 마그네타, 콜랩사, 마이크로퀘이사와 같이 자성이 높은 천체에 건설해야 합니다."
+ requires_not_asteroid:1 "$TRIGGER_FAIL$이 대형 건축물은 소행성에 건설할 수 없습니다."
+ requires_black_hole:1 "$TRIGGER_FAIL$이 대형 건축물은 블랙홀이나 마이크로퀘이사에 건설해야 합니다."
+ requires_capital:1 "$TRIGGER_FAIL$이 대형 건축물은 수도성에 건설해야 합니다."
+ requires_protostar:1 "$TRIGGER_FAIL$이 대형 건축물은 원시행성 원반이 있는 항성에 건설해야 합니다."
+ starbase_sdreadnought_black_site_trigger:1 "$TRIGGER_FAIL$올림푸스 프로젝트 연구시설이 필요합니다."
+ requires_colony:1 "$TRIGGER_FAIL$이 대형 건축물은 식민화된 행성 중 하나에 건설할 수 있습니다."
+ 
+ ### Technology ###
+
+ tech_superstructures_society:0 "궤도 대형공학"
+ tech_superstructures_society_desc:0 "사회에 도움이 될 대형 구조물 건설이 가능해집니다."
+ allow_superstructures_society:0 "§H대형 건축물 잠금해제:§! 환경 조작기, 농업 오비탈 링, 궤도 조선소 복합단지, 방위 연결체"
+ society_0_MEGASTRUCTURE_DETAILS:1 "우리 사회가 더욱 번영할 수 있도록 만들어줄 매우 복잡한 우주 시설입니다."
+ 
+ tech_superstructures_physics:0 "궤도 대형공학"
+ tech_superstructures_physics_desc:0 "과학 발전에 도움이 될 대형 구조물 건설이 가능해집니다."
+ allow_superstructures_physics:0 "§H대형 건축물 잠금해제:§! 가스행성 점화기, 항성 주조 플랫폼, 웜홀 연구 스테이션"
+ physics_0_MEGASTRUCTURE_DETAILS:1 "우리 과학적 발전을 도와줄 매우 복잡한 우주 시설입니다."
+ 
+ tech_superstructures_engineering:0 "궤도 대형공학"
+ tech_superstructures_engineering_desc:0 "공학 발전에 도움이 될 대형 구조물 건설이 가능해집니다."
+ allow_superstructures_engineering:0 "§H대형 건축물 잠금해제:§! 위성 인공지능, 궤도 산업 플랫폼, 행성 채굴기, 원시행성 물질 추출기"
+ engineering_0_MEGASTRUCTURE_DETAILS:1 "과거에는 거의 건설이 불가능하다고 생각했던 우주 시설입니다."
+ 
+ tech_sdreadnought:0 "올림푸스 프로젝트"
+ tech_sdreadnought_desc:0 "이론적으로, 대형 구조물 건설로 얻은 지식은 거대한 함선을 건조하는데 사용될 수 있습니다."
+ allow_tech_sdreadnought:0 "§H함선 잠금해제:§! 자이언트"
+ tech_SDREADNOUGHT_DETAILS:1 "§Y자이언트§!는 재래식 함선보다 훨씬 더 중무장한 함선입니다." 
+ allow_tech_zeus:0 "§H스테이션 잠금해제:§! 제우스 캐논"
+ tech_ZEUS_DETAILS:1 "§Y제우스 캐논§!은 §Y자이언트§!급의 함선으로부터 항성기지를 방어하기 위해 고안된 대규모 방어 플랫폼입니다. 자이언트의 장갑과 보호막이 강력하여 관통하는 것이 어렵기 때문에, 이 무기는 자이언트의 전기 부품을 파괴하는 것을 목표로 합니다."
+  
+ ### Menu ###
+ superstructures.100.name:0 "히든 이벤트"
+ superstructures.100.desc:0 "히든 이벤트"
+ superstructures.101.name:0 "슈퍼스트럭처 모드"
+ superstructures.101.desc:0 "어떤 §Y대형 건축물§!이 게임에 등장하게 할지 선택할 수 있습니다. 이 설정은 게임 내에서 수도성의 §Y대형 건축물 회의§!를 구성함으로써 바꿀 수 있습니다."
+ superstructures.101.default.name:0 "기본"
+ superstructures.101.default.tooltip:0 "변화 없음"
+ superstructures.101.customize.name:0 "커스텀"
+ superstructures.101.customize.tooltip:0 "게임에 등장할 §Y대형 건축물§!을 선택합니다."
+ 
+ superstructures.102.name:0 "모드 환경 설정"
+ superstructures.102.desc:0 "어떤 §Y대형 건축물§!이 §G사용 가능§!하거나 §R사용 금지§!될지 선택하세요."
+ superstructures.102.all_allowed.name:0 "모든 대형 건축물과 올림푸스 프로젝트: §G사용 가능§!"
+ superstructures.102.all_banned.name:0 "모든 대형 건축물과 올림푸스 프로젝트: §R사용 금지§!"
+ 
+ superstructures.102.prototypes_allowed.name:0 "시제형 대형 궤도시설: §G사용 가능§!"
+ superstructures.102.world_shaper_allowed.name:0 "환경 조작기: §G사용 가능§!"
+ superstructures.102.celestial_ai_allowed.name:0 "위성 인공지능: §G사용 가능§!"
+ superstructures.102.giants_igniter_allowed.name:0 "가스행성 점화기: §G사용 가능§!"
+ superstructures.102.military_nexus_allowed.name:0 "방위 연결체: §G사용 가능§!"
+ superstructures.102.orbital_fabricator_allowed.name:0 "궤도 산업 플랫폼: §G사용 가능§!"
+ superstructures.102.orbital_farm_allowed.name:0 "농업 오비탈 링: §G사용 가능§!"
+ superstructures.102.orbital_shipyard_allowed.name:0 "궤도 조선소 복합단지: §G사용 가능§!"
+ superstructures.102.planet_cracker_allowed.name:0 "행성 채굴기: §G사용 가능§!"
+ superstructures.102.protoplanetary_matter_allowed.name:0 "원시행성 물질 추출기: §G사용 가능§!"
+ superstructures.102.stellar_foundry_allowed.name:0 "항성 주조 플랫폼: §G사용 가능§!"
+ superstructures.102.wormhole_initiative_allowed.name:0 "웜홀 연구 스테이션: §G사용 가능§!"
+ superstructures.102.tech_sdreadnought_allowed.name:0 "올림푸스 프로젝트: §G사용 가능§!"
+ superstructures.102.prototypes_banned.name:0 "시제형 대형 궤도시설: §R사용 금지§!"
+ superstructures.102.world_shaper_banned.name:0 "환경 조작기: §R사용 금지§!"
+ superstructures.102.celestial_ai_banned.name:0 "위성 인공지능: §R사용 금지§!"
+ superstructures.102.giants_igniter_banned.name:0 "가스행성 점화기: §R사용 금지§!"
+ superstructures.102.military_nexus_banned.name:0 "방위 연결체: §R사용 금지§!"
+ superstructures.102.orbital_fabricator_banned.name:0 "궤도 산업 플랫폼: §R사용 금지§!"
+ superstructures.102.orbital_farm_banned.name:0 "농업 오비탈 링: §R사용 금지§!"
+ superstructures.102.orbital_shipyard_banned.name:0 "궤도 조선소 복합단지: §R사용 금지§!"
+ superstructures.102.planet_cracker_banned.name:0 "행성 채굴기: §R사용 금지§!"
+ superstructures.102.protoplanetary_matter_banned.name:0 "원시행성 물질 추출기: §R사용 금지§!"
+ superstructures.102.stellar_foundry_banned.name:0 "항성 주조 플랫폼: §R사용 금지§!"
+ superstructures.102.wormhole_initiative_banned.name:0 "웜홀 연구 스테이션: §R사용 금지§!"
+ superstructures.102.tech_sdreadnought_banned.name:0 "올림푸스 프로젝트: §R사용 금지§!"
+ superstructures.102.continue.name:0 "게임 시작"
+ superstructures.102.continue.tooltip:0 "옵션을 저장하고 게임을 시작합니다."
+ 
+ ### Superstructure Congress ###
+
+ engineers_think_tank_0: "대형 건축물 회의"
+ engineers_think_tank_0_DESC: "이 회의 동안 은하 최고의 공학자들이 §Y대형 구조물§!의 안전성을 재평가합니다."
+ engineers_think_tank_0_MEGASTRUCTURE_DETAILS: "회의가 끝난 후, 특정한 §Y대형 건축물§!을 §G사용 가능§!하게 하거나 §R사용 금지§! 할 수 있습니다."
+ engineers_think_tank_0_CONSTRUCTION_INFO_DELAYED: "이 회의는 대형 구조물의 건설과 관련한 공학자들의 거대한 회의입니다."

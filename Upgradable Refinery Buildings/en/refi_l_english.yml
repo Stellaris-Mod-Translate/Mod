@@ -1,0 +1,47 @@
+﻿l_english:
+ tech_synthesis_arrays:0 "대량 합성"
+ tech_synthesis_arrays_desc:0 "재료 합성 분야의 발전으로 인해 산업 규모의 전략 자원을 생산할 수있는 장치를 개발할 수있게되었습니다."
+ 
+ tech_rare_crystals_2:0 "중심핵 촉매"
+ tech_rare_crystals_2_desc:0 "특수 촉매제를 광물 핵 주변에 형성 및 방출함으로써 희귀 수정을 훨씬 더 효율적으로 합성 할 수 있습니다." 
+ 
+ tech_rare_crystals_3:0 "다결정 재료"
+ tech_rare_crystals_3_desc:0 "기본 광물의 빠른 결정화를 화학적자극으로 가함으로써 우리는 놀라운 순도의 인공 수정 구조를 만들 수 있습니다." 
+ 
+ tech_exotic_gases_2:0 "플라즈마 재결합"
+ tech_exotic_gases_2_desc:0 "화학 결합기를 통해 광물에 플라즈마를 유도함으로써 우리는 이종가스를 생성 할 수 있습니다." 
+ 
+ tech_exotic_gases_3:0 "광물 승화"
+ tech_exotic_gases_3_desc:0 "정제된 광물을 승화 도가니에 과열시킴으로써 우리는 다양한 용도의 이종가스 화합물을 만들 수 있습니다."
+ 
+ tech_volatile_motes_2:0 "극한 열역학"
+ tech_volatile_motes_2_desc:0 "우리 과학자들이 열역학 법칙에 계속 도전한끝에 극한의 온도와 에너지 급증을 안전하게 견딜 수있는 장비를 개발했습니다." 
+ 
+ tech_volatile_motes_3:0 "단계적 에너지 이동"
+ tech_volatile_motes_3_desc:0 "에너지 함량이 높은 초자연적 입자를 자극하고 위상 방출기를 통해 방출함으로써 과학자들은 엄청난 양의 에너지를 전달할 수 있습니다." 
+
+ building_synthesis:0 "전략자원부"
+ building_synthesis_desc:0 "전략자원부는 지구 전체에 걸친 전략자원의 생산을 조직화하고 능률화하기 위해 끊임없이 노력하고 있습니다\n"  
+ building_synthesis_machine_intelligence:0 "정유 조정 센터"
+ building_synthesis_desc_machine_intelligence:0 "전 지구에 걸쳐 전략 자원 생산을 중앙 집중화하고 조정하는 방대 한 시설입니다.\n\n"
+ building_synthesis_hive_mind:0 "정유 조정 센터"
+ building_synthesis_desc_hive_mind:0 "전 지구에 걸쳐 전략 자원 생산을 중앙 집중화하고 조정하는 방대 한 시설입니다.\n"
+
+ building_motes2:0 "입자 정제소"
+ building_motes2_desc:0 "전문 화학자들에 의해 많은 양의 불안정 분말들이 만들어지는 정제소입니다."
+ 
+ building_motes3:0 "양자 복합시설"
+ building_motes3_desc:0 "복합 단지의 전문가들은 물리법칙을 구부리면서 고에너지 입자의 꾸준한 흐름을 만드는 힘을 간신히 제어 할 수 있습니다."
+
+ building_gas2:0 "합성 가스 처리 시설"
+ building_gas2_desc:0 "숙련된 가스 정제사에 의한 광물 승화를 통해 이종 가스가 대량으로 생성되는 설비입니다."
+
+ building_gas3:0 "합성 가스 정제 단지"
+ building_gas3_desc:0 "첨단 정제 장비를 운영하는 전문가들이 고급 이종 가스를 대량 생산하는 첨단 정유 단지입니다."
+
+ building_crystal2:0 "결정화 센터"
+ building_crystal2_desc:0 "결정화 센터에서는 전문화된 기계를 사용하여 대량의 고품질 희귀 수정이 만들어집니다."
+
+ building_crystal3:0 "나노 결정화 복합시설"
+ building_crystal3_desc:0 "막대한 양의 광물과 나나이트를 사용하는 이곳은 가장 순수한 희귀 수정을 대량 생산하는 고급 생산 단지입니다."
+ 

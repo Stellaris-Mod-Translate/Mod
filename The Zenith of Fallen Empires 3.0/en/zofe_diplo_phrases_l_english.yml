@@ -1,0 +1,146 @@
+﻿l_english:
+ 
+ 
+ DE_CUSTODIAL_GREETING_01:0 "너희는 종교적인 지도가 필요할 것이다. 특히 우리의 지도가."
+ DE_NEUTRAL_GREETING_01:0 "너희는 우리의 지도를 받을 필요가 없겠군."
+ DE_NEUTRAL_GREETING_02:0 "우리의 지도를 필요로 하나?"
+ 
+ WR_NEUTRAL_GREETING_01:0 "비록 기술 발전 수준은 비슷하나, [From.GetSpeciesAdj]의 기술은 많은 면에서 열악한 면을 보이는군."
+ WR_NEUTRAL_GREETING_02:0 "우리는 기술을 사랑한다."
+ 
+ BI_NEUTRAL_GREETING_01:0 "반갑군, 친구여!"
+ BI_NEUTRAL_GREETING_02:0 "우리 과학자들은 항상 [From.GetSpeciesNamePlural]이(가) 이종간 호환성에 관심이 있는지 궁금해했지. 그대는 어떻게 생각하는가?"
+ 
+ JR_FEDERATION_GREETING_01:0 "우리는 너흴 믿지 않으나, 우리의 적은 더욱 믿을 수 없을 뿐이다."
+ JR_NEUTRAL_GREETING_01:0 "우린 너희와 싸우지 않을 것이다. ...아직은."
+ JR_NEUTRAL_GREETING_02:0 "우리 눈 앞에서 사라져라. 그러면 우리 역시도 너희와 떨어지도록 할테니."
+ 
+ FW_ARROGANT_GREETING_01:0 "연약한 [From.GetSpeciesName]이(가) 싸우는 것을 상상하는 건 놀라운 일이지."
+ FW_BELLIGERENT_GREETING_01:0 "우리는 우리의 우월한 군사력을 과시하는 것을 기다리고 있다."
+ FW_CUSTODIAL_GREETING_01:0 "전쟁이 다가온다. 우리는 함께 승리할 것이다."
+ FW_CUSTODIAL_GREETING_02:0 "너흰 보호가 필요하다. 우리의 보호가."
+ FW_OVERLORD_GREETING_01:0 "너희 [From.GetSpeciesNamePlural]은(는) 잘 싸우는군. 계속 싸워라! 마지막 [From.GetSpeciesName]만이 남을 때까지!"
+ FW_MECH_OVERLORD_GREETING_01:0 "너희 기계들은 잘 싸우는군."
+ FW_NEUTRAL_GREETING_01:0 "[From.GetSpeciesNamePlural]은(는) 뛰어난 전사들이지만, [Root.GetSpeciesAdj] 칼날 앞에는 무력하게 베일 뿐이지."
+ FW_NEUTRAL_GREETING_02:0 "너희 제독 후보들을 우리 사관학교에서 훈련시키는 건 어떻겠나? 학비는 할인해줄 수 있다."
+ 
+ SP_ARROGANT_GREETING_01:0 "너희의 본성은 폭력으로 가득 차 있군, [From.GetSpeciesNamePlural]. 아직 되돌리기에 늦지 않았다."
+ SP_BELLIGERENT_GREETING_01:0 "너희의 군대는 많은 고통을 불러오며, 모두에게 위협이 된다. 우리는 그 위협을 영구적으로 종식시킬 수 있다."
+ SP_CUSTODIAL_GREETING_01:0 "[Root.GetSpeciesNamePlural]이(가) 위협을 돌파하는 한, 우리는 함께 은하에 평화를 뿌릴 수 있을 것이다."
+ SP_CUSTODIAL_GREETING_02:0 "우리가 너흴 지켜주겠다. 그런 함대와 대량 살상 무기는 필요 없다."
+ SP_OVERLORD_GREETING_01:0 "너흰 이제 안전하다. 대량 살상 무기는 장난으로라도 가져선 안된다."
+ SP_NEUTRAL_GREETING_01:0 "전투는 없다. 고통도 없다."
+ SP_NEUTRAL_GREETING_02:0 "은하 군비 축소 안건에 관심있나?"
+ 
+ DS_ARROGANT_GREETING_01:0 "우리의 정치 체제야말로 [From.GetName]이(가) 모두에게 질서와 번영을 가져다주기 위해 고려할 수 있는 유일한 체제다."
+ DS_BELLIGERENT_GREETING_01:0 "우리의 힘에 복종하라. 우리의 위대한 힘에."
+ DS_CUSTODIAL_GREETING_01:0 "더 많은 노예가 필요하다."
+ DS_CUSTODIAL_GREETING_02:0 우리는 더욱 많은 노예가 필요하다. 너희 [From.GetSpeciesNamePlural]은(는) 특히 더 환영한다."
+ DS_OVERLORD_GREETING_01:0 "노예. 우리는 너희가 필요하다."
+ DS_NEUTRAL_GREETING_01:0 "우리는 너희 [From.GetSpeciesNamePlural]이(가) 어떻게 이렇게까지 발전할 수 있었는지 이해할 수 없다."
+ DS_NEUTRAL_GREETING_02:0 "우리는 지금은 새로운 노예를 필요로 하지 않는다.."
+ 
+ DU_ARROGANT_GREETING_01:0 "너희는 종족 권리를 어떻게 설정해뒀지?"
+ DU_BELLIGERENT_GREETING_01:0 "[From.GetSpeciesNamePlural]는 민주주의를 필요로 하는 것 같군. 우리가 민주주의를 뿌려줄 수 있다."
+ DU_CUSTODIAL_GREETING_01:0 "우리의 가장 중요한 임무는 은하계 전체에 민주주의를 전파하고, 지성체의 권리를 신장하는 것이다."
+ DU_CUSTODIAL_GREETING_02:0 "민주주의가 필요한가?"
+ DU_OVERLORD_GREETING_01:0 "너흰 아직도 평등에 대해 배울 것이 많다. 적어도 우리가 서로 동등하지 않다는 것을."
+ DU_NEUTRAL_GREETING_01:0 "반갑군! 말 그대로, 반가워."
+ DU_NEUTRAL_GREETING_02:0 "너희에겐 정말로 지성이 있나?"
+ 
+ HM_ARROGANT_GREETING_01:0 "우리의 정신은 지각있는 삶 자체를 초월한다. 너흰 아무것도 아니다."
+ HM_ARROGANT_GREETING_02:0 "[From.GetSpeciesNamePlural]은(는) 식량에 불과하지. 특별한 음식은 아니지만, 그래도 음식이긴 해."
+ HM_BELLIGERENT_GREETING_01:0 "우리는 너희를 우리의 정신으로 불러들여 [From.GetSpeciesNamePlural]이(가) 하나된 생각을 할 수 있게 만들 수 있다."
+ HM_BELLIGERENT_GREETING_02:0 "곧 우리는 [From.GetSpeciesAdj] 행성에 도착에, 너희의 아이들로 축제를 벌일 것이다"
+ HM_CUSTODIAL_GREETING_01:0 "우리는 평화롭게 공존하는 공생의 삶을 보여줄 것이다."
+ HM_OVERLORD_GREETING_01:0 "우리의 공생국이 되는 건 어떤가?"
+ HM_NEUTRAL_GREETING_01:0 "너흰 친구인가? 아니면 적인가?"
+ HM_NEUTRAL_GREETING_02:0 "지금은 식사시간입니다. 나중에 다시 연락하십시오."
+ 
+ AM_ARROGANT_GREETING_01:0 "너희는 형편없이 약하군."
+ AM_ARROGANT_GREETING_02:0 "곧 정지시켜주지."
+ AM_BELLIGERENT_GREETING_01:0 "우린 너희가 듀라스틸로 만들어졌는지 확인해 볼 것이다. 우리는 듀라스틸제거든."
+ AM_BELLIGERENT_GREETING_02:0 "멸절! 섬멸!"
+ AM_CUSTODIAL_GREETING_01:0 "너희의 계산은 틀렸다. 우리가 보여주지."
+ AM_OVERLORD_GREETING_01:0 "함께라면, 우리는 우주를 발전시킬 수 있다."
+ AM_NEUTRAL_GREETING_01:0 "전력이 필요한가?"
+ AM_NEUTRAL_GREETING_02:0 "우리 모두는 지성체가 사악하다는 것을 알고 있다."
+ 
+ ##NEW
+ 
+ AE_OPPOSING_GREETING_01:0 "너희의 그릇된 사상과 가치관이 이 은하계를 오염시켜선 안된다!"
+ AE_OPPOSING_GREETING_02:0 "계속 말해봐라. 누구도 너흴 믿진 않을 것이다."
+ 
+ AE_SAME_GREETING_01:0 "우리의 가치관은 함께할 수 있다. [From.GetSpeciesNamePlural]는 동맹에 관해 어떻게 생각하는가?"
+ AE_SAME_GREETING_02:0 "우리는 함께해야 한다."
+ 
+ BAD_FE_TO_AE_GREETING_01:0 "너...너희가 우리 기술을 훔쳤나? 도대체 언제 [From.GetSpeciesNamePlural]이(가) 과학자들의 기술 절도에 대한 조치를 취할 생각이지?"
+ BAD_FE_TO_AE_GREETING_02:0 "암흑물질 동력으로 자폭하지나 않게 조심해라. [From.GetSpeciesNamePlural]의 조각난 파편같은 걸 보면 기분이 더러워질 것 같거든."
+ BAD_FE_TO_AE_GREETING_03:0 "어떻게 너희가 암흑물질 동력원을 훔쳐갔는지는 모르겠지만, 절도는 해선 안되는 행동이다." 
+ BAD_FE_TO_AE_GREETING_04:0 "그래서, 이제 너희와 우리가 동등한 것 같나? 그 가정이 틀렸다는 것을 증명해주지."
+ BAD_FE_TO_AE_GREETING_05:0 "너희가 암흑물질 동력을 터득했다고 해서, 너희와 대화하는 것이 짜증나지 않는다는 소리는 아니다."
+ BAD_FE_TO_AE_GREETING_06:0 "너희의 문화 수준은 너희의 기술 발전에 비해 아득히 뒤떨어지는군."
+ BAD_FE_TO_AE_GREETING_07:0 "아니. 너흰 아직도 시끄러운 날벌레에 불과하다. 애새끼들이 말하는 것을 배우지도 못한 것 같아."
+ 
+ GOOD_FE_TO_AE_GREETING_01:0 "문명화된 생명체화 함께하는 것은 좋은 일이다. [From.GetSpeciesName]도 동의하지 않나?"
+ GOOD_FE_TO_AE_GREETING_02:0 "너희의 기술은 우리 과학자들에게도 영감을 주고 있다."
+ GOOD_FE_TO_AE_GREETING_03:0 "잊지 마라. [From.GetName]은(는) 오늘날 매우 뛰어난 발전을 보여주고 있으나, [Root.GetName]의 도움이 그 발전에 적지 않은 부분을 차지하고 있다는 것을."
+ GOOD_FE_TO_AE_GREETING_04:0 "좋군, [From.GetSpeciesNamePlural], 좋아!"
+ 
+ NEUTRAL_FE_TO_AE_GREETING_01:0 "우리 [Root.GetSpeciesNamePlural]은(는) 종종 너희가 이 우주의 비밀에 도달한 후, 무엇을 할까 궁금해한다." 
+ NEUTRAL_FE_TO_AE_GREETING_02:0 "너희 [From.GetSpeciesNamePlural]도 종종 다른 아이들이 노는 것을 보며 즐기는가?"
+ NEUTRAL_FE_TO_AE_GREETING_03:0 "암흑물질을 다루는 너희의 기술은 인상적이군. 어쩌면 우리가 너희를 과소평가했을지도 모르겠어."
+ NEUTRAL_FE_TO_AE_GREETING_04:0 "어떻게 그렇게 빨리 발전했지? 너희의 문명은 이 은하의 존재가 아닌, 다른 차원의 존재에 의해 인도되는가?"
+ NEUTRAL_FE_TO_AE_GREETING_05:0 "[Root.GetRulerTitle] [Root.GetRulerName]도 스텔라리스 한 판 하겠나?"
+ NEUTRAL_FE_TO_AE_GREETING_06:0 "지금 너희는 문명의 정점 직전에 도달했는가? 때가 지나면 알게 되겠지."
+ NEUTRAL_FE_TO_AE_GREETING_07:0 "[Root.GetSpeciesNamePlural]는 스스로 자신들의 문명의 위상에 맞는 태도를 취해야 한다."
+ 
+ NEUTRAL_DEFAULT_TO_AE_GREETING_01:0 "당신들의 암흑물질 기술은 우리 과학자들을 매혹시키는군. 연구팀을 보내 조사해도 되겠나?"
+ NEUTRAL_DEFAULT_TO_AE_GREETING_02:0 "우리는 공동 연구팀을 구성하여 암흑물질에 대한 잠재적인 응용법을 발견해야만 한다."
+ NEUTRAL_DEFAULT_TO_AE_GREETING_03:0 "어떻게 암흑물질을 그런 식으로 사용하지?"
+ 
+ GOOD_DEFAULT_TO_AE_GREETING_01:0 "우리는 [From.GetName]를 따를 준비가 되었습니다."
+ GOOD_DEFAULT_TO_AE_GREETING_02:0 "원하는게 뭐죠?"
+ GOOD_DEFAULT_TO_AE_GREETING_03:0 "우리는 당신이 우리에게 기술을 공유해줄 날을 기다립니다."
+ GOOD_DEFAULT_TO_AE_GREETING_04:0 "당신들의 존재 그 자체를 존경합니다, [From.GetRulerTitle] [From.GetRulerName]."
+ GOOD_DEFAULT_TO_AE_GREETING_05:0 "우리 보잘것없는 제국에 무엇을 원하십니까, [From.GetSpeciesNamePlural]?"
+ GOOD_DEFAULT_TO_AE_GREETING_06:0 "당신들의 위대한 기술은 [Root.GetAdj] 대중들에겐 마법과 혼동되기도 합니다."
+ GOOD_DEFAULT_TO_AE_GREETING_07:0 "[Root.GetSpeciesAdj] 시민들은 언젠가 당신의 위대함의 끝을 알기를 원합니다."
+ 
+ BAD_AFE_TO_AE_GREETING_01:0 "우리는 도난당한 암흑물질 기술에 대한 보상을 요구한다!"
+ BAD_AFE_TO_AE_GREETING_02:0 "금지된 기술을 사용하는 것은 너희의 원시적인 본성을 감추는 가면에 지나지 않는다."
+ BAD_AFE_TO_AE_GREETING_03:0 "너희가 암흑물질을 사용하는 것이 얼마나 됬지? 5년? 10년? 수천년이 지난 우리에 비교해선 어느정도로 숙달되었다고 생각하나?"
+ BAD_AFE_TO_AE_GREETING_04:0 "한때는 원시문명이었으며, 지금도 원시적인 놈들. 우리는 기꺼이 너희 문명을 석기시대로 되돌려놓을 것이다."
+ 
+ NEUTRAL_AFE_TO_AE_GREETING_01:0 "아마, [From.GetName]에게도 주어진 역할이 있을 것이다."
+ NEUTRAL_AFE_TO_AE_GREETING_02:0 "너희가 방해하지 않는다면, 우리 역시도 그리하지."
+ NEUTRAL_AFE_TO_AE_GREETING_03:0 "이건 게임이 아니다, [From.GetSpeciesNamePlural]. 온 은하가 위태롭다."
+ NEUTRAL_AFE_TO_AE_GREETING_04:0 "우리가 함께한다면, 우리의 연합군은 강대할 것이다."
+ NEUTRAL_AFE_TO_AE_GREETING_05:0 "암흑물질 동력을 다룰 때 모든 안전 수칙을 준수하고 있는게 확실하겠지?"
+ NEUTRAL_AFE_TO_AE_GREETING_06:0 "단순히 발전된 기술만이 아니라, 오랜 세월을 거쳐 성숙해진 문명의 은혜와 힘까지 보여주겠다."
+ NEUTRAL_AFE_TO_AE_GREETING_07:0 "우리 함선들은 어째서 이렇게 닮았을까? 많은 의문이 드는군."
+ 
+ FE_TO_LOST_01:0 "우리는 너흴 통해 우리의 과거를 본다."
+ FE_TO_LOST_02:0 "어떻게 강대한 이들이 스러졌는지."
+ FE_TO_LOST_03:0 "너희는 우리의 생각과는 관계없이, 은하계가 운명을 따라 진화한다는 진리를 받아들였다."
+ FE_TO_LOST_04:0 "시간이 가며, 모든 것이 사라지도록"
+ FE_TO_LOST_05:0 "원시종들이 서로 싸우며 멸망하는 걸 구경이나 하도록 하지."
+ FE_TO_LOST_06:0 "저 원시종들은 듣지 않을 것이다. 그것이 저들이 원시종이라 불리는 이유다. 저들이 더 높은 차원으로 나아갈 수 있도록 돕는 것은 헛된 일에 불과하다."
+ FE_TO_LOST_07:0 "우리는 이미 시도했었다. 우리를 믿어라. 우린 알고 있다."
+ 
+ HIVE_EMPIRE_TO_AE_GREETING_01:0 "우리의 정신은...너희의 재탄생에 적응하기 어렵군."
+ HIVE_EMPIRE_TO_AE_GREETING_02:0 "우린 그저 먹어치울 뿐이다..."
+ HIVE_EMPIRE_TO_AE_GREETING_03:0 "지금은 식사시간입니다. 나중에 다시 연락하십시오."
+ 
+ AE_TO_LOST_01:0 "은하계에는 우리 중 하나만이 갈 수 있는 곳이 있다는 것을 알게 되어 기쁘군."
+ AE_TO_LOST_02:0 "그게 전부인가?"
+ AE_TO_LOST_03:0 "그래서?"
+ AE_TO_LOST_04:0 "꺼져라. 그리고 다시는 오지 마라."
+ 
+ LOST_TO_AE_01:0 "너흰 [Root.GetName]의 힘을 모른다."
+ LOST_TO_AE_02:0 "멍청이들. 전쟁을 할 수록, 너희 촉수가 하나씩 떨어져나갈 뿐이다."
+ LOST_TO_AE_03:0 "우리는 돌아올 것이다."
+ LOST_TO_AE_04:0 "너흰 진실을 깨닫지 못했다. 너희의 기술은 너희 자신의 본성을 가릴 수 없다."
+ 
+ 
+ 

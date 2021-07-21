@@ -1,0 +1,95 @@
+﻿l_default:
+ NAME_gpm_ego:0 "살아있는 행성"
+ NAME_gpm_ego_ship:0 "가이아 행성"
+ NAME_Rogue_Traders:0 "밀수업자들"
+ NAME_Rogue_Trader_Faction:0 "밀수업자들"
+ NAME_Rogue_Trader:0 "밀수업자"
+ NAME_Rogue_Den:0 "밀수업자 전초기지"
+ gpm_ego:0 "가이아 행성"
+ NAME_Guilli:0 "구'일-리"
+ NAME_docile_arachnid:0 "유순한 거대거미"
+ NAME_docile_arachnid_ship:0 "거대거미 드랍포드"
+ NAME_docile_arachnid_fleet:0 "유순한 거대거미"
+ NAME_wild_xenomorph:0 "유순한 거대거미"
+ NAME_wild_xenomorph_ship:0 "거대거미 드랍포드"
+ NAME_wild_xenomorph_fleet:0 "유순한 거대거미"
+ NAME_xenomorph:0 "제노모프"
+ NAME_xenomorph_ship:0 "제노모프 드랍포드"
+ NAME_xenomorph_fleet:0 "굶주린 제노모프"
+ NAME_venerable_dreadnaught:0 "고대의 거인"
+ NAME_venerable_dreadnaught_ship:0 "고대의 거인"
+ NAME_venerable_dreadnaught_fleet:0 "고대의 거인"
+ NAME_daughter_of_the_stars:0 "별들의 딸"
+ NAME_primitive_world_name_1:0 "감옥"
+ NAME_primitive_world_name_2:0 "카프리카"
+ NAME_primitive_world_name_3:0 "뉴 카프리카"
+ NAME_primitive_world_name_4:0 "타이타엔"
+ NAME_primitive_world_name_5:0 "리치"
+ NAME_primitive_world_name_6:0 "앤썸"
+ NAME_primitive_world_name_7:0 "트론"
+ NAME_Fen_Habbanis_IIIa:0 "펜 하바니스 IIIa"
+ 
+ NAME_GPM_Large_Crystal_Entity_Blue_Elite:0 "푸른 수정 괴수"
+ NAME_GPM_Large_Crystal_Entity_Green_Elite:0 "초록 수정 괴수"
+ NAME_GPM_Large_Crystal_Entity_Yellow_Elite:0 "노랑 수정 괴수"
+ NAME_GPM_Large_Crystal_Entity_Red_Elite:0 "붉은 수정 괴수"
+ 
+ 
+ # manufactorium ship
+ NAME_manufactorium_fleet:0 "공장 함선"
+ NAME_gpm_manufactorium_ship:0 "조립자"
+ NAME_manufactorium_ship_name:0 ""
+ 
+ 
+ 
+ 
+ # precursor ship
+ NAME_precursor_fleet:0 "선구자 함선"
+ NAME_gpm_precursor_ship:0 "전쟁인도자"
+ NAME_precursor_ship_name:0 ""
+ 
+ 
+ # War names 
+ gpm_war_of_time:0 "시간 이동기 확보를 위한 전쟁"
+ gpm_war_of_the_xenos:0 "제노모프 여왕 확보를 위한 전쟁"
+ gpm_war_of_the_machine:0 "기계행성 핵 확보를 위한 전쟁"
+ gpm_war_of_knowledge:0 "갤럭티카 대백과사전 확보를 위한 전쟁"
+ gpm_war_of_power:0 "영에너지 발전기 확보를 위한 전쟁"
+ gpm_war_of_the_sphere:0 "양자 구 확보를 위한 전쟁"
+ gpm_war_of_the_architect:0 "인공지능 설계사 확보를 위한 전쟁"
+ gpm_war_of_the_stc:0 "STC 확보를 위한 전쟁"
+ gpm_war_of_the_codex:0 "코덱스 어드미니스트라툼 확보를 위한 전쟁"
+ gpm_war_of_the_soul:0 "고대 소울젬 확보를 위한 전쟁"
+ gpm_war_of_the_queen:0 "센티널 여왕 확보를 위한 전쟁"
+ gpm_war_of_the_fallen:0 "몰락한 자의 군기를 확보하기 위한 전쟁"
+ 
+ gpm_war_of_the_dragon:0 "에테르 드레이크 전리품 확보를 위한 전쟁"
+ gpm_war_of_the_throne:0 "칸의 옥좌 확보를 위한 전쟁"
+ gpm_war_of_the_worm:0 "웜의 비늘 확보를 위한 전쟁"
+ gpm_war_of_the_rubricator:0 "루브리케이터 확보를 위한 전쟁"
+ gpm_war_of_the_galaxy:0 "모형 은하계 확보를 위한 전쟁"
+ gpm_war_of_the_omnicodex:0 "옴니코덱스 확보를 위한 전쟁"
+ gpm_war_of_the_surveyor:0 "측량기 확보를 위한 전쟁"
+ gpm_war_of_the_ancient_sword:0 "여사냥꾼의 칼날 확보를 위한 전쟁"
+ gpm_war_of_the_severed_head:0 "자클란의 머리를 확보하기 위한 성전"
+ gpm_war_of_the_prethoryn_queen:0 "프레쏘린 무리여왕을 확보하기 위한 전쟁"
+ gpm_war_of_the_unbidden_warlock:0 "타차원의 마법사 확보를 위한 전쟁"
+ gpm_war_of_the_contingency_core:0 "격리된 우발대응체 핵 확보를 위한 전쟁"
+ gpm_war_of_the_zro_crystal:0 "사이오닉 기록보관소 확보를 위한 전쟁"
+ gpm_war_of_the_last_baol:0 "마지막 바올 확보를 위한 전쟁"
+ gpm_war_of_the_defragmentor:0 "조각모음기 확보를 위한 전쟁"
+ gpm_war_of_the_reality_perforator:0 "볼타움 현실 천공기 확보를 위한 전쟁"
+ gpm_war_of_the_pox_sample:0 "자보리안 천연두 표본 확보를 위한 전쟁"
+ gpm_war_of_the_cryo_core:0 "유트 동면 핵 확보를 위한 전쟁"
+ gpm_war_of_the_war_forge:0 "사이브렉스 군수단조장 확보를 위한 전쟁"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

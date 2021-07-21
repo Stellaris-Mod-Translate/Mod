@@ -1,0 +1,243 @@
+﻿l_english:
+
+ # Faction Leader Governor / Corrupt Governor
+ civwar.1030.name:1 "§R총독이 독립을 선언하다!§!"
+ civwar.1030.desc:0 "총독 §Y[event_target:civil_war_leader.GetName]§!이(가) 통신을 요청했습니다."
+
+ # Faction Leader Admiral
+ civwar.1029.name:1 "§R제독이 독립을 선언하다!§!"
+ civwar.1029.desc:0 "§Y[event_target:civil_war_leader.GetName]§! 함대에서 사상자가 발생했다는 보고가 들어왔습니다. 함대의 함선들이 갑작스럽게 서로를 향해 발포한 것 같습니다. 함대의 1/3정도가 파괴된 듯 합니다! 제독 §Y[event_target:civil_war_leader.GetName]§!이(가) 통신을 요청했습니다."
+
+ # Faction Leader Scientist
+ civwar.1028.name:1 "§R과학자가 독립을 선언하다!§!"
+ civwar.1028.desc:0 "과학자 §Y[event_target:civil_war_leader.GetName]§!이(가) 통신을 요청했습니다."
+
+ # Faction Leader General
+ civwar.1027.name:1 "§R장군이 독립을 선언하다!§!"
+ civwar.1027.desc:0 "장군 §Y[event_target:civil_war_leader.GetName]§!이(가) 통신을 요청했습니다."
+
+ ON_SCREEN_REBELS:0 "뭐라고? 스크린을 띄워라!"
+
+ # Planetary rebellion
+
+ civplan.2000.name:0 "§R분리주의자들의 봉기§!"
+ civplan.2000.desc:0 "§Y[event_target:rebellion_planet.GetName]§!에서 조직된 분리주의자들이 봉기하여 행성의 점령을 시도하고 있습니다!"
+ civplan.2000.a:0 "좋지 않군."
+
+ civplan.2002.name:0 "§Y분리주의자들의 패배!§!"
+ civplan.2002.desc:0 "§Y[event_target:rebellion_planet.GetName]§!에 있는 우리 군대에 의해 분리주의자들의 봉기를 진압할 수 있었습니다."
+ civplan.2002.a:0 "다행이야."
+
+ civplan.9000.name:0 "§Y분리주의 조직!"
+ civplan.9000.desc:0 "§Y[event_target:separatist_planet.GetName]§!에서 벌어진 수개월에 걸친 혼란과 불안으로, 지역 주민들은 제국의 지배에 의문을 품기 시작했습니다. 일각에서는 분리주의 단체들이 조직되기 시작했다는 소문이 들려옵니다."
+ civplan.9000.a:0 "걱정되는군."
+
+ civplan.9001.name:0 "분리주의자들의 와해"
+ civplan.9001.desc:0 "§Y[event_target:separatists_disband_planet.GetName]§!의 조건이 개선됨에 따라 분리주의 활동이 와해되었습니다."
+ civplan.9001.a:0 "다행이야."
+
+ #### War Types ####
+
+ war_goal_wg_civwar:0 "내전"
+ war_goal_wg_civwar_desc:0 "몇몇 성계의 독립을 두고 전쟁이 벌어지고 있습니다."
+
+ war_goal_wg_civwar_rebel:0 "내전"
+ war_goal_wg_civwar_rebel_desc:0 "몇몇 성계의 독립을 두고 전쟁이 벌어지고 있습니다."
+
+ war_goal_wg_planet_rebellion:0 "반란"
+ war_goal_wg_planet_rebellion_desc:0 "행성의 독립을 두고 전쟁이 벌어지고 있습니다."
+
+ war_goal_wg_planet_rebellion_rebels:0 "반란"
+ war_goal_wg_planet_rebellion_rebels_desc:0 "행성의 독립을 두고 전쟁이 벌어지고 있습니다."
+
+ war_goal_wg_admiral_rebellion:0 "반란"
+ war_goal_wg_admiral_rebellion_desc:0 "제독의 이상을 위해 전쟁이 벌어지고 있습니다."
+
+ war_goal_wg_admiral_rebellion_admiral:0 "반란"
+ war_goal_wg_admiral_rebellion_admiral_desc:0 "제독의 이상을 위해 전쟁이 벌어지고 있습니다."
+
+ war_goal_wg_scientist_civwar:0 "내전"
+ war_goal_wg_scientist_civwar_desc:0 "몇몇 성계의 독립을 두고 전쟁이 벌어지고 있습니다."
+
+ war_goal_wg_scientist_civwar_scientist:0 "내전"
+ war_goal_wg_scientist_civwar_scientist_desc:0 "몇몇 성계의 독립을 두고 전쟁이 벌어지고 있습니다."
+
+ origin_civwar:0 "분리주의 국가"
+ origin_civwar_desc:0 "이 국가는 정치적 갈등으로 인해 지배국으로부터 독립했습니다."
+
+ origin_civ_rebellion:0 "행성 반란"
+ origin_civ_rebellion_desc:0 "이 국가는 더 큰 제국에서 독립한 행성들로부터 건국되었습니다."
+
+ origin_admiral_rebellion:0 "지도자의 반란"
+ origin_admiral_rebellion_desc:0 "이 제국은 상부에 반란을 일으킨 저명한 지도자에 의해 건국되었습니다."
+
+ wg_admiral_rebellion_accept:1 "제독이 지위한 함대 중 남아있는 함선은 다시 제국에 귀속될것이고, 그들의 국가는 멸망할것이며 우리는 반군의 영토를 모두 수복할것입니다.
+
+ # Opinion Modifiers
+ opinion_civwar:0 "우리로부터의 독립 선언"
+ opinion_civwar_peace:0 "우리로부터의 독립 선언"
+ opinion_civwar_planet:0 "우리로부터의 독립 선언"
+ opinion_civwar_planet_peace:0 "우리로부터의 독립 선언"
+ opinion_civwar_originator:0 "전 압제자"
+
+ # Army Names
+ civwar_defense_army:0 "분리주의 방위대"
+ civwar_assault_army:0 "분리주의 돌격대"
+
+ # Planetary Modifiers
+ planetary_rebels:0 "분리주의 조직"
+ planetary_rebels_desc:0 "수개월에 걸친 혼란과 불안으로, 지역 주민들은 제국의 지배에 의문을 품기 시작했습니다. 일각에서는 분리주의 단체들이 조직되기 시작했다는 소문이 들려옵니다."
+
+ # Subject Types
+ SUBJECT_devstate:0 "위임국"
+ SUBJECT_DESC_devstate:0 "위임국은 지배국으로부터 거의 독립된 국가입니다. 그들은 전쟁을 선포하고 영토를 확장할 수 있으며, 지배국의 전쟁에 참전하지 않습니다. 하지만, 그들 또한 지배국의 보호를 받지 못합니다.: §Y5%§! £energy£ §H에너지§!, £minerals£ §H광물§!, £food£ §H식량§!, £alloys£ §H합금§!, £consumer_goods£ §H소비재§!, £volatile_motes£ §H불안정 분말§!, £exotic_gases£ §H이종 가스§!, £rare_crystals£ §H희귀 수정§!, £sr_living_metal£ §H생체 금속§!, £sr_zro£ §H지로§!, £sr_dark_matter£ §H암흑물질§!, 그리고 £nanites£ §H나노봇§!"
+
+ ##################
+ # Communications #
+ ##################
+
+ #### Planetary rebellion ####
+
+ civcom.random:0 "AI 랜덤"
+
+ civcom.4000.name:0 "[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]"
+ civcom.4000.desc:0 "저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!이(가)며, 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 우리는 당신의 군대를 제압하고 이 행성을 해방했습니다. §Y[event_target:rebellion_planet.GetName]§!의 사람들은 더 이상 당신의 통치로 인해 소외당하거나 희생당하지 않을 것입니다. 우리는 모든 형태의 위협을 방어할 준비가 되어 있습니다. 저는 더 이상의 유혈사태를 막기 위해 당신네 정부가 즉시 우리의 독립을 승인할 것을 권고합니다." 
+
+ civcom.4000.a:0 "이것은 명백한 반역이다. 우리는 다시 제국을 통일할 것이다!"
+ civcom.5030.a:0 "이것은 명백한 반역이며, 곧 전쟁을 의미한다."
+ civcom.4000.b:0 "당신들이 없는 것이 더 이익일수도 있겠군."
+
+ civcom.4001.desc:0 "충분히 예상된 대답이군요. 우리는 반드시 승리할 것입니다."
+ civcom.5031.desc:0 "당신들의 저열한 지배욕을 우리의 굳건한 의지가 분쇄할 것입니다."
+ civcom.5041.desc:0 "우리는 정당한 독립을 수호하기 위해 모든 수단을 동원할 것입니다."
+ civcom.4001.a:0 "당신들은 실패할것이다."
+
+ civcom.4002.desc:0 "그렇게 생각해주니 기쁘군요. 우리도 같은 생각입니다."
+ civcom.5042.desc:0 "그렇게 생각해주니 기쁘군요. 우리도 같은 생각입니다."
+ civcom.4002.a:0 "그렇게 하시지."
+
+ civcom.4100.desc:0 "저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!이(가)며, 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 우리는 당신의 군대를 제압하고 이 행성을 해방했습니다. §Y[event_target:rebellion_planet.GetName]§!의 사람들은 더 이상 당신의 통치로 인해 소외당하거나 희생당하지 않을 것입니다.\n\n하지만, 우리의 합의를 통해 이 행성을 더욱 나은 방향으로 이끌어갈 수 있습니다. 따라서, 우리는 더 이상의 유혈사태를 막기 위해 독립 선언을 포기하겠습니다. 그 대신, 통치권의 위임을 요구합니다. 우리의 독립을 영원히 유지하는 대가로, 기꺼이 매 달마다 §Y모든 자원을 5%§!씩 지불하겠습니다."
+
+ civcom.4100.a:0 "이것은 명백한 반역이며, 곧 전쟁을 의미한다."
+ civcom.4100.b:0 "흥미롭군, 제안을 수락하라."
+ civcom.4100.b.tooltip:0 "§Y[event_target:current_civwar_rebels.GetName]§!는 우리 제국의 §Y위임국§!이(가) 됩니다. 그들은 매 달 우리에게 §Y모든 자원을 5%§!씩 바칠 것입니다. 그들은 우리의 의사외 관계없이 전쟁을 선포하고 영토를 확장할 수 있지만, 우리는 그들의 전쟁에 참전할 필요가 없습니다. §R위임국은 다시 통합할 수 없습니다.§!"
+ civcom.4100.c:0 "당신들이 없는 것이 더 이익일수도 있겠군."
+
+ civcom.4102.desc:0 "완전한 독립? 최상의 결과이긴 하지만, 예상치 못했군요. 훌륭합니다. 이것은 분명 모든 이에게 최선의 결과일겁니다."
+ civcom.5102.desc:0 "완전한 독립? 최상의 결과이긴 하지만, 전혀 예상하지 못했습니다. 훌륭합니다. 이것이야말로 모두에게 최선의 결과입니다."
+ civcom.4102.a:0 "두고보자고."
+
+ civcom.4103.desc:0 "우리의 제안을 받아들여주시니 기쁘군요. 곧 수도에 외교관을 파견하여 세부 사항을 조율하도록 하겠습니다."
+ civcom.5103.desc:0 "제 제안을 수락해주시니 기쁩니다. 세부 사항의 조율을 위해 곧 수도에 외교관을 파견하겠습니다."
+ civcom.4103.a:0 "알겠다."
+
+ #### Civil War ####
+
+ civcom.5000.desc:0 "안녕하십니까. 당신은 지금까지 저를 총독이자 [event_target:current_civwar_rebels.Leader.GetName]의 지도자인 §Y[civil_war_party.GetName]§!로 알고 계셨을겁니다. 하지만, 당신의 정부는 우리 파벌의 목표를 너무나 오랫동안 방해해 왔고, 국민들은 충분히 참아왔습니다. 저는 더 이상 총독이 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!입니다. 그리고 저는 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 저는 새로운 조국의 국민들에게 광범위한 지지를 받고 있으며, 우리 스스로를 방어할 준비가 되어 있습니다. 저는 더 이상의 유혈사태를 막기 위해 당신네 정부가 이를 수용할 것을 권고합니다."
+
+ civcom.5010.desc:0 "안녕하십니까. 당신은 지금까지 저를 과학자이자 [event_target:current_civwar_rebels.Leader.GetName]의 지도자인 §Y[civil_war_party.GetName]§!로 알고 계셨을겁니다. 하지만, 당신의 정부는 우리 파벌의 목표를 너무나 오랫동안 방해해 왔고, 국민들은 충분히 참아왔습니다. 저는 더 이상 과학자가 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!입니다. 그리고 저는 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 저는 새로운 조국의 국민들에게 광범위한 지지를 받고 있으며, 우리 스스로를 방어할 준비가 되어 있습니다. 저는 더 이상의 유혈사태를 막기 위해 당신네 정부가 이를 수용할 것을 권고합니다."
+
+ civcom.5020.desc:0 "안녕하십니까. 당신은 지금까지 저를 장군이자 [event_target:current_civwar_rebels.Leader.GetName]의 지도자인 §Y[civil_war_party.GetName]§!로 알고 계셨을겁니다. 하지만, 당신의 정부는 우리 파벌의 목표를 너무나 오랫동안 방해해 왔고, 국민들은 충분히 참아왔습니다. 저는 더 이상 장군이 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!입니다. 그리고 저는 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 저는 새로운 조국의 국민들에게 광범위한 지지를 받고 있으며, 우리 스스로를 방어할 준비가 되어 있습니다. 저는 더 이상의 유혈사태를 막기 위해 당신네 정부가 이를 수용할 것을 권고합니다."
+
+ civcom.5030.desc:0 "안녕하십니까. 지금쯤이면, 우리 함대 내에서 약간의 교전이 있었다는 소식을 들었을겁니다. 안타깝지만, 제 지휘를 따르지 않는 일부 함대에게 본보기가 필요했습니다. 아시다시피, 당신네 정부는 우리 §Y[civil_war_party.GetName]§!의 목표를 너무나 오랫동안 방해해왔고, 국민들은 충분히 참아왔습니다. 저는 더이상 제독이 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!입니다. 저는 제 함대를 이끌고 새로운 국가를 건설할 계획입니다. 만약 당신들이 우리를 막겠다면, 우리는 당신들을 부숴버릴겁니다."
+
+ civcom.5040.desc:0 "안녕하십니까. 최근 저의 지도 아래 이 섹터의 더 많은 사람들이 행복할 수 있다는 것이 분명해졌습니다. 저는 진정으로 그들이 필요로 하는 지도자입니다. 저는 더 이상 총독이 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!, §Y[event_target:current_civwar_rebels.GetName]§!의 지도자입니다. 저는 이 일의 성공에 필요한 자원을 모으기 위해 몇 년을 보냈습니다. 그리고 저는 당신들이 우리 앞을 가로막도록 내버려두지 않을 것입니다. 저는 더 이상의 유혈 사태를 막기 위해 당신네 정부가 이를 수용할 것을 권고합니다."
+
+ civcom.5100.desc:0 "안녕하십니까. 당신은 지금까지 저를 총독이자 [event_target:current_civwar_rebels.Leader.GetName]의 지도자인 §Y[civil_war_party.GetName]§!로 알고 계셨을겁니다. 하지만, 당신의 정부는 우리 파벌의 목표를 너무나 오랫동안 방해해 왔고, 국민들은 충분히 참아왔습니다. 저는 더 이상 총독이 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!입니다. 그리고 저는 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 저는 새로운 조국의 국민들에게 광범위한 지지를 받고 있으며, 우리 스스로를 방어할 준비가 되어 있습니다.\n\n하지만, 그럴 일이 없기를 바랍니다. 저는 더 이상의 유혈 사태를 막기 위해 거래를 제의합니다.\n\n우리는 §Y모든 자원의 5%§!를 매 달 지불할 용의가 있습니다! 우리의 독립을 영원히 보장하는 대가로 말입니다."
+
+ civcom.5110.desc:0 "안녕하십니까. 당신은 지금까지 저를 과학자이자 [event_target:current_civwar_rebels.Leader.GetName]의 지도자인 §Y[civil_war_party.GetName]§!로 알고 계셨을겁니다. 하지만, 당신의 정부는 우리 파벌의 목표를 너무나 오랫동안 방해해 왔고, 국민들은 충분히 참아왔습니다. 저는 더 이상 과학자가 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!입니다. 그리고 저는 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 저는 새로운 조국의 국민들에게 광범위한 지지를 받고 있으며, 우리 스스로를 방어할 준비가 되어 있습니다.\n\n하지만, 그럴 일이 없기를 바랍니다. 저는 더 이상의 유혈 사태를 막기 위해 거래를 제의합니다.\n\n우리는 §Y모든 자원의 5%§!를 매 달 지불할 용의가 있습니다! 우리의 독립을 영원히 보장하는 대가로 말입니다."
+
+ civcom.5120.desc:0 "안녕하십니까. 당신은 지금까지 저를 장군이자 [event_target:current_civwar_rebels.Leader.GetName]의 지도자인 §Y[civil_war_party.GetName]§!로 알고 계셨을겁니다. 하지만, 당신의 정부는 우리 파벌의 목표를 너무나 오랫동안 방해해 왔고, 국민들은 충분히 참아왔습니다. 저는 더 이상 장군이 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!입니다. 그리고 저는 새로 건국된 §Y[event_target:current_civwar_rebels.GetName]§!을(를) 대변합니다. 저는 새로운 조국의 국민들에게 광범위한 지지를 받고 있으며, 우리 스스로를 방어할 준비가 되어 있습니다.\n\n하지만, 그럴 일이 없기를 바랍니다. 저는 더 이상의 유혈 사태를 막기 위해 거래를 제의합니다.\n\n우리는 §Y모든 자원의 5%§!를 매 달 지불할 용의가 있습니다! 우리의 독립을 영원히 보장하는 대가로 말입니다."
+
+ civcom.5140.desc:0 "안녕하십니까. 최근 저의 지도 아래 이 섹터의 더 많은 사람들이 행복할 수 있다는 것이 분명해졌습니다. 저는 진정으로 그들이 필요로 하는 지도자입니다. 저는 더 이상 총독이 아닙니다. 이제 저는 §H[event_target:current_civwar_rebels.Leader.GetTitle] [event_target:current_civwar_rebels.Leader.GetName]§!, §Y[event_target:current_civwar_rebels.GetName]§!의 지도자입니다. 저는 이 일의 성공에 필요한 자원을 모으기 위해 몇 년을 보냈습니다.\n\n하지만, 저는 당신들이 우리 섹터의 독립을 기꺼이 받아들이지 않을 것을 이해합니다. 저는 더 이상의 유혈 사태를 막기 위해 거래를 제의합니다.\n\n§Y모든 자원의 5%§!를 매 달 지불할 용의가 있습니다! 우리의 독립을 영원히 보장하는 대가로 말입니다."
+
+ civcom.6000.disputed_heir_country_1:0 "[event_target:disputed_heir_country_1.GetName]"
+ civcom.6000.disputed_heir_country_2:0 "[event_target:disputed_heir_country_2.GetName]"
+ civcom.6000.disputed_heir_country_3:0 "[event_target:disputed_heir_country_3.GetName]"
+ civcom.6000.disputed_heir_country_4:0 "[event_target:disputed_heir_country_4.GetName]"
+ civcom.6000.disputed_heir_country_5:0 "[event_target:disputed_heir_country_5.GetName]"
+ civcom.6000.disputed_heir_country_6:0 "[event_target:disputed_heir_country_6.GetName]"
+ civcom.6000.disputed_heir_country_7:0 "[event_target:disputed_heir_country_7.GetName]"
+ civcom.6000.disputed_heir_country_8:0 "[event_target:disputed_heir_country_8.GetName]"
+ civcom.6000.disputed_heir_country_9:0 "[event_target:disputed_heir_country_9.GetName]"
+ civcom.6000.disputed_heir_country_10:0 "[event_target:disputed_heir_country_10.GetName]"
+
+ civcom.6000.war.list:0 "§Y전쟁을§! §R선포§!§Y하다§!:"
+
+ civcom.6000.name:0 "제국 장관 [event_target:coup_secretary.GetName]"
+ civcom.6000.desc:0 "§H[root.GetRulerTitle]§!이(가)시여, 제국이 위기에 처했습니다. 선황 폐하의 유산을 둘러싼 의심 할 여지없는 명백한 거짓 소문으로 인해 황가의 친척 중 한 명이 자신이 황좌의 진정한 상속자라며 반란군을 이끌고 황좌의 전복을 도모하고 있습니다. 그들은 그간 모아둔 자원을 바탕으로 제국의 일부를 점령했으며, 반란군을 이끌고 우리 제국과의 전쟁을 선포했습니다."
+
+ civcom.6000.a:0 "헛소리! 나는 §H[root.GetRulerTitle]§!, [Root.GetName]의 지도자다!"
+
+ civcom.6010.name:0 "제국 장관 [event_target:coup_secretary.GetName]"
+ civcom.6010.desc:0 "§H[root.GetRulerTitle]§!이(가)시여, 제국이 위기에 처했습니다. 선황 폐하의 유산을 둘러싼 의심 할 여지없는 명백한 거짓 소문으로 인해 제국의 귀족가 중 하나가 독립을 선포했습니다. 그들은 스스로를 §Y[event_target:disputed_heir_country_1.GetName]§!라고 부릅니다. 또한, §R세습자§! §H[root.GetRulerTitle]§!에게 정당성이 없다고 주장하고 있습니다. 우리는 정당한 우리의 영토를 되찾기 위해 그들에게 전쟁을 선포하거나, 적절한 때를 기다릴 수 있습니다."
+
+ civcom.6010.a:0 "진정한 세습자인 나에게? 그들은 내 권위에 복종하게 될 것이다!"
+ civcom.6010.b:0 "적어도 지금은, 그들을 논할 가치조차 없다."
+
+ civcom.6020.name:0 "제국 장관 [event_target:coup_secretary.GetName]"
+ civcom.6020.desc:0 "§H[root.GetRulerTitle]§!이(가)시여, 제국이 위기에 처했습니다. 선황 폐하의 유산을 둘러싼 의심 할 여지없는 명백한 거짓 소문으로 인해 황가의 친척 중 한 명이 자신이 황좌의 진정한 상속자라며 반란군을 이끌고 황좌의 전복을 도모하고 있습니다. 그들은 그간 모아둔 자원을 바탕으로 제국의 일부를 점령했으며, 반란군을 이끌고 우리 제국과의 전쟁을 선포했습니다.\n\n추가적으로, §R세습자§! §H[root.GetRulerTitle]§!에 대한 정당성이 없다고 주장하며 독립을 선언한 일부 귀족 가문이 있습니다. 우리는 아직 이 '제국'과 전쟁을 벌이고 있지는 않지만, 황좌를 차지하려는 친척이 이 귀족가에게 전쟁을 선포했습니다. 당신의 친척이 합법적으로 우리의 영역을 모두 침탈하기 전에, 귀족가에 전쟁을 선포하는 방법도 있습니다."
+
+ civcom.6030.name:0 "제국 장관 [event_target:coup_secretary.GetName]"
+ civcom.6030.desc:0 "§H[root.GetRulerTitle]§!이(가)시여, 제국이 위기에 처했습니다. 선황 폐하의 유산을 둘러싼 의심 할 여지없는 명백한 거짓 소문으로 인해 황가의 일부 친척들이 서로 자신이 황좌의 진정한 상속자라며 반란군을 이끌고 황좌의 전복을 도모하고 있습니다. 그들은 그간 모아둔 자원을 바탕으로 제국의 몇몇 성계를 점령했으며, 그들 모두 반란군을 이끌고 우리 제국과의 전쟁을 선포했습니다.\n\n추가적으로, §R세습자§! §H[root.GetRulerTitle]§!에 대한 정당성이 없다고 주장하며 독립을 선언한 일부 귀족 가문이 있습니다. 우리는 아직 이 '제국'과 전쟁을 벌이고 있지는 않지만, 황좌를 차지하려는 친척들이 이 귀족가에게 전쟁을 선포했습니다. 당신의 친척들이 합법적으로 우리의 영역을 모두 침탈하기 전에, 귀족가에 전쟁을 선포하는 방법도 있습니다."
+
+ civcom.6040.name:0 "제국 장관 [event_target:coup_secretary.GetName]"
+ civcom.6040.desc:0 "My §H[root.GetRulerTitle]§!이(가)시여, 제국이 위기에 처했습니다. 선황 폐하의 유산을 둘러싼 의심 할 여지없는 명백한 거짓 소문으로 인해 황가의 일부 친척들이 서로 자신이 황좌의 진정한 상속자라며 반란군을 이끌고 황좌의 전복을 도모하고 있습니다. 그들은 그간 모아둔 자원을 바탕으로 제국의 몇몇 성계를 점령했으며, 그들 모두 반란군을 이끌고 우리 제국과의 전쟁을 선포했습니다."
+
+ civcom.6040.a:0 "헛소리! 나는 §H[root.GetRulerTitle]§!, [Root.GetName]!의 지도자다!"
+
+ civcom.6050.name:0 "제국 장관 [event_target:coup_secretary.GetName]"
+ civcom.6050.desc:0 "My §H[root.GetRulerTitle]§!이(가)시여, 제국이 위기에 처했습니다. 선황 폐하의 유산을 둘러싼 의심 할 여지없는 명백한 거짓 소문으로 인해 제국의 귀족가 몇몇이 독립을 선포했습니다. 또한, §R세습자§! §H[root.GetRulerTitle]§!에게 정당성이 없다고 주장하고 있습니다. 우리는 정당한 우리의 영토를 되찾기 위해 그들에게 전쟁을 선포하거나, 적절한 때를 기다릴 수 있습니다."
+
+ ###################
+ ### Coup Events ###
+ ###################
+
+ origin_coup_successor:0 "분쟁 속 후계자"
+ origin_coup_successor_desc:0 "후계 분쟁 동안, 이 제국의 지도자는 황실의 많은 구성원들의 지지 아래 황위를 주장하며 봉기했습니다."
+
+ origin_coup_independent:0 "무너진 충심"
+ origin_coup_independent_desc:0 "이 제국의 황조는 한때 다른 제국의 훌륭한 귀족가 중 하나였습니다. 하지만, 후계 분쟁 이후 탄생한 새 지도자에게 아무런 정당성이 없다고 주장하며 독립을 선포하게 되었습니다."
+
+ append_dynasty_name:0 "[Ruler.GetFirstName] [event_target:disputed_heir_ruler.GetSecondName]"
+
+ war_goal_wg_coup_successor:0 "내전"
+ war_goal_wg_coup_successor_desc:0 "몇몇 성계의 영유권을 주장하는 몇명의 통치자들에 의한 전쟁입니다."
+
+ war_goal_wg_coup_successor_opponent:0 "내전"
+ war_goal_wg_coup_successor_opponent_desc:0 "몇몇 성계의 영유권을 주장하는 몇명의 통치자들에 의한 전쟁입니다."
+
+ war_goal_wg_coup_independent:0 "충성 전쟁"
+ war_goal_wg_coup_independent_desc:0 "충성심에 대해 이의를 제기하는 불충한 종속국을 제압하기 위한 전쟁입니다."
+
+ war_goal_wg_coup_independent_opponent:0 "충성 전쟁"
+ war_goal_wg_coup_independent_opponent_desc:0 "충성심을 요구하는 정당성 없는 지배국으로부터 독립하기 위한 전쟁입니다."
+
+ trait_disputed_heritage:0 "논란의 세습"
+ trait_disputed_heritage_desc:0 "이 황조의 논란 가득한 새 지도자를 둘러싼 믿을만한 소문이 있습니다."
+
+ civcoup.1009.name:0 "§Y소문의 소멸§!"
+ civcoup.1009.desc:0 "다행히도 우리의 세습을 둘러싼 논란 가득한 소문들이 우리 제국 그 어느곳에서도 반란을 일으키지 않은 것 같습니다. 마침내 소문에 대한 우려를 접어둘 수 있을 것 같습니다."
+
+ civcoup.1009.a:0 "다행이군."
+
+ civcoup.5010.name:0 "§R의심스러운 세습자§!"
+ civcoup.5010.desc:0 "§H[Root.GetHeirTitle]§! §Y[Root.GetHeirName]§!의 출신을 둘러싸고 우리 제국의 귀족들 사이에서 논란 가득한 소문들이 퍼지고 있습니다. 이러한 소문은 §H[Root.GetHeirTitle]§!이(가) 왕좌의 합법적인 세습자가 아닐 수 있음을 시사하고 있습니다. 이 소문은 §Y[Root.GetHeirName]§!이(가) 대관식을 마치고 난 뒤에 문제가 될 수 있습니다."
+
+ civcoup.5010.a:0 "헛소리!"
+
+ ##################
+ ###   Unused   ###
+ ##################
+
+ # Righteous Governor
+ civwar.1030.righteous.desc:0 "Governor §Y[event_target:civil_war_leader.GetName]§! has long been known as a person of the highest character. Unfortunately, it appears that their high moral fiber combined with disagreements over some of our policies has led them to believe that their sector would be best if governed fully under their authority. As such, they've leveraged their popular support within the sector to declare themselves the leader of an independent nation. It also appears that their popularity extends deep through their sector's military personnel. Should we not accept their independence, there will be war."
+
+  # Veteran Governor
+ civwar.1030.veteran.desc:0 "Governor §Y[event_target:civil_war_leader.GetName]§!'s long history of military service to our nation is well known. They've overseen the training of many thousands of cadets, and have been crucial to the strengthening of our armies. Unfortunately, it seems that a part of that training involved instilling a greater loyalty in the cadets towards the governor than towards the state. Leveraging their extensive network of loyal army contacts, Governor §Y[event_target:civil_war_leader.GetName]§! has taken near complete control of their sector and declared themselves the leader of a new, independent nation. Should we not accept their independence, there will be war."
+
+ # Officer Governor
+ civwar.1030.officer.desc:0 "Governor §Y[event_target:civil_war_leader.GetName]§!'s career as an admiral in our fleet is well known. They've personally overseen the training of hundreds of crews in our fleet.Unfortunately, it seems that a part of that training involved instilling a greater loyalty in the crews towards the governor than towards the state. Leveraging their extensive network of loyal fleet contacts, Governor §Y[event_target:civil_war_leader.GetName]§! has taken near complete control of their sector and declared themselves the leader of a new, independent nation. Should we not accept their independence, there will be war."
+
+ # Slaver Governor
+ civwar.1030.slaver.desc:0 "Governor §Y[event_target:civil_war_leader.GetName]§!'s efficient use of slave labor was one of the primary factors in their selection as governor. By placing their own personal slaves in key positions throughout their sector, they were able to more effecitvely maximize the output of their sector, which was greatly beneficial to our nation as a whole. Unfortunately, this made it trivial for the governor to signal their slaves to send the taxes and resources of their sector's systems directly to them, which they have just done. They have declared themselves the leader of a new independent nation. With the amount of slaves they have at their disposal, should we not accept their independence, there will be war."

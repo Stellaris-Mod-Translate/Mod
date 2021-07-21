@@ -1,0 +1,44 @@
+﻿l_english:
+  # Ruler
+  elven_accident_events.211.name:0 "§R사고§!"
+  elven_accident_events.211.desc:0 "§R[assassinated_leader.GetName]§!은(는) [assassinated_leader.GetHerHis]의 장녀의 손에 의해 살해되었습니다. [assassinated_leader.GetSheHe]의 자리를 물려받을 수 있다는 생각이었을까요? 여신과 평의회가 처벌을 결정할 것입니다."
+
+  # Governor
+  elven_accident_events.221.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.221.desc:0 "§R[assassinated_leader.GetName]§!은(는) [assassinated_leader.GetHerHis]의 저택의 피웅덩이에 누운 채로 발견되었습니다. 살해자의 동기에 대해선 밝혀진 바가 없습니다. [assassinated_leader.GetName]은 [assassinated_leader.GetHerHis]의 자녀들과 약간의 문제가 있었다고 알려져 있었습니다. 혹은 지난달에 [assassinated_leader.GetSheHe]가 서명했던 멍청한 법안때문일지도 모릅니다. 평의회는 아직도 그 법안에 대해 분노하고 있으니까요."
+
+  elven_accident_events.222.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.222.desc:0 "긴급 소식입니다! §R[assassin_leader.GetName]§!은(는) [assassinated_leader.GetName]의 암살 시도로 인해 현행범으로 체포되었습니다. 짧은 재판 후, [assassin_leader.GetName]는 [assassinated_leader.GetHerHis]의 범죄에 대한 대가로 희생되었습니다."
+
+  elven_accident_events.223.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.223.desc:0 "긴급 소식입니다! §R[assassin_leader.GetName]§!은(는) [assassinated_leader.GetName]의 암살 시도로 인해 현행범으로 체포되었습니다. 짧은 재판 후, [assassin_leader.GetName]는 [assassinated_leader.GetHerHis]의 범죄에 대한 대가로 희생되었습니다. 불운하게도 [assassinated_leader.GetName]는 사건 발생 몇시간 후 상처가 덧나 명을 달리했습니다."
+
+  # Scientist
+
+  elven_accident_events.231.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.231.desc:0 "§R[assassinated_leader.GetName]§!은(는) 권력을 유지하기엔 너무 멍청했습니다. 어리석은 자만이 자신의 발견을 알리는 법이죠! [assassinated_leader.GetHerHim]가 이 사건에서 교훈을 얻었길 바랍니다."
+
+  # Generic
+
+  elven_accident_events.241.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.241.desc:0 "[assassinated_leader.GetHerHim]에게 불운하게도, §R[assassinated_leader.GetName]§!은(는) 격노한 여사제를 우연히 만났습니다. 그러나 [assassinated_leader.GetSheHe]는 헛되이 죽지 않았습니다. [assassinated_leader.GetHerHis]의 죽음으로 여사제는 진정했으며, 추가적인 사망자는 발생하지 않았습니다."
+
+  elven_accident_events.242.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.242.desc:0 "§R[assassinated_leader.GetName]§!은(는) 좁은 길을 걸어가던 도중, 순간적으로 자신의 가슴에 튀어나온 칼날을 발견했습니다. 우리 모두에게 교훈이 되는 죽음이었습니다. 방심은 금물!"
+
+  elven_accident_events.243.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.243.desc:0 "§R[assassinated_leader.GetName]§!은(는) 여사제의 변덕에 의해 산채로 거미에게 잡아먹혔습니다! 긍정적인 면을 보자면, 여신께서 총애하시는 절지동물이 한동안 배가 부르겠군요."
+
+  elven_accident_events.244.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.244.desc:0 "§R[assassinated_leader.GetName]§!은(는) 갑작스레 사라졌습니다! [assassinated_leader.GetHerHis]의 신체에 대한 흔적이나, 원한에 대한 어떠한 증거도 발견되지 않았습니다. [assassinated_leader.GetSheHe]는 죽었거나, 겁쟁이처럼 도망쳤겠죠. 이에 대한 추가적인 조사는 불필요합니다."
+
+  elven_accident_events.245.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.245.desc:0 "§R[assassinated_leader.GetName]§!은(는) 갑작스레 사라졌습니다! [assassinated_leader.GetHerHis]의 신체에 대한 흔적은 발견되지 않았습니다. 소문에 따르면 [assassinated_leader.GetName]는 산성 호수에 빠졌다고 합니다. 하지만 주변 어디에도 산성 호수는 없는데...?"
+
+  elven_accident_events.246.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.246.desc:0 "여신께서 값진 희생을 요구했으며, [Root.GetRulerTitle]는 여신을 위해서라면 무엇이든 할 것입니다. §R[assassinated_leader.GetName]§!보다 '값진 희생'에 더 적합한 이가 어디있겠습니까? 게다가, 이제 [assassinated_leader.GetSheHe] 는 좀 더... 충직하고 쓸모있는 이로 대체될 필요도 있습니다. 여신 만세!"
+
+  # Admiral
+
+  elven_accident_events.251.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.251.desc:0 "전하, §R[assassinated_leader.GetName]§!가 계획된 훈련 중에 비극적으로 사망했다는 소식을 급히 전합니다. [assassinated_leader.GetHerHisCap]의 목은 충돌로 인해 부러졌습니다. 다행히도, 함선은 완벽히 멀쩡하며 손상되지 않았습니다."

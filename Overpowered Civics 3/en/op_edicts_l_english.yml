@@ -1,0 +1,22 @@
+﻿l_english:
+ ####################################
+ # Edicts ####################################
+
+
+
+ edict_regeneration:0 "재생"
+ edict_regeneration_desc:0 "§L피부는 치유되고, 뼈는 접합됩니다. 함선이 피부나 뼈와 달라야 할 이유가 있나요?§!"
+ edict_geneboost:0 "유전자 증폭"
+ edict_geneboost_desc:0 "§L우리의 시민들은 건강함의 상징이 될 것입니다.§!"
+ edict_neuron_density:0 "신경세포 밀집"
+ edict_neuron_density_desc:0 "§L근육에만 집중할 이유는 없습니다. 뇌는 신체 기관이며, 당연히 뇌 또한 개선될 수 있습니다.§!"
+ edict_bonecraft:0 "뼈제작"
+ edict_bonecraft_desc:0 "§L돌이나 강철보다 밀도가 높으며, 제작 시간은 절반에 불과합니다.§!"
+ edict_regeneration2:0 "재생"
+ edict_regeneration2_desc:0 "§L피부는 치유되고, 뼈는 접합됩니다. 함선이 피부나 뼈와 달라야 할 이유가 있나요?§!"
+ edict_geneboost2:0 "유전자 증폭"
+ edict_geneboost2_desc:0 "§L우리의 시민들은 건강함의 상징이 될 것입니다.§!"
+ edict_neuron_density2:0 "신경세포 밀집"
+ edict_neuron_density2_desc:0 "§L근육에만 집중할 이유는 없습니다. 뇌는 신체 기관이며, 당연히 뇌 또한 개선될 수 있습니다.§!"
+ edict_bonecraft2:0 "뼈제작"
+ edict_bonecraft2_desc:0 "§L돌이나 강철보다 밀도가 높으며, 제작 시간은 절반에 불과합니다.§!"

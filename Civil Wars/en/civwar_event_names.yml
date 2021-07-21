@@ -1,0 +1,7 @@
+﻿l_default:
+ NAME_civwar_War: "[This.MainAttacker.GetAdj] 내전"
+ NAME_civ_rebellion_War: "[This.MainDefender.Capital.GetName] 행성 반란"
+ NAME_admr_rebellion_War: "[This.MainDefender.Leader.GetName]의 반란"
+ NAME_diadochi_war:0 "[This.MainAttacker.Leader.GetSecondName]의 계승 전쟁"
+ NAME_fealty_war:0 "[This.MainDefender.Leader.GetSecondName]의 충성 전쟁"
+ format.admiral_rebellion.1: "[This.MainDefender.Leader.GetName]의 <admiral_rebellion_names>"

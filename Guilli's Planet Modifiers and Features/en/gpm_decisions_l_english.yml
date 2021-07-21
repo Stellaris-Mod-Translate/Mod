@@ -1,0 +1,184 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # Unused
+ # Colony Decisions
+ # Uninhabitable Decisions
+ # Habitat Decisions
+ # Ringworld Decisions
+ # Machine World Decisions
+ # Hive Decisions
+ # Relic Decisions
+ #######################################
+ 
+ 
+ 
+ #######################################
+ #### Unused
+ #######################################
+ # gpm_decision_limit:0 "\nDecisions Limit: §YDeposit§!\n§LOnly one deposit descison can be added per planet§!"
+ # gpm_decision_need_colony:0 "£trigger_no£ Requires A §YColony§! In This System."
+ # gpm_decision_space_resources_colony:244 "Analyse System Resources"
+ # gpm_decision_space_resources_colony_desc:244 "The colony will analyse all unique features found on the planets in this system and create optimal strategies to exploit the resources found. (TO DO)"
+ # gpm_decision_precursor_shield_on:0 "Power Up Precursor Shield"
+ # gpm_decision_precursor_shield_on_desc:0 "Powers up the precursor planetary shield."
+ # gpm_decision_precursor_shield_off:0 "Power Down Precursor Shield"
+ # gpm_decision_precursor_shield_off_desc:0 "Powers down the precursor planetary shield."
+ # gpm_decision_thunderstorms_research:0 "Find Thunderstorm Research Deposit"
+ # gpm_decision_thunderstorms_research_desc:0 "The colony in this system will mark a suitable location on this planet in order to optimally study the planetary thunderstorms. (TO DO)"
+ # gpm_decision_thunderstorms_energy:0 "Find Thunderstorm Energy Deposit"
+ # gpm_decision_thunderstorms_energy_desc:0 "The colony in this system will find an optimal location on this planet for the extraction of energy from the planetary thunderstorms. (TO DO)"
+ # gpm_decision_Asteroid_Showers_Minerals:0 "Asteroid Retreival Drones"
+ # gpm_decision_Asteroid_Showers_Minerals_desc:0 "The colony in this system will designate an optimal and safe location where can build a drone asteroid retrieval station."
+ # gpm_decisions.3.name:244 "§YIncomming Message§!: Potential Resources Found"
+ # gpm_decisions.3.desc:244 "After analyzing the survey reports on the planets in this system we have found several locations worthy of investigation. We should check out all the uninhabitale planets in this system and decide if we want to invest resources to exploit them. It is possible we may need to research some new methods before we can gain access to these resources."
+ # gpm_decisions.2.OK:244 "Message Received"
+ 
+ #######################################
+ #### Colony Decisions
+ #######################################
+ gpm_decision_dig_for_precursor_artifacts:0 "§Y선구자 유물§! 탐색"
+ gpm_decision_dig_for_precursor_artifacts_desc:0 "이 행성에서 선구자 유물 탐색을 위한 과학 탐사를 명령합니다."
+ gpm_recent_archeological_expedition:0 "철저한 탐사"
+ gpm_recent_archeological_expedition_desc:0 "철저한 탐사로 이 행성에서 발견할 수 있는 모든 것들을 발견했습니다. 이곳에서 더 많은 유물을 탐색하는 것은 자원 낭비가 될 것입니다."
+ gpm_recent_archeological_expeditionTT:0 "§Y이 행성에서는 더이상 유물이 발견되지 않습니다.§!"
+ 
+ decision_gpm_hunt_roaming_killbots:0 "살인로봇 박멸"
+ decision_gpm_hunt_roaming_killbots_desc:0 "이곳을 돌아다니는 살인로봇을 박멸하는데 도움을 요청하십시오."
+ gpm_decisions.1.name:0 "박멸된 살인로봇"
+ gpm_decisions.1.desc:0 "우리 정예 군인들이 §H[FROMFROM.GetName]§!의 배회하는 살인로봇을 성공적으로 박멸했습니다. 이 행성은 마침내 안전해졌습니다."
+ gpm_decisions.option:0 "우리의 승리로군!"
+ 
+ decision_gpm_restore_oppertunity:0 "잃어버린 친구 복원"
+ decision_gpm_restore_oppertunity_desc:0 "이봐 친구, 새 배터리를 장착할 시간이야. 우린 마침내 재결합했어..."
+ 
+ decision_gpm_seasonal_flooding:0 "홍수 방지 시스템 구축"
+ decision_gpm_seasonal_flooding_desc:0 "이 식민지에서 빈번하게 일어나는 계절적 홍수를 방지할 해결책을 찾을 것입니다. 이 작업은 몇 개월이 소요됩니다."
+
+ decision_gpm_locust_plagues:0 "해충 박멸"
+ decision_gpm_locust_plagues_desc:0 "이 행성의 발전을 저해하는 메뚜기 떼를 박멸할 방법을 찾을 것입니다."
+ 
+ decision_gpm_acidic_seas:0 "해양 중성화"
+ decision_gpm_acidic_seas_desc:0 "이 식민지의 산성 바다를 중화시킬 방법을 찾을 것입니다."
+ 
+ decision_gpm_carnivorous_flies:0 "육식성 파리 박멸"
+ decision_gpm_carnivorous_flies_desc:0 "이 식민지에 들끓는 육식성 파리를 박멸할 방법을 찾을 것입니다."
+ 
+ decision_gpm_lingering_pollution:0 "오염 제거"
+ decision_gpm_lingering_pollution_desc:0 "이 식민지에 만연한 대기 오염을 정화할 방법을 찾을 것입니다."
+
+ decision_gpm_resilent_parasites:0 "기생충과의 전쟁"
+ decision_gpm_resilent_parasites_desc:0 "이 식민지 거주민들을 감염시킨 토착 기생충을 치료하고 박멸할 방법을 찾을 것입니다."
+ 
+ decision_gpm_hostile_flora:0 "침습종 도입"
+ decision_gpm_hostile_flora_desc:0 "토착 생태계에 위협이 될 몇몇 외래 식물을 행성에 심어 토착 식물을 고사시키고 더 우호적인 식물계를 조성할 수 있을겁니다."
+ 
+ decision_gpm_Unstable_Tectonics:0 "지층 안정화"
+ decision_gpm_Unstable_Tectonics_desc:0 "이 행성의 단층선 깊숙이 구명을 뚫어서 만든 인공 분출구들은 주기적으로 융해된 암석과 가스가 분출되도록 하여 압력을 낮춥니다." 
+ 
+ decision_gpm_unusual_seasons:0 "구름 파종"
+ decision_gpm_unusual_seasons_desc:0 "주요 지점에 조심스럽게 인공 구름을 파종하여 행성의 대기 흐름을 안정시킵니다."
+ 
+ #######################################
+ #### Uninhabitable Decisions
+ #######################################
+ 
+ #######################################
+ #### Habitat Decisions
+ #######################################
+ decision_gpm_habitat_stadium:0 "경기장 건설"
+ decision_gpm_habitat_stadium_desc:0 "거주지의 중심에 거대한 경기장을 건설합니다."
+ decision_gpm_habitat_trade_docks:0 "무역항 확장"
+ decision_gpm_habitat_trade_docks_desc:0 "더 많은 무역선이 정박할 수 있도록 이 거주지의 무역항을 확장합니다."
+ decision_gpm_habitat_holo_entertainment:0 "홀로그램 오락시설 건설"
+ decision_gpm_habitat_holo_entertainment_desc:0 "이 거주지의 모든 층과 구역에 홀로그램 오락시설을 설치합니다."
+ decision_gpm_habitat_replicators:0 "물질 복제기 설치"
+ decision_gpm_habitat_replicators_desc:0 "이 거주지의 모든 홀, 바 및 레스토랑에 재료 및 식품 복제기를 설치합니다."
+ decision_gpm_habitat_hub:0 "교역 허브 지정"
+ decision_gpm_habitat_hub_desc:0 ""_desc:0 "이 거주지를 1차 교역 중심지로 지정하여 무역을 훨씬 더 효율적으로 조직화할 수 있도록 합니다."
+ decision_gpm_habitat_moon_mining:0 "위성 채굴 인프라 구축"
+ decision_gpm_habitat_moon_mining_desc:0 "이 거주지에 화물 부두와 광물 정제소를 건설합니다."
+ decision_gpm_habitat_belt_mining:0 "소행성 채굴 인프라 구축"
+ decision_gpm_habitat_belt_mining_desc:0 "이 거주지에 소행성 포획 그물과 광물 정제소를 건설합니다."
+ decision_gpm_habitat_thunderstorm_research:0 "연구 인프라 구축"
+ decision_gpm_habitat_thunderstorm_research_desc:0 "이 거주지에 고급 연구 시설을 건설합니다."
+ decision_gpm_habitat_radioactive_mining:0 "합금 채굴 인프라 구축"
+ decision_gpm_habitat_radioactive_mining_desc:0 "이 거주지에 화물 부두와 고급 합금 정제소를 건설합니다."
+ decision_gpm_habitat_asteroid_catchers:0 "소행성 포획기 건설"
+ decision_gpm_habitat_asteroid_catchers_desc:0 "이 거주지에 근처의 소행성의 속도를 늦추고 광물 처리 구역으로 유도하는 드론 베이를 건설합니다."
+ decision_gpm_habitat_particle_collectors:0 "입자 수집기 건설"
+ decision_gpm_habitat_particle_collectors_desc:0 "이 거주지에 행성의 대기 상부까지 닿는 입자 수집기를 건설합니다."
+ decision_gpm_habitat_expedition_section:0 "탐사용 부두 건설"
+ decision_gpm_habitat_expedition_section_desc:0 "이 거주지에 새롭고 개선된 격리실을 포함한 외계 탐험을 수행하는 데 필요한 모든 장비를 수용할 수 있는 특별히 설계된 부두를 건설합니다."
+ decision_gpm_habitat_food_recyclers:0 "폐기물 재활용 시설 건설"
+ decision_gpm_habitat_food_recyclers_desc:0 "이 거주지에 배설물을 끈적끈적한 음식으로 재처리하는 교효율의 폐기물 재활용 시설을 건설합니다."
+ decision_gpm_habitat_chronoton_sensors:0 "크로노톤 센서 건설"
+ decision_gpm_habitat_chronoton_sensors_desc:0 "이 성계 전반에서 시공간의 가장 작은 변화까지도 감지할 수 있는 일련의 초민감 센서를 건설합니다."
+ decision_gpm_habitat_mining_bays:0 "채굴장 건설"
+ decision_gpm_habitat_mining_bays_desc:0 "이 거주지에 함선이 가공을 위해 채굴된 암석을 쉽게 하역할 수 있도록 하는 저렴한 채굴장으로 거주지를 확장합니다."
+ decision_gpm_habitat_archaeology_section:0 "고고학 허브 건설"
+ decision_gpm_habitat_archaeology_section_desc:0 "이 거주지의 한 구획을 고고학 허브로 변환합니다."
+ decision_gpm_habitat_pleasure_palace:0 "오락지구 건설"
+ decision_gpm_habitat_pleasure_palace_desc:0 "뜨거운 쾌락 지구를 건설합니다."
+ decision_gpm_habitat_spice_markets:0 "향신료 시장 승인"
+ decision_gpm_habitat_spice_markets_desc:0 "매우 중독성이 강한 향신료의 거래를 승인합니다."
+ decision_gpm_habitat_gambling_licence:0 "도박관리청 건설"
+ decision_gpm_habitat_gambling_licence_desc:0 "도박관리청을 신설합니다. 이왕 도박을 할거면 세금을 부과하는게 낫겠죠!"
+ decision_gpm_habitat_egg_containment_facility:0 "외계 종자 격리시설 건설"
+ decision_gpm_habitat_egg_containment_facility_desc:0 "지난번과 같은 일을 방지하기 위해 외계 종자 격리시설을 건설합니다."
+ decision_gpm_habitat_hydrogen_extraction:0 "수소 추출기 건설"
+ decision_gpm_habitat_hydrogen_extraction_desc:0 "향상된 수소 분리 시설을 건설합니다."
+ decision_gpm_habitat_nitrogen_extraction:0 "질소 추출기 건설"
+ decision_gpm_habitat_nitrogen_extraction_desc:0 "향상된 질소 분리 시설을 건설합니다."
+ decision_gpm_habitat_chlorine_extraction:0 "염소 추출기 건설"
+ decision_gpm_habitat_chlorine_extraction_desc:0 "향상된 염소 분리 시설을 건설합니다."
+ decision_gpm_habitat_phospherus_extraction:0 "인 추출기 건설"
+ decision_gpm_habitat_phospherus_extraction_desc:0 "향상된 인 분리 시설을 건설합니다."
+ decision_gpm_habitat_sulfur_extraction:0 "황 추출기 건설"
+ decision_gpm_habitat_sulfur_extraction_desc:0 "향상된 황 분리 시설을 건설합니다."
+ decision_gpm_habitat_iron_extraction:0 "순철 추출기 건설"
+ decision_gpm_habitat_iron_extraction_desc:0 "고온 용광로를 건설하여 아래 행성의 순철을 추출합니다."
+ 
+ #######################################
+ #### Ringworld Decisions
+ #######################################
+ decision_gpm_ringworld_parabolic_forcefield:0 "사이오닉 역장 생성"
+ decision_gpm_ringworld_parabolic_forcefield_desc:0 "링 부분의 대기를 유지하기 위해 단일의 강력한 사이오닉 보호막을 설치합니다. 이 보호막은 강력하면서도 에너지가 적게 들며, 링 섹션 바깥의 시야를 확장하여 정말로 숨막히는 광경을 제공해 줍니다."
+ decision_gpm_ringworld_neural_nexus:0 "신경 연결체 설치"
+ decision_gpm_ringworld_neural_nexus_desc:0 "링 섹션 전체에 걸쳐 방대한 머신 러닝 모듈을 설치하여 링월드 스스로 문제를 해결하고 더 효율적으로 가동할 수 있도록 합니다."
+ decision_gpm_ringworld_idyllic_gardens:0 "정원 구역 구축"
+ decision_gpm_ringworld_idyllic_gardens_desc:0 "이 링월드 구역에 믿을 수 없이 아름다운 정원을 건설합니다."
+ decision_gpm_ringworld_xeno_zoo:0 "외계동물 보호구역 구축"
+ decision_gpm_ringworld_xeno_zoo_desc:0 "이 링 구역의 넓은 지역을 외계동물 보호구역으로 지정합니다."
+ decision_gpm_ringworld_badlands:0 "무법구역 구축"
+ decision_gpm_ringworld_badlands_desc:0 "이 링월드 구역을 무법구역으로 지정하여 사람들이 어떻게 다스릴지 스스로 결정하게 합니다."
+ decision_gpm_ringworld_simulators:0 "시뮬레이션 교육구역 구축"
+ decision_gpm_ringworld_simulators_desc:0 "이 링월드 구역에 대규모 교육시설을 설치하여 불가피한 상황이 발생했을 때 사람들이 준비된 상태가 될 수 있도록 합니다."
+ decision_gpm_ringworld_endless_oceans:0 "해양구역 구축"
+ decision_gpm_ringworld_endless_oceans_desc:0 "이 링월드 구역을 테라포밍하여 넓고 끝없는 바다를 유지할 수 있게 합니다."
+ decision_gpm_ringworld_mass_transit:0 "대량 수송 시스템 구축"
+ decision_gpm_ringworld_mass_transit_desc:0 "시민들의 요구를 충족시키는 데 크게 도움이 되는 링월드 섹션 규모의 대량 수송 시스템을 구축합니다."
+ 
+ #######################################
+ #### Machine World Decisions
+ #######################################
+ 
+ #######################################
+ #### Hive Decisions
+ #######################################
+ 
+ #######################################
+ #### Relic Decisions
+ #######################################
+ decision_gpm_Floating_Island_Housing:0 "부유섬 건설"
+ decision_gpm_Floating_Island_Housing_desc:0 "이 행성에 거대 인공 부유섬을 건설합니다."
+ decision_gpm_Floating_Island_Housing_effects:0 "최대 지구: §G+1§!\n주거: §G+10§!"
+ 
+ decision_gpm_machine_world_core_relic:0 "행성 동화"
+ decision_gpm_machine_world_core_relic_desc:0 "§Y충전된 기계 행성 핵§! 유물을 사용하여 이 행성을 기계 행성으로 변화시킵니다.\n"
+ decision_gpm_machine_world_core_relic_tt:0 "§G부팅 대기중..\n준비 완료...§!"
+ 
+ decision_gpm_shield_generator_arrays:0 "보호막 배열망 건설"
+ decision_gpm_shield_generator_arrays_desc:0 "가장 강력한 에너지 무기를 막을 수 있는 보호막 배열망을 이 행성에 건설합니다."
+ # decision_gpm_shield_generator_arrays_tt:0 "§YEncase§! this world in a near-impenetrable shield.\nAdd §YAdvanced Shield Arrays§! to §G[root.GetName]§!"
+ decision_gpm_shield_generator_arrays_tt:0 "이 행성은 거의 관통이 불가능한 보호막으로 §Y둘러싸여§! 있습니다."

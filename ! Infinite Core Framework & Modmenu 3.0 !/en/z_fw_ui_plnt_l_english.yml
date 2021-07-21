@@ -1,0 +1,29 @@
+﻿l_english:
+
+
+###_[面板按钮]
+ z_fw_btn_plnt_ui_tb_job_check:0 "현재 행성에 대해 작업 확인을 수행합니다. 그리고 실업자들의 계층을 격하시키기 위해 £energy£§Y$에너지 크레딧$§!을 씁니다."
+ z_fw_tips_pf2_needed:0 "POP/Manpower Migration \n§BBetter Performance§! 필요"
+ 
+ z_fw_btn_plnt_ui_tb_setting:0 "행성 상세 설정 열기\n이제 §BBetter Performance/Production Revolution 2§!를 지원합니다."
+ z_fw_tips_empty:0 ""
+ z_fw_plnt_ui_setting.name:0 "행성 상세 설정"
+ z_fw_plnt_ui_setting.desc:0 "§BBetter Performance/ Production Revolution 2§!에서 행성에 대한 모든 독립적인 세부 정보를 확인할 수 있습니다."
+ 
+ z_fw_plnt_ui_setting.check.name:0 "행성 상세 통계"
+ z_fw_plnt_ui_setting.check.desc:0 "C§BBetter Performance/ Production Revolution 2§!의 행성 통계를 자세히 확인해 보십시오!"
+ 
+#_决策
+ z_fw_dec_plnt_setting:0 "행성 상세 설정 열기"
+ z_fw_dec_plnt_setting_desc:0 "제 §BBetter Performance/Production Revolution 2§!를 지원합니다."
+
+
+
+
+###_[伞の优化]  ############
+ z_pf2_var_cntr_pop_cap_final:0 "행성 POP 수용량---[root.owner.z_pf2_var_cntr_pop_cap_final]"
+ z_pf2_var_cntr_pop_increase_bonus:0 "POP 성장 효과 §Y(1은 보통)§!---[root.owner.z_pf2_var_cntr_pop_increase_bonus]"
+ z_pf2_var_plnt_pop_growth:0 "행성 POP 성장 멀티---[root.z_pf2_var_plnt_pop_growth]"
+ z_pf2_var_plnt_pop_clone:0 "행성 POP 클론 베이스 추가---[root.z_pf2_var_plnt_pop_clone]"
+ z_pf2_var_plnt_pop_assembly:0 "행성 POP 조립 베이스 추가---[root.z_pf2_var_plnt_pop_assembly]"
+ 

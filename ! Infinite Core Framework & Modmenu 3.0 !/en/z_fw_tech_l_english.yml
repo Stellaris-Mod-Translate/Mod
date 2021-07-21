@@ -1,0 +1,209 @@
+﻿l_english:
+#_[misc]
+#_[开局科技]
+#_[通用高级舰船配件]
+
+
+
+
+###_[misc]  ################################################################################
+#_[飞升]
+ tech_ascensions_perks:0 "특별한 경험"
+ tech_ascensions_perks_desc:0 "각 레벨은 AP 슬롯을 추가합니다."
+
+
+
+
+###_[开局科技]  ################################################################################
+ z_fw_tech_core_start_boost:0 "시작 기술"
+ z_fw_tech_core_start_boost:0 "§Y자동 탐색 프로토콜§! 및 §Y자동 연구 프로토콜§!을 사용할 수 있습니다."
+
+
+###_[通用高级舰船配件]  ################################################################################
+#_basic
+ z_fw_tech_weap_universial:0 "§Y이 특별한 것들을 찾다 보면, 이 길은 결코 끝나지 않을 것입니다. 우리는 계속해서 우리의 한계에 도달하고, 장애물을 극복하고, 우리의 군대를 강화시킬 것입니다!§!"
+#_e_laser
+ z_fw_tech_weap_energy_laser_6:0 "§G무한한§! 방향성 에너지 무기 §BLV6§!"
+ z_fw_tech_weap_energy_laser_6_desc:0 "$z_fw_tech_weap_universial$\n방향성 에너지 광선 무기는 여전히 보호막에 무력하지만 뛰어난 장갑 파괴 효과를 가지고 있습니다."
+ z_fw_tech_weap_energy_laser_7:0 "§G무한한§! 방향성 에너지 무기 §BLV7§!"
+ z_fw_tech_weap_energy_laser_7_desc:0 "$z_fw_tech_weap_energy_laser_6_desc$"
+ z_fw_tech_weap_energy_laser_8:0 "§G무한한§! 방향성 에너지 무기 §BLV8§!"
+ z_fw_tech_weap_energy_laser_8_desc:0 "$z_fw_tech_weap_energy_laser_6_desc$"
+ z_fw_tech_weap_energy_laser_9:0 "§G무한한§! 방향성 에너지 무기 §BLV9§!"
+ z_fw_tech_weap_energy_laser_9_desc:0 "$z_fw_tech_weap_energy_laser_6_desc$"
+#_e_disrutor
+ z_fw_tech_weap_energy_disr_6:0 "§G무한한§! 해체 광선 §BLV6§!"
+ z_fw_tech_weap_energy_disr_6_desc:0 "$z_fw_tech_weap_universial$\n최첨단 물리 연구 결과를 적용한 새로운 해체 광선은 공간을 붕괴시키고 원인과 결과를 왜곡시킬 수 있습니다."
+ z_fw_tech_weap_energy_disr_7:0 "§G무한한§! 해체 광선 §BLV7§!"
+ z_fw_tech_weap_energy_disr_7_desc:0 "$z_fw_tech_weap_energy_disr_6_desc$"
+ z_fw_tech_weap_energy_disr_8:0 "§G무한한§! 해체 광선 §BLV8§!"
+ z_fw_tech_weap_energy_disr_8_desc:0 "$z_fw_tech_weap_energy_disr_6_desc$"
+ z_fw_tech_weap_energy_disr_9:0 "§G무한한§! 해체 광선 §BLV9§!"
+ z_fw_tech_weap_energy_disr_9_desc:0 "$z_fw_tech_weap_energy_disr_6_desc$"
+#_e_plasm
+ z_fw_tech_weap_energy_plasm_6:0 "§G무한한§! 플라즈마 자주포 §BLV6§!"
+ z_fw_tech_weap_energy_plasm_6_desc:0 "$z_fw_tech_weap_universial$\n어떤 시대든, 고에너지 입자들로 이루어진 밀집된 군집은 당신의 상대에게 공포가 무엇인지 알려줄 수 있습니다."
+ z_fw_tech_weap_energy_plasm_7:0 "§G무한한§! 플라즈마 자주포 §BLV7§!"
+ z_fw_tech_weap_energy_plasm_7_desc:0 "$z_fw_tech_weap_energy_plasm_6_desc$"
+ z_fw_tech_weap_energy_plasm_8:0 "§G무한한§! 플라즈마 자주포 §BLV8§!"
+ z_fw_tech_weap_energy_plasm_8_desc:0 "$z_fw_tech_weap_energy_plasm_6_desc$"
+ z_fw_tech_weap_energy_plasm_9:0 "§G무한한§! 플라즈마 자주포 §BLV9§!"
+ z_fw_tech_weap_energy_plasm_9_desc:0 "$z_fw_tech_weap_energy_plasm_6_desc$"
+#_e_torpedo
+ z_fw_tech_weap_energy_torpedo_6:0 "§G무한한§! 양자 어뢰 §BLV6§!"
+ z_fw_tech_weap_energy_torpedo_6_desc:0 "$z_fw_tech_weap_universial$\n이 번쩍이는 새로운 에너지 어뢰는 목표물이 완전히 파괴 될 때까지 정확하게 추적 할 수 있습니다."
+ z_fw_tech_weap_energy_torpedo_7:0 "§G무한한§! 양자 어뢰 §BLV7§!"
+ z_fw_tech_weap_energy_torpedo_7_desc:0 "$z_fw_tech_weap_energy_torpedo_6_desc$"
+ z_fw_tech_weap_energy_torpedo_8:0 "§G무한한§! 양자 어뢰 §BLV8§!"
+ z_fw_tech_weap_energy_torpedo_8_desc:0 "$z_fw_tech_weap_energy_torpedo_6_desc$"
+ z_fw_tech_weap_energy_torpedo_9:0 "§G무한한§! 양자 어뢰 §BLV9§!"
+ z_fw_tech_weap_energy_torpedo_9_desc:0 "$z_fw_tech_weap_energy_torpedo_6_desc$"
+#_e_pd
+ z_fw_tech_weap_energy_pd_6:0 "§G무한한§! 폭풍 거점 방어 체계 §BLV6§!"
+ z_fw_tech_weap_energy_pd_6_desc:0 "$z_fw_tech_weap_universial$\n새로운 위치지정망과 지능적인 알고리즘은 이런 종류의 무기를 매우 정확하게 만듭니다. 심지어 몇 분 떨어진 곳에서도 그들은 적의 함재기와 미사일의 위치를 정확하게 예측하고 폭풍처럼 광선을 투사할 수 있습니다."
+ z_fw_tech_weap_energy_pd_7:0 "§G무한한§! 폭풍 거점 방어 체계 §BLV7§!"
+ z_fw_tech_weap_energy_pd_7_desc:0 "$z_fw_tech_weap_energy_pd_6_desc$"
+ z_fw_tech_weap_energy_pd_8:0 "§G무한한§! 폭풍 거점 방어 체계 §BLV8§!"
+ z_fw_tech_weap_energy_pd_8_desc:0 "$z_fw_tech_weap_energy_pd_6_desc$"
+ z_fw_tech_weap_energy_pd_9:0 "§G무한한§! 폭풍 거점 방어 체계 §BLV9§!"
+ z_fw_tech_weap_energy_pd_9_desc:0 "$z_fw_tech_weap_energy_pd_6_desc$"
+ 
+#_k_gauss
+ z_fw_tech_weap_kinetic_gauss_6:0 "§G무한한§! 매스 드라이버 §BLV6§!"
+ z_fw_tech_weap_kinetic_gauss_6_desc:0 "$z_fw_tech_weap_universial$\n최신 기술과 재료로 인해 운동에너지 포탄이 단단한 장갑을 효과적으로 손상시키지 못하더라도 적의 보호막에 즉시 과부하를 가할 수 있습니다."
+ z_fw_tech_weap_kinetic_gauss_7:0 "§G무한한§! 매스 드라이버 §BLV7§!"
+ z_fw_tech_weap_kinetic_gauss_7_desc:0 "$z_fw_tech_weap_kinetic_gauss_6_desc$"
+ z_fw_tech_weap_kinetic_gauss_8:0 "§G무한한§! 매스 드라이버 §BLV8§!"
+ z_fw_tech_weap_kinetic_gauss_8_desc:0 "$z_fw_tech_weap_kinetic_gauss_6_desc$"
+ z_fw_tech_weap_kinetic_gauss_9:0 "§G무한한§! 매스 드라이버 §BLV9§!"
+ z_fw_tech_weap_kinetic_gauss_9_desc:0 "$z_fw_tech_weap_kinetic_gauss_6_desc$"
+#_k_artillery
+ z_fw_tech_weap_kinetic_artillery_6:0 "§G무한한§! 실탄 캐논 §BLV6§!"
+ z_fw_tech_weap_kinetic_artillery_6_desc:0 "$z_fw_tech_weap_universial$\n오늘날에도 거대한 질량은 여전히 더 강력한 화력을 의미하며 커다란 대포가 달린 대형 선박은 결코 구식이 아닙니다."
+ z_fw_tech_weap_kinetic_artillery_7:0 "§G무한한§! 실탄 캐논 §BLV7§!"
+ z_fw_tech_weap_kinetic_artillery_7_desc:0 "$z_fw_tech_weap_kinetic_artillery_6_desc$"
+ z_fw_tech_weap_kinetic_artillery_8:0 "§G무한한§! 실탄 캐논 §BLV8§!"
+ z_fw_tech_weap_kinetic_artillery_8_desc:0 "$z_fw_tech_weap_kinetic_artillery_6_desc$"
+ z_fw_tech_weap_kinetic_artillery_9:0 "§G무한한§! 실탄 캐논 §BLV9§!"
+ z_fw_tech_weap_kinetic_artillery_9_desc:0 "$z_fw_tech_weap_kinetic_artillery_6_desc$"
+#_k_gatling
+ z_fw_tech_weap_kinetic_gatling_6:0 "§G무한한§! 금속 폭풍 §BLV6§!"
+ z_fw_tech_weap_kinetic_gatling_6_desc:0 "$z_fw_tech_weap_universial$\n재료가 어떻게 변하든, 충분히 폭력적이기만 하다면, 조밀한 사격은 강력한 장갑과 보호막을 부수기에 충분합니다."
+ z_fw_tech_weap_kinetic_gatling_7:0 "§G무한한§! 금속 폭풍 §BLV7§!"
+ z_fw_tech_weap_kinetic_gatling_7_desc:0 "$z_fw_tech_weap_kinetic_gatling_6_desc$"
+ z_fw_tech_weap_kinetic_gatling_8:0 "§G무한한§! 금속 폭풍 §BLV8§!"
+ z_fw_tech_weap_kinetic_gatling_8_desc:0 "$z_fw_tech_weap_kinetic_gatling_6_desc$"
+ z_fw_tech_weap_kinetic_gatling_9:0 "§G무한한§! 금속 폭풍 §BLV9§!"
+ z_fw_tech_weap_kinetic_gatling_9_desc:0 "$z_fw_tech_weap_kinetic_gatling_6_desc$"
+#_k_flak
+ z_fw_tech_weap_kinetic_flak_6:0 "§G무한한§! 고속 철 구름 대공포 §BLV6§!"
+ z_fw_tech_weap_kinetic_flak_6_desc:0 "$z_fw_tech_weap_universial$\n우리의 대공포가 더 정확하고 포격이 더 조밀하다면 아무도 이 치명적인 철 구름을 피할 수 없습니다."
+ z_fw_tech_weap_kinetic_flak_7:0 "§G무한한§! 고속 철 구름 대공포 §BLV7§!"
+ z_fw_tech_weap_kinetic_flak_7_desc:0 "$z_fw_tech_weap_kinetic_flak_6_desc$"
+ z_fw_tech_weap_kinetic_flak_8:0 "§G무한한§! 고속 철 구름 대공포 §BLV8§!"
+ z_fw_tech_weap_kinetic_flak_8_desc:0 "$z_fw_tech_weap_kinetic_flak_6_desc$"
+ z_fw_tech_weap_kinetic_flak_9:0 "§G무한한§! 고속 철 구름 대공포 §BLV9§!"
+ z_fw_tech_weap_kinetic_flak_9_desc:0 "$z_fw_tech_weap_kinetic_flak_6_desc$"
+ 
+#_missile
+ z_fw_tech_weap_missile_6:0 "§G무한한§! 자율 미사일 §BLV6§!"
+ z_fw_tech_weap_missile_6_desc:0 "$z_fw_tech_weap_universial$\n새로운 지능형 알고리즘과 컴퓨터 기술의 혁명으로 우리 미사일은 대공포를 회피하고 적의 약점을 찾는 데 더욱 효과적입니다. 적의 보호막은 완전히 쓸모가 없습니다."
+ z_fw_tech_weap_missile_7:0 "§G무한한§! 자율 미사일 §BLV7§!"
+ z_fw_tech_weap_missile_7_desc:0 "$z_fw_tech_weap_missile_6_desc$"
+ z_fw_tech_weap_missile_8:0 "§G무한한§! 자율 미사일 §BLV8§!"
+ z_fw_tech_weap_missile_8_desc:0 "$z_fw_tech_weap_missile_6_desc$"
+ z_fw_tech_weap_missile_9:0 "§G무한한§! 자율 미사일 §BLV9§!"
+ z_fw_tech_weap_missile_9_desc:0 "$z_fw_tech_weap_missile_6_desc$"
+#_torpedo
+ z_fw_tech_weap_torpedo_6:0 "§G무한한§! 무거운 어뢰 §BLV6§!"
+ z_fw_tech_weap_torpedo_6_desc:0 "$z_fw_tech_weap_universial$\n매우 무거우면서도 거대한 장거리 어뢰는 강력한 치사율과 사거리를 가지고있으며 동시에 적의 대공포에 저항할 수있는 효율적인 장갑을 갖추고 있습니다."
+ z_fw_tech_weap_torpedo_7:0 "§G무한한§! Heavy Torpedo §BLV7§!"
+ z_fw_tech_weap_torpedo_7_desc:0 "$z_fw_tech_weap_torpedo_6_desc$"
+ z_fw_tech_weap_torpedo_8:0 "§G무한한§! Heavy Torpedo §BLV8§!"
+ z_fw_tech_weap_torpedo_8_desc:0 "$z_fw_tech_weap_torpedo_6_desc$"
+ z_fw_tech_weap_torpedo_9:0 "§G무한한§! Heavy Torpedo §BLV9§!"
+ z_fw_tech_weap_torpedo_9_desc:0 "$z_fw_tech_weap_torpedo_6_desc$"
+#_swarmer
+ z_fw_tech_weap_missile_swarm_6:0 "§G무한한§! 스마트 미사일 세례 §BLV6§!"
+ z_fw_tech_weap_missile_swarm_6_desc:0 "$z_fw_tech_weap_universial$\n제한된 화력에도 불구하고 그러한 작은 미사일이 등장하여 적의 대공 방어 화력을 방해할 수 있습니다. 데이터 링크를 공유하면 근처의 함재기와 미사일을 더 잘 탐지할 수 있습니다."
+ z_fw_tech_weap_missile_swarm_7:0 "§G무한한§! 스마트 미사일 세례 §BLV7§!"
+ z_fw_tech_weap_missile_swarm_7_desc:0 "$z_fw_tech_weap_missile_swarm_6_desc$"
+ z_fw_tech_weap_missile_swarm_8:0 "§G무한한§! 스마트 미사일 세례 §BLV8§!"
+ z_fw_tech_weap_missile_swarm_8_desc:0 "$z_fw_tech_weap_missile_swarm_6_desc$"
+ z_fw_tech_weap_missile_swarm_9:0 "§G무한한§! 스마트 미사일 세례 §BLV9§!"
+ z_fw_tech_weap_missile_swarm_9_desc:0 "$z_fw_tech_weap_missile_swarm_6_desc$"
+#_fighter
+ z_fw_tech_weap_hanger_6:0 "§G무한한§! 향상된 함재기 §BLV6§!"
+ z_fw_tech_weap_hanger_6_desc:0 "$z_fw_tech_weap_universial$\n공군은 우주전에서 좋은 성과를 거두지는 못하지만 어떤 경우에는 여전히 필수 불가결합니다. 기동 함대는 적의 사정거리 밖에서 적을 공격 할 수 있는 능력을 제공합니다."
+ z_fw_tech_weap_hanger_7:0 "§G무한한§! 향상된 함재기 §BLV7§!"
+ z_fw_tech_weap_hanger_7_desc:0 "$z_fw_tech_weap_hanger_6_desc$"
+ z_fw_tech_weap_hanger_8:0 "§G무한한§! 향상된 함재기 §BLV8§!"
+ z_fw_tech_weap_hanger_8_desc:0 "$z_fw_tech_weap_hanger_6_desc$"
+ z_fw_tech_weap_hanger_9:0 "§G무한한§! 향상된 함재기 §BLV9§!"
+ z_fw_tech_weap_hanger_9_desc:0 "$z_fw_tech_weap_hanger_6_desc$"
+ 
+#_xl_beam
+ z_fw_tech_weap_xl_lance_6:0 "§G무한한§! 에너지 랜스 §BLV6§!"
+ z_fw_tech_weap_xl_lance_6_desc:0 "$z_fw_tech_weap_universial$\n양적 변화는 질적 변화를 일으킵니다. 방향성 에너지 무기가 충분히 크면 거대한 전함이 우주의 중기병으로 변신하여 밝은 창으로 적의 전투함을 산산조각냅니다."
+ z_fw_tech_weap_xl_lance_7:0 "§G무한한§! 에너지 랜스 §BLV7§!"
+ z_fw_tech_weap_xl_lance_7_desc:0 "$z_fw_tech_weap_xl_lance_6_desc$"
+ z_fw_tech_weap_xl_lance_8:0 "§G무한한§! 에너지 랜스 §BLV8§!"
+ z_fw_tech_weap_xl_lance_8_desc:0 "$z_fw_tech_weap_xl_lance_6_desc$"
+ z_fw_tech_weap_xl_lance_9:0 "§G무한한§! 에너지 랜스 §BLV9§!"
+ z_fw_tech_weap_xl_lance_9_desc:0 "$z_fw_tech_weap_xl_lance_6_desc$"
+#_xl_accelerator
+ z_fw_tech_weap_xl_accelerator_6:0 "§G무한한§! 거대 가속기 §BLV6§!"
+ z_fw_tech_weap_xl_accelerator_6_desc:0 "$z_fw_tech_weap_universial$\n대형 함포를 장착한 대형 함선은 구식이 아닙니다. 특히 전함 크기의 거대한 운동에너지 포탄에 의해 아광속으로 타격을 입었을 때 이러한 화력을 견딜 수 있는것은 거의 없습니다."
+ z_fw_tech_weap_xl_accelerator_7:0 "§G무한한§! 거대 가속기 §BLV7§!"
+ z_fw_tech_weap_xl_accelerator_7_desc:0 "$z_fw_tech_weap_xl_accelerator_6_desc$"
+ z_fw_tech_weap_xl_accelerator_8:0 "§G무한한§! 거대 가속기 §BLV8§!"
+ z_fw_tech_weap_xl_accelerator_8_desc:0 "$z_fw_tech_weap_xl_accelerator_6_desc$"
+ z_fw_tech_weap_xl_accelerator_9:0 "§G무한한§! 거대 가속기 §BLV9§!"
+ z_fw_tech_weap_xl_accelerator_9_desc:0 "$z_fw_tech_weap_xl_accelerator_6_desc$"
+#_xl_emitter
+ z_fw_tech_weap_xl_emitter_6:0 "§G무한한§! 공간 왜곡 방사기 §BLV6§!"
+ z_fw_tech_weap_xl_emitter_6_desc:0 "$z_fw_tech_weap_universial$\n최첨단 물리학을 통해 우주에 대한 이해가 더욱 깊어짐에 따라 공간 구성을 변경하여 적을 파괴할 수 있으며 모든 보호막과 장갑은 무의미해집니다."
+ z_fw_tech_weap_xl_emitter_7:0 "§G무한한§! 공간 왜곡 방사기 §BLV7§!"
+ z_fw_tech_weap_xl_emitter_7_desc:0 "$z_fw_tech_weap_xl_emitter_6_desc$"
+ z_fw_tech_weap_xl_emitter_8:0 "§G무한한§! 공간 왜곡 방사기 §BLV8§!"
+ z_fw_tech_weap_xl_emitter_8_desc:0 "$z_fw_tech_weap_xl_emitter_6_desc$"
+ z_fw_tech_weap_xl_emitter_9:0 "§G무한한§! 공간 왜곡 방사기 §BLV9§!"
+ z_fw_tech_weap_xl_emitter_9_desc:0 "$z_fw_tech_weap_xl_emitter_6_desc$"
+#_xl_missile
+ z_fw_tech_weap_xl_missile_6:0 "§G무한한§! 파멸 미사일 §BLV6§!"
+ z_fw_tech_weap_xl_missile_6_desc:0 "$z_fw_tech_weap_universial$\n이 거대한 미사일은 재료 과학의 기적입니다. 그것은 물리학의 한계를 거의 능가하며 항성계의 가장자리에서 멀리 떨어진 적을 파괴할 수 있습니다."
+ z_fw_tech_weap_xl_missile_7:0 "§G무한한§! 파멸 미사일 §BLV7§!"
+ z_fw_tech_weap_xl_missile_7_desc:0 "$z_fw_tech_weap_xl_missile_6_desc$"
+ z_fw_tech_weap_xl_missile_8:0 "§G무한한§! 파멸 미사일 §BLV8§!"
+ z_fw_tech_weap_xl_missile_8_desc:0 "$z_fw_tech_weap_xl_missile_6_desc$"
+ z_fw_tech_weap_xl_missile_9:0 "§G무한한§! 파멸 미사일 §BLV9§!"
+ z_fw_tech_weap_xl_missile_9_desc:0 "$z_fw_tech_weap_xl_missile_6_desc$"
+ 
+#_d_armor
+ z_fw_tech_device_armor_6:0 "§G무한한§! 진보한 장갑 §BLV6§!"
+ z_fw_tech_device_armor_6_desc:0 "$z_fw_tech_weap_universial$\n우리는 우주에서 가장 강력한 물질을 조작하여 장갑을 강화하는데 사용할 수 있습니다. 모든 공격은 우리의 철벽 앞에서 효과를 잃을 것입니다."
+ z_fw_tech_device_armor_7:0 "§G무한한§! 진보한 장갑 §BLV7§!"
+ z_fw_tech_device_armor_7_desc:0 "$z_fw_tech_device_armor_6_desc$"
+ z_fw_tech_device_armor_8:0 "§G무한한§! 진보한 장갑 §BLV8§!"
+ z_fw_tech_device_armor_8_desc:0 "$z_fw_tech_device_armor_6_desc$"
+ z_fw_tech_device_armor_9:0 "§G무한한§! 진보한 장갑 §BLV9§!"
+ z_fw_tech_device_armor_9_desc:0 "$z_fw_tech_device_armor_6_desc$"
+#_d_shield
+ z_fw_tech_device_shield_6:0 "§G무한한§! 신세기 보호막 §BLV6§!"
+ z_fw_tech_device_shield_6_desc:0 "$z_fw_tech_weap_universial$\n우리가 힘의 영역을 정확하게 조작하고 형성할 수 있을 때, 모든 물리적 규칙은 우리의 가장 강력한 보호막이 될 것입니다."
+ z_fw_tech_device_shield_7:0 "§G무한한§! 신세기 보호막 §BLV7§!"
+ z_fw_tech_device_shield_7_desc:0 "$z_fw_tech_device_shield_6_desc$"
+ z_fw_tech_device_shield_8:0 "§G무한한§! 신세기 보호막 §BLV8§!"
+ z_fw_tech_device_shield_8_desc:0 "$z_fw_tech_device_shield_6_desc$"
+ z_fw_tech_device_shield_9:0 "§G무한한§! 신세기 보호막 §BLV9§!"
+ z_fw_tech_device_shield_9_desc:0 "$z_fw_tech_device_shield_6_desc$"
+ 
+#_d_reactor
+ z_fw_tech_device_reactor_6:0 "§G무한한§! 전력 코어 §BLV6§!"
+ z_fw_tech_device_reactor_6_desc:0 "$z_fw_tech_weap_universial$\n최근의 연구 결과는 전함의 핵심 원자로에 효과적으로 적용되었고 그들의 강력한 심장이 되었습니다."
+ z_fw_tech_device_reactor_7:0 "§G무한한§! 전력 코어 §BLV7§!"
+ z_fw_tech_device_reactor_7_desc:0 "$z_fw_tech_device_reactor_6_desc$"
+ z_fw_tech_device_reactor_8:0 "§G무한한§! 전력 코어 §BLV8§!"
+ z_fw_tech_device_reactor_8_desc:0 "$z_fw_tech_device_reactor_6_desc$"
+ z_fw_tech_device_reactor_9:0 "§G무한한§! 전력 코어 §BLV9§!"
+ z_fw_tech_device_reactor_9_desc:0 "$z_fw_tech_device_reactor_6_desc$"

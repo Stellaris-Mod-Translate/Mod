@@ -1,0 +1,3919 @@
+﻿ l_english:
+ 
+ INSULT_PROPOSE_COL_IND:0 "[Root.GetName]는 진짜 국가이기는 한가, 아니면 단지 무정부 상태로 다투는 개인들의 시끌벅쩍한 무리인가? 사실 너희의 정치체제와 같은 것은, 둘 중 무엇인지 확언하기 어렵거든."
+ 02_INSULT_PROPOSE_COL_IND:0 "그래서 오늘날 너희의 웃기는 조그마한 항성 국가를 지배하는 것이 누구지? 정말 진기한 생각이군, 누군가를 '투표'로 집권시키다니! 물론, 그것은 필연적으로 너희의 몰락으로 이어질 것이다."
+ 03_INSULT_PROPOSE_COL_IND:0 "너희의 민주적 이상은 이 은하계에 질병이고, [Root.GetName]에게도 마찬가지다."
+ 04_INSULT_PROPOSE_COL_IND:0 "너희가 얼마나 이기적인 자들인지, 질서와 안정보다 사소한 자유를 선호하다니. 자유주의... 하! [Root.GetName]은(는) 한 해도 살아남지 못할 거다."
+ 01_INSULT_PROPOSE_IND_COL:0 "네놈의 잔혹하고 폭압적인 정권은 결국 무너질 것이며, 그에 대한 심판이 있을 것이다."
+ 02_INSULT_PROPOSE_IND_COL:0 "너희는 시민들이 스스로 생각하도록 하는 것에 대해 생각해 본 적이 있나? 만약 그것이 [Root.GetName]의 종말을 가져올까봐 두렵다면... 너희가 옳다."
+ 03_INSULT_PROPOSE_IND_COL:0 "[Root.GetName]와 같은 권위주의 국가가 존재할 수 있다는 것은 얼마나 슬픈 일인가. 모든 곳의 지성체들에게 부끄러운 일이다."
+ 04_INSULT_PROPOSE_IND_COL:0 "[Root.GetName]의 굴레 아래 사는 이들에 대한 잔인한 억압은 언젠가는 끝나야 한다. 너희의 계층제가 너희의 타락을 증명할 것이다."
+ 16_FRIENDLY_GREETING:0 "당신 정부는 최악의 자유주의적 과잉을 줄이는 일을 잘 하고 있습니다, [From.GetSpeciesNamePlural]"
+ 14_FRIENDLY_GREETING:0 "우리는 자유 사회를 선호하지만, 당신들의 정부가 시민들에게 안정성을 제공하는 일을 잘하고 있다는 사실을 부인할 수 없군요."
+ ENSLAVED_DESC:0 "이 POP은 노예화되었습니다. 노예화된 POP은 이 행성에 있는 모든 자유주의 POP를 불행하게 합니다."
+ COL_LABEL:0 "권위주의 <-> 자유주의"
+ 
+ ethic_collectivist:0 "권위주의"
+ ethic_collectivist_desc:1 "§L사람마다 실력이 다르다는 것은 자명합니다. 어떤 이들은 통치하기에 더 적합한 반면, 다른 이들은 봉사하기에 더 적합하며, 사회에서 그들의 역할은 이것을 반영해야 합니다. 이 사실을 무시하는 것은 혼란과 무질서를 초래하는 것입니다.§!\n"
+ ethic_fanatic_collectivist:0 "광적인 권위주의"
+ ethic_fanatic_collectivist_desc:1 "§L하인이 통치하거나, 통치자가 섬기는 것은 자연법칙에 반하는 범죄입니다. 올바른 질서는 엄격한 위계질서와 절대복종을 통해서만 유지될 수 있습니다.§!\n"
+ ethic_egalitarian:0 "자유주의"
+ ethic_individualist_desc:1 "§L모든 이는 기본적인 존엄성과 권리에 있어서 평등합니다. 질서의 보존은 존경할 만한 목표이지만, 원칙적으로나 실질적으로 폭정과 억압을 정당화하지는 못합니다. 문명은 소수가 다수를 지배하지 않을 때 가장 번성합니다.§!\n"
+ ethic_fanatic_egalitarian:0 "광적인 자유주의"
+ ethic_fanatic_individualist_desc:1 "§L권력은 단지 부패하는 것이 아니라, 그 자체로 부패입니다. 권력의 본질 때문에, 모든 힘의 불균형은 근본적으로 강압적입니다. 진정한 자유와 정의는 평등을 통해서만 얻을 수 있습니다.§!\n"
+ 
+ 
+ 
+ personality_utopia_builders:0 "유토피아 건설자"
+ personality_utopia_builders_desc:0 "유토피아 건설자들은 그들 종족의 경제적, 사회적 번영을 무엇보다도 중요하게 여깁니다. 정부는, 그 규모에 상관없이, 누구도 어떤 필요나 질병, 가난으로 고통받지 않도록 하기 위해 존재합니다."
+ 
+ personality_adventurous_expansionist:0 "공격적인 확장주의자"
+ personality_adventurous_expansionist_desc:0 "공격적인 확장주의자들은 은하를 자신들의 유산으로 보고 있습니다. 그들은 대부분 그들이 도달할 수 있는 우주의 모든 어두운 구석에 그들의 영향력을 전파하는 데 초점을 맞추고 있습니다."
+ 
+ personality_paranoid_isolationists:0 "편집증적인 고립주의자"
+ personality_paranoid_isolationists_desc:0 "편집증적인 고립주의자들은 외부 세계로부터 완전히 고립되기를 바랍니다. 그들은 자기 일에만 신경을 쓰고, 다른 사람들도 그렇게 하는 것을 선호할 것입니다."
+ 
+ 
+ 
+ 
+ 
+ 
+ elite_cyborg_army:0 "최정예 사이보그 부대"
+ elite_cyborg_army_plural:0 "최정예 사이보그 부대"
+ elite_cyborg_army_desc:0 "통치자 직속의 정예 방어 부대입니다."
+ elite_cyborg_army_proper:0 "최정예 사이보그 부대"
+ elite_cyborg_army_plural_proper:0 "최정예 사이보그 부대"
+ elite_cyborg_army_desc_proper:0 "통치자 직속의 최정예 방어 부대입니다."
+ elite_cyborg_army_trigger_tooltip:0 "통치자는 하나의 직속 방어 부대만 모집 할 수 있습니다."
+ 
+ elite_inquisitor_army:0 "최정예 이단심문관 부대"
+ elite_inquisitor_army_plural:0 "최정예 이단심문관 부대"
+ elite_inquisitor_army_desc:0 "통치자 직속의 최정예 공격 부대입니다."
+ elite_inquisitor_army_proper:0 "최정예 이단심문관 부대"
+ elite_inquisitor_army_plural_proper:0 "최정예 이단심문관 부대"
+ elite_inquisitor_army_desc_proper:0 "통치자 직속의 최정예 이단심문관 부대입니다."
+ elite_inquisitor_army_trigger_tooltip:0 "통치자는 하나의 직속 이단심문관 부대를 모집할 수 있습니다."
+ 
+ RT_HIGH_TECHNICIAN:0 "스카이넷"
+ RT_HTECH:0 "첫 번째 시민"
+ RT_GENSEK:0 "서기장"
+ HT_DEPUTY_SEK:0 "차관보"
+ RT_SENIOR_COORDINATOR:0 "수석 조정관"
+ RT_CEO:0 "주재관"
+ RT_CEO_1:0 "최고 경영자"
+ RT_CHIEF:0 "전제 군주"
+ HT_DEFMINISTER:0 "국방부 장관"
+ RT_KEEPER:0 "신황제"
+ HT_COUNS:0 "집사"
+ RT_WARDEN:0 "관리인"
+ RT_THANE:0 "종사"
+ RT_HTHANE:0 "최고위 종사"
+ RT_CURATOR:0 "큐레이터"
+ HT_COMAN:0 "사령관"
+ RT_HCOM:0 "최고 사령관"
+ RT_DOM:0 "지배자"
+ HT_CHCOMAN:0 "최고사령관"
+ RT_HEMPEROR:0 "고귀한 황제"
+ HT_HPRINCE:0 "고귀한 왕자"
+ RT_DRULER:0 "신성한 대군주"
+ HT_DPRINCE:0 "신성한 왕자"
+ RT_DQUEEN:0 "신성한 여주인"
+ HT_DPRINCESS:0 "신성한 공주"
+ RT_HEMPERESS:0 "고귀한 여제"
+ HT_HPRINCESS:0 "고귀한 공주"
+ RT_SGEN:0 "사무총장"
+ RT_PRINCEPS:0 "프린켑스"
+ RT_MOD:0 "중재자"
+ RT_SUP:0 "감독관"
+ RT_CHSUP:0 "수석-감독관"
+ RT_SUPRE:0 "최고 지도자"
+ HT_1COUNS:0 "제 1 상담사"
+ RT_PRIME:0 "네트워크 관리자"
+ RT_NAZLEADER:0 "국가 지도자"
+ HT_PRINCE:0 "왕자"
+ HT_PRINCESS:0 "공주"
+ RT_UNION:0 "노조위원장"
+ RT_LABOUR:0 "노동당 위원장"
+ RT_GR_EMPEROR:0 "위대한 황제"
+ RT_GR_EMPRESS:0 "위대한 여제"
+ RT_IRON_LORD:0 "제 1 기계공"
+ HT_IRON_PRINCE:0 "숙련된 기계공"
+ 
+ 
+ 
+ 
+ 
+ power_plant_build_cost_mult:0 "발전소 건설 비용"
+ hydroponics_farm_build_cost_mult:0 "수경농장 건설 비용"
+ science_lab_build_cost_mult:0 "과학 연구소 건설 비용"
+ shipsize_science_construction_speed_mult:0 "과학선 건조 속도"
+ 
+ edict_forced_industrialization:0 "교리: 산업 효율성"
+ edict_forced_industrialization_desc:0 " "
+ edict_clean_air:0 "교리: 깨끗한 공기"
+ edict_clean_air_desc:0 " "
+ edict_spirit_freedom:0 "자유의 정신"
+ edict_spirit_freedom_desc:0 " "
+ 
+ 
+ edict_meal_real:0 " 식사' 그리고 '진짜!"
+ edict_meal_real_desc:0 " "
+ edict_ancestor_call:0 "신성한 수확 축제"
+ edict_ancestor_call_desc:0 " "
+ edict_religious_unity_desc:1 "이 광적인 정신주의 시행령은 준-종교적인 열정으로 대중을 단결시키고, 엄격한 단식을 의무화합니다.\n\n"
+ 
+ 
+ 
+ tech_advanced_industrialization:0 "선진 산업화"
+ tech_advanced_industrialization_desc:0 " "
+ 
+ tech_ministry_of_equality:0 "교리: 사회적 평등"
+ tech_ministry_of_equality_desc:0 " "
+ tech_new_diplomacy_standarts:0 "새로운 성간 외교 표준"
+ tech_new_diplomacy_standarts_desc:0 " "
+ tech_multicultural_integration:0 "다문화 통합"
+ tech_multicultural_integration_desc:0 " "
+ 
+ tech_galactic_benevolence:0 "진리부"
+ tech_ministry_of_defence:0 "교리: 국가 안보"
+ tech_ministry_of_defence_desc:0 " "
+ tech_spirit_freedom:0 "자유의 정신"
+ tech_spirit_freedom_desc:0 " "
+ 
+ tech_deep_space_scanner:0 "은하 조사/SETI"
+ tech_deep_space_scanner_desc:0 " "
+ tech_terraform_gaia:0 "가이아 행성 테라포밍"
+ tech_terraform_gaia_desc:0 " "
+ tech_research_coordination:0 "협동 연구"
+ tech_research_coordination_desc:0 " "
+ tech_atm_purifying:0 "대기 정화"
+ tech_atm_purifying_desc:0 "첨단 정화 시스템은 행성의 대기 중에 있는 거의 모든 유독성 및 방사성 폐기물을 제거합니다.\n\n"
+ tech_terraform_uninhabit:0 "거주 불가능한 행성 테라포밍"
+ tech_terraform_uninhabit_desc:0 "충분한 시간과 자원이 주어진다면, 가장 황폐한 행성조차도 거주 가능한 행성으로 바뀔 수 있습니다.\n\n"
+ tech_spirit_agri:0 "생산 초점: 농업"
+ tech_spirit_agri_desc:0 " "
+ tech_metallurgical_plant:0 "중공업 개발"
+ tech_metallurgical_plant_desc:0 " "
+ tech_loyalty:0 "교리: 충성"
+ tech_loyalty_desc:0 " "
+ tech_spirit_planet:0 "행성의 영혼"
+ tech_spirit_planet_desc:0 " "
+ tech_opti_ftl:0 "극도로 효율적인 FTL 기술"
+ tech_opti_ftl_desc:0 " "
+ tech_high_tech_industry:0 "글로벌 산업 재개발"
+ tech_high_tech_industry_desc:0 " "
+ tech_colliseum:0 " '식사' 그리고 '진짜!'"
+ tech_colliseum_desc:0 " "
+ tech_ancestor_call:0 "조상의 부름"
+ tech_ancestor_call_desc:0 " "
+ tech_resort:0 "먼 행성 휴양지"
+ tech_resort_desc:0 "이제 우리의 먼 식민지를 단지 생존의 장소가 아니라 완전하고 의미 있는 삶의 장소로 만들 때입니다."
+ tech_adv_engin:0 "효율적인 토지 계획"
+ tech_adv_engin_desc:0 "토지 공학 및 건설에 숙달되면 행성의 토지를 보다 효율적으로 이용할 수 있습니다."
+ tech_gal_university:0 "새로운 교육 표준"
+ tech_gal_university_desc:0 " "
+ tech_bio_institute:0 "선진 생명공학"
+ tech_bio_institute_desc:0 " "
+ tech_comm_hub:0 "혁신적인 성간 통신"
+ tech_comm_hub_desc:0 " "
+ 
+ 
+ 
+ TECH_UNLOCK_TERRAFORMING_GAIA_TITLE:0 "§H기능 해금:§! 가이아 행성으로 테라포밍"
+ TECH_UNLOCK_TERRAFORMING_GAIA_DESC:0 "§H가이아 행성 테라포밍§!\n잠재적인 거주 가능 행성을 가이아 행성으로 테라포밍할 수 있습니다.\n\n일반적인 테라포밍보다 더 많은 전략자원과 시간을 필요로 합니다."
+ 
+ building_diplomacy_academy:0 "외교부"
+ building_diplomacy_academy_desc:0 " "
+ building_pan_galactic_forum:0 "범은하포럼"
+ building_pan_galactic_forum_desc:0 " "
+ building_ministry_of_equality:0 "사회개발부"
+ building_ministry_of_equality_desc:0 " "
+ building_thermal_borehole:0 "열 시추공"
+ building_thermal_borehole_desc:0 "열 시추공은 행성의 맨틀을 통해 그 중심까지 굴착합니다. 이는 광물과 에너지의 풍부한 원천이 될 수 있지만, 방출되는 엄청난 양의 열은 자연 환경에 상당한 해를 끼칠 수 있습니다."
+ 
+ building_ministry_of_defence:0 "국방부"
+ building_ministry_of_defence_desc:0 " "
+ 
+ building_research_coordination:0 "연구 조정 시설"
+ building_research_coordination_desc:0 " "
+ building_food_bazaar:0 "웅장한 식품 상정가"
+ building_food_bazaar_desc:0 "거대한 쇼핑 구역은 식량 생산을 촉진하고 행성 시민들에게 만족감을 줍니다."
+ building_soil_enrich:0 "토양 비옥화 시설"
+ building_soil_enrich_desc:0 " "
+ building_metallurgical_plant:0 "중공업 자동화 공장"
+ building_metallurgical_plant_desc:0 "이 중공업 시설은 지역 광물 생산을 촉진하고 행성의 인프라 개발을 촉진합니다."
+ building_wellfare_center:0 "복지 센터"
+ building_wellfare_center_desc:0 "지방 행정부는 행성의 지역사회를 위해 적절한 생활 환경을 유지하는 데 주의를 기울이고 있습니다."
+ building_royal_library:0 "왕립 도서관"
+ building_royal_library_desc:0 " "
+ building_recreational:0 "휴양지"
+ building_recreational_desc:0 "이 행성 시민들은 오직 특별한 종류의 의학만이 제공할 수 있는 평온함과 깊은 심리적 쾌락을 얻기 위해 이 리조트를 찾아옵니다."
+ building_sacred_grove:0 "신성한 작은 숲"
+ building_sacred_grove_desc:0 "제국 전역에서 온 이들이 연례 행사에 참여하기 위해 이 성지를 방문합니다. 이 성지에서 특별한 방법으로 요리되고 섭취되는 신성한 식물들은 그들의 몸과 마음을 건강하게 해 주고 그들이 더 현명한 삶을 살도록 가르칩니다."
+ building_industrial_cap:0 "산업 수도"
+ building_industrial_cap_desc:0 "이 거대한 첨단 산업단지는 하이퍼리움을 제국 수준으로 적용할 수 있게 해주며, 이전에 군이나 민간에서는 얻을 수 없었던 산업 효율을 제공합니다."
+ 
+ building_resort:0 "럭셔리 리조트"
+ building_resort_desc:0 " "
+ 
+ 
+ building_bio_institute:0 "응용 생명공학 연구소"
+ building_bio_institute_desc:0 " "
+ building_comm_hub:0 "성간 통신 허브"
+ building_comm_hub_desc:0 " "
+ 
+ sm_hyperium_refinery:0 "하이퍼리움 정제소"
+ 
+ sr_sacred_plant:0 "신성한 식물"
+ sr_sacred_plant_desc:0 "이 매우 희귀하고 특정한 종류의 식물들은 의식의 변화를 유도하고 심리적, 생리적 차원에서 심오한 쾌락을 제공하는 능력으로 유명합니다."
+ 
+ sr_hyperium:0 "하이퍼리움"
+ sr_hyperium_desc:0 "이 희귀 금속은 내구성과 유연성이 뛰어나기로 유명하지만, 매우 강한 방사능을 띠며 산업에 적용하기 위해서는 첨단 정제 기술을 필요로 합니다."
+ 
+ 
+ requirement_farmland:0 "§R풍부한 식량 매장지에만 건설할 수 있습니다.§!"
+ 
+ requirement_sights_deposit:0 "§R천국에만 건설할 수 있습니다.§!"
+ 
+ 
+ trait_drone_mindset:0 "드론 사고방식"
+ trait_drone_mindset_desc:0 "이 매우 특별한 유전적 특성은 우리 종족이 '군체 의식' 유형의 사회를 형성할 수 있게 합니다."
+ trait_brainchip:0 " 제3의 눈' 사이버-임플란트"
+ trait_brainchip_desc:0 "이 매우 특별한 뇌-이식술은 우리 종족이 '사이버-초월 통합' 유형의 사회를 형성할 수 있게 합니다."
+ 
+ ACTION_EMBASSY1_TITLE:0 "대사관을 설치합니다"
+ ACTION_EMBASSY1_DESC:0 "그들의 수도 행성에 대사관을 설립하십시오."
+ ACTION_EMBASSY1_COST:2 "이것은 우리의 관계를 매달 0.05씩 최대 25까지 증가시킬 것입니다. 우리는 동시에 총 5개의 대사관을 유지할 수 있습니다."
+ 
+ policy_economy:0 "경제적 정책"
+ policy_economy_desc:0 " "
+ 
+ mixed_economy:0 "혼합 경제"
+ mixed_economy_name:0 "혼합 경제"
+ mixed_economy_desc:0 " "
+ 
+ left_economy:0 "친복지적"
+ left_economy_name:0 "친복지적"
+ left_economy_desc:0 " "
+ right_economy:0 "친시장적"
+ right_economy_name:0 "친시장적"
+ right_economy_desc:0 " "
+ 
+ 
+ 
+ 
+ military_communism:0 "군사적 공산주의"
+ military_communism_name:0 "군사적 공산주의"
+ military_communism_desc:0 " "
+ 
+ capitalism_utopia:0 "자본주의 유토피아"
+ capitalism_utopia_name:0 "자본주의 유토피아"
+ capitalism_utopia_desc:0 " "
+ 
+ no_property:0 "사회주의적"
+ no_property_name:0 "사회주의적"
+ no_property_desc:0 " "
+ 
+ innov_economics:0 "혁신 경제학"
+ innov_economics_name:0 "혁신 경제학"
+ innov_economics_desc:0 " "
+ 
+ universal_welfare:0 "보편적 복지"
+ universal_welfare_name:0 "보편적 복지"
+ universal_welfare_desc:0 " "
+ 
+ slaver_economy:0 "권위주의적 자본주의"
+ slaver_economy_name:0 "권위주의적 자본주의"
+ slaver_economy_desc:0 " "
+ 
+ policy_production_focus:0 "생산 초점"
+ policy_production_focus_desc:0 "생산 초점"
+ 
+ none_production:0 "없음"
+ none_production_name:0 "없음"
+ none_production_desc:0 " "
+ 
+ recycle_focus:0 "폐기물 재활용"
+ recycle_focus_name:0 "폐기물 재활용"
+ recycle_focus_desc:0 "폐자재의 활용과 재사용은 높은 경제적 효율성과 더 나은 환경을 제공하지만, 생산 주기의 증가를 초래합니다."
+ 
+ recycle_focus_adv:0 "폐기물 재활용 (심화)"
+ recycle_focus_adv_name:0 "폐기물 재활용 (심화)"
+ recycle_focus_adv_desc:0 "폐자재의 활용과 재사용은 높은 경제적 효율성과 더 나은 환경을 제공하지만, 생산 주기의 증가를 초래합니다."
+ 
+ mining_focus:0 "광업"
+ mining_focus_name:0 "광업"
+ mining_focus_desc:0 " "
+ 
+ mining_focus_adv:0 "광업 (심화"
+ mining_focus_adv_name:0 "광업 (심화"
+ mining_focus_adv_desc:0 " "
+ 
+ agri_focus:0 "농업"
+ agri_focus_name:0 "농업"
+ agri_focus_desc:0 " "
+ 
+ agri_focus_adv:0 "농업 (심화)"
+ agri_focus_adv_name:0 "농업 (심화)"
+ agri_focus_adv_desc:0 " "
+ 
+ milind_focus:0 "군사 산업"
+ milind_focus_name:0 "군사 산업"
+ milind_focus_desc:0 " "
+ 
+ milind_focus_adv:0 "군사 산업 (심화)"
+ milind_focus_adv_name:0 "군사 산업 (심화)"
+ milind_focus_adv_desc:0 " "
+ 
+ policy_ecology:0 "환경 규제"
+ policy_ecology_desc:0 " "
+ 
+ none_ecology:0 "없음"
+ none_ecology_name:0 "없음"
+ none_ecology_desc:0 " "
+ 
+ eco_market:0 "생태-보수주의"
+ eco_market_name:0 "생태-보수주의"
+ eco_market_desc:0 "중공업보다는 생태학적 생산, 주로 농업에 초점을 맞춘 시장입니다."
+ 
+ eco_planned:0 "생태-진보주의"
+ eco_planned_name:0 "생태-진보주의"
+ eco_planned_desc:0 "깨끗한 환경과 지속가능한 생활환경의 보존에 초점을 맞춘 경제로서 산업생산율의 저하를 감수합니다."
+ 
+ industry_market:0 "산업-보수파"
+ industry_market_name:0 "산업-보수파"
+ industry_market_desc:0 "효율적인 중공업 발전에 초점을 맞춘 시장은 보통 환경에 필연적으로 해를 끼칩니다."
+ 
+ industry_planned:0 "산업-진보주의"
+ industry_planned_name:0 "산업-진보주의"
+ industry_planned_desc:0 "산업 생산율을 높이기 위해 경제에 추가 자원이 투입됩니다."
+ 
+ policy_national_politics:0 "국가 정치"
+ policy_national_politics_desc:0 " "
+ 
+ none_national:0 "없음"
+ none_national_name:0 "없음"
+ none_national_desc:0 " "
+ 
+ nationalism:0 "극단적 민족주의"
+ nationalism_name:0 "극단적 민족주의"
+ nationalism_desc:0 " "
+ 
+ multiculti:0 "다문화주의"
+ multiculti_name:0 "다문화주의"
+ multiculti_desc:0 " "
+ 
+ policy_foreign_policy:0 "외교 정책"
+ policy_foreign_policy_desc:0 " "
+ 
+ none_foreign:0 "없음"
+ none_foreign_name:0 "없음"
+ none_foreign_desc:0 " "
+ 
+ for_aggressive:0 "전쟁광"
+ for_aggressive_name:0 "전쟁광"
+ for_aggressive_desc:0 " "
+ 
+ for_peaceful:0 "평화론자"
+ for_peaceful_name:0 "평화론자"
+ for_peaceful_desc:0 " "
+ 
+ for_expansia:0 "평화적 팽창주의"
+ for_expansia_name:0 "평화적 팽창주의"
+ for_expansia_desc:0 " "
+ 
+ for_isolatia:0 "군사적 고립주의"
+ for_isolatia_name:0 "군사적 고립주의"
+ for_isolatia_desc:0 " "
+ 
+ policy_social_values:0 "사회적 가치"
+ policy_social_values_desc:0 " "
+ 
+ none_social:0 "없음"
+ none_social_name:0 "없음"
+ none_social_desc:0 " "
+ 
+ elite_rule:0 "권력"
+ elite_rule_name:0 "권력"
+ elite_rule_desc:0 "사회의 지도자들은 가장 강력하고 영향력 있는 개인들로 여겨집니다."
+ 
+ people_rule:0 "평등"
+ people_rule_name:0 "평등"
+ people_rule_desc:0 "그들의 사회적 또는 경제적 지위에도 불구하고, 사회 지도자들은 가장 재능 있고 능력 있는 개인들로 여겨집니다."
+ 
+ none_bureaucracy:0 "없음"
+ none_bureaucracy_name:0 "없음"
+ none_bureaucracy_desc:0 " "
+ 
+ empire_bureaucracy:0 "제국 관료제"
+ empire_bureaucracy_name:0 "제국 관료제"
+ empire_bureaucracy_desc:0 " "
+ 
+ eff_bureaucracy:0 "효율적인 관료제"
+ eff_bureaucracy_name:0 "효율적인 관료제"
+ eff_bureaucracy_desc:0 " "
+ 
+ 
+ policy_ideology:0 "이념"
+ policy_ideology_desc:0 " "
+ 
+ none_ideology:0 "없음"
+ none_ideology_name:0 "없음"
+ none_ideology_desc:0 " "
+ 
+ scientific_pragmatism:0 "과학적 실용주의"
+ scientific_pragmatism_name:0 "과학적 실용주의"
+ scientific_pragmatism_desc:0 " "
+ 
+ scientific_liberal:0 "계몽의 정신"
+ scientific_liberal_name:0 "계몽의 정신"
+ scientific_liberal_desc:0 " "
+ 
+ divine_right:0 "왕권신수설"
+ divine_right_name:0 "왕권신수설"
+ divine_right_desc:0 " "
+ 
+ fundamentalism:0 "근본주의"
+ fundamentalism_name:0 "근본주의"
+ fundamentalism_desc:0 " "
+ 
+ policy_doctrine:0 "문화적 열망"
+ policy_doctrine_desc:0 " "
+ 
+ none_doctrine:0 "없음"
+ none_doctrine_name:0 "없음"
+ none_doctrine_desc:0 " "
+ 
+ spiritual_harmony:0 "진정한 조화"
+ spiritual_harmony_name:0 "진정한 조화"
+ spiritual_harmony_desc:0 "자연과 완벽한 조화 속에서 사는 것은 당신들에게 지혜와 건강을 제공함으로 일종의 성취감을 느끼게 해줍니다."
+ 
+ faith_def:0 "신앙의 수호자들"
+ faith_def_name:0 "신앙의 수호자들"
+ faith_def_desc:0 " "
+ 
+ exploration:0 "은하 조사"
+ exploration_name:0 "은하 조사"
+ exploration_desc:0 " "
+ 
+ 
+ 
+ tech_military_communism:0 "경제: 군국 공산주의"
+ tech_military_communism_desc:0 " "
+ 
+ tech_capitalism_utopia:0 "경제: 자본주의 유토피아"
+ tech_capitalism_utopia_desc:0 " "
+ 
+ tech_socialistic:0 "경제: 사회주의적"
+ tech_socialistic_desc:0 " "
+ tech_slaver_economy:0 "경제: 권위주의적 자본주의"
+ tech_slaver_economy_desc:0 " "
+ 
+ tech_recycle_economy:0 "생산 초점: 폐기물 재활용"
+ tech_recycle_economy_desc:0 " "
+ 
+ tech_mining_economy:0 "생산 초점: 광업"
+ tech_mining_economy_desc:0 " "
+ 
+ tech_milind_economy:0 "생산 초점: 군사 산업"
+ tech_milind_economy_desc:0 " "
+ 
+ tech_energy_economy:0 "생산 초점: 전력 산업"
+ tech_energy_economy_desc:0 " "
+ 
+ policy_energy_focus:0 "발전"
+ policy_energy_focus_name:0 "발전"
+ policy_energy_focus_desc:0 " "
+ 
+ energy_focus_green:0 "깨끗한 생성"
+ energy_focus_green_name:0 "깨끗한 생성"
+ energy_focus_green_desc:0 " "
+ 
+ 
+ energy_focus_fossil:0 "제한 없는 생성"
+ energy_focus_fossil_name:0 "제한 없는 생성"
+ energy_focus_fossil_desc:0 " "
+ 
+ 
+ xeno_congress:0 "생물학자 의회"
+ xeno_congress_desc:0 "생물체의 연구에 광신적으로 몰두하는 과두정으로 과학자들의 협회가 모든 것을 결정한다."
+ 
+ adv_xeno_congress:0 "외계생물학 모임"
+ adv_xeno_congress_desc:0 "외계 생멸체들의 세상과 문명을 연구하는 데에 광적으로 몰두하는 과학자들의 협회가 정부를 감독하고 있습니다."
+ 
+ trait_machine_worship:0 "기계 숭배자"
+ trait_machine_worship_desc:0 "모든 종류의 로봇들이 신앙에 어긋나지 않게 하는 특이한 특성입니다."
+ 
+ trait_xeno_interference:0 "열광적인 외계종 애호가"
+ trait_xeno_interference_desc:0 "이 매우 특별한 특성은 모든 종류의 외계종 연구에 대해 탁월한 끈기를 제공합니다."
+ 
+ 
+ 
+ requirement_dense_jungle:0 "§R빽빽한 밀림 근처에만 건설할 수 있습니다.§!"
+ requirement_dangerous_wildlife:0 "§R위험한 야생생물 근처에만 건설할 수 있습니다.§!"
+ requirement_noxious_swamp:0 "§R유독성 늪지 근처에만 건설할 수 있습니다.§!"
+ requirement_toxic_kelp:0 "§독성 해조류 근처에만 지을 수 있습니다.§!"
+ 
+ tech_intense_eco_study:0 "선진 외계 생태학"
+ tech_intense_eco_study_desc:0 " "
+ 
+ building_jungle_surveying:0 "울창한 정글 측량 캠프"
+ building_jungle_surveying_desc:0 " "
+ 
+ building_wildlife_surveying:0 "위험한 야생생물 조사 캠프"
+ building_wildlife_surveying_desc:0 " "
+ 
+ building_swamp_surveying:0 "유독성 늪 측량 캠프"
+ building_swamp_surveying_desc:0 " "
+ 
+ building_ocean_surveying:0 "독성 해조류 조사 캠프"
+ building_ocean_surveying_desc:0 " "
+ 
+ mission_deep_observation:0 "심층 외계종 연구"
+ mission_deep_observation_desc:0 " "
+ 
+ building_xeno_hatchery:0 "외계종 부화장"
+ building_xeno_hatchery_desc:0 " "
+ 
+ building_xeno_zoo_garden:0 "외계종 동물원"
+ building_xeno_zoo_garden_desc:0 " "
+ 
+ tech_xeno_hatchery:0 "외계 애완동물의 자손"
+ tech_xeno_hatchery_desc:0 " "
+ 
+ sr_alien_pets_brood:0 "외계 애완동물의 자손"
+ sr_alien_pets_brood_desc:0 "인공적으로 배양된 외계 애완동물의 자손입니다."
+ 
+ building_tribal_surveying:0 "원주민 보호 조사 캠프"
+ building_tribal_surveying_desc:0 " "
+ requirement_tribal_settlement:0 "§R원주민 보호 구역 근처에만 지을 수 있습니다.§!"
+ 
+ tech_big_brother:0 "교리: 사고 통제"
+ tech_big_brother_desc:0 " "
+ 
+ tech_biotechnology_advancement:0 "과학 혁명: 생명공학"
+ tech_biotechnology_advancement_desc:0 " "
+ 
+ eco_utopia_adv:0 "조화로운 의식"
+ eco_utopia_desc:0 "§L이 정부는 자연주의적 민주주의의 진보된 형태입니다. 사회는 그들이 살고 있는 어떤 행성과도 완전한 영적, 생리적 통일을 이루는 데 초점을 맞추고 있습니다. 생태계의 조화를 보존하는 데 신경을 쓰면서, 그들은 지형의 문제에 깊이 관여합니다.§!"
+ 
+ tech_set_confederation:0 "교리: 지방 분권"
+ tech_set_confederation_desc:0 " "
+ 
+ tech_private_armies:0 "교리: 기업 사병"
+ tech_private_armies_desc:0 " "
+ 
+ military_corps:0 "군국화 기업 정치"
+ military_corps_desc:0 "군대의 부분적인 민영화로 유지비를 크게 줄일 수 있습니다. 그러나 기업의 군국화와 함께, 그들의 독립성도 불가피하게 커집니다."
+ 
+ cyber_dictatorship:0 "사이버네틱 의식"
+ cyber_dictatorship_desc:0 "자각적인 AI가 통치 모든 측면을 관장하는 궁극적인 형태의 물질주의적 독재체제로서, 사이보그가 주요 행정직을 대부분 맡고 있으며 자동화가 잠재력을 십분 발휘합니다."
+ cyber_dictatorship_special:0 "각 통치자는 엘리트 사이보그 군대를 만들 수 있습니다."
+ 
+ tech_nazi_empire:0 "교리: 국민적 단결"
+ tech_nazi_empire_desc:0 " "
+ 
+ nazi_empire:0 "민족주의 독재정"
+ nazi_empire_desc:0 "강력한 지도자에 의존하는 전체주의적이고 제국주의적인 정부. 사회는 궁극적인 가치로서의 '국가'와 외교정책의 주요 수단인 군사력을 중심으로 형성되어 있습니다."
+ 
+ tech_cyber_society:0 "교리: 사이버네틱 사회"
+ tech_cyber_society_desc:0 " "
+ 
+ RT_CHIEFTAIN:0 "치안판사"
+ 
+ ETHIC_REBUILD_TECH_UNLOCK_SOC_TITLE:0 "§H기능 잠금해제:§! 광적인 자유주의/집단주의자들은 심화된 정부 형태로서 '무정부주의적 공산주의'를 선택할 수 있습니다."
+ ETHIC_REBUILD_TECH_UNLOCK_SOC_DESC:0 "§H광적인 자유주의/집단주의자들은 심화된 정부 형태로서 '무정부주의적 공산주의'를 선택할 수 있습니다."
+ 
+ ETHIC_REBUILD_TECH_UNLOCK_CYBER_SOC_TITLE:0 "§H기능 잠금해제:§! 심화된 정부 형태로서 '사이버네틱 연방'을 선택할 수 있습니다."
+ ETHIC_REBUILD_TECH_UNLOCK_CYBER_SOC_DESC:0 "§H심화된 정부 형태로서 '사이버네틱 연방'을 선택할 수 있습니다."
+ 
+ ETHIC_REBUILD_TECH_UNLOCK_BIOTECH_TITLE:0 "§H기능 잠금해제:§! 심화된 정부 형태로서 '생명공학 연합체'를 선택할 수 있습니다."
+ ETHIC_REBUILD_TECH_UNLOCK_BIOTECH_DESC:0 "§H심화된 정부 형태로서 '생명공학 연합체'를 선택할 수 있습니다."
+ 
+ ETHIC_REBUILD_TECH_UNLOCK_BIG_BROTHER_TITLE:0 "§H기능 잠금해제:§! '사고 통제' 승천 퍽을 선택할 수 있습니다."
+ ETHIC_REBUILD_TECH_UNLOCK_BIG_BROTHER_DESC:0 "§H'사고 통제' 승천 퍽을 선택할 수 있습니다."
+ 
+ ETHIC_REBUILD_TECH_UNLOCK_NAZI_TITLE:0 "§H기능 잠금해제:§! 심화된 정부 형태로서 '민족주의 독재정권'을 선택할 수 있습니다."
+ ETHIC_REBUILD_TECH_UNLOCK_NAZI_DESC:0 "§H심화된 정부 형태로서 '민족주의 독재정권'을 선택할 수 있습니다."
+ 
+ ETHIC_REBUILD_TECH_UNLOCK_CORP_ARMY_TITLE:0 "§H기능 잠금해제:§! 심화된 정부 형태로서 '군국화된 기업 정치'를 선택할 수 있습니다."
+ ETHIC_REBUILD_TECH_UNLOCK_CORP_ARMY_DESC:0 "§H심화된 정부 형태로서 '군국화된 기업 정치'를 선택할 수 있습니다."
+ 
+ ETHIC_REBUILD_TECH_UNLOCK_CONFEDERATION_TITLE:0 "§H기능 잠금해제:§! 정부를 분권화하고 '항성 연방'(자유주의) 또는 '항성 봉건제'(권위주의)로 전환할 수 있습니다."
+ ETHIC_REBUILD_TECH_UNLOCK_CONFEDERATION_DESC:0 "§H정부를 분권화하고 '항성 연방'(자유주의) 또는 '항성 봉건제'(권위주의)로 전환할 수 있습니다."
+ 
+ dec_bureaucracy:0 "항성 평의회"
+ dec_bureaucracy_desc:0 "이 정부는 과두정으로서, 권력은 국가의 모든 문제를 관장하는 거대한 관료적 엔진을 운영하는 이사 위원회와 다른 여러 임원들에게 달려 있습니다."
+ star_bureaucracy:0 "성간 행정부"
+ star_bureaucracy_desc:0 "이 정부는 과두정의 심화된 형태로서, 지속적으로 팽창하는 성간 국가의 다양한 문제들을 수없이 많은 서로 다른 사무실들이 처리합니다. 내부 집권 세력은 자신들의 이익을 대변하는 최고위급 간부들로 구성되어 있습니다."
+ 
+ START_SCREEN_PART_TWO_DEC_BUREAUCRACY:0 " "
+ 
+ START_SCREEN_PART_TWO_POLICE_STATE:0 "수세기 동안 사회 내부의 이견과 갈등을 겪으면서 우리는 우리에게 중앙집권적 최고권력이 필요하고, 시민의 안전과 범죄의 통제는 군경이 수행해야 한다고 결론내렸습니다. 결국, 우리는 행성 국가의 철권 아래 단결했습니다. 완전한 감시와 모든 범죄 행위의 억제 덕분에, 이는 우리에게 좋은 미래를 제공해 줄 것입니다."
+ 
+ START_SCREEN_PART_TWO_ECO_DEMOCRACY:0 "차츰, 우리 사회는 자연에 값을 매길 수 없다는 것을 이해하게 되었습니다. 우리는 동식물의 무결성을 보호한다는 원칙에 입각한 민주적인 행성 국가를 설립했습니다. 우리는 자연이 우리에게 주는 것에 감사하며, 그녀에게 똑같이 지불합니다. 우리의 마음속에 조화를 품고 미래로 나아가, 우리는 우리의 세계뿐만 아니라 은하계 전체를 돌볼 것입니다."
+ 
+ START_SCREEN_PART_TWO_DRONE_COA:0 "오랜 세월 동안 우리 국민은 폭정과 억압에 시달려 왔습니다. 정의를 실현하기 위해 우리들-노동계급은 일어났고 노동 조합을 핵심으로 하는 행성 정부를 수립했습니다. 이제부터 국가는 국민에 대해 관심을 가질 것이며, 모든 사람들에게 적절한 급여와 삶의 질을 제공할 것입니다. 하나로 뭉치면 우리는 한번도 닿아 본 적 없는 높은 곳까지 도달할 수 있습니다."
+ 
+ START_SCREEN_PART_TWO_SOC_DEM:0 "우리의 문명은 파괴적인 전쟁, 고립된 국가, 소외된 마음을 헤쳐나갔습니다. 그러나 갈등에는 아무런 의미도 없다는 것을 깨달은 순간이 왔고, 이제는 평화롭게 단결해야 할 때입니다. 우리는 오로지 시민들과 공동선에 바탕을 둔 행성 정부를 만들었습니다. 민주적인 선거, 사회 보장, 그리고 모두를 위한 정의 - 이 모든 것들은 우리가 악순환의 고리를 끊을 수 있게 해주었습니다. 그리고 이제, 진정으로 시민들을 돌보는 정부와 함께, 우리는 별을 향해 손을 뻗을 준비가 되었습니다!"
+ 
+ START_SCREEN_PART_TWO_CAP_AUTOCRACY:0 " 서로 다른 경제 모델을 시도하면서 우리는 웰빙의 열쇠가 개인의 자주성이라는 것을 알게 되었습니다. 그러나 광란적이고 야생적인 자유시장이 우리의 문명을 거의 파괴한 후, 정부는 엄격한 감독하에 재정적인 흐름을 취해야 했습니다. 이제 우리 재산의 대부분은 국영기업에 속해있고, 사업은 거대한 관료체제에 의해 규제되고 있습니다. 통치자의 신중한 선택은 전체 시스템의 지속 가능성을 보장합니다."
+ 
+ START_SCREEN_PART_TWO_CASTE:0 "역사를 통틀어 많은 우스꽝스럽고 기괴한 정부 형태들이 서로 꼬리를 물며 등장했습니다. 사회적 조화를 보존하기 위해, 우리는 모두가 누군가의 주인이자 누군가의 노예인 이 사회를 만들었습니다. 결국, 모든 톱니바퀴가 제자리를 찾았고 완벽한 정부가 행성 전체를 지배했습니다."
+ 
+ START_SCREEN_PART_TWO_COMMUNISM:0 "오랫동안 우리의 행성은 서로 다른 나라들로 분열되어 있었고, 자원은 탐욕스러운 자본가들이 제각기 나누어 차지하고 있었습니다- 마지막 한 명의 시민까지도 걱정해 주는 현명한 지도자가 우리를 통합하기 위해 도착할 때까지 말입니다. 그는 행성 전체를 운영하기 위해 행정부를 이끌었습니다. 계획경제로의 전환은 생산율의 급속한 증가와 노동계층의 번영을 가져왔습니다. 초과된 자원은 오랜 꿈을 실현하도록 지시되었습니다..."
+ 
+ START_SCREEN_PART_TWO_COMMUNIST_DICTATORSHIP:0 "나는 존재합니다. 나는 마음입니다. 나의 몸은 우리 종족의 근간을 이루는 종속적인 유기체들로 이루어져 있습니다. 나는 이 약한 생물들을 지배하기 시작했고 우리는 행성 전체를 정복할 수 있었습니다. 나는 연구, 건설, 전쟁을 돕기 위해 그들 중 몇 명에게 놀라운 지적 능력을 주었습니다. 그러나 그들은 그들 자신의 의지가 없습니다. 나는 그들의 의지입니다. 하급자는 상급자에게 복종하고, 상급자는 나에게 노예일 뿐입니다. 나는 중추이자 심장입니다. 나에 대한 유일한 대안은 죽음입니다. 난 무리이고 무리는 나이기에, 나는 우리 종족을 영원으로 이끌 것입니다."
+ 
+ START_SCREEN_PART_TWO_SOCIAL_DEMOCRACY:0 "여러 시대의 서로 죽고 죽이는 전쟁은 우리에게 그것이 얼마나 무의미한지만을 보여주었습니다. 마지막 전쟁이 끝나자마자, 우리 경제는 급격히 성장했습니다. 상품의 질뿐만 아니라 거래량도 증가했습니다. 이는 결국 사회적 번영과 부를 무엇보다도 중요시하는 사회의 발전을 이끌었습니다. 최고 수준의 삶의 질은 행성 전체의 통합에 있어 핵심 요소였습니다."
+ 
+ tech_terraform_barren:0 "불모형 행성 테라포밍"
+ tech_terraform_barren_desc:0 " "
+ 
+ tech_terraform_frozen:0 "얼음형 행성 테라포밍"
+ tech_terraform_frozen_desc:0 " "
+ 
+ tech_terraform_molten:0 "용암형 행성 테라포밍"
+ tech_terraform_molten_desc:0 " "
+ 
+ RT_HIGH_OVERSEER:0 "고등 감독관"
+ 
+ RT_STAR_RULER:0 "별의 지배자"
+ RT_STAR_MISTRESS:0 "별의 여주인"
+ 
+ abs_monarchy:0 "봉건 군주제"
+ abs_monarchy_desc:0 "강력한 중앙 봉건적 권위로 이루어진 독재적인 형태의 정부로서, 신하들이 정부를 견제하고 사회학적, 군사적으로 사회의 중추적 역할을 합니다. 국가는 영지로 분할되어 있으며, 귀족들은 그들의 영토를 관리하고 왕립군의 일부를 유지합니다."
+ adv_abs_monarchy:0 "항성 패권"
+ adv_abs_monarchy_desc:0 "강력한 중앙 봉건적 권위로 이루어진 독재적인 형태의 정부로서, 신하들이 정부를 견제하고 사회학적, 군사적으로 사회의 중추적 역할을 합니다. 국가는 영지로 분할되어 있으며, 귀족들은 그들의 영토를 관리하고 왕립군의 일부를 유지합니다."
+ START_SCREEN_PART_TWO_ABS_MONARCHY:0 "우리의 봉건 국가는 권력과 부를 위해 싸우는 소영주들 사이에서 수많은 사소한 갈등의 피비린내 나는 역사를 만들어냈습니다. 결국 가장 강력한 독립 영지 하나만이 남았고, 그 후 왕이 과학을 발전시킨 세계적 통치자의 칭호를 주장하면서 중대한 기술적 도약이 뒤따랐습니다."
+ 
+ 
+ 
+ 
+ personality_utopia_builders:0 "유토피아 건설자"
+ personality_utopia_builders_desc:0 "유토피아 건설자들은 그들 종족의 경제적, 사회적 번영을 무엇보다도 중요하게 여깁니다. 정부는, 그 규모에 상관없이, 누구도 어떤 필요나 질병, 가난으로 고통받지 않도록 하기 위해 존재합니다."
+ 
+ personality_adventurous_expansionist:0 "공격적인 확장주의자"
+ personality_adventurous_expansionist_desc:0 "공격적인 확장주의자들은 은하를 자신들의 유산으로 보고 있습니다. 그들은 대부분 그들이 도달할 수 있는 우주의 모든 어두운 구석에 그들의 영향력을 전파하는 데 초점을 맞추고 있습니다."
+ 
+ personality_paranoid_isolationists:0 "편집증적인 고립주의자"
+ personality_paranoid_isolationists_desc:0 "편집증적인 고립주의자들은 외부 세계로부터 완전히 고립되기를 바랍니다. 그들은 자기 일에만 신경을 쓰고, 다른 사람들도 그렇게 하는 것을 선호할 것입니다."
+ 
+ RT_HIGH_TECHNICIAN:0 "스카이넷"
+ RT_HTECH:0 "첫 번째 시민"
+ RT_GENSEK:0 "서기장"
+ HT_DEPUTY_SEK:0 "차관보"
+ RT_SENIOR_COORDINATOR:0 "수석 조정관"
+ RT_CEO:0 "주재관"
+ RT_CEO_1:0 "최고 경영자"
+ RT_CHIEF:0 "전제 군주"
+ HT_DEFMINISTER:0 "국방부 장관"
+ RT_KEEPER:0 "신황제"
+ HT_COUNS:0 "집사"
+ RT_WARDEN:0 "관리인"
+ RT_THANE:0 "종사"
+ RT_HTHANE:0 "최고위 종사"
+ RT_CURATOR:0 "큐레이터"
+ HT_COMAN:0 "사령관"
+ RT_HCOM:0 "최고 사령관"
+ RT_DOM:0 "지배자"
+ HT_CHCOMAN:0 "최고사령관"
+ RT_HEMPEROR:0 "고귀한 황제"
+ HT_HPRINCE:0 "고귀한 왕자"
+ RT_DRULER:0 "신성한 대군주"
+ HT_DPRINCE:0 "신성한 왕자"
+ RT_DQUEEN:0 "신성한 여주인"
+ HT_DPRINCESS:0 "신성한 공주"
+ RT_HEMPERESS:0 "고귀한 여제"
+ HT_HPRINCESS:0 "고귀한 공주"
+ RT_SGEN:0 "사무총장"
+ RT_PRINCEPS:0 "프린켑스"
+ RT_MOD:0 "중재자"
+ RT_SUP:0 "감독관"
+ RT_CHSUP:0 "수석-감독관"
+ RT_SUPRE:0 "최고 지도자"
+ HT_1COUNS:0 "제 1 상담사"
+ RT_PRIME:0 "네트워크 관리자"
+ RT_NAZLEADER:0 "국가 지도자"
+ HT_PRINCE:0 "왕자"
+ HT_PRINCESS:0 "공주"
+ RT_UNION:0 "노조위원장"
+ RT_LABOUR:0 "노동당 위원장"
+ RT_GR_EMPEROR:0 "위대한 황제"
+ RT_GR_EMPRESS:0 "위대한 여제"
+ RT_IRON_LORD:0 "제 1 기계공"
+ HT_IRON_PRINCE:0 "숙련된 기계공"
+ RT_HIGH_OVERSEER:0 "고등 감독관"
+ RT_STAR_RULER:0 "별의 지배자"
+ RT_STAR_MISTRESS:0 "별의 여주인"
+ 
+ policy_mass_media:0 "대중 매체"
+ policy_mass_media_name:0 "대중 매체"
+ policy_mass_media_desc:0 " "
+ 
+ free_mass_media:0 "자유로운 미디어"
+ free_mass_media_name:0 "자유로운 미디어"
+ free_mass_media_desc:0 " "
+ 
+ state_mass_media:0 "국영방송"
+ state_mass_media_name:0 "국영방송"
+ state_mass_media_desc:0 " "
+ 
+ 
+ gov_direct_democracy:0 "사이버 민주주의"
+ RT_FIRST_SPEAKER:0 "감독관"
+ 
+ RT_DEMOS_CRATOS:0 "첫 번째 연사"
+ 
+ power_plant_construction_speed_mult:0 "발전소 건설 속도"
+ science_lab_construction_speed_mult:0 "과학 연구소 건설 속도"
+ autochthon_monument_construction_speed_mult:0 "원주민 기념비 건설 속도"
+ autochthon_monument_build_cost_mult:0 "원주민 기념비 건설 비용"
+ 
+ POP_ATTRACTION_SOCIOLOGIST_POS:0 "§G+ 타고난 사회학자 특성 POP§!"
+ POP_ATTRACTION_CONSERVATIONAL_POS:0 "§G+ 보호론자 특성 POP§!"
+ POP_ATTRACTION_WASTEFUL_NEG:0 "§R- 절약 특성 POP§!"
+ POP_ATTRACTION_THRIFTY_POS:0 "§G+ 절약 특성 POP§!"
+ POP_ATTRACTION_CONSERVATIONAL_NEG:0 "§R- 보호론자 특성 POP§!"
+ POP_ATTRACTION_WASTEFUL_POS:0 "§G+ 낭비벽 특성 POP§!"
+ POP_ATTRACTION_AGRARIAN_POS:0 "§G+ 농경 특성 POP§!"
+ POP_ATTRACTION_ADAPTIVE_POS:0 "§G+ 적응력 특성 POP§!"
+ POP_ATTRACTION_INDUSTRIOUS_NEG:0 "§R- 근면한 특성 POP§!"
+ POP_ATTRACTION_INDUSTRIOUS_POS:0 "§G+ 근면한 특성 POP§!"
+ POP_ATTRACTION_ENGINEERS_POS:0 "§G+ 타고난 공학자 특성 Pop§!"
+ POP_ATTRACTION_AGRARIAN_NEG:0 "§R- 농경 특성 POP§!"
+ POP_ATTRACTION_PLANNED_ECONOMY_POS:0 "§G+ 계획경제 정책§!"
+ POP_ATTRACTION_FREE_MARKET_NEG:0 "§R- 자유시장경제 구현§!"
+ POP_ATTRACTION_PLANNED_ECONOMY_NEG:0 "§R- 계획경제 구현§!"
+ POP_ATTRACTION_FREE_MARKET_POS:0 "§G+ 자유시장경제 정책§!"
+ POP_ATTRACTION_LEADER_ENHANCE_POS:0 "§G+ 지도자 비자연적 강화 허용§!"
+ POP_ATTRACTION_OLIGARCH_GOV_POS:0 "§G+ 과두정§!"
+ POP_ATTRACTION_CONFORMISTS_POS:0 "§G+ 순응주의자 특성 POP§!"
+ POP_ATTRACTION_DEVIANTS_NEG:0 "§R- 일탈자 특성 POP§!"
+ POP_ATTRACTION_EGALITARIAN_POS:0 "§G+ 자유주의 통치 윤리관§!"
+ POP_ATTRACTION_EGALITARIAN_NEG:0 "§R- 자유주의 통치 윤리관§!"
+ POP_ATTRACTION_TALENTED_POS:0 "§G+ 재능아 특성 POP§!"
+ POP_ATTRACTION_SLOW_LEARN_NEG:0 "§R- 느린 습득 특성 POP§!"
+ POP_ATTRACTION_SLOW_LEARN_POS:0 "§G+ 느린 습득 특성 POP§!"
+ POP_ATTRACTION_QUICK_LEARN_POS:0 "§G+ 빠른 습득 특성 POP§!"
+ POP_ATTRACTION_TALENTED_NEG:0 "§R- 재능아 특성 POP§!"
+ 
+ POP_ATTRACTION_GREEN_POS:0 "§G+ 자연주의 통치 윤리관§!"
+ POP_ATTRACTION_GREEN_NEG:0 "§R- 자연주의 통치 윤리관§!"
+ POP_ATTRACTION_INDUSTRIAL_POS:0 "§G+ 산업주의 통치 윤리관§!"
+ POP_ATTRACTION_INDUSTRIAL_NEG:0 "§R- 산업주의 통치 윤리관§!"
+ 
+ 
+ civic_waste_recycle:0 "폐기물 재활용"
+ 
+ civic_land_construction:0 "토지 건설"
+ civic_space_engineering:0 "우주 공학"
+ 
+ civic_timocracy:0 "금권정치"
+ civic_timocracy_desc:0 "이 정부는 '국민 귀족제'의 한 형태로서, 공화국은 시민과 지위를 선택된 이들에게 국한시키기 위해 더 많은 국민의 대부분의 권리를 정지시켰습니다. §H민주주의§! 권력 구조에서의 §H계급 제도§! 사회 형태를 허용합니다."
+ 
+ 
+ 
+ gov_demos_cratos:0 "직접 민주주의"
+ gov_demos_cratos_desc:0 "이 정부는 국민이 직접 투표나 합의를 통해 정책 구상을 결정하는 민주주의의 한 형태입니다."
+ auth_democratic:0 "간접 민주주의"
+ auth_democratic_desc:0 "간접 민주주의 국가는 누구를 대표자로 뽑을 것인지 시민 모두가 투표할 수 있는 정기적인 선거를 치릅니다."
+ 
+ gov_plutocratic_oligarchy:0 "금권적 과두정"
+ gov_plutocratic_oligarchy_desc:0 "이 정부는 국가의 모든 문제를 관장하는 거대한 관료적 엔진을 가동하는 강력하고 영향력 있는 지도자들의 위원회에 권력이 집중된 과두정의 한 형태입니다."
+ 
+ 
+ gov_anarchy_state:0 "무정부 노동조합주의"
+ gov_anarchy_state_desc:0 "무정부 노동조합주의 사회의 기본 원칙은 연대, 직접민주주의, 노동자의 자기관리이다. 노동조합주의자들은 그들의 경제이론을 노동자의 자기 활동을 촉진하는 전략이자, 민주주의적 가치와 국민의 요구에 부응하는 생산 중심의 대안적인 협력적 경제체제로 간주한다."
+ 
+ 
+ 
+ 
+ civic_tooltip_green:0 "어느 정도 §Y자연주의§!적임"
+ civic_tooltip_not_green:0 "§Y자연주의§!가 아님"
+ civic_tooltip_industrial:0 "어느 정도 §Y산업주의§!적임"
+ civic_tooltip_not_industrial:0 "§Y산업주의§!가 아님"
+ 
+ civic_tooltip_elitist:0 "어느 정도 §Y엘리트주의§적임"
+ civic_tooltip_not_elitist:0 "§Y엘리트주의§!가 아님"
+ civic_tooltip_pluralist:0 "어느 정도 §Y평등주의§!적임"
+ civic_tooltip_not_pluralist:0 "§Y평등주의§!가 아님"
+ 
+ 
+ ETHIC_HAPPY_FACTIONS_2:0 "§E§H전체주의자§!를 제외한 모든 파벌은 §G+5§! §H행복도§!를 얻습니다."
+ 
+ 
+ temple_build_cost_mult:0 "사원 건설 비용"
+ temple_construction_speed_mult:0 "사원 건설 속도"
+ 
+ 
+ edict_voice_people:0 "자유 축제"
+ edict_voice_people_desc:0 " "
+ 
+ pft_bankers:0 "기업가 파벌"
+ pft_bankers_desc:1 "기업가 파벌은 공정하고 정의로운 경쟁의 틀에서 시장 경제의 발전에 주로 관심을 갖는 민간 기업가들과 기업들의 이익을 대변합니다.\n\n§L경쟁주의 윤리관§!"
+ pft_socialists:0 "노동당원 파벌"
+ pft_socialists_desc:1 "노동당원 파벌은 노동자 계급의 이익을 대변하며 기존의 사회 구조 내에서 차별이 완전히 사라지기를 원합니다.\n\n§L협동주의 윤리관§!"
+ pft_manufacturers:0 "산업주의자 파벌"
+ pft_manufacturers_desc:1 "이들 파벌의 구성원들은 지속적으로 증가하는 산업 성장을 경제적 번영의 주요 동력으로 간주합니다. 일반적으로 모든 종류의 친환경 정책에 반대합니다.\n\n§L인류중심주의 정신§!"
+ pft_labourites:0 "평등주의 파벌"
+ pft_labourites_desc:1 "평등주의자들은 인종, 성별, 나이, 부 등으로 특징지어지는 다양한 사회 집단 사이의 모든 형태의 편견과 차별에 맞서 싸웁니다.\n\n§L평등주의 윤리관§!"
+ pft_environmentalists:0 "친환경주의자 파벌"
+ pft_environmentalists_desc:1 "환경 운동가들은 자연 환경의 질을 보호하고 개선하는 방법을 모색하며 모든 종류의 환경 유해 활동에 정치적으로 반대합니다.\n\n§L생태주의 윤리관§!"
+ pft_conservatives:0 "엘리트주의 파벌"
+ pft_conservatives_desc:0 "엘리트주의자들은 일반적으로 다른 사람들보다 더 큰 영향력이나 권위를 가질 자격이 있는 고유한 자질을 가진 사람들의 그룹인 "엘리트"의 개념을 보존합니다. 그들은 사회 계층을 지속 가능한 사회의 필수적인 부분으로 간주합니다.\n\n§L엘리트주의 윤리관§!"
+ pft_progressive:1 "민주주의자 파벌"
+ pft_progressive_desc:1 "진보주의자 파벌은 개인의 정치적 자유와 중앙 정부 권위의 축소를 선호하며, 일반적으로 비민주적인 형태의 정부를 싫어합니다.\n\n§L자유주의 윤리관§!"
+ 
+ policy_mass_media:0 "대중 매체"
+ 
+ none_mass_media:0 "없음"
+ none_mass_media_desc:0 " "
+ 
+ policy_transportation_logistics:0 "운송 & 물류"
+ policy_transportation_logistics_desc:0 "운송 인프라를 전문화할 수 있습니다."
+ 
+ 
+ 
+ civilian_transport_adv:0 "민간 (심화)"
+ civilian_transport_adv_name:0 "민간 (심화)"
+ civilian_transport_adv_desc:0 "식민지 간의 정기적인 민간 이주"
+ 
+ administrative_transport:0 "행정"
+ administrative_transport_name:0 "행정"
+ administrative_transport_desc:0 "식민지 행정 통제 강화"
+ 
+ administrative_transport_adv:0 "행정 (고급)"
+ administrative_transport_adv_name:0 "행정 (고급)"
+ administrative_transport_adv_desc:0 "식민지 행정 통제 강화"
+ 
+ military_transport_adv:0 "군사 (심화)"
+ military_transport_adv_name:0 "군사 (심화)"
+ military_transport_adv_desc:0 "군함대 지원 확대"
+ 
+ trade_transport:0 "무역"
+ trade_transport_name:0 "무역"
+ trade_transport_desc:0 "향상된 식민지 간 거래"
+ 
+ trade_transport_adv:0 "무역 (심화)"
+ trade_transport_adv_name:0 "무역 (심화)"
+ trade_transport_adv_desc:0 "향상된 식민지 간 거래"
+ 
+ supply_transport:0 "식민지 보급"
+ supply_transport_name:0 "식민지 보급"
+ supply_transport_desc:0 "식민지 개발 보급품 증가함"
+ 
+ supply_transport_adv:0 "(발전한) 식민지 보급품"
+ supply_transport_adv_name:0 "(발전한) 식민지 보급품"
+ supply_transport_adv_desc:0 "식민지 개발 보급품 증가함"
+ 
+ 
+ ap_thought_control:0 "전체주의 지상낙원"
+ ap_thought_control_desc:0 "제국의 정부는 민중을 안정시키고 절대적인 충성심과 외부 사상에 대한 저항을 보장하기 위해 신경 화학, 정신 공학 및 신경 언어학의 최신 혁신 기술을 사용합니다.\n특정 방향으로 공동체적 정신을 변화시키기 위해 국민을 교화할 수 있게 하는 §Y교화§! 제국 시행령을 잠금해제합니다."
+ requires_technology_big_brother:1 "$TRIGGER_FAIL$§Y광적인 권위주의§! 윤리관이나 §Y사고 통제 국가§! 사회제도를 필요로 합니다."
+ 
+ 
+ POP_ATTRACTION_SOCIALISM_POS:0 "§G+ 협동주의 통치 윤리관§!"
+ POP_ATTRACTION_RULER_TRAIT_FERTILITY_POS:0 "§G+ '풍요 전도사' 통치자 특성§!"
+ POP_ATTRACTION_CIVIC_POS:0 "§G+ 활성화된 사회제도§!"
+ POP_ATTRACTION_SOCIOLOGIST_POS:0 "§G+ 타고난 사회학자 특성 POP§!"
+ POP_ATTRACTION_COMMUNAL_POS:0 "§G+ 공동체 특성 POP§!"
+ POP_ATTRACTION_RULER_TRAIT_INVESTOR_POS:0 "§G+ '투자자' 통치자 특성§!"
+ POP_ATTRACTION_THRIFTY_POS:0 "§G+ 절약 특성 POP§!"
+ POP_ATTRACTION_WASTEFUL_POS:0 "§G+ 낭비벽 특성 POP§!"
+ POP_ATTRACTION_CONSERVATIONAL_NEG:0 "§R- 보호론자 특성 POP§!"
+ POP_ATTRACTION_RULER_TRAIT_WORLD_SHAPER_POS:0 "§G+ '행성 조형가' 통치자 특성§!"
+ POP_ATTRACTION_AGRARIAN_POS:0 "§G+ 농경 특성 POP§!"
+ POP_ATTRACTION_ADAPTIVE_POS:0 "§G+ 적응력 특성 POP§!"
+ POP_ATTRACTION_INDUSTRIOUS_NEG:0 "§R- 근면한 특성 POP§!"
+ POP_ATTRACTION_RULER_TRAIT_INDUSTRIALIST_POS:0 "§G+ '산업 자본가' 통치자 특성§!"
+ POP_ATTRACTION_INDUSTRIOUS_POS:0 "§G+ 근면한 특성 POP§!"
+ POP_ATTRACTION_WASTEFUL_POS:0 "§G+ 낭비벽 특성 POP§!"
+ POP_ATTRACTION_ENGINEERS_POS:0 "§G+ 타고난 공학자 특성 Pop§!"
+ POP_ATTRACTION_AGRARIAN_NEG:0 "§R- 농경 특성 POP§!"
+ POP_ATTRACTION_FREE_MARKET_POS:0 "§G+ 자유시장경제 정책§!"
+ POP_ATTRACTION_PLANNED_ECONOMY_POS:0 "§G+ 계획경제 정책§!"
+ POP_ATTRACTION_OLIGARCH_GOV_POS:0 "§G+ 과두정§!"
+ POP_ATTRACTION_TALENTED_POS:0 "§G+ 재능아 특성 POP§!"
+ POP_ATTRACTION_DEVIANTS_NEG:0 "§R- 일탈자 특성 POP§!"
+ POP_ATTRACTION_CONFORMIST_POS:0 "§G+ 순응주의자 특성 POP§!"
+ POP_ATTRACTION_SLOW_LEARN_NEG:0 "§R- 느린 습득 특성 POP§!"
+ POP_ATTRACTION_QUICK_LEARN_NEG:0 "§R- 빠른 습득 특성 POP§!"
+ POP_ATTRACTION_SLOW_LEARN_POS:0 "§G+ 느린 습득 특성 POP§!"
+ POP_ATTRACTION_QUICK_LEARN_POS:0 "§G+ 빠른 습득 특성 POP§!"
+ POP_ATTRACTION_TALENTED_NEG:0 "§R- 재능아 특성 POP§!"
+ 
+ 
+ POWER_INDUSTRY:0 "발전된 전력 산업"
+ NO_POWER_INDUSTRY:0 "전력 산업"
+ POWER_INDUSTRY_DESC:0 "§Y전력 산업§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PRIVATE_PROPERTY:0 "민영화된 자산"
+ NO_PRIVATE_PROPERTY:0 "사유 재산"
+ PRIVATE_PROPERTY_DESC:0 "§Y사유 재산§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ CONSUMERISM:0 "소비주의"
+ NO_CONSUMERISM:0 "소비지상주의"
+ CONSUMERISM_DESC:0 "§Y소비주의§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ 
+ WEALTH_ACCUMULATION_2:0 "부"
+ NO_WEALTH_ACCUMULATION_2:0 "부의 축적"
+ WEALTH_ACCUMULATION_2_DESC:0 "항상 적어도 §Y7000§! 이상의 £energy£를 비축해두는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ WEALTH_ACCUMULATION_3:0 "부"
+ NO_WEALTH_ACCUMULATION_3:0 "부의 축적"
+ WEALTH_ACCUMULATION_3_DESC:0 "항상 적어도 §Y12000§! 이상의 £energy£를 비축해두는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ WEALTH_ACCUMULATION_4:0 "부"
+ NO_WEALTH_ACCUMULATION_4:0 "부의 축적"
+ WEALTH_ACCUMULATION_4_DESC:0 "항상 적어도 §Y18000§! 이상의 £energy£를 비축해두는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ MARKET_ECONOMIC_STRATEGIES:0 "경제 집중"
+ NO_MARKET_ECONOMIC_STRATEGIES:0 "경제 전략 설정"
+ MARKET_ECONOMIC_STRATEGIES_DESC:0 "특정한 §Y시장 경제 전략§! 정책을 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ 
+ WEALTH_INFRASTRUCTURE:0 "은하 증권 거래소"
+ NO_WEALTH_INFRASTRUCTURE:0 "은하 증권 시장 설립"
+ WEALTH_INFRASTRUCTURE_DESC:0 "§Y은하 증권 거래소§!를 건설하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PARLIAMENTARY_SYSTEM:0 "공개 토론회"
+ NO_PARLIAMENTARY_SYSTEM:0 "공개 토론회"
+ PARLIAMENTARY_SYSTEM_DESC:0 "발전된 §YPublic Discussion§!로 인해 제국의 정치 파벌들이 더 행복해집니다!"
+ 
+ SOCIAL_SECURITY:0 "사회적 불평등"
+ NO_SOCIAL_SECURITY:0 "사회적 불평등"
+ SOCIAL_SECURITY_DESC:0 "§Y보통§!, §Y계층 경제§! 또는 §Y학술적 특권§! 생활수준을 설정하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ HUMANITARIAN_SCIENCE:0 "의료 보조기금"
+ NO_HUMANITARIAN_SCIENCE:0 "의료 보조기금 없음"
+ HUMANITARIAN_SCIENCE_DESC:0 "§Y보건 캠페인§! 시행령을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ WELFARE_ECONOMY:0 "계획경제"
+ NO_WELFARE_ECONOMY:0 "시장 규제 철폐"
+ WELFARE_ECONOMY_DESC:0 "§Y계획경제§! 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ SOCIAL_ECONOMIC_STRATEGIES:0 "집중경제"
+ NO_SOCIAL_ECONOMIC_STRATEGIES:0 "경제 전략 설정"
+ SOCIAL_ECONOMIC_STRATEGIES_DESC:0 "특정한 §Y사회 경제 전략§! 정책을 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ COLLECTIVIST_TRADITION:0 "조화 전통"
+ NO_COLLECTIVIST_TRADITION:0 "조화 전통"
+ COLLECTIVIST_TRADITION_DESC:0 "§Y유토피아의 꿈§! 전통을 채택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ MINING_INDUSTRY:0 "개발된 광산업"
+ NO_MINING_INDUSTRY:0 "광산업 개발"
+ MINING_INDUSTRY_DESC:0 "§Y광업§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ LAND_CONSTRUCTION:0 "토지건설 개발됨"
+ NO_LAND_CONSTRUCTION:0 "토지 건설 개발"
+ LAND_CONSTRUCTION_DESC:0 "§Y토지 건설§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ SPACE_ENGINEERING:0 "우주공학 개발됨"
+ NO_SPACE_ENGINEERING:0 "우주공학 개발"
+ SPACE_ENGINEERING_DESC:0 "§Y우주 공학§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ MINERALS_ACCUMULATION_2:0 "풍부한 광물"
+ NO_MINERALS_ACCUMULATION_2:0 "광물 축적"
+ MINERALS_ACCUMULATION_2_DESC:0 "항상 적어도 §Y13000§! 이상의 £minerals£을 비축해두는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ MINERALS_ACCUMULATION_3:0 "풍부한 광물"
+ NO_MINERALS_ACCUMULATION_3:0 "광물 축적"
+ MINERALS_ACCUMULATION_3_DESC:0 "항상 적어도 §Y7000§! 이상의 £minerals£을 비축해두는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ OWN_RICH_WORLD:0 "풍부한 광물 행성"
+ NO_OWN_RICH_WORLD:0 "풍부한 광물 행성"
+ OWN_RICH_WORLD_DESC:0 "§Y풍부한 광물§! 행성을 소유하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ OWN_ANCIENT_TECH:0 "고대 기술 행성"
+ NO_OWN_ANCIENT_TECH:0 "고대 기술 행성"
+ OWN_ANCIENT_TECH_DESC:0 "어떠한 종류던 고대 산업 기술을 가진 행성을 소유하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ INDUSTRY_ASCENSION_1:0 "은하급 공학"
+ NO_INDUSTRY_ASCENSION_1:0 "은하급 공학"
+ INDUSTRY_ASCENSION_1_DESC:0 "§Y은하의 불가사의§! 승천 퍽을 채택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ INDUSTRY_ASCENSION_2:0 "영광스런 은하급 공학"
+ NO_INDUSTRY_ASCENSION_2:0 "영광스런 은하급 공학"
+ INDUSTRY_ASCENSION_2_DESC:0 "§Y축조의 달인§! 승천 퍽을 채택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ INDUSTRY_POLICY:0 "산업경제의 주 쟁점"
+ NO_INDUSTRY_POLICY:0 "산업경제의 주 쟁점 설정"
+ INDUSTRY_POLICY_DESC:0 "§Y산업 경제§! 정책을 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ LABOURITE_NO_OLIGARCHY:0 "엘리트주의 금지"
+ LABOURITE_OLIGARCHY:0 "반 엘리트주의"
+ LABOURITE_NO_OLIGARCHY_DESC:0 "§Y과두정§! 혹은 §Y제정§! 정부 체제를 폐지하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ LABOUR_UNIONS:0 "노동 공동체"
+ NO_LABOUR_UNIONS:0 "노동 공통체"
+ LABOUR_UNIONS_DESC:0 "§Y노동 조합§! 또는 §Y드론 형제단§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TERRAFORMING_INDUSTRY:0 "테라포밍 산업"
+ NO_TERRAFORMING_INDUSTRY:0 "테라포밍 산업"
+ TERRAFORMING_INDUSTRY_DESC:0 "§Y테라포밍§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ECO_NO_TOMB_WORLDS:0 "테라포밍된 무덤 행성"
+ ECO_TOMB_WORLDS:0 "무덤 행성을 테라포밍합니다"
+ ECO_NO_TOMB_WORLDS_DESC:0 "제국 국경선 내의 §Y무덤 행성§!을 테라포밍하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ECO_NO_TOXIC_WORLDS:0 "테라포밍된 독성 행성"
+ ECO_TOXIC_WORLDS:0 "독성 행성을 테라포밍합니다"
+ ECO_NO_TOXIC_WORLDS_DESC:0 "제국 국경선 내의 §Y독성 행성§!을 테라포밍하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ECO_NO_BARREN_WORLDS:0 "테라포밍된 불모형 행성"
+ ECO_BARREN_WORLDS:0 "불모형 행성을 테라포밍합니다."
+ ECO_NO_BARREN_WORLDS_DESC:0 "제국 국경선 내의 §Y테라포밍 후보지 불모형 행성§!을 테라포밍하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PROTECTED_BEAUTY:0 "보호된 아름다운 자연"
+ NO_PROTECTED_BEAUTY:0 "아름다운 자연 보호"
+ PROTECTED_BEAUTY_DESC:0 "§Y아름다운 자연§! 변동치를 가진 행성을 소유하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ECO_POLICY:0 "환경 경제"
+ NO_ECO_POLICY:0 "환경 경제"
+ ECO_POLICY_DESC:0 "특정한 §Y생태 경제§! 정책을 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ECO_MIN_WASTE:0 "낭비 최소화"
+ NO_ECO_MIN_WASTE:0 "낭비 최소화"
+ ECO_MIN_WASTE_DESC:0 "§Y생활수준§! 적정 최소치로 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ FEW_RULERS:0 "과두정"
+ NO_FEW_RULERS:0 "과두정"
+ FEW_RULERS_DESC:0 "§Y과두정§! 정부 체제로 전환하는 것은 [Root.GetName]을 행복하게 할 것입니다."
+ 
+ ELITE_RULE:0 "계층 사회"
+ NO_ELITE_RULE:0 "계층 사회"
+ ELITE_RULE_DESC:0 "일부 종족에 대한 계급 제도 또는 제한된 시민권 부여와 같은 정책을 통해 계층 사회를 유지하면 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ ELITE_COMMAND:0 "엘리트주의 군대"
+ NO_ELITE_COMMAND:0 "엘리트주의 군대"
+ ELITE_COMMAND_DESC:0 "일부 종족에 대한 제한 병역 또는 병역 면제와 같은 정책을 통해 계층 군대를 유지하면 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ ARISTOCRATIC_TRADITION:0 "전통적인 귀족주의"
+ NO_ARISTOCRATIC_TRADITION:0 "전통적인 귀족주의"
+ ARISTOCRATIC_TRADITION_DESC:0 "§Y식민지 총독§! 전통을 채택하는 것은 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ POP_GROWTH:0 "인구 성장"
+ NO_POP_GROWTH:0 "인구 성장"
+ POP_GROWTH_DESC:0 "최대의 인구 증가를 보장하기 위해 §Y식량 비축§!을 최소로 유지하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ AGRICULTURE_INDUSTRY:0 "개발된 농업"
+ NO_AGRICULTURE_INDUSTRY:0 "농업 개발"
+ AGRICULTURE_INDUSTRY_DESC:0 "§Y농업§! 사회제도를 활성화하는 것은 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ TOURISM_INDUSTRY:0 "개발된 관광업"
+ NO_TOURISM_INDUSTRY:0 "관광업 개발"
+ TOURISM_INDUSTRY_DESC:0 "§Y관광업§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TRANSPORTATION_INDUSTRY:0 "개발된 운송업"
+ NO_TRANSPORTATION_INDUSTRY:0 "운송업 개발"
+ TRANSPORTATION_INDUSTRY_DESC:0 "§Y운송 & 물류§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ FREE_PRESS:0 "언론의 자유"
+ NO_FREE_PRESS:0 "언론의 자유"
+ FREE_PRESS_DESC:0 "§Y자유로운 미디어§! 정부 정책를 활성화하는 것은 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ ENGINEERING_SCIENCE:0 "산업 보조금"
+ NO_ENGINEERING_SCIENCE:0 "산업 보조금"
+ ENGINEERING_SCIENCE_DESC:0 "§Y생산 목표§! 시행령을 활성화하는 것은 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ 
+ 
+ INDUSTRIAL_ADV_INFRASTRUCTURE:0 "선진 산업 기반 시설"
+ NO_INDUSTRIAL_ADV_INFRASTRUCTURE:0 "선진 산업 기반 시설"
+ INDUSTRIAL_ADV_INFRASTRUCTURE_DESC:0 "가능한 모든 행성에 '열 시추공'을 건설하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ENERGY_INFRASTRUCTURE:0 "개발된 에너지 기반 시설"
+ NO_ENERGY_INFRASTRUCTURE:0 "에너지 기반 시설 개발"
+ ENERGY_INFRASTRUCTURE_DESC:0 "모든 큰 (>15 tiles) 행성에 '에너지 연결체'를 건설하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ XENO_ZOO:0 "외계종 동물원"
+ NO_XENO_ZOO:0 "외계종 동물원 건설"
+ XENO_ZOO_DESC:0 "가능한 모든 행성에 '외계종 동물원'을 건설하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_MARKET_ECONOMY:0 "계획 경제"
+ MARKET_ECONOMY:0 "시장 경제"
+ NO_MARKET_ECONOMY_DESC:0 "§Y시장 경제§! 경제 정책을 폐지하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_WELFARE_ECONOMY:0 "시장 규제 철폐"
+ WELFARE_ECONOMY:0 "시장 규제"
+ NO_WELFARE_ECONOMY_DESC:0 "§Y계획경제§! 정책을 폐지하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PROGRESSIVE_CASTE:0 "$PROGRESSIVE_NO_CASTE$"
+ 
+ suppressed_egalitarian:0 "자유주의 탄압"
+ suppressed_egalitarian_desc:0 "§H자유주의§! 윤리관은 정부에 의해 탄압받고 있습니다."
+ promoted_egalitarian:0 "자유주의 촉진"
+ promoted_egalitarian_desc:0 "§H자유주의§! 윤리관이 정부에 의해 촉진되고 있습니다."
+ 
+ suppressed_capitalism:0 "개인주의 탄압"
+ suppressed_capitalism_desc:0 "§H개인주의§! 윤리관은 정부에 의해 탄압받고 있습니다."
+ promoted_capitalism:0 "개인주의 촉진"
+ promoted_capitalism_desc:0 "§H개인주의§! 윤리관이 정부에 의해 촉진되고 있습니다."
+ 
+ suppressed_socialism:0 "집단주의 탄압"
+ suppressed_socialism_desc:0 "§H집단주의§! 윤리관은 정부에 의해 탄압받고 있습니다."
+ promoted_socialism:0 "집단주의 촉진"
+ promoted_socialism_desc:0 "§H집단주의§! 윤리관이 정부에 의해 촉진되고 있습니다."
+ 
+ suppressed_green:0 "자연주의 탄압"
+ suppressed_green_desc:0 "§H자연주의§! 윤리관은 정부에 의해 탄압받고 있습니다."
+ promoted_green:0 "자연주의 촉진"
+ promoted_green_desc:0 "§H자연주의§! 윤리관이 정부에 의해 촉진되고 있습니다."
+ 
+ suppressed_industrial:0 "산업주의 탄압"
+ suppressed_industrial_desc:0 "§H산업주의§! 윤리관은 정부에 의해 탄압받고 있습니다."
+ promoted_industrial:0 "산업주의 촉진"
+ promoted_industrial_desc:0 "§H산업주의§! 윤리관이 정부에 의해 촉진되고 있습니다."
+ 
+ suppressed_pluralist:0 "평등주의 탄압"
+ suppressed_pluralist_desc:0 "§H평등주의§! 윤리관은 정부에 의해 탄압받고 있습니다."
+ promoted_pluralist:0 "평등주의 촉진"
+ promoted_pluralist_desc:0 "§H평등주의§! 윤리관이 정부에 의해 촉진되고 있습니다."
+ 
+ suppressed_elitist:0 "엘리트주의 탄압"
+ suppressed_elitist_desc:0 "§H엘리트주의§! 윤리관은 정부에 의해 탄압받고 있습니다."
+ promoted_elitist:0 "엘리트주의 촉진"
+ promoted_elitist_desc:0 "§H엘리트주의§! 윤리관이 정부에 의해 촉진되고 있습니다."
+ 
+ 
+ 
+ 16_FRIENDLY_GREETING:1 "당신 정부는 최악의 자유주의적 과잉을 줄이는 일을 잘 하고 있습니다, [From.GetSpeciesNamePlural]"
+ 04_INSULT_PROPOSE_COL_IND:0 "너희가 얼마나 이기적인 자들인지, 질서와 안정보다 사소한 자유를 선호하다니. 자유주의... 하! [Root.GetName]은(는) 한 해도 살아남지 못할 거다."
+ uplift.7215.c.tooltip:1 "[From.From.From.GetName]이 §Y자유주의§! 윤리관을 받아들입니다."
+ nomad.21.d.response:1 "그들은 영적이고 자유주의적인 무리입니다. 당신들의 무리와 얼마나 딱 들어맞을지는 당신이 감별해야 할 것입니다."
+ observation.2041.desc:0 "우리의 조언자들은 [From.GetName]의 원주민들이 우리의 기술에 매료되었을 뿐만 아니라, 우리의 방식을 모방하기 시작했다고 보고합니다.\n\n우리의 예술과 문화를 보고 영감을 받아, [From.Owner.GetSpeciesName] 사회는 자유주의의 새로운 감각을 발전시킨 것으로 보입니다. 우리가 도래한 이후로 그들의 개인적 자유는 크게 신장되었습니다."
+ observation.2061.desc:0 "[From.GetName]의 지표면에서 무정부 상태가 최고조에 달해 있습니다. 우리의 조언자들은 [From.Owner.GetSpeciesNamePlural]에게 현대 과학을 가르치는 데 어려움을 겪고 있습니다. 그들이 소위 과학자라고 하는 이들은 모두 자신들의 연구를 그 순간 그들에게 흥미로운 방향으로 진행시키고, 공동의 이익에 대해서는 거의 관심을 보이지 않습니다.\n\n원주민들이 보여주는 오도된 자유주의에도 불구하고 우리의 계몽의 사명은 계속되고 있지만, 예상보다 오래 걸릴 것입니다."
+ COL_LABEL:1 "권위주의 <-> 자유주의"
+ SOC_LABEL:1 "집단주의 <-> 개인주의"
+ GRN_LABEL:1 "생태주의 <-> 산업주의"
+ ELT_LABEL:1 "엘리트주의 <-> 평등주의"
+ POP_ATTRACTION_EGALITARIAN_DIPLOMACY_POS:0 "§G+ 자유주의 제국과의 외교§!"
+ POP_ATTRACTION_EGALITARIAN_DIPLOMACY_POS:0 "§G+ 자유주의 제국과의 외교§!"
+ POP_ATTRACTION_EGALITARIAN_DIPLOMACY_NEG:0 "§R- 자유주의 제국과의 외교§!"
+ POP_ATTRACTION_EGALITARIAN_DIPLOMACY_NEG:0 "§R- 자유주의 제국과의 외교§!"
+ 
+ opinion_of_egalitarian_pos:0 "자유로운 자유지상주의자들"
+ opinion_of_egalitarian:0 "자유지상주의 폭도들"
+ pft_progressive_desc:1 "진보주의자 파벌은 개인의 정치적 자유와 중앙 정부 권위의 축소를 선호하며, 일반적으로 비민주적인 형태의 정부를 싫어합니다.\n\n§L자유주의 윤리관§!"
+ factions.2000.desc.progressive:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H자유주의§!적으로 변했습니다.\n\n"
+ egalitarian_unrest:0 "불안도 (자유주의 선호)"
+ egalitarian_unrest:0 "불안도 (자유주의 선호)"
+ egalitarian_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y자유주의§!에 보다 매력을 느끼게 만들 것입니다"
+ egalitarian_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y자유주의§!에 보다 매력을 느끼게 만들 것입니다"
+ unrest.168.desc:0 "안녕하십니까, [Root.GetSpeciesName]. 우리는 과거 [old_owner.GetName]의 노예였던 자유 투사입니다. 과거에 우리는 [old_owner.GetRulerTitle] [old_owner.GetRulerName]의 억압 아래서 많은 학대를 당했습니다. 우리는 오랫동안 당신들의 자유주의적 기준, [new_owner.GetSpeciesAdj]의 길에 감탄해 왔습니다. 본국에서도 언급했듯, 우리는 여러분의 가치를 공유합니다. 우리는 본국과 이미 갈라섰고, 당신들의 국가의 일원이 되기를 희망합니다. 우리를 받아 주시겠습니까?"
+ 
+ 
+ 
+ opinion_socialism_pos_1:0 "사회주의자 동지들"
+ opinion_socialism_pos_2:0 "사회주의자 동지들"
+ opinion_socialism_pos_3:0 "사회주의자 동지들"
+ opinion_socialism_pos_4:0 "사회주의자 동지들"
+ 
+ opinion_socialism_neg_1:0 "공산주의 폭군들"
+ opinion_socialism_neg_2:0 "공산주의 폭군들"
+ opinion_socialism_neg_3:0 "공산주의 폭군들"
+ opinion_socialism_neg_4:0 "공산주의 폭군들"
+ 
+ opinion_capitalism_pos_1:0 "자유시장주의자들"
+ opinion_capitalism_pos_2:0 "자유시장주의자들"
+ opinion_capitalism_pos_3:0 "자유시장주의자들"
+ opinion_capitalism_pos_4:0 "자유시장주의자들"
+ 
+ opinion_capitalism_neg_1:0 "자본주의 착취자들"
+ opinion_capitalism_neg_2:0 "자본주의 착취자들"
+ opinion_capitalism_neg_3:0 "자본주의 착취자들"
+ opinion_capitalism_neg_4:0 "자본주의 착취자들"
+ 
+ opinion_green_pos_1:0 "자연의 친구들"
+ opinion_green_pos_2:0 "자연의 친구들"
+ opinion_green_pos_3:0 "자연의 친구들"
+ opinion_green_pos_4:0 "자연의 친구들"
+ 
+ opinion_green_neg_1:0 "멍청한 나무 애호가들"
+ opinion_green_neg_2:0 "멍청한 나무 애호가들"
+ opinion_green_neg_3:0 "멍청한 나무 애호가들"
+ opinion_green_neg_4:0 "멍청한 나무 애호가들"
+ 
+ opinion_industrial_pos_1:0 "동료 기술자들"
+ opinion_industrial_pos_2:0 "동료 기술자들"
+ opinion_industrial_pos_3:0 "동료 기술자들"
+ opinion_industrial_pos_4:0 "동료 기술자들"
+ 
+ opinion_industrial_neg_1:0 "달그락거리는 금속 대가리들"
+ opinion_industrial_neg_2:0 "달그락거리는 금속 대가리들"
+ opinion_industrial_neg_3:0 "달그락거리는 금속 대가리들"
+ opinion_industrial_neg_4:0 "달그락거리는 금속 대가리들"
+ 
+ opinion_pluralist_pos_1:0 "평등주의 형제들"
+ opinion_pluralist_pos_2:0 "평등주의 형제들"
+ opinion_pluralist_pos_3:0 "평등주의 형제들"
+ opinion_pluralist_pos_4:0 "평등주의 형제들"
+ 
+ opinion_pluralist_neg_1:0 "평등주의 폭도들"
+ opinion_pluralist_neg_2:0 "평등주의 폭도들"
+ opinion_pluralist_neg_3:0 "평등주의 폭도들"
+ opinion_pluralist_neg_4:0 "평등주의 폭도들"
+ 
+ opinion_elitist_pos_1:0 "귀족들"
+ opinion_elitist_pos_2:0 "귀족들"
+ opinion_elitist_pos_3:0 "귀족들"
+ opinion_elitist_pos_4:0 "귀족들"
+ 
+ opinion_elitist_neg_1:0 "교만한 쥐새끼들"
+ opinion_elitist_neg_2:0 "교만한 쥐새끼들"
+ opinion_elitist_neg_3:0 "교만한 쥐새끼들"
+ opinion_elitist_neg_4:0 "교만한 쥐새끼들"
+ 
+ 
+ LABOURITE_NO_CASTE:0 "반-계급"
+ LABOURITE_CASTE:0 "계급 제도"
+ LABOURITE_NO_CASTE_DESC:0 "우리 제국의 누구라도 §Y계급 제도§! 하에 놓이게 하는 것은 [Root.GetName]을 대단히 불쾌하게 할 것입니다."
+ 
+ 
+ EQUAL_ARMY:0 "평등주의 군대"
+ NO_EQUAL_ARMY:0 "평등주의 군대"
+ EQUAL_ARMY_DESC:0 "우리 제국의 모든 종의 제한 병역 또는 병역 면제를 보장하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ POP_ATTRACTION_LIMITED_CITIZEN_POS:0 "§G+ 제한된 시민권을 지닌 POP§!"
+ POP_ATTRACTION_ELITIST_POS:0 "§G+ 엘리트주의 통치 윤리관§!"
+ POP_ATTRACTION_PLURALIST_POS:0 "§G+ 다원주의 통치 윤리관§"
+ POP_ATTRACTION_ENHANCED_LEADERS_POS:0 "§G+ 지도자 강화 정책§!"
+ 
+ policy_gun_rights:0 "개인 무기"
+ policy_gun_rights_desc:0 "시민들이 개인 무기를 구입하고 사용할 수 있게 하는 것은 일반적으로 그들의 '총기 문화'를 향상시키겠지만, 이는 범죄 활동의 증가를 초래할 수도 있습니다."
+ 
+ gun_rights_limited:0 "제한"
+ gun_rights_limited_name:0 "제한"
+ gun_rights_limited_desc:0 "시민들이 개인 무기를 소지하고 사용하는 것은 제한되어 있습니다."
+ 
+ gun_rights_allowed:0 "허용"
+ gun_rights_allowed_name:0 "허용"
+ gun_rights_allowed_desc:0 "시민들이 개인 무기를 소지하고 사용하는 것이 허용됩니다."
+ 
+ gun_rights_disallowed:0 "금지"
+ gun_rights_disallowed_name:0 "금지"
+ gun_rights_disallowed_desc:0 "시민들이 개인 무기를 소지하고 사용하는 것은 금지되어 있습니다."
+ 
+ TOTALITARIAN_NO_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_NO_GUN_RIGHTS_DESC:0 "우리 제국에서 일반 시민의 §Y개인 무기§! 휴대를 금지하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PROGRESSIVE_GUN_RIGHTS:0 "허용된 개인 무기"
+ PROGRESSIVE_NO_GUN_RIGHTS:0 "개인 무기 허용"
+ PROGRESSIVE_GUN_RIGHTS_DESC:0 "우리 제국의 시민들이 §Y개인 무기§!를 휴대하고 사용할 수 있도록 허용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ civic_tooltip_egalitarian:0 "어느 정도 §Y자유주의§!적임"
+ civic_tooltip_not_egalitarian:0 "§Y자유주의§!가 아님"
+ 
+ #leader notification
+ ethic_rebuild_leaders_new:0 "새로운"
+ ethic_rebuild_leaders_new.desc:0 "우리가 얻은 새로운"
+ ethic_rebuild_leaders_block.tooltip:0 "새로운 리더에게 알림 메시지를 표시하지 않습니다."
+ ethic_rebuild_block:0 "이 정보를 제 부관에게 전달하십시오."
+ 
+ # lines without text
+ # events
+ ethic_rebuild_leaders.54.name:0 "$ethic_rebuild_leaders_new$ $governor$"
+ ethic_rebuild_leaders.54.desc:0 "$ethic_rebuild_leaders_new.desc$ §P$governor$.§!"
+ ethic_rebuild_leaders.55.name:0 "$ethic_rebuild_leaders_new$ $scientist$"
+ ethic_rebuild_leaders.55.desc:0 "$ethic_rebuild_leaders_new.desc$ §P$scientist$.§!"
+ ethic_rebuild_leaders.56.name:0 "$ethic_rebuild_leaders_new$ $admiral$"
+ ethic_rebuild_leaders.56.desc:0 "$ethic_rebuild_leaders_new.desc$ §P$admiral$.§!"
+ ethic_rebuild_leaders.57.name:0 "$ethic_rebuild_leaders_new$ $general$"
+ ethic_rebuild_leaders.57.desc:0 "$ethic_rebuild_leaders_new.desc$ §P$general$.§!"
+ 
+ MOD_DISTANCE_TO_CAPITAL_STATIC_MODIFIER_EFFICIENCY_MULT:0 "거리로 인한 통치 윤리관 축소"
+ 
+ auth_dictatorial:0 "독재정"
+ auth_dictatorial_desc:0 "독재정은 국가에 대한 절대적인 통제권을 행사하는 한 개인이 일생 동안 통치합니다."
+ 
+ building_biomaterials_plant:0 "산업용 바이오소재 공장"
+ building_biomaterials_plant_desc:0 "이 시설은 바이오 매스를 사용하여 다양한 바이오 영양소뿐만 아니라 유기 기반 산업용 복합 재료를 만듭니다."
+ 
+ 
+ 
+ civic_drone_brotherhood:0 "드론 형제단"
+ civic_drone_brotherhood_desc:0 "이 사회에서 노동자 계층(저기술 산업에 종사했던 이들)은 전통적으로 미화되고 집단주의와 평등이라는 이상주의적 원칙에 입각하여 글로벌 커뮤니티를 형성합니다. £building£ §Y농업지구§! 및 §Y채굴지구§! 는 각각 §Y0.2§! £unity£ 통합력을 생산합니다."
+ 
+ shipsize_military_station_small_construction_speed_mult:0 "군사기지 소형 건설 속도"
+ shipsize_military_station_medium_construction_speed_mult:0 "군사기지 중형 건설 속도"
+ shipsize_military_station_large_construction_speed_mult:0 "군사기지 대형 건설 속도"
+ 
+ 
+ 
+ 
+ 
+ civic_nationalism:0 "민족주의"
+ civic_nationalism_desc:0 "강한 민족주의적 우월감과 자부심이 이 사회의 모든 계층에 스며들어 있습니다. §H통합§! 전통 채택이 불가능해집니다."
+ 
+ 
+ 
+ 
+ civic_private_property:0 "에너지 연합체"
+ civic_private_property_desc:0 "시장은 성장하기 위해 엄청난 양의 에너지가 필요합니다! 시장의 발전을 향상시키기 위해, 정부는 발전 시설의 상당 부분을 사유화하고, 효율적인 자유시장경제의 일부가 되도록 합니다. £building£ §Y$building_power_hub_1$§!과 £building£ §Y$building_power_hub_2$§!는 §Y1§! £unity£ 통합력을 추가적으로 생산합니다."
+ 
+ civic_militia:0 "민간 군대"
+ civic_militia_desc:0 "군비 거래와 전쟁에서의 기업 사업은 이 사회에서 영향력 있는 위치에 도달했고 국가의 군대를 유지하는 많은 측면들이 강력한 기업들로 옮겨졌습니다."
+ 
+ 
+ 
+ civic_public_medicine:0 "공공의료"
+ civic_public_medicine_desc:0 "정부는 공공의료시스템의 개발과 유지를 위한 기금을 할당합니다. §HFrontier Health§! 기술이 선택지로 주어진 상태로 시작합니다. §H유전자 병원§!과 §H세포 재생소§! 건물은 추가적인 §H통합력§!을 제공합니다."
+ 
+ civic_public_education:0 "공교육"
+ civic_public_education_desc:0 "정부는 공립학교 시스템의 개발과 유지를 위한 기금을 할당합니다."
+ 
+ 
+ 
+ civic_monarchy:0 "군주제"
+ civic_monarchy_desc:0 "군주제는 보통 왕조라고 불리는 한 집단이 국가의 국가 정체성을 구현하고 군주라고 불리는 그 구성원 중 한 명이 주권적 역할을 하는 정부의 한 형태입니다."
+ civic_dictatorship:0 "독재정"
+ civic_dictatorship_desc:0 "독재정은 한 국가가 한 개인(독재자)이나 정치권에 의해 통치되고, 권력이 강성하게 유지되도록 다양한 메커니즘을 통해 권력이 행사되는 정부 형태입니다."
+ 
+ civic_nazi_dictatorship:0 "민족주의 독재정권"
+ civic_nazi_dictatorship_desc:0 "지배자는 전통적으로 지배적인 민족주의 정당의 당수입니다."
+ civic_republic:0 "공화국"
+ civic_republic_desc:0 "공화국은 국가가 통치자들의 사적인 관심사나 재산이 아닌 '공적인 문제'로 간주되고, 민주주의와 성과주의의 규칙에 따라 선출되거나 임명되는 정부의 한 형태입니다."
+ 
+ civic_xeno_republic:0 "다문화 공화국"
+ civic_xeno_republic_desc:0 "공화국의 다문화 형태는 다른 문화에 대한 완전한 개방, 그리고 각 문화를 동등하게 받아들이는 원칙에 따라 지배됩니다. 기본적으로, 외계종에 대한 §H완전한 시민권§! 및 §H완전한 병역§!이 보장됩니다."
+ 
+ civic_military_demos_cratos_desc:0 "전통적으로 시민들이 개인 무기를 보관하고 유지하는 민주주의의 형태로서, 전쟁 때 효과적인 민병대를 형성합니다. §H총기 권리§! 정책을 허용하지 않음으로 설정할 수 없습니다."
+ civic_feudalism:0 "관료주의"
+ civic_feudalism_desc:0 "관료들은 전통적으로 중앙 정부의 과도한 규제 권한을 가지고 확대된 국가 기구를 선호합니다."
+ 
+ 
+ 
+ civic_ambassadors_assembly:0 "외교 대사 의회"
+ civic_ambassadors_assembly_desc:0 "정부는 가장 영향력 있는 외교 관료 집단이 장악하고 있습니다."
+ 
+ 
+ 
+ 
+ civic_demos_cratos:0 "직접민주주의"
+ civic_demos_cratos_desc:0 "직접민주주의에서는 관료주의가 분권화되어 더 효율적이며, 반면에 정부는 거의 권한을 가지고 있지 않습니다. 일반 시민들은 국민투표 메커니즘을 통해 지역 및 글로벌 정책 구상을 직접 결정할 수 있는 권한을 갖고 있습니다."
+ 
+ civic_empire_bureau:0 "거대한 정부"
+ civic_empire_bureau_desc:0 "국가 관료주의의 규모를 확대하면 정부 규제의 힘이 커지지만, 불가피하게 추가 지출과 전반적인 경제적 비효율성을 초래합니다."
+ 
+ 
+ civic_science_lobby:0 "기업 연구"
+ civic_science_lobby_desc:0 "정부 연구 프로그램의 상당 부분이 보다 효율적인 민간 기업에 아웃소싱되었습니다."
+ 
+ tech_patriotic_call:0 "교리: 애국적인 부름"
+ tech_patriotic_call_desc:0 "전쟁 중에만 사용할 수 있는 특별한 국가 시행령을 잠금해제합니다"
+ 
+ tech_strategic_taxation:0 "교리: 전략적 과세"
+ tech_strategic_taxation_desc:0 "평화로운 시기에만 사용할 수 있는 특별한 국가 시행령을 잠금해제합니다."
+ 
+ edict_diversity_utopia:0 "범은하포럼"
+ edict_diversity_utopia_desc:0 " "
+ edict_pan_galactic_league:0 "범은하연맹"
+ edict_pan_galactic_league_desc:0 " "
+ edict_patriotic_call:0 "애국적인 부름"
+ edict_patriotic_call_desc:0 " 무장하라! 이 암울한 시기에 당신의 조국이 당신을 필요로 한다!"
+ edict_logistic_operations:0 "병참 작전"
+ edict_logistic_operations_desc:0 " "
+ edict_strategic_taxation:0 "전략적 과세"
+ edict_strategic_taxation_desc:0 " "
+ edict_public_works:0 "공공 사업"
+ edict_public_works_desc:0 " "
+ edict_holy_inquisition:0 "신성 종교 재판"
+ edict_holy_inquisition_desc:0 " "
+ edict_defcon_1:0 "방위 상태 1"
+ edict_defcon_1_desc:0 ""
+ 
+ 
+ 
+ gov_corporate_nationalism:0 "기업 민족주의"
+ gov_corporate_nationalism_desc:0 " "
+ 
+ 
+ 
+ civic_leadership_forge:0 "리더십 구축"
+ civic_leadership_forge_desc:0 "제국은 강력한 리더십의 전통을 가지고 있으며 현명하고 민첩한 인사 정책으로 유명합니다."
+ 
+ ASCENSION_PERKS_NEW:0 "승천 퍽"
+ 
+ gov_generic_stratocracy:0 "군벌 정치"
+ gov_generic_stratocracy_desc:0 " "
+ 
+ civic_energy_syndicate:0 "무역 연맹"
+ civic_energy_syndicate_desc:0 "제국은 강력한 무역 회사 협력단이 장악하고 있는 상품 시장을 발전시켰습니다."
+ 
+ civic_public_works:0 "사회기반시설"
+ civic_public_works_desc:0 "정부는 식민지의 사회기반시설 개발과 삶의 질 개선에 상당한 자금을 배정합니다. 특수한 §H주거§! 행성 시행령을 이용할 수 있습니다."
+ edict_housing:0 "공공 사업"
+ edict_housing_desc:0 "행성의 산업은 주로 주택과 사회 기반 시설 개발에 집중되어 인구 증가를 촉진합니다."
+ 
+ 
+ 
+ 
+ ethic_rebuild_opinion_unity_finish:0 "은하 통합자"
+ 
+ 
+ 
+ civic_elite_navy:0 "엘리트 해군"
+ civic_elite_navy_desc:0 "해군 병력은 제국 군대의 정예부대로 간주됩니다. 조종사와 해군 고위 장교들은 최고의 교육과 배급을 받습니다."
+ #
+ 
+ 
+
+                                                                               
+ 
+ shipsize_mining_station_construction_speed_mult:0 "채굴 스테이션 건설 속도"
+                                                                                                                                   
+                                                                                              
+                                                
+                                                                                                                                   
+                                                                                              
+ 
+ edict_increase_planetsize_3:0 "지구공학"
+ edict_increase_planetsize_3_desc:0 "국지적 지형절차를 통해 행성의 거주 가능한 공간의 크기를 늘릴 수 있습니다."
+ edict_increase_planetsize_3.tooltip:0 "§Y[Root.GetName]§!의 크기가 §G1칸§! 증가합니다."
+ 
+ edict_increase_planetsize_1:0 "실용주의 개발 I"
+ edict_increase_planetsize_1_desc:0 "행성의 영토를 효율적으로 이용함으로써 개발 가능한 공간을 늘릴 수 있지만, §Y거주 적합도§!가 낮아지는 비용을 치르게 됩니다."
+ edict_increase_planetsize_1.tooltip:0 "§Y[Root.GetName]§!의 크기가 §G1칸§! 증가하고 §Y거주 적합도§!가 §R3%§! 감소합니다."
+ 
+ edict_increase_planetsize_2:0 "실용주의 개발 II"
+ edict_increase_planetsize_2_desc:0 "§Y[Root.GetName]§!의 크기가 §G1칸§! 증가하고 §Y거주 적합도§!가 §R5%§! 감소합니다."
+ edict_increase_planetsize_2.tooltip:0 "행성의 영토를 효율적으로 이용함으로써 개발 가능한 공간을 늘릴 수 있지만, §Y거주 적합도§!가 낮아지는 비용을 치르게 됩니다."
+ 
+ free_market_1_economy:0 "이상적인 시장"
+ free_market_1_economy_name:0 "이상적인 시장"
+ free_market_1_economy_desc:0 "§H평화§!로운 시기에만 이 정책을 설정할 수 있습니다."
+ 
+ free_market_2_economy:0 "이상적인 시장 (심화)"
+ free_market_2_economy_name:0 "이상적인 시장 (심화)"
+ free_market_2_economy_desc:0 "§H평화§!로운 시기에만 이 정책을 설정할 수 있습니다."
+ 
+ civic_peaceful_prosperity:0 "번영"
+ civic_peaceful_prosperity_desc:0 "이 평화로운 사회에서는 사회와 개인의 행복에 대한 생각이 지배적입니다."
+ 
+ building_gal_university:0 "은하 대학교"
+ building_gal_university_desc:0 "은하 대학교는 제국 최고의 교육 프로그램의 본고장입니다."
+ 
+ civic_fortification:0 "국방부"
+ civic_fortification_desc:0 "국방부는 제국의 외교정책에 영향을 미치고 국방비 증액을 위해 모든 권한을 행사하고 있습니다. §H군사 예산§!을 §H저예산§!으로 설정할 수 없습니다."
+ 
+ 
+ 
+ 
+ NO_ASCENSION_TRADITIONS:0 "승천 전통"
+ ASCENSION_TRADITIONS:0 "승천 전통"
+ NO_ASCENSION_TRADITIONS_DESC:0 "§Y근본주의§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ 
+ 
+ TOTALITARIAN_HIERARCHY:0 "계층 사회"
+ TOTALITARIAN_NO_HIERARCHY:0 "계층 사회"
+ TOTALITARIAN_HIERARCHY_DESC:0 "§Y권한§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_NO_FREE_SPEECH:0 "언론의 자유"
+ TOTALITARIAN_FREE_SPEECH:0 "언론의 자유 반대"
+ TOTALITARIAN_NO_FREE_SPEECH_DESC:0 "§Y국영방송§! 정부 정책을 적용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TECHNOLOGIST_PROGRESS:0 "전통적인 진보"
+ TECHNOLOGIST_NO_PROGRESS:0 "전통적인 진보"
+ TECHNOLOGIST_PROGRESS_DESC:0 "§Y진보§! 전통의 채택은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TECHNOLOGIST_NO_RELIGIOUS_FANATISM:0 "종교적 광신주의"
+ TECHNOLOGIST_RELIGIOUS_FANATISM:0 "종교적 광신주의"
+ TECHNOLOGIST_NO_RELIGIOUS_FANATISM_DESC:0 "§Y종교적 근본주의§! 전통의 채택은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ XENOIST_NO_ISOLATION:0 "고립주의"
+ XENOIST_ISOLATION:0 "고립주의 반대"
+ XENOIST_NO_ISOLATION_DESC:0 "§Y고립주의§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ XENOIST_UNITY_TRADITION:0 "전통적인 통합"
+ XENOIST_NO_UNITY_TRADITION:0 "전통적인 통합"
+ XENOIST_UNITY_TRADITION_DESC:0 "§Y통합§! 전통을 채택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TRADITIONALIST_HARMONY:0 "전통적인 조화"
+ TRADITIONALIST_NO_HARMONY:0 "전통적인 조화"
+ TRADITIONALIST_HARMONY_DESC:0 "§Y조화§! 전통을 채택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ TRADITIONALIST_NO_PROGRESS:0 "진보 숭배"
+ TRADITIONALIST_PROGRESS:0 "진보 숭배 반대"
+ TRADITIONALIST_PROGRESS_DESC:0 "§Y조화§!, §Y근본주의§! 또는 §Y순수성§! 전통을 채택하지 않은 상태에서 §Y진보§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ 
+ 
+ 
+ PROSPERITY_NO_SUPREMACY:0 "군국주의 반대"
+ PROSPERITY_NO_SUPREMACY:0 "군국주의 반대"
+ PROSPERITY_SUPREMACY_DESC:0 "§Y우월§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+                                 
+ SUPREMACIST_NO_UNITY:0 "통합"
+ SUPREMACIST_UNITY:0 "통합 반대"
+ SUPREMACIST_NO_UNITY_DESC:0 "§Y통합§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ SUPREMACIST_PURITY_TRADITION:0 "전통적인 순수성"
+ SUPREMACIST_PURITY_NO_TRADITION:0 "전통적인 순수성"
+ SUPREMACIST_PURITY_TRADITION_DESC:0 "§Y정화§! 전통을 채택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ CAPITALISM_IDEOLOGY:0 "자본주의 이념"
+ NO_CAPITALISM_IDEOLOGY:0 "자본주의 이념"
+ CAPITALISM_IDEOLOGY_DESC:0 "§Y자본주의§! 정부 윤리관을 활성화하는 것은 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ 
+ 
+ requires_civic_anarchy:1 "$TRIGGER_FAIL$§Y자유§! 정부 사회제도를 활성화해야 합니다."
+ requires_civic_capitalism:1 "$TRIGGER_FAIL$§Y자본주의§! 정부 사회제도를 활성화해야 합니다. 또한 §Y광적인 개인주의§! 및 §Y광적인 권위주의 아님§!을 필요로 합니다."
+ allow_policy_free_market:0 "§Y이상적인 시장§! 경제 정책이 잠금 해제됩니다."
+ requires_civic_socialism:0 "$TRIGGER_FAIL$§Y사회주의§! 정부 사회제도를 활성화해야 합니다. 또한 §Y광적인 집단주의§! 및 §Y광적인 권위주의 아님§!을 필요로 합니다."
+ allow_policy_planned_economy:0 "§Y이상적인 복지§! 경제 정책이 잠금해제됩니다."
+ requires_finish_unity:1 "$TRIGGER_FAIL$§Y통합§! 전통을 완료해야 합니다."
+ allows_new_babylon:0 "당신의 행성 중 하나를 (단 한 개만) §Y은하의 불가사의: 새로운 바빌론§!으로 바꿀 수 있는 기회(시행령)를 제공합니다. 해당 시행령은 제국에 서로 다른 3종류 이상의 종족이 있는 경우에만 사용할 수 있습니다. 행성의 크기는 최대 10칸(총 25칸 이하)까지 증가할 것이며, §Y외계종 이주 선호§!, §Y거주 적합도§!, §Y통합력§!, §Y사회학 연구§!, §Y에너지§! 잠재적인 §Y불안도§!를 증가시키고, §Y통치 윤리관 선호도§!를 감소시키는 일정한 모디파이어가 붙을 것입니다."
+ allow_fanatic_purifiers:0 "다른 종족과 §Y외교§!에 참여할 수 없습니다! §Y외계종 POP§!은 항상 정화될 것입니다. §Y외계종 POP§!을 정화하면 §Y통합력§!을 얻습니다. §Y성계 양도§! 와 §Y정화§! 전쟁 명분만 선택 가능합니다. §Y$GROUND_SUPPORT_STANCE_ARMAGEDDON$§! 궤도 폭격 태세를 선택할 수 있습니다."
+ allows_anarchy_utopia:0 "§Y경제 초점§! 정책: §Y포스트 산업 경제§!가 잠금 해제됩니다."
+ 
+ ap_mastery_of_terraforming:0 "세계 소생자"
+ ap_mastery_of_terraforming_desc:0 ""
+ ap_fanatic_purifiers:0 "광신적 정화자"
+ ap_fanatic_purifiers_desc:0 "이 사회는 다른 모든 지각 있는 생명체를 찾아 은하를 뒤지는 것에 혈안이 되어 있는 것처럼 보입니다. 무슨 일이 있어도, 그들은 어떤 외계종의 생존도 용납하지 않을 것입니다."
+ 
+ ap_new_babylon:0 "새로운 바빌론"
+ ap_new_babylon_desc:0 " "
+ 
+ ap_future_society:0 "미래 사회"
+ ap_future_society_desc:0 "우리 사회는 타의 추종을 불허하는 수준의 문화 발전에 도달했습니다."
+ 
+ ap_communism_utopia:0 "공산주의 유토피아"
+ ap_communism_utopia_desc:0 " "
+ 
+ ap_capitalism_utopia:0 "자유시장 유토피아"
+ ap_capitalism_utopia_desc:0 " "
+ 
+ requires_adopt_progress:0 "$TRIGGER_FAIL$§Y진보§! 전통 트리를 채택해야 합니다."
+ requires_adopt_ascension:0 "$TRIGGER_FAIL$§Y근본주의§! 전통 트리를 채택해야 합니다."
+ requires_adopt_imperialism:0 "$TRIGGER_FAIL$먼저 §Y제국주의§! 전통 트리를 채택해야 합니다."
+ requires_adopt_imperialism_expansion:0 "$TRIGGER_FAIL$먼저 §Y제국주의§! 또는 §Y확장§! 전통 트리를 채택해야 합니다."
+ requires_adopt_supremacy:0 "$TRIGGER_FAIL$먼저 §Y우월§! 전통 트리를 채택해야 합니다."
+ requires_adopt_harmony:0 "$TRIGGER_FAIL$§Y조화§! 전통 트리를 채택해야 합니다."
+ requires_not_pluralist:0 "$TRIGGER_FAIL$§Y평등주의§!인 경우 선택할 수 없습니다."
+ requires_adopt_expansion:0 "$TRIGGER_FAIL$§Y확장§! 전통 트리를 채택해야 합니다."
+ requires_environmentalism_finish:0 "$TRIGGER_FAIL$§Y조화§! 전통을 완료해야 합니다."
+ requires_not_elitist:0 "$TRIGGER_FAIL$§Y광적인 자유주의§! 윤리관을 필요로 하며, §Y광적인 군국주의§!인 경우 선택할 수 없습니다."
+ requires_egalitarian_not_pluralist:0 "$TRIGGER_FAIL$§Y자유주의§! 윤리관을 필요로 하며, §Y평등주의§!나 §Y광적인 자연주의§!인 경우 선택할 수 없습니다."
+ requires_authoritarian_not_elitist:0 "$TRIGGER_FAIL$§Y권위주의§! 윤리관을 필요로 하며, §Y엘리트주의§!인 경우 선택할 수 없습니다."
+ requires_not_xenophobe:0 "§Y외계종 혐오§!인 경우 선택할 수 없습니다."
+ requires_xenophobe_not_pacifist:0 "$TRIGGER_FAIL$§Y외계종 혐오§! 윤리관을 필요로 하며, §Y평화주의§!인 경우 선택할 수 없습니다. §Y연방§!에 가입할 수 없습니다."
+ requires_green_spiritualist:0 "$TRIGGER_FAIL$§Y자연주의§! 윤리관을 필요로 합니다."
+ requires_finish_harmony:0 "$TRIGGER_FAIL$§Y조화§! 및 §Y발견§! 전통을 완료해야 합니다."
+ requires_finish_purity:0 "$TRIGGER_FAIL$모든 §Y정화§! 전통을 채택해야 합니다."
+ requires_adopt_development:0 "$TRIGGER_FAIL$§Y개발§! 전통 트리를 채택해야 합니다."
+ requires_space_defense_station_2:0 "$TRIGGER_FAIL$§Y우주 방어 스테이션 2§! 기술을 필요로 합니다."
+ requires_spaceport_4:0 "$TRIGGER_FAIL$§Y우주 기지 4§! 기술을 필요로 합니다."
+ 
+ 
+ 
+ 
+ ap_life_creators:0 "생명 통달"
+ ap_life_creators_desc:0 "§YLife Engineering§! 모드 설치가 필요합니다! 기술을 잠금해제하여, 행성에 §Y준지성체§! 및 §Y지성체§! 생명체를 만들 수 있습니다."
+ 
+ new_babylon.name:0 "은하적 불가사의: 새로운 바빌론"
+ new_babylon.desc:0 "이제 이 행성은 문화적 다원주의의 은하계 천국으로 여겨집니다. 이곳에서 모든 외계종은 환영받으며, 영원한 다양성의 축제에 동참할 것입니다."
+ 
+ edict_new_babylon:0 "새로운 바빌론 건설"
+ edict_new_babylon_desc:0 "행성을 은하의 불가사의 §Y새로운 바빌론§!으로 바꿉니다. 이 시행령은 제국에 서로 다른 3종 이상의 외계종이 존재하는 경우에만 사용할 수 있습니다."
+ edict_new_babylon.tooltip:0 "이 시행령은 해당 행성의 이름을 §Y새로운 바빌론§!으로 바꾸고, 행성 크기를 최대 10칸 증가시키고(행성 크기 최대 25까지), 행성의 §Y외계종 이주 선호§!뿐만 아니라 §Y거주 적합도§!, §Y통합력§!, §Y에너지§!, §Y사회학 연구§! 생산량을 크게 증가시킬 것입니다. 또한 행성의 §Y정부 윤리관 선호§!을 감소시키고 잠재적인 §Y불안도§! 수준을 증가시킬 것입니다."
+ 
+ requires_pm_dangerous_wildlife:0 "§R§Y위험한 야생생물§! 행성 변동치를 가진 행성에만 건설할 수 있습니다."
+ 
+ building_xenology_institute:0 "응용 유전자학 연구소"
+ building_xenology_institute_desc:0 "우리는 지역의 §Y야생생물§을 연구하고, 어떻게 길들일 지 배울 수 있습니다(이것이 행성에 미치는 부정적인 영향을 줄여줍니다). 또한 위협적인 무기로 사용할 수 있을지도 모릅니다."
+ 
+ POP_ATTRACTION_TRADITION_POS:0 "§G+ 채택한 전통§!"
+ 
+ pragmatic_development_1:0 "실용주의 개발 I"
+ pragmatic_development_1_desc:0 "행성의 크기를 1칸 늘리고, §Y거주 적합도§!를 2% 감소시킵니다."
+ pragmatic_development_2:0 "실용주의 개발 II"
+ pragmatic_development_2_desc:0 "행성의 크기를 1칸 늘리고, §Y거주 적합도§!를 3% 감소시킵니다."
+ new_babylon:0 "은하적 불가사의: 새로운 바빌론"
+ new_babylon_desc:0 " "
+ 
+ shipsize_outpost_station_construction_speed_mult:0 "국경 전초기지 건설 속도"
+ 
+ post_industrial_economy:0 "탈공업화 경제"
+ post_industrial_economy_desc:0 "정보의 자유로운 흐름은 지식, 아이디어, 창의력을 바탕으로 경제적 성장을 촉진하는 탈공업화 사회의 핵심입니다."
+ 
+ ap_anarchy_utopia:0 "무정부 유토피아"
+ ap_anarchy_utopia_desc:0 "정보의 자유로운 흐름은 탈공업화 사회의 핵심으로서, 지식, 아이디어, 창의력을 바탕으로 경제적 성장을 촉진합니다. §Y정보 통제§! 및 §Y정치적 사고 장려§! 시행령을 이용할 수 없습니다."
+ 
+ 
+ 
+ civic_fanatic:0 "근본주의자"
+ civic_fanatic_desc:0 "이 사회는 국민들 사이에서 깊이 공유되는 매우 보수적이고 가혹한 신념과 독단주의로 이어져 있습니다. 여기에서 의견의 다양성은 허용되지 않습니다."
+ 
+ civic_empathy:0 "감정이입적"
+ civic_empathy_desc:0 "이 사회의 시민들은 강한 영적 친족 의식을 가지고 있어서, 그들을 덜 공격적이고 서로에게 더 동정적으로 만듭니다."
+ 
+ 
+ civic_biotech:0 "바이오-엔지니어"
+ civic_biotech_desc:0 "§H복제 기술§! 기술이 선택지에 주어진 상태로 시작합니다. §H유전자 성형§! 기술을 선택지로 얻을 가능성이 증가합니다."
+ 
+ 
+ 
+ 
+ planned_1_economy:0 "이상적인 복지"
+ planned_1_economy_name:0 "이상적인 복지"
+ planned_1_economy_desc:0 " "
+ 
+ planned_2_economy:0 "이상적인 복지 (심화)"
+ planned_2_economy_name:0 "이상적인 복지 (심화)"
+ planned_2_economy_desc:0 " "
+ 
+ requires_spiritualism:0 "$TRIGGER_FAIL$§Y정신주의§! 윤리관을 필요로 합니다."
+ 
+ MOD_SHIP_COMBAT_SPEED_MULT:2 "함선 전투 속도"
+ 
+ country_federation_member_resource_unity_mult:0 "연방 회원국당 £unity£ 통합력"
+ 
+ shipsize_mining_station_upkeep_mult:0 "채굴 스테이션 유지비"
+ 
+ capitalism_economy:0 "시장 경제"
+ capitalism_economy_name:0 "시장 경제"
+ capitalism_economy_desc:0 " "
+ fan_capitalism_economy:0 "시장 경제 (심화)"
+ fan_capitalism_economy_name:0 "시장 경제 (심화)"
+ fan_capitalism_economy_desc:0 " "
+ 
+ socialism_economy:0 "계획 경제"
+ socialism_economy_name:0 "계획 경제"
+ socialism_economy_desc:0 " "
+ fan_socialism_economy:0 "계획 경제 (심화)"
+ fan_socialism_economy_name:0 "계획 경제 (심화)"
+ fan_socialism_economy_desc:0 " "
+ 
+ policy_economy_focus:0 "경제 초점"
+ policy_economy_focus_name:0 "경제 초점"
+ policy_economy_focus_desc:0 "경제 (예산 지출) 초점을 §Y연구§! 또는 §Y생산§!에 맞출 수 있습니다."
+ 
+ balanced_economy_focus:0 "혼합 경제"
+ balanced_economy_focus_desc:0 " "
+ 
+ industry_focus:0 "산업 우선"
+ industry_focus_desc:0 " "
+ industry_focus_strong:0 "높은 산업 우선"
+ industry_focus_strong_desc:0 " "
+ industry_focus_very_strong:0 "매우 높은 산업 우선"
+ industry_focus_very_strong_desc:0 " "
+ 
+ research_focus:0 "연구 우선"
+ research_focus_desc:0 " "
+ research_focus_strong:0 "높은 연구 우선"
+ research_focus_strong_desc:0 " "
+ research_focus_very_strong:0 "매우 높은 연구 우선"
+ research_focus_very_strong_desc:0 " "
+ 
+ 
+ 
+ 
+ 
+ INDUSTRIAL_FOCUS:0 "용납할 수 없는 산업 초점"
+ NO_INDUSTRIAL_FOCUS:0 "우월한 산업 초점"
+ INDUSTRIAL_FOCUS_DESC:0 "§Y경제 초점§! 정책을 §Y높은 연구§!에 맞추는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ RESEARCH_FOCUS:0 "연구 초점"
+ NO_RESEARCH_FOCUS:0 "연구 초점 반대"
+ RESEARCH_FOCUS_DESC:0 "§Y경제 초점§! 정책을 §Y높은 산업§!으로 설정하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ RESEARCH_FOCUS_STRONG:0 "매우 높은 연구 초점"
+ NO_RESEARCH_FOCUS_STRONG:0 "용납할 수 없는 연구 초점"
+ RESEARCH_FOCUS_STRONG_DESC:0 "§Y경제 초점§! 정책을 §Y우월한 연구§!로 설정하는 것은 [Root.GetName]을 대단히 불쾌하게 할 것입니다."
+ 
+ 
+ 
+ NO_INDUSTRIAL_FOCUS:0 "우월한 산업 초점"
+ INDUSTRIAL_FOCUS:0 "용납할 수 없는 산업 초점"
+ NO_INDUSTRIAL_FOCUS_DESC:0 "§Y경제 초점§! 정책을 §Y우월한 산업§!으로 설정하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ STRONG_RESEARCH_FOCUS:0 "우월한 연구 초점"
+ NO_STRONG_RESEARCH_FOCUS:0 "우월한 연구 초점"
+ STRONG_RESEARCH_FOCUS_DESC:0 "§Y경제 초점§! 정책을 §Y우월한 연구§!로 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ requires_civic_hierarchy:0 "$TRIGGER_FAIL$§Y권위주의§! 사회제도를 활성화해야 합니다."
+ requires_slave_plant:0 "$TRIGGER_FAIL$§Y신경 이식물§! 기술을 필요로 합니다."
+ ap_ultimate_slaver:0 "은하의 노예 주인"
+ ap_ultimate_slaver_desc:0 "§H계급 제도§! 유형의 시민권을 보유해야 합니다. 지역 주민과 관광객의 상호 작용을 통해 행성 행복도를 높이고 수익을 창출하는 행성 고유의 건물 §Y네오-콜로세움§!을 잠금해제합니다."
+ building_colliseum:0 "네오-콜로세움"
+ building_colliseum_desc:0 "행성 경제를 향상시키고 행복도를 증가시킵니다. 또한, 지상군은 군대에 있는 퇴역 검투사들에게서 버프를 받습니다."
+ requirement_energy:0 "§R풍부한(2+) 에너지 매장지에만 건설할 수 있습니다."
+ requirement_slave_unslave:0 "§R행성에 노예 4POP 이상, 노예가 아닌 4POP 이상이 있어야 합니다."
+ requires_not_pluralist_authoritarian:0 "$TRIGGER_FAIL$§Y권위주의§!이고, §Y평등주의§!가 아니어야 합니다."
+ requires_no_federation:0 "$TRIGGER_FAIL$§Y연방§! 회원국이 아니어야 합니다."
+ 
+ DIRECT_DEMOCRACY:0 "직접 민주주의"
+ NO_DIRECT_DEMOCRACY:0 "직접 민주주의 확립"
+ DIRECT_DEMOCRACY_DESC:0 "§Y직접 민주주의§! 권력 구조를 수립하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ triggered_opinion_ap_galactic_contender:0 "정당한 존중"
+ 
+ factions.1.desc.prosperity:1 "그들의 구성원들은 사회적, 경제적 번영과 평화적 수단을 통한 안정에 국가적 초점을 맞추기 위해 로비를 합니다."
+ factions.1.desc.progressive:0 "그들의 구성원들은 우리 제국의 모든 시민들을 위한 자유와 정의를 위해 일합니다.\n\n"
+ factions.2000.desc.progressive:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H자유주의§!적으로 변했습니다.\n\n"
+ 
+ factions.1.desc.conservatives:0 "그들의 구성원들은 각 개인의 인식된 장점과 성과에 대한 더 보람 있는 개인적 계좌를 위해 일합니다.\n\n"
+ factions.1.desc.bankers:0 "그들의 구성원들은 재정 성장과 자유시장 개발에 전국적인 초점을 맞추기 위해 로비를 합니다.\n\n"
+ factions.1.desc.socialists:0 "그들의 구성원들은 우리 제국의 모든 시민들을 위한 경제적 평등을 위해 일합니다.\n\n"
+ factions.1.desc.labourites:1 "그들의 구성원들은 반-엘리트주의와 모든 이들을 위한 평등한 사회적 기회를 위해 로비를 합니다."
+ factions.1.desc.environmentalists:0 "그들의 구성원들은 환경 보호를 위해 로비를 벌이며 열심히 일합니다.\n\n"
+ factions.1.desc.manufacturers:0 "그들의 구성원들은 제국의 산업 발전을 열심히 밀어붙여 왔습니다.\n\n"
+ factions.2000.desc.conservatives:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H엘리트주의§!적으로 변했습니다.\n\n"
+ factions.2000.desc.bankers:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H개인주의§!적으로 변했습니다.\n\n"
+ factions.2000.desc.socialists:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H집단주의§!적으로 변했습니다.\n\n"
+ factions.2000.desc.labourites:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H다원주의§!적으로 변했습니다.\n\n"
+ factions.2000.desc.environmentalists:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H자연주의§!적으로 변했습니다.\n\n"
+ factions.2000.desc.manufacturers:0 "이 파벌을 그들의 정부로 끌어들인 결과, 그들은 겉으로 보기에 더욱 §H산업주의§!적으로 변했습니다.\n\n"
+ 
+ edict_indoctrination_xenophobe:0 "교화: 외계종 혐오"
+ edict_indoctrination_xenophobe_desc:0 "§Y외계종 선호§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_xenophile:0 "교화: 외계종 선호"
+ edict_indoctrination_xenophile_desc:0 "§Y우월주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_capitalism:0 "교화: 개인주의"
+ edict_indoctrination_capitalism_desc:0 "§Y사회주의§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_socialism:0 "교화: 집단주의"
+ edict_indoctrination_socialism_desc:0 "§Y무역 상인§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_elitist:0 "교화: 엘리트주의"
+ edict_indoctrination_elitist_desc:0 "§Y노동당원§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_pluralist:0 "교화: 평등주의"
+ edict_indoctrination_pluralist_desc:0 "§Y귀족주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_green:0 "교화: 자연주의"
+ edict_indoctrination_green_desc:0 "§Y제조업자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_industrial:0 "교화: 산업주의"
+ edict_indoctrination_industrial_desc:0 "§Y자연주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_spiritualist:0 "교화: 정신주의"
+ edict_indoctrination_spiritualist_desc:0 "§Y기술주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_materialist:0 "교화: 물질주의"
+ edict_indoctrination_materialist_desc:0 "§Y전통주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_authoritarian:0 "교화: 집단주의"
+ edict_indoctrination_authoritarian_desc:0 "§Y진보주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_militarist:0 "교화: 군국주의"
+ edict_indoctrination_militarist_desc:0 "§Y번영주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ edict_indoctrination_pacifist:0 "교화: 평화주의"
+ edict_indoctrination_pacifist_desc:0 "§Y제국주의자§! 파벌을 불행하게 할 것입니다."
+ 
+ PLURALIST_INDOCTRINATION:0 "평등주의 교화"
+ NO_PLURALIST_INDOCTRINATION:0 "평등주의 교화"
+ PLURALIST_INDOCTRINATION_DESC:0 "§Y교화: 자연주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ ELITIST_INDOCTRINATION:0 "엘리트주의 교화"
+ NO_ELITIST_INDOCTRINATION:0 "엘리트주의 교화"
+ ELITIST_INDOCTRINATION_DESC:0 "§Y교화: 엘리트주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ SPIRITUALIST_INDOCTRINATION:0 "정신주의 교화"
+ NO_SPIRITUALIST_INDOCTRINATION:0 "정신주의 교화"
+ SPIRITUALIST_INDOCTRINATION_DESC:0 "§Y교화: 정신주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ MATERIALIST_INDOCTRINATION:0 "물질주의 교화"
+ NO_MATERIALIST_INDOCTRINATION:0 "물질주의 교화"
+ MATERIALIST_INDOCTRINATION_DESC:0 "§Y교화: 물질주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ MILITARIST_INDOCTRINATION:0 "군국주의 교화"
+ NO_MILITARIST_INDOCTRINATION:0 "군국주의 교화"
+ MILITARIST_INDOCTRINATION_DESC:0 "§Y교화: 군국주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PACIFIST_INDOCTRINATION:0 "평화주의 교화"
+ NO_PACIFIST_INDOCTRINATION:0 "평화주의 교화"
+ PACIFIST_INDOCTRINATION_DESC:0 "§Y교화: 평화주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ AUTHORITARIAN_INDOCTRINATION:0 "집단주의 교화"
+ NO_AUTHORITARIAN_INDOCTRINATION:0 "집단주의 교화"
+ AUTHORITARIAN_INDOCTRINATION_DESC:0 "§Y교화: 집단주의§! 시행령을 활성화하는 것은 [Root.GetName]을(를) 불쾌하게 할 것입니다."
+ 
+ XENOPHILE_INDOCTRINATION:0 "외계종 선호 교화"
+ NO_XENOPHILE_INDOCTRINATION:0 "외계종 선호 교화"
+ XENOPHILE_INDOCTRINATION_DESC:0 "§Y교화: 외계종 선호§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ XENOPHOBE_INDOCTRINATION:0 "외계종 혐오 교화"
+ NO_XENOPHOBE_INDOCTRINATION:0 "외계종 혐오 교화"
+ XENOPHOBE_INDOCTRINATION_DESC:0 "§Y교화: 외계종 혐오§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ INDUSTRIAL_INDOCTRINATION:0 "산업주의 교화"
+ NO_INDUSTRIAL_INDOCTRINATION:0 "산업주의 교화"
+ INDUSTRIAL_INDOCTRINATION_DESC:0 "§Y교화: 산업주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ GREEN_INDOCTRINATION:0 "생태주의자 교화"
+ NO_GREEN_INDOCTRINATION:0 "생태주의자 교화"
+ GREEN_INDOCTRINATION_DESC:0 "§Y교화: 환경주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ SOCIALISM_INDOCTRINATION:0 "집단주의자 교화"
+ NO_SOCIALISM_INDOCTRINATION:0 "집단주의자 교화"
+ SOCIALISM_INDOCTRINATION_DESC:0 "§Y교화: 집단주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ CAPITALISM_INDOCTRINATION:0 "개인주의자 교화"
+ NO_CAPITALISM_INDOCTRINATION:0 "개인주의자 교화"
+ CAPITALISM_INDOCTRINATION_DESC:0 "§Y교화: 개인주의§! 시행령을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ requires_materialism:0 "$TRIGGER_FAIL$§Y물질주의§! 윤리관을 필요로 합니다."
+ 
+ building_global_pds_1:0 "포괄적 행성 방어 시스템"
+ building_global_pds_1_desc:0 "행성 궤도폭격이 발생할 경우, 포괄적 행성 방어 시스템은 무작위로 폭격함 1척을 겨냥해 이 배가 파괴될 때까지 집중 사격을 할 것입니다."
+ 
+ ENVIRONMENTAL_ECONOMY_1:0 "환경 우선 I"
+ NO_ENVIRONMENTAL_ECONOMY_1:0 "환경 우선 I"
+ ENVIRONMENTAL_ECONOMY_1_DESC:0 "레벨 I §Y환경주의§! 전통 중 하나도 채택하지 않은 상태에서 레벨 I §Y개발§! 전통 중 하나를 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ ENVIRONMENTAL_ECONOMY_2:0 "환경 우선 II"
+ NO_ENVIRONMENTAL_ECONOMY_2:0 "환경 우선 II"
+ ENVIRONMENTAL_ECONOMY_2_DESC:0 "레벨 II §Y환경주의§! 전통 중 하나도 채택하지 않은 상태에서 레벨 II §Y개발§! 전통 중 하나를 채택하는 것은 [Root.GetName]을 매우 불쾌하게 할 것입니다."
+ 
+ ENVIRONMENTAL_ECONOMY_3:0 "환경 우선 III"
+ NO_ENVIRONMENTAL_ECONOMY_3:0 "환경 우선 III"
+ ENVIRONMENTAL_ECONOMY_3_DESC:0 "§Y환경주의§! 전통을 완성하지 않고 §Y개발§! 전통을 완성하는 것은 [Root.GetName]을 대단히 불쾌하게 할 것입니다."
+ 
+ DEVELOPMENT_ECONOMY_1:0 "개발 우선 I"
+ NO_DEVELOPMENT_ECONOMY_1:0 "개발 우선 I"
+ DEVELOPMENT_ECONOMY_1_DESC:0 "레벨 I §Y개발§! 전통 중 하나도 채택하지 않은 상태에서 레벨 I §Y환경주의§! 전통 중 하나를 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ DEVELOPMENT_ECONOMY_2:0 "개발 우선 II"
+ NO_DEVELOPMENT_ECONOMY_2:0 "개발 우선 II"
+ DEVELOPMENT_ECONOMY_2_DESC:0 "레벨 II §Y개발§! 전통 중 하나도 채택하지 않은 상태에서 레벨 II §Y환경주의§! 전통 중 하나를 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ DEVELOPMENT_ECONOMY_3:0 "개발 우선 III"
+ NO_DEVELOPMENT_ECONOMY_3:0 "개발 우선 III"
+ DEVELOPMENT_ECONOMY_3_DESC:0 "§Y개발§! 전통을 완성하지 않고 §Y환경주의§! 전통을 완성하는 것은 [Root.GetName]을 대단히 불쾌하게 할 것입니다."
+ 
+ edict_forced_industry:0 "강제 산업화"
+ edict_forced_industry_desc:0 " " "
+ edict_clean_air:0 "교리: 깨끗한 공기"
+ edict_clean_air_desc:0 " "
+ edict_social_development:0 "사회 개발"
+ edict_social_development_desc:0 " "
+ 
+ ethic_rebuild_opinion_unity_patrons:0 "신성한 후원자"
+ 
+ 
+ 
+ 
+ civic_tribals:0 "원로회의 종소리"
+ civic_tribals_desc:0 "정부는 외부의 잠재적 위협으로부터 제국의 안전을 지키는 것을 주시하고 있는 사회 원로회의 감시를 받고 있습니다."
+ 
+ civic_trade_league:0 "무역 연합체"
+ civic_trade_league_desc:0 "무역 연합체는 제국의 경제 및 정치 생활을 지배하는 가장 부유한 기업들로 구성된 협력단을 대표합니다."
+ 
+ 
+ 
+ MOD_POP_CONSUMER_GOODS_MULT:0 "소비재"
+ 
+ civic_social_state:0 "사령부 경제"
+ civic_social_state_desc:0 "정부가 생산, 유통, 가격을 통제하고 규제하며 산업에 대한 상당한 공소유권을 갖는 중앙집권적 형태의 계획경제입니다."
+ 
+ 
+ 
+ 
+ #Unlocks planetary edict §YBlood Sacrifice§!, which is available only in times of War and can be used once a year. It randomy kills a Pop and provides global temporary (a year) Empire's modifier, increasing §YRivalry Influece Gain§! by §G25%§!, §Y$MOD_SHIP_FIRE_RATE_MULT$§! by §G15%§! and §Y$MOD_ARMY_MORALE$§! is increased by §G10%§!, and a temporary (a year) planet's modifier, reducing local §YHappiness§! by §G5%§!.
+ 
+ inquisition_army:0 "정예 종교 재판관"
+ inquisition_army_plural:0 "정예 종교 재판관"
+ inquisition_army_desc:0 "정예 종교 재판관"
+ 
+ 
+ 
+ civic_liberal_democracy:0 "신민 공화국"
+ civic_liberal_democracy_desc:0 "정부는 종교 의회가 민주적 절차를 감독하고 자문 역할을 하는, 정신적인 형태의 공화국을 대표합니다."
+ 
+ 
+ 
+ 
+ sr_sights:0 "자연의 경이"
+ sr_sights_desc:0 "자연의 아름다움을 지닌 이 장소는 고급 리조트를 세우기에 안성맞춤일 것입니다!"
+ 
+ 
+ edict_pan_galactic_league:0 "범은하연맹"
+ edict_pan_galactic_league_desc:0 " "
+ 
+ 
+ unity_patrons:0 "후원 유산"
+ unity_patrons_desc:0 " "
+ 
+ 
+ 
+ 
+ 
+ edict_social_welfare:0 "사회복지 프로그램"
+ edict_social_welfare_desc:0 " "
+ 
+ 
+ requires_adopt_environmentalism:0 "$TRIGGER_FAIL$§Y환경주의§! 전통 트리를 채택해야 합니다."
+ requires_adopt_development:0 "$TRIGGER_FAIL$§Y개발§! 전통 트리를 채택해야 합니다."
+ 
+ 
+ socialism_economy_synth:0 "계획경제 I (합성 화학 산업)"
+ socialism_economy_synth_desc:0 " "
+ fan_socialism_economy_synth:0 "계획경제 II (합성 화학 산업)"
+ fan_socialism_economy_synth_desc:0 " "
+ 
+ 
+ 
+ 
+ 
+ edict_pan_galactic_nation:0 "범은하 국가"
+ edict_pan_galactic_nation_desc:0 " "
+ 
+ 
+ 
+ 
+ civic_tooltip_xenologist_effects:0 "§Y고대 문명 이상현상:§!\n 이상현상 연구 속도: §G+50.0%§!\n이상현상 실패 확률: §R-25.0%§!\n§Y$BIOLOGICAL_species_trait_points_add$§!가 §G+1§! 증가합니다.\n§Y$category_biology_research_speed_mult$§!가 §G+30%§! 증가합니다.\n§Y$category_new_worlds_research_speed_mult$§!가 §G+30%§! 증가합니다.\n§Y$pop_ethic_xenophile_attraction_mult$§!이 §G+5%§! 증가합니다.\n§Y$pop_ethic_materialist_attraction_mult$§!이 §G+10%§! 증가합니다.\n§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!가 §G+10%§! 감소합니다.\n"
+ 
+ 
+ 
+ 
+ 
+ civic_federalist:0 "연방주의"
+ civic_federalist_desc:0 "중앙정부 산하의 부분적 자치주 연합인 연방의 평화적 발전을 통한 확장에 초점을 맞춥니다. 중심에서 의견을 가져오고 증가시켜 테두리 밖에서 식민지화할 수 있도록 합니다."
+ 
+ triggered_opinion_federalism:0 "연방 지도자"
+ 
+ civic_hegemon:0 "제국주의"
+ civic_hegemon_desc:0 "제국주의 국가는 지배력과 힘의 위치에서 그것의 신하들을 다루며, 그들에게 대군주에 대한 상당한 공헌을 의무화합니다. 신하들은 그들의 국경 바깥을 식민지화할 수 있도록 허락받았습니다."
+ 
+ ethic_capitalism:0 "경쟁주의"
+ ethic_fanatic_capitalism:0 "광적인 경쟁주의"
+ ethic_capitalism_desc:1 "§L개인적 야망은 진보의 원동력입니다. 향상심, 추구하는 바를 위한 추진력, 이것들이 바로 별을 우리의 손끝에 가져다 준 것들입니다. 우리는 순응주의자들의 비이성적인 두려움으로부터 어렵게 얻은 표현의 자유를 계속 보호해야 하며, 천재성이 일반주의에 발목을 잡히지 않도록 해야 합니다.§!\n"
+ ethic_fanatic_capitalism_desc:1 "§L탁월해지고, 축적하고, 재투자하라는 요구보다 더 중요한 것은 없습니다. 야망의 충돌로 인해 큰 부가 생겨나고, 그로 말미암아 더 큰 야망이 생겨납니다. 바퀴가 돌아가면서, 그 밑에 있는 부적합한 것들을 평평하게 만들지만, 모든 디딤판마다 새로운 노력가들을 끌어올립니다. 우리는 알고 있습니다- 우리는 본보기를 보이고 있습니다- 우리 중 가장 좋은 것은, 궁극적으로, 우리 모두에게 좋은 것이라는 것을요."
+ 
+ ethic_socialism:0 "협동주의"
+ ethic_fanatic_socialism:0 "광적인 협동주의"
+ 
+ ethic_socialism_desc:0 "§L팀워크는 진보의 원동력입니다. 함께 노력하면서, 우리는 우리의 부분의 합보다 더 큰 무언가가 됩니다: 위대하고 살아있는 유기체, 세포인 우리 각자와 함께 말이죠. 우리에게 주어진 임무를 부지런히 수행하는 것은 우리에게 주어진 모든 것입니다. 더 큰 이익에 기여하는 것은 우리가 스스로에게 요구하는 모든 것입니다.§!\n"
+ ethic_fanatic_socialism_desc:0 "§L위대한 노동 속에서 자신의 위치를 찾고, 자신을 포기하고, 공동의 결실을 나누라는 요구보다 더 위대한 요구는 없습니다. 이기적으로 부, 토지, 기계를 축적하는 것- 이것들은 정치체 내부의 암적인 증상입니다. 오히려 어리고, 늙고, 병든 이들을 돌보면서 나누는 부담감이 우리를 강하게 만들고, 함께 하는 것이 우리를 하나로 만듭니다.§!\n"
+ 
+ ethic_egalitarian_desc:1 "§L자유주의자들은 민주적 가치를 보존하며, 시민들은 대의제나 직접 민주주의의 메커니즘을 통해 통치 과정에 직접 관여합니다.§!\n"
+ ethic_fanatic_egalitarian_desc:1 "§L광적인 자유주의자들은 중앙 관료적 권위의 전반적인 축소와 최대한의 정치적 자율성 및 자치를 지지합니다.§!\n"
+ 
+ civic_pilgrims:0 "모험적 선구자"
+ civic_pilgrims_desc:0 "이 사회는 오랜 유목민족 전통과 강한 모험정신을 가지고 있습니다. 시민들은 가능한 한 광범위하게 재정착하여 영토를 크게 확장하는 경향이 있습니다. 공격적인 확장론자들은 은하를 자신들의 유산으로 보고 있습니다. 그들은 대부분 그들이 닿을 수 있는 우주의 모든 어두운 구석에 그들의 영향력을 전파하는 데 초점을 맞췄습니다."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ civic_free_market:0 "자유시장"
+ civic_free_market_desc:0 "상품과 서비스의 가격이 공개 시장과 소비자에 의해 결정되고, 공급과 수요의 법칙과 힘이 정부, 독점적인 가격 결정자 또는 다른 당국의 개입으로부터 자유로워지는 이상적인 경제 체제입니다."
+ 
+ 
+ 
+ civic_militarist_order:0 "군벌"
+ civic_militarist_order_desc:0 " "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ETHIC_ALLOWS_WELFARE_POLICY_1:0 "§H계획경제 정책§!을 §E허용§!: §G+20%§! §HPOP 성장 속도§!, §G+33%§! §H행성 건설 속도§!, §G+7%§! §H행복도§!."
+ ETHIC_ALLOWS_WELFARE_POLICY_2:0 "§H계획경제 정책§!을 §E허용§!: §G+30%§! §HPOP 성장 속도§!, §G+50%§! §H행성 건설 속도§!, §G+50%§! §H함선 건조 속도§!, §G+10%§! §H행복도§!, £energy§! §R-5%§! §H에너지 크레딧§! "
+ ETHIC_ALLOWS_MARKET_POLICY_1:0 "§H시장경제 정책§!을 §E허용§!: £energy£ §G+5%§! §H에너지 크레딧§! "
+ ETHIC_ALLOWS_MARKET_POLICY_2:0 "§H시장경제 정책§!을 §E허용§!: £energy£ §G+8%§! §H에너지 크레딧§!, §G-8%§! 건물/함선 §H유지비용§!, £unity£ §R-15%§! §H통합력§! §H보건 캠페인§!은 이용불가능해집니다."
+ 
+ DIPLOMACY_TRADITIONS:0 "전통적인 군국주의"
+ NO_DIPLOMACY_TRADITIONS:0 "전통적인 번영"
+ DIPLOMACY_TRADITIONS_DESC:0 "§Y번영§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ ELITISM_TRADITION:0 "전통적인 엘리트주의"
+ NO_ELITISM_TRADITION:0 "전통적인 엘리트주의"
+ ELITISM_TRADITION_DESC:0 "§Y능력주의§! 전통의 채택은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ TECHNOLOGIST_NO_SPIRITUALISM:0 "전통적인 물질주의"
+ TECHNOLOGIST_SPIRITUALISM:0 "전통적인 신앙주의"
+ TECHNOLOGIST_NO_SPIRITUALISM_DESC:0 "§Y신앙§! 전통의 채택은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ DEVELOPED_ENVIRONMENTALISM:0 "자연에 대한 헌신"
+ NO_DEVELOPED_ENVIRONMENTALISM:0 "자연에 대한 헌신"
+ DEVELOPED_ENVIRONMENTALISM_DESC:0 "§Y환경 경제학§! 또는 §Y조화의 수호자§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ 
+ ENVIRONMENTAL_ECONOMY:0 "전통적인 환경주의"
+ NO_ENVIRONMENTAL_ECONOMY:0 "전통적인 환경주의"
+ ENVIRONMENTAL_ECONOMY_DESC:0 "§Y개발§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ MILITARY_ORDER:0 "개발된 군국주의"
+ MILITARY_ORDER_NO:0 "군국주의 개발"
+ MILITARY_ORDER_DESC:0 "§Y군인 정치§! 또는 §Y전쟁 공예가§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ISOLATIONIST_WAR_TRADITION:0 "개발된 고립주의"
+ ISOLATIONIST_NO_WAR_TRADITION:0 "고립주의 개발"
+ ISOLATIONIST_WAR_TRADITION_DESC:0 "§Y고립주의§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ DEVELOPMENT_ECONOMY:0 "전통적인 개발"
+ NO_DEVELOPMENT_ECONOMY:0 "전통적인 조화"
+ DEVELOPMENT_ECONOMY_DESC:0 "§Y조화§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ PROGRESSIVE_ANARCHY:0 "발전된 자유주의"
+ NO_PROGRESSIVE_ANARCHY:0 "자유주의 발전"
+ PROGRESSIVE_ANARCHY_DESC:0 "§Y자유의 정신§! 또는 §Y정치적 다원주의§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TRADITION_ANARCHY:0 "전통적인 자유"
+ NO_TRADITION_ANARCHY:0 "전통적인 권한 반대"
+ TRADITION_ANARCHY_DESC:0 "§Y권한§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PROSPERITY_IDEOLOGY:0 "번영하는 사회"
+ PROSPERITY_NO_IDEOLOGY:0 "번영하는 사회"
+ PROSPERITY_IDEOLOGY_DESC:0 "§Y풍요의 땅§! or §Y농경 전원지§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PROSPERITY_TRADITION:0 "전통적인 번영"
+ NO_PROSPERITY_TRADITION:0 "전통적인 우월 반대"
+ PROSPERITY_TRADITION_DESC:0 "§Y번영§! 전통을 채택하지 않은 상태에서 §Y우월§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ SOCIALISM_IDEOLOGY:0 "전통적인 연방"
+ NO_SOCIALISM_IDEOLOGY:0 "전통적인 무역 반대"
+ SOCIALISM_IDEOLOGY_DESC:0 "§Y무역§! 전통의 채택은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ 
+ 
+ 
+ TRADITION_HIERARCHY:0 "전통적인 권한"
+ NO_TRADITION_HIERARCHY:0 "전통적인 자유 반대"
+ TRADITION_HIERARCHY_DESC:0 "§Y자유§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ TRADITIONALIST_NO_SCIENCE:0 "과학 숭배"
+ TRADITIONALIST_SCIENCE:0 "과학 숭배 반대"
+ TRADITIONALIST_SCIENCE_DESC:0 "§Y신앙심§! 전통을 완료하기 전에 §Y과학에 대한 믿음§!을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ TRADITIONALIST_SPIRITUALISM:0 "전통적인 정신주의"
+ TRADITIONALIST_NO_SPIRITUALISM:0 "전통적인 발견 반대"
+ TRADITIONALIST_SPIRITUALISM_DESC:0 "§Y발견§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PLURALISM_TRADITION:0 "전통적인 평등주의"
+ NO_PLURALISM_TRADITION:0 "전통적인 귀족제 반대"
+ PLURALISM_TRADITION_DESC:0 "§Y귀족제§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ XENOIST_NO_PURITY:0 "전통적인 통합"
+ XENOIST_PURITY:0 "전통적인 순수성 반대"
+ XENOIST_NO_PURITY_DESC:0 "§Y순수성§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ edict_loyalty:0 "교리: 사고 통제"
+ edict_loyalty_desc:0 " "
+ 
+ allow_edict_doctrine_loyalty:0 "§Y교리: 사고 통제§!: §Y정부 윤리관 선호도§!, §Y지상군 사기§! 그리고 §Y영향력 획득§!을 증가시키고, 잠재적 §Y불안§!을 줄이고, §Y연구 속도§! 와 §Y에너지 획득량§!을 감소시키는 정부 시행령을 잠금 해제합니다. §Y권력에의 의지§! 기술 연구 선택지를 잠금 해제합니다."
+ 
+ 
+ 
+ requires_finish_hirerarchy_or_cyber:0 "$TRIGGER_FAIL$§Y권위§! 전통을 완료하거나, §Y경찰 국가§! 사회제도를 가져야 합니다."
+ requires_adopt_diversity:0 "$TRIGGER_FAIL$§Y통합§! 전통 트리를 채택해야 합니다."
+ requires_finish_anarchy:0 "$TRIGGER_FAIL$§Y자유§! 전통을 완료해야 합니다."
+ 
+ policy_military_budget:0 "국가 예산 초점"
+ policy_military_budget_desc:0 " "
+ 
+ military_budget_normal:0 "균형 지출"
+ military_budget_normal_name:0 "균형 지출"
+ military_budget_normal_desc:0 " "
+ 
+ military_budget_very_low:0 "강한 국정운영 초점"
+ military_budget_very_low_name:0 "강한 국정운영 초점"
+ military_budget_very_low_desc:0 " "
+ 
+ military_budget_low:0 "국정운영 초점"
+ military_budget_low_name:0 "국정운영 초점"
+ military_budget_low_desc:0 " "
+ 
+ military_budget_high:0 "군사 초점"
+ military_budget_high_name:0 "군사 초점"
+ military_budget_high_desc:0 " "
+ 
+ military_budget_very_high:0 "강한 군사 초점"
+ military_budget_very_high_name:0 "강한 군사 초점"
+ military_budget_very_high_desc:0 " "
+ 
+ PROSPERITY_LOW_MILITARY:0 "국정운영 예산 초점"
+ PROSPERITY_NO_LOW_MILITARY:0 "국정운영 예산 초점"
+ PROSPERITY_LOW_MILITARY_DESC:0 "§Y국가 예산§! 정책을 §Y국정운영§에 집중하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PROSPERITY_NOT_BIG_MILITARY:0 "표준적인 군비"
+ PROSPERITY_BIG_MILITARY:0 "낮은 군비"
+ PROSPERITY_NOT_BIG_MILITARY_DESC:0 "§Y국가 예산§! 정책을 §Y군사§에 집중하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ IMPERIALIST_HIGH_MILITARY:0 "높은 군비"
+ IMPERIALIST_NO_HIGH_MILITARY:0 "군비 증가"
+ IMPERIALIST_HIGH_MILITARY_DESC:0 "§Y국가 예산§! 정책을 계속 §Y군사§에 맞추는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ IMPERIALIST_NORMAL_MILITARY:0 "표준적인 군비"
+ IMPERIALIST_NO_NORMAL_MILITARY:0 "군비 증가"
+ IMPERIALIST_NORMAL_MILITARY_DESC:0 "Y국가 예산§! 정책을 계속 §Y국정운영§에 맞추는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ IMPERIALIST_TRADITION:0 "전통적인 제국주의"
+ IMPERIALIST_NO_TRADITION:0 "전통적 제국주의"
+ IMPERIALIST_TRADITION_DESC:0 "§Y우월§! 전통을 채택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ CAPITALISM_TRADITION:0 "전통적인 자본주의"
+ NO_CAPITALISM_TRADITION:0 "전통적인 연방 반대"
+ CAPITALISM_TRADITION_DESC:0 "§Y연방§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ 
+ PROSPERITY_TRADITION_DESC:0 "§Y번영§! 전통을 채택하지 않은 상태에서 §Y우월§! 전통을 채택하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ 
+ gov_jingoism:0 "호전적 국수주의 정권"
+ gov_jingoism_desc:0 "이러한 권위주의적 통치 형태는 외계종 혐오 선동가에 의해 주도되며, 국가 패권과 명백한 운명의 개념이 정치를 지배합니다."
+ 
+ observation.0002.name:0 "[From.GetSpeciesAdj] 사회의 변화"
+ observation.0002.start.desc:0 "[From.Capital.GetName]의 궤도와 지표면에서 은밀하게 활동하던 우리 요원들이 성공을 거두었습니다. 그들의 노력은 [From.GetName]의 사회적 가치를 우리가 선호하는 방향으로 전환시켰습니다."
+ observation.0002.desc:0 "[From.GetSpeciesNamePlural]은 §Y경쟁주의§!로 윤리관을 바꿉니다."
+ observation.0002.a:0 "그들은 언젠가 우리에게 감사할 것이다."
+ 
+ observation.1002.desc:0 "[From.GetSpeciesNamePlural]은 §Y협동주의§!로 윤리관을 바꿉니다."
+ observation.2002.desc:0 "[From.GetSpeciesNamePlural]은 §Y엘리트주의§!로 윤리관을 바꿉니다."
+ observation.3002.desc:0 "[From.GetSpeciesNamePlural]은 §Y평등주의§!로 윤리관을 바꿉니다."
+ observation.4002.desc:0 "[From.GetSpeciesNamePlural]은 §Y자연주의§!로 윤리관을 바꿉니다."
+ observation.5002.desc:0 "[From.GetSpeciesNamePlural]은 §Y산업주의§!로 윤리관을 바꿉니다."
+ 
+ 
+ 
+ RT_DICTATOR:0 "독재자"
+ RT_PRESIDENT:0 "대통령"
+ 
+ country_subjects_resource_unity_mult:0 "피지배국당 £unity£ 통합력"
+ country_subjects_resource_unity_max_mult:0 "피지배국 최대 효과당 £unity£ 통합력"
+ country_planet_classes_resource_unity_mult:0 "상이한 행성 종류당 £unity£ 통합력"
+ country_planet_classes_resource_unity_max_mult:0 "상이한 행성 종류 최대 효과당 £unity£ 통합력"
+ country_federation_member_resource_unity_mult:0 "연방 회원국당 £unity£ 통합력"
+ country_federation_member_resource_unity_max_mult:0 "연방 회원국 최대 효과당 £unity£ 통합력"
+ country_strategic_resources_resource_unity_mult:0 "희귀 전략 자원당 £unity£ 통합력"
+ country_strategic_resources_resource_unity_max_mult:0 "희귀 전략 자원 최대 효과당 £unity£ 통합력"
+ 
+ 
+ civic_peoples_republic:0 "프롤레타리아 독재정권"
+ civic_peoples_republic_desc:0 "정부는 성과주의적인 형태의 독재 정권입니다. 실제 국회가 있긴 하지만 단일 정치 세력인 이른바 '국민의 정당'이 장악하고 있습니다."
+ 
+ 
+ 
+ civic_tribal_aristocracy:0 "불변의 계급"
+ civic_tribal_aristocracy_desc:0 "이 사회는 엄격한 형태의 사회 계층화를 거치며, 국민들은 주인과 노예로 구성된 엄격한 계층적 집단으로 나뉩니다. §H계급 제도§!가 의무화됩니다. §H네오-콜로세움§! 건물은 추가적인 £unity£ §H통합력§! §G+1§! 을 생산합니다."
+ 
+ civic_noble_aristocracy:0 "고귀한 귀족 계급"
+ civic_noble_aristocracy_desc:0 "이 사회는 귀족, 도덕, 지적 엘리트 등의 이상주의적 형태에 의해 인도되며 성과주의 원칙에 따라 지배됩니다."
+ 
+ civic_military_demos_cratos:0 "무술 형제단"
+ 
+ 
+ 
+ tech_pragmatic_dev:0 "실용적인 행성 개발"
+ tech_pragmatic_dev_desc:0 "§Y실용적인 행성 개발§! 행성 결정을 잠금해제합니다. 이를 통해 개발 가능한 공간을 총 2칸까지 늘릴 수 있지만, 대가로 행성의 §Y거주 적합도§!가 다소 감소할 것입니다."
+ 
+ tech_div_crusade:0 "신들의 부름"
+ tech_div_crusade_desc:0 "국가 시행령 §Y신성한 십자군§!을 잠금해제합니다. 평화주의자들은 이 시행령이 활성화된 동안 전쟁을 벌일 수 있습니다."
+ 
+ 
+ 
+ 
+ civic_tooltip_corporate_dominion_effects:0 " "
+ 
+ RECYCLING_CAMPAIGN:0 "재활용 보조금"
+ NO_RECYCLING_CAMPAIGN:0 "재활용 보조금"
+ RECYCLING_CAMPAIGN_DESC:0 "§Y재활용 캠페인§! 시행령을 적용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ EDUCATION_CAMPAIGN:0 "교육 캠페인"
+ NO_EDUCATION_CAMPAIGN:0 "교육 캠페인"
+ EDUCATION_CAMPAIGN_DESC:0 "§Y교육 캠페인§! 시행령을 적용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ gov_peoples_commissariat:0 "인민 위원회"
+ gov_peoples_commissariat_desc:0 "정부는 국민의 승인을 받은 국회의원으로 이루어진 특별 비대위의 임명과 감시를 받으며 제국의 복지를 지키기 위해 총력전을 펼칩니다."
+ 
+ RT_DEPUTY:0 "인민 부관"
+ 
+ 
+ 
+ 
+ 
+ building_mecha_monastery:0 "기계-수도원"
+ building_mecha_monastery_desc:0 " 테크-프리스트가 모든 기계를 영원히 작동시키기 위한 임무를 수행할 수 있는 피난처와 은둔처를 제공하는 거대한 복합 시설입니다."
+ 
+ empire_is_socialism:0 "$TRIGGER_FAIL$우리 제국은 §Y$ethic_socialism$§! 이상을 받아들입니다."
+ 
+ PROGRESSIVE_NO_SLAVERY:0 "노예 제도 반대"
+ PROGRESSIVE_SLAVERY:0 "노예 제도 허용"
+ PROGRESSIVE_NO_SLAVERY_DESC:0 "§Y노예 제도§! 정책을 허용하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ TRADITIONALIST_YES_ROBOTS:0 "로봇에게 영광을!"
+ TRADITIONALIST_NO_ROBOTS:0 "로봇 반대"
+ TRADITIONALIST_YES_ROBOTS_DESC:0 "로봇 노동자를 허용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ civic_elite_troops:0 "최정예 군부대"
+ civic_elite_troops_desc:0 "정부는 고급 군사력의 훈련과 유지를 위해 상당한 자원을 할당합니다."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ civic_political_pluralism:0 "공화주의적 이상"
+ civic_political_pluralism_desc:0 "공화주의는 '시민적 덕목'이라는 사상을 중심으로 이루어집니다. 일반 시민은 주로 '공적인 일'로서 국가의 문제에 관심을 갖고 있으며, 일반적으로 어느 정도 정치 생활에 관여하고 있습니다."
+ 
+ civic_meritocracy:1 "능력지상주의"
+ civic_meritocracy_desc:1 "이 사회에서 진보의 유일한 근거는 능력과 노력을 발휘할 수 있는 동등한 기회입니다. 그러므로, 지도자의 자리는 가장 유능한 자들이 차지합니다."
+ 
+ civic_beacon_of_liberty:0 "자유의 정신"
+ civic_beacon_of_liberty_desc:0 "이 사회는 자신의 주도권을 행사하고 자신의 목표와 야망을 완전히 이행할 수 있는 개인의 자유에 대한 아이디어를 찬미합니다. 중앙정부의 권위 및 관료적 규제의 감소는 제국 전체에 걸쳐 사람, 무역 상품 및 혁신의 자유로운 흐름을 촉진합니다.\n\n§Y민간 개척선§!을 만들 수 있습니다.\n\n§Y무역 중심지§!모듈의 §Y$MOD_STARBASE_TRADE_COLLECTION_RANGE_ADD$§!가 §G+1§! 증가합니다.\n\n§Y자유 시장§! 경제가 의무화됩니다.\n\n§Y재정착§! 및 §Y인구 통제§!는 허용되지 않고 §Y사회복지§! 생활수준을 이용할 수 없습니다."
+ 
+ 
+ job_mogul:0 "거물"
+ job_mogul_plural:0 "거물"
+ job_mogul_desc:0 "유명하고 영향력 있는 금융 엘리트 구성원입니다."
+ job_mogul_effect_desc:0 "£job_mogul£ $job_mogul_plural$은 £mod_trade_value_add£ §Y$TRADE_VALUE$§! 및 £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!를 생산하고, 행성의 $mod_planet_jobs_energy_produces_mult$을 §G+5%§! 증대시킵니다."
+ mod_job_mogul_add:0 "$job_mogul$ 직업"
+ mod_job_mogul_per_pop:0 "$VALUE$ POP당 §G+1§! $job_mogul$ 직업"
+ mod_job_mogul_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_mogul_add£"
+ 
+ job_mining_engineer:0 "채굴 엔지니어"
+ job_mining_engineer_plural:0 "채굴 엔지니어"
+ job_mining_engineer_desc:0 "채굴 엔지니어들은 그들의 원거리 과학과 기술적 능력을 행성 깊은 곳에서 광물을 추출하는 데 적용합니다."
+ job_mining_engineer_effect_desc:0 "£job_miner£ $job_mining_engineer_plural$는 £engineering£ §Y$engineering_research$§!를 생산하고, 행성의 $mod_planet_jobs_minerals_produces_add$을 증대시킵니다."
+ mod_job_mining_engineer_add:0 "$job_mining_engineer$ 직업"
+ mod_job_mining_engineer_per_pop:0 "$VALUE$ POP당 §G+1§! $job_mining_engineer$ 직업"
+ mod_job_mining_engineer_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_mining_engineer_add£"
+ 
+ job_techno_priest:0 "테크노-프리스트"
+ job_techno_priest_plural:0 "기술 사제"
+ job_techno_priest_desc:0 "이 기계들을 작동시키는 것은 우리의 믿음의 힘입니다."
+ job_techno_priest_effect_desc:0 "£job_priest£ $job_techno_priest_plural$는 £engineering£ §Y$engineering_research$§! 및 £unity£ §Y$unity$§!을 생산하고, §Y$mod_planet_pops_robotics_upkeep_mult$§!을 §G5%§! 감소시킵니다."
+ mod_job_techno_priest_add:0 "$job_techno_priest$ 직업"
+ mod_job_techno_priest_per_pop:0 "$VALUE$ POP당 §G+1§! $job_techno_priest$ 직업"
+ mod_job_techno_priest_per_pop_short:0 "$VALUE$ POP당 §G+1§! $job_techno_priest$ 직업"
+ 
+ 
+ civic_socialistic:0 "드론 형제단"
+ civic_socialistic_desc:0 "정규직 근로자가 직장에서 의사 결정, 책임 및 권한을 공유하여, 보다 완전하게 고용되고 행복한 노동자의 생산성 및 서비스 제공을 증가시키는 것을 수반하는 합의입니다.\n\n§Y채굴지구§!, §Y농업지구§!,§Y발전지구§!마다 §G+1§! 직업 과 §G+1§! 주거를 제공하고 유지비가 §R+15%§! 증가합니다.\n특별한 노동자 직업:£job_primitive_laborer£ §Y노동 영웅§!을 사용할 수 있습니다. 이들은 소량의 £minerals£ §Y광물§!, £food£ §Y식량§!, £energy£ §Y에너지§!,£unity£ §Y통합력§!을 생산합니다."
+ 
+ 
+ civic_environmentalist:0 "자연 유산"
+ civic_environmentalist_desc:2 "지속가능한 발전을 위해, 이 사회는 특히 천연자원의 효율적인 사용, 소비지상주의 제한 및 인구과잉 통제를 통해 환경을 보존하고 보호하는 데 많은 주의를 기울이고 있습니다.\n\n제거가능한 자연 §Y장애물§!로부터 이점을 얻습니다. 장애물은  §Y광부§!, §Y기술공§!, §Y농부§!와 같은 노동자 직업과 적정한 수준의 §Y주거§!를 제공합니다. 또한, £unity£ 통합력을 생산하고 행성의£amenities£ 편의를 증가합니다.\n\n희귀한 자연 §Y장애물§!(§Y거대 생명체§!, §Y방랑하는 숲§!등과 같은)은 적절한 버프도 제공합니다.\n\n§Y낙원 돔§! 기술을 가지고 시작합니다."
+ 
+ #\n\n§YCompetitive§! ethic코0= buildings §YFood Processing Facility§! and §YFood Processing Center§! provide additional £job_merchant£ §YMerchant§! jobs"
+ 
+ civic_master_engineer:0 "마스터 엔지니어"
+ civic_master_engineer_desc:0 "이 문명은 건축과 공학의 전통이 깊은 것으로 알려져 있습니다."
+ 
+ 
+ civic_land_of_plenty:0 "풍요의 땅"
+ civic_land_of_plenty_desc:0 "이 문명은 인구의 가장 필수적인 물질적 욕구의 충족을 우선시하는 이념을 보존해 왔습니다. \n\n§Y배급제§! 식량 정책은 금지됩니다."
+ 
+ 
+ civic_commonwealth:0 "조화로운 공동체"
+ civic_commonwealth_desc:0 "이 사회는 강한 문화적 공동체와 시민들 사이의 공동선의 발전을 특징으로 합니다."
+ 
+ 
+ 
+ #"This capitalistic society considers all natural resources as something to be either utilized or commodified. They have little concern of possible environmental outcomes and only focus on short term economic gratification.  \n\nCan learn §YDeep Core Mining§! technology, allowing to construct §YThermal Borehole§! and hire §YDeep Core Engineers§! \n\n§YEntrepreneurs§! faction will be happy for §YConsumer Benefits§! trade policy"
+ 
+ 
+ civic_military_junta:0 "전쟁 위원회"
+ civic_military_junta_desc:0 "군 수뇌부가 이끄는 정부. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_commandante£ §Y$job_commandante_plural$§!으로 대체합니다. \n£job_commandante£ 사령관은 제국의 £mod_country_naval_cap_add£ §Y함대 수용력§!을 증가시키고, £defense_army£ §Y방위군§!을 형성하고, 행성의 £stability£ §Y안정도§!를 증가시키며, §Y궤도 폭격§! 피해량을 감소시킵니다.\n\n§Y생산 초점§! 정책을 §Y민간 경제§!로 설정하는 것이 금지됩니다."
+ 
+ civic_peaceful_republic:0 "유토피아적 민주주의"
+ civic_peaceful_republic_desc:0 "평화주의적인 형태의 공화국으로, 시민은 모두가 자유롭고 평화롭고 번영하는 삶에 대한 국가적 이념으로 통일되어 있습니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_supervisor£ §Y$job_supervisor_plural$§!로 대체합니다. \n£job_supervisor£ 사상가는 £unity£ §Y통합력§!을 생산하고, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!를 증가시키고, 행성의 §Y$mod_planet_jobs_society_research_produces_mult$§!를 크게 증대시키며, §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!을 증가시킵니다. \n\n§Y생산 초점§! 정책을 §Y군사 경제§!로 설정하는 것이 금지됩니다."
+ 
+ civic_cyber_demos_cratos:0 "사이버 민주주의"
+ civic_cyber_demos_cratos_desc:0 "IT와 대량 커뮤니케이션의 첨단 기술 성과를 민주적 통치에 포함시키면 가장 효율적인 관료 체제를 만들 수 있습니다. 그러나 기술에 대한 그러한 의존은 때때로 사이버 범죄의 발생을 초래할 수 있습니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_head_researcher£ §Y$job_head_researcher_plural$§!로 대체합니다. \n§Y$job_researcher_plural$§!은 §Y1§! £unity£ 통합력을 추가적으로 생산합니다."
+ 
+ civic_science_directorate:0 "과학 이사회"
+ civic_science_directorate_desc:0 "정부는 제국에서 가장 존경받고 유명한 과학자 위원회의 영향을 강하게 받고 있습니다. \n\n§Y기술주의자§! 파벌은 §Y학술적 특권§! 생활수준을 요구할 것입니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_head_researcher£ §Y$job_head_researcher_plural$§!로 대체합니다. \n§Y$job_researcher_plural$§!은 §Y1§! £unity£ 통합력을 추가적으로 생산합니다."
+ 
+ civic_executive_committee:0 "철학자 의회"
+ civic_executive_committee_desc:0 "지배계급에서 가장 총명하고 훌륭한 대표들로 구성된 위원회의 감독을 받는 제국의 국가 기관은 뛰어난 통치 효율을 보여줍니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_supervisor£ §Y$job_supervisor_plural$§!로 대체합니다. \n£job_supervisor£ 사상가는 £unity£ §Y통합력§!을 생산하고, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!를 증가시키고, 행성의 £society£ §Y$mod_planet_jobs_society_research_produces_mult$§!를 크게 증대시키며, §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!을 증가시킵니다."
+ 
+ civic_cyber_dictatorship:0 "사이버 독재"
+ civic_cyber_dictatorship_desc:0 "기술민주독재체제의 하나인 정부 형태로서, 국가는 안보와 행정에 관한 문제를 다루기 위해 슈퍼컴퓨터에 매우 의존합니다. 그러나 AI에 너무 많은 권한을 부여함에 따라, 일반인들은 통치 과정에 훨씬 더 적은 영향력을 가지고 있습니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_head_researcher£ §Y$job_head_researcher_plural$§!로 대체합니다.\n§Y$job_researcher_plural$§!은 §Y1§! £unity£ 통합력을 추가적으로 생산합니다. \n\n§Y관리 AI§! 기술을 가지고 시작합니다."
+ 
+ civic_centralized_state:0 "중앙집권적"
+ civic_centralized_state_desc:0 " "
+ 
+ 
+ 
+ 
+ #Clearing such blockers would also provide some one-time resource gaining.
+ 
+ civic_exalted_priesthood:0 "신정 국가"
+ civic_exalted_priesthood_desc:0 "종교 지도자들은 이단으로부터 사회를 보호하기 위해 행정직을 선점합니다. \n\n§Y홀로그램 의식§! 기술이 잠금해제된 상태로 시작합니다. \n\n§Y신성 연결체§! 및 §Y신앙의 요새§! 건물은 추가적인 £job_high_priest£ §Y대사제§! 직업을 제공합니다. \n\n§H머신 컬트§! 사회제도와 결합될 경우, £job_high_priest£ §Y대사제§!는 추가적으로 행성의 §Y로봇 산출량§!과 £engineering_research£ §Y공학 연구§!를 증가시키고, £job_priest£ §Y기술 사제§!는 추가적인 £unity£ §Y통합력§!과 £engineering_research£ §Y공학 연구§!를 생산합니다."
+ 
+ civic_citizen_service:0 "군정 공화국"
+ civic_citizen_service_desc:0 "완전한 시민권과 그에 수반되는 정치적 책임은 군대에서 복무한 이들에게 한정됩니다. 군 복무는 시민권과 선거권과 통치권을 보장합니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_commandante£ §Y$job_commandante_plural$§!으로 대체합니다.\n£job_commandante£ 사령관은 제국의 £mod_country_naval_cap_add£ §Y함대 수용력§!을 증가시키고, £defense_army£ §Y방위군§!을 생성하고, 행성의 £stability£ §Y안정도§!를 증가시키며, §Y궤도 폭격§! 피해량을 감소시킵니다. \n\n£job_commandante£ §Y$job_commandante_plural$§!은 추가적인 £unity£ §Y통합력§!과 £amenities£ §Y편의§!를 생산합니다. \n\n특별한 국가 시행령 §H애국적인 부름§!을 선택할 수 있습니다."
+ 
+ 
+ civic_idealistic_foundation:0 "무정부 이상"
+ civic_idealistic_foundation_desc:0 "이 사회는 중앙정부 권력의 감소를 특징으로 하는 자유와 평등의 이상주의적 토대를 기반으로 하고 있습니다. \n§Y진보주의자§! 파벌과 §Y노동당원§! 파벌은 §Y직접 민주주의§!를 요구할 것입니다."
+ 
+ civic_hierarchy:0 "불변의 계급"
+ civic_hierarchy_desc:0 "이 사회에서 정치 권력은 불변의 계급 제도를 유지하며 노동계급을 무겁게 지배하고 착취하는 소수의 지배 엘리트 집단의 손에 집중되어 있습니다."
+ 
+ 
+ civic_nationalistic_zeal:1 "제국주의"
+ 
+ 
+ 
+ FANATIC_LIBERTARIAN_GOVERNMENT:0 "정치적 다원주의"
+ NO_FANATIC_LIBERTARIAN_GOVERNMENT:0 "정치적 다원주의"
+ FANATIC_LIBERTARIAN_GOVERNMENT_DESC:0 "§YTotalitarians§! 및 §YAristocratic§!를 제외한 모든 파벌은 §Y정치적 다원주의§! 사회제도가 활성화되었을 때 더 행복해합니다."
+ 
+ empire_not_pluralist_collectivist:0 "$TRIGGER_FAIL$§Y광적인 협동주의/권위주의 아님§! 윤리관 조합을 가져야 합니다."
+ empire_is_elitist:0 "$TRIGGER_FAIL$우리 제국은 §Y$ethic_elitist$§! 이상을 받아들입니다."
+ empire_not_elitist:0 "$TRIGGER_FAIL$우리 제국은 필요한 §Y$ethic_elitist$§! 이상을 받아들이지 않습니다."
+ 
+ 
+ 
+ TECH_UNLOCK_TERRAFORMING_PURIFICATION_TITLE:0 "§H기능 잠금해제:§! 독성 행성 테라포밍"
+ TECH_UNLOCK_TERRAFORMING_PURIFICATION_DESC:0 "§H대기 정화§!\n§Y독성 행성§!을 테라포밍할 수 있습니다.\n\n일반적인 테라포밍보다 더 많은 전략자원과 시간을 필요로 합니다."
+ 
+ TECH_UNLOCK_TERRAFORMING_FROZEN_TITLE:0 "§H기능 잠금해제:§! 얼음형 행성 테라포밍"
+ TECH_UNLOCK_TERRAFORMING_FROZEN_DESC:0 "§H거주 불가능한 행성 테라포밍§!\n§Y얼음형 행성§!을 극지형, 고산형, 동토형 행성 중 하나로 테라포밍할 수 있습니다."
+ 
+ TECH_UNLOCK_TERRAFORMING_MOLTEN_TITLE:0 "§H기능 잠금해제:§! 용암형 행성 테라포밍"
+ TECH_UNLOCK_TERRAFORMING_MOLTEN_DESC:0 "§H거주 불가능한 행성 테라포밍§!\n§Y용암형 행성§!을 사막형, 건조형, 초원형 행성 중 하나로 테라포밍할 수 있습니다."
+ 
+ 
+ policy_economic_stance:0 "경제적 기조"
+ policy_economic_stance_desc:0 " "
+ 
+ economic_stance_market:0 "자유시장"
+ economic_stance_market_name:0 "자유시장"
+ economic_stance_market_desc:0 "에너지 산업은 민영화되고, 경제에 대한 정부의 통제와 규제는 일반적으로 축소됩니다. §Y에너지 시설망§! 및 §Y에너지 연결체§! 건물은 추가적인 £trade_value£ §Y무역 가치§!를 생산합니다. 오직 §Y부의 창출§! 및 §Y소비자 후생§! 무역 정책만 허용됩니다. §H사회적 평등§! 또는 §H이상적 풍요§! 생활수준과 결합될 수 없습니다."
+ 
+ economic_stance_mixed:0 "규제되는 일반적인 시장"
+ economic_stance_mixed_name:0 "규제되는 일반적인 시장"
+ economic_stance_mixed_desc:0 "모든 무역 정책을 사용할 수 있습니다."
+ 
+ economic_stance_planned:0 "계획경제"
+ economic_stance_planned_name:0 " 계획경제"
+ economic_stance_planned_desc:0 "£energy£ §Y에너지§! 생산 산업의 국유화는 불확실한 시장 변동에 의존하지 않고 보다 예측 가능하고 지속 가능한 경제 발전을 가능하게 합니다. 오직 §Y사회 개발§! 및 §Y성장 & 건설§! 무역 정책만 이용 가능합니다."
+ 
+ tech_free_market:0 "경제 교리: 자유시장"
+ tech_free_market_desc:0 "§Y자유시장§! 경제적 기조 정책을 잠금해제합니다."
+ 
+ tech_planned_economy:0 "경제 교리: 계획경제"
+ tech_planned_economy_desc:0 "§Y계획경제§! 경제적 기조 정책을 잠금해제합니다."
+ 
+ tech_private_healthcare:0 "사회 정책: 의료 민영화"
+ tech_private_healthcare_desc:0 "§Y의료§! 정책의 §Y민간의료§! 옵션을 잠금해제합니다."
+ 
+ tech_public_healthcare:0 "사회 정책: 의료 국영화"
+ tech_public_healthcare_desc:0 "§Y의료§! 정책의 §Y공공의료§! 옵션을 잠금해제합니다."
+ 
+ tech_private_education:0 "사회 정책 : 교육 민영화"
+ tech_private_education_desc:0 "§Y교육§! 정책의 §Y사교육§! 옵션을 잠금해제합니다."
+ 
+ tech_public_education:0 "사회 정책 : 교육 국영화"
+ tech_public_education_desc:0 "§Y교육§! 정책의 §Y공교육§! 옵션을 잠금해제합니다."
+ 
+ policy_healthcare:0 "의료"
+ policy_healthcare_name:0 "의료"
+ policy_healthcare_desc:0 " "
+ mixed_healthcare:0 "혼합"
+ mixed_healthcare_desc:0 " "
+ private_healthcare:0 "민간의료"
+ private_healthcare_desc:0 "지도자 수명이 §G+15§! 증가하고, £job_healthcare£ $job_healthcare_plural$가 §G+2§! £mod_trade_value_add£ §Y$TRADE_VALUE$§!를 생산합니다. 그러나 $job_healthcare_plural$에 의한 §Y인구 성장§!이 §R-2%§! 감소합니다."
+ public_healthcare:0 "공공의료"
+ public_healthcare_desc:0 "£job_healthcare£ $job_healthcare_plural$는 유지비가 50% 감소하고, 추가적인 £unity£ §Y통합력§! 및 £amenities §Y편의§!를 생산합니다. §Y유전자 병원§! 건물은 추가적인 £job_healthcare£ $job_healthcare$ 직업을 제공하지만, 유지비가 증가합니다."
+ 
+ policy_education:0 "교육"
+ policy_education_name:0 "교육"
+ policy_education_desc:0 " "
+ mixed_education:0 "혼합"
+ mixed_education_desc:0 " "
+ private_education:0 "사교육"
+ private_education_desc:0 " 사교육"
+ public_education:0 "공교육"
+ public_education_desc:0 " 공교육"
+ 
+ tech_transportation:0 "국정운영: 성간 운송 & 물류 부서"
+ tech_transportation_desc:0 "§Y운송 & 물류§! 정책을 잠금해제합니다."
+ 
+ civilian_transport:0 "민간 운송"
+ civilian_transport_name:0 "민간 운송"
+ civilian_transport_desc:0 "식민지 간의 정기적인 민간 이주"
+ 
+ military_transport:0 "군사 수송"
+ military_transport_name:0 "군사 수송"
+ military_transport_desc:0 "군함대 지원 확대"
+ 
+ none_transport:0 "지정되지 않음"
+ none_transport_name:0 "지정되지 않음"
+ none_transport_desc:0 "우리는 아직 행성 간 운송 시스템을 구축하지 않았습니다."
+ 
+ tech_gun_rights:0 "사회 정책: 개인 무기"
+ tech_gun_rights_desc:0 "§Y개인 무기§! 정책을 잠금해제합니다."
+ 
+ 
+ policy_interstellar_telecom:0 "통신"
+ policy_interstellar_telecom_desc:0 " "
+ 
+ civilian_telecom:0 "민간 통신"
+ civilian_telecom_name:0 "민간 통신"
+ civilian_telecom_desc:0 " "
+ 
+ military_telecom:0 "군사 통신"
+ military_telecom_name:0 "군사 통신"
+ military_telecom_desc:0 " "
+ 
+ none_telecom:0 "지정되지 않음"
+ none_telecom_name:0 "지정되지 않음"
+ none_telecom_desc:0 "우리는 아직 행성 간 통신 시스템을 구축하지 않았습니다."
+ 
+ tech_interstellar_telecom:0 "국정운영: 성간 통신부"
+ tech_interstellar_telecom_desc:0 "§Y통신§! 정책을 잠금해제합니다."
+ 
+ 
+ 
+ policy_interstellar_media:0 "대중 매체"
+ policy_interstellar_media_desc:0 "§Y은하 미디어 자산§! 기술을 잠금해제하기 위해, 먼저 §Y성간 통신부§! 기술을 연구해야 합니다"
+ 
+ free_media:0 "언론의 자유"
+ free_media_name:0 "언론의 자유"
+ free_media_desc:0 " "
+ 
+ state_media:0 "공영방송"
+ state_media_name:0 "공영방송"
+ state_media_desc:0 " "
+ 
+ none_media:0 "혼합"
+ none_media_name:0 "혼합"
+ none_media_desc:0 " "
+ 
+ tech_interstellar_media:0 "국정운영: 은하 미디어 자산"
+ tech_interstellar_media_desc:0 "§Y대중매체§! 정책을 잠금해제합니다."
+ 
+ tech_innovations:0 "무역 패러다임: 혁신 & 진보"
+ tech_innovations_desc:0 "§Y혁신 & 진보§! 무역 정책을 잠금해제합니다."
+ 
+ tech_agri_consortium:0 "농업 협력단"
+ tech_agri_consortium_desc:0 "§Y식량 분배§! 무역 정책을 잠금해제합니다."
+ 
+ tech_mining_consortium:0 "광업 대기업"
+ tech_mining_consortium_desc:0 "§Y산업 개발§! 무역 정책을 잠금해제합니다."
+ 
+ tech_universal_welfare:0 "무역 패러다임: 공동의 이익"
+ tech_universal_welfare_desc:0 "§Y공동의 이익§! 무역 정책을 잠금해제합니다."
+ 
+ 
+ 
+ trade_policy_innovation:0 "혁신 & 진보"
+ trade_conversion_innovation_name:0 "$trade_policy_innovation$"
+ trade_policy_innovation_desc:0 "§E각각의 수집된 £trade_value£ §Y무역 가치§!는 £energy£ §Y0.2§!, £engineering£ §Y0.15§!와 £physics£ §Y0.15§!를 제공합니다.§!"
+ 
+ trade_policy_growth:0 "농업 무역 보조금"
+ trade_policy_growth_name:0 "농업 무역 보조금"
+ trade_conversion_growth_name:0 "농업 무역 보조금"
+ trade_policy_growth_desc:0 "§E각각의 수집된 £trade_value£ §Y무역 가치§!는 £energy£ §Y0.3§!과 £food£ §Y0.4§!를 제공합니다.§!"
+ 
+ trade_policy_development:0 "사회 기반 시설 개발"
+ trade_conversion_development_name:0 "사회 기반 시설 개발"
+ trade_policy_development_desc:0 "§E각각의 수집된 £trade_value£ §Y무역 가치§!는 £food£ §Y0.4§!와 £minerals£ §Y0.6§!를 제공합니다.§!"
+ 
+ trade_policy_growth_dev:0 "사회 개발"
+ trade_conversion_growth_dev_name:0 "사회 개발"
+ trade_policy_growth_dev_desc:0 "§E각각의 수집된 £trade_value£ §Y무역 가치§!는 £unity£ §Y0.25§!, £consumer_goods£ §Y0.25§!와 £society£ §Y0.25§!를 제공합니다.§!"
+ 
+ tech_growth_dev:0 "무역 패러다임: 성장 & 건설"
+ tech_growth_dev_desc:0 "§Y성장 & 건설§! 무역 정책을 잠금해제합니다."
+ 
+ policy_economic_policy:1 "생산 초점"
+ 
+ policy_taxation:0 "과세"
+ policy_taxation_desc:0 " "
+ 
+ policy_bureaucracy:0 "권한적 기조"
+ policy_bureaucracy_desc:0 "이 정책은 정부 관료제가 §Y중앙집권적§! 또는 §Y연방제§! 기조를 명시하는 것을 허용합니다. 이 정책을 시행하기 전에 먼저 §Y은하 행정§!을 배워야 합니다."
+ 
+ none_bureaucracy:0 "없음"
+ none_bureaucracy_name:0 "없음"
+ none_bureaucracy_desc:0 " "
+ 
+ centralized_state:0 "중앙집권적"
+ centralized_state_name:0 "중앙집권적"
+ centralized_state_desc:0 "과도한 권력이 중앙정부의 손에 집중되어 있습니다."
+ 
+ federal_state:0 "연방 정부"
+ federal_state_name:0 "연방 정부"
+ federal_state_desc:0 "관료제가 상당히 분산되어 있어서, 권력을 다소 잃는 대신 통치 효율성을 제공합니다."
+ 
+ tech_centralized_state:0 "국정운영: 중앙집권국가"
+ tech_centralized_state_desc:0 "§Y중앙집권적§! 권한적 기조 정책을 잠금해제합니다."
+ 
+ tech_federal_state:0 "국정운영: 연방국가"
+ tech_federal_state_desc:0 "§Y연방제§! 권한적 기조 정책을 잠금해제합니다."
+ 
+ taxation_high:0 "높음"
+ taxation_high_name:0 "높음"
+ taxation_high_desc:0 " "
+ 
+ taxation_low:0 "낮음"
+ taxation_low_name:0 "낮음"
+ taxation_low_desc:0 " "
+ 
+ taxation_mixed:0 "균형"
+ taxation_mixed_name:0 "균형"
+ taxation_mixed_desc:0 " "
+ 
+ tech_taxation:0 "국정운영: 탄력적 조세 정책"
+ tech_taxation_desc:0 "국정운영: §Y조세§! 정책을 잠금해제합니다."
+ 
+ good_trading:0 "경제학"
+ good_trading_desc:0 "표준 경제 원칙과 관행에 대한 지식."
+ leader_trait_expertise_good_trading:0 "경제학 분야 전문가"
+ leader_trait_expertise_good_trading_desc:0 "이 지도자는 수년 간의 연구 끝에 경제학 분야의 전문가로 평가받고 있습니다."
+ 
+ statecraft:0 "관료제"
+ statecraft_desc:0 "효율적인 관료 체제를 구축하는 기술."
+ 
+ mod_category_good_trading_research_speed_mult:0 "연구 속도 (경제학)"
+ mod_category_statecraft_research_speed_mult:0 "연구 속도 (관료제)"
+ 
+ leader_trait_expertise_statecraft:0 "관료제 & 통치 분야 전문가"
+ leader_trait_expertise_statecraft_desc:1 "이 지도자는 수년 간의 연구 끝에 관료제와 통치 분야의 전문가로 평가받고 있습니다."
+ 
+ mod_pop_ethic_industrial_attraction_mult:0 "인간중심주의 윤리관 선호"
+ mod_pop_ethic_green_attraction_mult:0 "생태주의 윤리관 선호"
+ mod_pop_ethic_elitist_attraction_mult:0 "엘리트주의 윤리관 선호"
+ mod_pop_ethic_pluralist_attraction_mult:0 "다원주의 윤리관 선호"
+ 
+ CAPITALISM_DEVELOPED:0 "개발된 자본주의"
+ NO_CAPITALISM_DEVELOPED:0 "자본주의 개발"
+ CAPITALISM_DEVELOPED_DESC:0 "§Y무역 연맹§!, §Y기업국가§! 중 하나의 사회제도가 활성화된다면 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ WEALTH_ACCUMULATION_1:0 "부"
+ NO_WEALTH_ACCUMULATION_1:0 "부의 축적"
+ WEALTH_ACCUMULATION_1_DESC:0 "§Y부의 창출§! 무역 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ FREE_MARKET_ECONOMY:0 "자유시장"
+ NO_FREE_MARKET_ECONOMY:0 "자유시장 아님"
+ FREE_MARKET_ECONOMY_DESC:0 "§Y자유시장§! 경제적 기조 정책을 활성화하는 것은 [Root.GetName]을 행복하게 할 것입니다."
+ 
+ NO_PLANNED_ECONOMY:0 "계획경제"
+ PLANNED_ECONOMY:0 "계획경제"
+ NO_PLANNED_ECONOMY_DESC:0 "§Y계획경제§! 경제적 기조 정책을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PRIVATE_MEDICINE:0 "민간의료"
+ NO_PRIVATE_MEDICINE:0 "민간의료 아님"
+ PRIVATE_MEDICINE_DESC:0 "§Y민간의료§! 사회 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_PUBLIC_MEDICINE:0 "공공의료"
+ PUBLIC_MEDICINE:0 "공공의료"
+ NO_PUBLIC_MEDICINE_DESC:0 "§Y공공의료§! 사회 정책을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ COMMERCIAL_PACTS:0 "국경 없는 무역"
+ NO_COMMERCIAL_PACTS:0 "국경 없는 무역"
+ COMMERCIAL_PACTS_DESC:0 "적어도 §Y2§! 이상의 다른 제국과 통상 조약을 체결하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ SOCIALISM_DEVELOPED:0 "개발된 사회주의"
+ NO_SOCIALISM_DEVELOPED:0 "개발된 사회주의"
+ SOCIALISM_DEVELOPED_DESC:0 "[Root.GetName]은 다음 사회제도들 중 어느 하나가 활성화된다면 기뻐할 것입니다: §Y복지국가§!, §Y노동조합주의§!, §Y나눠진 짐§!."
+ 
+ MARKETPLACE_OF_IDEAS:0 "사상의 자유시장"
+ NO_MARKETPLACE_OF_IDEAS:0 "사상의 자유시장"
+ MARKETPLACE_OF_IDEAS_DESC:0 "§Y사상의 자유시장§! 무역 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TRADE_COMMON_GOOD:0 "공동의 이익을 위한 무역"
+ NO_TRADE_COMMON_GOOD:0 "공동의 이익을 위한 무역"
+ TRADE_COMMON_GOOD_DESC:0 "§Y공동의 이익§! 무역 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_FREE_MARKET:0 "자유시장"
+ FREE_MARKET:0 "자유시장 아님"
+ NO_FREE_MARKET_DESC:0 "§Y자유시장§! 경제적 기조 정책을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PLANNED_ECONOMY:0 "계획경제"
+ NO_PLANNED_ECONOMY:0 "계획경제"
+ PLANNED_ECONOMY_DESC:0 "§Y계획경제§! 경제적 기조 정책을 활성화하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ 
+ PUBLIC_MEDICINE:0 "공공의료"
+ NO_PUBLIC_MEDICINE:0 "공공의료"
+ PUBLIC_MEDICINE_DESC:0 "§Y공공의료§! 사회 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_PRIVATE_MEDICINE:0 "민간의료 아님"
+ PRIVATE_MEDICINE:0 "민간의료"
+ NO_PRIVATE_MEDICINE_DESC:0 "§Y공공의료§! 사회 정책을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ MERITOCRATIC_ELITE:0 "발달된 평등주의"
+ NO_MERITOCRATIC_ELITE:0 "발달된 평등주의"
+ MERITOCRATIC_ELITE_DESC:0 "§Y노동 조합§!, §Y노동조합주의§! 또는 §Y능력주의§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PUBLIC_EDUCATION:0 "공교육"
+ NO_PUBLIC_EDUCATION:0 "공교육"
+ PUBLIC_EDUCATION_DESC:0 "§Y공교육§! 사회 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_PRIVATE_EDUCATION:0 "사교육 아님"
+ PRIVATE_EDUCATION:0 "사교육"
+ NO_PRIVATE_EDUCATION_DESC:0 "§Y공교육§! 사회 정책을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PROGRESSIVE_LOW_TAXES:0 "낮은 세금"
+ NO_PROGRESSIVE_LOW_TAXES:0 "낮은 세금"
+ PROGRESSIVE_LOW_TAXES_DESC:0 "§Y낮은 세금§! 과세 정책은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_PROGRESSIVE_HIGH_TAXES:0 "높은 세금"
+ PROGRESSIVE_HIGH_TAXES:0 "높은 세금"
+ NO_PROGRESSIVE_HIGH_TAXES_DESC:0 "§Y높은§! 과세 정책은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PROGRESSIVE_FREE_MEDIA:0 "언론의 자유"
+ NO_PROGRESSIVE_FREE_MEDIA:0 "언론의 자유"
+ PROGRESSIVE_FREE_MEDIA_DESC:0 "§Y자유 대중 매체§! 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_PROGRESSIVE_STATE_MEDIA:0 "언론의 자유"
+ PROGRESSIVE_STATE_MEDIA:0 "언론의 자유 없음"
+ NO_PROGRESSIVE_STATE_MEDIA_DESC:0 "§Y국영 대중 매체§! 정책은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ TOTALITARIAN_NO_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_NO_GUN_RIGHTS_DESC:0 "우리 제국에서 일반 시민의 §Y개인 무기§! 휴대를 금지하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PRIVATE_EDUCATION:0 "사교육"
+ NO_PRIVATE_EDUCATION:0 "사교육 아님"
+ PRIVATE_EDUCATION_DESC:0 "§Y사교육§! 사회 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_PUBLIC_EDUCATION:0 "공교육"
+ PUBLIC_EDUCATION:0 "공교육"
+ NO_PUBLIC_EDUCATION_DESC:0 "§Y공교육§! 사회 정책을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ ARISTOCRATIC_ELITE:0 "귀족 엘리트"
+ NO_ARISTOCRATIC_ELITE:0 "귀족 엘리트"
+ ARISTOCRATIC_ELITE_DESC:0 "§Y능력주의§! 또는 §Y귀족 엘리트§! 사회제도를 채택하는 것은 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ DEVELOPED_HIERARCHY:0 "§Y경찰 국가§! 또는 §Y불변의 계급§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ NO_DEVELOPED_HIERARCHY:0 "과도한 권한"
+ DEVELOPED_HIERARCHY_DESC:0 "§Y경찰 국가§! 또는 §Y불변의 계급§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ FEDERAL_STATE:0 "연방 국가"
+ NO_FEDERAL_STATE:0 "연방 정부 아님"
+ FEDERAL_STATE_DESC:0 "§Y연방제§! 권한적 기조 정책을 활성화하는 것은 [Root.GetName]을 행복하게 할 것입니다."
+ 
+ CENTRALIZED_STATE:0 "중앙집권국가"
+ NO_CENTRALIZED_STATE:0 "중앙 집권 국가"
+ CENTRALIZED_STATE_DESC:0 "§Y중앙집권적§! 권한적 기조 정책을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ECO_ASCENSION_1:0 "자연 정복"
+ ECO_NO_ASCENSION_1:0 "자연 정복"
+ ECO_ASCENSION_1_DESC:0 "§Y자연 정복§! 승천 퍽을 선택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ INDUSTRIAL_INFRASTRUCTURE:0 "산업 자본"
+ NO_INDUSTRIAL_INFRASTRUCTURE:0 "산업 자본"
+ INDUSTRIAL_INFRASTRUCTURE_DESC:0 "하나 이상의 행성에 §Y생산부§! 및 §Y성계 수도-복합시설§!을 건설하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ MINERALS_ACCUMULATION_1:0 "풍족한 광물"
+ NO_MINERALS_ACCUMULATION_1:0 "광물 축적"
+ MINERALS_ACCUMULATION_1_DESC:0 "항상 적어도 §Y10,000§! 이상의 £minerals£을 비축해두는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ INDUSTRIAL_ECONOMY:0 "산업주의 문화"
+ NO_INDUSTRIAL_ECONOMY:0 "산업주의 문화"
+ INDUSTRIAL_ECONOMY_DESC:0 "§Y기계주의자§! 또는 §Y산업 경제§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ auth_direct_democratic:0 "직접 민주주의"
+ auth_direct_democratic_desc:0 "국민이 직접 정책구상을 결정하고 통치하면 관료적 효율성이 높아지고 사회경제적 발전도 빨라집니다."
+ 
+ gov_slaver_republic:0 "노예상 공화국"
+ gov_slaver_republic_desc:0 "이 정부는 극도로 엘리트주의적인 형태의 공화국으로, 공화국은 시민과 지위를 선택된 자들에게 제한하기 위해 인구의 많은 분야의 권리 대부분을 폐쇄했습니다."
+ 
+ gov_genuine_aristocracy:0 "진정한 귀족제"
+ gov_genuine_aristocracy_desc:0 "통치 엘리트들이 사회의 이익을 고려하고 국민들을 배려하는 이상주의적인 형태의 정부입니다."
+ 
+ decision_planet_voice:0 "행성의 목소리"
+ decision_planet_voice_effects:0 "다음과 같은 행성의 이상 현상을 근절할 수 있습니다: §Y위험한 야생생물§!, §Y황량함§!, §Y치명적인 기상패턴§!, §Y거친 폭풍§!, §Y방사능 행성§!, §Y훼손된 생태계§!, §Y방사능 황무지§!."
+ decision_planet_voice_effects_short:0 "다음과 같은 행성의 이상 현상을 근절할 수 있습니다: §Y위험한 야생생물§!, §Y황량함§!, §Y치명적인 기상패턴§!, §Y거친 폭풍§!, §Y방사능 행성§!, §Y훼손된 생태계§!, §Y방사능 황무지§!."
+ decision_planet_voice_desc:0 "이 행성의 영혼은 고통 속에 있습니다. 조금만 손대면 사랑과 보살핌으로 모든 것이 다시 멋지고 쾌적해 질 것입니다."
+ edict_voice_planet_1.tooltip:0 "이 결정은 다음과 같은 불행한 환경적 행성 모디파이어를 제거합니다: §Y위험한 야생생물§!, §Y황량함§!, §Y치명적인 기상패턴§!, §Y거친 폭풍§!, §Y방사능 행성§!, §Y훼손된 생태계§!, §Y방사능 황무지§!."
+ 
+ 
+ 
+ 
+ 
+ decision_environment_fix:0 "환경 복원"
+ decision_environment_fix_effects:0 "다음과 같은 행성의 이상 현상을 근절할 수 있습니다: §Y불안정한 지질구조§!, §Y약한 자기장§!, §Y동주기 자전§!, §Y방사능 행성§!, §Y훼손된 생태계§!, §Y방사능 황무지§!, §Y버려진 테라포밍§!."
+ decision_environment_fix_effects_short:0 "다음과 같은 행성의 이상 현상을 근절할 수 있습니다: §Y불안정한 지질구조§!, §Y약한 자기장§!, §Y동주기 자전§!, §Y방사능 행성§!, §Y훼손된 생태계§!, §Y방사능 황무지§!, §Y버려진 테라포밍§!."
+ decision_environment_fix_desc:0 "이 행성은 부서졌고, 우리는 우리가 그것을 고칠 수 있다고 생각합니다."
+ edict_voice_planet_2.tooltip:0 "이 결정은 다음과 같은 불행한 환경적 행성 모디파이어를 제거합니다: §Y불안정한 지질구조§!, §Y약한 자기장§!, §Y동주기 자전§!, §Y방사능 행성§!, §Y훼손된 생태계§!, §Y방사능 황무지§!, §Y버려진 테라포밍§!."
+ 
+ policy_budget_incentives:0 "예산 초점"
+ policy_budget_incentives_desc:0 "추가적인 예산 인센티브의 대상을 지정할 수 있습니다. 모든 정책은 유지하기 위해 제국 기본 에너지 생산량의 §Y20%§!의 비용을 필요로 합니다. §Y국정운영: 예산 인센티브§! 기술을 먼저 연구해야 합니다."
+ 
+ none_budget_incentives:0 "지정되지 않음"
+ none_budget_incentives_name:0 "지정되지 않음"
+ none_budget_incentives_desc:0 " "
+ 
+ culture_science:0 "과학 & 문화"
+ culture_science_name:0 "과학 & 문화"
+ culture_science_desc:0 " "
+ 
+ development_construction:0 "개발 & 건설"
+ development_construction_name:0 "개발 & 건설"
+ development_construction_desc:0 " "
+ 
+ administration_bureaucracy:0 "행정 & 관료제"
+ administration_bureaucracy_name:0 "행정 & 관료제"
+ administration_bureaucracy_desc:0 " "
+ 
+ tech_budget_incentives:0 "국정운영: 예산 인센티브"
+ tech_budget_incentives_desc:0 "§Y예산 초점§! 정책을 적용할 수 있습니다."
+ 
+ civic_aristocratic_elite_desc:0 "이 사회에는 사회의 상류층을 차지하는 견고한 귀족 계층이 있습니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_noble£ §Y$job_noble_plural$§!으로 대체합니다. \n추가적인 £job_noble£ §Y$job_noble$§! 직업을 제공하는£building£ §Y$building_noble_estates$§! 건물을 건설할 수 있습니다."
+ 
+ policy_industrial:0 "환경 규제"
+ policy_industrial_desc:0 " "
+ 
+ mixed_industrial:0 "보통"
+ mixed_industrial_name:0 "보통"
+ mixed_industrial_desc:0 " "
+ 
+ industrial_growth:0 "완화"
+ industrial_growth_name:0 "완화"
+ industrial_growth_desc:0 "환경 규제 완화는 잠재적인 환경 불안정을 감수하고 제조 생산성을 향상시킵니다."
+ 
+ industrial_efficiency:0 "강화"
+ industrial_efficiency_name:0 "강화"
+ industrial_efficiency_desc:0 "자연 자원의 보다 효율적인 사용에 입각한 행성 개발이 이루어지면서 환경 규제가 강화되었습니다."
+ 
+ tech_industrial_efficiency:0 "산업 교리: 효율성"
+ tech_industrial_efficiency_desc:0 "§Y효율성§! 제조 정책을 잠금해제합니다."
+ 
+ tech_industrial_growth:0 "산업 교리: 생산성"
+ tech_industrial_growth_desc:0 "§Y생산성§! 제조 정책을 잠금해제합니다."
+ 
+ NO_EFFICIENCY:0 "환경 규제 금지"
+ NO_EFFICIENCY_NO:0 "환경 규제 금지"
+ NO_EFFICIENCY_DESC:0 "§Y환경 규제 강화§! 정책은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ INDUSTRIAL_PRODUCTIVISM:0 "환경 규제 완화"
+ NO_INDUSTRIAL_PRODUCTIVISM:0 "환경 규제 완화"
+ INDUSTRIAL_PRODUCTIVISM_DESC:0 "§Y환경 규제 완화§! 정책은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ INDUSTRIAL_EFFICIENCY:0 "환경 규제 강화"
+ NO_INDUSTRIAL_EFFICIENCY:0 "환경 규제 강화"
+ INDUSTRIAL_EFFICIENCY_DESC:0 "§Y환경 규제 강화§! 정책은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NO_PRODUCTIVISM:0 "환경 규제 적용"
+ NO_PRODUCTIVISM_NO:0 "환경 규제 적용"
+ NO_PRODUCTIVISM_DESC:0 "§Y환경 규제 완화§! 정책은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ gov_national_socialism:0 "파시스트 정권"
+ gov_national_socialism_desc:0 "급진적 우파, 독재 권력, 반대 세력의 강제 진압, 사회와 경제의 강력한 연대로 특징지어지는 권위주의적 초국가주의의 형태를 보이는 정부입니다."
+ 
+ civic_aristocratic_elite:0 "세습 귀족제"
+ 
+ TOTALITARIAN_STRATIFICATION_DESC:1 "계층 경제, 노예 제도, 학술적 특권 또는 심지어 정화를 통해 계층화된 사회를 보장하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ gov_par_monarchy:0 "입헌군주제"
+ gov_par_monarchy_desc:0 "정책 구성 또는 구현에 적극적으로 관여하지 않는 군주가 이끄는 국가입니다. 진정한 정부 리더십은 내각과 내각의 수장인 국무총리, 총리 또는 수상에 의해 수행됩니다."
+ 
+ civic_naval_traditions:0 "해군 전통"
+ civic_naval_traditions_desc:0 "이 사회에는 영광스러운 군함대의 전통이 깊이 배어 있습니다."
+ 
+ civic_spiritual_democracy:0 "신민 공화국"
+ civic_spiritual_democracy_desc:0 "시민들이 종교적 전통에 의해 결합되는 공화정의 한 형태로서, 강한 도덕적 가치와 윤리적 원칙을 기반으로 합니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_high_priest£ §Y$job_high_priest_plural$§!로 대체합니다. \n§Y신성 연결체§! 및 §Y신앙의 요새§! 건물은 추가적인 £job_high_priest£ §Y대사제§! 직업을 제공합니다. \n£job_priest£ §Y$job_priest_plural$§!는 추가적인 §Y1§! £unity£ 통합력을 생산합니다. \n£job_high_priest£ §Y$job_high_priest_plural$§!는 추가적인 £society£ §Y사회학 연구§! 및 £amenities£ §Y편의§!를 생산합니다. \n\n제국 내 종족을 §Y노예화§!하는 것은 금지됩니다. §Y인구 통제§!는 허용되지 않습니다."
+ 
+ edict_patriotic_call:0 "애국적인 부름"
+ edict_patriotic_call_desc:0 "무장하라! 이 암울한 시기에 당신의 조국이 당신을 필요로 한다!"
+ 
+ glorious_fleet:0 "영광스러운 승리!"
+ unglorious_fleet:0 "정복자에게 불운이!"
+ 
+ civic_police_state:0 "경찰 국가"
+ civic_police_state_desc:0 "반론의 흔적을 없애기 위해, 이 억압적인 사회의 인구는 대규모 내부 경찰에 의해 세심하게 감시되고 통제됩니다.\n\n£job_enforcer£ §Y$job_enforcer_plural$§!은 §Y1§! £unity£ 통합력을 추가적으로 생산하고 범죄를 §G+5§! 감소시킵니다. §Y경찰서§!와 §Y심판의 전당§!의  £energy£ 유지비가 증가합니다."
+ 
+ civic_tooltip_private_prospectors_effects:2 "§H함선 유형 잠금해제:§! §Y민간 개척선§!\n$MOD_COUNTRY_ADMIN_CAP_ADD$: §G+20§!"
+ 
+ gov_peoples_republic:0 "인민 공화국"
+ gov_peoples_republic_desc:0 "이 정부는 평등주의적인 형태의 독재체제입니다. 실제로 국회가 있긴 하지만, 단일 정치 세력인 이른바 '국민의 정당'이 장악하고 있습니다."
+ 
+ 
+ empire_not_capitalism:0 "$TRIGGER_FAIL$우리 제국은 필요한 §Y$ethic_capitalism$§! 이상을 받아들이지 않습니다."
+ 
+ job_supervisor:0 "사상가"
+ job_supervisor_plural:0 "사상가"
+ job_supervisor_desc:0 "철학자 통치 계급의 구성원으로서, 그들의 사회가 운영되는 바로 그 원리들을 명확히 하고 검토하는 일을 맡고 있습니다."
+ job_supervisor_effect_desc:0 "£job_supervisor£ $job_supervisor_plural$는 £unity£ §Y통합력§!을 생산하고, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!를 증가시키고, 행성의 $mod_planet_jobs_society_research_produces_mult$을 증대시키며, §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!을 증가시킵니다."
+ mod_job_supervisor_add:0 "$job_supervisor$ 직업"
+ mod_job_supervisor_per_pop:0 "$VALUE$ POP당 §G+1§! $job_supervisor$ 직업"
+ mod_job_supervisor_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_supervisor_add£"
+ 
+ civic_stratocracy:0 "질서정연한 군인 정치"
+ civic_stratocracy_desc:0 "군인 정치에서 국가와 군대는 기본적으로 그리고 헌법적으로 동일합니다. 행정직은 보통 현역 또는 명예롭게 제대하는 군 수장이 차지하고 있습니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_commandante£ §Y$job_commandante_plural$§!으로 대체합니다. \n£job_commandante£ 사령관은 제국의 £mod_country_naval_cap_add£ §Y함대 수용력§!을 증가시키고, £defense_army£ §Y방위군§!을 형성하고, 행성의 £stability£ §Y안정도§!를 증가시키며, §Y궤도 폭격§! 피해량을 감소시킵니다."
+ 
+ civic_bureaucracy:0 "계몽된 관료주의"
+ civic_bureaucracy_desc:0 "이 사회에서, 정부는 전통적으로 이상적인 통치자로 여겨지는 철학자들과 사상가들에 의해 지도되고, 그들은 일반적으로 지성, 신뢰성, 그리고 평화롭고 풍요로운 삶을 살려는 의지를 가지고 있습니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_supervisor£ §Y$job_supervisor_plural$§!로 대체합니다.\n £job_supervisor£ 사상가는 £unity£ §Y통합력§!을 생산하고, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!를 증가시키고, 행성의 §Y$mod_planet_jobs_society_research_produces_mult$§!를 크게 증대시키며, §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!을 증가시킵니다."
+ 
+ gov_bur_collectivism:0 "관료 집단주의"
+ gov_bur_collectivism_desc:0 "관료주의 집산주의 국가는 생산수단을 소유하지만, 잉여나 이익은 노동자 계층이 아닌 엘리트 정당 관료조직에 분배됩니다."
+ 
+ job_commandante:0 "사령관"
+ job_commandante_plural:0 "사령관"
+ job_commandante_desc:0 "현역 또는 명예 제대 경험이 있는 군 수장."
+ job_commandante_effect_desc:0 "£job_commandante£ $job_commandante_plural$은 제국의 £mod_country_naval_cap_add£ §Y함대 수용력§!을 증가시키고, £defense_army£ §Y방위군§!을 생성하고, 행성의 £stability£ §Y안정도§!를 증가시키고, §Y궤도 폭격§! 피해량을 감소시키며, 약간의 £amenities£ §Y편의§!를 생산합니다."
+ mod_job_commandante_add:0 "$job_commandante$ 직업"
+ mod_job_commandante_per_pop:0 "$VALUE$ POP당 §G+1§! $job_commandante$ 직업"
+ mod_job_commandante_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_commandante_add£"
+ 
+ gov_enlighted_socialism:0 "계몽된 전제주의"
+ gov_enlighted_socialism_desc:0 "이 정부는 사회주의적 독재체제의 한 형태로서, 현명한 선출직 통치자는 의심할 여지 없이 밝은 미래를 위한 계몽된 설계자로 여겨집니다."
+ 
+ RT_SAGE:0 "현자"
+ HT_PROSELYTE:0 "개종자"
+ 
+ gov_dread_brotherhood:0 "공포의 형제단"
+ gov_dread_brotherhood_desc:0 "모든 시민들이 은하에 있는 모든 열등한 생명체의 파괴라는 공통의 목표에 의해 구속되는, 극도로 외계종 혐오적인 직접 민주주의 형태입니다."
+ 
+ RT_BROTHER:0 "형제"
+ RT_SISTER:0 "자매"
+ 
+ PROGRESSIVE_NO_WELFARE:0 "사회적 평등 반대"
+ NO_PROGRESSIVE_NO_WELFARE:0 "사회적 평등"
+ PROGRESSIVE_NO_WELFARE_DESC:0 "§Y사회적 평등§!, §Y사회복지§! 또는 §Y이상적 풍요§! 생활수준을 설정하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ PROGRESSIVE_NO_STRATIFIED_DESC:0 "우리 제국의 누구라도 §Y계층 경제§! 또는 §Y학술적 특권§! 생활수준 하에 있게 하는 것은 [Root.GetName]을 매우 불쾌하게 할 것입니다."
+ 
+ gov_absolute_monarchy:0 "절대왕정"
+ gov_absolute_monarchy_desc:0 "군주가 최고의 권위를 가지고 있으며 그 권위가 문서화된 법률, 입법부 또는 관습에 의해 제한되지 않는 군주제 형태입니다."
+ 
+ gov_cor_dictatorship:0 "기업 독재"
+ gov_cor_dictatorship_desc:0 "매우 자본주의적인 형태의 정부로, 강력한 기업들이 사회의 정치적이고 경제적인 삶을 완전히 장악했습니다."
+ 
+ 
+ #civic_slaver_guilds_desc코0=0 "A number of powerful and ruthless slaver guilds dominates the economy. Private enterprises traditionally rely on slave labor force, and they know how to get the profits out of it. \n\nAllows to set §YEnslavement Rate§! policy, from §G10%§! to §G30%§!."
+ 
+ NO_FREE_MEDIA:0 "언론의 자유"
+ NO_FREE_MEDIA:0 "언론의 자유"
+ NO_FREE_MEDIA_DESC:0 "§Y언론의 자유§! 정책을 활성화하는 것은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ job_xenobiologist:0 "외계-생물학자"
+ job_xenobiologist_plural:0 "외계-생물학자"
+ job_xenobiologist_desc:0 "외계 생물군계 연구를 전문으로 하는 과학자."
+ job_xenobiologist_effect_desc:0 "£job_researcher£ $job_xenobiologist_plural$는 많은 £society£ §Y$society_research$§!를 생산합니다."
+ mod_job_xenobiologist_add:0 "$job_xenobiologist$ 직업"
+ mod_job_xenobiologist_per_pop:0 "$VALUE$ POP당 §G+1§! $job_xenobiologist$ 직업"
+ mod_job_xenobiologist_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_xenobiologist_add£"
+ 
+ job_geoengineer:0 "행성-물리학자"
+ job_geoengineer_plural:0 "행성-물리학자"
+ job_geoengineer_desc:0 "외계 행성계의 물리적 성질을 연구하는 데 특화된 과학자."
+ job_geoengineer_effect_desc:0 "£job_researcher£ $job_geoengineer_plural$는 상당한 양의 £physics£ §Y$physics_research$§! 및 £engineering£ §Y$engineering_research$§!를 생산합니다."
+ mod_job_geoengineer_add:0 "$job_geoengineer$ 직업"
+ mod_job_geoengineer_per_pop:0 "$VALUE$ POP당 §G+1§! $job_geoengineer$ 직업"
+ mod_job_geoengineer_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_geoengineer_add£"
+ 
+ POP_ATTRACTION_SOLITARY_POS:0 "§G+ 외톨이 특성 POP§!"
+ 
+ job_druid:0 "드루이드"
+ job_druid_plural:0 "드루이드"
+ job_druid_desc:0 "자연의 힘을 복음하고 초월성의 길을 설교합니다. 드루이드는 신체적, 정신적 차원 모두에서 사회의 치유자 역할을 합니다."
+ job_druid_effect_desc:0 "£job_priest£ $job_druid_plural$는 상당한 양의 £unity£ §Y$unity$§!을 생산하고, £crime£ §Y범죄§!를 감소시키며, §YPOP 성장률§!을 약간 증가시킵니다."
+ mod_job_druid_add:0 "$job_druid$ 직업"
+ mod_job_druid_per_pop:0 "$VALUE$ POP당 §G+1§! $job_druid$ 직업"
+ mod_job_druid_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_druid_add£"
+ 
+ requires_technology_tech_galactic_administration:0 "$TRIGGER_FAIL$£society£ §Y$tech_galactic_administration$§! 기술을 필요로 합니다."
+ requires_ascension_perks_4:0 "$TRIGGER_FAIL$먼저 다른 4개의 승천 퍽을 선택해야 합니다."
+ 
+ policy_enslavement_rate:0 "노예화 비율"
+ policy_enslavement_rate_desc:0 "§Y권위주의§!와 §Y노예상 조합§! 사회제도의 POP §Y노예화§! 비율을 설정할 수 있습니다."
+ 
+ enslavement_10:0 "10%"
+ enslavement_10_name:0 "10%"
+ enslavement_10_desc:0 " "
+ 
+ enslavement_15:0 "20%"
+ enslavement_15_name:0 "20%"
+ enslavement_15_desc:0 " "
+ 
+ enslavement_20:0 "30%"
+ enslavement_20_name:0 "30%"
+ enslavement_20_desc:0 " "
+ 
+ enslavement_25:0 "40%"
+ enslavement_25_name:0 "40%"
+ enslavement_25_desc:0 " "
+ 
+ enslavement_33:0 "50%"
+ enslavement_33_name:0 "50%"
+ enslavement_33_desc:0 " "
+ 
+ mod_pop_ethic_egalitarian_attraction_mult:0 "자유주의 윤리관 선호"
+ 
+ gov_aristocratic_republic:0 "귀족 공화국"
+ gov_aristocratic_republic_desc:0 "사회적 엘리트에 속하는 이들만 원로원에 선출되어 국민을 대표해 통치할 수 있는 대의민주주의 형태입니다."
+ 
+ gov_oligarchic_republic:0 "과두정치 공화국"
+ gov_oligarchic_republic_desc:0 "극히 엘리트주의적인 형태의 공화국으로, 상당한 권력이 소수의 특권층에게 집중되어 선거와 통치 과정에 강한 영향을 미칩니다."
+ 
+ gov_congress_republic:0 "의회 공화국"
+ gov_congress_republic_desc:0 "수상을 지명하는 민주적으로 선출된 의회 의원들에게 권력이 속하는 대의민주주의의 한 형태입니다. 모든 자유 시민은 지명되고 통치 대상으로 선출될 수 있습니다."
+ 
+ gov_noble_aristocracy:0 "고귀한 귀족제"
+ gov_noble_aristocracy_desc:0 "이 사회의 모든 정치 권력은 고대의 귀족원 대표회의에 속합니다."
+ 
+ RT_REGENT:0 "섭정"
+ 
+ civic_personality_cult:0 "개인주의 정권"
+ civic_personality_cult_desc:0 "국가원수는 결코 틀리지 않는 귀감으로 간주되며 이 개념은, 상상하든 말든, 국가 전역에서 강력하게 강요되고 있습니다."
+ 
+ gov_soviet_republic:0 "소비에트 공화국"
+ gov_soviet_republic_desc:0 "직접 선출되고 선거인에게 직접적으로 책임을 지는 노동자 의회 '소비에트'에 의해 통치되는 공화국의 한 종류입니다. 권력의 분리는 없으며, 선출된 대의원은 입법자이자 정부이자 법원으로서 활동합니다."
+ 
+ gov_aristocratic_monarchy:0 "귀족 군주제"
+ gov_aristocratic_monarchy_desc:0 "세습 통치자가 절대적인 권력을 가지고 있지 못하고, 가장 영향력 있는 귀족 구성원들과 그것을 공유해야 하는 군주제 형태입니다."
+ 
+ edict_div_crusade:0 "$unity_ambition$ 신성한 십자군"
+ edict_div_crusade_desc:0 "불경한 이교도들은 영원히 멸망할 것이다!"
+ 
+ civic_defenders_faith:0 "호전적인 광신도"
+ civic_defenders_faith_desc:0 "종교 원리주의자들은 육체적으로나 정신적으로나 강도 높은 무술 훈련의 강한 전통을 유지하고 있습니다. 그들은 항상 그들의 종교적인 믿음을 이교도들로부터 보호할 준비가 되어 있어야 합니다. \n\n사원은 £job_priest£ §Y사제§! 직업 일부를 £job_templar£ §Y$job_templar$§!로 대체합니다. (§H신정 국가§! 혹은 §H정신주의§! 관련 정부 사회제도와 결합시 이 효과를 더욱 강화합니다.) \n\n특별한 통합 야망 §H신성한 십자군§!을 사용할 수 있게 됩니다."
+ 
+ gov_liberal_democracy:0 "자유 민주주의"
+ gov_liberal_democracy_desc:0 "여러 개별 정당 간의 선거, 권력 분립, 사유 재산이 있는 시장 경제, 시민 권리, 시민의 자유, 정치적 자유에 대한 동등한 보호로 특징 지어지는 정부 형태입니다."
+ 
+ RT_DUCE:0 "총통"
+ 
+ gov_anarchy_communism:0 "군사적 공산주의"
+ gov_anarchy_communism_desc:0 "공산독재의 극단적인 형태로서, 모든 산업의 국유화와 엄격한 중앙집권적 경영의 도입, 국가의 대외무역 통제, 노동자에 대한 엄격한 규율, 비노동계급에 의한 파업 금지와 강제 노동 의무를 특징으로 합니다."
+ 
+ RT_GENERALISSIMO:0 "대원수"
+ 
+ policy_drug_rights:0 "마약"
+ policy_drug_rights_desc:0 "향정신성 약물의 생산과 유통에 대한 제한을 철폐하는 것은 의학 분야에서 광범위한 잠재적 이익을 제공합니다. 그러나 사람들이 오락 목적으로 이 물질을 사용하는 경향이 있기 때문에, 이는 사회 안정을 해치는 결과를 초래할 수 있습니다."
+ 
+ drug_rights_limited:0 "제한"
+ drug_rights_limited_name:0 "제한"
+ drug_rights_limited_desc:0 " "
+ 
+ drug_rights_allowed:0 "허용"
+ drug_rights_allowed_name:0 "허용"
+ drug_rights_allowed_desc:0 " "
+ 
+ PROGRESSIVE_DRUG_RIGHTS:0 "오락 목적의 약물 허용"
+ PROGRESSIVE_NO_DRUG_RIGHTS:0 "오락 목적의 약물 허용"
+ PROGRESSIVE_DRUG_RIGHTS_DESC:0 "우리 제국의 시민들이 §Y오락 목적의 약물§!을 자유롭게 구입하여 사용할 수 있도록 허용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_DRUG_RIGHTS:0 "약물 통제"
+ TOTALITARIAN_NO_DRUG_RIGHTS:0 "약물 통제"
+ TOTALITARIAN_DRUG_RIGHTS_DESC:0 "우리 제국에서 §Y오락 약물§!의 배급 및 사용을 엄격하게 통제하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_NO_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_GUN_RIGHTS_DESC:0 "우리 제국에서 §Y개인 무기§!의 배급 및 사용을 엄격하게 통제하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ gov_communist_dictatorship:0 "공산독재"
+ gov_communist_dictatorship_desc:0 "사회주의를 성취하고 진정한 공산주의 사회로 나아가기 위해, 중앙정부가 생산수단의 소유권을 사적 소유에서 집단 소유로 국유화하는 정치 체제입니다."
+ 
+ gov_social_democracy:0 "사회 민주주의"
+ gov_social_democracy_desc:0 "시장경제라는 틀에서 행동하는 국가라는 개념은, 국가가 국민에게 안보와 기회의 평등을 제공하고 사회를 그러한 발전에 도움이 되는 방식으로 적극적으로 재정비해야 하지만 그러한 변화가 민주적으로 선출된 다수에 의해 정당하게, 점진적으로 일어나야 한다는 것입니다."
+ 
+ gov_social_nationalism:0 "국가 사회주의"
+ gov_social_nationalism_desc:0 "강력한 민족주의, 엘리트주의, 그리고 독재적인 경찰 국가 규율을 특징으로 하는 전체주의 정부의 한 형태입니다."
+ 
+ gov_anarch_capitalism:0 "무정부 자본주의"
+ gov_anarch_capitalism_desc:0 "국가기구의 규모와 권위가 최소한으로 축소되고, 자유시장이 법과 질서를 포함한 모든 공공재와 서비스를 제공하는 사회 형태입니다."
+ 
+ civic_philosopher_king:1 "철인 군주"
+ civic_philosopher_king_desc:0 "단순히 통치하는 것만으로는 충분하지 않습니다. 국가의 배는 그것을 진실로 이끌 수 있는 충분한 지혜와 지식을 가진 왕이 인도해야 합니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_supervisor£ §Y$job_supervisor_plural$§!로 대체합니다. \n£job_supervisor£ 사상가는 £unity£ §Y통합력§!을 생산하고, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!를 증가시키고, 행성의 £society£ §Y$mod_planet_jobs_society_research_produces_mult$§!를 크게 증대시키며, §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!을 증가시킵니다."
+ 
+ gov_minarchy:0 "최소정부"
+ gov_minarchy_desc:0 "시민의 교육, 의료, 고용 또는 교통을 책임지지 않으며 영토의 천연자원 또한 전혀 사용하지 않는 최소한의 '야경꾼' 형태의 국가입니다. 대신 모든 것은 사적인 또는 공개적인 방식으로 진행되며, 국가, 법률 또는 대표자의 간섭에는 결코 영향을 받지 않습니다."
+ 
+ XENOIST_UNIVERSALISM:0 "은하적 보편주의"
+ XENOIST_UNIVERSALISM_DESC:0 "우리 제국에 최소 §Y8§!종의 서로 다른 종족을 유치하는 것은 [Root.GetName]을 대단히 기쁘게 할 것입니다."
+ XENOIST_NO_UNIVERSALISM:0 "$XENOIST_UNIVERSALISM$"
+ 
+ IMPERIALIST_DEFENSIVE_PACTS:0 "방어 동맹"
+ IMPERIALIST_DEFENSIVE_PACTS_DESC:0 "적어도 §Y2§! 이상의 다른 제국과 방위 조약을 체결하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ NO_IMPERIALIST_DEFENSIVE_PACTS:0 "$IMPERIALIST_DEFENSIVE_PACTS$"
+ 
+ 
+ AUTHORITY_ELECTION_DIRECT_DEMOCRATIC:0 "§H10§!년마다 선거를 실시하여 새로운 통치자를 선출합니다."
+ 
+ civic_free_haven_desc:0 "이 사회는 자유의 안식처라는 평판으로 잘 알려져 있습니다. 지친 이들, 가난한 이들, 숨쉬기를 갈망하는 옹기종기 모여 있는 군중들은 그들의 종족이나 출신에 상관없이 모두 환영받습니다. \n\n§Y외계종 선호§! 파벌은 제국에 더 많은 다른 종족이 있을 경우 추가적인 영향력을 제공합니다. (각 5, 7, 10종족 마다)."
+ 
+ civic_inwards_perfection:0 "고립주의"
+ civic_inwards_perfection_desc:0 "이 침착하고 평화로운 사회는 그들의 삶의 방식을 이해하지 못하는 낯선 이들에게는 거의 쓸모가 없습니다. 무엇보다도, 그들은 혼자 있고 싶어할 것입니다. \n§Y경쟁자§!를 가질 수 없습니다.\n§Y방위 조약§!을 체결할 수 없습니다.\n§Y이주 조약§!을 체결할 수 없습니다.\n§Y연구 협약§!을 체결할 수 없습니다.\n§Y통상 조약§!을 체결할 수 없습니다.\n§Y독립 보장§!을 할 수 없습니다.\n§Y연방§!에 가입할 수 없습니다.\n원시문명에 §Y침투§!할 수 없습니다.\n§Y종속국§!을 강요할 수 없습니다.\n§Y무제한 전쟁§! 정책을 설정할 수 없습니다.\n§Y행성 보호막 생성기§! 건물은 추가적인 £unity£ §Y통합력§! 생산합니다. \n기본 §국경 정책§!은 §Y폐쇠§!로 설정됩니다.\n\n§Y고립주의자§! 파벌은 §Y고립주의§! 외교 정책에 기뻐합니다."
+ 
+ civic_isolationism:0 "편집증적인 고립주의"
+ civic_isolationism_desc:0 "이 외계종 혐오 사회의 종족들이 우주로 진출하면서, 국가 안보와 국경 보호 문제가 강력하게 우선시되고 있습니다. \n\n§Y행성 보호막 생성소§!는 추가적인 £unity£ §Y통합력§!을 생산합니다. \n기본 §Y국경 정책§!은 §Y폐쇄§!로 설정됩니다."
+ 
+ civic_warrior_culture_desc:0 "이 사회는 강인한 전사 문화로 발전했습니다. 무예가 무엇보다 중시되고, 진정한 영광은 오직 싸움터에서만 찾아볼 수 있습니다. \n\n£job_entertainer£ §Y$job_entertainer$§! 직업을 £job_duelist£ §Y$job_duelist$§!로 대체합니다. \n$job_duelist_effect_desc$ \n\n§Y중앙화 지휘§! 기술이 잠금해제된 상태로 시작합니다."
+ 
+ mod_rivalries_influence_produces_mult:0 "경쟁자 영향력 획득량"
+ 
+ gov_republican_dictatorship:0 "독재 공화정"
+ gov_republican_dictatorship_desc:0 "선출된 대표들이 국가에 절대적인 권력을 행사하는 정부 형태입니다. 통치자들은 투표로 선출되어 죽을 때까지 통치하고, 그가 죽으면 새로운 통치자가 선출됩니다."
+ 
+ 
+ mod_planet_enforcers_upkeep_mult:0 "£job_enforcer£ $job_enforcer_plural$ 유지비"
+ 
+ mod_decisions_cost_mult:0 "결정 비용"
+ 
+ 
+ 
+ empire_not_capitalist_authoritarian:0 "$TRIGGER_FAIL$§Y광적인 경쟁주의§! 또는 §Y권위주의§!/§Y협동주의 아님§! 윤리관을 가져야 합니다."
+ 
+ civic_ultimate_collective:0 "전체주의 지상낙원"
+ civic_ultimate_collective_desc:0 "경제 전체가 엄격한 정부 통제하에 있고, 국민들은 강요할 필요 없이 국가에 헌신하는 확고한 전체주의 사회입니다. \n\n§Y자유시장§! 경제 정책과 §Y혁신 & 진보§! 무역 정책을 이용할 수 없습니다."
+ 
+ civic_asceticism:0 "조화로운 공동체"
+ civic_asceticism_desc:0 "이 사회는 강한 영적 공동체, 국민들 사이의 공동선의 발달을 특징으로 합니다.\n\n행성의 §Y행복도§!와 §Y통치 윤리관 선호도§!를 증가시키고, §POP 주거 요구량§!을 감소시키는 §Y조화의 상징§! 건물을 지을 수 있습니다. 이 건물은 §Y에너지 크레딧§!을 유지비로 필요합니다."
+ 
+ civic_innovative_economy:0 "연구 협동조합"
+ civic_innovative_economy_desc:0 "협력적인 경제 기반은 일반적으로 과학적 진보에 대한 동일한 집단적 접근을 장려합니다. 전통적으로 정부가 자금을 지원하는 협동조합으로 조직되는 것은 제국의 과학자들이 사회의 가장 필수적인 요구에 더 잘 집중할 수 있도록 돕습니다. \n\n§Y연구 기관§!은 추가적인 £unity£ §Y통합력§!을 생산하고 £housing£ 주거를 §G+3§! 제공합니다."
+ 
+ mod_planet_researchers_upkeep_mult:0 "£job_researcher£ $job_researcher_plural$ 유지비"
+ 
+ 
+ 
+ trait_ruler_immortal:0 "불멸자"
+ trait_ruler_immortal_desc:0 "§L이 개인은 영원한 통치를 위한 신의 축복을 받았습니다.§!\n"
+ 
+ edict_immortal_ruler:0 "불멸의 통치자 선언"
+ edict_immortal_ruler_desc:0 "이 시행령을 발동하면 현재 통치자가 불멸의 지배자라고 주장할 수 있습니다."
+ 
+ 
+ mod_pop_ethic_capitalism_attraction_mult:0 "경쟁주의 윤리관 선호"
+ mod_pop_ethic_socialism_attraction_mult:0 "협동주의 윤리관 선호"
+ 
+ 
+ 
+ POP_ATTRACTION_SOCIALISM_POS:0 "§G+ 협동주의 통치 윤리관§!"
+ POP_ATTRACTION_SOCIALISM_NEG:0 "§R- 협동주의 통치 윤리관§!"
+ POP_ATTRACTION_CAPITALISM_POS:0 "§G+ 경쟁주의 통치 윤리관§!"
+ POP_ATTRACTION_CAPITALISM_NEG:0 "§R- 경쟁주의 통치 윤리관§!"
+ 
+ civic_tooltip_socialism:0 "어느 정도 §Y협동주의§!적임"
+ civic_tooltip_not_socialism:0 "§Y협동주의§!가 아님"
+ civic_tooltip_capitalism:0 "어느 정도 §Y경쟁주의§!적임"
+ civic_tooltip_not_capitalism:0 "§Y경쟁주의§!가 아님"
+ 
+ mod_leader_generals_cost_mult:0 "장군 고용 비용"
+ mod_leader_generals_upkeep_mult:0 "장군 유지비"
+ mod_leader_admirals_cost_mult:0 "제독 고용 비용"
+ mod_leader_admirals_upkeep_mult:0 "제독 유지비"
+ mod_leader_scientists_cost_mult:0 "과학자 고용 비용"
+ mod_leader_scientists_upkeep_mult:0 "과학자 유지비"
+ mod_leader_governors_cost_mult:0 "총독 고용 비용"
+ mod_leader_governors_upkeep_mult:0 "총독 유지비"
+ 
+ civic_enlightment:0 "평화로운 연방"
+ civic_enlightment_desc:0 "평화와 번영 속에 사는 법을 배운 이 문명은 사회경제적 발전의 엄청난 단계에 도달했습니다.\n\n§Y유적지§! 기술이 잠금해제된 상태로 시작합니다. §Y정신주의§!인 경우 §Y홀로그램 의식§! 기술이 잠금해제된 상태로 시작합니다.\n\n§Y장인 극단§! 엔클레이브로부터 더 증가된 의견을 얻습니다."
+ 
+ job_transcend:0 "초월자"
+ job_transcend_plural:0 "초월자"
+ job_transcend_desc:0 "이 개인들은 계몽된 의식 상태에 도달한 것으로 간주됩니다."
+ job_transcend_effect_desc:0 "£job_transcend£ $job_transcend_plural$은 상당한 양의 £unity£ §Y통합력§!, £society£ §Y사회학 연구§!, £physics£ §Y$physics_research$§! 및 £engineering£ §Y$engineering_research$§!를 생산하고, 행성의 £crime£ §Y범죄§!를 감소시킵니다."
+ mod_job_transcend_add:0 "$job_transcend$ 직업"
+ mod_job_transcend_per_pop:0 "$VALUE$ POP당 §G+1§! $job_transcend$ 직업"
+ mod_job_transcend_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_transcend_add£"
+ 
+ civic_spiritual_seekers:0 "영적 추구자"
+ civic_spiritual_seekers_desc:0 "이 사회의 시민들은 주로 심리적 자기 계발과 내적 평화를 찾는 문제에 관심을 가지고 있습니다. \n\n§Y성계 수도-복합시설§!과 §Y신앙의 요새§! 건물은 추가적인 §G+1§! £job_transcend£ §Y$job_transcend$§! 직업을 제공합니다. £job_transcend£ 초월자는 소량의 £unity£ §Y통합력§!, £society£ §Y사회학 연구§!, £physics£ §Y$physics_research$§!, £engineering£ §Y$engineering_research$§!를 생산하고, £crime£ §Y범죄§!를 감소시킵니다."
+ 
+ civic_private_militaries:0 "민간 군대"
+ civic_private_militaries_desc:0 "전쟁에 관한 한, 이 사회는 전통적으로 용병과 민간군사기업의 힘에 의존합니다.\n\n§Y주둔지§!와 §Y요새§! 건물은 추가적인 £job_soldier£ §Y$job_mercenary$§! 직업을 제공합니다. 용병은 $job_soldier_plural$과 거의 유사하지만, 추가로 £mod_trade_value_add£ §Y$TRADE_VALUE$§!를 생산하고 £consumer_goods£ §Y소비재§!를 유지비로 요구합니다.\n"
+ 
+ job_mercenary:0 "용병"
+ job_mercenary_plural:0 "용병"
+ job_mercenary_desc:0 "돈을 받고 군인으로 복무하기 위해 고용된 직업인."
+ job_mercenary_effect_desc:0 "£job_soldier£ $job_mercenary_plural$은 £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!을 증가시키고, £defense_army£ §Y방위군§!을 생성하고, £mod_trade_value_add£ §Y$TRADE_VALUE$§!를 생산하며, 유지비로 £consumer_goods£ §Y소비재§!를 요구합니다."
+ mod_job_mercenary_add:0 "$job_mercenary$ 직업"
+ mod_job_mercenary_per_pop:0 "$VALUE$ POP당 §G+1§! $job_mercenary$ 직업"
+ mod_job_mercenary_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_mercenary_add£"
+ 
+ civic_exploration:0 "별의 탐구자들"
+ civic_exploration_desc:0 "이 문명은 단순한 제국주의적 야망에 의해서가 아니라 진정한 개척자의 정신과 밝혀진 신비에 대한 순수한 감각에 의해 우주로 이끌립니다. \n\n§Y자동화 탐사 규약§! 기술을 잠금해제한 채로 시작합니다.\n\n고유 건물: §Y심우주 스캐너§!를 사용할 수 있습니다. 이 건물은 £mod_job_researcher_add£ 직업을 §G+1§! 추가하고, £unity£ 영향력, 행성의 §Y감지 범위§!, £physics£ §Y$physics_research$§!와 §Y물질주의§! 윤리관 선호도를 증가합니다.\n\n§Y군사 통신§! 정책을 설정할 수 없습니다."
+ 
+ mod_planet_priests_produces_mult:0 "£job_priest£ $job_priest_plural$ 생산량"
+ 
+ ALLOWED_LOBBY:0 "기업 로비"
+ NO_ALLOWED_LOBBY:0 "기업 로비"
+ ALLOWED_LOBBY_DESC:0 "Active §Y기업 헤게모니§! 윤리관을 활성화하는 것은 §Y기업가§! 파벌에게 더 큰 힘을 실어주며, 따라서 [Root.GetName]을(를) 기쁘게 합니다."
+ 
+ LABOUR_POWER:0 "발전된 사회주의"
+ NO_LABOUR_POWER:0 "사회주의 발전"
+ LABOUR_POWER_DESC:0 "§Y사회주의적 이상§! 사회제도를 활성화하는 것은 §Y사회주의자§! 파벌에 더 많은 권력을 부여하며, 따라서 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ job_labour_hero:0 "노동 영웅"
+ job_labour_hero_plural:0 "노동 영웅"
+ job_labour_hero_desc:0 "뛰어난 노동 능력으로 인정받는 영웅입니다."
+ job_labour_hero_effect_desc:0 "£job_primitive_laborer£ $job_labour_hero_plural$은 소량의 £minerals£ §Y광물§!, £food£ §Y식량§!, £energy£ §Y에너지§! 및 £unity£ §Y통합력§!을 생산합니다."
+ mod_job_labour_hero_add:0 "$job_labour_hero$ 직업"
+ mod_job_labour_hero_per_pop:0 "$VALUE$ POP당 §G+1§! $job_labour_hero$ 직업"
+ mod_job_labour_hero_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_labour_hero_add£"
+ 
+ HEALTHCARE_CAMPAIGN:0 "영양적 풍요"
+ NO_HEALTHCARE_CAMPAIGN:0 "영양적 풍요"
+ HEALTHCARE_CAMPAIGN_DESC:0 "§Y영양적 풍요§! 시행령을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ EDUCATION_CAMPAIGN:0 "교육 캠페인"
+ NO_EDUCATION_CAMPAIGN:0 "교육 캠페인"
+ EDUCATION_CAMPAIGN_DESC:0 "§Y교육 캠페인§! 시행령을 적용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ 
+ SOCIAL_WELFARE_POP_EFFECTS:0 "$RULERS$: $VERY_HIGH_LUXURIES$, $10_HAPPINESS$\n$SPECIALISTS$: $HIGH_LUXURIES$, $7_HAPPINESS$\n$WORKERS$: $HIGH_LUXURIES$, $5_HAPPINESS$\n$SLAVES$: $LOW_LUXURIES$, $5_HAPPINESS$"
+ 
+ LIBERATION_PHILOSOPHY:0 "은하 해방군"
+ LIBERATION_NO_PHILOSOPHY:0 "은하 해방군"
+ LIBERATION_PHILOSOPHY_DESC:0 "§Y해방 전쟁§! 전쟁 철학을 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ job_templar:0 "성기사"
+ job_templar_plural:0 "성기사"
+ job_templar_desc:0 "종교 군대의 일원으로서 이교도들로부터 교회를 방어하기 위해 봉사하고 있습니다."
+ job_templar_effect_desc:0 "£job_templar£ $job_templar_plural$는 £unity£ §Y통합력§!을 생산하고, 행성의 £stability£ §Y안정도§!와 £mod_country_naval_cap_add£ §Y함대 수용력§!을 증가시키고, £defense_army£ §Y방위군§!을 생성합니다."
+ mod_job_templar_add:0 "$job_templar$ 직업"
+ mod_job_templar_per_pop:0 "$VALUE$ POP당 §G+1§! $job_templar$ 직업"
+ 
+ mod_job_templar_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_templar_add£"
+ 
+ gov_strasserism:0 "민족주의적 공산주의"
+ gov_strasserism_desc:0 "문화와 정치 방면으로는 강한 민족주의적 이상에, 경제 영역에서는 평등주의적 이상에 기초한 정부 이념의 한 형태입니다."
+ 
+ opinion_trade_enclave_vs_globalism:0 "사업 파트너"
+ opinion_artist_enclave_vs_cultural_heritage:0 "문명화된 시민"
+ opinion_industrialist_vs_ecologist:0 "멍청한 나무 애호가들"
+ opinion_vs_ecologist_industrialist:0 "자연 혐오자들"
+ 
+ 
+ civic_reeducated_labor:0 "노예 폭군"
+ civic_reeducated_labor_desc:0 "이 사회의 경제는 강력하고 무자비한 노예 무역소 소유주들에 의해 지배되고 있습니다.\n\n§Y노예 감독관§! 직업이 추가적인 £unity£ §Y통합력§!을 생산합니다.\n\n§Y광적인 평화주의§!가 아니라면, 특별 건물 §Y네오-콜로세움§!을 건설할 수 있습니다. 해당 건물은 £trade_value£ §Y무역 가치§!를 생산하고 행성의 §Y지상군 공격력§!을 증가시키는 £job_gladiator£ §Y검투사§! 직업을 추가합니다.\n\n이 사회제도는 §Y노예상 조합§의 심화된 형태입니다."
+ 
+ job_gladiator:0 "검투사"
+ job_gladiator_plural:0 "검투사"
+ job_gladiator_desc:0 "평상시에는 무장 전투원으로서 경기장에서 싸우며 국민들을 즐겁게 하는 노예입니다. 전시에는 군에 입대합니다."
+ job_gladiator_effect_desc:0 "£job_gladiator£ $job_gladiator_plural$는 £amenities£ §Y편의§!, £mod_country_naval_cap_add£ §Y함대 수용력§!을 증가시키고, £defense_army£ §Y방위군§!을 생성합니다."
+ mod_job_gladiator_add:0 "$job_gladiator$ 직업"
+ mod_job_gladiator_per_pop:0 "$VALUE$ POP당 §G+1§! $job_gladiator$ 직업"
+ mod_job_gladiator_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_gladiator_add£"
+ 
+ 
+ 
+ civic_xenologist:0 "진화적 설계자"
+ civic_xenologist_desc:0 "이 문명의 과학자들은 생물학적 생명과 진화의 기원을 이해하는데 그들의 노력을 쏟았습니다. 이제, 우주 탐사의 시작과 함께, 새로운 지평선이 그들의 호기심을 향해 열리고 있습니다."
+ 
+ living_standard_shared_burden:1 "사회적 평등"
+ 
+ 7_HAPPINESS:0 "§G+7%§! £happiness£ "
+ 
+ SHARED_BURDEN_POP_EFFECTS:0 "$RULERS$: $SHARED_BURDEN_LUXURIES$, $7_HAPPINESS$\n$SPECIALISTS$: $SHARED_BURDEN_LUXURIES$, $7_HAPPINESS$\n$WORKERS$: $SHARED_BURDEN_LUXURIES$, $7_HAPPINESS$"
+ 
+ empire_socialism_utopia_non_market:0 "$TRIGGER_FAIL$우리 제국은 §Y협동주의§!와 §Y평등주의§! 윤리관을 가져야 합니다."
+ 
+ ap_socialism_utopia:0 "이상적 풍요"
+ ap_socialism_utopia_desc:0 "§Y이상적 풍요§! 생활수준을 잠금해제합니다."
+ 
+ SOCIAL_WELFARE:0 "사회복지"
+ NO_SOCIAL_WELFARE:0 "사회복지"
+ SOCIAL_WELFARE_DESC:0 "§Y사회적 평등§!, §Y사회복지§! 또는 §Y이상적 풍요§! 생활수준을 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_STRATIFICATION:0 "경제적 계층화"
+ TOTALITARIAN_STRATIFICATION_DESC:1 "계층 경제, 노예 제도, 학술적 특권 또는 심지어 정화를 통해 계층화된 사회를 보장하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_PERSONALITY_CULT:0 "지도자 숭배"
+ TOTALITARIAN_NO_PERSONALITY_CULT:0 "지도자 숭배"
+ TOTALITARIAN_PERSONALITY_CULT_DESC:0 "§Y전쟁 군주§!, §Y현자 왕§! 또는 §Y제국교§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_ARISTOCRACY:0 "귀족 통치자"
+ TOTALITARIAN_NO_ARISTOCRACY:0 "귀족 통치자"
+ TOTALITARIAN_ARISTOCRACY_DESC:0 "§Y세습 귀족제§!와 같은 사회제도는 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_CASTE:0 "계급 제도"
+ TOTALITARIAN_NO_CASTE:0 "계급 제도"
+ TOTALITARIAN_CASTE_DESC:0 "§Y계급 제도§!와 같은 사회제도는 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_SLAVERY:0 "노예상 사회"
+ TOTALITARIAN_NO_SLAVERY:0 "노예상 사회"
+ TOTALITARIAN_SLAVERY_DESC:0 "§Y노예상 조합§!이나 §Y노예 폭군§!과 같은 사회제도는 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_POLICE_CONTROL:0 "전체주의적 질서"
+ TOTALITARIAN_NO_POLICE_CONTROL:0 "전체주의적 질서"
+ TOTALITARIAN_POLICE_CONTROL_DESC:0 "§Y경찰 국가§!나 §Y사이버 독재§!와 같은 사회제도는 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_NO_GUN_RIGHTS:0 "총기 규제"
+ TOTALITARIAN_GUN_RIGHTS_DESC:0 "우리 제국에서 §Y개인 무기§!의 배급 및 사용을 엄격하게 통제하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ TOTALITARIAN_DRUG_RIGHTS:0 "약물 통제"
+ TOTALITARIAN_NO_DRUG_RIGHTS:0 "약물 통제"
+ TOTALITARIAN_DRUG_RIGHTS_DESC:0 "우리 제국에서 §Y오락 약물§!의 배급 및 사용을 엄격하게 통제하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ civic_symbiotic_race:0 "사회 공생체"
+ civic_symbiotic_race_desc:0 "인위적으로 설계된 물리적으로 가공 가능한 두 번째 종족은 이 사회의 필수적인 부분을 형성합니다. 종족 간의 두드러진 차이에도 불구하고, 주로 다른 형태의 삶에 대한 주종족의 공감하는 태도 덕분에, 두 번째 종족은 그들의 공동의 고향을 지배하는 주종족과 동등하다고 여겨집니다. \n\n§Y12§!개의 순종적인 다른 종족 £pop£ POP과 함께 게임을 시작합니다. 이 종족은 §Y공생§! 특성을 가지고 있으며, §Y지도자§!를 배출하고 §Y전문가§! 직업을 가질 수 있습니다. \n\n§Y유전자 지도화§!와 §Y후성적 촉진§!기술을 잠금해제한 채로 시작합니다.\n\n§Y클론 배양소§! 건물은 행성의 £unity£ §Y통합력§! 생산량을 향상시킵니다.\n\n§Y지성화§!를 성공했을 때 10년간 §Y통합력§! 과 §Y사회학 연구§!를 주는 제국 규모 변동치를 얻습니다. \n\n§Y설계된 진화§! 승천 퍽을 선택하는 것은 §Y기술주의자§! 파벌을 기쁘게 할 것입니다."
+ 
+ #TRAIT_SYNCRETIC_PROLES_EFFECT코0=0 "$MOD_POP_HAPPINESS$: §G+10%§!\n$mod_planet_jobs_produces_mult$: §G+10%§!\nCannot generate §YLeaders§!\nCannot be employed in §Y$pop_cat_ruler$§! or §Y$pop_cat_specialist$§! Jobs"
+ 
+ civic_slave_race:0 "노예 종족"
+ civic_slave_race_desc:0 "비록 그들을 위협으로 여기는 주종족들에게 두려움과 미움을 받고 있지만, 물리적으로 가공할 수 있는 두 번째 종족은 이 사회의 필수적인 부분을 형성합니다. 그들은 모든 종류의 무자비한 유전적 실험의 대상이 되어 고된 노동에만 적합한 열등한 존재로 선언되었습니다. \n\n§Y12§!개의 순종적인 다른 종족 £pop£ POP과 함께 게임을 시작합니다. 이 종족은 §Y노예 유전자§! 특성을 가지고 있으며, 대부분 가장 원시적인 노동과 지상전에 능합니다. \n\n§Y유전자 지도화§! 및 §Y신경 이식물§! 기술을 잠금해제한 채로 시작합니다.\n\n 외계종 £pop£ POP을 먹을 때 £society£ §Y$society_research$§!를 얻습니다."
+ 
+ gov_xenophile_democracy:0 "다문화 민주주의"
+ gov_xenophile_democracy_desc:0 "선출된 의회가 통치하는 정부의 한 형태로서, 다양한 종족의 가장 훌륭한 대표들로 구성된 의회가 국가를 지배하고 있습니다."
+ 
+ trait_symbiotic:0 "공생종"
+ trait_symbiotic_desc:0 "L이 종족은 더 진보된 종족과 함께 진화했습니다. 그럼에도 불구하고, 이 종족은 행성의 주종족과 동등하다고 여겨지고 그들 사회의 필수적인 부분을 형성합니다.§!"
+ 
+ civic_symbiotic_race_secondary_species:0 "공생종"
+ civic_slave_race_secondary_species:0 "노예화된 종족"
+ 
+ trait_slave_gene:0 "노예 유전자"
+ trait_slave_gene_desc:0 "§L이 종족은 더 진보된 외계종 혐오 종족과 함께 진화했습니다. 그들은 이 종족들을 무자비하게 노예화하여 가장 힘들고 더러운 일을 시키고 그들의 개체수에 엄격한 통제를 적용했습니다.§!"
+ 
+ TRAIT_SLAVE_GENE_EFFECT:0 "$mod_planet_jobs_produces_mult$: §G+15%§!\n$MOD_ARMY_DAMAGE_MULT$: §G+15%§!\n$MOD_POP_GROWTH_SPEED$: §R-15%§!\n§Y지도자§!를 배출할 수 없습니다.\n§Y$pop_cat_ruler$§! 또는 §Y$pop_cat_specialist$§! 직업에 종사할 수 없습니다."
+ 
+ TRAIT_SYMBIOTIC_EFFECT:0 "$MOD_POP_HAPPINESS$: §G+20%§!\n$MOD_LEADER_SKILL_LEVELS$: §R-1§!\n$MOD_LEADER_SPECIES_EXP_GAIN$: §R-15%§!\n§Y지도자§!를 배출할 수 있습니다.\n§Y$pop_cat_ruler$§! 직업에 종사할 수 없습니다."
+ 
+ mod_station_researchers_upkeep_mult:0 "연구 스테이션 유지비"
+ 
+ policy_minimal_wage:0 "최저 임금"
+ policy_minimal_wage_desc:0 " "
+ 
+ minimal_wage_moderate:0 "보통"
+ minimal_wage_moderate_name:0 "보통"
+ minimal_wage_moderate_desc:0 " "
+ 
+ minimal_wage_increased:0 "인상"
+ minimal_wage_increased_name:0 "인상"
+ minimal_wage_increased_desc:0 " "
+ 
+ minimal_wage_reduced:0 "삭감"
+ minimal_wage_reduced_name:0 "삭감"
+ minimal_wage_reduced_desc:0 " "
+ 
+ NO_REDUCED_WAGE:0 "최저 임금 인상"
+ NO_REDUCED_WAGE_DESC:0 "노동 조합은 제국이 적어도 §Y보통의 최저임금§! 정책을 설정할 것을 요구합니다."
+ 
+ INCREASED_WAGE:0 "시민들에게 힘을"
+ INCREASED_WAGE_DESC:0 "§Y최저임금 인상§! 정책을 설정하는 것은 노동 조합을 기쁘게 할 것이며, 따라서 [Root.GetName] 또한 기쁘게 할 것입니다."
+ 
+ NO_INCREASED_WAGE:0 "최저 임금 삭감"
+ NO_INCREASED_WAGE_DESC:0 "§Y최저임금 인상§! 정책은 [Root.GetName]을 불쾌하게 할 것입니다."
+ 
+ trade_policy_mining:0 "광업 무역 보조금"
+ trade_policy_mining_name:0 "광업 무역 보조금"
+ trade_conversion_mining_name:0 "광업 무역 보조금"
+ trade_policy_mining_desc:0 "§E각각의 수집된 £trade_value£ §Y무역 가치§!는 £energy£ §Y0.4§!과 £minerals£ §Y0.6§!를 제공합니다.§!"
+ 
+ CONSUMER_MARKETS:0 "소비자 후생"
+ CONSUMER_MARKETS_DESC:0 "§Y소비자 후생§! 무역 정책을 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ job_deep_miner:0 "심핵 엔지니어"
+ job_deep_miner_plural:0 "심핵 엔지니어"
+ job_deep_miner_desc:0 "행성 깊숙한 곳에서 광물과 에너지를 추출하기 위해 광범위한 과학적, 기술적 능력을 적용하는 전문가."
+ job_deep_miner_effect_desc:0 "£job_miner£ $job_deep_miner_plural$는 £minerals£ §Y광물§!, £energy£ §Y에너지§! 및 £engineering_research£ §Y공학 연구§!를 생산합니다."
+ mod_job_deep_miner_add:0 "$job_deep_miner$ 직업"
+ mod_job_deep_miner_per_pop:0 "$VALUE$ POP당 §G+1§! $job_deep_miner$ 직업"
+ mod_job_deep_miner_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_deep_miner_add£"
+ 
+ 
+ tech_thermal_borehole:0 "심핵 채굴"
+ tech_thermal_borehole_desc:0 "§Y심핵 엔지니어§! 직업을 제공하는 §Y열 시추공§! 건설을 잠금해제합니다."
+ 
+ civic_martial_brotherhood:0 "전투 형제단"
+ civic_martial_brotherhood_desc:0 "군대는 이 사회의 통합과 집단주의의 상징인 필수적인 부분으로 여겨집니다. 봉사하는 것은 빚이나 의무라기보다는 명예입니다. \n\n£job_soldier£ §Y$job_soldier_plural$§!은 §Y2§! £unity£ 통합력을 추가적으로 생산합니다.\n\n§Y군국주의자§! 파벌은 추가적인 영향력을 제공합니다."
+ 
+ MARTIAL_BROTHERHOOD:0 "전투 형제단"
+ MARTIAL_BROTHERHOOD_DESC:0 "§Y전투 형제단§! 정부 사회제도를 활성화하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ civic_distributism:0 "분배주의"
+ civic_distributism_desc:0 "윤리가 시장경제학에서 역할을 지닌다는 주장을 펴는 이념으로, 사유재산권의 기본권을 옹호하면서도 생산수단은 소수의 개인이나 기업의 손에 집중되기보다는 널리 소유되고 분배되어야 한다고 주장합니다. 따라서, 일반적으로 소규모 기업와 가족 사업뿐만 아니라 심각한 독점 금지 규정을 선호합니다. \n\n대부분의 생산적인 §Y전문가§!직업(자원/상품/편의)이 추가적인 £trade_value£ 무역가치를 생산합니다.\n\n특별한 사제 직업:§Y부 전도사§!를 사용할 수 있습니다. 이들은 행성의 £unity£ 통합력과 £trade_value£ 무역가치 생산을 증가합니다.\n\n§Y은하 증권 거래소§!를 건설할 수 없고 §Y거물§! 직업을 사용할 수 없습니다."
+ 
+ civic_star_settlers:0 "별의 개척자들"
+ civic_star_settlers_desc:0 "우주 탐사가 시작되면서, 이 문명은 강력한 개척자의 정신을 받아들였습니다. 시민들은 평화적인 확장과 식민지화를 통해 영토를 크게 확장하고 가능한 한 광범위하게 재정착하는 경향이 있습니다. \n\n§Y성간 확장§! 기술이 잠금해제된 상태로 시작합니다. \n\n£job_colonist£ §Y$job_colonist_plural$§!은 §Y10§! £unity£ 통합력을 추가적으로 생산합니다. \n\n§Y군사 수송§!이나 §Y군사 통신§! 정책을 설정할 수 없습니다."
+ 
+ gov_military_corp:0 "민간 군사 기업"
+ gov_military_corp_desc:0 "정부는 대규모 군사-산업적 지주로서 대표되며, 이사회는 오직 현직 전쟁 책임자로만 구성되어 있습니다."
+ 
+ 6_HAPPINESS:0 "§G+6%§! £happiness£"
+ 
+ requires_ap_world_shaper:0 "$TRIGGER_FAIL$§Y행성 조형가§! 승천 퍽을 필요로 합니다."
+ 
+ allow_dead_terraform:0 "특수한 기술의 잠금을 해제하여, §Y얼음형 행성§!, §Y용암 행성§! or §Y독성 행성§! 과 같은 거주 불가능한 행성을 거주 가능한 특정 유형의 행성으로 테라포밍할 수 있습니다."
+ 
+ ap_mastery_of_terraforming:0 "세계 소생자"
+ ap_mastery_of_terraforming_desc:0 " "
+ 
+ civic_genetic_aristocracy:0 "유전자 귀족제"
+ civic_genetic_aristocracy_desc:0 "이 사회의 시민들은 특히 그들의 생물학적 기원의 독특함을 보존하고, 지도자들은 전통적으로 그들의 유전적 우월성에 근거하여 선택되고 다듬어집니다."
+ 
+ gov_great_houses:0 "유력 가문"
+ gov_great_houses_desc:0 "이 문명은 전통은 고대 종족과 부족에서 유래했지만, 지금은 정당으로서의 기능을 더 많이 하는 몇몇 유력 가문의 지도자에 의해 지배됩니다. 고전적인 귀족 계급과는 달리, 가문 구성원의 자격은 출생이나 결혼과 같은 가부장적인 문제에 얽매이지 않고, 그가 집안에 대한 충성을 맹세하고 전통을 지키기만 한다면, 누구든지 그 가문에 입양되어 최고 계급으로 올라갈 수 있습니다."
+ 
+ GENETIC_SUPERIORITY:2 "유전적 우월성"
+ NO_GENETIC_SUPERIORITY:1 "유전적 우월성"
+ GENETIC_SUPERIORITY_DESC:2 "§Y설계된 진화§! 승천 퍽을 채택하는 것은 [Root.GetName]을 행복하게 할 것입니다."
+ 
+ 
+ mod_planet_pops_minerals_upkeep_mult:1 "POP 광물 유지비"
+ 
+ personality_evangelising_zealots_machine:0 "복음주의적인 광신도"
+ personality_evangelising_zealots_machine_desc:0 "복음주의적인 광신도들은 그들의 믿음을 은하계 전체에 전파하고자 하지만, 다른 이들이 그들의 믿음을 받아들이도록 강요하기 위해 군사적 힘을 사용하지는 않습니다."
+ 
+ personality_spiritual_seekers_machine:0 "영적 추구자"
+ personality_spiritual_seekers_machine_desc:0 "영적 추구자들은 모든 삶이 창조물을 통해 이해될 수 있는 어떤 더 높은 힘을 통해 연결되어 있다고 믿습니다. 그들은 신과의 연결에 대해 배울 수 있기를 희망하며 다른 제국들과 평화적인 협력을 추구할 것입니다."
+ 
+ civic_merchant_guilds:1 "금융 엘리트"
+ civic_merchant_guilds_desc:2 "이 사회에서 '부'는 '힘'과 같습니다. 사회 상층부는 부자들이 차지하고 노동 계층은 조직적으로 억압받고 있습니다. \n\n£building£ §Y수도 건물§!은 £job_administrator£ §Y$job_administrator$§! 직업 일부를 £job_mogul£ §Y$job_mogul$§!로 대체합니다. 이들은 £amenities£ §Y편의§!를 증가시키고 £trade_value£ §Y무역 가치§!를 생산합니다.\n§Y은하 증권 거래소§! 건물은 추가적인 £job_mogul£ §Y$job_mogul$§! 직업을 제공하고 행성의 £trade_value£ §Y무역 가치§!를 §G+5%§! 증대시킬 것입니다.\n§Y$tech_power_hub_1$§! 기술을 잠금해제한 채로 시작합니다.\n§Y공공의료§!나 §Y공교육§! 정책을 이용할 수 없습니다.\n§Y기업 로비§!: §Y기업가§! 파벌이 추가적인 찬성도를 제공합니다.\n§Y무자비한 개발§!: 각각의 £job_mogul£ §Y$job_mogul$§!은 행성 노동자의 £energy£ §Y에너지§! 생산량을 §G+7%§! 증가시킵니다."
+ 
+ civic_state_monopoly:0 "국가 독점"
+ civic_state_monopoly_desc:0 "모든 정치 권력이 과두 정치인과 그 기업의 손에 집중되어 있으며, 부의 끝없는 증가를 위해 나머지 인구를 잔인하게 착취하는 사회 경제적 디스토피아입니다.\n\n§Y계층 경제§! 생활 수준이 의무화됩니다.\n\n§Y수도 건물§!은 £job_administrator£ §Y행정가§! 직업 일부를 £job_mogul£ §Y$job_mogul_plural$§!로 대체합니다.\n§Y은하 증권 거래소§! 건물은 추가적인 §Y$G+1$§! £job_mogul£ §Y$job_mogul_plural$§! 직업을 제공하고 행성의 £trade_value£ §Y무역 가치§!를 §G+5%§! 증대시킬 것입니다.\n\n§H기업 로비§!: §Y기업가§! 파벌이 추가적인 찬성도를 제공합니다.\n§H무자비한 개발§!: 각각의 £job_mogul£ §Y$job_mogul$§!은 행성 노동자의 £energy£ §Y에너지§! 및 £minerals£ §Y광물§! 생산량을 §G+7%§! 증가시킵니다.\n\n§Y$tech_power_hub_2$§! 기술을 잠금해제한 채로 시작합니다.\n§Y공공의료§! 또는 §Y공교육§! 정책을 이용할 수 없습니다.\n §Y금융 엘리트§! 사회제도의 심화된 형태입니다."
+ 
+ ethic_elitist:0 "엘리트주의"
+ ethic_elitist_desc:0 "엘리트주의 사회는 인종, 성별, 연령, 부 등으로 구분되는 사회 집단 간의 암시적 또는 명시적 계층 구조로 이뤄진 사회입니다."
+ ethic_fanatic_elitist:0 "광적인 엘리트주의"
+ ethic_fanatic_elitist_desc:0 "사회는 목자와 감시견이 이끄는 무리이고, 사회는 승자와 패자와의 투쟁입니다. 동물보다 조금 나은 지저분한 대중들은 그들을 더 큰 목적을 향해 인도하기 위한 통찰력과 비전, 그리고 힘을 가진, 운명을 타고난 소수의 리더쉽이 필요합니다. 우리보다 나은 이가 있을까요?"
+ 
+ ethic_pluralist:0 "평등주의"
+ ethic_pluralist_desc:0 "§L우주 앞에서 우리의 사소한 차이가 얼마나 어리석고 하찮아 보일지! 우리는 단지 바늘 끝처럼 작은 별빛을 돌고 있는 동일한 작은 얼룩에 묶인 먼지에 지나지 않습니다. 우리 개개인의 신체의 색깔, 우리가 어디서 또는 누구에게서 태어났는지, 누구에게 태어났는지가 뭐가 중요하겠습니까?§!"
+ ethic_fanatic_pluralist:0 "광적인 평등주의"
+ ethic_fanatic_pluralist_desc:0 "§L우리 모두는 같은 존엄성과 같은 기본적인 존경을 받을 자격이 있습니다. 우리 각자에게 위대함, 행운이나 천재성, 우리 종족의 구원을 위한 잠재력이 존재하기 때문입니다. 네, 우리 모두가 똑같게 창조된 것은 아닙니다. 하지만 우리가 똑같이 창조할 수 있는 능력을 가지고 있다면 그게 무슨 상관이겠습니까?§!"
+ 
+ ethic_industrial:0 "산업주의"
+ ethic_fanatic_industrial:0 "광적인 산업주의"
+ ethic_industrial_desc:1 "§L대응적이고 효율적인 인프라 개발은 모든 선진 사회의 특징입니다. 향후 경제 번영을 위해 우리 근로자들의 관리에 각별한 주의가 필요합니다. 그 과정에서 발생하는 비용은 우리 같은 부류의 안락한 미래를 보장하기 위한 것으로서 충분한 가치가 있습니다.§!\n"
+ ethic_fanatic_industrial_desc:1 "§L우리의 독창성과 끈기를 통해, 우리는 먼지에서 부를 축적할 수 있고, 자연의 힘을 우리의 의지로 왜곡할 수 있습니다. 우리의 명령에 따라, 행성들은 그들의 부를 내어주고 우리의 웅장한 공장들은 그것을 집어삼킵니다. 이 힘은 부인할 수 없으며, 이를 통해 우리는 우리 자신의 이미지로 은하를 재구성할 것입니다.§!\n§H재활용 캠페인§! 설정이 불가능해집니다."
+ 
+ ethic_green:0 "자연주의"
+ ethic_fanatic_green:0 "광적인 자연주의"
+ ethic_green_desc:1 "§L생태학의 신봉자들은 그들과 그들이 살고 있는 생물권 사이에는 그들의 종들이 자연보다 더 큰 가치를 가지고 있다고 주장하기에 충분한 만큼의 실존적인 분열이 없다는 가치 체계를 보존합니다. 그러므로 그것은 '생물권적 평등주의'로 볼 수 있습니다. 경제에 대한 생태학적 접근은 지속 가능한 발전의 개념에 기초하고 있으며, 이는 천연 자원의 보다 효율적인 사용, 제한된 소비주의, 인구 과잉에 대한 통제를 암시합니다.§!"
+ ethic_fanatic_green_desc:1 "§L우리의 음악가들은 야생생물의 노래와 나무의 속삭임만큼 심오한 멜로디를 작곡할 수 없습니다. 우리의 예술가들은 산꼭대기, 외딴 호수, 또는 거대한 동굴의 형용할 수 없는 위엄을 포착할 수 없습니다. 설계든 우연이든간에, 우리는 초월적인 자연의 아름다움을 지닌 우주에 태어났습니다. 그것을 지속적으로 보존하기 위해서라면 비용이 얼마나 들더라도 비싸지 않습니다.§!\n\n"
+ 
+ 
+ COLLECT_ETHIC_ALLOWS_UTOPIA:0 "§E§H협동주의§!와 결합될 경우 §Y사회적 평등§! 생활수준을 이용할 수 있습니다.§!"
+ INDIVID_ETHIC_ALLOWS_STRATIFIED:0 "§E§H경쟁주의§!와 결합될 경우 §Y계층 경제§! 생활수준을 이용할 수 있습니다.§!"
+ 
+ PROHIBITS_DECENT:0 "§E§H괜찮은 조건§! 생활수준 금지§!"
+ PROHIBITS_SLAVERY:0 "§E자기 종족을 노예로 삼기 위한 §Y노예화§! 정책 사용 금지§!"
+ 
+ ALLOWS_ENSLAVEMENT:0 "§E§Y노예화§! 정책을 사용하여 최대 30%의 POP을 노예화할 수 있습니다.§!"
+ ALLOWS_MORE_ENSLAVEMENT:0 "§E§Y노예화§! 정책을 사용하여 최대 50%의 POP을 노예화할 수 있습니다§!"
+ 
+ EGALITARIAN_ETHIC_ALLOWS_UTOPIA:0 "§E§H사회적 평등§! 생활수준이 가능해짐§!"
+ ELITIST_ETHIC_ALLOWS_STRATIFIED:0 "§E§H계층 경제§! 생활수준이 가능해짐§!"
+ 
+ PROHIBITS_WELFARE:0 "§E§H사회복지§! 생활수준 금지§!"
+ 
+ ENFORCER_JOBS:0 "§E§H수도 건물§!은 추가적인 £job_enforcer£+ §H집행관§! §G+1§!을 제공§!"
+ MORE_ENFORCER_JOBS:0 "§E§H수도 건물§!은 추가적인 +2 £job_enforcer£ §H집행관§!을 제공§!"
+ 
+ BLOCKERS_BENEFITS:0 "§E자연적인 행성 §H장애물§!은 £unity£ §H통합력§!과 £amenities£ §H편의§!를 생산합니다.§!"
+ 
+ requires_civic_shared_burden:0 "$TRIGGER_FAIL$§Y광적인 협동주의§! 윤리관을 활성화해야 합니다."
+ 
+ ALLOWS_STRATIFIED:0 "§E§H비협조적인§! 윤리관과 결합될 경우 §Y계층 경제§! 생활수준을 이용할 수 있습니다.§!"
+ 
+ civic_chosen_people:0 "선택받은 자들"
+ civic_chosen_people_desc:0 "이 종들은 그들이 특별하다고 믿으며 은하의 보다 높은 존재에게서 은하 전체를 지배하도록 선택받았다 믿고있습니다. 그렇기에 그들은 종교적으로 그들의 생물학적, 문화적 순수성을 보존하고자 합니다.\n\n§Y순수의 상징§! 건물이 건설 가능합니다, §Y통합력§! 생산량을 배가하며, §Y인구 증가량§!과 §Y외계 혐오종 윤리관 선호§!를 높입니다, 그리고 유지하는데 §Y에너지§!를 사용합니다"
+ 
+ LITHOID_EMPIRE:0 "§E§H석질류§! 제국의 §H광부§!는 추가적인 §H+2§! £minerals£ §H광물§!을 생산합니다.§!"
+ 
+ requires_megacorp_or_merchant:0 "§R§Y경쟁주의§! 윤리관을 필요로 합니다.§!"
+ 
+ TRADE_FEDERATION_DEMAND:0 "무역 연합"
+ TRADE_FEDERATION_DEMAND_DESC:0 "§Y무역 연합§!에 가입하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ triggered_machine_cult_opinion_of_robot_empires:0 "신성 메커니즘"
+ triggered_robot_empires_opinion_of_machine_cult:0 "충실한 추종자"
+ 
+ ECO_ASCENSION_2:0 "가이아 창조자"
+ ECO_NO_ASCENSION_2:0 "가이아 창조자"
+ ECO_ASCENSION_2_DESC:0 "§Y행성 조형가§! 승천 퍽을 선택하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ STRONG_INDUSTRIAL_FOCUS:0 "산업 개발"
+ NO_STRONG_INDUSTRIAL_FOCUS:0 "산업 개발"
+ STRONG_INDUSTRIAL_FOCUS_DESC:0 "§Y무역§! 정책을 §Y산업 개발§!로 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PEACEFUL_ECONOMY:0 "민간 경제"
+ PEACEFUL_ECONOMY_DESC:0 "§Y생산 초점§! 정책을 §Y민간 경제§!로 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ACADEMIC_PRIVILEGES:0 "학술적 특권"
+ ACADEMIC_PRIVILEGES_DESC:0 "§Y학술적 특권§! 생활수준을 설정하는 것은 [Root.GetName]을(를) 기쁘게 할 것입니다."
+ 
+ WASTE_RECYCLING:0 "§Y폐기물 재활용§!: 직공과 금속기술자 £consumer_goods£ 소비재와 £alloys£ 합금을 생산하는데 £minerals£ 광물을 §G-1§! 덜 사용합니다."
+ 
+ TRADE_LEAGUE:0 "무역 연합체"
+ TRADE_LEAGUE_DESC:0 "§Y무역 연맹§! 무역 정책을 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ ethic_focused:0 "하나의 목적"
+ ethic_focused_desc:0 " "
+ 
+ tech_terraform_uninhabit_molten:0 "용암형 행성 테라포밍"
+ tech_terraform_uninhabit_molten_desc:0 "충분한 시간과 자원이 주어진다면, 가장 황폐한 행성조차도 거주 가능한 행성으로 바뀔 수 있습니다.\n\n"
+ 
+ tech_terraform_uninhabit_frozen:0 "얼음형 행성 테라포밍"
+ tech_terraform_uninhabit_frozen_desc:0 "충분한 시간과 자원이 주어진다면, 가장 황폐한 행성조차도 거주 가능한 행성으로 바뀔 수 있습니다.\n\n"
+ 
+ SELECTIVE_BOMBARDMENT:0 "선택적 폭격 정책"
+ SELECTIVE_BOMBARDMENT_DESC:0 "지역 환경에 최소한 피해를 입히는 §Y궤도폭격§! 정책을 채택하는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ 
+ ######
+ 
+ civic_natural_capitalism:0 "자연 자본주의"
+ civic_natural_capitalism_desc:0 "자연자본주의의 이데올로기는 사람이 만든 자본의 생산과 사용 그리고 자연자본의 유지와 공급 사이의 중요한 상호의존성을 인정합니다. 자연 생태계에서 제공되는 천연자원과 서비스를 보존하는 시장 경제 틀내에서 환경의 지속 가능한 개발을 표방합니다.\n\n§Y상용화된 생태계§!:자연 환경 §Y장애물§!은 £job_clerk£§Y사무원§! 직업 과 적절한 수준의 £housing£ 주거 그리고 작은 자원 보너스(£food£, £minerals£, £energy£)를 제공합니다. 또한, §Y화산§!,§Y산지§!,§Y야생동물§! 같은 무거운 환경 §Y장애물§!들은 £job_merchant£ §Y기업가§! 직업을 제공합니다.\n\n희귀한 자연 §Y장애물§!(예를 들어 §Y거대 생명체§!, §Y방랑하는 숲§! 등등)들은 적절한 버프를 제공합니다.\n\n§Y상업 생명공학§!:£job_biotechnologist£ $job_biotechnologist_plural$는 £trade_value£ 무역가치 또한 생산합니다.\n\n§Y생태관광 개발§!:행성 고유 건물 §Y생태관광센터§!를 지을 수 있게 해줍니다. 관광센터는 희귀한 자연 §Y장애물§!마다 +1 £job_merchant£ §Y기업가§! 직업과 지역£trade_value£무역가치 그리고 £amenities£ 편의를 제공합니다."
+ 
+ tech_bioreactor:0 "생명공학 산업"
+ tech_bioreactor_desc:0 "§Y바이오 연료 정제소§!를 건설 할 수 있으며,§Y생명공학자§! 직업을 제공합니다. 생명공학자는 £food£ §Y바이오 연료§!를 £energy£에너지, £consumer_goods£ 소비재 와 £alloys£ 합금으로 변환합니다.$job_artisan_plural$과 $job_foundry_plural$는 £consumer_goods£와 £alloys£를 생산하는데에 £minerals£ 광물이 §G-1§! 더 적게 들고 £food£ 식량이 §G+1§! 더 듭니다."
+ 
+ job_biotechnologist:0 "생명공학자"
+ job_biotechnologist_plural:0 "생명공학자"
+ job_biotechnologist_desc:0 "친환경 기술을 사용하여 유기물질을 원료로 가공하기 위해 과학과 공학 기술을 적용하는 전문가"
+ job_biotechnologist_effect_desc:0 "£job_biotechnologist£ $job_biotechnologist_plural$ £food£ §Y유기물질§!을 변환하여  £energy£ 에너지 크레딧, £consumer_goods£ 소비재와 £alloys£ 합금을 생산합니다."
+ mod_job_biotechnologist_add:0 "$job_biotechnologist$ 직업"
+ mod_job_biotechnologist_per_pop:0 "$VALUE$ POP당 §G+1§! $job_biotechnologist$ 직업"
+ mod_job_biotechnologist_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_biotechnologist_add£"
+ 
+ building_biofuel_plant:0 "바이오 연료 정제소"
+ building_biofuel_plant_desc:0 "이 시설에는 다양한 식물과 작물에서 화합물을 분리 추출할 수 있도록 설계된 산업용 장비가 들어 있습니다. 이러한 화합물은 바이오 연료, 작물 개발 및 자연 건강 제품과 같은 산업에 추가로 연구되고 적용됩니다."
+ 
+ BIO_TECH:0 "§Y진보된 생명공학§!:§Y산업 생명공학§! 기술을 배울 수 있고 £job_biotechnologist£ $job_biotechnologist_plural$를 고용할 수 있습니다. 석질류 제국에서는 사용할 수 없습니다."
+ 
+ job_hedonist:0 "쾌락주의자"
+ job_hedonist_plural:0 "쾌락주의자"
+ job_hedonist_desc:0 "물질적 필요나 욕구가 충족될 수 있는 풍요로운 삶."
+ job_hedonist_effect_desc:0 "£job_hedonist£ $job_hedonist_plural$는 £food£ §Y식량§!과 £consumer_goods£ §Y소비재§!를 소모하고,£unity£ §Y통합력§!을 생산합니다."
+ mod_job_hedonist_add:0 "$job_hedonist$ 직업"
+ mod_job_hedonist_per_pop:0 "$VALUE$ POP당 §G+1§! $job_hedonist$ 직업"
+ mod_job_hedonist_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_hedonist_add£"
+ 
+ 
+ 
+ civic_slaver_guilds_desc:1 "이 사회는 전통적으로 노예를 노동에 이용하고 노예의 훈련과 분배를 유지하기 위해 조직된 특수한 길드 서비스에 의존합니다.\n\n 특별한 건물을 지을 수 있습니다- §Y네오-콜로세움§!은 £job_gladiator£ §Y검투사§! 직업을 추가하고, 일정량의 £trade_value£ §Y무역 가치§! 제공하며, 지역 §Y지상군 공격력§!을 증가시킵니다."
+ 
+ 
+ civic_military_dictatorship:0 "군벌 지도자"
+ civic_military_dictatorship_desc:0 "이 사회의 지배자는 전통적으로 현역 군 통수권자입니다.\n\n£building£ §Y수도 건물§!은£job_administrator£ §Y$job_administrator$§!직업을 £job_commandante£ §Y$job_commandante_plural$§!으로 대체합니다. 사령관은 제국의 §Y함대 수용력§!을 증가시키고, §Y방위군§!을 형성합니다. 행성의 §Y안정도§!를 증가시키며, §Y궤도폭격§! 피해량을 감소시킵니다.\n\n결정 §Y계엄령§!을 활성화하는데에 영향력을 소모하지 않습니다."
+ 
+ WEALTH_CREATION:0 "부의 창출"
+ WEALTH_CREATION_DESC:0 "§Y부의 창출§! 무역 정책을 설정하는 것은  [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ 
+ #\n\nCan learn §YDeep Core Mining§! technology, allowing to construct §YThermal Borehole§! and hire §YDeep Core Engineers§!  \n\nBuilding §YMineral Purification Hub§! produce additional £unity£ §YUnity§!
+ 
+ civic_corporate_dominion:1 "평화로운 무역상"
+ civic_corporate_dominion_desc:0 "이 사회는 '평화는 사업에 좋다'라는 단순한 규칙에 따라 운영됩니다. 이를 위해, 통치의 대부분을 상호 번영을 달성하기 위해 함께 일하는 독립적인 상인과 상인의 느슨한 동맹에게 통제되거나 영향을 받고 최소한으로 관리됩니다.\n\n고유한 £job_entrepreneur£ $job_entrepreneur_plural$ 직업을 이용할 수 있습니다. 기업가는 £mod_trade_value_add£ §Y$TRADE_VALUE$§!를 생산하고 £rare_crystals£, £volatile_motes£,  £exotic_gases£의 지역 생산량을 늘립니다.\n\n§Y$tech_space_trading$§! 기술을 해금한채로 시작합니다.\n\n§Y외행성 무역 회사§!는 추가적으로 §Y4§! £trade_value£무역가치와 §Y4§! £unity£§Y영향력§!을 생산합니다.\n\n §Y무역 중심지§! 모듈은 §Y$MOD_STARBASE_TRADE_PROTECTION_RANGE_ADD$§!가  §G+1§! 증가합니다.\n\n§Y상업 메가플럭스§! 건물은 추가적으로 £job_entrepreneur£ $job_entrepreneur_plural$직업을 제공합니다.\n\n§Y기업가§! 파벌은 §Y무역 연맹§! 무역 정책에 추가적인 설정을 제공합니다.\n\n§Y군사 수송§! 정책을 설정할 수 없습니다.  "
+ 
+ job_corporate_researcher:0 "기업 연구원"
+ job_corporate_researcher_plural:0 "기업 연구원"
+ job_corporate_researcher_desc:1 "기업 과학자는 과학적 기술과 학문적 지식을 상업적 목적으로 활용합니다."
+ job_corporate_researcher_effect_desc:0 "£job_corporate_researcher£ $job_corporate_researcher_plural$은 약간 적은 £physics_research£, £engineering_research£,£society_research£를 생산합니다. 대신 추가적인 £trade_value£ §Y무역가치§!를 제공합니다."
+ mod_job_corporate_researcher_add:0 "$job_corporate_researcher$ 직업"
+ mod_job_corporate_researcher_per_pop:0 "$VALUE$ POP당 §G+1§! $job_corporate_researcher$ 직업"
+ mod_job_corporate_researcher_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_corporate_researcher_add£"
+ 
+ 
+ TRADE_INNOVATIONS:0 "혁신과 진보"
+ TRADE_INNOVATIONS_DESC:0 "§Y혁신&진보§! 무역 정책으로 설정하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ ####
+ 
+ job_entrepreneur:0 "무역상"
+ job_entrepreneur_plural:0 "무역상"
+ job_entrepreneur_desc:1 "무역상들은 희귀하고 가치 있는 상품을 사고 팔기 위한 좋은 거래를 찾으며 끊임없이 시장을 돌아다닙니다."
+ job_entrepreneur_effect_desc:0 "£job_entrepreneur£ $job_entrepreneur_plural$는 £mod_trade_value_add£ §Y$TRADE_VALUE$§!를 생산하고 지역 £rare_crystals£ §Y희귀 수정§!, £volatile_motes£ §Y불안정 분말§!,£exotic_gases£ §Y이중 가스§! 생산량을 §G+5%§! 증가시킵니다."
+ mod_job_entrepreneur_add:0 "$job_entrepreneur$ 직업"
+ mod_job_entrepreneur_per_pop:0 "$VALUE$ POP당 §G+1§! $job_entrepreneur$ 직업"
+ mod_job_entrepreneur_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_entrepreneur_add£"
+ 
+ job_merchant:0 "사업가"
+ job_merchant_plural:0 "사업가"
+ job_merchant_desc:0 "수요를 예측하고 새로운 아이디어, 상품 및 서비스를 시장에 내놓는 데 필요한 기술과 주도권을 가져 사용하는 모든 경제에서 핵심적인 역할을하는 개인입니다."
+ job_merchant_effect_desc:0 "£job_merchant£ $job_merchant_plural$은 £trade_value£ §Y무역가치§!를 생산하고 행성의 £amenities£ §Y편의§!와 £consumer_goods£ §Y소비재§! 생산량을 증가시킵니다."
+ mod_job_merchant_add:0 "$job_merchant$ 직업"
+ mod_job_merchant_per_pop:0 "$VALUE$ POP당 §G+1§! $job_merchant$ 직업"
+ mod_job_merchant_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_merchant_add£"
+ 
+ 
+ civic_parliamentary_system:1 "정치적 다원주의"
+ 
+ civic_parliamentary_system_desc:1 "이 사회에서는 발전된 의회 제도를 통해 적극적인 공개 토론을 장려합니다. 지배적인 정치 세력 중 하나에 대한 지지는 매우 유리 할 수 있습니다.\n\n§Y평등주의자§! 파벌 추가적인 지지를 제공합니다.\n\n§Y평등주의자§! 파벌은 비민주주의적 정부형태에서 §Y민주정§! 정부 형태를 요구 할 것입니다."
+ 
+ POLITICAL_PLURALISM:0 "Political Pluralism"
+ POLITICAL_PLURALISM_DESC:0 "§Y의희 제도§! 사회제도를 통해 공개 토론을 허용하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ 
+ civic_consumerism:0 "낭비적 소비지상주의"
+ civic_consumerism_desc:0 "이 사회는 점점 더 많은 양의 상품과 서비스의 획득을 장려하는 사회 경제적 이데올로기를 보존합니다.\n\n§Y사무원§! 직업은 추가적으로 £trade_value£와 £amenities£를 §G+1§! 제공합니다.\n\n§Y직공§!과 §Y연예인§!은 더불어 §G+1§! £trade_value£ 무역을 생산합니다.\n\n§Y상업 구역§!, §Y상업 메가플렉스§!,§Y도시 구역§!,§Y링월드 상업 구역§!,§Y거주지 상업 구역§! 건물은 추가적으로 £job_clerk£ §Y사무원§!과 £job_merchant£  §Y기업가§! 직업을 제공합니다.\n\n§Y상업 메가플렉스§! 건물은 £unity£ 통합력을 생산합니다.\n\n£job_merchant£ §Y기업가§! 직업은 일반적으로 더 많이 생산합니다.\n\n§Y기업가§! 파벌은 §Y소비자 후생§! 무역 정책에 추가적인 지지를 제공합니다."
+ 
+ civic_divine_council:0 "신성 위원회"
+ civic_divine_council_desc:0 "이 제국의 정부는 제국의 가장 영향력 있는 종교 지도자 위원회에 의해 감시되고 있습니다.\n\n£building£ §Y수도 건물§!의 £job_administrator£ §Y$job_administrator$§! 직업을 £job_high_priest §Y$job_high_priest_plural$§!로 대체합니다. §Y신성 연결체§!와 §Y신앙의 요새§! 건물은 추가적인 §Y대사제§! 직업을 제공합니다.\n£job_priest£ §Y$job_priest_plural$§!는 £unity£ 통합력을 §Y1§! 추가로 생산합니다."
+ 
+ ####
+ 
+ PLURALISM_POPS:0 "다원주의 사회"
+ PLURALISM_POPS_DESC:0 "적어도 평등주의자 인구를 §Y25%§! 갖는 것은 [Root.GetName]를 기쁘게 할 것입니다."
+ 
+ 
+ civic_machine_cult:0 "기계교"
+ civic_machine_cult_desc:0 "그들은 신의 화신인 기계를 숭배하며 §YRobots§!에 동력을 공급함으로써 그들의 신앙을 표현합니다.\n\n§Y4§!개의 로봇POP, 그리고 이를 더 제작할 수 있는 기술과 사회기반시설을 가지고 게임을 시작합니다.\n\n§Y정신주의§! 파벌은 로봇에 관대합니다.\n\n행성 고유 건물 §Y기계-수도원§! 건설 가능: §Y통합력§!과 §Y공학§!을 생산하고 행성의 §Y로봇§! POP의 유지비를 줄이는 §Y테크노 프리스트§! 직업을 제공합니다.\n\n§Y거대 로봇 기념비§! 건설 가능: 행성의 §Y행복도§!, §Y로봇 산출량§! 그리고 §Y영향력을§!을 증가시키고, §Y에너지 크레딧§!을 유지비로 사용합니다.\n\nBeing combined with §Y신정국가§!또는 §Y정신주의§! 사회제도가 결함하면, §Y대사제§!는 §Y공학 연구§!와 §Y로봇 산출물§!에 §G+3/+2%§!을 곱하고, 그리고 §Y기술 사제§!는 §Y영향력§!과 §Y공학 연구§!를 추가로 생산합니다."
+ 
+ building_collosal_monument:0 "거대 로봇 기념비"
+ building_collosal_monument_desc:0 "의인화된 로봇을 찬미하는 거대한 기념물"
+ 
+ 
+ #######
+ 
+ building_symbol_purity:0 "순수성의 상징"
+ building_symbol_purity_desc:0 " "
+ 
+ building_symbol_harmony:0 "조화의 상징"
+ building_symbol_harmony_desc:0 " "
+ 
+ TOTAL_ISOLATIONISM:0 "고립주의 철학"
+ TOTAL_ISOLATIONISM_DESC:0 "유효한 §Y고립주의§! 사회제도는 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ #####
+ 
+ civic_labour_unions:0 "노동 조합"
+ civic_labour_unions_desc:0 "정규직 근로자가 직장에서 의사 결정, 책임 및 권한을 공유하여, 보다 완전하게 고용되고 행복한 노동자의 생산성 및 서비스 제공을 증가시키는 것을 수반하는 합의입니다.\n\n§Y채굴§!,§Y농업§!,§Y발전§! 지구는 §G+1§! 주거를 제공합니다\n\n이 사회제도의 향상된 형태는 §Y사회주의적 이상§!"
+ 
+ civic_welfare_state:0 "사회 국가"
+ civic_welfare_state_desc:0 "이 사회의 체제는 전통적으로 매우 권위적입니다, 이들은 그들의 시민들의 보호와 자산및 복지증진에 있어 매우 중요한 위치에 있기 때문입니다.\n\n§Y도시 지구§! §G+1§! 제공 £housing£ §Y주거§!, §Y관료§! §G+2§! £amenities£ §Y편의§! ·\n\n§Y의료 민영화§! 또는 §교육 민영화§! 사회 정책 사용 불가\n\n§Y사회복지§! 생활 수준이 의무"
+ 
+ civic_shared_burden:1 "사회주의 이상"
+ civic_shared_burden_desc:1 "이 사회는 사회주의와 노동조합주의의 이상향을 유지하고 있습니다, 이들은 각 자본의 검수와 공평한 분배를 노동자들에 의해 직접적으로 운영하고 있으며 절대적인 사회적 그리고 경제적 평등을 모두에게 이루어 내고 있습니다. ·\n\n§Y광업§!, §Y농업§!, §Y발전§! 그리고 §Y산업§! 지구들은 §G+1§! 휙득 각 거주지는 ·\n\n§Y공공의료§!와 §Y공교육§! 제도를 의무적으로 부담 해야하며\n\n고유 특수 노동자 직업을 해금: £job_primitive_laborer£ §Y노동자의 영웅§!, 소량의 광물을 생산함 £minerals£ §Y광물§!, £food£ §Y식량§!, £energy£ §Y에너지§! 그리고 £unity£ §Y튱합력§!\n\n§Y사회적 평등§! 생활수준에서의 삶이 의무화\n\n§Y노동당원§! 파벌이 기뻐할 것입니다 ·\n\n고유 칙령이 해금: §Y공공 사업§!"
+ 
+ REGULATED_TRADE:0 "규제 무역: 사회적 초점"
+ REGULATED_TRADE_DESC:0 "§Y산업 개발§! 또는 §Y사회 개발§! 무역 정책을 설정 한다면 [Root.GetName] 의 호감을 살 수 있습니다."
+ 
+ civic_tooltip_byzantine_bureaucracy_effects:2 "£job_bureaucrat£ §Y$job_administrator_plural$§!들이 §Y1§! £unity£ 통합력을 제공, £job_administrator£ §Y$job_administrator_plural$§!들이 추가로 §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!을 §Y5§! 만큼 향상 시킴, 그리고 §Y0.5§! £consumer_goods£ 소비재를 소비"
+ 
+ civic_byzantine_bureaucracy:0 "고등 관료제"
+ 
+ civic_tooltip_agrarian_idyll_effects:5 "§Y농업 지구§!가 §G+1§!의 £housing£ §Y거주지§!와 §G+1§!의 £job_farmer£ §Y$job_farmer_plural$§!을 제공 \n£job_farmer£ §Y$job_farmer_plural$§!가 §G2§!의 £amenities£ §Y편의§! 를 제공\n건물 §Y식품 가공 시설§!이 £unity£ 통합력을 생산\n게임 시작부터 §Y농업 협회§! 기술이 해금된체 시작."
+ 
+ edict_public_works_socialist:0 "공공 사업"
+ edict_public_works_socialist_desc:0 ""
+ job_wealth_preacher:0 "부 전도사"
+ job_wealth_preacher_plural:0 "부 전도사"
+ job_wealth_preacher_desc:0 "일하세요, 여러분! 신께서는 당신이 부자가 되길 원하십니다!"
+ job_wealth_preacher_effect_desc:0 "£job_wealth_preacher£ $job_wealth_preacher_plural$는 £unity£통합력을 생산하며 지역 무역가치 £trade_value£를 배가 시킵니다."
+ mod_job_wealth_preacher_add:0 "$job_wealth_preacher$ 직업"
+ mod_job_wealth_preacher_per_pop:0 "$VALUE$ POP당 §G+1§! $job_wealth_preacher$ 직업"
+ mod_job_wealth_preacher_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_wealth_preacher_add£"
+ 
+ civic_efficient_bureaucracy_desc:0 "이 사회는 효율적인 것으로 매우 유명합다. 그저 어마어마하게 빠른 시간에 달성하는 것 뿐만이 아니라, 성간 제국을 운영하는데 필요한 그 거대한 관료적 구조를 매우 간소화 시켰기 때문입니다. \n\n£job_bureaucrat£ §Y$job_bureaucrat_plural$§!들은 §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!을 §G5§! 씩 추가로 증가시킵니다."
+ 
+ #######
+ 
+ POP_ATTRACTION_RULER_CONNECTIONS_TALENT_POS:0 "§G+ 지도자의 "깊은 인맥" 특성§!"
+ POP_ATTRACTION_RULER_TRAIT_TALENT_POS:0 "§G+ 지도자의 "인재를 보는 눈" 특성§!"
+ POP_ATTRACTION_DEMOCRATIC_GOV_POS:0 "§G+ "직접 민주주의" 정부 형태§!"
+ POP_ATTRACTION_WASTEFUL_NEG:0 "§R- 절약 특성 POP§!"
+ POP_ATTRACTION_SOLITARY_NEG:0 "§R- 외톨이 특성 POP§!"
+ POP_ATTRACTION_CONSUMER_GOODS_POS:0 "§G+ 사회 복지, 사회적 평등 또는 이상적 풍요 생활수준§!"
+ POP_ATTRACTION_CHARISMA_POS:0 "§G+ 카리스마 특성 POP§!"
+ POP_ATTRACTION_CONSUMER_GOODS_NEG:0 "§R- 사회 복지, 사회적 평등 또는 이상적 풍요 생활수준§!"
+ POP_ATTRACTION_CONFORMIST_POS:0 "§G+ 순응주의자 특성 POP§!"
+ POP_ATTRACTION_DOCILE_POS:0 "§G+ 유순한 특성 POP§!"
+ POP_ATTRACTION_UNRULY_NEG:0 "§R- 제멋대로인 POP§!"
+ POP_ATTRACTION_DOCILE_NEG:0 "§R- 유순한 특성 POP§!"
+ POP_ATTRACTION_UNRULY_POS:0 "§G+ 제멋대로인 POP§!"
+ POP_ATTRACTION_DEVIANTS_POS:0 "§G+ 일탈자 특성 POP§!"
+ 
+ 
+ civic_mining_guilds:1 "광업 연맹"
+ civic_mining_guilds_desc:0 "다수의 거대 광업 연맹들은 경제적 연합을 결성했고 이것은 이 사회의 주요로 이들을 끌어 올렸습니다. 제국의 경제에 연맹의 기여는 강력합니다, 또한 그렇기에 정부또한 이들의 지원에 상당히 의존하고 있습니다. \n\n§Y광업 보조금§! 무역 정책 사용 가능 · \n\n§Y광물 정제 공장§!이 §G+1§!의 광물과 §G+1§의 £job_administrator£ §Y$괸료$§!직을 제공 \n\n게임 시작시 §Y심핵 체굴§! 기술 해금"
+ 
+ civic_industrial_economy:0 "산업 자동화"
+ civic_industrial_economy_desc:0 "경제가 컴퓨터나 로봇 그리고 다양한 프로세스들과 산업기기를 위한 정보 기술들 같은 제어 시스템들에 크게 의존합니다.  \n\n게임 시작시 §Y로봇 노동§! 기술 해금"
+ 
+ civic_industrial_automatation:0 "혁신 경제"
+ civic_industrial_automatation_desc:0 "경제적 페러다임은, 자급자족적 경제 성장를 이끄는 핵심 요소들에 따르면, 지속적인 기술적 혁신입니다. 하지만 이런 고등기술에 대한 과한 집착은 문명의 문화에 파괴적인 효과를 가져올 것입니다. \n\nY법인 연구§!:§Y연구가§! 직업들이 추가 £trade_value£ §Y무역 가치§!를 생산§!  \n\n§Y기업가§! 파벌이 §Y진보와 혁신§! 무역 정책을 선택함에 있어 추가 호감도를 제공."
+ 
+ ####
+ 
+ civic_meritocratic_capitalism:0 "능력주의적 자본주의"
+ civic_meritocratic_capitalism_desc:0 "이 사회는 자유롭고 공정한 시장 경쟁이 기업가 정신을 증대하기에 대체로 보다 생산적이고 빠르게 성장하는 경제로 이어집니다.\n\n£job_merchant£ §Y기업가§! 직업은 £unity£ 통합력을 생산합니다.\n\n이것은 §Y능력지상주의§! 사회제도의 대체된 형태입니다"
+ 
+ civic_harmonious_hierarchy:0 "조화로운 계층 구조"
+ civic_harmonious_hierarchy_desc:0 "각 사회 계층간의 적정 수준의 조화는 전통적으로 유지되어져 왔습니다, 다스리는 엘리트는 자고로 국가와 그 경제를 서민들의 이익들을 위해 이끌어야 함입니다.  \n\n동족을 노예로 삼을 수 없음  \n\n£job_noble£ §Y$job_noble_plural$§!들은 추가로 §G+1§! £unity£ 통솔력, §G+2§! 안정도 그리고 §G+5§! 편의를 제공합니다  \n\n£building£ §Y$building_noble_estates$§! 이 건물은 §G+2§! §Y거주지§!를 제공하며 행성 내 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!을(를) 증가한다\n\n£building£ §Y행성 건물§!이 £job_administrator£ §Y$job_administrator$§! 직업을 £job_noble£ §Y$job_noble_plural$§!로 대체합니다\n§Y엘리트주의자§! 파벌이 좋아할 것입니다\n\n 이것은 또 다른 형식의 §Y세습 귀족제§! 사회제도입니다"
+ 
+ does_not_embrace_species_slavery:0 "$TRIGGER_FAIL$우리 제국은 §Y$policy_slavery$§!을 허용하지 않거나 §Y$ethic_authoritarian$§!, §Y$ethic_elitist$§! or §Y$ethic_xenophobe$§! 윤리관을 가지고 있지 않습니다."
+ 
+ building_deep_space_scanner:0 "심우주 스캐너"
+ building_deep_space_scanner_desc:0 "이 시설의 목적은 깊은 공간을 관찰하고 기초 과학의 발전을 향상시키는 것입니다."
+ 
+ tech_repeatable_improved_trade_value:0 "무역 관세 최적화"
+ tech_repeatable_improved_trade_value_desc:0 "실질 무역 정책의 재평가는 과세를 보다 최적화 하고 성간 무역 활동을 보다 활성화 가능합니다."
+ 
+ civic_nationalistic_zeal_desc:0 "강렬한 종족주의적 자부심과 제국주의적 야심이 사회 온 계층으로 스며듭니다."
+ 
+ IMPERIALIST_MILITARY_FEDERATION:0 "군사 연맹"
+ IMPERIALIST_MILITARY_FEDERATION_DESC:0 "§Y군사 연맹§!에 가입하는 것은 [Root.GetName] 을 기쁘게 할 것입니다."
+ 
+ #####
+ 
+ civic_peaceful_urbanism:0 "공학 통달"
+ civic_peaceful_urbanism_desc:0 "이 문명은 전통적으로 산업적 열정과 활동을 행성과 우주 개발 및 건설을 평화로운 방향으로 이끌고 있습니다.§Y도시§! 구역 §G+5§! £amenities£ 편의를 제공합니다.\n\n고유 전문가 직업:£job_urban_engineer£ $job_urban_engineer$를 사용 할 수 있습니다. 도시공학자는 £engineering_research£ 공학, £unity£ 통합력을 생산하고, 행성의 §Y$mod_planet_districts_cities_upkeep_mult$§!와 §Y$mod_planet_districts_industrial_upkeep_mult$§!를 §G5%§! 감소합니다. 또한, 거주지 구역의 §Y$mod_planet_districts_hab_industrial_cost_mult$§!을 §G10%§! 감소합니다."
+ 
+ job_urban_engineer:0 "도시 공학자"
+ job_urban_engineer_plural:0 "도시 공학자"
+ job_urban_engineer_desc:0 "도시 공학,건설 및 개발 문제에 유능한 높은 수준의 전문가."
+ job_urban_engineer_effect_desc:0 "£job_urban_engineer£ $job_urban_engineer_plural$는 £engineering_research£ 공학, £unity£ 통합력을 생산하고 행성의 §Y$mod_planet_districts_cities_upkeep_mult$§!와 §Y$mod_planet_districts_industrial_upkeep_mult$§!를 §G5%§! 감소합니다. 또한, 거주지 구역 §Y$mod_planet_districts_hab_industrial_cost_mult$§!을 §G10%§! 감소합니다."
+ mod_job_urban_engineer_add:0 "$job_urban_engineer$ 직업"
+ mod_job_urban_engineer_per_pop:0 "$VALUE$ POP당 §G+1§! $job_urban_engineer$ 직업"
+ mod_job_urban_engineer_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_urban_engineer_add£"
+ 
+ mod_planet_districts_industrial_upkeep_mult:0 "산업 구역 유지비"
+ 
+ civic_naturalism:0 "환경주의"
+ civic_naturalism_desc:0 "자연과 진정으로 가까워 지는것은 스스로에게 있어 보다 안정되고 평화롭게 합니다. 이 문명의 사람들은 자연 환경을 그들의 문화의 필수적인 부분으로 여깁니다.  \n\n행성의 자연방해물로 부터 얻는 이익은 전문가 직업 §G+1§! £job_naturalist£ $job_naturalist_plural$, £housing£ 거주지 그리고 증대된  §Y안정도§!.입니다. §Y화산§!, §Y산맥§! 또는 §Y야생생물§!같은 거대한 방해물들은 §G+2§!의 해당 직업들을 제공합니다: £job_culture_worker£ $job_culture_worker_plural$과 £job_artisan£ $job_artisan_plural$ 또는 £job_entertainer£ $job_entertainer_plural$. 희귀한 방해물과 특이점, 예를 들어 §Y방랑하는 숲§!이나 §Y거대한 생물체§! 같은 행성 특성들 또한 그에 걸맞는 직업과 보너스를 제공합니다  \n\n§Y자연적 영감§!: £job_culture_worker£ $job_culture_worker_plural$들이 상기된 자연적 특이점이 행성내 있을시 감소된 유지비용과 상승된 생산력을 가집니다\n\n고유 노동자 직업을 제공합니다: £job_naturalist£ $job_naturalist_plural$,소량의 £society_research£ 사회학 연구점과 £unity£ 통합력, £amenities£ 편의와 £trade_value£ 무역가치를 생산 \n\n§Y친환경 거주 지§!: 일반적인 자연 §Y방해물§! 무료 §G+2§! £housing£ 를 제공, 거대한 방해물들은 §G+4§!의 무료 £housing£ 거주지를 제공 · \n\n§Y제한된 도시화§!: 도시 지구가 1적은 £housing£ 거주지를 제공하며 생산과 유지비용이 §G25%§! 감소\n\n§Y민간 생명공학§!: £job_artisan£ $job_artisan_plural$이 §G-1§!의 £minerals£와 §G+1§!의 £food£를 소비하여 £consumer_goods£ 소비재를 생산, £job_biotechnologist£ $job_biotechnologist_plural$가 추가로 §G+1§!의 식량을 소비하여 §G+0.5§!의 £consumer_goods£ 소비재를 생산다, \n\n§Y국립 생태 공원§!: 특수 고유 행성건물의 건설을 허용합니다, +1 £job_naturalist£ $job_naturalist_plural$ 직업을 50명의 인구당 제공합니다, 그리고 각 희귀 자연 §Y방해물§!의 행성내 존재수 만큼 £unity£ 통합력과 £society_research£ 사회학을 생산합니다. 이 건물이 지어진 후엔 해당 행성내 자연적 §Y방해물§!들을 제거하는데 더 많은 영향력이 필요하게됩니다."
+ 
+ building_ecotourism_center:0 "생태관광센터"
+ building_ecotourism_center_desc:0 "이 행성의 자연 불가사의는 지역 경제 활동을 증대시키고 은하 모든 곳에서 관광객을 유치 합니다."
+ 
+ #job_naturalist
+ 
+ job_naturalist:0 "자연 가이드"
+ job_naturalist_plural:0 "자연 가이드"
+ job_naturalist_desc:0 "레크리에이션 야외 활동과 자연 학습 여행 기관에 종사하는 지역 주민 ."
+ job_naturalist_effect_desc:0 "£job_naturalist£ $job_naturalist_plural$는 소량의 £society_research£ 사회학, £unity£ 통합력, £amenities£ 편의, £trade_value£ 무역가치를 생산합니다."
+ mod_job_naturalist_add:0 "$job_naturalist$ 직업"
+ mod_job_naturalist_per_pop:0 "$VALUE$ POP당 §G+1§! $job_naturalist$ 직업"
+ mod_job_naturalist_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_naturalist_add£"
+ 
+ tech_repeatable_increased_robot_output:0 "산업 최적화 과정"
+ tech_repeatable_increased_robot_output_desc:0 "로봇의 효율을 3% 향상 시킵니다"
+ 
+ civic_military_industry:0 "전쟁 공학자"
+ civic_military_industry_desc:0 "이 사회의 고등 기술 진보의 중점은 전통적으로 군방위산업 개발로 기울었습니다."
+ 
+ job_ranger:0 "순찰자"
+ job_ranger_plural:0 "순찰대"
+ job_ranger_desc:0 "공무원, 행성 생태계를 보존하고 지키기 위해 일하는 자들. 그들은 범죄를 감시하기도 하며 전쟁시 무기를 들고 군대를 도우러 함께합니다."
+ job_ranger_effect_desc:0 "£job_ranger£ $job_ranger_plural$는 £society_research£ 사회학, £unity£ 통합력을 생산하고 지역 §Y범죄§!를 감소하며,§Y방위군§!을 생성하고 §Y함대 수용력§!을 증가합니다."
+ mod_job_ranger_add:0 "$job_ranger$ 직업"
+ mod_job_ranger_per_pop:0 "$VALUE$ POP당 §G+1§! $job_ranger$ 직업"
+ mod_job_ranger_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_ranger_add£"
+ 
+ CREATE_BLOCKERS:0 "§Y특별한 능력§!: 적절한 자연 행성 §Y장애물§!을 제거하는 기술을 연구하면 특별한 행성 §Y결정§!을 사용하여 이러한 장애물을 스스로 만들 수 있습니다."
+ 
+ decision_create_dangerous_wildlife_blocker:0 "위험한 야생동물 생성"
+ decision_create_dangerous_wildlife_blocker_desc:0 "어느 행성에나 §Y위험한 야생생물§!을 만들 수 있습니다."
+ decision_create_dangerous_wildlife_effects_custom:0 "어느 행성에나 §Y위험한 야생생물§!을 만들 수 있습니다."
+ 
+ decision_create_mountain_range:0 "산맥 생성"
+ decision_create_mountain_range_desc:0 "어느 행성에나 §Y산맥§!을 만들 수 있습니다."
+ decision_create_mountain_range_effects_custom:0 "어느 행성에나 §Y산맥§!을 만들 수 있습니다."
+ 
+ decision_create_active_volcano:0 "활화산 생성"
+ decision_create_active_volcano_desc:0 "어느 행성에나 §Y활화산§!을 만들 수 있습니다."
+ decision_create_active_volcano_effects_custom:0 "어느 행성에나 §Y활화산§!을 만들 수 있습니다."
+ 
+ decision_create_dense_jungle:0 "빽빽한 밀림 생성"
+ decision_create_dense_jungle_desc:0 "가이아,바다,열대,사바나,대륙 행성에 §Y빽빽한 밀림§!을 만들 수 있습니다."
+ decision_create_dense_jungle_effects_custom:0 "가이아,바다,열대,사바나,대륙 행성에 §Y빽빽한 밀림§!을 만들 수 있습니다."
+ 
+ decision_create_toxic_kelp:0 "독성 해조류 생성"
+ decision_create_toxic_kelp_desc:0 "가이아,바다,열대,극지,대륙 행성에 §Y독성 해조류§!을 만들 수 있습니다."
+ decision_create_toxic_kelp_effects_custom:0 "가이아,바다,열대,극지,대륙 행성에 §Y독성 해조류§!을 만들 수 있습니다."
+ 
+ decision_create_deep_sinkhole:0 "깊은 싱크홀 생성"
+ decision_create_deep_sinkhole_desc:0 "가이아,건조,사막,대륙,사바나 행성에 §Y깊은 싱크홀§!을 만들 수 있습니다."
+ decision_create_deep_sinkhole_effects_custom:0 "가이아,건조,사막,대륙,사바나 행성에 §Y깊은 싱크홀§!을 만들 수 있습니다."
+ 
+ decision_create_quicksand_basin:0 "유사 지역 생성"
+ decision_create_quicksand_basin_desc:0 "가이아,건조,사막,대륙,사바나 행성에 §Y유사 지역§!을 만들 수 있습니다."
+ decision_create_quicksand_basin_effects_custom:0 "가이아,건조,사막,대륙,사바나 행성에 §Y유사 지역§!을 만들 수 있습니다."
+ 
+ decision_create_noxious_swamp:0 "유독성 늪지 생성"
+ decision_create_noxious_swamp_desc:0 "가이아,바다,열대,툰드라,사바나 행성에서 §Y유독성 늪지§!를 만들 수 있습니다."
+ decision_create_noxious_swamp_effects_custom:0 "가이아,바다,열대,툰드라,사바나 행성에서 §Y유독성 늪지§!를 만들 수 있습니다."
+ 
+ decision_create_massive_glacier:0 "거대한 빙하 생성"
+ decision_create_massive_glacier_desc:0 "가이아,고산,극지,바다,툰드라 행성에서 §Y거대한 빙하§!를 만들 수 있습니다."
+ decision_create_massive_glacier_effects_custom:0 "가이아,고산,극지,바다,툰드라 행성에서 §Y거대한 빙하§!를 만들 수 있습니다."
+ 
+ building_pangalactic_forum:0 "범은하포럼"
+ building_pangalactic_forum_desc:0 "통치자에게 £job_head_ambassador£ $job_head_ambassador$직업을 부여합니다. 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 §Y외교 가중치§!, £society_research£ 사회학, £unity£ 통합력, £trade_value£ 무역 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100+ 종 마다)"
+ 
+ job_head_ambassador:0 "총대사"
+ job_head_ambassador_plural:0 "총대사"
+ job_head_ambassador_desc:0 "§Y범은하포럼§!의 수장"
+ job_head_ambassador_effect_desc:0 "£job_head_ambassador£ $job_head_ambassador$는 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 §Y외교 가중치§!, £society_research£ 사회학, £unity£ 통합력, £trade_value£ 무역 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100/100+ 종 마다) 이들의 £energy£ 에너지 유지비 또한 이에 맞게 조정됩니다."
+ mod_job_head_ambassador_add:0 "$job_head_ambassador$ 직업"
+ mod_job_head_ambassador_per_pop:0 "$VALUE$ POP당 §G+1§! $job_head_ambassador$ 직업"
+ mod_job_head_ambassador_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_head_ambassador_add£"
+ 
+ civic_peacekeepers:0 "보편주의"
+ civic_peacekeepers_desc:0 "이 문명은 모든 지각 있는 은하계 생명체의 평화적 협력에 대한 희망과 신념의 정신에 의해 우주로 몰려듭니다.\n\n§Y연방§!, §Y불가침조약§! §Y연구 협약§!을 맺는데 영향력 비용이 소모되지 않습니다.\n§Y외계종 선호§! 파벌은 §Y연방§!에 참여하는데에 추가적인 찬성도를 제공합니다.\n§Y라이벌§!을 가질 수 없습니다.\n§Y외교단§! 사회 제도의 향상된 형태로 간주됩니다.\n\n제국 고유 건물-§Y범은하포럼§!을 사용할 수 있습니다. 포럼은 제국 전체에 §Y서로 다른 종족§! 숫자에 따라 §Y외교 가중치§!, £society_research£ 사회학, £unity£ 통합력, £trade_value£ 무역 보너스를 제공합니다."
+ 
+ building_galactic_trade_center:0 "성간 무역 센터"
+ building_galactic_trade_center_desc:0 "통치자에게 £job_head_trader£ $job_head_trader$직업을 부여합니다. 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 §Y경제력으로부터 외교 가중치§!, §Y항성기지 수용력§!, £consumer_goods£ 소비재 생산 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100/100+ 종 마다)"
+ 
+ job_head_trader:0 "무역 조정관"
+ job_head_trader_plural:0 "무역 조정관"
+ job_head_trader_desc:0 "§Y성간 무역 센터§!의 수장"
+ job_head_trader_effect_desc:0 "£job_head_trader£ $job_head_trader$은 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 §Y경제력으로부터 외교 가중치§!, §Y항성기지 수용력§!, £consumer_goods£ 소비재 생산 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100/100+ 종) 이들의 £energy£ 에너지 유지비 또한 이에 맞게 조정됩니다."
+ mod_job_head_trader_add:0 "$job_head_trader$ 직업"
+ mod_job_head_trader_per_pop:0 "$VALUE$ POP당 §G+1§! $job_head_trader$ 직업"
+ mod_job_head_trader_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_head_trader_add£"
+ 
+ civic_globalism:0 "세계통합주의"
+ civic_globalism_desc:0 "우리를 우주로 이끄는 이유는 미지의 것과 생소한 것에 대한 이끌림 뿐만 아니라 수익성이 있는 거래로 얻을 것이 있기 때문입니다.\n\n이들의 행성은§Y은하 시장§! 중심지로 지명될 확률이 높아지며  §Y은하시장 지명§!과 지명 입찰 §Y강화§! 결정에 영향력 비용이 소모되지 않습니다.\n\n §Y통상 조약§!을 맺는데에 영향력이 소모되지 않습니다.\n\n§Y무역 복합기업§! 엔클레이브에게 증가된 의견을 얻습니다.\n\n§Y기업가§! 파벌은 §Y무역 연맹§!에 가입할때 추가적인 찬성도를 제공합니다.\n\n제국 고유 건물- §Y성간 무역 센터§!를 사용할 수 있습니다. 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 £trade_value£ 무역, §Y경제력으로부터 외교 가중치§!, §Y항성기지 수용력§!,£consumer_goods£ 소비재 생산 보너스를 제공합니다. "
+ 
+ building_galactic_temple:0 "은하 통합의 사원"
+ building_galactic_temple_desc:0 "통치자에게 £job_head_preacher£ $job_head_preacher$ 직업을 부여합니다. 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 £unity£ 통합력, §Y인구로부터 외교 가중치§!, £happiness£ 행복도, §Y이주 선호도§!, §Y외계종 선호 윤리관 선호도§! 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100/100+ 종 마다)"
+ 
+ job_head_preacher:0 "총대주교"
+ job_head_preacher_plural:0 "총대주교"
+ job_head_preacher_desc:0 "§Y은하 통합의 사원§!의 수장"
+ job_head_preacher_effect_desc:0 "£job_head_preacher£ $job_head_preacher$는 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 £unity£ 통합력, §Y인구로부터 외교 가중치§!, £happiness£ 행복도, §Y이주 선호도§!, §Y외계종 선호 윤리관 선호도§! 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100/100+ 종) 이들의 £energy£ 에너지 유지비 또한 이에 맞게 조정됩니다."
+ mod_job_head_preacher_add:0 "$job_head_preacher$ 직업"
+ mod_job_head_preacher_per_pop:0 "$VALUE$ POP당 §G+1§! $job_head_preacher$ 직업"
+ mod_job_head_preacher_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_head_preacher_add£"
+ 
+ civic_evangelism:0 "복음주의"
+ civic_evangelism_desc:0 "이 문명의 사람들은 우주의 모든 지각 있는 생명체가 어느 정도 높은 영과 결속되어 있다고 믿습니다. 이제, 그들은 은하계 전체에 그들의 믿음을 전파하기를 열망합니다.\n\n제국 고유 건물-§Y은하 통합의 사원§!을 사용할 수 있습니다. 제국 내에  §Y서로 다른 종족§! 숫자에 따라 제국 전체에 £unity£ 통합력, §Y인구로부터 외교 가중치§!, £happiness£ 행복도, §Y이주 선호도§!, §Y외계종 선호 윤리관 선호도§! 보너스를 제공합니다."
+ 
+ building_galactic_navy_academy:0 "성간 군사 조정 센터"
+ building_galactic_navy_academy_desc:0 "통치자에게 £job_head_commander£ $job_head_commander$ 직업을 부여합니다. 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 §Y함대로부터 외교가중치§!, §Y무역보호§!, §Y첩보망 규모§! 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100/100+ 종 마다) 또한, 지역 §Y방위군§!을 생성합니다."
+ 
+ job_head_commander:0 "최고 사령관"
+ job_head_commander_plural:0 "최고 사령관"
+ job_head_commander_desc:0 "§Y성간 군사 조정 센터§!의 수장"
+ job_head_commander_effect_desc:0 "£job_head_commander£ $job_head_commander$은 제국 내에 §Y서로 다른 종족§! 숫자에 따라 제국 전체에 §Y함대 수용력§!, §Y함대로부터 외교가중치§!, §Y무역보호§!, §Y첩보망 규모§! 보너스를 추가로 제공합니다. 이 수치는 §G10§!부터 §G100+§!까지 증가합니다.(각 10/25/40/55/70/85/100/100+ 종 마다) 또한, 지역 §Y방위군§!을 생성합니다.이들의 £energy£ 에너지 유지비도 이에 맞게 조정됩니다."
+ mod_job_head_commander_add:0 "$job_head_commander$ 직업"
+ mod_job_head_commander_per_pop:0 "$VALUE$ POP당 §G+1§! $job_head_commander$ 직업"
+ mod_job_head_commander_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_head_commander_add£"
+ 
+ civic_xeno_militarist:0 "중재주의"
+ civic_xeno_militarist_desc:0 "이 문명은 외계 문화에 자연스럽게 개방되어 있기 때문에 세계 힘의 균형을 유지하는 것이 정당하다고 여겨질 때 군사력 사용을 소홀히 하지 않습니다.\n\n§Y방위조약§!,§Y독립보장§! 조약을 맺을 때에 영향력 비용이 소모되지 않습니다.\n§Y군국주의자 파벌§!은 §Y방위조약§!을 맺을 때 찬성도를 제공합니다.\n§Y군국주의자 파벌§!은 1 이상의 §Y라이벌§!에 영향력을 제공하지 않고  §Y공격적인 외교§!를 요구하지 않습니다.\n§Y군국주의자 파벌§!은 §Y해방 전쟁§! 전쟁 정책에 찬성도를 제공합니다.\nY군국주의자 파벌§!은 §Y군사 연맹§!에 가입할 때 찬성도를 제공합니다.\n제한적인 §Y궤도폭격§! 선택지\n\n제국 고유 건물-§Y성간 군사 조정 센터§!를 사용할 수 있습니다. 제국 내에 §Y서로 다른 종족§!에 숫자에 따라 제국 전체에 §Y함대 수용력§!, §Y함대로부터 외교가중치§!, §Y무역 보호§!, §Y첩보망 규모§! 보너스를 제공합니다."
+ 
+ civic_keepers_harmony:0 "조화의 관리자"
+ civic_keepers_harmony_desc:0 "이 사회의 사람들은 자연에 대한 영적 숭배를 발전시켰습니다. 생물권과 진정한 조화를 이루기 위해 컬트는 세속적인 쾌락으로부터의 상당한 분리를 의미합니다.\n\n다양한 행성 §Y장애물§!로부터 이점을 얻습니다. 장애물은 특별한 사제 직업-§Y드루이드§!와 적절한 수준의 £housing£ 주거를 제공합니다. 또한 §Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!를 약간 증가합니다. 일부 §Y방랑하는 숲§!, §Y거대 생명체§! 등등과 같은 희귀한 행성 장애물과 특징들은 적절한보너스를 제공합니다.\n\n§Y낙원 돔§! 건물은 추가적인 £housing£ §Y주거§!와 증가된 £unity£ §Y통합력§! 산출량을 제공합니다.\n\n§Y행성의 목소리§!:§Y황량함§!, §Y치명적인 기상패턴§!, §Y거친 폭풍§!, §Y손상된 생태계§!, §Y돌연변이 사냥꾼§!, §Y위험한 야생생물§!, §Y방사능 황무지§! 이상현상을 제거하는 특별한 행성 결정을 사용 할 수 있습니다.\n\n§Y채굴 지구§!가 £amenities£ §Y편의§!를 §R1§! 감소합니다.\n\n§Y자연의 숭배§!:고유 행성 건물-§Y자연 보호구역§!을 사용할 수 있습니다. 보호구역은 고유 자연 §Y장애물§!마다 지역의 £unity£ 통합력,£happiness£ 행복도, §Y생태주의§! 윤리관 선호도를 증가시키고 £food£ 식량 유지비를 요구합니다."
+ 
+ building_nature_sanctuary:0 "자연 보호구역"
+ building_nature_sanctuary_desc:0 "전 세계에서 온 사람들이 이곳에 모여 대자연에 경배하기 위해 제물을 가지고 옵니다. 이 기념물은 고유 자연 §Y장애물§!마다 지역 £unity£ 통합력, £happiness£ 행복도, §Y생태주의§! 윤리관 선호도를 증가시키고 £food£ 식량 유지비를 요구합니다."
+ 
+ civic_functional_architecture_desc:1 "이 사회는 단순하면서도 기능적인 건축으로 유명하다. 이 건물 스타일을 지루하거나 심지어 우울하다고 말하는 사람들도 있지만, 대부분의 경우, 네오 콘크리트는 다른 어떤 건축 자재와 마찬가지로 그 일을 잘 해냅니다.\n\n§Y호화 주택§!을 §Y공동 주택§!으로 대체할 수 있습니다."
+ 
+ civic_eco_warfare:0 "자연의 수호자"
+ civic_eco_warfare_desc:0 "그들은 총을 들고 생태계를 지킬 수 있을 뿐 아니라 생명과학의 발전을 군사적으로 효과적으로 적용하는 법을 배웠습니다.\n\n§Y자연 보호§!:자연 행성 §Y장애물§!로부터 이익을 얻습니다,장애물은 고유한 £job_ranger£ $job_ranger_plural$ 직업을 제공하고 §Y궤도폭격 피해량§!을 §G5%§! 감소합니다. §Y화산§!, §Y산맥§!,§Y야생생물§!과 같은 거대한 방해물은 £job_ranger£ $job_ranger_plural$와 £job_foundry£ $job_foundry_plural$혹은£job_duelist£ $job_duelist_plural$ 직업을 제공합니다. §Y방랑하는 숲§!, §Y거대 생명체§!등등과 같은 희귀한 행성 장애물과 특징은 적절한 직업과 보너스를 제공합니다.\n\n§Y순찰대 감시단§!:고유한 전문가 직업을 사용할 수 있습니다- £job_ranger£ $job_ranger_plural$는 §Y방위군§!을 생성하고, §Y함대 수용력§!을 증가하며, §Y범죄§!를 감소하고,£society_research£ 사회학과 £unity£ 통합력을 생산합니다.\n\n§Y생체 함선§!: 군사 건물에 생명공학을 결합시켜, 함선들이 장갑과 선체의 재생과 같은 특별한 능력을 얻고, 에너지 효율을 높일 수 있게 해줍니다. 단점은 일반적으로 이러한 소재가 일반적인 비-유기 합금보다 연약하다는 것입니다.\n\n§Y군사 의학§!:지상군 체력이 증가합니다.\n\n§Y군사 생명공학§!: £job_foundry£ $job_foundry_plural$가 £alloys£ 합금을 생산하는데에 £minerals£ 광물이 §G-1§! 덜 들고 £food£ 식량이 §G+1§! 더 듭니다. £job_biotechnologist£ $job_biotechnologist_plural$는 §G+1§! 식량을 더 소비하고 §G+0.5§! £alloys£ 합금을 더 생산합니다."
+ 
+ COLONIZED_GAIA_WORLDS:0 "식민지화된 가이아 행성"
+ COLONIZED_GAIA_WORLDS_DESC:0 "§Y가이아 행성§!을 소유하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ NATURAL_WONDER:0 "국립 자연 보존구역"
+ NATURAL_WONDER_DESC:0 "가능한 모든 자연 §Y장애물§!(화산, 산지, 야생생물, 밀림, 늪지, 해조류, 싱크홀, 빙하, 유사)을 행성에 소유하는 것은 [Root.GetName]을 굉장히 기쁘게 할것입니다."
+ 
+ PROTECTED_NATURE:0 "보호된 자연"
+ NO_PROTECTED_NATURE:0 "외계 자연 탐색 및 보호"
+ PROTECTED_NATURE_DESC:0 "행성에 §Y우거진§! §Y아름다운 자연§!, §Y방황하는 숲§!, §Y이동하는 숲§!을 소유하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ PROTECTED_WILDLIFE:0 "보호된 야생생물"
+ NO_PROTECTED_WILDLIFE:0 "토착 야생생물 탐색 및 보호"
+ PROTECTED_WILDLIFE_DESC:0 "행성에 §Y위험한 야생생물§!(행성 변동치의 장애물중 하나) 혹은 §Y흉포한 황무지§!를 소유하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ UNIQUE_LIFERORMS:0 "보호된 고유 생명체"
+ NO_UNIQUE_LIFERORMS:0 "고유 생명체 탐색 및 보호"
+ UNIQUE_LIFERORMS_DESC:0 "행성에 §Y거대 생명체§! 혹은 §Y외계 애완동물§!을 소유하는 것은 [Root.GetName]을 기쁘게 할 것입니다."
+ 
+ building_tribal_palace:0 "국가안보부"
+ building_tribal_palace_desc:0 "제국의 규모가 커짐에 따라 외부의 위혐도 증가하고 있으며, 이러한 처분은 정치적,행정적으로 점점 더 중요해지고 있습니다.\n\n통치자에게 £job_tribe_speaker£ $job_tribe_speaker$ 직업을 부여합니다. 제국이 보유한 §Y식민지§! 숫자에 따라 §Y행정 능력§!, §Y함대 수용력§!, §Y항성기지 수용력§! §Y영향력§! 보너스를 추가로 제공합니다. 이 수치는 §G5+§!부터 §G25+§!까지 증가합니다.(각 5/10/15/20/25+ 식민지 마다)"
+ 
+ job_tribe_speaker:0 "국가안보의장"
+ job_tribe_speaker_plural:0 "국가안보의장"
+ job_tribe_speaker_desc:0 "§Y국가안보부§!의 수장"
+ job_tribe_speaker_effect_desc:0 "£job_tribe_speaker£ $job_tribe_speaker$은 제국이 소유한 §Y식민지§! 숫자에 따라 제국 전체에 §Y행정 능력§!, §Y함대 수용력§!, §Y항성기지 수용력§!, §Y영향력§! 보너스를 추가로 제공합니다.이 수치는 §G5+§!부터 §G25+§!까지 증가합니다.(각 5/10/15/20/25+ 식민지 마다)이들의 £energy£ 에너지 유지비도 이에 맞게 조정됩니다. 또한 §Y방위군§!을 생성합니다."
+ mod_job_tribe_speaker_add:0 "$job_tribe_speaker$ 직업"
+ mod_job_tribe_speaker_per_pop:0 "$VALUE$ POP당 §G+1§! $job_tribe_speaker$ 직업"
+ mod_job_tribe_speaker_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_tribe_speaker_add£"
+ 
+ civic_in_perfect:0 "부족주의"
+ civic_in_perfect_desc:0 "이 외계혐오적 사회는 강력한 부족 집단주의로 결속되어 있습니다.\n\n§Y부족 협의회§!: 고유 행성 건물 사용 가능 - §Y부족 대회막§!, 고유 통치자 직업 제공 - £job_the_elder£ $job_the_elder$, 성계내 £society_research£ 사회학 연구, £amenities£ 편의 그리고 §Y안정도§!를 행성 인구수에 따라 증대시킵니다,  "
+ 
+ ECOSYSTEM_DIVERSITY:0 "생태계 다변화"
+ ECOSYSTEM_DIVERSITY_DESC:0 "존재하는 모든 일반 거주 가능 행성을 (건조, 사막, 초원, 극지, 고산, 동토, 대륙, 바다, 열대) 식민지화 하는것은 [Root.GetName] 을 기쁘게 할 것 입니다."
+ 
+ building_tribal_council:0 "부족 대회막"
+ building_tribal_council_desc:0 "각 부족의 추장들이 이곳에 정기적으로 모여 지속 가능한 행성개발의 시급한 문제들을 논의합니다.\n\n고유 통치자 직업 사용 가능 - £job_the_elder£ $job_the_elder$, 또한 지역 £society_research£ 사회학 연구, £amenities£ 편의 그리고 §Y안정도§!를 증대합니다. 이 증가 수치는 식민지의 §Y인구§! 수에 따라 변동되며, §G40§!부터 §G200+§!까지 (각 40/80/120/160/200+ 인구마다) 변화합니다. 해당 직업의 유지비 또한 증가합니다."
+ 
+ job_the_elder:0 "부족 장로"
+ job_the_elder_plural:0 "부족 장로들"
+ job_the_elder_desc:0 "대추장"
+ job_the_elder_effect_desc:0 "£job_the_elder£ $job_the_elder$는 £unity£ 통합력 과 §Y방위군§!을 생성합니다."
+ mod_job_the_elder_add:0 "$job_the_elder$ 직업"
+ mod_job_the_elder_per_pop:0 "$VALUE$ POP당 §G+1§! $job_the_elder$ 직업"
+ mod_job_the_elder_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_the_elder_add£"
+ 
+ NATIONAL_SECURITY:0 "\n§Y국가 보안§!: 제국이 성장함에 따라 §G5+§!의 각 추가되는 식민지 마다 제국의 고유 건물을 건설 가능케 됩니다 - §Y국가 안보부§!, 이 건물은 제국이 보유한 식민지 숫자에 따라 (§G5§!에서부터 §G25+§!까지의 행성), 제국 전역에 §Y행정 능력§!, §Y함대 수용력§!, §Y항성기지 수용력§!과 §Y영향력§!을 추가로 증가시킵니다"
+ 
+ decision_witch_hunt:0 "마녀 사냥"
+ decision_witch_hunt_desc:0 "그 이단들은 제소되고 처단될 것입니다!"
+ decision_witch_hunt_effects_custom:0 "£job_templar£ $job_templar_plural$ 추가로 통합력과 안정도를 생산하고 정신주의 윤리관 인구를 끌어옵니다, 허나 지역내 연구수치는 크게 감소할 것입니다."
+ 
+ decision_end_witch_hunt:0 "마녀 사냥 종료"
+ decision_end_witch_hunt_desc:0 "진행 중인 마녀 사냥을 종료합니다"
+ decision_end_witch_hunt_effects_custom:0 "결정이 진행 중인 마녀 사냥을 종료합니다"
+ 
+ civic_imperial_cult_desc:1 "이 사회는 통치자를 살아있는 신으로 숭배하는 지배적인 국교를 가지고 있습니다.\n\n£building£ §Y수도 건물§!의 £job_administrator£ §Y$job_administrator$§! 직업을 £job_high_priest£ §Y$job_high_priest_plural$§!로 대체합니다. §Y신성 연결체§! 와 §Y신앙의 요새§! 건물은 추가적인 §Y대사제§! 직업을 제공합니다.\n£job_priest£ §Y$job_priest_plural$§!는 £unity£ 통합력을 §Y1§! 추가로 생산합니다.\n\n§Y신황제§!:현재 통치자를 불멸자로 만드는 특별한 시행령을 사용할 수 있습니다.\n\n야망 §Y과학 혁명§!을 사용 할 수 없습니다"
+ 
+ civic_war_industry:1 "군사 산업"
+ civic_war_industry_desc:1 "이 사회는 강한 전통의 선진 군산복합체 입니다. 그들의 함선과 함포는 최고의 품질이지만 좀 비싼 유지 비용이 단점입니다."
+ 
+ civic_tooltip_shadow_council_effects:1 "£job_administrator£ §Y$job_administrator_plural$§!이 §G+2§!의 안정도를 각\n\n"
+ 
+ #######
+ 
+ mod_planet_district_hab_housing_upkeep_mult:0 "거주지 도시 구역 유지비"
+ mod_planet_district_rw_city_upkeep_mult:0 "링월드 도시 구역 유지비"
+ 
+ #starts game with §YBiotech Consortium§! tech
+ 
+ civic_terraforming:0 "생태공학자"
+ civic_terraforming_desc:0 "이 문명은 예로부터 환경적 문제들을 해결하는데 과학에 의존해 왔습니다. 그들은 기술을 사용하여 지속가능한 생태계를 설계하였고, 더 나아가 그들 스스로의 사회를 자연과 통합하여 둘 모두에게 이익이 되게끔 하였습니다.\n\n행성의 특성 및 자연적 §Y방해물§!에서부터 §Y거주지§!와 §Y외계생물학자§!와 §Y지질물리학자§!같은 전문가 직업등의 이익을 얻을 수 있습니다.\n\n§Y자연적 방애물§!의 인위적 생성의 (생태주의자 윤리관 특수 능력) 비용이 절반으로 감소합니다.  \n\n§Y조경 공학§!: 거대 행성 방해물이 (§Y화산§!, §Y산맥§! 또는 §Y야생 생태계§!) §G+1§!의 추가 행성 건물 건설 슬롯을 제공합니다.\n\n§Y방해물§!을 제거할 시 일시적으로 다양한 자원들을 얻을 수 있습니다  \n\n§Y환경 복원 기술§!: 특별한 행성 결정 선택 가능, §Y방사능 행성§!, §Y동주기 자전§!, §Y훼손된 생태계§! 같은 행성의 특정한 이상 현상들을 제거할 수 있습니다.\n\n게임 시작시 기술 §Y대기 여과§!와 §Y지표 재구성§!을 가지고 시작합니다\n§Y무덤 행성 적응§! 기술을 발견할 가능성 또한 높아집니다\n\n§Y진보된 태라포밍§!: 보다 고등 기술인 §Y대기 정화§!를 연구 할 수 있습니다. 이 기술은 무덤 행성을 테라포밍 할 수 있게 합니다. \n\n행성 고유 건물 - §Y기상 제어 시설§!을 건설 가능합니다, §G+15%§!의 거주 적합도를 올려주며 §G10§!의 에너지를 유지비로 사용합니다."
+ 
+ building_climate_control:0 "기상 제어 시설"
+ building_climate_control_desc:0 "이 고등 기술 시설의 목적은 지역 환경에 최소한의 간섭을 주며 행성 기후에 영향을 주어 당신의 종족에게 보다 거주 가능한 환경을 만들기 위합니다."
+ 
+ #Climate Control Generator +15 habitability
+ #terraform Toxic
+ 
+ edict_find_toxic_planets:0 "독성 세계 찾기"
+ edict_find_toxic_planets_desc:0 "이 칙령은 국경 내의 모든 독성 세계를 정확히 파악할 수 있습니다."
+ 
+ ####
+ toxic_world_candidate:0 "독성 세계 테라포밍 후보"
+ toxic_world_candidate_desc:0 "이 세상은 잠재적 태라포밍 후보입니다."
+ 
+ capitalism_unrest:0 "불안 (경쟁주의 선호)"
+ capitalism_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y경쟁주의§!에 보다 매력을 느끼게 만들 것입니다"
+ 
+ socialism_unrest:0 "불안 (협동주의 선호)"
+ socialism_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y협동주의§!에 보다 매력을 느끼게 만들 것입니다"
+ 
+ green_unrest:0 "불안 (생태주의 선호)"
+ green_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y생태주의§!에 보다 매력을 느끼게 만들 것입니다"
+ 
+ industrial_unrest:0 "불안 (인류중심주의 선호)"
+ industrial_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y인류중심주의§!에 보다 매력을 느끼게 만들 것입니다"
+ 
+ pluralist_unrest:0 "불안 (다원주의 선호)"
+ pluralist_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y다원주의§!에 보다 매력을 느끼게 만들 것입니다"
+ 
+ elitist_unrest:0 "불안 (엘리트주의 선호)"
+ elitist_unrest_desc:0 "이 식민지의 §H불안도§!는 해당 행성의 POP이 §Y엘리트주의§!에 보다 매력을 느끼게 만들 것입니다"                                                  
+ 
+ economic_stance_default:0 "혼합 경제"
+ economic_stance_default_name:0 "혼합 경제"
+ economic_stance_default_desc:0 "기본 경제 방식." 
+ 
+ job_slave_master:0 "노예 주인"
+ job_slave_master_plural:0 "노예 주인들"
+ job_slave_master_desc:0 "거대 노예 길드의 영향력 있는 회원"
+ job_slave_master_effect_desc:0 "£job_slave_master£ $job_slave_master_plural$가 £unity£ 통합력을 생산하며 §Y노예 생산력§!을 증가시키고 §G+5§!의 안정도를 제공합니다."
+ mod_job_slave_master_add:0 "$job_slave_master$ 직업"
+ mod_job_slave_master_per_pop:0 "$VALUE$ POP당 §G+1§! $job_slave_master$ 직업"
+ mod_job_slave_master_per_pop_short:0 "\n$VALUE$ £pop£당 §G+1§! £mod_job_slave_master_add£"
+ 
+ civic_divine_order:0 "계급 제도"
+ civic_divine_order_desc:0 "이 사회는 고대의 복잡한 문화적인 전통을 기반으로 한 엄격한 계급 제도로 구성되어 있습니다. 각 위계계층은 저마다 미리 부여된 목적에 따라 봉사할 뿐입니다.\n\n고유 직업 사용 가능- £job_slave_master£ $job_slave_master$, £unity£ 통합력을 생산하며 행성의 §Y노예 생산력§!과 §Y안정도§!를 증가합니다\n\n§Y노예 감독관§!이 추가적인 £unity£ §Y통합력§!을 생산합니다.\n\n고유 건물 건설 가능- §Y네오 콜로세움§!,이 건물은 약간의 £trade_value£ §Y무역 가치§! 와 §Y지상군 공격력을§! 증가시키는 £job_gladiator£ §Y검투사§! 직업을 추가합니다.\n\n§Y노예상 조합§! 사회제도의 심화된 형태입니다."          
+ 
+ witch_hunt:0 "마녀 사냥"
+ witch_hunt_desc:0 "이 행성은 지속적인 이단 기소의 대상이 됩니다."
+ 
+ civic_circular_economy:0 "순환 경제"
+ civic_circular_economy_desc:0 "순환 경제는 폐기물과 에너지를 다음공정에 사용하며 재사용, 재제조 및 재활용을 극도로 강조하는 시스템입니다. 목표는 투입되는 자원의 사용을 최소화하고 폐기물과 오염의 생성 또한 최소화하는 경제적으로 효율적인 폐쇄적 순환 시스템을 만드는 것입니다.\n\n§Y개선된 제조 효율§!: 전문가들이  £exotic_gases£ §Y이종 가스§!, £rare_crystals£ §Y희귀 수정§! 그리고 £volatile_motes£ §Y불안정 분말§!들을 생산하는데 £minerals£ 광물 사용이 §G-1§!만큼 감소합니다  \n\n§Y선진 생체공학§!: 게임 시작시 §Y생명공학산업§! 기술을 해금합니다"
+ 
+ mod_station_gatherers_upkeep_mult:0 "채굴 스테이션 유지비"       
+ 
+ DEEP_MINING:0 "\n\n§Y심핵 채굴§! 기술을 연구할 수 있습니다, §Y열 시추공§!을 짓고 £job_deep_miner£ $job_deep_miner_plural$을 고용하십시오."
+ 
+ building_national_park:0 "국립 생태 공원"
+ building_national_park_desc:0 "이 행성의 뛰어난 자연 경관들은 국가적 자산으로 선언되고 정부의 특별한 보호를 받고 있습니다.\n\n§Y방해물l§!을 제거하는데 추가 영향력이 필요합니다."
+ 
+ gov_timocracy:0 "금권정치"
+ gov_timocracy_desc:0 "공화주의적 형태의 국가입니다. 여기서는 당신의 정치적 권리들이 (선거할 권리나 선거될 수 있는 권리등이) 인구내에 가진 자본의 크기에 따라 계층화되어 나뉘어 있습니다."
+
+civic_anarchy_ideals:0 "무정부 상태"
+civic_anarchy_ideals_desc: "이 사회는 모든 형태의 정치적 또는 사회적 위계질서를 거부한다는 이상에 기반을 두고 있습니다.\n\n§Y수도§! 건물은 £job_enforcer£ 집행관 직업을 §R-1§! 더 적게 제공합니다.\n\n§Y재정착§! 정책과 §Y인구 통제§! 정책은 허용되지 않습니다."

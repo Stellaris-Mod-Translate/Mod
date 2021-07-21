@@ -1,0 +1,392 @@
+﻿l_english:
+ 
+ artifact_lost_technologies_research:0 "잃어버린 기술 복구"
+ artifact_lost_technologies_research_desc:0 "Our scientists can reverse-engineer minor artifacts that date back several millennia, when the Fallen Empires were at their zenith, in hope of recovering the secrets to some of their long-lost technologies."
+ lost_technologies_research_effect:0 "Break down £minor_artifacts£Minor Artifacts for a chance to discover the Lost Technologies of ancient Fallen Empires.\n\nCooldown: £time£ §Y720§!"
+ lost_technologies_decision_tooltip:0 "골동품 기능 잠금해제: §Y$artifact_lost_technologies_research$§!\n\n"
+ 
+ lost_technologies.1000.name:0 "잃어버린 기술"
+ lost_technologies.1000.desc:0 "몰락 제국에게 시간은 친절하지 않습니다. 한때 엄청난 힘을 휘두르던 강력한 문명들은 은하계를 자신 뜻대로 휘두르곤 했습니다. 수세기간, 그들의 문명은 어둠 속의 등대처럼 빛났으며, 많은 원시종들이 그 문명을 부러워했습니다. 그러나 그들의 진보와 혁신은 시간을 버텨낼 수 없었습니다. 시간이야말로 문명을 재판하는 판관입니다.\n\n그러나 시간이 불러온 피해를 되돌릴 수 있는 방법이 있다면? 간신히 남은 작은 흔적들을 모아, 과거의 위대한 발명품을 다시금 복구할 수 있다면 어떻까요? 우리가 수집한 유물들에는 많은 비밀이 숨겨져 있습니다. 심지어 우리가 잃어버렸다고 생각했던 기술조차도요! 그러나 우리가 잃었던 기술과 그 위업에 대한 전설은 §H[Root.GetSpeciesAdj]§!계에서도 많은 논쟁을 불러오고 있으며, 그 진위여부에 대해선 오늘날까지도 뜨거운 논쟁이 되고 있습니다."
+ lost_technologies.1000.a:0 "우리가 어떤 비밀을 밝혀낼 수 있을까?"
+ lost_technologies.1000.b:0 "우리는 혁신적인 기술을 기다릴 것이다."
+ 
+ lost_technologies_chain_title:0 "잃어버린 기술"
+ lost_technologies_chain_desc:0 "Time has not been kind to the Fallen Empires. In the end, not even their greatest advances and innovations survived the passing of time. But what if we can piece together what little information that remained, so the greatest inventions of the past can come to life once more? Many secrets lay buried within the artifacts we gathered, often referring to technologies which have since been lost.\n\nWe can attempt to unlock these mysterious Lost Technologies via the minor artifact action: §Y$artifact_lost_technologies_research$§!."
+
+ lost_technologies.1001.name:0 "잃어버린 기술 연구"
+ lost_technologies.1001.desc:0 "For months, our scientists began collecting £minor_artifacts£Minor Artifacts, deciphering their secrets and putting clues together. They debated, and overturned many theories along the way.\n\nNow we must decide on which direction to focus our research."
+ lost_technologies.1001.a:0 "잃어버린 기술: 자동화된 산업"
+ lost_technologies.1001.b:0 "잃어버린 기술: 고대의 무기"
+ lost_technologies.1001.c:0 "잃어버린 기술: 골리앗"
+ lost_technologies.1001.d:0 "잃어버린 기술: 우수한 설계"
+ lost_technologies.1001.e:0 "잃어버린 기술: 유토피아 세계"
+ lost_technologies.1001.f:0 "생각이 바뀌었다..."
+ 
+ lost_technologies.1002.name:0 "잃어버린 기술: 자동화된 산업"
+ lost_technologies.1002.desc:0 "For millennia, the Fallen Empires have relied upon their 자동화된 산업 to fuel their economy and satisfy demands of their population. However, our archaeological teams have now found evidence that suggest even more powerful versions of their surviving buildings had existed in the past, with the technology to build them since lost to the ages.\n\nPiecing together clues from ancient artifacts and combining our current knowledge of automated buildings, our scientists believe we may yet have a shot at recovering the lost technologies of these powerful constructs."
+ lost_technologies.1002.a:0 "잃어버린 기술: §Y$tech_fe_dark_matter_power_plant$§!"
+ lost_technologies.1002.b:0 "잃어버린 기술: §Y$tech_fe_autonomous_fabricator$§!"
+ lost_technologies.1002.c:0 "잃어버린 기술: §Y$tech_fe_agri_processing_complex$§!"
+ lost_technologies.1002.d:0 "잃어버린 기술: §Y$tech_fe_opulent_tower$§!"
+ lost_technologies.1002.e:0 "잃어버린 기술: §Y$tech_fe_quantum_forge$§!"
+ lost_technologies.1002.f:0 "잃어버린 기술: §Y$tech_fe_master_archive_3$§!"
+ lost_technologies.1002.g:0 "잃어버린 기술: §Y$tech_fe_aegis_complex_3$§!"
+ lost_technologies.1002.h:0 "생각이 바뀌었다."
+ 
+ lost_technologies.1003.name:0 "잃어버린 기술: 고대의 무기"
+ lost_technologies.1003.desc:0 "After years of research, we now know that many of the greatest weaponry wielded by Fallen Empires have since been lost to history. However, our archaeological teams believe that if we gather all the known artifacts and fragments, we might yet be able to recreate these advanced technologies if a concerted effort is made. Once recovered, we should unleash these lost technologies on our rivals."
+ lost_technologies.1003.a:0 "잃어버린 기술: 몰락제국 무기"
+ lost_technologies.1003.b:0 "잃어버린 기술: 함선 부품"
+ lost_technologies.1003.c:0 "잃어버린 기술: 옴니 무기"
+ lost_technologies.1003.d:0 "잃어버린 기술: 전설적인 무기"
+ lost_technologies.1003.e:0 "생각이 바뀌었다."
+ 
+ lost_technologies.1004.name:0 "잃어버린 기술: 몰락제국 무기"
+ lost_technologies.1004.desc:0 "어떤 무기를 조사해야 할까요?"
+ lost_technologies.1004.a:0 "잃어버린 기술: §Y$tech_psi_missile_system$§!"
+ lost_technologies.1004.b:0 "잃어버린 기술: §Y$tech_shadow_strike_craft$§!"
+ lost_technologies.1004.c:0 "잃어버린 기술: §Y$tech_hellfire_autocannons$§!"
+ lost_technologies.1004.d:0 "잃어버린 기술: §Y$tech_terror_cannon$§!"
+ lost_technologies.1004.e:0 "잃어버린 기술: §Y$tech_ion_disruptor$§!"
+ lost_technologies.1004.f:0 "생각이 바뀌었다."
+ 
+ lost_technologies.1005.name:0 "잃어버린 기술: 함선 부품"
+ lost_technologies.1005.desc:0 "어떤 기술을 조사해야 할까요?"
+ lost_technologies.1005.a:0 "잃어버린 기술: §Y$tech_dark_energy_power_core$§!"
+ lost_technologies.1005.b:0 "잃어버린 기술: §Y$tech_dark_energy_power_booster$§!"
+ lost_technologies.1005.c:0 "잃어버린 기술: §Y$tech_titan_armor$§!"
+ lost_technologies.1005.d:0 "잃어버린 기술: §Y$tech_titan_plating$§!"
+ lost_technologies.1005.e:0 "잃어버린 기술: §Y$tech_infinity_encoder$§!"
+ lost_technologies.1005.f:0 "잃어버린 기술: §Y$tech_infinity_decoder$§!"
+ lost_technologies.1005.g:0 "잃어버린 기술: §Y$tech_psi_deflector$§!"
+ lost_technologies.1005.h:0 "잃어버린 기술: §Y$tech_dark_energy_shield$§!"
+ lost_technologies.1005.i:0 "잃어버린 기술: §Y$tech_dark_energy_shield_booster$§!"
+ lost_technologies.1005.j:0 "잃어버린 기술: §Y$tech_dark_energy_jump_drive$§!"
+ lost_technologies.1005.k:0 "잃어버린 기술: §Y$tech_dark_energy_thruster$§!"
+ lost_technologies.1005.l:0 "잃어버린 기술: §Y$tech_dark_energy_afterburners$§!"
+ lost_technologies.1005.m:0 "잃어버린 기술: §Y$tech_dark_energy_sensors$§!"
+ lost_technologies.1005.n:0 "생각이 바뀌었다."
+ 
+ lost_technologies.1006.name:0 "잃어버린 기술: 옴니 무기"
+ lost_technologies.1006.desc:0 "어떤 무기를 조사해야 할까요?"
+ lost_technologies.1006.a:0 "잃어버린 기술: §Y$tech_omni_emitter$§!"
+ lost_technologies.1006.b:0 "잃어버린 기술: §Y$tech_omni_lance$§!"
+ lost_technologies.1006.c:0 "잃어버린 기술: §Y$tech_massive_autocannons$§!"
+ lost_technologies.1006.d:0 "잃어버린 기술: §Y$tech_omni_cannon$§!"
+ lost_technologies.1006.e:0 "잃어버린 기술: §Y$tech_omni_titan_lance$§!"
+ lost_technologies.1006.f:0 "생각이 바뀌었다."
+ 
+ lost_technologies.1007.name:0 "잃어버린 기술: 전설적인 무기"
+ lost_technologies.1007.desc:0 "어떤 무기를 조사해야 할까요?"
+ lost_technologies.1007.a:0 "잃어버린 기술: §Y$tech_portal_generator$§!"
+ lost_technologies.1007.b:0 "잃어버린 기술: §Y$tech_dimensional_weapon$§!"
+ lost_technologies.1007.c:0 "잃어버린 기술: §Y$tech_dragon_breath$§!"
+ lost_technologies.1007.d:0 "생각이 바뀌었다."
+
+ 
+ 
+# lost_technologies.1001.name:0 "잃어버린 기술 연구 - 치명적인 실패"
+# lost_technologies.1001.desc:0 "불행히도 과학자들이 몰락 제국의 잃어버린 기술을 찾기 위해 £minor_artifacts£골동품을 분해하는 시도가 큰 재앙을 불러왔습니다.\n\n수개월에 걸친 예방 조치에도 불구하고, 첫번째 시제품이 폭발하여 과학자 중 하나는 사망했으며, 시설에 큰 피해를 끼쳤습니다. 연구팀이 지금껏 무엇을 연구해왔던, 그 모든 기록이 소실되어 아무 의미 없게 변했습니다. 어쩌면 이 비밀은 우리가 스스로 배우도록 고안된 것이 아닐 것입니다."
+# lost_technologies.1001.a:0 "내 과학자 돌려줘!"
+ 
+# lost_technologies.1002.name:0 "잃어버린 기술 연구 - 실패"
+# lost_technologies.1002.desc:0 "과학자들이 몰락 제국의 잃어버린 기술을 찾기 위해 £minor_artifacts£골동품을 분해하는데 실패했습니다.\n\n그러나 과학팀은 몇개의 유물을 더 보내준다면 성공적으로 분해할 수 있다고 약속했습니다."
+# lost_technologies.1002.a:0 "실망스럽군."
+ 
+
+ lost_technologies.1.name:0 "잃어버린 기술: 자동화된 산업"
+ lost_technologies.1.desc:0 "수천년간 몰락제국은 자동화된 산업을 통해 경제를 부양하고 인구 수요를 충족시켰습니다. 그러나 고고학 연구팀에선 오래전 그 시설을 지을 수 있는 기술을 가지고 있었으며, 더욱 강력한 건물이 있었음을 암시하는 증거를 발견했습니다.\n\n고대 유물에서 찾아낸 단서를 짜맞추고, 자동화 시스템에 대한 우리의 현재 기술을 모으면 그러한 건물을 다시금 건설할 수 있을 것입니다."
+ lost_technologies.1.a:0 "프로젝트를 시작해라!"
+ lost_technologies.1.b:0 "아니, 그런 것엔 흥미 없다."
+ 
+ lost_technologies.100.name:0 "잃어버린 기술 잠금해제!"
+ lost_technologies.100.desc:0 "우리는 첨단 자동화 시설의 청사진을 성공적으로 완공했습니다. 추가 시험 및 위험도 평가만이 남았으며, 우리의 자동화 설비는 개선을 준비하고 있습니다."
+ lost_technologies.100.a:0 "굉장하군!"
+ 
+ tech_lost_technologies_1:0 "잃어버린 기술: 자동화된 산업"
+ tech_lost_technologies_1_desc:0 "The blueprints of these advanced automated buildings were once thought lost to history, along with the knowledge of how to build them." 
+ 
+ 
+ lost_technologies.2.name:0 "잃어버린 기술: 고대의 무기"
+ lost_technologies.2.desc:0 "During an archaelogical excursion, our scientists discovered the shattered components of an ancient databank, containing nonsensical, albeit corrupted data. Early investigations suggest blueprints of powerful weapons could yet be discovered within, if we had enough minor artifacts to repair it."
+ lost_technologies.2.a:0 "프로젝트를 시작해라!"
+ lost_technologies.2.b:0 "아니, 그런 것엔 흥미 없다."
+ 
+ lost_technologies.200.name:0 "잃어버린 기술 잠금해제!"
+ lost_technologies.200.desc:0 "After months of careful research, our scientists have managed to reassemble the ancient databank. Piecing together some of the corrupted data as well as deciphering clues from artifacts, new research options will become available and ancient weapons which had not been seen in millennia may yet be brought back to life."
+ lost_technologies.200.a:0 "굉장하군!" 
+ 
+ tech_lost_technologies_2:0 "잃어버린 기술: 고대의 무기"
+ tech_lost_technologies_2_desc:0 "Combining our recent successes in piecing together the corrupted data caches as well as the gathered clues from various artifacts, ancient weapons which had not been seen in millennia can yet be brought back to life."
+ 
+ lost_technologies.210.name:0 "잃어버린 기술: 옴니 무기"
+ lost_technologies.210.desc:0 "Among the many corrupted data entries found in the ancient databanks we have repaired, our scientists noticed an entry named '옴니 무기', a class of weapons that are seemingly sentient and was widely used during the Great Crusade. However, we might have to expend extra resources to uncover the secrets of 옴니 무기."
+ lost_technologies.210.a:0 "프로젝트를 시작해라!"
+ lost_technologies.210.b:0 "아니, 그런 것엔 흥미 없다."
+ 
+ lost_technologies.2000.name:0 "잃어버린 기술 잠금해제!"
+ lost_technologies.2000.desc:0 "After some meticulous work, our scientists have at last unlocked the secrets of the 옴니 무기. Their capabilities, as outlined in the recently restored blueprints, have astonished and surprised our scientific community. At our current technological level, we may yet be able to recreate some of these mystical weapons."
+ lost_technologies.2000.a:0 "굉장하군!"
+
+ lost_technologies.3.name:0 "잃어버린 기술: 골리앗"
+ lost_technologies.3.desc:0 "Among the valuable data obtained from precursor artifacts, our scientists uncovered something that shocks them and contradicts everything we knew about the Fallen Empires - a warship design of gigantic proportions unlike anything we had ever seen.\n\nWe do not yet understand why the precursor felt this was a good idea to build these at some point during the Great Crusade.\n\nNevertheless, the schematics that remained seems to check out. With our current ability in engineering, this project is one that is within our capabilities."
+ lost_technologies.3.a:0 "가치 있는 도전이겠군."
+ lost_technologies.3.b:0 "아니, 그 설계는 선구자들이 미쳤음을 확실히 할 뿐이다."
+ 
+ lost_technologies.300.name:0 "잃어버린 기술 잠금해제!"
+ lost_technologies.300.desc:0 "Our scientists have successfully restored the complete schematics and blueprint of the fabled §HGoliath§!. While an Escort is nimble, a Battlecruiser versatile and a Titan packs firepower, this new design, §HGoliath§!, seems to serve no other purpose than being big.\n\nDue to its size and challenges posed to even the finest engineers in the galaxy, only a few §HGoliaths§! were ever commissioned. What is clear however, is that this ship not only played an important role in key battles during the Great Crusade. These are some promising accolades for this ship indeed."
+ lost_technologies.300.a:0 "좋아!"
+ 
+ lost_technologies.310.name:0 "잃어버린 기술: 전설적인 무기"
+ lost_technologies.310.desc:0 "According to legends, powerful weapons were developed during the Great Crusade, capable of performing feats unimaginable to our current scientific understanding. Our scientists suggest we investigate these myths."
+ lost_technologies.310.a:0 "프로젝트를 시작해라!"
+ lost_technologies.310.b:0 "아니, 그런 것엔 흥미 없다."
+ 
+ lost_technologies.3000.name:0 "잃어버린 기술 잠금해제!"
+ lost_technologies.3000.desc:0 "After months of chasing after clues and loose ends, we were able to identify some of these '전설적인 무기' that were being developed during the Great Crusade. Further research are required however, since they are still not well understood in terms of how they function. Needless to say, some of our scientists are very excited about the prospects."
+ lost_technologies.3000.a:0 "굉장하군!"
+ 
+ lost_technologies.4.name:0 "잃어버린 기술: Superior Designs"
+ lost_technologies.4.desc:0 "During a routine examination of collected artifacts, our scientists uncovered corrupted blueprints for precursor ship designs that were used during the Great Crusade. For whatever reason, these blueprints seemed to have either been lost by the Fallen Empires a long time ago, or abandoned. Either case, it gave us insight into the ferocity of that war, and these designs seem uniquely relevant to the improvement of our current fleet of Escorts, Battlecruisers and Fallen Titans." 
+ lost_technologies.4.a:0 "프로젝트를 시작해라!"
+ lost_technologies.4.b:0 "아니, 그런 것엔 흥미 없다."
+ 
+ lost_technologies.400.name:0 "잃어버린 기술 잠금해제!"
+ lost_technologies.400.desc:0 "After restoring these corrupted blueprints, it became immediately apparant that the Fallen Empire ship types were at first designed to be a lot more powerful than their present day variants. Perhaps due to high upkeep and maintenance demands, cheaper variants were commissioned during the centuries of peace after the Great Crusade and the others were eventually phased out.\n\nIt may be possible to upgrade our fleets with our new found knowledge."
+ lost_technologies.400.a:0 "당장 해보지!"
+ 
+ tech_lost_technologies_3:0 "잃어버린 기술: 휼륭한 설계"
+ tech_lost_technologies_3_desc:0 "Blueprints from corrupted data reveals the original designs of many Fallen Empire ship types such as Escorts, Battlecruisers and Fallen Titans. These more powerful designs were apparently deemed lost to the ages until now."
+ 
+ 
+ ###Lost Technologies: Automated Buildings
+ 
+ advanced_automated_industries:0 "잃어버린 기술: 자동화된 산업"
+ advanced_automated_industries_DESC:0 "For millennia, the Fallen Empires have relied upon their 자동화된 산업 to fuel their economy and satisfy demands of their population. However, our archaeological teams have now found evidence that suggest even more powerful versions of their surviving buildings had existed in the past, with the technology to build them since lost to the ages.\n\nPiecing together clues from ancient artifacts and combining our current knowledge of automated buildings, our scientists believe we may yet have a shot at recovering the lost technologies of these powerful constructs."
+ 
+ tech_fe_dark_matter_power_plant:0 "암흑물질 발전소"
+ tech_fe_dark_matter_power_plant_desc:0 "The Dark Matter Power Plant had existed well before the standard classification were used for Singularities. Due to its sheer output, it would easily rank as a Class-12 Singularity today.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+  
+ tech_fe_quantum_forge:0 "양자 단조장"
+ tech_fe_quantum_forge_desc:0 "The Quantum Forge was the legendary variant of the Nano Forge, which processed minerals with quantum precision and speed, greatly reducing the strain of building multiple megastructures for ancient civilizations.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_fe_agri_processing_complex:0 "농업 가공 복합단지"
+ tech_fe_agri_processing_complex_desc:0 "The Agri-Processing Complex was a long forgotten technology which 'prints' foods according to its databse at all hours on-demand. There was no food it could not print.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_fe_opulent_tower:0 "풍요의 탑"
+ tech_fe_opulent_tower_desc:0 "The extravagance of the Tower of Opulence had not been seen in the galaxy for a millennia. Only empires that spend lavishly would build this to make the rest of the galaxy look like slums.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_fe_autonomous_fabricator:0 "자율 제작기"
+ tech_fe_autonomous_fabricator_desc:0 "According to our scientists, a functioning Autonomous Fabricator had not been seen for thousands of years. However, when the Fallen Empires were at their prime, Autonomous Fabricators were the backbone of their war machine during the Great Crusade.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ building_fe_dark_matter_power_plant:0 "$tech_fe_dark_matter_power_plant$"
+ building_fe_dark_matter_power_plant_desc:0 "$tech_fe_dark_matter_power_plant_desc$"
+ building_fe_quantum_forge:0 "$tech_fe_quantum_forge$"
+ building_fe_quantum_forge_desc:0 "$tech_fe_quantum_forge_desc$"
+ building_fe_agri_processing_complex:0 "$tech_fe_agri_processing_complex$"
+ building_fe_agri_processing_complex_desc:0 "$tech_fe_agri_processing_complex_desc$"
+ building_fe_opulent_tower:0 "$tech_fe_opulent_tower$"
+ building_fe_opulent_tower_desc:0 "$tech_fe_opulent_tower_desc$"
+ building_fe_autonomous_fabricator:0 "$tech_fe_autonomous_fabricator$"
+ building_fe_autonomous_fabricator_desc:0 "$tech_fe_autonomous_fabricator_desc$"
+ 
+ 
+ 
+ ###Lost Technologies: 고대의 무기
+ 
+ ancient_weaponry:0 "잃어버린 기술: 고대의 무기"
+ ancient_weaponry_DESC:0 "During an archaelogical excursions, our scientists discovered the shattered components of an ancient databank, containing nonsensical, albeit corrupted data. Early investigations suggest blueprints of powerful weapons could yet be discovered within."
+ 
+ DARK_ENERGY_POWER_CORE:0 "암흑 에너지 반응로"
+ DARK_ENERGY_POWER_CORE_DESC:0 "The technology to power advanced spaceships with Dark Energy had long been lost, until now.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_dark_energy_power_core:0 "암흑 에너지 발전"
+ tech_dark_energy_power_core_desc:0 "The technology to power advanced spaceships with Dark Energy had long been lost, until now.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ FE_ESCORT_DARK_ENERGY_REACTOR:0 "암흑 에너지 반응로"
+ FE_ESCORT_DARK_ENERGY_REACTOR_DESC:0 "암흑 에너지를 사용하여 이 고급 함선에 동력을 공급할 수 있습니다.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR:0 "암흑 에너지 반응로"
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR_DESC:0 "암흑 에너지를 사용하여 이 고급 함선에 동력을 공급할 수 있습니다.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ FE_TITAN_DARK_ENERGY_REACTOR:0 "암흑 에너지 반응로"
+ FE_TITAN_DARK_ENERGY_REACTOR_DESC:0 "암흑 에너지를 사용하여 이 고급 함선에 동력을 공급할 수 있습니다.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ FE_GOLIATH_DARK_ENERGY_REACTOR:0 "암흑 에너지 반응로"
+ FE_GOLIATH_DARK_ENERGY_REACTOR_DESC:0 "암흑 에너지를 사용하여 이 고급 함선에 동력을 공급할 수 있습니다.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ FE_STATIONS_DARK_ENERGY_REACTOR:0 "암흑 에너지 반응로"
+ FE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "암흑 에너지를 사용하여 이 고급 함선에 동력을 공급할 수 있습니다.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR:0 "암흑 에너지 반응로"
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "암흑 에너지를 사용하여 이 고급 함선에 동력을 공급할 수 있습니다.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ DARK_ENERGY_SHIELD:0 "암흑 에너지 보호막"
+ DARK_ENERGY_SHIELD_DESC:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ MEDIUM_DARK_ENERGY_SHIELD:0 "중형 암흑 에너지 보호막"
+ MEDIUM_DARK_ENERGY_SHIELD_DESC:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ LARGE_DARK_ENERGY_SHIELD:0 "대형 암흑 에너지 보호막"
+ LARGE_DARK_ENERGY_SHIELD_DESC:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_dark_energy_shield:0 "암흑 에너지 보호막"
+ tech_dark_energy_shield_desc:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ TITAN_ARMOR:0 "타이탄 장갑"
+ TITAN_ARMOR_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ MEDIUM_TITAN_ARMOR:0 "중형 타이탄 장갑"
+ MEDIUM_TITAN_ARMOR_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ LARGE_TITAN_ARMOR:0 "대형 타이탄 장갑"
+ LARGE_TITAN_ARMOR_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_titan_armor:0 "타이탄 장갑"
+ tech_titan_armor_desc:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!" 
+ 
+ TITAN_PLATING:0 "타이탄 판"
+ TITAN_PLATING_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!" 
+ MEDIUM_TITAN_PLATING:0 "중형 타이탄 판"
+ MEDIUM_TITAN_PLATING_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!" 
+ LARGE_TITAN_PLATING:0 "대형 타이탄 판"
+ LARGE_TITAN_PLATING_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!" 
+ 
+ tech_titan_plating:0 "타이탄 판"
+ tech_titan_plating_desc:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!" 
+ 
+ 
+ PSI_MISSILE_SYSTEM:0 "사이오닉 미사일 체계"
+ PSI_MISSILE_SYSTEM_DESC:0 "An experimental missile system controlled by psionic abilities, allowing full control of the missiles through willpower of the crew.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_psi_missile_system:0 "사이오닉 미사일 체계"
+ tech_psi_missile_system_desc:0 "An experimental missile system controlled by psionic abilities, allowing full control of the missiles through willpower of the crew.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ SHADOW_STRIKE_CRAFT:0 "그림자 함재기"
+ SHADOW_STRIKE_CRAFT_DESC:0 "Inspired by the Infinity Machine, the next generation of versatile strike crafts are hard to detect and even harder to hit.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_shadow_strike_craft:0 "그림자 함재기"
+ tech_shadow_strike_craft_desc:0 "Inspired by the Infinity Machine, the next generation of versatile strike crafts are hard to detect and even harder to hit.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+
+ HELLFIRE_AUTOCANNONS:0 "헬파이어 기관포"
+ HELLFIRE_AUTOCANNONS_DESC:0 "This autocannon rains hellfire upon our enemies.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_hellfire_autocannons:0 "헬파이어 기관포"
+ tech_hellfire_autocannons_desc:0 "This autocannon rains hellfire upon our enemies.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ TERROR_CANNON:0 "테러 캐논"
+ TERROR_CANNON_DESC:0 "This deadly cannon inspires utter terror with its size.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_terror_cannon:0 "테러 캐논"
+ tech_terror_cannon_desc:0 "This deadly cannon inspires utter terror with its size.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ ION_DISRUPTOR:0 "이온 분열기"
+ ION_DISRUPTOR_DESC:0 "An experimental disruptor that fires ion beams to devastate enemy vessels.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ tech_ion_disruptor:0 "이온 분열기"
+ tech_ion_disruptor_desc:0 "An experimental disruptor that fires ion beams to devastate enemy vessels.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ 
+ ###Lost Technologies: 옴니 무기
+ 
+ omni_weapons:0 "잃어버린 기술: 옴니 무기"
+ omni_weapons_DESC:0 "The 옴니 무기 are a class of semi-sentient weapons capable of sensing its user's alignment, changing their colours to match. Only the most civilized would use them as weapons of choice. Due their costly nature, 옴니 무기 were soon decomissioned from service soon after the ending of the Great Crusade."
+ 
+ OMNI_LANCE:0 "옴니 랜스"
+ OMNI_LANCE_DESC:0 "An elegant weapon, for a more civilized age.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_LANCE:0 "소형 옴니 랜스"
+ COMPACT_OMNI_LANCE_DESC:0 "소형 옴니 랜스 are small-scaled versions of their counterpart - 옴니 랜스.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_LANCE_M:0 "소형 옴니 랜스"
+ COMPACT_OMNI_LANCE_M_DESC:0 "소형 옴니 랜스 are small-scaled versions of their counterpart - 옴니 랜스.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_LANCE_S:0 "소형 옴니 랜스"
+ COMPACT_OMNI_LANCE_S_DESC:0 "소형 옴니 랜스 are small-scaled versions of their counterpart - 옴니 랜스.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ OMNI_EMITTER:0 "옴니 아크 에미터"
+ OMNI_EMITTER_DESC:0 "A powerful symbols of an empire's might, capable of smiting enemy fleets from afar.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_EMITTER:0 "소형 옴니 에미터"
+ COMPACT_OMNI_EMITTER_DESC:0 "소형 옴니 에미터 are small-scaled versions of their counterpart - 옴니 아크 에미터.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_EMITTER_M:0 "소형 옴니 에미터"
+ COMPACT_OMNI_EMITTER_M_DESC:0 "소형 옴니 에미터 are small-scaled versions of their counterpart - 옴니 아크 에미터.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_EMITTER_S:0 "소형 옴니 에미터"
+ COMPACT_OMNI_EMITTER_S_DESC:0 "소형 옴니 에미터 are small-scaled versions of their counterpart - 옴니 아크 에미터.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ OMNI_CANNON:0 "옴니 캐논"
+ OMNI_CANNON_DESC:0 "A titanic gun capable of launching projectiles across vast distances.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_CANNON:0 "소형 옴니 캐논"
+ COMPACT_OMNI_CANNON_DESC:0 "소형 옴니 캐논 are small-scaled versions of their counterpart - 옴니 캐논.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_CANNON_M:0 "소형 옴니 캐논"
+ COMPACT_OMNI_CANNON_M_DESC:0 "소형 옴니 캐논 are small-scaled versions of their counterpart - 옴니 캐논.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_CANNON_S:0 "소형 옴니 캐논"
+ COMPACT_OMNI_CANNON_S_DESC:0 "소형 옴니 캐논 are small-scaled versions of their counterpart - 옴니 캐논.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ MASSIVE_AUTOCANNONS:0 "옴니 기관포"
+ MASSIVE_AUTOCANNONS_DESC:0 "Designed to cause maximum destruction and mayhem at close range.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_MASSIVE_AUTOCANNONS:0 "소형 옴니 기관포"
+ COMPACT_MASSIVE_AUTOCANNONS_DESC:0 "소형 옴니 기관포 are small-scaled versions of their counterpart - 옴니 기관포.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+
+ 
+ MASSIVE_AUTOCANNONS_L:0 "소형 옴니 기관포"
+ MASSIVE_AUTOCANNONS_L_DESC:0 "소형 옴니 기관포 are small-scaled versions of their counterpart - 옴니 기관포.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ MASSIVE_AUTOCANNONS_M:0 "소형 옴니 기관포"
+ MASSIVE_AUTOCANNONS_M_DESC:0 "소형 옴니 기관포 are small-scaled versions of their counterpart - 옴니 기관포.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ MASSIVE_AUTOCANNONS_S:0 "소형 옴니 기관포"
+ MASSIVE_AUTOCANNONS_S_DESC:0 "소형 옴니 기관포 are small-scaled versions of their counterpart - 옴니 기관포.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ OMNI_TITAN_LANCE:0 "옴니 타이탄 랜스"
+ OMNI_TITAN_LANCE_DESC:0 "Only the most civilized would use the Omni Titan Lance as their weapon of choice.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ COMPACT_OMNI_TITAN_LANCE:0 "옴니 타이탄 레이저"
+ COMPACT_OMNI_TITAN_LANCE_DESC:0 "Omni Titan Laser are small-scaled versions of their counterpart - Omni Titan Lance.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ 
+ tech_omni_lance:0 "옴니 랜스"
+ tech_omni_lance_desc:0 "An elegant weapon, for a more civilized age.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_compact_omni_lance:0 "소형 옴니 랜스"
+ tech_compact_omni_lance_desc:0 "소형 옴니 랜스 are small-scaled versions of their counterpart - 옴니 랜스.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_omni_emitter:0 "옴니 아크 에미터"
+ tech_omni_emitter_desc:0 "A powerful symbols of an empire's might, capable of smiting enemy fleets from afar.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_compact_omni_emitter:0 "소형 옴니 에미터"
+ tech_compact_omni_emitter_desc:0 "소형 옴니 에미터 are small-scaled versions of their counterpart - 옴니 아크 에미터.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_omni_cannon:0 "옴니 캐논"
+ tech_omni_cannon_desc:0 "A titanic gun capable of launching projectiles across vast distances.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_compact_omni_cannon:0 "소형 옴니 캐논"
+ tech_compact_omni_cannon_desc:0 "소형 옴니 캐논 are small-scaled versions of their counterpart - 옴니 캐논.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_massive_autocannons:0 "옴니 기관포"
+ tech_massive_autocannons_desc:0 "Designed to cause maximum destruction and mayhem at close range.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_compact_massive_autocannons:0 "소형 옴니 기관포"
+ tech_compact_massive_autocannons_desc:0 "소형 옴니 기관포 are small-scaled versions of their counterpart - 옴니 기관포.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+
+ 
+ tech_omni_titan_lance:0 "옴니 타이탄 랜스"
+ tech_omni_titan_lance_desc:0 "Only the most civilized would use the Omni Titan Lance as their weapon of choice.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ tech_compact_omni_titan_lance:0 "옴니 타이탄 레이저"
+ tech_compact_omni_titan_lance_desc:0 "Omni Titan Laser are small-scaled versions of their counterpart - Omni Titan Lance.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ 
+ 
+ 
+ 
+ ###Lost Technologies: Goliath
+ 
+ goliath:0 "잃어버린 기술: 골리앗"
+ goliath_DESC:0 "선구자의 유물에서 얻은 귀중한 데이터 중에서, 우리의 과학자들은 충격적이고 우리가 알고 있는 모든 것과 모순되는 무언가를 발견했습니다. 우리가 지금까지 보아온 것과는 다른 거대한 비율의 전함 설계입니다.\n\n우리는 선구자가 성전 기간 중 어느 시점에 이것을 만드는 것이 좋은 생각이라고 여겼는지는 이해하지 못하지만, 이 프로젝트는 현재 우리의 공학 능력 내에 있습니다."
+  
+ tech_fe_goliath:0 "골리앗"
+ tech_fe_goliath_desc:0 "Designs obtained from Precursor artifacts detail the construction of the monstrous Goliath-class military vessels.\n\n§M이 잃어버린 기술은 한때 돌이킬 수 없을 정도로 역사 속에서 사라졌다고 여겨졌습니다.§!"
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_TITLE:0 "§H함선 유형 잠금해제:§! 골리앗"
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_DESC:1 "§HGoliaths§!\nThis gigantic warship clearly serves no other purpose than to intimidate smaller opponents."
+ 
+ fe_goliath:1 "골리앗"
+ fe_goliath_plural:1 "골리앗"
+ 
+ FE_GOLIATH_BOW_KEY:1 "골리앗 선체"
+ FE_GOLIATH_KEY:1 "골리앗"
+ FE_GOLIATH_HANGAR:1 "골리앗 격납고"
+ FE_GOLIATH_STERN:1 "골리앗 후미"
+ 
+ 
+ ###Lost Technologies: 전설적인 무기
+ 
+ legendary_weapons:0 "잃어버린 기술: 전설적인 무기"
+ legendary_weapons_DESC:0 "According to legends, powerful weapons may have been developed in the past and our scientists suggest we investigate these myths."
+ 
+ PORTAL_GENERATOR:0 "포탈 생성기"
+ PORTAL_GENERATOR_DESC:0 "§YLegendary Weapon:§! The Portal Generator rips open the fabric of space-time, creating a temporary portal for an unknown, extra-dimensional being to target enemy positions."
+ 
+ tech_portal_generator:0 "포탈 생성기"
+ tech_portal_generator_desc:0 "§YLegendary Weapon:§! The Portal Generator rips open the fabric of space-time, creating a temporary portal for an unknown, extra-dimensional being to target enemy positions."
+ 
+ 
+ 
+ ###Lost Technologies: Superior Designs
+ 
+ superior_designs:0 "잃어버린 기술: 우수한 설계"
+ superior_designs_DESC:0 "During a routine examination of collected artifacts, our scientists uncovered corrupted blueprints for precursor ship designs that were used during the Great Crusade. For whatever reason, these blueprints seemed to have either been lost by the Fallen Empires a long time ago, or abandoned. Either case, it gave us insight into the ferocity of that war, and these designs seem uniquely relevant to the improvement of our current fleet of Escorts, Battlecruisers and Fallen Titans." 
+ 
+ 
+ 
+ 
+ 

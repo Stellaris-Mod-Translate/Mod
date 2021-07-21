@@ -1,0 +1,241 @@
+﻿l_english:
+name_list_eos_namelist_elf_lunari:0 "엘프 : 루나리"
+
+####################################
+# Civics and traits
+####################################
+
+civic_elven_shields:0 "보호막 동력 중계기"
+civic_elven_shields_desc:0 "보호막은 가장 먼저 적과 마주하는 방어 형태입니다. 새로운 보호막 중계기 및 저항 증폭기는 신속한 보호막 전개를 보장합니다. 새로운 함선들이 계속 발전하는 보호막 기술을 적용받을 수 있도록 항상 주의를 기울여야 합니다."
+
+trait_pc_lunari_arctic_preference:0 "영구동토 선호"
+trait_pc_lunari_arctic_preference_desc:1 "§기후 선호도는 유전적 수준, 영겁의 진화 또는 잘 만들어진 유전자 조작에 의해 결정됩니다.§!"
+
+####################################
+# TECHS
+####################################
+tech_lunari_shield_power_relays:0 "루나리 보호막 동력 중계기"
+tech_lunari_shield_power_relays_desc:0 "여신께서 우리에게 새로운 방어막 기술에 대한 영감을 주었습니다. 이것은 비싸지만 방어막 성능을 강화시킬겁니다."
+
+####################################
+# Planets
+####################################
+
+pc_lunari_shielded:0 "보호막으로 감싸인 달"
+pc_lunari_shielded_desc:0 "이 달은 뚫을 수 없는 에너지 장벽에 싸여 있습니다. 이것은 이 행성에서 유일한 빛의 근원지일 뿐만이 아니라 막대한 양의 사이오닉 에너지도 제공합니다. 표면을 향하는 모든 스캔은 알 수 없는 방식으로 반사됩니다."
+
+pc_lunari_arctic:0 "영구동토 세계"
+pc_lunari_arctic_adj:0 "영구동토"
+pc_lunari_arctic_desc:0 "질소-산소 대기의 얼어붙은 암석 행성입니다. 극한의 기후가 강인한 생명체 이외엔 그 무엇도 살아남을 수 없게 만듭니다."
+
+pc_lunari_arctic_tile:0 "영구동토 지형"
+pc_lunari_arctic_tile_desc:0 "눈과 얼음이 이 지행을 덮어서 초목을 찾을 수 없습니다.."
+
+pc_lunari_arctic_habitability:0 "영구동토 선호"
+mod_pc_lunari_arctic_habitability:0 "영구동토 선호"
+
+####################################
+# Modifiers and tile blockers
+####################################
+
+lunari_dark_planet:0 "베일을 쓴 세계"
+lunari_dark_planet_desc:0 "§L이 세계는 매우 어둡고 춥습니다. 빛은 오직 근처의 달에서만 제공 될 뿐이며, 규칙적인 일식은 이 유일한 빛을 차단하기도 하며, 이런 환경에서 적응한 몇몇의 생명체만 살아갈 뿐입니다.§!"
+
+lunari_thunderstorms:0 "비구름 환경"
+lunari_thunderstorms_desc:0 "§L이 세계는 끝없는 뇌우에 시달리고 있으며, 빈번한 번개와 눈폭풍은 건축물을 건설하고 유지하기 힘들게 합니다. 하지만 만약 전기 폭풍의 원인을 연구를 통해 알아낼 수 있다면, 낙뢰를 통해 유해하지 않은 에너지를 확보 할 수 있을 것입니다.".§!"
+
+lunari_ultra_rich:0 "크리스탈 결정물"
+lunari_ultra_rich_desc:0 "§L신비로운 수정체들이 행성 표면에 드문드문 존재합니다. 가까이에서 살펴본 결과, 수정체들은 귀중한 광물로 구성되어 있습니다. 채굴 효율이 크게 향상될 것입니다.§!"
+
+lunari_auroras:0 "달의 오로라"
+lunari_auroras_desc:0 "§L달이 떠오를 때마다, 프리즘처럼 빛나는 빛의 폭포가 하늘을 메우며 춤을 춥니다. 중권의 얇은 결정층이 달빛에 반응하며 보여주는 현상입니다. 이유야 어쨌든, 이 풍경은 숨이 막힐 정도로 아름답습니다.§!"
+
+lunari_stable_weather:0 "좋은 날씨"
+lunari_stable_weather_desc:0 "§L대기에 존재하는 고기압권이 쾌적한 날씨를 제공합니다.§!"
+
+lunari_ecological_retaliation:0 "생태 재앙"
+lunari_ecological_retaliation_desc:0 ""
+
+####################################
+# Diplomacy
+####################################
+
+personality_lunari_personality:0 "루나리 전사들"
+personality_lunari_personality_desc:0 "마에네쉬 엘, 네렐어로 '달의 사람들'이라 불리는 이들은 극도로 정신주의적이며, 자존심이 강하고 무자비한 이들입니다. 굉장히 전투에 능하며, 필요하다면 적을 고문하거나 처형하는 것도 주저하지 않습니다. 그러나 그들에게 충분한 존경심을 표한다면 기꺼이 다른 이들과 협력하기도 합니다. 분명 가치있는 동맹이 될 것입니다."
+
+LUN_HOSTILE_GREETING_01:0 "넌 여기서 환영받지 못한다, [From.GetSpeciesName]. 네 보잘것없는 삶을 연장하고 싶다면 우릴 귀찮게 하지 마라."
+LUN_HOSTILE_GREETING_02:0 "우리의 인내심을 시험하는군, [From.GetSpeciesName]. 죽을 자리를 찾고 있나?"
+LUN_HOSTILE_GREETING_03:0 "[Root.GetRulerTitle] [Root.GetRulerName]은 너때문에 불쾌하다. 더 할 말이 없군."
+LUN_DOMINEERING_GREETING_01:0 "진실을 말할 시간이 왔다, [From.GetRulerTitle]. 너흰 약하다. 너는 너의 시민들을 보호할 수 없고, 네 땅을 지킬 수 없으며, 네 직위조차 유지할 수 없을 것이다. 우리의 종속국이 되는 것만이 너희가 살아남을 수 있는 유일한 길이다."
+LUN_NEUTRAL_GREETING_01:0 "각자의 의무가 있으나, 의무는 혼자서 이루는 것이다. 우리가 정쟁으로 얻을게 있을까? 부디 그대들에게 달의 축복이 있기를."
+LUN_NEUTRAL_GREETING_02:0 "너희 일엔 크게 신경쓰진 않는다. 여전히, [Root.GetRulerTitle] [Root.GetRulerName]은 너희가 제안할 것에 흥미를 가지고 있다."
+LUN_NEUTRAL_GREETING_03:0 "정말로 대화가 필요한가? 좋다, 말하도록."
+LUN_NEUTRAL_GREETING_04:0 "무역을 제안하려는 것이라면 충분히 고려하겠다. 그 이외엔, 더이상 논의할 건 없다."
+LUN_NEUTRAL_GREETING_05:0 "아, [From.GetSpeciesName] 사람들 중 하나군. 귀찮게 하지 마라. 너희가 우리의 생활 방식과 종교를 존중하거나 이해하는건 기대하지도 않으니."
+LUN_THREATENED_GREETING_01:0 "네가 뭘 생각하는지 읽지 않기도 어렵군. 예측 가능한 범위에 불과하다. 조심해라... 우린 언제나 준비되있으니."
+LUN_FRIENDLY_GREETING_01:0 "너희에 대해 많은 이야기를 들었다. 대부분 좋은 일이었지."
+LUN_FRIENDLY_GREETING_02:0 "그대에게 달의 축복이 함께하기를. [Root.GetRulerTitle] [Root.GetRulerName]은 그대들과 [From.GetSpeciesNamePlural] 문화에 대해 관심이 크다. 편히 쉬고 즐거운 이야기를 들려다오."
+LUN_FRIENDLY_GREETING_03:0 "만일 우리가 도움이 될 일이 있다면, 반드시 우릴 찾아와라. 그대에게 달의 축복이 함께하기를."
+LUN_FRIENDLY_GREETING_04:0 "아, 언제나 만나기 즐거운 이들이로군. 환영하네, [Root.GetRulerTitle] [Root.GetRulerName]가 그대들과 이야기를 나누고 싶군."
+LUN_WAR_GREETING_01:0 "즉각적인 항복에 관해 논의하는게 아니라면, 꺼져라."
+LUN_WAR_GREETING_02:0 "연락? 대담하기도 하지. 이제 대화를 시도하려는 건가?"
+LUN_WAR_GREETING_03:0 "*만족한 웃음소리*\n[Root.GetRulerTitle] [Root.GetRulerName]는 이 전쟁에서 즐거움을 느꼈다. 달이 자비를 베풀길."
+LUN_WAR_GREETING_04:0 "우리가 압도당한 듯 하군. 승리를 만끽해라. ...지금은."
+LUN_VASSAL_GREETING_01:0 "우리가 상상했던 것 보다 훨씬 흥미롭군. [Root.GetRulerTitle] [Root.GetRulerName]은 기꺼이 받아들일 것이다."
+LUN_VASSAL_GREETING_DISLOYAL_01:0 "[Root.GetName]에게 닥친 가장 큰 불명예는, [From.GetSpeciesAdj] 멍청이들 밑에서 봉사하는 것이다."
+LUN_DOW_PROPOSE_01:0 "[From.GetSpeciesNamePlural]가 네 믿음만큼 강한지 보자. 전쟁을 준비해라. 여신이 네게 자비를 베풀길."
+
+####################################
+# Event stuff
+####################################
+
+elven_colony_events.41.name:0 "예정된 재앙"
+elven_colony_events.41.desc:0 "마지막 바올에 대한 조사는 영구동토 행성에 대한 몇가지 발견을 낳았습니다. 영구동토 행성에 바올을 보내는 것은 어마어마한 재앙을 일으킬 것입니다. 기후 변화는 일시적일 것이며, 생활과 경제 양쪽에 막대한 비용을 초래할 것입니다. 과학자들은 영구동토 행성에 바올을 보내는 것에 극렬히 반대합니다."
+elven_colony_events.41.a:0 "알겠다."
+
+elven_colony_events.42.name:0 "생태 재앙"
+elven_colony_events.42.desc:0 "영구동토 행성에 바올을 보냈을 때 생겨날 재앙에 대한 예측이 맞아들어갔습니다. [Root.GetName]는 다시 영구동토 행성이 되었습니다. 그에 더불어 거대한 생태학적 피해가 발생했으며, 폭풍이 급증하기 시작했습니다. 전례없는 재앙입니다."
+elven_colony_events.42.a:0 "이것이 바로 재앙이다."
+
+####################################
+# Prescripted stuff
+####################################
+
+EMPIRE_DESIGN_lunariciv:0 "실버문 신권정치"
+EMPIRE_DESIGN_lunariciv_desc:0 "이 달의 아이들의 존재에 대해서 묻는것이야 말로 외계 생물학자를 곤혹스럽게 하는 최고의 방법일 겁니다. 이들은 얼어붙은 죽음의 행성에서 유래되었으며, 행성은 한쌍의 블랙홀 근처를 돕니다. 빛은 오짓 신비롭고 어떠한 신호도 그저 반사해버리는 달에서만 제공될 뿐이죠. 원칙대로라면 이들은 존재 할 수 없습니다.n\n 그리고 달의 엘프들은 이러한 질문에 대해서 어리석다고 답하겠죠. 그들은 자신들이 여신에 의해 만들어졌다고 믿으며, 이를 반박하는 것을 바보같은 짓으로 보며 대신 달을 보라고 할겁니다.\n\n 상대적으로 은하계에 상대적으로 새롭게 나타난 the Naerel?n 인들을 이들은 자신들의 고향에서 거의 떠나지 않으며, 겉으로 보기에는 쉽게 친해지고 가깝게 지낼 수 있는 것처럼 보입니다. 하지만 들리는 바에 의하면, 이들을 무시하거나 모욕했을때에는 상상도 하지 못했던 결과를 아기할지 모릅니다. 적어도 이에 대해 이의를 제기할 정도로 오래 살아남은 자는 없었죠.\n"
+
+elven_lunari_system_initializer_NAME:0 "태양 없는 영역"
+elven_lunari_system_initializer_DESC:0 "이 차가운 한 쌍의 블랙홀계이며, 오직 신비로운 달만이 유일한 빛의 공급원입니다.\n\n$system_initializer_DESC$"
+
+####################################
+# Origin
+####################################
+
+origin_elven_sunless_realms:0 "태양 없는 영역"
+origin_elven_sunless_realms_desc:0 "블랙홀만이 있는 이 성계에서 기적적으로 꽃을 피운 문명의 유일한 빛은 신성한 달빛 뿐입니다."
+origin_tooltip_elven_sunless_realms_effects:3 "§Y시작 위치§!:\n §Y정해진 성단§!에서 시작\n\n§Y모성§!:\n £planet£ §Y$pc_lunari_arctic$§!\n §G달의 오로라§! 변동치 보유\n §Y1§!개의 §E특별한§! 행성 특징\n\n§Y모성계§!:\n §R환경 재해§! 보유\n 두개의 작은 £planet£ §Y$pc_lunari_arctic$s§!이 모성 주변의 위성으로 생성\n £planet£ §Y$pc_lunari_arctic$s§!은 매우 적은 £food£ §Y식량§! 자원 보유\n\n§Y종족§!:\n 행성 선호 특성 : §Y$trait_pc_lunari_arctic_preference$§!\n §R뜨거운 행성에서 살기 힘들 것입니다!§!\n\n§YEmpire§!:\n§G수경 재배 농장§! 기술을 가지고 시작"
+
+################
+### DEPOSITS ###
+################
+
+d_lunari_planetary_trees:0 "악의적인 숲"
+d_lunari_planetary_trees_desc:0 "실제로 살아있으며 매우 위험한 나무가 서식하는 숲입니다. 지각있는 나무들이 살인에 대한 욕구만을 가지고 있는 것 처럼 보이며, 정상적인 의사소통은 불가능했습니다. 입김이 얼어붙을 정도로 춥다는 것 외에는 다른 특별한 능력에 대한 보고는 없었습니다."
+
+d_lunari_planetary_trees_blocker:0 "£blocker£ 악의적인 숲"
+d_lunari_planetary_trees_blocker_desc:0 "실제로 살아있으며 매우 위험한 나무가 서식하는 숲입니다. 지각있는 나무들이 살인에 대한 욕구만을 가지고 있는 것 처럼 보이며, 정상적인 의사소통은 불가능했습니다. 입김이 얼어붙을 정도로 춥다는 것 외에는 다른 특별한 능력에 대한 보고는 없었습니다."
+
+d_lunari_planetary_ice_blossoms:0 "얼음 꽃"
+d_lunari_planetary_ice_blossoms_desc:0 "바람과 눈보라로부터 격리된 계곡 안에는, 아름다운 얼음 꽃이 존재합니다. 꽃잎과 꽃술은 작은 얼음 크리스털로 만들어진 것으로 보입니다. 이로 인해 이 꽃은 적은 양의 빛에도 웅장한 프리즘 효과를 만들어냅니다. 이 꽃들은 루나리 엘프들에게 신성하게 여겨지며 실수로라도 밞으면 사형을 선고합니다." 
+
+d_lunari_planetary_cp_ice_blossoms:0 "얼음 꽃"
+d_lunari_planetary_cp_ice_blossoms_desc:0 "자연 서식지는 이미 개발된 지 오래며, 이제 얼음 꽃은 거대한 돔형 정원에서 재배되고 있습니다. 꽃은 여전히 신성시되며, 정원은 성소가 되었습니다. 얼음 꽃의 절도 미수나 사고로 인한 피해는 즉시 처형 대상입니다."
+
+d_lunari_planetary_ice_blossoms_blocker:0 "£blocker£ 얼음 꽃"
+d_lunari_planetary_ice_blossoms_blocker_desc:0 "$d_lunari_planetary_ice_blossoms$"
+
+d_lunari_planetary_cp_ice_blossoms_blocker:0 "£blocker£ 얼음 꽃"
+d_lunari_planetary_cp_ice_blossoms_blocker_desc:0 "$d_lunari_planetary_cp_ice_blossoms$"
+
+d_lunari_planetary_ice_spires:0 "얼음 첨탑"
+d_lunari_planetary_ice_spires_desc:0 "물리학적 법칙을 무시하는 듯한 거대한 얼음 첨탑은 이 세상 많은 곳에서 볼 수 있습니다. 이 얼음 기둥들은 아마 물이 수직으로 솟구 쳤다가 그 상태로 얼어 붙으면서 생긴거로 추측됩니다. 그리고 이 얼음 첨탑 내부에서 아직도 물이 흐르고 있는 것처럼 보이며, 이 대문에 이 얼음 첨탑의 형태에 대한 연구는 더욱 혼란스러워지고 있습니다."
+
+d_lunari_massive_glacier:0 "£blocker£ 거대한 빙하"
+d_lunari_massive_glacier_desc:0 "엄청난 수준의 얼음 덩어리가 이 지역을 덮고 있습니다."
+
+d_lunari_dangerous_wildlife_blocker:0 "$d_dangerous_wildlife_blocker$"
+d_lunari_dangerous_wildlife_blocker_desc:0 "$d_dangerous_wildlife_blocker_desc$"
+
+d_lunari_planetary_energy_1:0 "격양된 대기"
+d_lunari_planetary_energy_1b:0 "격양된 대기"
+d_lunari_planetary_energy_1_desc:0 "달에서 나오는 복사열이 대기와 충돌하여 에너지로 쉽게 이용할 수 있는 무해한 플라스마를 생성합니다."
+d_lunari_planetary_energy_1b_desc:0 "달에서 나오는 복사열이 대기와 충돌하여 에너지로 쉽게 이용할 수 있는 무해한 플라스마를 생성합니다."
+
+d_lunari_planetary_energy_2:0 "자연적 전도성 토지"
+d_lunari_planetary_energy_2b:0 "자연적 전도성 토지"
+d_lunari_planetary_energy_2_desc:0 "이 자연에서 발견되어지는 금속은 천둥벼락이 치는 곳을 예측하게 만들도록 하여, 쉽게 그 전력을 사용할 수 있게 합니다."
+d_lunari_planetary_energy_2b_desc:0 "이 자연에서 발견되어지는 금속은 천둥벼락이 치는 곳을 예측하게 만들도록 하여, 쉽게 그 전력을 사용할 수 있게 합니다."
+
+d_lunari_planetary_energy_3:0 "거대 폭풍"
+d_lunari_planetary_energy_3_desc:0 "이 지역은 일정한 주기로 폭풍을 일으키는 조건을 완전히 갖추고 있습니다. 이러한 폭풍은 1년 이상 지속되는 경우가 많으며, 오직 매우 적은 기간 동안만 폭풍이 일어나지 않을겁니다."
+
+d_lunari_planetary_minerals_1:0 "크리스탈 비"
+d_lunari_planetary_minerals_1_desc:0 "지역 표면 전체를 뒤덮고 있는 일종의 화학적 가스는 비가 올때마다 원소적 충격 반응을 이르킵니다. 이로 인해서 이 표면은 매우 날카롭고 자욱하지만 풍요로운 광물 지대가 되었죠
+
+d_lunari_planetary_minerals_2:0 "풍요로운 산"
+d_lunari_planetary_minerals_2b:0 "풍요로운 산"
+d_lunari_planetary_minerals_2_desc:0 "이 산들은 풍부한 광물들과 값진 돌들이 많습니다."
+d_lunari_planetary_minerals_2b_desc:0 "이 산들은 풍부한 광물들과 값진 돌들이 많습니다."
+
+d_lunari_planetary_minerals_3:0 "광석이 풍부한 동굴"
+d_lunari_planetary_minerals_3b:0 "광석이 풍부한 동굴"
+d_lunari_planetary_minerals_3_desc:0 "이 깊은 동굴에는 금속성의 혹은 광물성의 광석이 많이 매장되어 있습니다."
+d_lunari_planetary_minerals_3b_desc:0 "이 깊은 동굴에는 금속성의 혹은 광물성의 광석이 많이 매장되어 있습니다."
+
+d_lunari_planetary_food_1:0 "눈보라 황무지"
+d_lunari_planetary_food_1b:0 "눈보라 황무지"
+d_lunari_planetary_food_1_desc:0 "이 지역은 대부분 생명체들에게 가혹한 극단적인 환경 조건에 고통받고 있습니다."
+d_lunari_planetary_food_1b_desc:0 "이 지역은 대부분 생명체들에게 가혹한 극단적인 환경 조건에 고통받고 있습니다."
+
+d_lunari_planetary_food_2:0 "달 해조류의 낙원지"
+d_lunari_planetary_food_2_desc:0 "이 호수는 얇은 얼음층 안에 다량의 식용 해조류를 가지고 있습니다. 해조류가 아마 달의 빛 때문에 성장 할 수 있었다고 추측되어집니다."
+
+d_lunari_planetary_food_2b:0 "우성의 식물군"
+d_lunari_planetary_food_2b_desc:0 "이 지역의 식물과 나무들은 이 가혹한 자연 환경에 효율적으로 적응했습니다. 아마 다양한 다른 지역에서 재배할 수 있을 것입니다."
+
+d_lunari_planetary_food_3:0 "영구동토층의 숲"
+d_lunari_planetary_food_3_desc:0 "마치 얼음으로 만들어진 나무와 같은 이 특이한 식물들 이 숲 전역을 뒤덮고 있습니다. 식물들은 성장하고 번식함과 동시에 열매까지 맺습니다."
+
+############
+### JOBS ###
+############
+
+job_elven_ice_spire_researcher:0 "얼음 첨탑 연구원"
+job_elven_ice_spire_researcher_plural:0 "얼음 첨탑 연구원"
+job_elven_ice_spire_researcher_desc:0 "얼음 첨탑의 비밀을 해석중인 연구원입니다."
+job_elven_ice_spire_researcher_effect_desc:0 "£job_elven_ice_spire_researcher£ $job_elven_ice_spire_researcher_plural$은 £consumer_goods£ §Y$consumer_goods$§!을 새 기술을 위한 £physics£ §Y연구점수§!로 전환합니다."
+mod_job_elven_ice_spire_researcher_add:0 "$job_elven_ice_spire_researcher$ 직업"
+mod_job_elven_ice_spire_researcher_per_pop:0 "$VALUE$ POP 마다 §G+1§! $job_elven_ice_spire_researcher$ 직업"
+mod_job_elven_ice_spire_researcher_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_elven_ice_spire_researcher_add£"
+
+job_elven_ice_spire_researcher_machine:0 "얼음 첨탑 연구 개체"
+job_elven_ice_spire_researcher_machine_plural:0 "얼음 첨탑 연구 개체"
+job_elven_ice_spire_researcher_machine_desc:0 "얼음 첨탑의 비밀을 해석중인 개체입니다."
+job_elven_ice_spire_researcher_machine_effect_desc:0 "£job_elven_ice_spire_researcher_machine£ $job_elven_ice_spire_researcher_machine_plural$는 £energy£ §Y$energy$§!를 새 기술을 위한 £physics£ §Y연구점수§!로 전환합니다."
+mod_job_elven_ice_spire_researcher_machine_add:0 "$job_elven_ice_spire_researcher_machine$ 직업"
+mod_job_elven_ice_spire_researcher_machine_per_pop:0 "$VALUE$ POP 마다 §G+1§! $job_elven_ice_spire_researcher_machine$"
+mod_job_elven_ice_spire_researcher_machine_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_elven_ice_spire_researcher_machine_add£"
+
+job_elven_ice_spire_researcher_hive:0 "얼음 첨탑 연구 드론"
+job_elven_ice_spire_researcher_hive_plural:0 "얼음 첨탑 연구 드론"
+job_elven_ice_spire_researcher_hive_desc:0 "얼음 첨탑의 비밀을 해석중인 드론입니다."
+job_elven_ice_spire_researcher_hive_effect_desc:0 "£job_elven_ice_spire_researcher_hive£ $job_elven_ice_spire_researcher_hive_plural$ turn £minerals£은 §Y$minerals$§!을 새 기술을 위한 £physics£ §Y연구점수§!로 전환합니다."
+mod_job_elven_ice_spire_researcher_hive_add:0 "$job_elven_ice_spire_researcher_hive$ 직업"
+mod_job_elven_ice_spire_researcher_hive_per_pop:0 "$VALUE$ POP 마다 §G+1§! $job_elven_ice_spire_researcher_hive$"
+mod_job_elven_ice_spire_researcher_hive_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_elven_ice_spire_researcher_hive_add£"
+
+job_elven_malevolent_grove_researcher:0 "악의적인 숲 연구원"
+job_elven_malevolent_grove_researcher_plural:0 "악의적인 숲 연구원"
+job_elven_malevolent_grove_researcher_desc:0 "숲에 서식중인 나무처럼 생긴 생명체에 대한 다양한 연구를 통해 많은 것을 밝혀내고 있습니다. 아마도 충분히 안전하리라 생각되는 거리를 두고서요."
+job_elven_malevolent_grove_researcher_effect_desc:0 "£job_elven_malevolent_grove_researcher£ $job_elven_malevolent_grove_researcher_plural$은 £consumer_goods£ §Y$consumer_goods$§!을 새 기술을 위한 £society£ §Y연구점수§!로 전환합니다."
+mod_job_elven_malevolent_grove_researcher_add:0 "$job_elven_malevolent_grove_researcher$ 직업"
+mod_job_elven_malevolent_grove_researcher_per_pop:0 "$VALUE$ POP 마다 §G+1§! $job_elven_malevolent_grove_researcher$"
+mod_job_elven_malevolent_grove_researcher_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_elven_malevolent_grove_researcher_add£"
+
+job_elven_malevolent_grove_researcher_machine:0 "악의적인 숲 연구 개체"
+job_elven_malevolent_grove_researcher_machine_plural:0 "악의적인 숲 연구 개체"
+job_elven_malevolent_grove_researcher_machine_desc:0 "숲에 서식중인 나무처럼 생긴 생명체에 대한 다양한 연구를 통해 많은 것을 밝혀내고 있습니다. 아마도 충분히 안전하리라 계산된 거리를 두고서요."
+job_elven_malevolent_grove_researcher_machine_effect_desc:0 "£job_elven_malevolent_grove_researcher_machine£ $job_elven_malevolent_grove_researcher_machine_plural$는 £energy£ §Y$energy$§!를 새 기술을 위한  £society£ §Y연구점수§!로 전환합니다."
+mod_job_elven_malevolent_grove_researcher_machine_add:0 "$job_elven_malevolent_grove_researcher_machine$ 직업"
+mod_job_elven_malevolent_grove_researcher_machine_per_pop:0 "$VALUE$ POP 마다 §G+1§! $job_elven_malevolent_grove_researcher_machine$"
+mod_job_elven_malevolent_grove_researcher_machine_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_elven_malevolent_grove_researcher_machine_add£"
+
+job_elven_malevolent_grove_researcher_hive:0 "악의적인 숲 연구 드론"
+job_elven_malevolent_grove_researcher_hive_plural:0 "악의적인 숲 연구 드론"
+job_elven_malevolent_grove_researcher_hive_desc:0 "숲에 서식중인 나무처럼 생긴 생명체에 대한 다양한 연구를 통해 많은 것을 밝혀내고 있습니다. 아마도 충분히 안전하리라 생각되는 거리를 두고서요."
+job_elven_malevolent_grove_researcher_hive_effect_desc:0 "£job_elven_malevolent_grove_researcher_hive£ $job_elven_malevolent_grove_researcher_hive_plural$은 £minerals£ §Y$minerals$§!을 새 기술을 위한  £society£ §Y연구점수§!로 전환합니다."
+mod_job_elven_malevolent_grove_researcher_hive_add:0 "$job_elven_malevolent_grove_researcher_hive$ 직업"
+mod_job_elven_malevolent_grove_researcher_hive_per_pop:0 "$VALUE$ POP 마다 §G+1§! $job_elven_malevolent_grove_researcher_hive$"
+mod_job_elven_malevolent_grove_researcher_hive_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_job_elven_malevolent_grove_researcher_hive_add£"
+
+

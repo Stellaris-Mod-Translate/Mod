@@ -1,0 +1,1234 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # UNUSED Modifiers
+ # Event Modifiers
+ # Special Modifiers
+ # Terraform Unique Modifiers
+ # Planet Rings Modifiers
+ # Normal Habitable Planets Modifiers
+ # Normal Uninhabitable Planets Modifiers
+ # Stars, Pulsars and Blackholes Modifiers
+ # Asteroid Modifiers
+ # Gas Giant Modifiers
+ # Relic & Ecu Modifiers
+ # Precursor Modifiers
+ # Habitat Modifiers
+ # Ringworld Modifiers
+ # Hiveworld Modifiers
+ # Machine World Modifiers
+ # Fallen Empire Modifiers
+ # Sublimation Modifiers
+ #######################################
+ 
+ #######################################
+ #### UNUSED Modifiers
+ #######################################
+ gpm_rogue_traders_outpost:0 "버려진 불법 무역상 전초기지"
+ gpm_rogue_traders_outpost_desc:0 "불법 무역업자들이 상품과 전리품을 숨기기 위해 사용되었던 것으로 보이는 소행성을 뭉쳐서 만든 작은 전초기지입니다. 일부는 거주할 수 있는 작은 집으로 만들어지는 것 같습니다. 이곳에서 인양할 가치가 있는 것은 많지 않습니다."
+ 
+ gpm_solar_storm:0 "항성 폭풍"
+ gpm_solar_storm_desc:0 "이 행성은 위험한 항성 폭풍에 직접적으로 노출되어 있습니다."
+
+ gpm_violent_sun:0 "강렬한 항성"
+ gpm_violent_sun_desc:0 "이 항성은 표면에서 격렬한 방출을 하고 있습니다."
+ 
+ gpm_combat_simulator_systems:0 "전투 시뮬레이션 시스템"
+ gpm_combat_simulator_systems_desc:0 "111111111"
+
+ gpm_planitary_defenses:0 "행성 방어 체계"
+ gpm_planitary_defenses_desc:0 "111111111"
+ 
+ #######################################
+ #### Event Modifiers
+ #######################################
+ gpm_oppressive_laws:0 "가혹한 법률"
+ gpm_oppressive_laws_desc:0 "새로 재정된 엄격한 법률이 사람들과 많은 마찰을 일으키고 있습니다."
+
+ gpm_rights_movement:0 "권리 운동"
+ gpm_rights_movement_desc:0 "몇몇 권리 운동은 지역 정치인들에게 긍정적으로 받아들여졌습니다."
+
+ gpm_cybernetic_breaktroughs:0 "사이버네틱 발전"
+ gpm_cybernetic_breaktroughs_desc:0 "생물학과 사이버네틱스 분야의 과학적인 발전이 자신을 향상시키는 능력을 빠르게 형성하고 있습니다."
+
+ gpm_tranquility:0 "평온"
+ gpm_tranquility_desc:0 "수도성의 시민들이 평온과 평화의 순간을 경험하고 있습니다."
+
+ gpm_recruitment_drive:0 "모병 운동"
+ gpm_recruitment_drive_desc:0 "군대에 새로운 시민들을 모병하기 위해 대규모 캠페인이 조직되고 있습니다."
+ 
+ gpm_stargazing:0 "별 관찰 열풍"
+ gpm_stargazing_desc:0 "시민들은 별을 관찰하는 것을 즐기면서 그곳에 어떤 생명이 있을지 궁금해하고 있습니다."
+
+ gpm_bounty_hunting:0 "현상금 사냥"
+ gpm_bounty_hunting_desc:0 "현상금 사냥 계약이 마침내 성과를 내고 있습니다."
+
+ gpm_diversity_holiday:0 "다양성 축일"
+ gpm_diversity_holiday_desc:0 "시민들은 은하계에 있는 다양한 존재에게 바치는 휴일을 기념하고 있습니다."
+
+ gpm_synopsys_overload:0 "시놉시스 과부하"
+ gpm_synopsys_overload_desc:0 "점점 더 많은 수의 드론이 제국 내의 질서와 청렴을 유지하는 우리 능력에 부담을 주고 있습니다."
+
+ gpm_falling_behind:0 "뒤쳐짐"
+ gpm_falling_behind_desc:0 "핵심 행성이 다른 팽창하는 행성들에 비해 서서히 효율성에서 뒤쳐지고 있습니다."
+ 
+ gpm_work_camps:0 "노동 수용소"
+ gpm_work_camps_desc:0 "이 전문적인 수용소는 범죄자들이 국가를 위해 일하는 동안 높은 수준의 보살핌을 제공받도록 설계되었습니다."
+
+ gpm_galactic_equality:0 "은하 평등 선언"
+ gpm_galactic_equality_desc:0 "우리 제국 시민 모두에게 평등한 권리가 선포되었습니다."
+
+ gpm_augment_integrated_systems:0 "통합 시스템 강화"
+ gpm_augment_integrated_systems_desc:0 "우리 행성의 모든 전자 시스템은 시민들이 그것들과 직접 연결할 수 있는 통합 연결 노드를 포함하고 있습니다."
+
+ gpm_mysterious_force:0 "불가사의한 힘"
+ gpm_mysterious_force_desc:0 "이 행성에 이상한 힘이 나타났습니다. 시민들은 생각만으로 환경이나 서로 상호작용을 할 수 있습니다."
+
+ gpm_mandatory_military_service:0 "징병제 도입"
+ gpm_mandatory_military_service_desc:0 "이 행성의 모든 시민은 확장된 전투 훈련을 받습니다."
+
+ gpm_monument_to_the_stars:0 "별들을 향한 기념비"
+ gpm_monument_to_the_stars_desc:0 "이 행성에는 별들을 향한 거대한 기념비가 세워졌습니다. 이 기념비는 은하의 모든 생명체를 탐사하고 도달하고자 하는 열망을 상징합니다."
+
+ gpm_ministery_of_the_hunt:0 "현상금 사냥 부서"
+ gpm_ministery_of_the_hunt_desc:0 "이 행성에 정부가 후원하는 현상금 사냥이 승인되었습니다. 이 부처는 사냥권의 분배와 보상을 처리하는 기관입니다."
+
+ gpm_galactic_outreach_program:0 "은하 우호 프로그램"
+ gpm_galactic_outreach_program_desc:0 "외교적 우호 프로그램이 이 행성에 시작되었습니다. 이 행성은 종의 다양성을 기념하고 은하에 평화가 정착할 수 있다는 희망으로 은하 내 모든 문명에게 손을 뻗습니다."
+
+ gpm_synopsys_nodes:0 "시놉시스 노드"
+ gpm_synopsys_nodes_desc:0 "이 행성의 모든 사람들은 사이버네틱 시놉시스 노드를 이식받았습니다. 이것들은 하이브 마인드의 정신 신호를 강화하고 증폭시켜 우주의 광대한 넓이에도 불구하고 잘 연결될 수 있게 합니다."
+
+ gpm_rapid_assembly_systems:0 "고속 조립 시스템"
+ gpm_rapid_assembly_systems_desc:0 "전략적으로 배치된 건설과 제작 유닛은 수도성이 최신 기술 발전에 뒤쳐지지 않도록 지속적으로 업그레이드합니다."
+ 
+ #######################################
+ #### Special Modifiers
+ ####################################### 
+ terraforming_candidate_precursor:0 "가치있는 행성"
+ terraforming_candidate_precursor_desc:0 "이 행성은 처음 발견했을 당시에는 매력적으로 보이지 않았지만, 최근의 발견은 그렇지 않다는 것을 증명했습니다. 많은 부와 기술을 얻기 위해 이 행성을 발전시키는 것이 최선책입니다."
+ gpm_terraforming_candidate_precursorTT:0 "§G이 행성은 테라포밍이 가능합니다.§!"
+ 
+ gpm_planet_wonder_discovered:0 "경이로운 행성"
+ gpm_planet_wonder_discovered_desc:0 "이 행성은 독특한 행성 불가사의가 있는 곳입니다. 이 불가사의들은 이 행성이 아니고서는 불가능에 가깝습니다."
+ 
+ gpm_planet_wonder_ruined:0 "파괴된 경이로운 행성"
+ gpm_planet_wonder_ruined_desc:0 "한때 이 행성에도 행성 불가사의가 발견되곤 했었습니다. 그러나 안타깝게도 이 행성을 바꾼 일련의 사건들에 의해 파괴되고 말았습니다."
+ 
+ gpm_oppertunity:0 "잊힌 소형 로봇"
+ gpm_oppertunity_desc:0 "이 잊혀진 것처럼 보이는 로봇의 데이터뱅크에 대한 분석은 이것이 죽기 전에 마지막 메시지를 보냈다는 것을 알려줍니다. 기록된 내용:\n §W-- 배터리가 부족하고 어두워지고 있어. --§!\n선체에 새겨진 글씨는 그것의 이름인 '오퍼튜니티'입니다."
+
+ gpm_holy_planet_redeemed:0 "훼손된 성지 행성"
+ gpm_holy_planet_redeemed_desc:0 "다른 사람들에게 이 '성스러운' 행성에 발을 들여놓지 말라고 경고하는 이상한 비컨들이 비활성화되었습니다."
+ 
+ gpm_terraforming_world_engineering:0 "행성 테라포밍"
+ gpm_terraforming_world_engineering_desc:0 "이 행성은 완전히 새롭게 테라포밍 되었습니다."
+ gpm_terraforming_world_engineering_shaper:0 "발전된 테라포밍"
+ gpm_terraforming_world_engineering_shaper_desc:0 "행성 형성에 대한 우리의 지식은 이 행성의 테라포밍 과정에서 엄청난 기여를 하였습니다."
+ gpm_terraforming_world_engineering_mastery:0 "숙달된 테라포밍"
+ gpm_terraforming_world_engineering_mastery_desc:0 "자연에 대한 우리의 통달은 이 행성의 테라포밍 과정에 실질적으로 기여했습니다."
+ gpm_terraforming_world_engineering_shaper_mastery:0 "완벽한 테라포밍"
+ gpm_terraforming_world_engineering_shaper_mastery_desc:0 "행성 형성에 대한 우리 지식과 자연에 대한 통달은 완벽하게 테라포밍된 행성을 만들어냈습니다."
+ 
+ gpm_habitat_engineering:0 "거주지 공학"
+ gpm_habitat_engineering_desc:0 "잘 설계된 거주지는 모든 사람을 수용할 수 있습니다"
+ gpm_habitat_engineering_mastery:0 "숙달된 거주지 공학"
+ gpm_habitat_engineering_mastery_desc:0 "거대 구조물에 대한 숙달은 거주지를 건설하는 것을 대수롭지 않게 만들었습니다."
+ gpm_habitat_engineering_void_mastery:0 "완벽한 거주지 공학"
+ gpm_habitat_engineering_void_mastery_desc:0 "공허와 거대 구조물 건설에 대한 완벽한 이해로 가능한 한 최고의 거주지를 설계하는데 전혀 문제가 없습니다."
+ 
+ gpm_ringworld_engineering_mastery:0 "링월드 공학"
+ gpm_ringworld_engineering_mastery_desc:0 "거대 구조물에 대한 숙달은 거주지를 건설하는 것을 대수롭지 않게 만들었습니다."
+ gpm_ringworld_engineering_voidborn:0 "숙달된 링월드 공학"
+ gpm_ringworld_engineering_voidborn_desc:0 "공허와의 친숙은 거의 완벽한 링월드의 건설을 가능케 하였습니다."
+ gpm_ringworld_engineering_voidborn_mastery:0 "완벽한 링월드 공학"
+ gpm_ringworld_engineering_voidborn_mastery_desc:0 "이 링월드는 은하의 불가사의 중 하나입니다. 완벽한 원형 설계, 규칙적인 궤도, 환상적인 설계 스타일은 창작자들이 공학에 통달한 사람임을 보여 줍니다."
+ 
+ #######################################
+ #### Terraform Unique Modifiers
+ #######################################
+ gpm_extinct_species:0 "멸종한 종족"
+ gpm_extinct_species_desc:0 "우리 과학자들의 노력으로 테라포밍 된 이 행성은 과거 우리 모성에서 멸종되었었던 종들의 새로운 고향이 되었습니다."
+ 
+ #######################################
+ #### Planet Rings Modifiers
+ #######################################
+ gpm_metallic_ring_small:0 "작은 행성 고리"
+ gpm_metallic_ring_small_desc:0 "이 다소 작은 고리의 대부분은 주로 규산염과 먼지로 이루어져 있지만, 어두운 부분은 금속성의 암석과 다른 광물로 이루어져 있습니다."
+
+ gpm_metallic_ring:0 "행성 고리"
+ gpm_metallic_ring_desc:0 "이 고리의 대부분은 주로 규산염과 먼지로 이루어져 있지만, 어두운 부분은 금속성의 암석과 다른 광물로 이루어져 있습니다."
+ 
+ gpm_metallic_ring_large:0 "큰 행성 고리"
+ gpm_metallic_ring_large_desc:0 "이 특이하게 큰 고리의 대부분은 규산염과 먼지로 이루어져 있지만, 어두운 부분은 금속성의 암석과 다른 광물로 이루어져 있습니다."
+
+ gpm_metallic_ring_huge:0 "초대형 행성 고리"
+ gpm_metallic_ring_huge_desc:0 "이 보기드문 초대형 고리의 대부분은 규산염과 먼지로 이루어져 있지만, 어두운 부분은 금속성의 암석과 다른 광물로 이루어져 있습니다."
+
+ gpm_ice_ring_small:0 "작은 행성 고리"
+ gpm_ice_ring_small_desc:0 "이 다소 작은 고리의 대부분은 먼지와 얼음으로 이루어져 있으며, 밝은 부분은 얼음 성분이 더 많은 부분입니다."
+
+ gpm_ice_ring:0 "행성 고리"
+ gpm_ice_ring_desc:0 "이 고리의 대부분은 먼지와 얼음으로 이루어져 있으며, 밝은 부분은 얼음 성분이 더 많은 부분입니다."
+
+ gpm_ice_ring_large:0 "큰 행성 고리"
+ gpm_ice_ring_large_desc:0 "이 특이하게 큰 고리의 대부분은 먼지와 얼음으로 이루어져 있으며, 밝은 부분은 얼음 성분이 더 많은 부분입니다."
+
+ gpm_ice_ring_huge:0 "초대형 행성 고리"
+ gpm_ice_ring_huge_desc:0 "이 보기드문 초대형 고리의 대부분은 먼지와 얼음으로 이루어져 있으며, 밝은 부분은 얼음 성분이 더 많은 부분입니다."
+ 
+ #######################################
+ #### Normal Habitable Planets Modifiers
+ #######################################
+ gpm_frequent_thunderstorms:0 "빈번한 뇌우"
+ gpm_frequent_thunderstorms_desc:0 "이 행성은 불안정한 기후 패턴으로 고통받고 있습니다. 격렬한 폭풍이 종종 갑자기 나타나 지표면에 파괴와 혼란을 야기합니다. 우리 과학자들은 이 행성이 기상 패턴에 대한 이해를 증진시킬 수 있다고 믿고 연구하기를 원하고 있습니다."
+
+ gpm_global_thunderstorms:0 "전행성적 뇌우"
+ gpm_global_thunderstorms_desc:0 "이 행성은 빠르게 변화하는 기후 패턴으로 고통받고 있으며, 이로인해 강력하고 행성 규모의 폭풍이 끊임없이 나타납니다. 이 폭풍들은 지표면에 파괴와 혼란을 일으키지만, 우리 과학자들은 기상학 분야의 발전을 위해 이것들을 연구하기로 했습니다."
+
+ gpm_hyper_complex_biome:0 "복잡한 생물군"
+ gpm_hyper_complex_biome_desc:0 "이 행성에서는 생물이 극도로 복잡하게 진화해 왔습니다. 지표면에는 연구를 기다리는 온갖 종류의 생명체로 가득 차 있으며, 생물학 연구를 진척시킬 것입니다."
+
+ gpm_single_biome:0 "단일 생물군"
+ gpm_single_biome_desc:0 "이 행성에서는 생물이 매우 단순하게 진화해 왔습니다. 지표면에는 연구를 기다리는 온갖 종류의 생명체가 있으며, 생물학 연구를 진척시킬 것입니다."
+
+ gpm_unstable_tectonics_2:0 "불안정한 판 구조"
+ gpm_unstable_tectonics_2_desc:0 "이 행성은 극도로 불안정한 판 구조를 가져 대규모 지진과 화산 활동이 빈번합니다. 과학자들은 빈번한 화산 분출에도 불구하고 호흡할 수 있는 대기를 가졌다는 사실을 확인한 후, 행성의 지질 구조를 연구하여 그 구조와 원리를 잘 이해하고자 합니다."
+
+ gpm_strong_volcanism:0 "강력한 화산활동"
+ gpm_strong_volcanism_desc:0 "이 행성은 극도로 불안정한 판 구조를 가져 표면이 거대한 화산폭발이 일어나기 쉬운 화산 복합체로 덮여있습니다. 과학자들은 잠재적인 재해를 피하기 위해 정착지를 신중하게 선택하야만 한다고 경고합니다."
+
+ gpm_asteroid_impacts_2:0 "잦은 소행성 충돌"
+ gpm_asteroid_impacts_2_desc:0 "이 행성의 궤도에는 작은 소행성, 유성 및 혜성들이 흩어져 있습니다. 그로인해 큰 충돌이 놀라운 빈도로 발생하여 이 행성의 지표면은 크레이터로 뒤덮여 있습니다.\n그러나 이곳의 대기는 호흡에 적합하며 기후가 안정적이라 여전히 정착 가능합니다."
+
+ gpm_highly_charged_air_particles:0 "고도로 대전된 대기 입자"
+ gpm_highly_charged_air_particles_desc:0 "이 행성은 극도로 대전된 대기 입자를 가지고 있습니다. 이 대기 입자를 대전시킨 무언가와 그로인한 영향은 연구할 가치가 있는 아주 특수한 현상입니다."
+
+ gpm_thin_atmospheres:0 "얇은 대기"
+ gpm_thin_atmospheres_desc:0 "이 행성은 특이하게 얇은 대기층을 가지고 있습니다. 대기가 더 희박해지거나 두터워질 징후는 보이지 않고, 거주가 불가능한 행성도 아니지만, 생명체를 거주시키는것은 큰 도전일 것입니다."
+
+ gpm_dense_atmospheres:0 "두꺼운 대기"
+ gpm_dense_atmospheres_desc:0 "이 행성은 특이하게 두꺼운 대기층을 가지고 있습니다. 이곳에 정착하는것은 상대적으로 수월합니다."
+
+ gpm_strong_magnetic_field_2:0 "강력한 자기장"
+ gpm_strong_magnetic_field_2_desc:0 "이 행성은 비정상적으로 강한 자기장을 가지고 있습니다. 이 현상은 대부분의 전자 기기와 컴퓨터에 영향을 미칩니다."
+
+ gpm_weak_magnetic_field_2:0 "약한 자기장"
+ gpm_weak_magnetic_field_2_desc:0 "이 행성은 비정상적으로 약한 자기장을 가지고 있습니다. 이 현상은 대부분의 전자 기기와 컴퓨터에 영향을 미칩니다."
+
+ gpm_low_gravity_2:0 "매우 약한 중력"
+ gpm_low_gravity_2_desc:0 "이 행성은 비슷한 크기의 다른 행성에 비해 비정상적으로 낮은 밀도와 중력을 가지고 있습니다."
+
+ gpm_high_gravity_2:0 "매우 강한 중력"
+ gpm_high_gravity_2_desc:0 "이 행성의 높은 밀도로 인한 강한 중력으로 일상생활에 약간 불편함이 있습니다."
+
+ gpm_mineral_rich_2:0 "고밀도 광맥"
+ gpm_mineral_rich_2_desc:0 "이 행성 지각에 있는 고품질의 광물이 이곳 광업 사업을 수익성이 좋은 사업으로 만듭니다."
+
+ gpm_ultra_rich_2:0 "초고밀도 광맥"
+ gpm_ultra_rich_2_desc:0 "이 행성 지각에 있는 특출난 품질의 광물과 광맥의 밀집도는 광엄 사업에 엄청난 기회를 제공합니다."
+
+ gpm_time_displaced_planet:0 "시간 왜곡"
+ gpm_time_displaced_planet_desc:0 "이 행성의 크로노톤 수치는 매우 높습니다. 과학자들은 이 행성이 어떠한 이유로, 원래의 시간대에서 벗어나 지금의 시간이 왜곡된 특이한 상황에 처했다는 가정을 토대로 이론을 쌓고 있습니다.\n시간적 변동이 여전히 존재하기 때문에 이 변화를 정확히 데이터화하는것은 불가능하겠지만, 이 곳을 연구하는 것만으로도 시공간과 그 상호작용의 본질에 대해 귀중하고 가치있는 통찰력을 얻을 수 있습니다."
+
+ gpm_floating_islands:0 "부유섬"
+ gpm_floating_islands_desc:0 "어떠한 광물이나 물질이 지표면의 커다란 암석을 들어올려 지표면에서 수 미터에서 수백미터 떨어진 떠다니는 섬을 형성합니다."
+
+ gpm_hostile_flora:0 "적대적인 식물군"
+ gpm_hostile_flora_desc:0 "이 행성의 식물은 비정상적으로 외부 생물체에 적대적이고 독성을 나타냅니다."
+
+ gpm_toxic_gas:0 "독성 가스"
+ gpm_toxic_gas_desc:0 "빠르게 형성되고 사라지는 작은 화산 간헐천들은 정기적으로 행성 내부로부터 유독가스를 분출합니다. 탐사되지 않은 곳을 여행할 때는 극도로 주의해야 합니다."
+
+ gpm_extensive_cavern_system:0 "광범위한 동굴망"
+ gpm_extensive_cavern_system_desc:0 "이 행성의 지각에는 수 킬로미터에 걸쳐 뻗어 있는 믿을 수 없을 정도로 많은 수의 동굴망과 협곡이 있습니다. 알기로는 원시 판 구조로 인해 자연적으로 형성된 것으로써 궤도폭격이나 자연재해 시 피난처로 이용될 수 있을 만큼 안정적입니다."
+
+ gpm_titanic_predators:0 "초대형 포식자"
+ gpm_titanic_predators_desc:0 "이 행성은 하늘로 치솟을 정도로 크며 눈에 보이는 모든 것을 먹어치우는 거대한 괴물들의 발원지입니다."
+
+ gpm_unnatural_world:0 "부자연스러운 행성"
+ gpm_unnatural_world_desc:0 "이곳에 뭔가 불안한 것이 있습니다. 탐사대원들은 들릴까말까하는 고요한 목소리와 설명할 수 없이 움직이는 것들에 대해 말하고 있습니다. 실제로 우리 센서는 이 행성이 현실 세계와 약간 동떨어져 있다고 보고합니다."
+
+ gpm_atmospheric_stimulant:0 "대기 자극제"
+ gpm_atmospheric_stimulant_desc:0 "어떤 화합물인지 혹은 어떤 미생물인지 정확하게 원인을 지적할 수 없었지만, 여러가지 증거들이 이 행성에는 극도의 과민반응을 일으키는 일종의 대기 중의 자극제의 존재를 말해주고있습니다. 이 행성에서 오랜 시간을 보낸 사람은 누구나 더 열심히 일하지만 성미가 급해지는 이러한 효과를 느낍니다. 다행인 점은 행성을 떠난 사람은 곧 정상적인 행동 패턴으로 돌아온다는 사실입니다. 우리 과학자들은 이 자극제가 이 행성에만 영향을 미친다는 것에 감사하고 있습니다."
+
+ gpm_unusual_seasons:0 "비정상적인 계절"
+ gpm_unusual_seasons_desc:0 "이 행성의 공전 궤도, 지질학적 구조 그리고 불안정한 날씨로, 이곳은 급격하게 변화하고 대기에 급격한 변화를 유발하는 다양한 종류의 계절을 가집니다."
+
+ gpm_perfect_seasons:0 "환상적인 기후"
+ gpm_perfect_seasons_desc:0 "이 행성의 날씨는 일년 내내 정말 환상적이며 거의 변하지 않습니다. 진정한 천국임에 틀림없습니다."
+
+ gpm_ruined_battlefield:0 "거대한 전장 폐허"
+ gpm_ruined_battlefield_desc:0 "이 행성에서 진정한 의미의 대규모 전쟁이 벌어졌었습니다. 지표면은 우리가 행성 전투에서 사용하기에는 너무 파괴적이라고 여겨지던 무기로 인해 손상되어 있으며, 한때 도시였다고 가정되는 분화구들만이 존재합니다. 여러 폐허와 무기, 녹슨 항공기와 전차 그리고 기계의 잔해 속에서 헤아릴 수 없이 많은 시체들을 발견했습니다. 분명 이 행성 전역에서 수십억 명이 목숨을 잃었을 것입니다."
+
+ gpm_spaceship_graveyard:0 "함선 무덤"
+ gpm_spaceship_graveyard_desc:0 "과거 머리 위에서 벌어진 대규모의 함대전으로 지표면 위에는 한때 하늘을 지배했던 녹슨 함선의 파편이 어지럽게 널려 있습니다."
+
+ gpm_living_planet:0 "살아있는 행성"
+ gpm_living_planet_desc:0 "이 행성은 하나의 거대한 유기체와 같이 살아있는 것 같습니다. 마치 '안녕하세요'라고 인사하는거 같군요!"
+
+ gpm_gemstones:0 "보석"
+ gpm_gemstones_desc:0 "이 행성에는 이국적인 보석과 광물 퇴적물들이 산재해 있습니다. 모든 것들이 유용하지는 않지만 눈을 사로잡기에는 충분합니다."
+
+ gpm_ideal_for_life:0 "생명의 이상향"
+ gpm_ideal_for_life_desc:0 "설명하기는 어렵지만 이 행성에 있는 것이 무엇이든 이곳을 인구가 늘어나는 데 적합한 곳으로 만들고 있는 것 같습니다. 사람들은 더 건강해지고, 더 매력적이게 되고, 더 많은 기대수명을 가지게 되고, 더 강한 면역체계를 가지게 되었습니다."
+
+ gpm_endless_fish:0 "무한한 물고기"
+ gpm_endless_fish_desc:0 "이 행성의 바다가 어떻게 이 많은 양의 물고기를 지탱하는지는 아무도 모릅니다. 그러나 우리가 이 물고기들을 영원히 잡을 수 있다는 것은 확실합니다!"
+
+ gpm_artificial_water:0 "나노수"
+ gpm_artificial_water_desc:0 "이 행성의 물 일부는 일반적인 물처럼 수소와 산소 분자로만 구성되어 있지 않습니다. 그 대신 완전히 보통 물처럼 행동하는 진보한 나노봇으로 이루어져 있습니다. 이 나노봇들의 무리 비스무리한 행동은 물의 흐름과 첨벙거림을 거의 완벽하게 흉내냅니다. 과학자들은 이것이 어떻게 이 행성에 도착했는지, 왜 존재하는지 확신하지는 못하지만 이 나노봇의 유일한 기능이 물처럼 행동하는 것이기를 바랄 뿐입니다."
+
+ gpm_clear_skies:0 "깨끗한 하늘"
+ gpm_clear_skies_desc:0 "이 행성은 매우 평온한 대기를 가지고 있으며 은하 내에서 이상적인 장소에 위치해 있습니다. 행성이 위치한 이 장소는 우주에서 가장 아름다운 풍경을 선사합니다."
+
+ gpm_android_pleasure_palace:0 "안드로이드 유흥 센터"
+ gpm_android_pleasure_palace_desc:0 "누가 이 건물을 지었는지는 모르겠지만, 재미있을 것 같은 장소입니다."
+
+ gpm_melted_ice_caps:0 "녹은 만년설"
+ gpm_melted_ice_caps_desc:0 "이 행성의 지질학적 기록에 따르면 한때는 거대한 극지 만년설이 있었지만, 어찌된 일인지 현재는 모두 사라졌습니다."
+
+ gpm_small_islands:0 "작은 섬"
+ gpm_small_islands_desc:0 "이 해양형 행성의 섬들은 유달리 작아 규모있는 정착지와 인구 집중 구역을 세우기가 어렵습니다."
+
+ gpm_windy:0 "강한 바람"
+ gpm_windy_desc:0 "우리가 통제할 수 없는 기상학적 상황은 거친 바람을 정착지로 집중시킵니다. 밤이 되면 추워지고, 산에서는 바람이 울부짖지만, 우리는 이곳에서 살아갈 수 있습니다."
+
+ gpm_simple_organisms:0 "단세포 유기체"
+ gpm_simple_organisms_desc:0 "이 행성은 유별나게 많은 수의 새로 진화한 단세포 유기체들로 가득합니다. 이 유기체의 대부분은 진화의 초기 단계에 있는 것처럼 보입니다."
+
+ gpm_newly_evolved_complex_organisms:0 "다세포 유기체"
+ gpm_newly_evolved_complex_organisms_desc:0 "이 행성은 처음으로 단세포 유기체 그룹이 다세포 유기체로 결합하는 진화 단계에 있습니다. 정말 매혹적인 광경입니다."
+
+ gpm_delicious_ingredients:0 "맛있는 식재료"
+ gpm_delicious_ingredients_desc:0 "이 행성의 동식물들은 유별나게 맛있습니다."
+
+ gpm_recent_mass_extinction:0 "최근의 대량 멸종 사태"
+ gpm_recent_mass_extinction_desc:0 "과학자들에 따르면, 이 행성은 비교적 최근에 대량 멸종 사태를 겪었습니다."
+
+ gpm_friendly_wildlife:0 "친근한 야생 동물"
+ gpm_friendly_wildlife_desc:0 "이 행성의 동물들은 온순하고 길들이기 쉬운 경향이 있습니다."
+
+ gpm_pleasant_weather:0 "온화한 날씨"
+ gpm_pleasant_weather_desc:0 "이 행성의 대기 및 지질 체계는 유달리 온화하고 대부분의 지각 있는 생명체에게 우호적입니다."
+
+ gpm_unusual_formations:0 "특이한 지형"
+ gpm_unusual_formations_desc:0 "이 행성에는 특이하게 생겼지만 자연적으로 만들어진 지질학적 형태가 수 킬로미터에 걸쳐 있습니다."
+
+ gpm_flat_terrain:0 "평평한 지형"
+ gpm_flat_terrain_desc:0 "이 행성의 지형은 대체로 평평한 편입니다."
+
+ gpm_rugged_terrain:0 "거친 지형"
+ gpm_rugged_terrain_desc:0 "이 행성의 지형은 매우 굴곡이 심합니다."
+
+ gpm_many_extremophiles:0 "극한 미생물"
+ gpm_many_extremophiles_desc:0 "어떤 이유에서인지 이 행성은 극한 미생물들로 가득 차있습니다."
+
+ gpm_great_temperature_variation:0 "극심한 온도 변화"
+ gpm_great_temperature_variation_desc:0 "이 행성은 극심한 온도 변화에 시달리고 있습니다. 때로는 엄청나게 뜨겁고 때로는 엄청나게 춥습니다."
+
+ gpm_gorgeous_sky:0 "화려한 하늘"
+ gpm_gorgeous_sky_desc:0 "이곳 대기의 화학적 구성으로, 이곳은 눈부시게 맑고 선명하며 다채로운 색상으로 수놓은 아름다운 하늘을 자랑합니다."
+
+ gpm_ice_age:0 "빙하기"
+ gpm_ice_age_desc:0 "이 행성은 현재 빙하기입니다."
+
+ gpm_ancient_temple:0 "고대 신전"
+ gpm_ancient_temple_desc:0 "이 행성에는 오래 전에 지어진 고대 사원이 있습니다. 사원의 벽화 위에 쓰여진 글들은 이곳이 다른 많은 외계종들이 공유하는 신전이었음을 보여주고 있습니다. 벽화에는 외계인들이 정신으로 물체를 움직이고, 빛나는 막대기를 휘두르고, 오랫동안 명상하는 특이한 모습으로 묘사되고 있습니다."
+ 
+ gpm_tilted_axis:0 "심하게 기울어진 자전축"
+ gpm_tilted_axis_desc:0 "이 행성의 자전축은 다른 행성들보다 많이 기울어져 있어 더 극단적인 기상 패턴을 초래합니다."
+
+ gpm_perpendicular_axis:0 "수직 자전축"
+ gpm_perpendicular_axis_desc:0 "이 행성은 자전축이 공전면에 평행하여, 일년의 반은 뜨거운 낮으로 나머지 반은 추운 밤으로 고통받고 있습니다. 기상 패턴은 완전한 극한을 자랑합니다."
+
+ gpm_radioactive_mantle:0 "방사능 맨틀"
+ gpm_radioactive_mantle_desc:0 "이 행성의 암석은 우라늄과 같은 방사성 원소의 비율이 유달리 높습니다."
+
+ gpm_locust_plagues:0 "탐욕스러운 벌레떼"
+ gpm_locust_plagues_desc:0 "이 행성은 특히나 탐욕스러운 메뚜기 종의 고향입니다."
+
+ gpm_acidic_seas:0 "산성 바다"
+ gpm_acidic_seas_desc:0 "이 행성은 아직 탄산과 황산이 분리되지 않은 산성의 바다를 가지고 있습니다."
+
+ gpm_empathic_life:0 "텔레파시 생물군"
+ gpm_empathic_life_desc:0 "이 행성의 대부분의 생물들은 타고난 텔레파시 방어체계를 발전시켜, 포식자를 혼란스럽게하는 두려움이나 기쁨에 대한 격렬한 감정을 유발시킬 수 있습니다."
+
+ gpm_seasonal_flooding:0 "계절적 범람"
+ gpm_seasonal_flooding_desc:0 "이 행성의 모든 지형은 극심한 조석력이나 빙하 융해의 반복적인 사이클로 인해 심각한 홍수를 겪기 쉽습니다."
+
+ gpm_lingering_pollution:0 "남아있는 오염"
+ gpm_lingering_pollution_desc:0 "이 행성의 생물권은 몇 년 전에 알려지지 않은 문명에 의해 생성된 극심한 오염과 산업 오염으로부터 서서히 회복하고 있습니다."
+
+ gpm_thin_ozone_layer:0 "얇은 오존층"
+ gpm_thin_ozone_layer_desc:0 "이 행성의 오존층은 너무 얇아서 태양풍을 거의 막아주지 못합니다."
+
+ gpm_symbiotic_life:0 "공생 생물"
+ gpm_symbiotic_life_desc:0 "이 행성의 토착 기생충은 우리 정착민들의 건강에 이롭다는 것이 증명되었습니다. 이제 모든 식민지인은 하나를 가지고 있습니다. 그러나 안타깝게도 이 기생충들은 특별한 대기 조건이 필요하여 수출하기에는 비용이 너무 많이 듭니다."
+
+ gpm_resilent_parasites:0 "내성있는 기생충"
+ gpm_resilent_parasites_desc:0 "이 행성의 기생충 중 하나는 그것을 제거하려는 우리 의사들의 모든 노력을 견디고 있습니다. 잠재적인 식민지 개척자들은 이 기생충으로 인해 장기적으로 고통을 겪게 될 것입니다."
+
+ gpm_ice_flora:0 "얼음 꽃"
+ gpm_ice_flora_desc:0 "우리 과학자들은 이곳의 극지방에 있는 꽃모양의 놀라운 빙하의 조각들에 놀라움을 금치 못했습니다. 더군다나 이러한 빙하의 조각들은 실제로 녹생 자생식물의 생식환경과 유사하게 자생양식과 저온합성의 형태로 만들어집니다!"
+
+ gpm_strange_ice_river:0 "이상한 얼음 강"
+ gpm_strange_ice_river_desc:0 "이곳의 극한의 추위 속에서 우리 과학자들은 굉장한 것을 발견했습니다. 모든 논리를 무시하고 이상한 물리적 속성을 가진 얼음이 흐르는 빙하의 강물로, 우리의 물리학적 법칙에 대한 몇 가지 주요한 이론을 재평가하게 만들 것입니다."
+
+ gpm_juggernaut_manta_rays:0 "거대한 가오리"
+ gpm_juggernaut_manta_rays_desc:0 "우리의 과학자들이 가오리와 흡사한 거대한 물고기 군락을 발견했습니다. 그들은 엄청나게 두껍고 질긴 가죽을 가져서, 그것들을 박멸하려면 그것들이 아닌 그들의 환경을 뒤집어야 할 정도입니다. 그 물고기들은 거대한 대양을 돌아 다니며 침입자들에 대해 매우 공격적으로 반응하지만, 우리 과학자들은 우리가 그들로부터 가치있는 지식을 얻을 수 있다고 믿습니다."
+
+ gpm_black_oily_stone:0 "검고 기름진 돌"
+ gpm_black_oily_stone_desc:0 "이 행성의 숲과 정글은 마치 대륙 중심부에 있는 기이한 패턴으로 흩어져 있는 검고 기름진 돌을 피해 달아나는 것처럼 분포되어 있습니다. 이 행성의 동물들은 이 돌에 관심이 없고, 그 돌의 발밑에 있는 잔디들은 이상할정도로 매우 무성한 느낌을줍니다. 우리가 돌에서 추출한 샘플은 우리가 숲에서 멀리 떨어지자 더 무거워 진 것 같습니다."
+
+ gpm_crystal_moon_palace:0 "수정궁"
+ gpm_crystal_moon_palace_desc:0 "과학자들은 이 위성 표면에서 완전히 수정으로 만들어진 아름다운 궁전을 발견했습니다. 내부는 이상한 룬과 암호화된 장치들로 가득 차 있었습니다. 우리는 이 수정궁에서 이곳의 잊혀진 문명에 대한 많은 정보를 얻기를 바랍니다."
+
+ gpm_cities_in_the_sky:0 "하늘 도시"
+ gpm_cities_in_the_sky_desc:0 "이곳의 풍경 속 알려지지 않은 문명의 잔재가 솟아 있습니다. 밝은 금속 첨탑과 모노리스가 구름 덮개 너머까지 이어집니다. 그 모노리스는 햇빛을 특정 지역에 집중 시키도록 설계되었으며, 쾌적한 생활 환경을 제공합니다."
+
+ gpm_old_world:0 "고대 토착 문명"
+ gpm_old_world_desc:0 "이 행성 지표면 아래에는 수많은 고고학적 층이 있습니다. 이 지질층 사이에는 재가 쌓인 발전된 토착문명의 폐허가 주기적으로 쌓여 있고, 여러번의 주기를 거쳐 반복적으로 멸망한 수 많은 폭력적인 토착문명의 증거로써 남아 있습니다."
+
+ gpm_dunes:0 "사구"
+ gpm_dunes_desc:0 "이 행성의 대부분은 거대한 사구로 덮여 있습니다. 정착하기에는 큰 장애물이지만 사구는 풍부한 광물 자원을 제공합니다."
+
+ gpm_extensive_reef_systems:0 "광범위한 산호초"
+ gpm_extensive_reef_systems_desc:0 "이곳의 얕은 바다는 인상적으로 다양한 거대한 산호초들이 널리 분포하고 있습니다. 낚시 및 관광산업이 관광객들에게 엄청나게 흥할 뿐만 아니라, 연구원들도 이곳의 다양한 생태계을 조사하기 위해 몰려 들고 있습니다."
+
+ gpm_trubbles:0 "트러블"
+ gpm_trubbles_desc:0 "이 행성의 토착 생명체인 '트러블'은 미친 듯이 번식하여 온 행성을 덮어 버리기 전까지는 그저 가만히 귀엽게 앉아있는 것으로 보입니다."
+
+ gpm_strange_voices:0 "이상한 목소리"
+ gpm_strange_voices_desc:0 "이 행성의 초기 스캔 동안 탐사 승무원들은 이상한 목소리를 들었습니다. 영원한 생명을 약속하고, 무한한 힘을 행사하며, 모든 욕망을 충족시키는 목소리. 당신이 해야 할 일은 지상에 내려와 특정 의식을 수행하는 것뿐입니다."
+
+ gpm_hot_geysers:0 "뜨거운 간헐천"
+ gpm_hot_geysers_desc:0 "지표의 간헐천이 뜨거운 액체와 가스의 기둥을 주기적으로 방출하고 있습니다. 작은 간혈천마저 대단한 기세입니다. 일부 간헐천은 수천 리터의 끓는 뜨거운 액체를 지상 수십 미터까지 쏘아올리는 격렬한 분출 활동을 하고 있습니다."
+
+ gpm_cryogeysers:0 "수증기 간헐천"
+ gpm_cryogeysers_desc:0 "이곳은 대기압이 낮아서 간헐천의 분출은 수증기의 형태로 분출됩니다. 이러한 수증기들은, 가스에 의해 위로 운반 된 먼지와 얼음 입자를 중심으로 응축되어 눈에 쉽게 보입니다."
+
+ gpm_very_hot_core:0 "극도로 뜨거운 핵"
+ gpm_very_hot_core_desc:0 "이곳은 극도로 뜨거운 핵을 가지고 있습니다. 지표면 온도는 다른 비슷한 조건의 행성들보다 높습니다. 이러한 종류의 특이한 행성으로 우리는 테라포밍 과정을 더 잘 이해할 수 있습니다. \n\n§h 이러한 행성을 찾으면 테라포밍 속도 증가§! §g+10%§! §h단, 최대§! §g+30%§!"
+
+ gpm_solidified_core:0 "굳은 핵"
+ gpm_solidified_core_desc:0 "이 행성의 핵은 식었습니다. 핵이 식어서 완전히 굳었기 때문에 이 행성의 운명은 끝이 난 것으로 판명되었습니다.\n\n 지표면과 중심의 온도가 현저히 낮아져서, 미개한 문명이 행성을 테라포밍하는것은 불가능할 것입니다. 뭐 우리라면 가능할지도 모르겠지만요."
+ 
+ gpm_temple_of_the_ancient_one:0 "고대 존재의 사원"
+ gpm_temple_of_the_ancient_one_desc:0 "이 행성에는 고대 존재의 사원이 있습니다. 이 신비롭고 폐허가 된 암굴신전은 위험하지만 않았더라면 이곳을 바라보는 사람들에게 숨막힐듯이 아름다운 광경이 되었을 것입니다. 사원 벽에는 며칠동안 사원 내부의 어둠속을 헤메던 이전 탐사대의 경고가 쓰여 있었습니다. 그들은 결국 그들은 강력한 환영과 환청, 성소로 들어가고자 하는 광기어린 충동에 저항할 수 없었습니다. 내부 성소는 약한 제단의 불꽃으로 보이는 것에 의해서는 불가능할 정도로 밝아 보입니다."
+
+ gpm_beautiful_lakes:0 "아름다운 호수"
+ gpm_beautiful_lakes_desc:0 "이곳에 형언할 수 없는 아름다움의 수많은 크고 작은 호수들이 곳곳에 자리잡고 있습니다. 너무나 맑고 순수한 물을 통해 호수의 깨끗한 바닥 마저 볼 수 있습니다. 무성한 단풍과 작은 수생 생물들이 풍경과 호수를 아름답게 장식합니다."
+
+ gpm_proto_forests:0 "원시림"
+ gpm_proto_forests_desc:0 "직경 1m, 높이 8m에 이르는 이 원시림의 나무들은 상당히 작습니다. 먼 곳에서 보면, 나무들은 나무 줄기의 형태를 취하고 뿌리와 같은 구조에 연결되는 방식으로 바닥 가까이 퍼져 있습니다.\n\n 그것들의 나이테는 고유의 식물성 물질을 함유하고있으며 외래종을 추가함으로써 유기체가 산발적으로 자라난다고 합니다. 또한 그 나무의 줄기에는 작은 원시열매나 곰팡이 자실체로 이루어진 균사체가 곳곳에 박혀있습니다."
+
+ gpm_dense_forests:0 "빽뺵한 숲"
+ gpm_dense_forests_desc:0 "놀랍게도 엄청나게 빽뺵하고 울창한 숲이 이 행성에서 발견 되었습니다. 나무들이 모여 두꺼운 그늘를 형성하고, 그 그늘은 그 아래에 서식하는 식물과 야생 동물을 보호합니다."
+
+ gpm_planetwide_forest:0 "끝없는 숲"
+ gpm_planetwide_forest_desc:0 "이 행성이 숲으로 이루어졌다고 보일만큼 엄청나게 빽빽하고 울창한 숲이 지표를 뒤덮고 있습니다. 때로는 이런 행성을 숲 행성이라고 부릅니다. 이러한 거대한 숲은 엄청난 생물학적 다양성을 자랑하는 생물군을 지탱합니다."
+
+ gpm_inspirational:0 "영감"
+ gpm_inspirational_desc:0 "블랙홀의 실용성을 생각하는 것은 어렵습니다. 이런 비실용성을 근거로 많은 사람들은 우리가 이러한것에 관심을 가질 필요가 없다고 말합니다. 하지만 세상을 이해하려는 호기심은 우리를 지적인 존재로 정의하는 것입니다."
+
+ gpm_hiveworld:0 "군체 화석"
+ gpm_hiveworld_desc:0 "이 화석화 된 군체들의 잔재들은 수천 개의 시냅스 노드처럼 퍼져져서 하나의 생물같은 형태의 덩어리들을 무한히 대량 생산할 수있는 거대한 바이오 공장으로 활동하고 있습니다.\n\n 우리가 말한 군체 세계는 스스로 살아있는 생물 '하이브 월드'로 보입니다. 수백만 개의 생물군을 통합하여 각각 수 조단위의 크고 작은 유기체를 생성하고 유전체를 복제하고 새로운 세계와 환경에 완벽하게 적응할 수있는 새로운 생물체를 접합 할 수있는 생물학적 공장이었습니다.\n\n 이런 유형의 생물체가 우리사이에 존재하기 않기를 바랄 뿐입니다."
+
+ gpm_periodic_meteor_showers:0 "주기적 유성우 소나기"
+ gpm_periodic_meteor_showers_desc:0 "밤 하늘의 한 지점에서 수 많은 유성우들이 관측되는 이 천문학적인 이벤트입니다. 이런 유성은 작은 소행성같은 우주 잔해들의 움직임에 의해 발생하며 궤도면에 평행한 곳에서 극도로 빠른 속도로 행성의 중력장 속으로 빨려들어갑니다.\n\n 대부분의 유성은 모래알보다 작고 대기층이 두터운 행성에서는 대기중에 다 타버려 거의 지표면까지 도달하지 못합니다. 이러한 유성이 한꺼번에 많이 관측되는것은 유성우 혹은 유성폭풍이라 불리고 있습니다. 이러한 풍경은 정말로 아름답습니다."
+
+ gpm_arachnophobia:0 "거미공포증"
+ gpm_arachnophobia_desc:0 "발을 디딜 생각을 하는 것조차 미친 생각인 거대 거미 무리들로 넘쳐나는 세상입니다. 초기 탐사대는 나무 꼭대기와 동굴에서 들려오는 쉭쉭거리는 소리와 함선 위를 거미들이 돌아다닐때 나는 소리에 대한 얘기를 들려줍니다. 이들 중 실제로 함선 밖으로 나가 관측한 사람이 있는지, 그저 탐사 드론을 내보내 거짓을 보고했는지는 알려지지 않았습니다."
+ gpm_arachnophobiaTT:0 "특수 지상군: §G거대 거미 무리§!"
+
+ gpm_giant_worm:0 "거대 모래 벌레"
+ gpm_giant_worm_desc:0 "이 행성의 모래 아래에 사는 거대 모래 벌레는 땅 위의 진동에 매우 민감하며 그러한 진동의 근원을 거의 즉각적으로 추적합니다. 이것은 아마 그들의 영역을 방어하려는 노력같습니다. 그래서 그 벌레를 직접 보는 일은 드문 일입니다.\n그 거대 모래 벌레들은 극도로 방어적입니다. 만약 벌레 두마리가 서로의 존재를 감지하면 바로 그들은 포효와 함께 끔찍한 냄새가 나는 가스를 분출하며 그들의 영토를 지키려 할 것입니다."
+
+ gpm_artificial_core:0 "인공 핵"
+ gpm_artificial_core_desc:0 "이 행성은 핵의 동결과 자기장의 소멸 이후 오래 전에 죽었어야했는데, 강력한 선대 문명에의해 행성의 핵이 복구되어, 핵이 다시 활동하고 자기장도 다시 활성화되었습니다."
+
+ gpm_fast_rotation:0 "빠른 자전"
+ gpm_fast_rotation_desc:0 "이 행성은 자전이 매우 빨라서 밤낮이 극도로 짧습니다. 이러한 현상이 수면주기를 방해해서 이런 곳에 정착하는것을 어렵게 만듭니다."
+
+ gpm_surface_of_bones:0 "뼈로 덮인 표면"
+ gpm_surface_of_bones_desc:0 "뼈, 두개골, 시체...  눈으로 볼 수 있는 이곳의 지표는 온통 뒤죽박죽이 된 백골로 뒤덮여 있는 끔찍한 광경입니다. 어떤 전투가 벌어졌든 오래 전에 여기 이곳에서 잔인한 전투가 벌어졌습니다"
+
+ gpm_ghost_ships:0 "유령선"
+ gpm_ghost_ships_desc:0 "센서, 눈, 무엇으로 감지하든 멀리서 유령 같은 것을 감지한다고 보고하고 있습니다. 그것들은 떠있는 함선처럼 보이지만 투명합니다. 그러나 가까이 다가가면 아무것도 없습니다."
+
+ gpm_omnious_fog:0 "이상한 안개"
+ gpm_omnious_fog_desc:0 "날이 어두워질 때마다 이상한 자주색 안개가 땅에서 새어나오기 시작합니다. 우리 감지기는 이것이 단지 수증기라는 것을 보여주지만, 그래도 이상한 점이 있습니다. 안개는 마치 자신의 의지가 있는 것처럼 이리저리 움직입니다."
+
+ gpm_beautiful_planet_rings:0 "아름다운 행성 고리"
+ gpm_beautiful_planet_rings_desc:0 "이 행성의 고리는 빛이 비칠 때마다 매우 밝게 빛나고 다양한 빛깔을 자랑합니다. 지표와 궤도에서 볼 수 있는 정말 아름다운 광경입니다."
+
+ gpm_blood_moon:0 "핏빛 달"
+ gpm_blood_moon_desc:0 "때로는 달이 피처럼 붉게 변합니다. 단순한 대기의 환상이 아니고 실제로 달의 표면이 붉게 물듭니다.\n\n 왜 이런 일이 일어나는지 밝혀지지 않았지만, 아무도 좋은 징조라고 생각하지 않습니다."
+
+ gpm_solar_eclipse:0 "일식"
+ gpm_solar_eclipse_desc:0 "매달 태양과 달이 완벽한 조화를 이뤄 환상적인 일식을 만들어 냅니다. 아름다운 황금빛 빛의 고리가 빛나고 있습니다. 다른 행성에서는 보기 힘든 독특한 광경입니다."
+
+ gpm_lunar_dance:0 "달의 춤"
+ gpm_lunar_dance_desc:0 "이 행성의 위성들은 독특한 궤도로 얽혀 있습니다. 마치 춤을 추듯이, 행성 주변의 궤도를 공전하면서 서로 빙글빙글 돕니다. 처음에는 혼란스러워 보이지만, 이 춤을 충분히 오래 보면 달들이 추는 춤의 아름다움을 느낄 수 있을 것입니다."
+
+ gpm_dark_skies:0 "어두운 하늘"
+ gpm_dark_skies_desc:0 "낮 시간 조차도, 이 행성은 햇빛을 거의 받지 못합니다."
+
+ gpm_musical_creatures:0 "음악 생명체"
+ gpm_musical_creatures_desc:0 "이 행성의 생명체들은 우리가 음표로 인식하는 것을 사용하여 서로 의사소통하도록 진화해 왔습니다. 이 사실은 좋은 연구자료일 뿐만 아니라, 거의 마법과도 같은 멋진 멜로디를 선물합니다."
+ 
+ gpm_odd_cloud_shapes:0 "이상한 구름 모양"
+ gpm_odd_cloud_shapes_desc:0 "아마 이 행성의 대기 속 화학성분 때문에 구름이 비정상적으로 생생되고 흥미로운 형태를 취합니다. 어떤 이들은 구름이 마치 살아있는 것처럼 느낀다고 말합니다."
+
+ gpm_subterranean_eco_system:0 "지하 생태계"
+ gpm_subterranean_eco_system_desc:0 "이 행성의 지표면 아래 깊은 곳은 완벽하게 격리된 환경을 갖춘 동굴들이 수 마일에 걸쳐 이리저리 얽혀있습니다. 그 아래에 또 뭐가 더 살고 있을지 누가 알까요?"
+
+ gpm_colossal_cliffs:0 "거대 절벽"
+ gpm_colossal_cliffs_desc:0 "이런 거대 절벽들은 지표면으로부터 1.6 킬로미터 이상 솟아 있고, 구름이 그 주변에 형성됩니다. 이 절벽들을 만든 지질학적 힘은 엄청났었던 것으로 추정됩니다. 발을 조심하시기 바랍니다."
+
+ gpm_massive_waterfalls:0 "거대 폭포"
+ gpm_massive_waterfalls_desc:0 "폭포는 이 행성에서 흔히 볼 수 있는 것으로, 매일 수조 갤런의 물을 쏟아버리고 있습니다. 이러한 경관은 숨을 빼앗아버릴만큼 장엄합니다."
+
+ gpm_strange_alien_eggs:0 "이상한 알"
+ gpm_strange_alien_eggs_desc:0 "어떤 생물이 이 알을 낳았는지는 모르지만 현재는 휴면 상태로 보입니다. 건드리지 않는 것이 좋아 보입니다..."
+
+ gpm_mushroom_forest:0 "거대버섯 숲"
+ gpm_mushroom_forest_desc:0 "거대한 버섯들이 곳곳에 있습니다. 이 숲은 이상하게 생겼고 자주 포자의 안개를 생성합니다. 다행인 점은 매우 물러서 쉽게 정리가 가능하다는 점입니다."
+
+ gpm_exotic_spices:0 "외계 향신료"
+ gpm_exotic_spices_desc:0 "이 행성은 작은 관목들과 식물들이 표면을 덮고 있습니다. 이 식물들은 행성의 가혹한 환경에도 불구하고 매우 빠르고 다양하게 자랍니다. 여기서 더욱 흥미로운 점은, 이 식물들이 음식의 첨가물로 쓸 수 있을 만큼 맛있다는 점입니다. 이 외계 관목과 식물이 만들어내는 이색적인 향기는 이 행성을 꽤나 독특하게 만듭니다."
+
+ gpm_sandstorms:0 "모래 폭풍"
+ gpm_sandstorms_desc:0 "바람이 세게 부는 날에는 거대한 모래 벽에서 흘려나온 모래들이 지표면을 얇게 뒤덮습니다. 이러한 모래 폭풍은 자주 발생하지만, 사실 위험하기보다 성가십니다. 빗자루로 열심히 쓸면 모래를 치울 수 있습니다만, 운이 좋으면 다음 바람이 불어와 모래들을 다시 날려 버릴 것입니다."
+
+ gpm_sand_tornadoes:0 "모래 회오리"
+ gpm_sand_tornadoes_desc:0 "때때로 모래 회오리가 이 행성에서 발생합니다. 매우 작은 편이지만 그것들은 바람의 방향과 지형에 따라 3~7개 정도의 군집 형태로 나타나기도 합니다. 모래는 반사율이 상당히 높아 햇빛을 반사시켜 모래 회오리가 거의 빛나는 것처럼 보이게 합니다. 비록 약간 혼란스럽기는 하지만, 보기에는 매우 아름다운 현상입니다."
+
+ gpm_quicksand:0 "유사 지대"
+ gpm_quicksand_desc:0 "이 행성의 느슨한 모래의 호수는 마치 늪처럼 작용합니다. 늪처럼 항상 젖어있는게 아니기 떄문에 눈에 띄지 않으면서 위험합니다. 이곳에서는 매 발걸음마다 항상 주의를 기울어야 하며, 모든 경로가 세심하게 지도화되어야 합니다."
+
+ gpm_never_ending_aurora:0 "영원한 오로라"
+ gpm_never_ending_aurora_desc:0 "이 항성계의 항성의 특이한 활동으로, 이곳은 영원한 오로라를 관측할 수 있는 축복을 받았습니다. 이런 오로라는 태양풍이 행성의 자기장에 의해 방해되어 눈에 보이는 대전된 입자를 만들어 생깁니다. 이러한 이온화 및 대기성분의 자극은 지속적으로 다양하고 복잡하면서 아름다운 빛의 오로라를 방출합니다."
+
+ gpm_spirals_of_ice:0 "나선 얼음 기둥"
+ gpm_spirals_of_ice_desc:0 "차가운 공기와 공기중의 수증기가 나선형의 얼음 기둥을 만드는 특이한 현상이 이 행성에서 발견됩니다. 이러한 나선의 일부는 우리 문명의 높은 건물의 높이와 필적하게 커집니다.\n\n 더 놀라운 점은 하나의 균열이나 하나의 공기방울마저도 없는 깨끗하고 아름다운 결정이 그정도의 높이로 성장한다는 것입니다.\n\n 밤에는 은하수의 빛을 아름다운 색체로 반사합니다."
+ 
+ gpm_furry_packs:0 "짐승 무리"
+ gpm_furry_packs_desc:0 "이 행성에는 거대하고 4발달린 짐승들의 무리가 있습니다. 이 동물들은 머리에 거대한 뿔이 있고 민첩하고 정교한 팔을 가졌습니다.\n\n 혹독한 추위로부터 몸을 보호해주는 갈색의 두꺼운 모피로 덮여있고, 사회적인 행동도 보입니다.\n\n 어떻게 하는지는 알려지지 않았지만 매 계절마다 먹이를 찾아 온 행성을 정해진 루트로 돌아다니는것 처럼 보입니다. 그들이 기억에 특화된 좋은 두뇌를 가져서 능숙한 것일 수도 있습니다."
+
+ gpm_blizzards:0 "눈폭풍"
+ gpm_blizzards_desc:0 "눈이 소복히 내리는것부터 시작하는것으로 이 행성의 날씨체계는 항상 같은 패턴을 따르고 있습니다.\n\n 눈이 조금 내리다가 바람이 많이불고 잠깐 정신차리면 바로 눈보라가 되어 흩날리고 있다는것입니다. 이내 폭설이 너무 심해져서 발끝도 볼 수 없을정도로 격렬해지고 맙니다."
+
+ gpm_abominable_predators:0 "끔찍한 포식자"
+ gpm_abominable_predators_desc:0 "추운 밤, 이 포식자들은 땅을 돌아다니며 먹이를 찾습니다. 엄청난 키의 커다란 팔뚝은 정말 무시무시합니다. 그들은 거대한 무리를 이루지않고 4~6마리의 작은 무리를 이루며 삽니다.\n\n 이 포식자들은 하얗거나 연한 파란색의 두꺼운 모피와 거대한 발톱을 가지고 있으며, 의외로 꽤나 사교적으로 행동하여 동료들과 울음소리와 제스쳐를 통한 의사 소통을 하는것이 관찰되었습니다."
+
+ gpm_rich_soil:0 "비옥한 흙"
+ gpm_rich_soil_desc:0 "이곳의 토양은 아주 영양이 풍부해서 탄탄하고 고밀도의 식물 생태계를 만들어 냈습니다. 이 행성에서는 식량을 재배하기가 매우 쉽습니다."
+
+ gpm_otherworldly_colours:0 "비현실적인 색"
+ gpm_otherworldly_colours_desc:0 "이 행성의 초목은 온갖 색깔로 이루어져 있습니다. 가장 주목할 만한 점은 이 색깔이 식물이 위치한 행성의 위도에 따라 정해진다는 점입니다. 적도의 밝은 노란색 꽃과 나무에서 북극 근처의 짙은 자주색 풀까지. 이 행성은 정말 비현실적입니다."
+
+ gpm_misty:0 "안개"
+ gpm_misty_desc:0 "이 행성의 지표면은 거의 완전히 안개로 덮여 있습니다. 행성의 적절한 대기압과 기온의 조합은 바다와 호수로 하여금 수면 위로 많은 수증기를 방출하게 만듭니다."
+
+ gpm_ecological_nervous_system:0 "생태 신경계"
+ gpm_ecological_nervous_system_desc:0 "이 행성의 식물들은 복잡한 뿌리 계통을 통해 서로 연결되어있는 것 같습니다. 그 식물간의 활기찬 연결은 동물의 신경계를 연상케합니다.\n\n 관측에 따르면 한 식물을 죽이면 인근 식물이 꽃을 감추거나 적어도 천천히 반대 방향으로 자랍니다."
+
+ gpm_carnivorous_flies:0 "육식성 파리"
+ gpm_carnivorous_flies_desc:0 "이 성가셔 보이는 작은 파리들은 사실 이 행성에서 가장 위험한 생물입니다. 이 작은 파리들은 종종 밤에 어둠 속에서 빛을 냅니다. 그러나 먹이를 먹을 때가 아니라, 다른 파리를 짝짓기로 끌어들이는 수단으로 빛을 냅니다. 이것은 꽤 복잡한 것처럼 보입니다. 낮에는 날아 다니며 음식을 찾습니다. 육식성이기 때문에 커다란 동물을 떼지어 공격하여 몇 시간 만에 먹을 수 있습니다. 크든 작든 살아있든 죽어있든 모든 생물둘은 그들의 먹잇감 입니다. 더 짜증나는 것은 복잡한 터널이나 통풍구를 제집처럼 들락거려, 실내 어디서든 나타날 수 있다는 것입니다! 그들이 아무 소리도 내지 않아 다음 먹잇감에게 아무런 경고도 없다는 사실은 더 끔찍합니다."
+
+ gpm_algae_boom:0 "해조류 대증식"
+ gpm_algae_boom_desc:0 "이 행성은 한 세기 동안 해조류 대증식을 겪고 있습니다. 수백만 톤의 해조류가 행성의 대양과 호수를 뒤덮고 있어, 보기에는 안 좋아 보이지만 야생동물과 공기의 질에는 좋습니다."
+
+ gpm_ocean_forests:0 "바다 숲"
+ gpm_ocean_forests_desc:0 "이 행성의 해저에서 이상한 나무들이 자라고 있습니다. 이 나무들은 이곳의 육지에서 발견되는 나무들과 매우 흡사하지만 해저에서 살아가고 꽃을 피울 수 있습니다.\n정말 볼만한 광경입니다."
+ Clear_Water:0 "깨끗한 물"
+ Clear_Water_desc:0 "이 행성의 호수와 바다는 밑을 볼 수 있을만큼 눈에 띄게 맑고 투명합니다."
+
+ gpm_warm_water_lakes:0 "미온 호수"
+ gpm_warm_water_lakes_desc:0 "이 행성의 물은 따뜻합니다. 토양의 독특한 구성으로 인해 상당한 양의 지열을 유지하고 호수의 수온을 미지근하게 만듭니다. 우주에 완벽한 휴양 행성이 있다면 아마 이곳일 것입니다."
+
+ gpm_torrential_rainstorms:0 "격렬한 폭풍우"
+ gpm_torrential_rainstorms_desc:0 "이 행성에서는 격렬한 폭풍우가 자주 발생합니다. 비가 얼마나 많이 내리는지 3초 정도면 몸이 흠뻑 젖습니다."
+
+ gpm_ocean_currents:0 "하강 해류"
+ gpm_ocean_currents_desc:0 "이 행성의 해류는 놀라울 정도로 복잡하고 특이합니다. 따뜻한 해류는 행성의 가장 먼 지역까지 도달하여 정착하기 좋은 조건을 만드는 반면, 차가운 해류는 위험하게 하강합니다. 이 해류에 잡힌 사람은 빠르게 빨려 내려가서 극도의 수압에 짓눌릴 것입니다."
+
+ gpm_giant_ocean_snakes:0 "거대 바다뱀"
+ gpm_giant_ocean_snakes_desc:0 "이 행성에는 거대한 바다뱀들이 해저를 배회합니다. 이 뱀들은 수백 미터까지 자라며 극도로 공격적입니다. 이들은 이 행성 해양생물의 최고봉 포식자입니다."
+
+ gpm_ocean_trenches:0 "심해 해구"
+ gpm_ocean_trenches_desc:0 "이 행성 해저의 깊은 해구는 결코 완전히 탐험되지 않을 것입니다. 깊은 심해의 수압은 탐사선을 찌그러뜨려 파괴하는데 충분하며 그것의 잔해조차도 완전히 파괴합니다. 이 칠흑같이 어두운 해구는 마치 당신을 쳐다보듯이 매우 으스스합니다."
+
+ gpm_unique_marine_habitats:0 "특이한 해양 생물"
+ gpm_unique_marine_habitats_desc:0 "이 깊고 어두운 생태계의 살아있는 유기체는 햇빛과 광합성이 아닌 화학 물질에 의존하여 화학 물질 합성이라고 불리는 과정을 에너지 생성의 기초로 삼고 있습니다."
+
+ gpm_massive_waves:0 "거대 파도"
+ gpm_massive_waves_desc:0 "이 행성의 바다는 주기적으로 전 행성을 가로지르는 거대한 파도를 만들어냅니다. 이 파도가 일단 육지에 도달하면 위험한 쓰나미가 발생합니다."
+ 
+ gpm_cursed_world:0 "저주받은 행성"
+ gpm_cursed_world_desc:0 "이 행성을 탐사하기 위해 보냈던 모든 탐사팀은 항상 몇몇 대원이 실종된 채로 귀환합니다. 심지어 이들은 실종된 사람에 대한 질문을 받기 전까지는 동료가 사라졌다는 사실을 깨닫지도 못했습니다. 조사 결과 탐사팀의 착륙 지점은 항상 내장으로 뒤덮여 있고 실종된 탐사대원의 팔다리가 나뒹굴고 있었습니다. 이 행성에는 이상한 일이 일어나고 있습니다. 몇몇 미신을 믿는 사람들은 이 행성이 저주받았다고 합니다. 우리 과학자들은 이러한 소문들을 무시하고 있지만, 아직 이 비극에 대한 설명을 찾지 못하고 있습니다."
+ 
+ gpm_sunken_cities:0 "가라앉은 도시"
+ gpm_sunken_cities_desc:0 "천년 전, 이 행성은 지각있는 종족의 대륙형 행성이었습니다. 그러나 그들의 산업화는 행성의 빙하를 녹이고 결과적으로 유사 테라포밍 과정이 시작되었습니다. 그로 인해 이 종족은 살아남지 못했으며, 이 가라앉은 도시들만이 사라진 문명의 증거로 남았습니다."
+ 
+ gpm_titanic_geo_form:0 "초거대 지질 구조"
+ gpm_titanic_geo_form_desc:0 "이 행성의 한 산은 너무 커서 믿을 수가 없습니다. 이 산은 다른 모든 거대 구조를 능가할 정도로 거대합니다. 가장 유력한 가설은 수백만년 전 행성과 충돌한 소행성의 잔해라는 이론입니다."
+ 
+ gpm_decaying_structures:0 "부식된 구조물"
+ gpm_decaying_structures_desc:0 "이 행성의 몇몇 큰 구조물들은 매우 빠른 부식 상태에 있습니다. 환경의 여러가지 독성 요소가 원인입니다."
+ 
+ #######################################
+ #### Normal Uninhabitable Planets Modifiers
+ #######################################
+ gpm_hydrogen_mist:0 "수소 안개"
+ gpm_hydrogen_mist_desc:0 "이 행성의 표면에 수소가 비정상적으로 집중되어 행성의 지표면은 수소 안개로 자욱합니다. 항성으로부터 멀리 떨어졌다는 점과 강한 행성 자기장의 보호로 표면의 수소는 항성풍으로부터 안전한 듯 합니다."
+ 
+ gpm_iron_planet:0 "철 행성"
+ gpm_iron_planet_desc:0 "이 행성은 고밀도의 철로 이루어진 핵을 가지고 있으며 사실상 멘틀이 없습니다. 그 결과 지각의 판 구조가 없고 행성 자체의 자성이 강합니다."
+ 
+ gpm_carbon_planet:0 "탄소 행성"
+ gpm_carbon_planet_desc:0 "이 행성은 철이 매우 풍부한 핵과 액체 탄화규소와 탄화티타늄으로 이루어진 맨틀을 가지고 있습니다. 매우 높은 압력으로 인해 형성된 킬로미터 두께의 다이아몬드가 맨틀 위에 있고, 그 위를 두꺼운 탄소 층이 덮고 있습니다. 다이아몬드와 용융된 행성 내부 물질을 함께 분출하는 화산활동으로 인해 지면에는 다이아몬드와 탄화규소로 이루어진 산이 솟아있습니다. 그리고 행성의 표면에는 타르와 메탄, 일산화탄소로 이루어진 바다와 빙하가 흐릅니다."
+
+ gpm_stellar_irradiation:0 "강력한 복사열"
+ gpm_stellar_irradiation_desc:0 "수십억년의 세월 동안 이 행성의 모항성에서 나온 초강력의 복사열이 이 행성 표면의 대부분을 녹였습니다. 강한 태양풍은 행성의 모든 대기를 날려버렸으며 그 이후로 서서히 표면을 녹이고 있습니다."
+ 
+ gpm_salt_flats:0 "소금 평원"
+ gpm_salt_flats_desc:0 "말라버린 바다와 노출된 바위로 형성된 이 소금 평지는 행성의 광대한 지역을 덮고 있으며 가장 강인한 초목만이 살고 있는 불모의 황무지입니다. 그러나 이 황량함과 성분 구성으로 인해 광대한 광물 퇴적층이 발견될 수도 있습니다."
+ 
+ gpm_water_pockets:0 "물 주머니"
+ gpm_water_pockets_desc:0 "이 행성의 지하에는 엄청난 양의 물이 갇혀있습니다. 행성의 지열이 물을 액체 상태로 만들어 생태계를 유지시킬수도 있다고 추측됩니다."
+ 
+ gpm_hydrogen_ice:0 "고체 수소"
+ gpm_hydrogen_ice_desc:0 "이 행성은 얼어붙은 고체 수로로 덮여 있습니다."
+
+ gpm_nitrogen_ice:0 "고체 질소"
+ gpm_nitrogen_ice_desc:0 "이 행성은 얼어붙은 고체 질소로 덮여 있습니다."
+
+ gpm_cracking_surface:0 "부서진 지표면"
+ gpm_cracking_surface_desc:0 "이 행성은 밤낮의 기온차로 인해 가열과 냉각이 반복되면서 끝없이 팽창-수축하여 얼어붙은 표면에 수백만 개의 균열이 남았습니다."
+ 
+ gpm_deep_aquifer:0 "깊은 대수층"
+ gpm_deep_aquifer_desc:0 "이 행성의 지하 깊은 곳에는 안정된 액체 상태의 물이 있는 큰 대수층이 있습니다. 이 대수층은 행성의 열원과 충분히 가까워 미생물들에 최적의 조건을 제공할 가능성이 충분합니다."
+ 
+ gpm_heavy_metal_coral:0 "중금속 산호"
+ gpm_heavy_metal_coral_desc:0 "이 행성의 산호들은 해저의 중금속으로 껍질과 외피를 만들었습니다."
+
+ gpm_decomposing_leviathan:0 "부패한 레비아탄"
+ gpm_decomposing_leviathan_desc:0 "서서히 부패하며 줄어들고 있는 거대한 레비아탄의 시체입니다."
+ 
+ gpm_diamond_rain:0 "다이아몬드 비"
+ gpm_diamond_rain_desc:0 "이 행성에서는 자주 미세한 다이아몬드가 하늘에서 쏟아집니다. 이것들은 거대 가스 행성의 내부에서 형성되어 대류에 의해 위쪽으로 밀려오는 것처럼 보입니다."
+ 
+ gpm_radioactive_biome:0 "방사성 생물군"
+ gpm_radioactive_biome_desc:0 "이 행성 생물군의 대부분은 이상하게 방사성이 있습니다."
+ 
+ gpm_mushroom_forest_toxic_world:0 "$gpm_mushroom_forest$"
+ gpm_mushroom_forest_toxic_world_desc:0 "$gpm_mushroom_forest_desc$"
+ 
+ gpm_giant_mold_blobs:0 "거대 곰팡이 포자낭"
+ gpm_giant_mold_blobs_desc:0 "거대한 점액질 곰팡이가 이 행성에 서식하며, 식량을 얻기 위해 행성을 배회합니다. 이 곰팡이들은 일종의 지각이 있는 것 같습니다."
+ 
+ gpm_toxic_garbage:0 "유독성 쓰레기"
+ gpm_toxic_garbage_desc:0 "한 문명이 한때 이 행성을 유독성 폐기물의 처리장으로 사용했습니다. 이 행성이 다시 살아나려면 아마 수백만 년이 걸릴 것입니다."
+ 
+ gpm_corrosive_atmosphere:0 "부식성 대기"
+ gpm_corrosive_atmosphere_desc:0 "이 행성의 대기는 부식성이 매우 높아서 대부분의 금속을 갉아먹습니다."
+ 
+ gpm_chlorine_planet:0 "염소 행성"
+ gpm_chlorine_planet_desc:0 "이 행성의 바다와 호수는 염산으로 이루어져 있고, 대기에는 염산 구름이 떠다닙니다. 우주에서 보면 바다는 짙은 녹색으로 보이고, 대륙은 갈색에서 검은색 빛이 첨가된 녹색으로 보이며, 구름은 초록색이 약간 가미된 흰색으로 보입니다."
+
+ gpm_phosphorus_planet:0 "인 행성"
+ gpm_phosphorus_planet_desc:0 "이 행성의 바다와 호수는 인산으로 이루어져 있고, 대기에는 인산 구름이 떠다닙니다. 따라서 행성의 더운 곳에서는 인산 비가 내리고, 추운 곳에서는 인산 눈이 내립니다."
+
+ gpm_sulfur_planet:0 "황 행성"
+ gpm_sulfur_planet_desc:0 "이 행성의 바다와 호수는 황산으로 이루어져 있고, 대기에는 황산 구름이 떠다닙니다. 따라서 행성의 더운 곳에서는 황산 비가 내리고, 추운 곳에서는 황산 눈이 내립니다."
+ 
+ gpm_acid_rain:0 "산성비"
+ gpm_acid_rain_desc:0 "이 행성 대기 중의 높은 수소 농도는 빈번하고 치명적인 폭풍우를 일으킵니다. 육상 동물들은 생존에 어려움을 겪고 있으며, 식물들은 산성비로부터 스스로를 보호하기 위해 두껍고 부드러운 섬유질의 벽을 진화시켰습니다."
+ 
+ gpm_garbage_dump:0 "쓰레기 더미"
+ gpm_garbage_dump_desc:0 "이 행성은 한떄 어떤 고대 문명의 쓰레기장이었습니다. 이 행성은 유심히 살펴볼 부분이 많습니다. 쓸만한 것을 찾으려면 약간의 탐사가 필요하겠지만, 뭔가 가치있는 것을 발견할 수도 있을 것입니다."
+ 
+ gpm_toxic_flora_fauna:0 "유독성 생물군"
+ gpm_toxic_flora_fauna_desc:0 "이 행성에서 몇 가지 독특한 동식물이 발견됩니다. 그들은 뛰어난 적응력으로 다른 생명체에게 매우 유독한 환경에서도 살아가고 있습니다."
+ 
+ gpm_magma_ocean:0 "마그마 바다"
+ gpm_magma_ocean_desc:0 "넓은 범위의 멘틀이 표면에 노출되어 거대한 화산이나 노출된 멘틀 부분을 따라 녹은 암석의 강을 이루며 흘러갑니다. 과학자들은 이 행성의 지각에 어떻게 그런 손상이 일어날 수 있는지 확신하지 못하고 있습니다. 어떤 사람들은 이 행성의 표면이 영구히 식지 않아 이 독특하고 위험한 경관으로 이어진다고 추측합니다. 그들은 개척자들에게 새로운 전초기지와 정착지를 건설할 때 주의하라고 충고했습니다."
+ 
+ gpm_silicon_crystals:0 "거대 석영 결정"
+ gpm_silicon_crystals_desc:0 "커다란 석영 결정이 이 행성에서 자라나는것처럼 보입니다. 이것들은 한 지점에서 시작해서 꽃처럼 바깥쪽으로 자라나는 결정들의 소용돌이처럼 보입니다. 이 결정들의 색깔은 토양의 조성성분에 따라 달라지며 밝은 토양은 맑은 노란색과 갈색의 결정체를 만들어내고, 어둡고 철분이 풍부한 토양은 붉은색이나 자주색 결정을 만들어냅니다. 더 다양한 종류가 발견될 수 있습니다."
+ 
+ gpm_lava_geysers:0 "용암 간헐천"
+ gpm_lava_geysers_desc:0 "이 행성에는 평평한 지역에 걸쳐 많은 수의 용암 간헐천들이 퍼져 있습니다. 이 간헐천들은 지표면 아래의 압력을 분출하여 평평하고 단단한 지형을 유지할 수 있게 합니다. 그러나 이런 간헐천들은 위험할 수 있으므로 거리를 유지하는 것이 바람직합니다."
+ 
+ gpm_thin_planetary_crust:0 "얇은 지각"
+ gpm_thin_planetary_crust_desc:0 "상대적으로 낮은 표면 압력으로 인해 이 행성은 수십억년에 걸쳐 상당히 얇은 행성 지각을 가지게 되었습니다."
+ 
+ gpm_heavy_elements:0 "풍부한 중금속"
+ gpm_heavy_elements_desc:0 "끊임없는 지각 활동이 많은 중금속을 이 행성의 표면 쪽으로 밀어냈습니다."
+
+ gpm_rare_metals:0 "풍부한 희귀 금속"
+ gpm_rare_metals_desc:0 "상당한 양의 희귀 금속이 이 행성의 지각 안에 있습니다."
+
+ gpm_crystaline_deposits:0 "수정 광상"
+ gpm_crystaline_deposits_desc:0 "거대한 고밀도의 수정들은 이 행성 지표 아래의 온도와 열의 독특한 조합으로 빠르게 성장합니다."
+
+ gpm_searing_fumes:0 "가스 분출"
+ gpm_searing_fumes_desc:0 "이 행성 표면의 작은 균열에서 뜨거운 화염과 가스가 수백 미터 위로 뿜어져 나오고 있습니다."
+
+ gpm_stable_geodes:0 "정동 광물"
+ gpm_stable_geodes_desc:0 "조심스럽게 열었을 때 아름다운 초반응 광물을 포함하고 있는 작은 돌이나 바위입니다."
+ 
+ gpm_proto_planet:0 "원시 행성"
+ gpm_proto_planet_desc:0 "이 행성은 점차 거주 가능한 행성으로 느리게 변화하고 있습니다. 충분한 시간이 지나면 용암이 굳어져 육지가 되고, 수증기는 비가 내려 바다가 될 것입니다."
+ 
+ gpm_mercury_atmosphere:0 "수은 대기"
+ gpm_mercury_atmosphere_desc:0 "이 행성의 용해된 표면은 대부분 수은으로, 증발될 만큼 높은 온도로 가열됩니다. 이로인해 매우 얇은 수은 대기를 만들었습니다."
+ 
+ gpm_abundant_natural_radioactivity:0 "높은 자연 방사선"
+ gpm_abundant_natural_radioactivity_desc:0 "이 행성의 지각에서 발생하는 광범위한 자연 핵반응은 행성의 지각활동과 결합해 방사성 물질을 분출하는 거대한 화산을 만듭니다. 즉, 이 행성의 대기는 방사성 입자로 가득차있습니다."
+ 
+ gpm_weak_magnetic_field_nb:0 "$weak_magnetic_field$"
+ gpm_weak_magnetic_field_nb_desc:0 "$weak_magnetic_field_desc$"
+ 
+ gpm_strong_magnetic_field_nb:0 "$strong_magnetic_field$"
+ gpm_strong_magnetic_field_nb_desc:0 "$strong_magnetic_field_desc$"
+ 
+ gpm_asteroid_impacts_nb:0 "$asteroid_impacts$"
+ gpm_asteroid_impacts_nb_desc:0 "$asteroid_impacts_desc$"
+ 
+ gpm_mineral_rich_nb:0 "$mineral_rich$"
+ gpm_mineral_rich_nb_desc:0 "$mineral_rich_desc$"
+ 
+ gpm_ultra_rich_nb:0 "$ultra_rich$"
+ gpm_ultra_rich_nb_desc:0 "$ultra_rich_desc$"
+ 
+ gpm_low_gravity_nb:0 "$low_gravity$"
+ gpm_low_gravity_nb_desc:0 "$low_gravity_desc$"
+ 
+ gpm_high_gravity_nb:0 "$high_gravity$"
+ gpm_high_gravity_nb_desc:0 "$high_gravity_desc$"
+ 
+ gpm_flat_terrain_nb:0 "$gpm_flat_terrain$"
+ gpm_flat_terrain_nb_desc:0 "$gpm_flat_terrain_desc$"
+ 
+ gpm_rugged_terrain_nb:0 "$gpm_rugged_terrain$"
+ gpm_rugged_terrain_nb_desc:0 "$gpm_rugged_terrain_desc$"
+ 
+ gpm_radioactive_mantle_nb:0 "$gpm_radioactive_mantle$"
+ gpm_radioactive_mantle_nb_desc:0 "$gpm_radioactive_mantle_desc$"
+ 
+ gpm_old_world_nb:0 "$gpm_old_world$"
+ gpm_old_world_nb_desc:0 "$gpm_old_world_desc$"
+ 
+ gpm_hiveworld_nb:0 "$gpm_hiveworld$"
+ gpm_hiveworld_nb_desc:0 "$gpm_hiveworld_desc$"
+ 
+ gpm_periodic_meteor_showers_nb:0 "$gpm_periodic_meteor_showers$"
+ gpm_periodic_meteor_showers_nb_desc:0 "$gpm_periodic_meteor_showers_desc$"
+ 
+ #######################################
+ #### Stars, Pulsars and Blackholes Modifiers
+ #######################################
+ gpm_wretched_abyss:0 "끔찍한 심연"
+ gpm_wretched_abyss_desc:0 "이 천체를 바라보는 것만으로도 모두 원인모를 두려움을 느끼고, 성계에서 더 많은 시간을 보내면 증상이 더 나빠집니다. 악몽과 망상이 이곳에 있는 모든 사람들을 괴롭히기 떄문에, 비록 아무도 그것을 인정하지 않겠지만 이 공간은 '끔찍한 심연'이라고 불립니다."
+
+ gpm_resonant_twins:0 "공명하는 쌍성"
+ gpm_resonant_twins_desc:0 "어떤 알 수 없는 이유로, 이 별과 다른 별이 얽혀 있어 양자 현상을 쉽게 연구하고 실험할 수 있을 것입니다."
+ 
+ gpm_singing_star:0 "노래하는 별"
+ gpm_singing_star_desc:0 "이 별에서는 특이한 무선 주파수 신호가 방출됩니다. 호기심 많은 한 기술자가 이 신호를 들을 수 있는 형식으로 변환시켰고, 이 '음악'은 우리 문명 전반에 걸쳐 꽤나 유명해졌습니다. 이 '음악'은 잊혀지지 않을 정도로 아름답지만, 과학자들은 이 현상에 대한 과학적 설명을 할 수 없었습니다."
+ 
+ gpm_unusual_sun_spots:0 "비정상적인 흑점"
+ gpm_unusual_sun_spots_desc:0 "이 별은 비정상적인 흑점으로 덮여 있습니다. 이것들로 인해 우리는 이 별이 어떤 생애 주기에 있는지 확실히 알 수 없었습니다. 정말 특이한 현상입니다."
+ 
+ gpm_low_metallicity:0 "낮은 금속 원소"
+ gpm_low_metallicity_desc:0 "이 별은 핵융합을 할 수 없는 금속성 원소의 비중이 유난히 낮아 다른 별에 비해 활력이 넘칩니다."
+
+ gpm_high_metallicity:0 "높은 금속 원소"
+ gpm_high_metallicity_desc:0 "이 별은 핵융합을 할 수 없는 금속성 원소의 비중이 유난히 더 높아서 다른 별에 비해 희미하지만 수명이 더 깁니다."
+
+ gpm_plasmoid_life:0 "플라즈마 생명체"
+ gpm_plasmoid_life_desc:0 "어찌된 일인지, 완전히 플라즈마로 구성된 생명체가 이 별에서 진화해 왔습니다. "
+
+ gpm_compact_star:0 "고밀도 별"
+ gpm_compact_star_desc:0 "초신성 폭발 후 항성 잔해인 이 천체의 표면은 아마도 우주에서 블랙홀 다음으로 가장 극단적인 환경 중 하나일 것입니다."
+
+ gpm_pulsar_clock:0 "펄사 시계"
+ gpm_pulsar_clock_desc:0 "이 펄서는 대단히 빠르면서 우주에서 가장 규칙적일 정도로 놀라운 규칙성을 가지고 회전합니다. 이런 천체 시계원을 통해 천문학자들은 별과 물질, 심지어 우주와 시간 자체에 관한 질문에 대한 답을 찾고 있습니다. 그렇지 않으면 다른 방법이 없으니깐요."
+
+ gpm_stellar_spectacle:0 "별의 구경거리"
+ gpm_stellar_spectacle_desc:0 "이 별의 표면은 규칙적으로 강렬한 빛의 쇼를 보여 줍니다."
+
+ gpm_plasma_tornadoes:0 "플라즈마 소용돌이"
+ gpm_plasma_tornadoes_desc:0 "이 항성의 광구는 눈부시게 밝은 백열의 소용돌이들이 격렬하게 합쳐지고 나뉘어지고 있습니다."
+ 
+ #######################################
+ #### Asteroid Modifiers
+ #######################################
+ gpm_large_asteroid:0 "대형 소행성"
+ gpm_large_asteroid_desc:0 "이 소행성은 비정상적으로 커서 일종의 원시 행성으로 분류될 수도 있습니다."
+
+ gpm_asteroid_moon:0 "위성을 가진 소행성"
+ gpm_asteroid_moon_desc:0 "이 소행성은 자신 주변을 도는 작은 천체를 거느릴만큼 충분한 크기를 가집니다."
+ 
+ gpm_metal_asteroid:0 "금속 소행성"
+ gpm_metal_asteroid_desc:0 "이 소행성은 단일의 고밀도 원소로 이루어져 있습니다."
+
+ gpm_dense_core:0 "고밀도 핵"
+ gpm_dense_core_desc:0 "이 소행성은 비정상적으로 고밀도인 핵을 가지고 있습니다. 아마 채굴이 가능할 것입니다."
+ 
+ gpm_hollow_structure:0 "움푹 패인 소행성"
+ gpm_hollow_structure_desc:0 "이 소행성의 큰 부분이 움푹 패인 것처럼 보입니다. 정확한 원인은 밝혀지지 않았지만 유력한 이론들 중에는 더 작고 밀도가 높은 다른 소행성과의 충돌, 소행성이 가열되면서 야기된 가스 주머니 팽창, 또는 우주 채굴 등이 있습니다."
+
+ gpm_crystallized_structure:0 "결정 구조"
+ gpm_crystallized_structure_desc:0 "이 소행성은 대부분 결정 구조를 가지고 있습니다. 어떤 독특한 과정이 이 소행성을 구성하는 물질이 결정체 구조로 형성되도록 했습니다."
+
+ gpm_abandoned_mining_platforms:0 "버려진 채광 플랫폼"
+ gpm_abandoned_mining_platforms_desc:0 "이 소행성에는 작은 채광 플랫폼이 붙어 있습니다. 소행성 외부 광물의 대부분은 채굴되었지만, 내부에는 여전히 상당한 양을 발견할 수 있습니다."
+ 
+ gpm_spherical_asteroid:0 "구형 소행성"
+ gpm_spherical_asteroid_desc:0 "이 소행성은 자체 중력으로 모양을 구체로 만들 정도로 질량이 충분합니다. 그러나 아직 행성이라고 불리기에는 너무 작습니다."
+
+ gpm_binary_asteroids:0 "이중 소행성"
+ gpm_binary_asteroids_desc:0 "이 소행성들은 서로의 중력 영향력에 걸려 서로 끝없이 빙빙 돌고 있습니다."
+
+ gpm_trojan_asteroid:0 "트로이 소행성"
+ gpm_trojan_asteroid_desc:0 "트로이 소행성으로 분류되는 이 소행성은 항성과 행성 사이의 중력 안장점(라그랑주점)에 위치해 안정된 궤도를 형성했습니다."
+
+ gpm_c_type_asteroid:0 "C형 소행성"
+ gpm_c_type_asteroid_desc:0 "이 소행성은 주로 점토와 규산염으로 이루어져 잿빛을 띤 회색으로 보입니다."
+ 
+ gpm_s_type_asteroid:0 "S형 소행성"
+ gpm_s_type_asteroid_desc:0 "이 소행성은 대부분이 규산염 물질과 니켈 및 철로 구성되어 녹색을 띠고 있습니다."
+
+ gpm_m_type_asteroid:0 "M형 소행성"
+ gpm_m_type_asteroid_desc:0 "이 소행성은 주로 니켈과 철로 구성되어 있어 적당히 밝은 붉은색을 띕니다."
+
+ gpm_v_type_asteroid:0 "V형 소행성"
+ gpm_v_type_asteroid_desc:0 "이 소행성은 대부분 규산염 암석으로 이루어져 있고, 현무암질의 껍질을 가지고 있어 검은색을 띕니다."
+ 
+ #######################################
+ #### Gas Giant Modifiers
+ #######################################
+ gpm_tiyanki_feeding_grounds:0 "티얀키 먹이터"
+ gpm_tiyanki_feeding_grounds_desc:0 "이 행성 고리 안에 있는 광물들 중 일부는 이 지역의 우주 생물들이 매우 좋아하는 먹이 같습니다. 그래서 몇몇 생물들이 꽤 자주 이곳으로 돌아오는 것이 관측되었습니다."
+ 
+ gpm_supersonic_winds:0 "초음속 강풍"
+ gpm_supersonic_winds_desc:0 "이 행성의 극도로 빠른 풍속은 작은 탐사정을 제외한 그 어떤 것도 저공비행하는 것을 사실상 불가능에 가깝게 만듭니다."
+ 
+ gpm_geometrical_polar_storm:0 "기하학적 극지 폭풍"
+ gpm_geometrical_polar_storm_desc:0 "이 행성 북극의 폭풍은 완전한 오각형 모양을 하고 있습니다. 매우 독특한 기압과 바람이 거의 끝없이 지속되는 폭풍을 완벽한 기하학적 모양으로 만들었습니다."
+ 
+ gpm_floating_forest:0 "떠다니는 나무"
+ gpm_floating_forest_desc:0 "거대 가스 행성의 상층 가스층은 뿌리와 식물로 이루어진 작은 섬처럼 보이는 떠다니는 식물들의 구역입니다. 이 잎과 뿌리는 길고 극도로 가벼우며 돌풍이 불 때마다 흔들거립니다."
+ 
+ gpm_viscous_gas_layer:0 "점성있는 가스"
+ gpm_viscous_gas_layer_desc:0 "이 행성의 대기는 밀도가 너무 높은 나머지 거의 액체의 흐름처럼 움직입니다. 거대 가스 행성이 이렇게 밀집된 가스를 가지고 있는 것은 보기 힘들지만 아예 불가능한 것은 아닙니다."
+ 
+ gpm_everlasting_tornadoes:0 "영원한 소용돌이"
+ gpm_everlasting_tornadoes_desc:0 "이 거대 가스 행성에서는 오래 지속되는 맹렬한 소용돌이가 발견됩니다. 이 거대 소용돌이는 항성이 자전하는 속도와 거의 비슷한 속도로 반대 방향으로 움직여서 움직이지 않는 것처럼 보입니다."
+ 
+ gpm_shrinking_giant:0 "작아진 거대 가스 행성"
+ gpm_shrinking_giant_desc:0 "이 행성은 수백만년 동안 항성의 강력한 태양풍을 맞아 기체 대기의 외부와 중간층이 벗겨졌습니다."
+ 
+ gpm_charged_atmosphere:0 "대전된 대기"
+ gpm_charged_atmosphere_desc:0 "이 거대 가스 행성의 대기 상층부에 있는 가스의 지속적인 마찰은 영구적으로 대전된 대기를 만들었습니다. 잦은 국지적 전자 방출은 화려하지만 짧은 번개를 일으킵니다."
+ 
+ gpm_aeroplankton_clouds:0 "부유 미생물 구름"
+ gpm_aeroplankton_clouds_desc:0 "작은 미생물과 같은 생명체가 거대 가스 행성의 대기 상층을 떠다니면서 가스와 햇빛을 흡수하여 증식하고 있습니다."
+ 
+ gpm_radiation_storms:0 "방사성 폭풍"
+ gpm_radiation_storms_desc:0 "엄청난 양의 방사성 먼지가 수십억년 전에 이 거대 가스 행성에 들어왔습니다. 이로 인해 국지적인 폭풍이 불때는 방사성이 강해지고 약간의 녹색과 노란빛을 발했습니다."
+ 
+ gpm_beautiful_storms:0 "아름다운 폭풍"
+ gpm_beautiful_storms_desc:0 "서로 다른 가스의 층으로 이루어진 아름다운 띠들은 폭풍이 이 행성에 발생할 때마다 함께 모입니다. 이때 발생하는 화려한 색채는 관찰하기 매우 즐겁습니다."
+ 
+ gpm_abandoned_refineries:0 "버려진 정제소"
+ gpm_abandoned_refineries_desc:0 "버려진 이 정제소들은 여전히 거대 가스 행성으로부터 가스를 빨아들여 고체 물질로 가공하고 있습니다."
+ 
+ gpm_floating_kelp:0 "떠다니는 해초"
+ gpm_floating_kelp_desc:0 "이 거대 가스 행성의 대기 상층부에 거대한 해초같은 식물들이 떠 있습니다. 이 식물들은 수백미터 길이로, 끝부분에 거대한 잎과 얇은 떠다니는 뿌리가 있습니다."
+ 
+ gpm_thin_atmospheres_gas_giant:0 "$gpm_thin_atmospheres$"
+ gpm_thin_atmospheres_gas_giant_desc:0 "$gpm_thin_atmospheres_desc$"
+ 
+ gpm_global_thunderstorms_gas_giant:0 "$gpm_global_thunderstorms$"
+ gpm_global_thunderstorms_gas_giant_desc:0 "$gpm_global_thunderstorms_desc$"
+ 
+ gpm_weak_magnetic_field_gas_giant:0 "$weak_magnetic_field$"
+ gpm_weak_magnetic_field_gas_giant_desc:0 "$gpm_weak_magnetic_field_2_desc$"
+ 
+ gpm_strong_magnetic_field_gas_giant:0 "$strong_magnetic_field$"
+ gpm_strong_magnetic_field_gas_giant_desc:0 "$gpm_strong_magnetic_field_2_desc$"
+ 
+ gpm_super_heated_atmosphere:0 "초고온 대기"
+ gpm_super_heated_atmosphere_desc:0 "극도로 뜨겁고 밀도가 높은 대기를 가진 행성입니다. 대기가 너무 뜨거워서 행성 내부에 도달할 수 없어서 중심핵에 대한 연구가 불가능합니다."
+ 
+ gpm_floatig_behemothaurs:0 "고대의 거대 생명체"
+ gpm_floatig_behemothaurs_desc:0 "때때로 상층 대기로 올라오기도 하는 이 고대의 초지능 생명체는 전체 공생 동식물의 삶의 터전입니다."
+ 
+ #######################################
+ #### Relic & Ecu Modifiers
+ #######################################
+ gpm_relic_factories:0 "고대기술 공장"
+ gpm_relic_factories_desc:0 "고대의 노후한 공장들은 오래 전에 잊혀졌습니다."
+
+ gpm_relic_generators:0 "고대기술 발전기"
+ gpm_relic_generators_desc:0 "여전히 작동하는 고대의 발전기지만, 노후화와 유지관리의 미비로 과거에 생산했던 전력의 극히 일부만을 생산하고 있습니다."
+
+ gpm_relic_laboratories:0 "고대기술 실험실"
+ gpm_relic_laboratories_desc:0 "광대한 개방형 연구소가 너무 낡아서 그것들을 덮고 있던 먼지가 암석이 되었습니다. 어떤 작업을 통해 이 실험실을 다시 사용할 수 있게 될지도 모릅니다."
+
+ gpm_relic_lower_levels:0 "도시 하층"
+ gpm_relic_lower_levels_desc:0 "거대하고 끝없는 도시의 일부분이 붕괴되어 도시 행성의 상층이 훨씬 오래된 도시 위에 지어졌다는 것을 알 수 있었습니다."
+ 
+ #######################################
+ #### Precursor Modifiers
+ ####################################### 
+ gpm_precursor_star_filter:0 "선구자 항성 필터"
+ gpm_precursor_star_filter_desc:0 "고대문명의 장치가 이 항성을 뒤덮는 에너지 장을 방출하고 있습니다. 정확한 원리는 모르지만 이 장치는 항성의 광구 깊은 곳에서도 정상적으로 작동해, 가시광선 영역대의 방사광을 증폭시키는 역할만을 수행하는 듯 합니다. 그로 인해, 별이 꽤나 반짝반짝 빛납니다."
+ 
+ gpm_precursor_remnants:0 "선구자 잔해"
+ gpm_precursor_remnants_desc:0 "미지의 고대 성간 제국이 건설한 이 행성에는 아직도 상당한 양의 기반시설이 남아 있습니다. 이 건축물에 동력을 공급하는 기술은 기능이 중단된 지 오래지만, 진보된 기능은 여전히 그들의 설계에서 관찰됩니다."
+ 
+ gpm_precursor_energy_grid:0 "선구자 에너지 연결망"
+ gpm_precursor_energy_grid_desc:0 "이 고대 행성에 남아있는 것은 선구자 도시의 전력 기반시설과 에너지 연결망 뿐입니다. 집과 도로를 포함한 다른 선구자의 흔적이 풍화되어 먼지가 되는 동안에도 전력망은 여전히 작동하며 아름다운 빛을 내고 있습니다."
+ 
+ gpm_precursor_satalite_grid:0 "선구자 위성망"
+ gpm_precursor_satalite_grid_desc:0 "이 행성은 매우 효율적인 궤도에 위치한 선구자 위성들을 많이 가지고 있습니다. 이 수백개의 소형 위성들은 한때 통신망과 연결되었을거라 추측하고 있습니다."
+ 
+ gpm_precursor_city:0 "선구자 도시"
+ gpm_precursor_city_desc:0 "이 행성에서는 선구자 문명의 도시 유적이 발견됩니다. 이상한 점은 마치 선구자들이 그냥 사라진 것처럼 도시 유적은 온전해 보인다는 점입니다."
+ 
+ gpm_precursor_shipyards:0 "선구자 조선소"
+ gpm_precursor_shipyards_desc:0 "이 행성을 둘러싸고 있는 몇 개의 강력한 고대 조선소가 있습니다. 어떤 부분은 꽤 손상되어 보이지만 다른 부분은 약간의 수리를 통해 작동할 수 있을 것처럼 보입니다. 이 거대 우주 정거장의 중심에는 강력한 중력 반응로가 자리하고 있는데 이 기술은 완전히 이해되지는 않았지만 조선소의 전력과 궤도 유지를 위해 사용되는 것으로 보입니다. 아마도 언젠가는 우리 문명도 이런 기술을 사용할 수 있을 것입니다."
+ gpm_precursor_shipyardsTT:0 "항성기지 모듈 잠금해제: §G선구자 조선소 업링크§!\n   제국 함선 건조 속도: §G+20%§!\n   항성기지 수용력: §G+12§!"
+ 
+ gpm_precursor_planetary_gun:0 "선구자 행성 포탑"
+ gpm_precursor_planetary_gun_desc:0 "한때 번영했던 행성이었을지도 모르는 곳이 행성 크기의 포대로 변모했습니다. 이 강력하고 진보한 포대는 우주 공간에 있는 적에게도 유효한 타격을 입힐 수 있으며 아마도 선구자 문명 방어망의 중핵이었을 것입니다."
+ 
+ gpm_precursor_bunker_grid:0 "선구자 방어망"
+ gpm_precursor_bunker_grid_desc:0 "이 행성 전체에 선구자 문명의 방어 시설이 건설되어 있습니다. 이 행성을 방어했던 고대 문명의 잔재는 패배한지 오래 된 전투의 유령같습니다."
+ gpm_precursor_bunker_gridTT:0 "행성 건물 잠금해제: §G선구자 방어시설 지휘부§!"
+
+ gpm_precursor_mechs:0 "선구자 거대 전투기계"
+ gpm_precursor_mechs_desc:0 "버려진 거대한 선구자 전투기계들이 이 행성의 표면 곳곳에 서 있고, 재활성화 명령을 기다리고 있습니다. 이 기계들은 오랜 시간이 지났음에도 불구하고 풍화나 열화의 흔적을 찾아보기가 힘듭니다."
+ gpm_precursor_mechsTT:0 "행성 방어군: §G선구자 전투기계§!"
+
+ gpm_precursor_planetary_shield:0 "선구자 행성 보호막"
+ gpm_precursor_planetary_shield_desc:0 "인상적인 일련의 행성 보호막 시설이 모두에게 피난처를 제공하기 위해 서 있습니다."
+ gpm_precursor_planetary_shieldTT:0 "행성 보호막: §L비활성화!"
+
+ gpm_precursor_planetary_shield_on:0 "작동하는 선구자 행성 보호막"
+ gpm_precursor_planetary_shield_on_desc:0 "인상적인 일련의 행성 보호막 시설이 전 행성에 퍼져 있습니다."
+ #gpm_precursor_planetary_shield_onTT:0 "행성 보호막: §G활성화§!"
+
+#  gpm_precursor_planetary_shield_on:0 "Powered Precursor Shield"
+#  gpm_precursor_planetary_shield_on_desc:0 "Witnes the power of this fully operational planetary shield!"
+#  gpm_precursor_planetary_shield_onTT:0 "Planetary Shield: §GActive§!"
+ 
+ gpm_precursor_floating_city:0 "선구자 부유 도시"
+ gpm_precursor_floating_city_desc:0 "자가 유지 체계를 갖춘 도시 몇개가 행성 상공을 떠다니고 있습니다. 약간의 손상에도 불구하고 도시는 여전히 잘 작동하고 있습니다. 공중 도시 표면에는 건물과 기반시설의 잔해가 흩어져 있습니다. 이전의 거주자들이 공중 도시를 만들었는지, 아니면 공중 도시는 발견했을 뿐이고 그냥 그 위에 도시를 지어서 사용했는지는 우린 영원히 알 수 없을 것입니다."
+ 
+ gpm_precursor_capital_complex:0 "선구자 수도 복합단지"
+ gpm_precursor_capital_complex_desc:0 "이 행성에는 진보한 대도시 폐허가 펼쳐져 있습니다. 폐허 주위를 둘러싼 거대한, 그리고 한때는 정교했을 구조물들은 우리로 하여금 이곳이 오래전 사라진 제국의 행성 수도, 혹은 제국 전체의 수도 역할을 했던 잔해임을 짐작케 합니다."
+ 
+ gpm_precursor_communication_hub:0 "선구자 통신 허브"
+ gpm_precursor_communication_hub_desc:0 "이 행성의 폐허엔 우뚝 선 거대한 첨탑이 존재합니다. 이 첨탑에선 여전히 궤도로 올라가는 강력한 신호를 방출하고 있습니다. 아마 이전에는 궤도 상의 위성망이 신호를 수신했을 것입니다. 대부분의 기능이 작동하고 있으며, 우리의 통신이나 감시 체계로 변환해 사용할 수 있을 것입니다."
+ 
+ gpm_precursor_singularity_drive:0 "선구자 특이점 드라이브"
+ gpm_precursor_singularity_drive_desc:0 "이 행성은 연구실과 유사한 지하 구역을 가지고 있습니다. 해당 구역의 중앙에는 에너지로 공명하는 거대한 특이점 드라이브가 설치되어 있습니다. 자동기계가 곳곳에 흩어져있으며, 때론 이해할 수 없는 방법으로 서로를 분해하고 때론 서로를 수리합니다."
+ 
+ gpm_precursor_eternal_fortress:0 "선구자 영원의 요새"
+ gpm_precursor_eternal_fortress_desc:0 "이 행성의 최북단 산맥에 선구자 문명의 거대 요새가 있습니다. 이 요새는 50제곱킬로미터가 넘는 넓이에 방어시설, 터널, 참호를 포함하여 건설되었습니다. 이 요새는 꼭지점이 8개인 거대한 별모양으로 생겼습니다. 이상하게도 이 요새의 지휘센터는 완전히 텅 비어 있습니다."
+ 
+ gpm_precursor_prison_planet:0 "선구자 감옥 행성"
+ gpm_precursor_prison_planet_desc:0 "행성 표면은 수천 채의 막사가 뒤덮고 있으며, 그 바로 아래엔 행성 전체를 사용하는 거대한 감옥 체계의 잔해가 널려있습니다. 그곳에는 감방과 억제장이 설치되어 있습니다. 목적은 분명합니다."
+ 
+ gpm_precursor_mines:0 "선구자 광산"
+ gpm_precursor_mines_desc:0 "이 광물 함유량이 높은 행성은 한떄 고대 선구자 문명의 광산 중심지였습니다. 왜 버려졌는지는 수수께끼지만 수천년에 걸쳐 축적된 희미한 광물 퇴적물은 우리 노동자들이 손쉽게 채굴할 수 있게 합니다."
+
+ gpm_precursor_manufactorium:0 "선구자 제조 공장"
+ gpm_precursor_manufactorium_desc:0 "이 행성 지하에는 묻힌 터널과 금고의 연결망이 존재합니다. 표면의 아주 작은 입구는 지하의 거대 산업 단지로 이어집니다. 선구자의 뛰어난 기술은 공업 지구의 거대한 생산 라인을 유지하기 위해 행성의 에너지를 고갈시킬 수준으로 뽑아낼 수 있었습니다."
+ 
+ gpm_precursor_vaults:0 "선구자 금고"
+ gpm_precursor_vaults_desc:0 "이 행성의 산맥에는 작은 전초기지가 곳곳에 숨어있습니다. 조사 결과 거대한 금고 보관소로 통하는 숨겨진 출입구가 드러났습니다. 대부분은 텅 비어 있습니다. 약탈의 흔적이 보이는 곳도 있으며, 아예 아무것도 들어온 기록이 없는 곳도 있습니다. 그러나 몇몇 금고에는 자연상태에선 과학적으로나 고고학적으로나 설명할 수 없는 놀라운 보물이 숨겨져 있습니다."
+ 
+ gpm_precursor_crashed_spacestation:0 "선구자 궤도 스테이션 추락 지점"
+ gpm_precursor_crashed_spacestation_desc:0 "이 행성에 있는 거대한 크레이터는 이 보잘것 없는 행성보다는, 우주 정거장의 잔해에 더 많은 관심이 가도록 만듭니다. 과학자들은 이 잔해를 지금은 사라진 옛 성간 제국의 것으로 추측하고 있습니다만, 잔해는 너무 큰 피해를 입어서 지금은 조사해도 얻을 것이 별로 없습니다."
+ 
+ gpm_precursor_battleground_ruins:0 "선구자 전장 폐허"
+ gpm_precursor_battleground_ruins_desc:0 "긁힌 자국, 반쯤 부서진 건물, 수천개의 무기 잔해만이 이 행성에 남아있습니다. 조사팀은 세심한 탐사 끝에 이곳에서 벌어진 대규모의 전투는 이 행성에 살고 있던 문명의 종말을 뜻한다는 것을 밝혀냈습니다."
+ 
+ gpm_precursor_outpost_ruins:0 "선구자 전초기지 폐허"
+ gpm_precursor_outpost_ruins_desc:0 "이 행성엔 그 누구도 손을 대지 않았습니다. 숲의 중심부에 높여진 외딴 건축물을 제외하면 말이죠. 그 건축물에는 아직 동력이 공급되고 있으며, 몇개의 방만이 건설되어 있습니다. 화면에는 여러 종류의 표식이 그려져 있습니다. 아마 고대 언어의 잔재거나, 죽기 직전 미치광이가 지껄인 소리일 것입니다."
+
+ gpm_precursor_harbor_ruins:0 "선구자 항만 폐허"
+ gpm_precursor_harbor_ruins_desc:0 "이 행성의 해안가에는 정교한 항만의 잔해가 존재합니다. 오래 전에 이 행성에 살았던 이들은 효율적인 어획 및 가공 시설을 통해 이 행성의 생산성을 최대한으로 끌어올렸습니다."
+ 
+ gpm_precursor_ruins:0 "선구자 폐허"
+ gpm_precursor_ruins_desc:0 "위에서 쏟아지는 열기와 아래에서 올라오는 끝없는 모래는 이 행성을 현세의 지옥으로 만듭니다. 그럼에도 불구하고 몇몇 건축물 표면은 어떠한 것을 표시하고 있습니다. 조사팀은 이 문양들이 나타내는 종교적 성질과 함께, 이곳의 문명은 생명공학 기술이 뛰어났을 수도 있다고 보고했습니다."
+ 
+ gpm_precursor_obelisks:0 "선구자 방첨탑"
+ gpm_precursor_obelisks_desc:0 "이 행성엔 특정 위치에 3개의 방첨탑이 설치되어 있습니다. 밤이 되자, 방첨탑은 사이오닉 에너지를 내뿜으며 빛나기 시작했고, 그 위에는 수많은 표식들이 존재합니다. 이 방첨탑을 연구하면 사이오닉과 관문 기술을 이해하는데 도움이 될 것입니다."
+ 
+ #######################################
+ #### Habitat Modifiers
+ #######################################
+ gpm_habitat_stadium:0 "인공 중력 스타디움"
+ gpm_habitat_stadium_desc:0 "여러 사람들의 요청에 따라 이 거주지에는 대형 경기장이 갖추어져 있어서 인공 중력 발생기를 이용한 다양한 흥미진진한 경기들을 즐길 수 있습니다."
+ 
+ gpm_habitat_trade_docks:0 "확장된 무역섹션"
+ gpm_habitat_trade_docks_desc:0 "이 거주지는 활발한 무역 루트에 매우 가깝기 때문에 무역 중심지로서 이상적입니다. 표준 도킹구역은 더 커졌으며 추가 상인 섹션이 거래자들을 위해 설치되었습니다."
+
+ gpm_habitat_holonet_entertainment_systems:0 "홀로그램 엔터테이먼트 시스템"
+ gpm_habitat_holonet_entertainment_systems_desc:0 "이 거주지에는 수많은 엔터테인먼트 시설들이 설치되어 있으며, 홀로그램과 강렬한 인공 빛 방출기를 통해 다양한 시청각 엔터테인먼트를 즐길 수 있습니다. 몸과 마음을 위한 진정한 럭셔리 파티 플레이스입니다!"
+
+ gpm_habitat_replicator_systems:0 "물질 합성기 시스템"
+ gpm_habitat_replicator_systems_desc:0 "생필품과 사치품 대한 기존 전달 시스템 대신 작고 효율적인 기기인 '물질-에너지 합성기'가 갖추어져 있습니다.\n\n 당신이 원하는 것을 간단하게 말하기만하면 바로 눈 앞에 나타납니다! 우리는 진정 미래에 살고 있습니다. 만세!"
+
+ gpm_habitat_spaceroute_hub:0 "우주 항로 중심지"
+ gpm_habitat_spaceroute_hub_desc:0 "이상적인 위치에 지어진 이 거주지는 여러 항성계에 걸친 무역 네트워크의 중심지 역할을 합니다. 다양한 무역 경로가 이 거주지를 거쳐 지나갑니다."
+
+ gpm_habitat_extensive_moon_mining:0 "광범위한 위성 채굴 작업"
+ gpm_habitat_extensive_moon_mining_desc:0 "이 거주지에는 위성 채광 작업을 지원하기 위해 개조된 도킹 베이가 여러 개 있습니다."
+
+ gpm_habitat_asteroid_belt_mining:0 "소행성 띠 채굴 작업"
+ gpm_habitat_asteroid_belt_mining_desc:0 "이 거주지에는 소행성 채광 작업을 지원하기 위해 개조된 도킹 베이가 여러 개 있습니다."
+
+ gpm_habitat_frequent_thunderstorms_research:0 "뇌우 연구소"
+ gpm_habitat_frequent_thunderstorms_research_desc:0 "이 거주지에는 밑의 행성에서 발생하는 독특한 뇌우를 전문적으로 연구하는 고급 과학 연구소가 있습니다."
+
+ gpm_habitat_radioactive_mantle_mining:0 "방사성 맨틀 채굴 시설"
+ gpm_habitat_radioactive_mantle_mining_desc:0 "이 거주지에 달린 강력한 채굴 레이저가 행성 표면을 향하고 있습니다. 행성 표면에 있는 채광 시스템은 레이저로 증발된 방사성 물질들을 모아 거주지로 수송합니다."
+
+ gpm_habitat_frequent_asteroid_flybys:0 "빈번한 근접 소행성"
+ gpm_habitat_frequent_asteroid_flybys_desc:0 "이 거주지에는 매일같이 날아오는 수백 개의 소행성을 막기 위한 몇 개의 회피 장치가 있습니다. 1차 보호막에 소행성이 충돌하면 항성의 복사열을 일시적으로 줄여주는 특수한 증기가 피어납니다."
+
+ gpm_habitat_highly_charged_particle_collection:0 "고전하 입자 수집기"
+ gpm_habitat_highly_charged_particle_collection_desc:0 "이 거주지에는 밑의 행성에서 방출되는 희귀한 입자들을 연구하기 위한 몇 가지 고급 입자 수집기가 달려있습니다."
+
+ gpm_habitat_ancient_temple_expeditions:0 "고대 유적 탐사 시설"
+ gpm_habitat_ancient_temple_expeditions_desc:0 "이 거주지는 밑의 행성에서 발견된 다양한 고대 문명의 유적을 탐험하고 연구하기 위한 연구팀의 모임 장소 역할을 합니다."
+
+ gpm_habitat_experimental_food_recycling:0 "실험적 식품 재활용 시스템"
+ gpm_habitat_experimental_food_recycling_desc:0 "이 거주지에는 음식물 쓰레기의 99.7%를 재활홍해 새로운 음식으로 바꾸는 실험적인 재활용 시스템이 설치되있습니다."
+
+ gpm_habitat_time_displaced_planet_research:0 "시간 왜곡 행성 연구"
+ gpm_habitat_time_displaced_planet_research_desc:0 "이 거주지에는 몇몇 연구팀이 밑의 행성에서 발견된 시간 왜곡 현상에 대한 연구를 진행하고 있습니다."
+
+ gpm_habitat_surface_mining:0 "지표 채광 탐사"
+ gpm_habitat_surface_mining_desc:0 "이 거주지에서 밑의 행성으로 수많은 광업 탐사가 진행되고 있습니다."
+
+ gpm_habitat_surface_expeditions:0 "지표 탐사 원정대"
+ gpm_habitat_surface_expeditions_desc:0 "이 거주지 밑의 행성에 펼쳐진 거대한 유적은 탐사대에게 있어 중대한 기회입니다. 여러 탐사팀이 이 거주지를 그들의 기반시설로 사용하고 있습니다."
+
+ gpm_habitat_android_pleasure_palace_tourism:0 "안드로이드 유흥 센터 관광"
+ gpm_habitat_android_pleasure_palace_tourism_desc:0 "이 거주지 밑의 행성에 위치한 안드로이드 유흥 센터에서 제공하는 독특한 '엔터테이먼트'는 거주지의 관광산업에 큰 도움이 됩니다. 이 거주지는 드로이드 유람원을 관광하는 이들을 위한 직접적인 교통편을 마련해놨습니다."
+
+ gpm_habitat_delicious_ingredients_trade:0 "향신료 무역"
+ gpm_habitat_delicious_ingredients_trade_desc:0 " 거주지 밑의 행성에서 산출되는 고급스럽고 맛있는 향신료는 매우 이윤이 남는 향신료 무역의 주요한 수출품입니다."
+
+ gpm_habitat_flat_terrain_racing:0 "행성 레이싱 대회"
+ gpm_habitat_flat_terrain_racing_desc:0 "이 거주지 밑의 행성의 지표면은 독특하게도 매우 평탄합니다. 그야말로 천연의 레이싱 서킷이여서 매일같이 여러 레이싱 대회가 열리고 있습니다."
+
+ gpm_habitat_strange_alien_eggs_restriction:0 "금지된 행성"
+ gpm_habitat_strange_alien_eggs_restriction_desc:0 "이 거주지 밑의 행성은 매우 위험합니다. 따라서 지표면으로 탐험이나 여행은 허가되지 않습니다."
+
+ gpm_habitat_hydrogen_extraction:0 "행성 수소 추출 시설"
+ gpm_habitat_hydrogen_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 수소 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_nitrogen_extraction:0 "행성 질소 추출 시설"
+ gpm_habitat_nitrogen_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 질소 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_chlorine_extraction:0 "행성 염소 추출 시설"
+ gpm_habitat_chlorine_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 염소 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_phosphorus_extraction:0 "행성 인 추출 시설"
+ gpm_habitat_phosphorus_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 인 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_sulfur_extraction:0 "행성 황 추출 시설"
+ gpm_habitat_sulfur_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 황 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_iron_extraction:0 "행성 철 추출 시설"
+ gpm_habitat_iron_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 철 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_titanium_extraction:0 "행성 티타늄 추출 시설"
+ gpm_habitat_titanium_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 티타늄 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_gold_extraction:0 "행성 금 추출 시설"
+ gpm_habitat_gold_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 금 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_platinum_extraction:0 "행성 백금 추출 시설"
+ gpm_habitat_platinum_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 백금 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_mercury_extraction:0 "행성 수은 추출 시설"
+ gpm_habitat_mercury_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 수은 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_cobalt_extraction:0 "행성 코발트 추출 시설"
+ gpm_habitat_cobalt_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 코발트 추출을 지원하기 위해 사용되고 있습니다."
+
+ gpm_habitat_lithium_extraction:0 "행성 리튬 추출 시설"
+ gpm_habitat_lithium_extraction_desc:0 "이 거주지 시설의 일부는 밑의 행성에서 지속적인 리튬 추출을 지원하기 위해 사용되고 있습니다."
+ 
+ #######################################
+ #### Ringworld Modifiers
+ #######################################
+ gpm_ringworld_breath_taking_view:0 "숨막힐 듯한 아름다움"
+ gpm_ringworld_breath_taking_view_desc:0 "이 링월드의 인공 대기는 너무나도 맑고 깨끗해서, 링월드의 나머지 부분과 다른 별들을 모두 볼 수 있습니다!\n\n 이 풍경은 정말 숨을 앗아갈만큼 아름답고, 그야말로 링월드가 어디까지 아름다워질 수 있냐는 물음에 휼륭한 대답을 해주고 있습니다."
+
+ gpm_ringworld_neural_nexus:0 "신경 연결체"
+ gpm_ringworld_neural_nexus_desc:0 "이 링월드 섹션에는, 중앙 집중식 넥서스가 이 링월드의 모든 측면을 제어 할 수 있게 해주는, 하나의 섹션 너비의 신경망이 갖추어져 있습니다."
+
+ gpm_ringworld_idyllic_gardens:0 "아름다운 정원"
+ gpm_ringworld_idyllic_gardens_desc:0 "이 링월드 섹션의 정원은 상상도 할 수 없을 정도로 아름답습니다. 꽃, 식물, 나무의 색은 매우 아름다울 뿐만 아니라 꽃향기도 향기롭습니다."
+
+ gpm_ringworld_xeno_zoo:0 "외계종 동물원"
+ gpm_ringworld_xeno_zoo_desc:0 "큰 외계종 동물원이 이 링월드에 위치하여 거주민들에게 링월드 바깥의 우주에 대해 배우고 휴식을 제공하는 장소를 제공했습니다."
+
+ gpm_ringworld_badlands:0 "자연인 체험장"
+ gpm_ringworld_badlands_desc:0 "이 링월드의 섹션은 훨씬 단순한 삶을 지향하는 사람들을 위해 지어졌습니다. 사람들은 이곳에서 본인의 능력만 된다면 자연속에서 완전히 자급자족 할 수 있습니다. 잠시동안 답답한 일상에서 탈출하고 야생의 삶을 싶은 사람들을 위한 좋은 안식처 입니다."
+
+ gpm_ringworld_battle_simulators:0 "전투 시뮬레이션 시설"
+ gpm_ringworld_battle_simulators_desc:0 "우리 군대가 다양한 환경에서의 전투훈련을 하게 해주는 대규모 과학화 훈련장이 이 링월드 섹션에 위치합니다.\n무중력 전투환경에서부터 도시, 심지어 정글구역까지 모든 제국의 군대는 훨씬 더 효율적이고 빠르게 실전같은 훈련 경험을 쌓을 수 있습니다."
+
+ gpm_ringworld_endless_ocean:0 "끝없는 바다"
+ gpm_ringworld_endless_ocean_desc:0 "이 링월드 섹션은 하나의 드넓은 바다처럼 보일 수 있도록 설계되었습니다."
+
+ gpm_ringworld_mass_transit_systems:0 "대규모 운송 시스템"
+ gpm_ringworld_mass_transit_systems_desc:0 "이 링월드 섹션에 있는 운송 시스템의 복잡한 방식은 매우 효율적이고 빠른 운송을 가능하게하여, 자원과 시간 모두에서 운송 비용을 크게 절감합니다."
+ 
+ #######################################
+ #### Hiveworld Modifiers
+ #######################################
+ 
+ #######################################
+ #### Machine World Modifiers
+ #######################################
+ gpm_ghost_in_the_machine:0 "귀신들린 기계"
+ gpm_ghost_in_the_machine_desc:0 "기계 의식의 것으로 보이지 않는 기묘한 신호가 이 기계행성에서 나오고 있습니다. 기계 의식안에 또다른 무언가가 있다는 것을 나타내는것 같습니다."
+
+ gpm_framework:0 "거대 구조"
+ gpm_framework_desc:0 "이 기계행성의 수많은 슈퍼 연산처리 장치들이 일종의 가상 세계로 사람들을 연결시키는데 사용되고 있습니다. 끝없이 이어지는 수많은 케이블들이 각자의 포드에 연결되어있고, 그 케이들은 중앙 연결체로 통하는 거대한 네트워크에 연결되어 있습니다."
+
+ gpm_giant_transmitter:0 "거대 송신기"
+ gpm_giant_transmitter_desc:0 "초대형 전파 송신기가 이 기계행성 표면에 자리잡고 있습니다. 추측컨데, 이 거대한 접시모양의 전송기는 기계의식을 다른 먼 행성으로 송신하여, 다른 고등 문명 세계를 망가뜨리는것이 목적일 것입니다."
+
+ gpm_pleasure_planet:0 "쾌락 행성"
+ gpm_pleasure_planet_desc:0 "기계행성의 암울한 모습에도 불구하고 그곳의 생물학적 거주자는 상당히 만족스러워 보입니다. 왜냐면 생명체들을 위해 고안된것으로 보이는 다양한 로봇들이 유기체들에게 엄청난 자극적인 쾌락을 주기 때문이지요.\n기계행성은 질서를 유지하고 거주민들에게 행복감과 성취감을 유지시키기위해 이런 쾌락 로봇을 사용하는것으로 보입니다."
+
+ gpm_holographic_combat_simulators:0 "홀로그램 전투 시뮬레이션"
+ gpm_holographic_combat_simulators_desc:0 "이 기계 행성의 표면에 도시 전체와 전장을 모사하는 거대한 홀로그램망이 있습니다. 이것은 주로 전투와 침략을 시뮬레이션하는데 사용되는 것 같습니다."
+
+ gpm_living_knowledge_base:0 "생물 데이터 베이스"
+ gpm_living_knowledge_base_desc:0 "수십억의 유기 생명체가 이 기계행성 중심에 갇혀 있습니다. 이 모든 생명체들은 행성의 인공지능 핵과 중추신경이 연결되어 있고 인공지능 핵은 이런 생명체들을 생물학적 데이터 베이스로 사용하여 연결된 임플란트와 스캐너를 이용하여 꿈과 마음을 읽고 있습니다. 어쩌면 이것은 이러한 생명체들의 집합적 지식을 이용하기 위해 행해지거나, 아니면 존재의 의미에 대한 해답을 찾고 있는 것인지도 모릅니다."
+
+ gpm_rogue_programming:0 "비합리적 프로그램"
+ gpm_rogue_programming_desc:0 "기계행성 내부의 일부 서비스 프로그램이 단순한 유기 생명체에 자신들을 업로드하려는 비합리적인 패턴을 보이고 있습니다. 이 현상을 막기위해 기계행성은 행성차원의 사이버 방화벽을 프로그래밍해 이 비합리적인 프로그램으로부터 나버지 건전한 기계 의식을 지키려 하고있습니다.\n아마도 이러한 노력으로 비합리적인 프로그램은 더이상 확산하지 않을것으로 보입니다."
+
+ gpm_magnetic_wave_defence:0 "전자기파 방어막"
+ gpm_magnetic_wave_defence_desc:0 "수조에 달하는 전자기 방사체가 기계행성의 전반에 퍼져있습니다. 이 작은 방출기들은 생물학적 존재에 반응하여 극도로 강한 국부적인 전자기 방사선을 방출하는것으로 관출되었습니다.\n\n 이런 종류의 강한 방사선은 유기 생명체의 뇌를 쓸어버리고 즉사시킬 것이라고 생각합니다."
+
+ gpm_hollow_planet:0 "비어버린 행성"
+ gpm_hollow_planet_desc:0 "이 기계 행성의 많은 섹션들이 파손되었고 거의 작동 불능인 기계행성의 코어가 노출되어 있습니다. 기계행성 내부가 이렇게 파손되어 있지만, 여전히 행성 위쪽을 지지하기 위한 거대한 기계덩굴이 흐트려저있고, 이 위의 표면을 따라 거대한 기계 공장 및 다양한 기반시설들이 있습니다."
+
+ gpm_true_randomness_unit:0 "난수 유닛"
+ gpm_true_randomness_unit_desc:0 "이 기계행성의 중심은 엄청난 전력을 소모하고있는 거대한 구조체입니다. 이 구조체는 인공적인 무작위성을 연구하도록 설계되었습니다. 위치 또는 시간과 같은 다양한 변수들에 영향받지않는 진정한 의미의 난수들을 끝없이 제시하고 있습니다."
+
+ gpm_organic_infestation:0 "유기체 오염"
+ gpm_organic_infestation_desc:0 "이 행성의 원래의 거주종족들은 지하 깊은 밀폐된 곳에 숨어 유기체에 대한 숙청에서 간신히 살아남았습니다."
+
+ gpm_labyrinth_world:0 "미로 행성"
+ gpm_labyrinth_world_desc:0 "이 행성의 표면은 태양 전지판과 통신 인프라로 가득 뒤덮여 있습니다. 모든 생산과 연구 시설은 거대한 인공 동굴층에 위치합니다. 이 행성의 기계 지능은 바로 행성의 핵심에 있습니다."
+
+ gpm_contingency_em_shielding:0 "전자기파 차폐막"
+ gpm_contingency_em_shielding_desc:0 "이 기계 행성의 핵심부는 외부로부터의 전자기파를 완벽하게 차단시키는 특별한 합금으로 보호되고 있습니다."
+
+ gpm_nanite_infrastructure:0 "자가복제 기반시설"
+ gpm_nanite_infrastructure_desc:0 "이 기계 행성의 기반시설은 셀 수 없이 많은 소형 복제 로봇에 의해 만들어졌습니다. 이 매우 작은 로봇들은 스스로 복제해서 수를 늘리고, 재료만 주어진다면 어떤 복잡한 시설이라도 만들어 냅니다."
+
+ gpm_planetary_databases:0 "행성 데이터베이스"
+ gpm_planetary_databases_desc:0 "이 기계 행성에는 막대한 처리 능력을 자랑하는 데이터베이스가 위치합니다."
+
+ gpm_artificial_atmosphere:0 "인공 대기"
+ gpm_artificial_atmosphere_desc:0 "이 기계 행성에는 반응성이 낮은 아르곤 가스로 이루어진 인공적인 대기층이 있습니다."
+
+ gpm_space_elevators_machine:0 "우주 엘리베이터"
+ gpm_space_elevators_machine_desc:0 "이 기계 행성에 설치된 우주 엘리베이터는 훨씬 저렴하고 빠른 속도로 화물들을 행성의 저궤도까지 전송할 수 있습니다."
+
+ gpm_quantum_information_network:0 "양자 정보 통신체계"
+ gpm_quantum_information_network_desc:0 "이 기계 행성에 적용된 매우 진보한 양자 정보 통신기술로 인해 먼 거리의 상대방과도 즉각적인 통신이 가능합니다."
+
+ gpm_planetwide_printing:0 "거대 3D프린터"
+ gpm_planetwide_printing_desc:0 "거대한 육족 보행 로봇에 탑재된 3d 프린터는 끊임없이 움직이며 새로운 기반시설을 만들어 냅니다."
+
+ gpm_liquid_cooling:0 "수냉식 기반시설"
+ gpm_liquid_cooling_desc:0 "초냉각제로 가득 찬 광대한 파이프와 터널은 이 기계 행성의 표면에서 중심부의 인공지능 핵 등 깊숙한 곳까지 흐릅니다. 이 파이프와 터널은 이 행성의 작동에 필수적인 존재입니다."
+
+ gpm_robotic_pests:0 "로봇 해충"
+ gpm_robotic_pests_desc:0 "이 행성의 표면에는 소형 정비용 드론이 우글거립니다. 이 드론들은 가면 안되는 곳까지 끊임없이 기어다니면서 일종의 해충 역할을 하는 것 같습니다."
+
+ gpm_crystal_farms:0 "수정 농장"
+ gpm_crystal_farms_desc:0 "수십억 개의 작은 수정 성장 장치가 거대한 물질 생산 네트워크를 형성합니다."
+ 
+ gpm_smooth_architecture:0 "유기 건축"
+ gpm_smooth_architecture_desc:0 "이 기계 행성의 대부분의 기반시설은 유기체로부터 따온 구조로 설계되었습니다."
+
+ gpm_sharp_architecture:0 "날카로운 건축"
+ gpm_sharp_architecture_desc:0 "이 기계 행성의 기반시설들은 기능성만을 중시한 설계로 인해 날카로운 모서리, 그저 평평하기만 한 표면, 칙칙한 색깔을 가집니다. 보기에 좋지는 않지만, 그런 게 중요하나요?"
+ 
+ #######################################
+ #### Fallen Empire Modifiers
+ #######################################
+ gpm_utopian_world:0 "천상의 요람"
+ gpm_utopian_world_desc:0 "어떤 오염이나 독성물질이나 질병에 대한 흔적도 없습니다. 어느 곳을 둘러보아도 눈에 보이는 경치가 정말 장관입니다. 건물들은 어떠한 외부의 티끌도 묻지 않은것처럼 새것같이 빛나고 있습니다. 주변의 소리와 비치는 빛은 모든 생명체들과 춤을 추는것과 같습니다. 행성 표면의 모든 부분이 마치 도시로 흘러들어갔다가 다시 되돌아와 거의 완벽한 조화를 이룬 것처럼 보입니다."
+
+ gpm_utopian_services:0 "천상의 서비스"
+ gpm_utopian_services_desc:0 "이곳에서는 무엇이든 제공됩니다. 다채롭고 풍부한 먹을 것 부터 긴 생명의 보장까지, 모든것이 세심하게 제공되고 관리됩니다."
+
+ gpm_primitive_reserve:0 "원시종 보존 센터"
+ gpm_primitive_reserve_desc:0 "거대한 돔모양의 구조물속에서 진화하다만 생명체들이 모여있습니다. 사실 이러한 원시종은 이 돔모양의 구조물 안에서만 발견됩니다. 이것은 아마 왜곡된 성향의 동물원이거나 과거의 진화하기전의 생물종들을 보관하는 역할을 하는것 같습니다."
+
+ gpm_unified_processing:0 "통합 프로세싱"
+ gpm_unified_processing_desc:0 "이 행성은 고도화된 연산 처리장치 네트워크로 지표면과 지하 내부가 구조되어있습니다. 다시말해 이 행성은 매우 고도화된 계산 능력을 자랑하는 컴퓨터입니다. 연구한 바에 따르면 아마 거대한 가상 세계를 유지시키고 운용하기위한 틀로 사용되는것 같은데, 어쩌현 현실의 존재에 대한 두려움을 피하기위해 이것이 설치되었을지도 모릅니다. 아니면 단순히 오락용도일수도 있습니다."
+
+ gpm_planetary_shielding_FE:0 "몰락제국 행성 보호막"
+ gpm_planetary_shielding_FE_desc:0 "정체불명의 행성 보호막이 행성 전체를 둘러싸고 적의 미사일과 투사체등의 속도를 늦춰 행성을 보호합니다. 이 행성 보호막이 미사일이나 투사체를 정지시키지는 못하지만 그에 준하게 엄청난 운동에너지를 빼앗아 지상의 거주민들이 피난처로 갈 수 있는 최소한의 시간을 끌어주는 역할을 하고 반격을 준비할 시간을 벌어줄 것입니다. 이 행성 보호막은 복잡하지만 대칭적인 패턴을 형성하는 방식으로 지표면의 모든 부분을 안전하게 보호합니다."
+
+ gpm_living_infrastructure:0 "살아있는 기반시설"
+ gpm_living_infrastructure_desc:0 "이곳의 기반시설들은 일종의 살아있는 인공 물질이나 나노봇으로 이루어져 있는 것처럼 보입니다. 건물, 거리 등이 거주민들의 요구에따라 끊임없이 다른 형태로 변하고 있습니다. 이것이 바로 그동안 꿈꾸던 인프라 엔지니어링의 정점입니다! 사람들의 요구에 맞추기 위해 특별히 고안된 유토피아가 아닐까요?"
+
+ gpm_galactic_databanks:0 "은하 데이터뱅크"
+ gpm_galactic_databanks_desc:0 "이곳에는 수많은 데이터를 처리하고 수용할 수 있는 거대한 데이터뱅크가 있습니다. 데이터뱅크의 목적은 은하의 방대한양의 정보를 수집하는것으로 보이는데, 물질을 이루는 가장 작은 물질파로부터 이 은하에서 발견되는 모든 종류의 생명체들에 이르기까지 엄청난 양의 정보가 저장되어 있습니다."
+
+ gpm_monument_to_the_fallen:0 "과거의 전승비"
+ gpm_monument_to_the_fallen_desc:0 "지표 한가운데 성층권보다 훨씬 높은데까지 이르는 거대한 동상이 있습니다. 이 기념비적인 건물은 이 고대 문명의 전사들에게 바쳐진것같습니다.\n\n 동상의 기단부를 둘러 고대 문명의 전사들과 다른 차원에서 온것으로 보이는 적들의 치열한 전투를 아름답게 묘사한 그림이 새겨져 있습니다. 의심할 여지도 없이, 이 전사들은 억겁의 희생끝에 결국 승리하였고, 이렇게 기념비를 남겼습니다. 전사들의 적들은 이 용맹스런 고대 문명의 전사들보다 객관적으로 훨씬 강했기때문에 이 고대문명은 이후로 서서히 몰락해갔을 것입니다."
+
+ gpm_longevity:0 "연장된 수명"
+ gpm_longevity_desc:0 "최첨단 고급 의료 시설은 이 행성에 거주하는 모든 이들에게 광범위한 무료 의료 서비스를 제공합니다. 유전자 치료는 아무리 힘든 난치병이라도 말끔히 고칠 수 있으며, 이 행성에 거주하는 모든 이들의 기대 수명을 연장할 수 있었습니다."
+
+ gpm_culture_of_games:0 "경쟁전"
+ gpm_culture_of_games_desc:0 "이 곳의 문화는 경쟁적인 성격이 강한 게임 위주로 돌아갑니다. 때때로 이곳의 지역 정책 결정권은 게임 토너먼트 우승자가 가져가기도 합니다."
+
+ gpm_weather_control:0 "기후 제어"
+ gpm_weather_control_desc:0 "이 행성의 국지적인 날씨부터 전체 기후까지 이곳에 설치된 극도로 세밀한 기상 조절 첨탑에 의해 제어됩니다. 모든 바람과 한 방울의 빗방울, 한 줄기의 햇빛조차 전부 설계된 결과물입니다."
+
+ gpm_subterranean_paradise:0 "지하 낙원"
+ gpm_subterranean_paradise_desc:0 "이 행성에는 인공적인 거대 지하 도시들이 지표면 아래 가득합니다. 첨단 기후 시뮬레이션 기술을 이용해 지하에서도 지상의 생활처럼 빛, 하늘, 날씨 등을 만끽할 수 있습니다."
+
+ gpm_space_elevators:0 "우주 엘리베이터"
+ gpm_space_elevators_desc:0 "성층권보다 더 위로 뻗어있는 거대하고 우아한 엘리베이터는 행성의 저궤도까지 쉽게 접근할 수 있게 합니다."
+
+ gpm_artificial_landscaping:0 "인공 조경"
+ gpm_artificial_landscaping_desc:0 "이 행성의 지표면 대부분은 우아한 모양의 흐르는 패턴으로 디자인 되었습니다."
+
+ gpm_teleportation_systems:0 "순간이동 시스템"
+ gpm_teleportation_systems_desc:0 "이 행성에는 단거리 순간이동 기술이 적용되어 주민들은 짧은 거리를 자유자재로 순간이동 할 수 있습니다."
+ 
+ #######################################
+ #### Sublimation Modifiers
+ #######################################
+ 

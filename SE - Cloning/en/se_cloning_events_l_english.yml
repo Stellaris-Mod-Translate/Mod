@@ -1,0 +1,67 @@
+﻿l_english:
+  
+####################################
+# CLONING                        ####################################################################################################################################################################################################################################
+####################################
+
+####################################
+# CLONING Edicts
+####################################
+ edict_se_cloning_1_ruler:0 "복제 프로세스: 통치자"
+ edict_se_cloning_1_ruler_desc:0 "복제 프로세스:지배자 시작합니다. 클론은 시간이 지남에 따라 불안정해지며 유지 보수 비용이 더 많이 듭니다."
+ 
+####################################
+# CLONING Ruler: Events
+####################################
+ se_cloning.1.name:0 "복제 프로세스 시작"
+ se_cloning.1.desc:0 "우리는 위대한 통치자 §R[Root.Leader.GetName]§!를 복제 할 수 있는 도구와 기술이 있습니다."
+ se_cloning.1.a:0 "복제 프로세스를 시작해라."
+ se_cloning.1.b:0 "복제 프로세스를 중단해라."
+ se_cloning.2.name:0 "2번째 복제 프로세스 시작"
+ se_cloning.2.desc:0 "우릐의 위대한 통치자 §R[Root.Leader.GetName]§!의 1번째 클론의 수명이 거의 끝나가고 있습니다. 2번째 복제는 심리적으로 예상치 못한 문제를 일으킬 수 있습니다."
+ se_cloning.2.a:0 "복제 프로세스를 재개해라."
+ se_cloning.2.b:0 "복제 프로세스를 중단해라."
+ se_cloning.3.name:0 "3번째 복제 프로세스 시작"
+ se_cloning.3.desc:0 "다시 한 번, 우리의 위대한 통치자 §R[Root.Leader.GetName]§!의 2번째 클론의 수명이 거의 끝나가고 있습니다. 3번째 복제하면 예상치 못한 심리적 문제가 발생하여 잠재력이 저하될 수 있습니다."
+ se_cloning.3.a:0 "복제 프로세스를 재개해라."
+ se_cloning.3.b:0 "복제 프로세스를 중단해라."
+ se_cloning.4.name:0 "4번째 복제 프로세스 시작"
+ se_cloning.4.desc:0 "다시 한 번, 우리의 위대한 통치자 §R[Root.Leader.GetName]§!의  3번째 클론의 수명이 거의 끝나가고 있습니다. 4번째로 복제하면 심리적으로 문제가 악화되어 잠재력이 더욱 낮아질 수 있습니다."
+ se_cloning.4.a:0 "복제 프로세스를 재개해라."
+ se_cloning.4.b:0 "복제 프로세스를 중단해라."
+ se_cloning.5.name:0 "5번째 복제 프로세스 시작"
+ se_cloning.5.desc:0 "다시 한 번, 우리의 위대한 통치자 §R[Root.Leader.GetName]§!의 4번째 클론의 수명이 거의 끝나가고 있습니다. 다섯 번째로 복제하면 심리적으로 문제가 악화되어 잠재력이 크게 저하 될 수 있습니다."
+ se_cloning.5.a:0 "복제 프로세스를 재개해라."
+ se_cloning.5.b:0 "복제 프로세스를 중단해라."
+ se_cloning.6.name:0 "6번째 복제 프로세스 시작"
+ se_cloning.6.desc:0 "다시 한 번, 우리의 위대한 통치자 §R[Root.Leader.GetName]§!의 5번째 클론의 수명이 거의 끝나가고 있습니다. 6번째로 복제하면 심리적으로 문제가 악화되어 잠재력이 더 크게 저하 될 수 있습니다."
+ se_cloning.6.a:0 "복제 프로세스를 재개해라."
+ se_cloning.6.b:0 "복제 프로세스를 중단해라."
+ se_cloning.7.name:0 "7번째 복제 프로세스 시작"
+ se_cloning.7.desc:0 "다시 한 번, 우리의 위대한 통치자 §R[Root.Leader.GetName]§!의 여섯 번째 클론의 수명이 거의 끝나가고 있습니다. 7번째 복제는 심리적으로 문제를 악화시켜 잠재력을 더 크게 떨어뜨릴 수 있습니다."
+ se_cloning.7.a:0 "복제 프로세스를 재개해라."
+ se_cloning.7.b:0 "복제 프로세스를 중단해라."
+ se_cloning.8.name:0 "8번째 복제 프로세스 시작"
+ se_cloning.8.desc:0 "다시 한 번, 우리의 위대한 통치자 §R[Root.Leader.GetName]§!이 7번째 클론의 수명이 거의 끝나가고 있습니다..."
+ se_cloning.8.a:0 "복제 프로세스를 재개해라."
+ se_cloning.8.b:0 "복제 프로세스를 중단해라."
+
+####################################
+# CLONING Traits
+####################################
+ leader_trait_se_ruler_clone1:0 "1번째 클론"
+ leader_trait_se_ruler_clone1_desc:0 "이 통치자는 1번 복제되었습니다."
+ leader_trait_se_ruler_clone2:0 "2번째 클론"
+ leader_trait_se_ruler_clone2_desc:0 "이 통치자는 2번 복제되었습니다."
+ leader_trait_se_ruler_clone3:0 "3번째 Clone"
+ leader_trait_se_ruler_clone3_desc:0 "이 통치자는 3번 복제되었습니다."
+ leader_trait_se_ruler_clone4:0 "4번째 클론"
+ leader_trait_se_ruler_clone4_desc:0 "이 통치자는 4번 복제되었습니다."
+ leader_trait_se_ruler_clone5:0 "5번째 클론"
+ leader_trait_se_ruler_clone5_desc:0 "이 통치자는 5번 복제되었습니다."
+ leader_trait_se_ruler_clone6:0 "6번째 클론"
+ leader_trait_se_ruler_clone6_desc:0 "이 통치자는 6번 복제되었습니다."
+ leader_trait_se_ruler_clone7:0 "7번째 클론"
+ leader_trait_se_ruler_clone7_desc:0 "이 통치자는 7번 복제되었습니다."
+ leader_trait_se_ruler_clone8:0 "8번째 클론"
+ leader_trait_se_ruler_clone8_desc:0 "이 통치자는 8번 복제되었습니다."

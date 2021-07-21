@@ -1,0 +1,689 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # Naming & Tooltip Stuff
+ # Minor Survey Events
+ # Regular Survey Events
+ # Precursor Survey Events
+ #######################################
+ 
+ 
+ 
+ #######################################
+ #### Naming & Tooltip Stuff
+ #######################################
+ # unused #
+ # gpm_survey.INVESTIGATE.PRECURSOR_ARTIFACT:0 "Find §L[Root.Owner.gpm_precursor_empire_name]§! artifacts"
+ 
+ # tooltips
+ gpm_more_discovery_rewards_name:0 "사용되진 않지만 필요합니다."
+ gpm_no_discovery_rewards_name:0 "사용되진 않지만 필요합니다."
+ gpm_reward_manufactorium_ship:0 "고대의 §Y$gpm_manufactorium_ship$§!를 획득합니다. 이 함선은 내부에서 약간의 §H자원§!을 생산합니다."
+ gpm_reward_precursor_ship:0 "고대의 §Y$gpm_precursor_destroyer$§!를 획득합니다. 이 함선은 내부에서 약간의 §H연구§!를 생산합니다."
+ gpm_exotic_park_rewarded_tt:0 "§Y$gpm_building_exotic_park$§!를 건설할 수 있습니다."
+ gpm_core_prison_rewarded_tt:0 "§Y$gpm_building_core_prison$§!를 건설할 수 있습니다."
+ gpm_historian_trait_rewarded_tooltip:0 "지도자 특성 §Y$trait_gpm_historian$§!를 얻을 수 있습니다."
+ gpm_fallen_heraldry_trait_rewarded_tooltip:0 "지도자 특성 §Y$leader_trait_gpm_fallen_heraldry$§!를 얻을 수 있습니다."
+ gpm_battle_standards_trait_rewarded_tooltip:0 "지도자 특성 §Y$leader_trait_gpm_battle_standards$§!를 얻을 수 있습니다."
+ gpm_personal_mech_trait_rewarded_tooltip:0 "지도자 특성 §Y$leader_trait_gpm_personal_mech$§!를 얻을 수 있습니다."
+ gpm_enigmatic_update_rewarded:0 "§R==오류 발생==\n==미승인된 접속==§!\n§H감염됨:§! §Y$trait_gpm_enigmatic_update$§!\n§R==오류 발생==§!"
+
+ gpm_unlock_one_nano_forge_build_count:0 "이제 우리 행성 중 하나에 §G1§!개의 §Y$building_nano_forge$§!을(를) 건설할 수 있습니다."
+ gpm_unlock_one_skydome_build_count:0 "이제 우리 행성 중 하나에 §G1§!개의 §Y$building_fe_dome$§!을(를) 건설할 수 있습니다."
+ gpm_unlock_one_dimensional_fabricator_build_count:0 "이제 우리 행성 중 하나에 §G1§!개의 §Y$building_dimensional_fabricator$§!을(를) 건설할 수 있습니다."
+ gpm_unlock_one_affluence_center_build_count:0 "이제 우리 행성 중 하나에 §G1§!개의 §Y$building_affluence_center$§!을(를) 건설할 수 있습니다."
+ gpm_unlock_one_nourishment_center_build_count:0 "이제 우리 행성 중 하나에 §G1§!개의 §Y$building_nourishment_center$§!을(를) 건설할 수 있습니다."
+ gpm_unlock_one_class_4_singularity_build_count:0 "이제 우리 행성 중 하나에 §G1§!개의 §Y$building_class_4_singularity$§!을(를) 건설할 수 있습니다."
+
+
+ gpm_survey.SPACE:0 "\n--- 추가적으로: ---\n"
+ 
+ gpm_survey.EXPEDITION:0 "\n우리 과학자는 흥미로운 발견을 하거나 비밀을 해결하기를 희망하면서 과학 탐사를 이끌 것입니다.\n§E효과:§!"
+ 
+ gpm_survey_reward_deposit_megacorp:0 "\n§H면허 발견:§!\n자회사는 앞으로 §H[From.GetName]§!를 잘 활용하기 위해 허가 면허를 구입했습니다."
+ gpm_survey_reward_deposit_science:0 "\n§H과학적 발견:§!\n우리는 §H[From.GetName]§!의 과학적으로 매우 중요한 몇몇 위치를 표시했습니다"
+  
+ gpm_survey_reward_leader_xp:0 "§H과학선§! §Y[root.GetName]§!§H:§!"
+ gpm_survey_reward_empire:0 "\n§H제국:§!"
+ gpm_survey_reward_bonus:0 "\n§H추가적인 발견:§!"
+ gpm_survey_reward_new_line:0 "\n§H발견:§!"
+ gpm_survey_reward_deposit:0 "\n§H행성§! §Y[from.GetName]§!§H:§!"
+ gpm_survey_reward_energy_megacorp:0 "가치있는 상품 발견:"
+ gpm_dig_site_black_market:0 "암시장 이익:"
+ 
+ gpm_survey.MEGACORPSELL:0 "발견한 것을 최고 입찰자에게 팔아라!"
+ gpm_survey.UNBELIEVABLE:0 "믿을 수 없군."
+ gpm_survey.INSPIRING:0 "정말 흥미롭군."
+ gpm_survey.BEAUTY:0 "아름답군..."
+ gpm_survey.HORRIFYING:0 "정말 끔찍하군."
+ gpm_survey.OMEN:0 "나쁜 징조로군."
+ gpm_survey.HORROR:0 "두렵군..."
+ gpm_survey.MASSIVE:0 "거대하군..."
+ gpm_survey.NEAT:0 "깔끔하군!"
+ gpm_survey.LEAVE:0 "떠나는게 좋겠군..."
+ gpm_survey.HELL:0 "멀리서 관찰하는게 최선이겠군..."
+ gpm_survey.SEEN:0 "이상하게도 어디서 본 것 같은데..."
+ gpm_survey.INVESTIGATE.1:0 "한번 더 확인해 보도록."
+ gpm_survey.INVESTIGATE.1_CORP:0 "탐사 작업을 외주 업체에 맡겨라!"
+ gpm_survey.INVESTIGATE.1_MACH:0 "추가적인 탐사 필요."
+ gpm_survey.INVESTIGATE.2:0 "더 자세히 연구하라."
+ gpm_survey.INVESTIGATE.2_CORP:0 "과학 탐사대를 고용해라!"
+ gpm_survey.INVESTIGATE.2_MACH:0 "추가 시험 시행."
+ gpm_survey.INVESTIGATE.3:0 "추가 조사를 실시하라."
+ gpm_survey.INVESTIGATE.3_CORP:0 "초과근무 수당을 승인한다!"
+ gpm_survey.INVESTIGATE.3_MACH:0 "추가적인 스캔 필요."
+ gpm_survey.INVESTIGATE.4:0 "추가 조사가 필요하다."
+ gpm_survey.INVESTIGATE.4_CORP:0 "벌어야 할 돈이 있다고! 투자해!"
+ gpm_survey.INVESTIGATE.4_MACH:0 "우리 관심을 끌고 있음."
+ gpm_survey.INVESTIGATE.5:0 "또다른 탐사를 조직하도록."
+ gpm_survey.INVESTIGATE.5_CORP:0 "또다른 탐사에 자금을 대라!"
+ gpm_survey.INVESTIGATE.5_MACH:0 "추가적인 드론 파견."
+ gpm_survey.INVESTIGATE.6:0 "더 많은 정보가 필요하다."
+ gpm_survey.INVESTIGATE.6_CORP:0 "정보는 곧 힘이다!"
+ gpm_survey.INVESTIGATE.6_MACH:0 "추가적인 데이터 필요."
+ gpm_survey.INVESTIGATE.7:0 "흥미로운 곳이군."
+ gpm_survey.INVESTIGATE.7_CORP:0 "개발할 가치가 있는 곳이로군!"
+ gpm_survey.INVESTIGATE.7_MACH:0 "추가적인 분석이 필요한 곳임."
+ gpm_survey.INVESTIGATE.8:0 "2차 분석을 개시하라."
+ gpm_survey.INVESTIGATE.8_CORP:0 "다른 보고서를 가져와라!"
+ gpm_survey.INVESTIGATE.8_MACH:0 "추가 데이터 지점 계산."
+ gpm_survey.LICENCE_MINING:0 "채굴 권리를 팔아라!"
+ gpm_survey.LICENCE_MINING_2:0 "누가 탐욕이 좋지 않다고 그래?"
+ gpm_survey.LICENCE_MINING_3:0 "금고가 가득 차겠군!"
+ gpm_survey.LICENCE_MINING_4:0 "이 행성을 경매에 부쳐라!"
+ gpm_survey.LICENCE_MINING_5:0 "채굴 권리를 팔아라!"
+ gpm_survey.LICENCE_MINING_6:0 "채굴 권리를 경매에 부쳐라!"
+ gpm_survey.LICENCE_MINING_7:0 "그걸 우리 회사 중 하나에 팔아라!"
+ gpm_survey.LICENCE_MINING_8:0 "탐사 권리를 팔아라!"
+ gpm_survey.LICENCE_MINING_9:0 "탐사 권리를 경매에 부쳐라!"
+ gpm_survey.LICENCE_RESEARCH:0 "연구 권리를 팔아라!"
+ gpm_survey.LICENCE_RESEARCH_2:0 "돈 돈 돈!"
+ gpm_survey.LICENCE_RESEARCH_3:0 "연구와 이익을 특허 등록하라!"
+ gpm_survey.LICENCE_RESEARCH_4:0 "연구 결과를 최고 입찰자에게 팔아라!"
+ gpm_survey.LICENCE_RESEARCH_5:0 "발견물을 경매에 부쳐라!"
+ gpm_survey.LICENCE_RESEARCH_6:0 "이건 좋은 가격에 팔리겠군!"
+ gpm_survey.LICENCE_RESEARCH_7:0 "연구 권리를 경매에 부쳐라!"
+ gpm_survey.LICENCE_RESEARCH_8:0 "탐사 권리를 경매에 부쳐라!"
+ gpm_survey.LICENCE_RESEARCH_9:0 "연구를 외주 업체에 맡겨라!"
+ gpm_survey.LICENCE_RESEARCH_10:0 "탐사 권리를 팔아라!"
+ gpm_survey.RESEARCH_EMPIRE:0 "지식이 우선이다"
+ gpm_survey.RESEARCH_EMPIRE_2:0 "이해는 곧 진보로 이어진다."
+ gpm_survey.RESEARCH_EMPIRE_3:0 "발견은 그 자체로 의미가 있다."
+ gpm_survey.RESEARCH_EMPIRE_4:0 "배움으로써 성장한다."
+ gpm_survey.RESEARCH_EMPIRE_5:0 "시간이 그것의 비밀을 밝힐 것이다."
+ gpm_survey.RESEARCH_EMPIRE_6:0 "이 연구는 우리에게 도움이 될 것이다."
+ gpm_survey.RESEARCH_EMPIRE_7:0 "과학이 우리의 최우선 과제다."
+ gpm_survey.RESEARCH_EMPIRE_8:0 "이해는 시작에 불과하다."
+ gpm_survey.RESEARCH_EMPIRE_9:0 "실험에는 희생이 필요하다."
+ gpm_survey.RESEARCH_EMPIRE_10:0 "알아내야만 한다."
+ 
+ 
+ #######################################
+ #### Minor Survey Events
+ #######################################
+ # Hollow Asteroid gpm_hollow_structure
+ gpm_survey_minor.1.name:0 "비어있는 소행성"
+ gpm_survey_minor.1.desc:0 "과학선이 §H[From.solar_system.GetName]§! 성계를 조사하던 도중 이상한 소행성을 발견했습니다. §H[From.GetName]§!라 이름붙여진 이 소행성은 내부가 텅 비어있습니다. 그뿐만 아니라 마치 뭔가가 그 안으로 구멍을 파고 들어간 것처럼 작은 구멍이 나 있습니다. 혹은 그 안에서 무언가 나왔다던지요."
+ 
+ # Crystallized Asteroid gpm_crystallized_structure
+ gpm_survey_minor.5.name:0 "결정화된 소행성"
+ gpm_survey_minor.5.desc:0 "§H[From.solar_system.GetName]§! 성계의 §H[From.GetName]§!라 이름붙여진 소행성에서 특이한 수정이 돌출되어 있습니다. 과학선 §H[root.GetName]§!은 해당 수정들이 특이한 형태지만 자연적으로 구성된 흔적이 보인다고 보고했습니다. 이 소행성은 이전엔 어떤 커다란 위성의 일부였다는 설이 있습니다. 수정의 정체는 소행성이 위성의 일부분이었을 때 위성의 내부에서 강한 열과 압력을 통해 생겼다는 가설이 있습니다."
+ 
+ # Abandoned Mining Platforms gpm_abandoned_mining_platforms
+ gpm_survey_minor.10.name:0 "버려진 정거장"
+ gpm_survey_minor.10.desc:0 "§H[From.solar_system.GetName]§! 성계의 §H[From.GetName]§! 소행성에는 여러 개의 채굴 정거장이 존재하고 있습니다. 각 정거장은 쇠사슬과 고리로 연결되어 있으며, 원격으로 작동되는 채굴 드릴 팔 여러개가 붙이었습니다. 작은 격납고가 소행성 주변에 존재하며, 아마 새로 채굴된 광물을 주워담는 저장공간으로 이용된 것 같습니다. 이 소행성을 채굴하기 시작한 이들은 정거장이 거의 손상되지도 않은 상태에서 서둘러 떠난 것으로 보입니다."
+ 
+ # gpm_hydrogen_mist
+ gpm_survey_minor.15.name:0 "흘러가는 수소 안개"
+ gpm_survey_minor.15.desc:0 "§H[From.GetName]§!의 표면에선 수소로 이루어진 두꺼운 강이 흘러가는 모습을 볼 수 있습니다. 행성의 극단적인 저기압과 행성 표면 암석의 전기적 인력의 특이한 조합이 이런 우아하고, 느리게 흐르는 조밀한 수소의 강을 만들어냈습니다."
+ 
+ # gpm_salt_flats
+ gpm_survey_minor.20.name:0 "드넓은 소금 평원"
+ gpm_survey_minor.20.desc:0 "§H[From.GetName]§!의 표면에서 끝없이 펼쳐진 소금 결정 평원이 발견되었습니다. §H[From.solar_system.GetName]§! 성계의 과학선 §H[root.GetName]§!은 이 행성이 한때는 바다 행성이었을 것이라고 추측하고 있습니다. 오래 전 행성은 소금물로 덮여 있었던 흔적이 있습니다. 그러나 이 행성의 모든 수분이 어째서 사라졌는지는 알 수 없습니다. 그만한 양의 물이 사라지는 것을 설명할 수 있는 자연 현상은 없습니다. 무엇인가, 혹은 누군가가 물을 모두 제거했을 것입니다."
+ 
+ # gpm_relic_lower_levels
+ gpm_survey_minor.25.name:0 "도시 위의 도시"
+ gpm_survey_minor.25.desc:0 "§H[From.GetName]§!의 거대한, 끝없는 도시의 일부분이 무너지며 사실 이곳은 더 오래된 도시의 위에 건설된 도시 행성의 최상층부라는 것을 보여줍니다. 원래 존재하던 도시를 파괴하거나 개수하는 대신, 그 위에 그냥 새로운 도시와 거대한 정거장을 건설한 것입니다! 아무리 좋게 보더라도, 터무니없고 미친 짓에 불과합니다."
+ 
+ # gpm_water_pockets
+ gpm_survey_minor.30.name:0 "우리가 알지 못하는 생물이 있습니다!"
+ gpm_survey_minor.30.desc:0 "H[From.solar_system.GetName]§! 성계의 §H[From.GetName]§!의 지하 동굴에는 흐르는 물과 미량의 배설물이 발견되었습니다. 이 죽은 행성에는 우리가 알지 못하는 생명체가 살고 있는 것 같습니다. 지금까지 우리를 교묘히 피해다닌 것으로 보입니다."
+ gpm_survey_minor.MEGACORPSELL_DUNG:0 "배설물을 팔아라!"
+ 
+ # gpm_geometrical_polar_storm
+ gpm_survey_minor.35.name:0 "각진 폭풍"
+ gpm_survey_minor.35.desc:0 "H[From.solar_system.GetName]§!의 탐사는 §H[root.GetName]§!의 아름다운 극지 폭풍의 발견으로 예정보다 느리게 진행되고 있습니다. 그 폭풍은 완벽한 오각형의 모양입니다. 행성의 독특한 압력과 풍속은 이 끝없는 폭풍을 기하학적 모양으로 만들어냈습니다."
+ 
+ # gpm_floating_forest
+ gpm_survey_minor.40.name:0 "떠다니는 나무"
+ gpm_survey_minor.40.desc:0 "거대 가스 행성 §H[From.GetName]§!의 심층 탐사 결과, 지금껏 발견되지 않았던 새로운 이상현상을 찾아냈습니다. 이 거대 가스 행성의 상층부에 작은 식물들이 포함된 포자주머니가 떠다니고 있습니다. 뿌리와 초목이 있는 작은 섬은 대부분 나무의 형태를 띄고 있습니다. 잎과 가지는 크고 가벼우며, 바람이 불어옴에 따라 흔들립니다. 꽃들은 크고, 반투명한 가는 풍선의 모양을 하고 있습니다. 떠다니는 거대한 잎은 소량의 햇빛과 헹성 내부의 다양한 화학 물질을 흡수하고 있습니다"
+ 
+ # gpm_viscous_gas_layer
+ gpm_survey_minor.45.name:0 "기체인가 액체인가"
+ gpm_survey_minor.45.desc:0 "§H[From.GetName]§! 행성의 대기는 너무 밀도가 높아 액체의 흐름과 유사한 흐름을 보입니다. 거대 가스 행성이 이정도로 밀집된 가스를 가지는 것은 극히 드물지만 불가능한 일은 아닙니다. 고중력과 매우 빠른 행성의 자전, 그리고 거대 가스 행성 대기의 극한의 반동작용이 이 특이한 현상의 원인이라고 생각됩니다."
+ 
+ # gpm_everlasting_tornadoes
+ gpm_survey_minor.50.name:0 "영원한 소용돌이"
+ gpm_survey_minor.50.desc:0 "§H[From.solar_system.GetName]§!성계의 거대 가스 행성인 §H[From.GetName]§!의 대기권 깊숙한 곳에서 극도로 오래 지속되고 있는 맹렬한 소용돌이를 발견했습니다. 이 거대한 소용돌이는 행성의 자전 방향과는 반대로, 자전속도와는 거의 동일하게 움직이고 있는데, 이런 이유로 이 현상이 움직이지 않는 것처럼 보입니다. 조사를 위해 이 소용돌이 위에 과학선 §H[root.GetName]§!이 있는 동안에도 이런 소용돌이가 사라지는 것을 본 적이 없습니다. 이 현상은 영원히 지속될 듯 보입니다."
+ 
+ # gpm_shrinking_giant
+ gpm_survey_minor.55.name:0 "소형 가스행성"
+ gpm_survey_minor.55.desc:0 "§H[From.solar_system.GetName]§!성계에서 유별리 작은 가스 행성인 §H[root.GetName]§!를 발견했습니다. 조사 결과 항성에서 나온 강렬한 태양풍에 의해 수백만년 동안 거대 가스행성의 대기 외부층과 중간층이 소실된 것이 원인인 것 같습니다."
+ 
+ # gpm_aeroplankton_clouds
+ gpm_survey_minor.60.name:0 "생명의 구름"
+ gpm_survey_minor.60.desc:0 "거대 가스 행성인 §H[From.GetName]§!를 보면 멀리서도 커다란 녹색 구름이 보입니다. 이 선명한 녹색은 백색-노란색 및 촘촘한 갈색 가스 띠와는 너무나도 대조적입니다. §H[From.solar_system.GetName]§!성계를 조사하던 과학선 §H[root.GetName]§!이 이 녹색 구름들이 실제로 생명체라는 사실을 발견했습니다! 이 작은 플랑크톤 같은 생명체들은 거대 가스 행성의 상층 대기를 떠다니면서 가스와 햇빛을 흡수하며 증식합니다."
+ 
+ # gpm_abandoned_refineries
+ gpm_survey_minor.65.name:0 "버려진 구름 정제소"
+ gpm_survey_minor.65.desc:0 "§H[From.GetName]§!에서의 심층 반향 스캔을 진행한 과학선 §H[root.GetName]§!은 상층 대기에 떠 있는 다양한 구조물을 발견했습니다. 정제소로 추정되는 일련의 버려진 구조물은 자율적으로 하층의 가스를 빨아들여 고체로 가공하고 그 물질을 거대한 탱크에 저장하는 것 같았습니다. 현재 구조물에 있는 탱크는 과도하게 저장된 물질의 압력으로인해 터지고 부서진 것처럼 보입니다. 아마도 정제소 몇 군데에서 자원의 일부를 회수할 수 있을 것 같습니다."
+ 
+ # gpm_floating_kelp
+ gpm_survey_minor.70.name:0 "떠다니는 해초"
+ gpm_survey_minor.70.desc:0 "거대 가스 행성인 §H[From.GetName]§!의 상층 대기에는 해초같은 모양의 식물군이 떠 다닙니다. 이 떠다니는 해초는 수백미터 길이로, 수액이 가득 찬 중앙의 줄기 주위에 거대한 잎이 빽빽하게 감겨 있습니다. 이 줄기는 잎에서 흡수된 기체를 햇빛을 통해 영양분으로 바꾸는 반투명한 뿌리로 쉽게 운반하는 것처럼 보입니다."
+ 
+ # gpm_super_heated_atmosphere
+ gpm_survey_minor.75.name:0 "뜨거운 가스행성"
+ gpm_survey_minor.75.desc:0 "거대 가스행성 §H[From.GetName]§!의 온도는 다른 가스행성보다 몇 배는 더 높습니다. 알려지지 않은 물질로 이루어진 고밀도의 핵이 많은 열을 발생시키고 있는 것으로 보입니다. 행성의 대기는 너무나도 뜨거워서 핵을 연구하기 위한 탐사선이 도달하는 것 조차 불가능합니다."
+ 
+ # gpm_floatig_behemothaurs
+ gpm_survey_minor.80.name:0 "고대의 거대 생명체"
+ gpm_survey_minor.80.desc:0 "§H[From.solar_system.GetName]§! 성계의 §H[From.GetName]§! 행성 상층 대기로 가끔 올라오는 것은 고대의 거대 생명체입니다. 이 초지능 생물들은 수백만년 전부터 공생동물들과 전체 생태계의 서식처로서의 역할을 해 왔습니다. 공생하는 생물들 중 일부는 이 거대 생물체의 몸 안의 특별한 공간에서 직접적으로 연결되어 숙주와 정보를 공유합니다. 어떤 동물들은 가끔씩 통역사 역할을 부여받는데, 이는 지능이 있는 방문 종족들과 거대 생물 사이의 연결고리 역할을 합니다."
+ 
+ # gpm_magma_ocean
+ gpm_survey_minor.85.name:0 "용암 바다"
+ gpm_survey_minor.85.desc:0 "§H[From.solar_system.GetName]§! 성계 내부의 §H[From.GetName]§! 행성에는 끝없이 펼쳐진 용암 바다가 있습니다. 심층 반향 스캔 결과 이 지역에서 행성의 핵 일부가 완전히 노출되어 있다는 사실을 나타내며, 이는 마그마가 어떻게 지속적으로 뜨거운 액체 상태를 유지할 수 있는지를 설명해줍니다."
+ 
+ # gpm_heavy_elements
+ gpm_survey_minor.90.name:0 "필수 원소"
+ gpm_survey_minor.90.desc:0 "§H[From.GetName]§! 행성의 중심부 깊은 곳에서의 이상한 현상은 많은 광물과 화학물질을 융합하고 반응시켜 매우 희귀한 중원소를 생성하는 결과를 낳았습니다. 또한, 끊임없는 지각 활동은 그것들의 대부분을 행성 표면 쪽으로 밀어냈습니다. 적절한 장비만 있다면 우리 채굴 작업에 좋은 보탬이 될 것입니다."
+ 
+ # gpm_rare_metals
+ gpm_survey_minor.95.name:0 "귀중한 금속"
+ gpm_survey_minor.95.desc:0 "§H[From.solar_system.GetName]§! 성계는 현재 매우 안정된 성계입니다. 그러나 수십억년 전만 해도 다른 별이 이곳에 있었을 때는 그렇지 않았습니다. 이 다른 별의 죽음으로 많은 희귀한 금속들이 형성되었고, 이 작은 금속들이 합쳐져 원시 행성이 되었습니다. 이 행성은 현재 §H[From.GetName]§!이라 불리고 있으며, 상당한 양의 귀중한 자원을 가지고 있습니다."
+ 
+ # gpm_proto_planet
+ gpm_survey_minor.100.name:0 "원시 행성"
+ gpm_survey_minor.100.desc:0 "과학선 §H[root.GetName]§!의 §H[root.prev.GetName]§!의 보고에 따르면 행성 §H[From.GetName]§!은 원시 행성입니다. 원시 행성은 거의 수백만년 전에 형성된, 아주 어린 행성을 뜻합니다. 이 행성은 동일 성계의 다른 행성들에 비해 훨씬 최근에 형성되었습니다. 어째서 비교적 최근에 행성이 형성되었는지는 정확히 할 수 없으며, 조사할 가치가 있습니다."
+ 
+ # gpm_flat_terrain or gpm_flat_terrain_nb
+#  gpm_survey_minor.105.name:0 "Flatter Than Flat"
+#  gpm_survey_minor.105.desc:0 "captain we found cool space shit"
+ # gpm_old_world or gpm_old_world_nb 
+ gpm_survey_minor.110.name:0 "오래된 곳"
+ gpm_survey_minor.110.desc:0 "§H[From.GetName]§!의 묻히고 노후화된 건물에서는 잊혀진 문명이 살아가고 있었습니다. 이 문명이 칼과 창의 시대를 넘어선 적이 없다고 생각되지만 어느 정도까지 발전했는지는 불분명합니다. 부서진 큰 석조 건물과 반쯤 묻혀 있는 궁전 그리고 무너진 성벽 등은 발견되었지만 강철이나 그 어떤 진보한 건축 자재의 흔적은 발견되지 않았습니다. 이러한 젊은 문명이 어떻게 사라졌는지는 불분명합니다."
+ 
+ # gpm_solidified_core
+ gpm_survey_minor.115.name:0 "죽은 행성"
+ gpm_survey_minor.115.desc:0 "과학선 §H[root.GetName]§!이 §H[From.GetName]§! 행성에 대한 조사 절차의 일환으로 구조 스캔을 진행하였습니다. 스캔 이후 이 행성이 죽었다는 한 가지 결과만을 얻을 수 있었습니다. 행성의 핵은 완전히 식어버려 고밀도의 철과 마그네슘의 공이 되어 버렸으며, 가장 진보한 기술을 가진 문명일지라도 이 행성을 테라포밍하는것은 불가능하다는 것이 학계의 정설입니다."
+ 
+ # gpm_subterranean_eco_system
+ gpm_survey_minor.120.name:0 "생명은 언제나 답을 찾는다"
+ gpm_survey_minor.120.desc:0 "§H[From.GetName]§!에서 거의 밀봉된 대형 동굴망이 발견되었습니다. 이 동굴은 우리 탐사드론이 광물과 토양의 연구를 위해 행성의 표면을 뚫고 들어갔다가 우연히 발견했습니다. 놀라운 점은 이곳에 생명체로 가득 차 자급자족이 가능한 생태계가 이 지하에 있었다는 것입니다. 이 행성은 과거에 분명 더 많고 다양한 생물의 터전이었을 것입니다."
+ 
+ # gpm_plasma_tornadoes
+ gpm_survey_minor.125.name:0 "소용돌이치는 플라즈마"
+ gpm_survey_minor.125.desc:0 "항성 §H[From.GetName]§!에서 발생한 특이한 활성 코로나 방출은 §H[From.solar_system.GetName]§! 성계의 항성이 플레어를 통해 물질을 배출할 때 마다 새로운 항성이 만들어지도록 돕습니다. 자력권의 거대한 지역적 붕괴는 입자와 플라즈마를 소용돌이치는 방식으로 항성으로 집어넣으며, 거대하고 느린 회전하는 플라즈마 덩어리를 형성시킵니다."
+ 
+ # gpm_singing_star
+ gpm_survey_minor.130.name:0 "별의 오페라"
+ gpm_survey_minor.130.desc:0 "§H[From.GetName]§!를 스캔하는 동안 과학선의 선내 컴퓨터는 항성이 발산하는 무선 주파수 신호에서 반복 패턴을 빠르게 감지했습니다. 한 공학자는 이 패턴들 중 일부를 음악으로 인식하고 특정한 기구를 통해 반복 패턴을 변환하여 꽤 독특한 소리를 낼 수 있었습니다. 이 패턴의 녹음은 꽤 아름다운 음악을 만들어냈으며, 제대로 된 장비만 있다면 별의 노래를 실제로 들을 수 있습니다!"
+ 
+ # gpm_precursor_star_filter
+ gpm_survey_minor.135.name:0 "우주의 미러볼"
+ gpm_survey_minor.135.desc:0 "§H[From.GetName]§!의 주위로 수백만 개의 거대한 투명 패널들이 각기 다른 궤도로 공전하고 있습니다. 각 궤도의 패널들은 §H[From.solar_system.GetName]§!성계의 행성에서 관측할 경우 서로 다른 파장의 빛을 관측할 수 있도록 특정 파장의 빛을 차단하고 있습니다. 이 아름다운 광경과 눈부신 공학적 위업은 오직 최첨단의 외계 문명의 작품임에 틀림없습니다."
+ 
+ # gpm_lingering_pollution
+ gpm_survey_minor.140.name:0 "유독성 매연"
+ gpm_survey_minor.140.desc:0 "§H[From.GetName]§!의 대기는 다양한 온실가스로 인해 심하게 오염되어 있습니다. 이 행성 표면 곳곳에 버려진 대규모의 시설이 이 오염의 원인이었던 것으로 보입니다. 행성을 이런 식으로 만든 문명이 어떤 문명이든지 무책임한 문명이었던 것은 틀림없습니다. 우주적 창피입니다!"
+ 
+ # gpm_decaying_structures
+ gpm_survey_minor.145.name:0 "잊힌 유적"
+ gpm_survey_minor.145.desc:0 "§H[From.solar_system.GetName]§! 성계의 §H[From.GetName]§!에서 몇 개의 유적이 발견되었습니다. 대부분의 유적은 매몰되어있고 풍화되어 사라지지 않은 유적은 거의 알아볼 수 없습니다. 유적에는 다양한 그림과 글이 묘사되어 있는데, 대부분은 유적에 살던 자들의 문화에 대한 기록입니다. 모든 묘사에는 '우리를 기억하라.'라는 공통의 주제가 있었습니다. 이 문명은 그들이 멸망하고 있다는 것을 알고 있었던 것 같고 기억되기를 원하고 있었습니다. 그러나 수백만년 동안 아무도 찾지 못한 것 같습니다."
+ gpm_survey_minor.145.a:0 "우리가 기억하자."
+ 
+ # gpm_heavy_metal_coral
+ gpm_survey_minor.150.name:0 "금속 산호"
+ gpm_survey_minor.150.desc:0 "§H[From.GetName]§!에서 금속 재질의 산호로 뒤덮인 암초들이 관찰되었습니다. 금속이 풍부한 대양저는 엄청난 수압을 견딜 수 있는 극도로 강력하고 활기있는 색깔의 산호를 만들어냈습니다. 그래서 금속 산호는 거의 대부분의 해저에서 관찰됩니다."
+ 
+ # gpm_decomposing_leviathan
+ gpm_survey_minor.155.name:0 "마지막 안식처"
+ gpm_survey_minor.155.desc:0 "거대한 레비아탄이 마지막 안식처였던 §H[From.GetName]§!에서 죽은 채 발견되었습니다. 이 웅장하고 위험해 보이는 생물은 훨씬 더 거대한 괴물로 보이는 것에 공격받았습니다. 신체의 옆쪽과 뒷쪽에서 큰 손상이 발견되었습니다. 아마 이 행성 대기에 숨으려다가 결국 실패했을 것입니다."
+ 
+ # gpm_giant_mold_blobs
+ gpm_survey_minor.160.name:0 "거대 곰팡이 포자낭"
+ gpm_survey_minor.160.desc:0 "§H[From.solar_system.GetName]§! 성계의 §H[From.GetName]§!에서 거대 균류의 포자낭이 자라고 있는 것이 보입니다. 옅은 회색을 띄는 이 포자낭은 토양 위층의 광물과 금속을 소비하고 있는 것처럼 보입니다. 포자낭들은 자주 대기로 수조개의 포자를 방출하며 터졌습니다."
+ 
+ # gpm_toxic_garbage or gpm_garbage_dump
+ gpm_survey_minor.165.name:0 "다른 누군가의 문제"
+ gpm_survey_minor.165.desc:0 "일부 무신경한 문명이 §H[From.GetName]§!를 유독성 폐기물 처리장으로 사용한 것 같습니다. 수십억 톤의 방사성, 부식성, 독성 금속과 화학물질들이 이 행성에 버려졌습니다. 대부분의 폐기물 투기는 궤도에서 이루어졌을 것이며, 폐기물이 행성 전체에 널려 있어 이것을 치우는 일은 불가능합니다."
+ 
+ #######################################
+ #### Regular Survey Events
+ #######################################
+ gpm_survey.REWARDS.HOLYWORLD_TT:0 "§H[Prev.GetName]§!에 탑승한 탐사 팀은 그들이 조사하던 행성의 놀라운 특징을 보고해왔습니다. \n\n이 행성에는 마치 다른 이들의 접근을 거부하고 경고하는 듯한 표식이 세워져 있습니다. \n그들은 이 표식을 자세히 조사하려 했지만, 그들 중 한 명이 넘어져 이 표식들에 전원을 공급하는 버튼을 눌러 버렸습니다! \n이제 무슨 일이 일어날 지 알 수 없습니다..."
+ gpm_survey.REWARDS.HIVESHIP_TT:0 "§H[Prev.GetName]§!에 탑승한 탐사 팀들은 그들이 조사하던 행성의 놀라운 특징을 보고해왔습니다 .\n\n그들은 이 행성에서 아직 살아있는 생명체가 담긴 배양 챔버를 발견했습니다. 그들은 처음에 그 챔버가 생물학 연구의 목적으로 건설된 줄 알았지만, 이 가설은 그들이 가까이에 접근했을 때 깨졌습니다. \n배양 챔버의 덮개가 깨지고, 물컹물컹한 두꺼운 보라색 무언가가 새어나와 그들에게 날아갔습니다! \n\n다행히도 이 괴생명체들은 우리 과학자들에게 적대적이지 않았으며, 오히려 그들에게 일종의 애정을 느끼고 있는 것 같습니다."
+ gpm_survey.communicationTT:0 "우리는 §E선구자 통신 허브§!를 사용하여 아주 먼 곳의 발신지와 성공적으로 접촉하는 데 성공했습니다!"
+ gpm_survey.randomdepositsTT:0 "추가적인 §Y행성 특징§!이 이 행성에 추가됩니다."
+ gpm_survey.mechsTT:0 "§L버려진 메카 격납고를 탐사하는 도중, 원정대들은 실수로 두 개의 메카를 작동시켜 버렸습니다. 다행히 그들은 적대적이지 않으며, 오히려 우리의 명령을 기다리는 것 같습니다.§!\n두 기의 §E고대문명의 메카§!를 얻습니다."
+ gpm_survey.holyplanetTT:0 "§Y성지 행성§! 모디파이어가 제거됩니다.\n§Y훼손당한 성지 행성§! 모디파이어가 추가됩니다."
+ gpm_survey.hiveshipTT:0 "세 척의 §Y생체 함선§!을 획득합니다."
+
+ # discovery reward BIOLOGICAL
+ gpm_survey.REWARD:0 "§H[Prev.GetName]§!에 탑승한 탐사 팀은 그들이 조사하던 행성의 놀라운 특징을 보고해왔습니다. \n\n과학자 §H[Prev.GetLeaderName]§!(은)는 그들이 이 독특한 행성을 탐사해 몇 가지 추가적인 발견을 해냈다고 보고했습니다! 이 새로운 발견은 우주에 대한 우리의 이해를 크게 넓힐 것입니다.\n"
+
+ # discovery reward MACHINE
+ gpm_survey.REWARD.mach:0 "§H[Prev.GetName]§!에 탑승한 탐사 팀은 그들이 조사하던 행성의 놀라운 특징을 보고해왔습니다. \n\n과학자 §H[Prev.GetLeaderName]§!(은)는 그들이 이 독특한 행성을 탐사해 몇 가지 추가적인 발견을 해냈다고 보고했습니다! 이 새로운 발견은 우주에 대한 우리의 이해를 크게 넓힐 것입니다.\n"
+ 
+ # refers to the planet modifier: "Very Hot Core"
+ gpm_survey.2.name:0 "발견: 초고온의 핵"
+ gpm_survey.2.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학자 §H[From.GetLeaderName]§!는 탐사 도중 이 행성의 핵이 믿을수 없을 정도로 뜨겁고, 이로 인해 표면 온도도 높다는 사실을 발견했습니다. 이 행성에 대한 지각학과 지질학적 상호작용을 더 잘 이해하기 위해서는 더 많은 연구가 필요할 것입니다."
+ # hive mind
+ gpm_survey.2.hive.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학 드론 §H[From.GetLeaderName]§!는 탐사 도중 이 행성의 핵이 믿을수 없을 정도로 뜨겁고, 이로 인해 표면 온도도 높다는 사실을 발견했습니다. 이 행성에 대한 지각학과 지질학적 상호작용을 더 잘 이해하기 위해서는 더 많은 연구가 필요할 것입니다."
+ # machine empire
+ gpm_survey.2.mach.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학 유닛 §H[From.GetLeaderName]§!는 탐사 도중 이 행성의 핵이 믿을수 없을 정도로 뜨겁고, 이로 인해 표면 온도도 높다는 사실을 발견했습니다. 이 행성에 대한 지각학과 지질학적 상호작용을 더 잘 이해하기 위해서는 더 많은 연구가 필요할 것입니다."
+ 
+ gpm_survey.2.c:0 "추가적인 조사를 진행하도록."
+ gpm_survey.2.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_TERRAFORM_1$"
+ 
+ gpm_survey.3.name:0 "발견: 핵에 대한 더 깊은 이해"
+ gpm_survey.3.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학자 §H[From.GetLeaderName]§!는 탐사 도중 또다른 흥미로운 발견을 했습니다.\n평균 이상의 핵 온도를 보이지만, 판 아래 쌓이는 압력을 주기적으로 분출하는 거대 화산으로 인해 안정된 지각판을 보이는 행성입니다. 이와같은 고온의 핵이 주위의 금속 멘틀과 어떻게 상호작용하는지를 알아보기 위해 더 많은 연구가 필요할 것입니다."
+ 	# hive mind
+ gpm_survey.3.hive.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학 드론 §H[From.GetLeaderName]§!는 탐사 도중 또다른 흥미로운 발견을 했습니다.\n평균 이상의 핵 온도를 보이지만, 판 아래 쌓이는 압력을 주기적으로 분출하는 거대 화산으로 인해 안정된 지각판을 보이는 행성입니다. 이와같은 고온의 핵이 주위의 금속 멘틀과 어떻게 상호작용하는지를 알아보기 위해 더 많은 연구가 필요할 것입니다."
+ 	# machine empire
+ gpm_survey.3.mach.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학 유닛 §H[From.GetLeaderName]§!는 탐사 도중 또다른 흥미로운 발견을 했습니다.\n평균 이상의 핵 온도를 보이지만, 판 아래 쌓이는 압력을 주기적으로 분출하는 거대 화산으로 인해 안정된 지각판을 보이는 행성입니다. 이와같은 고온의 핵이 주위의 금속 멘틀과 어떻게 상호작용하는지를 알아보기 위해 더 많은 연구가 필요할 것입니다."
+ 
+ gpm_survey.3.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_TERRAFORM_2$"
+ 
+ gpm_survey.4.name:0 "발견: 테라포밍 드림"
+ gpm_survey.4.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학자 §H[From.GetLeaderName]§!는 탐사 도중 또다른 흥미로운 발견을 했습니다.\n이 행성은 스캔하는데 적합한 지각 밀도를 가지고 있어서 핵 인근의 유체 상호작용을 완전히 파악할 수 있었습니다.\n데이터에 따르면 고밀도의 금속성 핵 주위에는 녹은 암석과 광물이 한 겹이 아니라 두 겹으로 뚜렷이 층을 이루고 있었습니다. 안쪽 층은 예상대로 고밀도의 금속 핵 주위를 흐르면서 자기장을 형성하는 정상적인 움직임을 보이는 반면, 바깥쪽 층은 훨씬 느린 속도로 안쪽 층의 반대 방향으로 흐르는 것 처럼 보입니다.\n이는 독특한 대류 흐름을 만들어내어 행성을 불완전한 지질학적 재앙으로 만드는 것을 막아 줍니다."
+ 	# hive mind
+ gpm_survey.4.hive.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학 드론 §H[From.GetLeaderName]§!는 탐사 도중 또다른 흥미로운 발견을 했습니다.\n이 행성은 스캔하는데 적합한 지각 밀도를 가지고 있어서 핵 인근의 유체 상호작용을 완전히 파악할 수 있었습니다.\n데이터에 따르면 고밀도의 금속성 핵 주위에는 녹은 암석과 광물이 한 겹이 아니라 두 겹으로 뚜렷이 층을 이루고 있었습니다. 안쪽 층은 예상대로 고밀도의 금속 핵 주위를 흐르면서 자기장을 형성하는 정상적인 움직임을 보이는 반면, 바깥쪽 층은 훨씬 느린 속도로 안쪽 층의 반대 방향으로 흐르는 것 처럼 보입니다.\n이는 독특한 대류 흐름을 만들어내어 행성을 불완전한 지질학적 재앙으로 만드는 것을 막아 줍니다."
+ 	# machine empire
+ gpm_survey.4.mach.desc:0 "과학선 §H[From.GetName]§!에 탑승한 과학 유닛 §H[From.GetLeaderName]§!는 탐사 도중 또다른 흥미로운 발견을 했습니다.\n이 행성은 스캔하는데 적합한 지각 밀도를 가지고 있어서 핵 인근의 유체 상호작용을 완전히 파악할 수 있었습니다.\n데이터에 따르면 고밀도의 금속성 핵 주위에는 녹은 암석과 광물이 한 겹이 아니라 두 겹으로 뚜렷이 층을 이루고 있었습니다. 안쪽 층은 예상대로 고밀도의 금속 핵 주위를 흐르면서 자기장을 형성하는 정상적인 움직임을 보이는 반면, 바깥쪽 층은 훨씬 느린 속도로 안쪽 층의 반대 방향으로 흐르는 것 처럼 보입니다.\n이는 독특한 대류 흐름을 만들어내어 행성을 불완전한 지질학적 재앙으로 만드는 것을 막아 줍니다."
+ 
+ gpm_survey.4.a:0 "유레카!"
+ gpm_survey.4.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_TERRAFORM_3$"
+ 
+ # gaia world
+ gpm_survey.18.name:0 "발견: 가이아 행성"
+ gpm_survey.18.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 질소와 산소 기반의 대기로 둘러싸인 행성이며 복원력이 뛰어난 생태계를 가진 이상적이고 온화한 기후의 행성입니다. 이곳은 모든 위도에서 거의 대부분의 생명체가 살아갈 수 있는 행성입니다."
+ 	# hive mind
+ gpm_survey.18.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 질소와 산소 기반의 대기로 둘러싸인 행성이며 복원력이 뛰어난 생태계를 가진 이상적이고 온화한 기후의 행성입니다. 이곳은 모든 위도에서 거의 대부분의 생명체가 살아갈 수 있는 행성입니다."
+ 	# machine empire
+ gpm_survey.18.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 질소와 산소 기반의 대기로 둘러싸인 행성이며 복원력이 뛰어난 생태계를 가진 이상적이고 온화한 기후의 행성입니다. 이곳은 모든 위도에서 거의 대부분의 생명체가 살아갈 수 있는 행성입니다."
+ gpm_survey.18.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_GAIA$"
+ 
+ # holy planet
+ gpm_survey.19.name:0 "발견: 이상한 행성"
+ gpm_survey.19.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 겉으로 보기에는 꽤 정상적인 것처럼 보이지만, 어딘가 부자연스러운 요소들이 있습니다. 그것은 마치 보석으로 만들어진 것처럼 빛나고 있는 다양한 크기와 모양의 돌들이 표면에 무작위가 아닌 패턴으로 펼쳐져 있는 것입니다. 선원들 중 일부는 이 돌들이 무슨 의미가 있는지 궁금해하고 있습니다. 그 중에서는 멀리하라는 경고의 표시인지 의아해하는 시선도 있었습니다."
+ 	# hive mind
+ gpm_survey.19.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 겉으로 보기에는 꽤 정상적인 것처럼 보이지만, 어딘가 부자연스러운 요소들이 있습니다. 그것은 마치 보석으로 만들어진 것처럼 빛나고 있는 다양한 크기와 모양의 돌들이 표면에 무작위가 아닌 패턴으로 펼쳐져 있는 것입니다. 선원들 중 일부는 이 돌들이 무슨 의미가 있는지 궁금해하고 있습니다. 그 중에서는 멀리하라는 경고의 표시인지 의아해하는 시선도 있었습니다."
+ 	# machine empire
+ gpm_survey.19.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 겉으로 보기에는 꽤 정상적인 것처럼 보이지만, 어딘가 부자연스러운 요소들이 있습니다. 그것은 마치 보석으로 만들어진 것처럼 빛나고 있는 다양한 크기와 모양의 돌들이 표면에 무작위가 아닌 패턴으로 펼쳐져 있는 것입니다. 선원들 중 일부는 이 돌들이 무슨 의미가 있는지 궁금해하고 있습니다. 그 중에서는 멀리하라는 경고의 표시인지 의아해하는 시선도 있었습니다."
+ gpm_survey.19.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_HOLY_PLANET$"
+ 
+ # floating islands
+ gpm_survey.20.name:0 "발견: 부유섬"
+ gpm_survey.20.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 섬들은 아름답게 보이지만, 공중에 떠다니는 점이 너무 특이해서 종래의 논리에 어긋납니다. 이 행성의 어떤 광물이나 물질이 커다란 바위가 공중을 떠다니게 하고, 그것들이 모여 부유섬을 형성하는 것 같습니다. 그것은 땅으로부터 수미터에서 수백미터 떨어진 곳에 떠 있습니다."
+ 	# hive mind
+ gpm_survey.20.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 섬들은 아름답게 보이지만, 공중에 떠다니는 점이 너무 특이해서 종래의 논리에 어긋납니다. 이 행성의 어떤 광물이나 물질이 커다란 바위가 공중을 떠다니게 하고, 그것들이 모여 부유섬을 형성하는 것 같습니다. 그것은 땅으로부터 수미터에서 수백미터 떨어진 곳에 떠 있습니다."
+ 	# machine empire
+ gpm_survey.20.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 섬들은 아름답게 보이지만, 공중에 떠다니는 점이 너무 특이해서 종래의 논리에 어긋납니다. 이 행성의 어떤 광물이나 물질이 커다란 바위가 공중을 떠다니게 하고, 그것들이 모여 부유섬을 형성하는 것 같습니다. 그것은 땅으로부터 수미터에서 수백미터 떨어진 곳에 떠 있습니다."
+ gpm_survey.20.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_FLOATING_ISLANDS$"
+ 
+ # ruined battlefield
+ gpm_survey.21.name:0 "발견: 전장의 폐허"
+ gpm_survey.21.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n과학선의 스캐너에는 온 행성에 걸쳐있는 다양한 손상이 간 지형과 폐허들을 감지하고 있습니다. 어떤 거대한 행성 규모의 전쟁이 벌어졌던 것 같습니다. 지표면은 우리 문명이 행성 전투에 사용하기에는 너무 파괴적이라고 생각했던 무기에 의해 영구적으로 손상되어 있으며, 한때는 도시였던 것으로 추정되는 거대한 분화구만이 있습니다. 그리고 각종 폐허, 무기, 녹슨 항공기와 전차, 그리고 로봇들의 잔해 속에서 우리 과학자들은 헤아릴 수 없이 많은 시체들을 발견했습니다. 수십억 명이 이 황폐한 행성에서 목숨을 잃었을 것입니다."
+ 	# hive mind
+ gpm_survey.21.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n과학선의 스캐너에는 온 행성에 걸쳐있는 다양한 손상이 간 지형과 폐허들을 감지하고 있습니다. 어떤 거대한 행성 규모의 전쟁이 벌어졌던 것 같습니다. 지표면은 우리 문명이 행성 전투에 사용하기에는 너무 파괴적이라고 생각했던 무기에 의해 영구적으로 손상되어 있으며, 한때는 도시였던 것으로 추정되는 거대한 분화구만이 있습니다. 그리고 각종 폐허, 무기, 녹슨 항공기와 전차, 그리고 로봇들의 잔해 속에서 우리 과학자들은 헤아릴 수 없이 많은 시체들을 발견했습니다. 수십억 명이 이 황폐한 행성에서 목숨을 잃었을 것입니다."
+ 	# machine empire
+ gpm_survey.21.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n과학선의 스캐너에는 온 행성에 걸쳐있는 다양한 손상이 간 지형과 폐허들을 감지하고 있습니다. 어떤 거대한 행성 규모의 전쟁이 벌어졌던 것 같습니다. 지표면은 우리 문명이 행성 전투에 사용하기에는 너무 파괴적이라고 생각했던 무기에 의해 영구적으로 손상되어 있으며, 한때는 도시였던 것으로 추정되는 거대한 분화구만이 있습니다. 그리고 각종 폐허, 무기, 녹슨 항공기와 전차, 그리고 로봇들의 잔해 속에서 우리 과학자들은 헤아릴 수 없이 많은 시체들을 발견했습니다. 수십억 명이 이 황폐한 행성에서 목숨을 잃었을 것입니다."
+ gpm_survey.21.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_BATTLEFIELD$"
+ 
+ # spaceship graveyard
+ gpm_survey.22.name:0 "발견: 함선 무덤"
+ gpm_survey.22.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n과학선의 스캐너는 행성 표면에 퍼져있는 다양한 합금과 화학물질을 대량으로 감지하고 있습니다. 함선의 잔해는 궤도에서 볼 수 있을 정도로 거대합니다. 거대한 전투가 한때 행성 위에서 펼쳐졌음에 틀림없고, 이제 지표면 위에는 한때 하늘을 지배했던 녹슨 함선의 파편이 어지럽게 널려 있습니다."
+ 	# hive mind
+ gpm_survey.22.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n과학선의 스캐너는 행성 표면에 퍼져있는 다양한 합금과 화학물질을 대량으로 감지하고 있습니다. 함선의 잔해는 궤도에서 볼 수 있을 정도로 거대합니다. 거대한 전투가 한때 행성 위에서 펼쳐졌음에 틀림없고, 이제 지표면 위에는 한때 하늘을 지배했던 녹슨 함선의 파편이 어지럽게 널려 있습니다."
+ 	# machine empire
+ gpm_survey.22.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n과학선의 스캐너는 행성 표면에 퍼져있는 다양한 합금과 화학물질을 대량으로 감지하고 있습니다. 함선의 잔해는 궤도에서 볼 수 있을 정도로 거대합니다. 거대한 전투가 한때 행성 위에서 펼쳐졌음에 틀림없고, 이제 지표면 위에는 한때 하늘을 지배했던 녹슨 함선의 파편이 어지럽게 널려 있습니다."
+ gpm_survey.22.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_SHIP_GRAVEYARD$"
+ 
+ # artificial water
+ gpm_survey.23.name:0 "발견: 나노수"
+ gpm_survey.23.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n처음에는 이 행성은 꽤나 평범해 보였습니다. 그러나 자세히 살펴본 결과 과학자들은 이 행성의 물이 산소와 수소로 이루어진 물이 아닌 물처럼 행동하는 나노봇 복합체임을 밝혀냈습니다.\n이후 과학자들은 몇 가지의 실험을 진행했는데 결과적으로 이 나노봇의 목적은 모든 면에서 물과 같이 행동하는 것 같았습니다. 이러한 이유로 과학자들은 이 물을 마시는 것이 안전하다고 생각합니다."
+ 	# hive mind
+ gpm_survey.23.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n처음에는 이 행성은 꽤나 평범해 보였습니다. 그러나 자세히 살펴본 결과 과학자들은 이 행성의 물이 산소와 수소로 이루어진 물이 아닌 물처럼 행동하는 나노봇 복합체임을 밝혀냈습니다.\n이후 과학 드론은 몇 가지의 실험을 진행했는데 결과적으로 이 나노봇의 목적은 모든 면에서 물과 같이 행동하는 것 같았습니다. 이러한 이유로 과학 드론은 이 물을 마시는 것이 안전하다고 생각합니다."
+ 	# machine empire
+ gpm_survey.23.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n처음에는 이 행성은 꽤나 평범해 보였습니다. 그러나 자세히 살펴본 결과 과학자들은 이 행성의 물이 산소와 수소로 이루어진 물이 아닌 물처럼 행동하는 나노봇 복합체임을 밝혀냈습니다.\n이후 과학 유닛은 몇 가지의 실험을 진행했는데 결과적으로 이 나노봇의 목적은 모든 면에서 물과 같이 행동하는 것 같았습니다. 이러한 이유로 과학 유닛은 유기체가 이 물을 마시는 것이 안전하다고 생각합니다."
+ gpm_survey.23.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_ARTIFICIAL_WATER$"
+ 
+ # android pleasure palace
+ gpm_survey.24.name:0 "발견: 안드로이드 유흥 센터"
+ gpm_survey.24.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이상한 구조물이 아직 정상 작동 중인것으로 보입니다. 자세히 살펴보니 우리가 발견한 것은 정말 특이한 것이었습니다. 이 건물은 자각을 가진 신스처럼 보이는 다양한 안드로이드들로 관리되고 있습니다. 그들은 그 유람원을 지키고, 방문객들 뿐만 아니라 서로에게도 다양한 서비스를 제공하는 것처럼 보입니다.\n\n 일부 드로이드들은 빛나고 웅웅 진동하는 이상한 장치를 다른 드로이드에 삽입하고 있습니다. 다른 드로이드는 벽에 또 다른 드로이드를 거꾸로 메달아놓고 밧줄로 보이는 것으로 마꾸 때리고 있습니다. 누가 여길 왜 만들었는지 모르겠지만 재미있는 장소가 될 것 같습니다."
+ 	# hive mind
+ gpm_survey.24.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이상한 구조물이 아직 정상 작동 중인것으로 보입니다. 자세히 살펴보니 우리가 발견한것은 정말 특이한 것이었습니다. 이 건물은 자각을 가진 신스처럼 보이는 다양한 안드로이드들로 관리되고 있습니다. 그들은 그 유람원을 지키고, 방문객들 뿐만 아니라 서로에게도 다양한 서비스를 제공하는 것처럼 보입니다.\n\n 일부 드로이드들은 빛나고 웅웅 진동하는 이상한 장치를 다른 드로이드에 삽입하고 있습니다. 다른 드로이드는 벽에 또 다른 드로이드를 거꾸로 메달아놓고 밧줄로 보이는 것으로 마꾸 때리고 있습니다. 누가 여길 왜 만들었는지 모르겠지만 재미있는 장소가 될 것 같습니다."
+ 	# machine empire
+ gpm_survey.24.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이상한 구조물이 아직 정상 작동 중인것으로 보입니다. 자세히 살펴보니 우리가 발견한것은 정말 특이한 것이었습니다. 이 건물은 자각을 가진 신스처럼 보이는 다양한 안드로이드들로 관리되고 있습니다. 그들은 그 유람원을 지키고, 방문객들 뿐만 아니라 서로에게도 다양한 서비스를 제공하는 것처럼 보입니다.\n\n 일부 드로이드들은 빛나고 웅웅 진동하는 이상한 장치를 다른 드로이드에 삽입하고 있습니다. 다른 드로이드는 벽에 또 다른 드로이드를 거꾸로 메달아놓고 밧줄로 보이는 것으로 마꾸 때리고 있습니다. 누가 여길 왜 만들었는지 모르겠지만 재미있는 장소가 될 것 같습니다."
+ gpm_survey.24.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_PLEASURE_PALACE$"
+ 
+ # ancient temple
+ gpm_survey.25.name:0 "발견: 고대 신전"
+ gpm_survey.25.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n먼 과거에 사라진 문명의 고대 사원이 이 행성에서 발견되었습니다. 벽화 위에 쓰여진 글들은 이곳이 다른 많은 외계 종들이 공유하는 신전이었음을 보여주고 있습니다. 벽화에는 외계인들이 정신으로 물체를 움직이고, 빛나는 막대기를 휘두르고, 오랫동안 명상하는 특이한 모습으로 묘사되고 있습니다. 그들은 다양성을 수용하고 모든 사람을 보호하고자 했던 문명이었던 것으로 보입니다."
+ 	# hive mind
+ gpm_survey.25.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n먼 과거에 사라진 문명의 고대 사원이 이 행성에서 발견되었습니다. 벽화 위에 쓰여진 글들은 이곳이 다른 많은 외계 종들이 공유하는 신전이었음을 보여주고 있습니다. 벽화에는 외계인들이 정신으로 물체를 움직이고, 빛나는 막대기를 휘두르고, 오랫동안 명상하는 특이한 모습으로 묘사되고 있습니다. 그들은 다양성을 수용하고 모든 사람을 보호하고자 했던 문명이었던 것으로 보입니다."
+ 	# machine empire
+ gpm_survey.25.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n먼 과거에 사라진 문명의 고대 사원이 이 행성에서 발견되었습니다. 벽화 위에 쓰여진 글들은 이곳이 다른 많은 외계 종들이 공유하는 신전이었음을 보여주고 있습니다. 벽화에는 외계인들이 정신으로 물체를 움직이고, 빛나는 막대기를 휘두르고, 오랫동안 명상하는 특이한 모습으로 묘사되고 있습니다. 그들은 다양성을 수용하고 모든 사람을 보호하고자 했던 문명이었던 것으로 보입니다."
+ gpm_survey.25.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_ANCIENT_TEMPLE$" 
+ 
+ # crystal moon palace
+ gpm_survey.26.name:0 "발견: 수정궁"
+ gpm_survey.26.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n우리 과학자들은 이 위성 표면에서 완전히 수정으로 만들어진 아름다운 궁전을 발견했습니다. 내부는 이상한 룬과 암호화된 장치로 차 있었습니다. 누가 지었는지도 확실하지 않고, 어떤 용도로 쓰였는지도 분명하지 않지만, 우리 과학자들은 이 시설에 대해 더 많이 알기를 바라고 있습니다."
+ 	# hive mind
+ gpm_survey.26.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n우리 과학자들은 이 위성 표면에서 완전히 수정으로 만들어진 아름다운 궁전을 발견했습니다. 내부는 이상한 룬과 암호화된 장치로 차 있었습니다. 누가 지었는지도 확실하지 않고, 어떤 용도로 쓰였는지도 분명하지 않지만, 우리 과학자들은 이 시설에 대해 더 많이 알기를 바라고 있습니다."
+ 	# machine empire
+ gpm_survey.26.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n우리 과학자들은 이 위성 표면에서 완전히 수정으로 만들어진 아름다운 궁전을 발견했습니다. 내부는 이상한 룬과 암호화된 장치로 차 있었습니다. 누가 지었는지도 확실하지 않고, 어떤 용도로 쓰였는지도 분명하지 않지만, 우리 과학자들은 이 시설에 대해 더 많이 알기를 바라고 있습니다."
+ gpm_survey.26.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_CRYSTAL_MOON_PALACE$"
+ 
+ # plasmoid life
+ gpm_survey.27.name:0 "발견: 플라즈마 생명체"
+ gpm_survey.27.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n어찌된 일인지, 완전히 플라즈마로 구성된 생명체가 이 별에서 가까스로 진화해 왔습니다. 그러나 불행하게도 항성의 방사열이 탑재된 센서가 버틸 수 없을 만큼 강력하여 과학선은 더 나은 스캔을 위해 가까이 다가갈 수 없었습니다."
+ 	# hive mind
+ gpm_survey.27.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n어찌된 일인지, 완전히 플라즈마로 구성된 생명체가 이 별에서 가까스로 진화해 왔습니다. 그러나 불행하게도 항성의 방사열이 탑재된 센서가 버틸 수 없을 만큼 강력하여 과학선은 더 나은 스캔을 위해 가까이 다가갈 수 없었습니다."
+ 	# machine empire
+ gpm_survey.27.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n어찌된 일인지, 완전히 플라즈마로 구성된 생명체가 이 별에서 가까스로 진화해 왔습니다. 그러나 불행하게도 항성의 방사열이 탑재된 센서가 버틸 수 없을 만큼 강력하여 과학선은 더 나은 스캔을 위해 가까이 다가갈 수 없었습니다."
+ 
+ gpm_survey.27.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_PLASMOID_LIFE$"
+ 
+ # temple of the ancient one
+ gpm_survey.28.name:0 "발견: 이상한 신전"
+ gpm_survey.28.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 신비롭고 폐허가 된 암굴신전은 위험하지만 않았더라면 이곳을 바라보는 사람들에게 숨막힐듯이 아름다운 광경이 되었을 것입니다. 사원 벽에는 며칠동안 사원 내부의 어둠속을 헤메던 이전 탐사대의 경고가 쓰여 있었습니다. 그들은 결국 그들은 강력한 환영과 환청, 성소로 들어가고자 하는 광기어린 충동에 저항할 수 없었습니다.\n우리 과학자들 중 한 명이 그들과 함선 사이의 연락이 끊기기 전에 '내부 성소는 약한 제단의 불꽃으로 보이는 것에 의해서는 불가능할 정도로 밝아 보인다.'라는 간단한 보고서를 받았습니다."
+ 	# hive mind
+ gpm_survey.28.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 신비롭고 폐허가 된 암굴신전은 위험하지만 않았더라면 이곳을 바라보는 사람들에게 숨막힐듯이 아름다운 광경이 되었을 것입니다. 사원 벽에는 며칠동안 사원 내부의 어둠속을 헤메던 이전 탐사대의 경고가 쓰여 있었습니다. 그들은 결국 그들은 강력한 환영과 환청, 성소로 들어가고자 하는 광기어린 충동에 저항할 수 없었습니다.\n우리 과학자들 중 한 명이 그들과 함선 사이의 연락이 끊기기 전에 '내부 성소는 약한 제단의 불꽃으로 보이는 것에 의해서는 불가능할 정도로 밝아 보인다.'라는 간단한 보고서를 받았습니다."
+ 	# machine empire
+ gpm_survey.28.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 신비롭고 폐허가 된 암굴신전은 위험하지만 않았더라면 이곳을 바라보는 사람들에게 숨막힐듯이 아름다운 광경이 되었을 것입니다. 사원 벽에는 며칠동안 사원 내부의 어둠속을 헤메던 이전 탐사대의 경고가 쓰여 있었습니다. 그들은 결국 그들은 강력한 환영과 환청, 성소로 들어가고자 하는 광기어린 충동에 저항할 수 없었습니다.\n우리 과학자들 중 한 명이 그들과 함선 사이의 연락이 끊기기 전에 '내부 성소는 약한 제단의 불꽃으로 보이는 것에 의해서는 불가능할 정도로 밝아 보인다.'라는 간단한 보고서를 받았습니다."
+ gpm_survey.28.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_TEMPLE_ANCIENT_ONE$"
+ 
+ # proto forest
+ gpm_survey.29.name:0 "발견: 원시림"
+ gpm_survey.29.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성에서 비교적 짧은 식물을 가진 숲이 발견되었습니다. 이 원시림은 숲의 초기 단계인 것 같습니다. 우리는 향후 연구를 위해 이 행성에 대한 상세한 분석을 실행할 것입니다."
+ 	# hive mind
+ gpm_survey.29.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성에서 비교적 짧은 식물을 가진 숲이 발견되었습니다. 이 원시림은 숲의 초기 단계인 것 같습니다. 우리는 향후 연구를 위해 이 행성에 대한 상세한 분석을 실행할 것입니다."
+ 	# machine empire
+ gpm_survey.29.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성에서 비교적 짧은 식물을 가진 숲이 발견되었습니다. 이 원시림은 숲의 초기 단계인 것 같습니다. 우리는 향후 연구를 위해 이 행성에 대한 상세한 분석을 실행할 것입니다."
+ gpm_survey.29.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_PROTO_FOREST$"
+ 
+ # hive world
+ gpm_survey.30.name:0 "발견: 군체 화석"
+ gpm_survey.30.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n집중적인 조사결과 특이한 점을 발견했습니다. 화석화 된 군체들의 잔재들이 수천 개의 시냅스 노드처럼 퍼져져서 하나의 생물같은 형태의 덩어리들을 무한히 대량 생산할 수있는 거대한 바이오 공장으로 활동하고 있다는 것입니다.\n우리가 말한 군체 세계는 스스로 살아있는 생물 '하이브 월드'로 보입니다. 수백만 개의 생물군을 통합하여 각각 수 조단위의 크고 작은 유기체를 생성하고 유전체를 복제하고 새로운 세계와 환경에 완벽하게 적응할 수 있는 새로운 생물체를 접합 할 수있는 생물학적 공장이었습니다.\n이런 유형의 생물체가 우리사이에 존재하기 않기를 바랄 뿐입니다.." 
+ 	# hive mind
+ gpm_survey.30.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n집중적인 조사결과 특이한 점을 발견했습니다. 화석화 된 군체들의 잔재들이 수천 개의 시냅스 노드처럼 퍼져져서 하나의 생물같은 형태의 덩어리들을 무한히 대량 생산할 수있는 거대한 바이오 공장으로 활동하고 있다는 것입니다.\n우리가 말한 군체 세계는 스스로 살아있는 생물 '하이브 월드'로 보입니다. 수백만 개의 생물군을 통합하여 각각 수 조단위의 크고 작은 유기체를 생성하고 유전체를 복제하고 새로운 세계와 환경에 완벽하게 적응할 수 있는 새로운 생물체를 접합 할 수있는 생물학적 공장이었습니다.\n이런 유형의 생물체가 우리사이에 존재하기 않기를 바랄 뿐입니다.."
+ 	# machine empire
+ gpm_survey.30.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n집중적인 조사결과 특이한 점을 발견했습니다. 화석화 된 군체들의 잔재들이 수천 개의 시냅스 노드처럼 퍼져져서 하나의 생물같은 형태의 덩어리들을 무한히 대량 생산할 수있는 거대한 바이오 공장으로 활동하고 있다는 것입니다.\n우리가 말한 군체 세계는 스스로 살아있는 생물 '하이브 월드'로 보입니다. 수백만 개의 생물군을 통합하여 각각 수 조단위의 크고 작은 유기체를 생성하고 유전체를 복제하고 새로운 세계와 환경에 완벽하게 적응할 수 있는 새로운 생물체를 접합 할 수있는 생물학적 공장이었습니다.\n이런 유형의 생물체가 우리사이에 존재하기 않기를 바랄 뿐입니다.."
+ gpm_survey.30.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_HIVE_WORLD$"
+ gpm_hive_ship_survey_reward:0 "§Y생물학§!을 획득합니다."
+
+ # arachnophobia
+ gpm_survey.31.name:0 "발견: 지옥 그 자체"
+ gpm_survey.31.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n부인할 수 없이 끔찍하고 지옥같은 행성입니다. 거대한 거미류 무리에 의해 뒤덮인 지옥중의 지옥이기 때문이지요! 이곳에 발을 들여 놓는 것은 생각하는 것조차도 미친걸로 보입니다.\n사람들은 나무 꼭대기와 동굴에서 야갼에 이상한 소리가 나는것을 듣곤했습니다. 이윽고 거대한 거미들이 우주선 위를 걸어다녔고 그 소리는 지옥의 아우성이 되어 돌아와버렸습니다! 탐사선 승무원들은 거미들이 우주선의 무엇을 건드렸는지는 상관하지않습니다! 그저 즉각적인 궤도이탈을 시도할 뿐입니다. 이 행성은 다시는 방문할 곳이 못됩니다."
+ 	# hive mind
+ gpm_survey.31.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n부인할 수 없이 끔찍하고 지옥같은 행성입니다. 거대한 거미류 무리에 의해 뒤덮인 지옥중의 지옥이기 때문이지요! 이곳에 발을 들여 놓는 것은 생각하는 것조차도 미친걸로 보입니다.\n사람들은 나무 꼭대기와 동굴에서 야갼에 이상한 소리가 나는것을 듣곤했습니다. 이윽고 거대한 거미들이 우주선 위를 걸어다녔고 그 소리는 지옥의 아우성이 되어 돌아와버렸습니다! 탐사선 승무원들은 거미들이 우주선의 무엇을 건드렸는지는 상관하지않습니다! 그저 즉각적인 궤도이탈을 시도할 뿐입니다. 이 행성은 다시는 방문할 곳이 못됩니다."
+ 	# machine empire
+ gpm_survey.31.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n부인할 수 없이 끔찍하고 지옥같은 행성입니다. 거대한 거미류 무리에 의해 뒤덮인 지옥중의 지옥이기 때문이지요! 이곳에 발을 들여 놓는 것은 생각하는 것조차도 미친걸로 보입니다.\n사람들은 나무 꼭대기와 동굴에서 야갼에 이상한 소리가 나는것을 듣곤했습니다. 이윽고 거대한 거미들이 우주선 위를 걸어다녔고 그 소리는 지옥의 아우성이 되어 돌아와버렸습니다! 탐사선 승무원들은 거미들이 우주선의 무엇을 건드렸는지는 상관하지않습니다! 그저 즉각적인 궤도이탈을 시도할 뿐입니다. 이 행성은 다시는 방문할 곳이 못됩니다."
+ gpm_survey.31.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_ARACHNAPHOBIA$"
+
+ # giant worm
+ gpm_survey.32.name:0 "발견: 거대 모래 벌레"
+ gpm_survey.32.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n모래 아래에 사는 거대 모래 벌레는 땅 위의 진동에 매우 민감하며 그러한 진동의 근원을 거의 즉각적으로 추적합니다. 이것은 아마 그들의 영역을 방어하려는 노력같습니다. 그래서 그 벌레를 직접 보는 일은 드문 일입니다.\n그 거대 모래 벌레들은 극도로 방어적입니다. 만약 벌레 두마리가 서로의 존재를 감지하면 바로 그들은 포효와 함께 끔찍한 냄새가 나는 가스를 분출하며 그들의 영토를 지키려 할 것입니다."
+ 	# hive mind
+ gpm_survey.32.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n모래 아래에 사는 거대 모래 벌레는 땅 위의 진동에 매우 민감하며 그러한 진동의 근원을 거의 즉각적으로 추적합니다. 이것은 아마 그들의 영역을 방어하려는 노력같습니다. 그래서 그 벌레를 직접 보는 일은 드문 일입니다.\n그 거대 모래 벌레들은 극도로 방어적입니다. 만약 벌레 두마리가 서로의 존재를 감지하면 바로 그들은 포효와 함께 끔찍한 냄새가 나는 가스를 분출하며 그들의 영토를 지키려 할 것입니다."
+ 	# machine empire
+ gpm_survey.32.mach.desc:0 "S과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n모래 아래에 사는 거대 모래 벌레는 땅 위의 진동에 매우 민감하며 그러한 진동의 근원을 거의 즉각적으로 추적합니다. 이것은 아마 그들의 영역을 방어하려는 노력같습니다. 그래서 그 벌레를 직접 보는 일은 드문 일입니다.\n그 거대 모래 벌레들은 극도로 방어적입니다. 만약 벌레 두마리가 서로의 존재를 감지하면 바로 그들은 포효와 함께 끔찍한 냄새가 나는 가스를 분출하며 그들의 영토를 지키려 할 것입니다."
+ gpm_survey.32.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_GIANT_WORM$"
+ 
+ # artificial core
+ gpm_survey.33.name:0 "발견: 인공 핵"
+ gpm_survey.33.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 핵의 동결과 자기장의 소멸 이후 오래 전에 죽었어야 했지만, 강력한 선대 문명에 의해서 행성의 핵이 복구되어 자기장도 다시 활성화되었습니다."
+ 	# hive mind
+ gpm_survey.33.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 핵의 동결과 자기장의 소멸 이후 오래 전에 죽었어야 했지만, 강력한 선대 문명에 의해서 행성의 핵이 복구되어 자기장도 다시 활성화되었습니다."
+ 	# machine empire
+ gpm_survey.33.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n이 행성은 핵의 동결과 자기장의 소멸 이후 오래 전에 죽었어야 했지만, 강력한 선대 문명에 의해서 행성의 핵이 복구되어 자기장도 다시 활성화되었습니다."
+ gpm_survey.33.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_ARTIFICIAL_CORE$"
+ 
+ # surface of bones
+ gpm_survey.34.name:0 "발견: 뼈로 덮인 표면"
+ gpm_survey.34.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n뼈, 두개골, 시체...  눈으로 볼 수 있는 이곳의 지표는 온통 뒤죽박죽이 된 백골로 뒤덮혀 있는 끔찍한 광경입니다. 어떤 전투가 벌어 졌든 오래 전에 여기 이곳에서 잔인한 전투가 벌어졌습니다."
+ 	# hive mind
+ gpm_survey.34.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n뼈, 두개골, 시체...  눈으로 볼 수 있는 이곳의 지표는 온통 뒤죽박죽이 된 백골로 뒤덮혀 있는 끔찍한 광경입니다. 어떤 전투가 벌어 졌든 오래 전에 여기 이곳에서 잔인한 전투가 벌어졌습니다."
+ 	# machine empire
+ gpm_survey.34.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n뼈, 두개골, 시체...  눈으로 볼 수 있는 이곳의 지표는 온통 뒤죽박죽이 된 백골로 뒤덮혀 있는 끔찍한 광경입니다. 어떤 전투가 벌어 졌든 오래 전에 여기 이곳에서 잔인한 전투가 벌어졌습니다."
+ gpm_survey.34.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_SURFACE_OF_BONES$"
+ 
+ # strange alien eggs
+ gpm_survey.35.name:0 "발견: 이상한 알"
+ gpm_survey.35.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n몇몇 끈적한 점액 덩어리가 이 행성에서 발견되고 있습니다. 주로 그 덩어리들은 습기와 끈적한 증기 같은걸로 덮여있고 늪지 주변에서 발견되는데, 몇몇 장교들은 이 덩어리가 알이라고 보고했지만 우리 과학자들은 이 끔찍한 지역을 조사하는 것을 거부했습니다. 한 과학자는 배의 항해일지에 그들이 조사를 위해 돌아오지 않을 것이라고 기록했습니다. 이 일은 다른 누군가에게 넘어갑니다."
+ 	# hive mind
+ gpm_survey.35.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n몇몇 끈적한 점액 덩어리가 이 행성에서 발견되고 있습니다. 주로 그 덩어리들은 습기와 끈적한 증기 같은걸로 덮여있고 늪지 주변에서 발견되는데, 몇몇 장교들은 이 덩어리가 알이라고 보고했지만 우리 과학자들은 이 끔찍한 지역을 조사하는 것을 거부했습니다. 한 과학자는 배의 항해일지에 그들이 조사를 위해 돌아오지 않을 것이라고 기록했습니다. 이 일은 다른 누군가에게 넘어갑니다."
+ 	# machine empire
+ gpm_survey.35.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n몇몇 끈적한 점액 덩어리가 이 행성에서 발견되고 있습니다. 주로 그 덩어리들은 습기와 끈적한 증기 같은걸로 덮여있고 늪지 주변에서 발견되는데, 몇몇 장교들은 이 덩어리가 알이라고 보고했지만 우리 과학자들은 이 끔찍한 지역을 조사하는 것을 거부했습니다. 한 과학자는 배의 항해일지에 그들이 조사를 위해 돌아오지 않을 것이라고 기록했습니다. 이 일은 다른 누군가에게 넘어갑니다."
+ gpm_survey.35.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_ALIEN_EGGS$"
+ gpm_r_alien_eggs_recoveryTT:0 "우리 과학자들은 겨우 매복에서 살아남아 이 알의 어미로 추정되는 큰 살아있는 표본을 가까스로 채취하는데 성공했습니다"
+ gpm_r_alien_eggs_fleetTT:0 "소규모의 제노모프 부대를 획득합니다."
+ 
+ # mushroom forest
+ gpm_survey.36.name:0 "발견: 거대버섯 숲"
+ gpm_survey.36.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n거대한 버섯들이 이 행성의 곳곳에서 자라고 있습니다. 이 버섯 숲은 기묘하게 생겼고 자주 포자의 안개를 만듭니다. 다행인 점은 쉽게 정리가 될 만큼 부드럽다는 것입니다. 우리 장교 중 한 명은 농담삼아 맛이 궁금하다고 했습니다."
+ 	# hive mind
+ gpm_survey.36.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n거대한 버섯들이 이 행성의 곳곳에서 자라고 있습니다. 이 버섯 숲은 기묘하게 생겼고 자주 포자의 안개를 만듭니다. 다행인 점은 쉽게 정리가 될 만큼 부드럽다는 것입니다. 우리 장교 중 한 명은 농담삼아 맛이 궁금하다고 했습니다."
+ 	# machine empire
+ gpm_survey.36.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 §H[From.GetName]§!에서 흥미로운 발견을 했습니다.\n거대한 버섯들이 이 행성의 곳곳에서 자라고 있습니다. 이 버섯 숲은 기묘하게 생겼고 자주 포자의 안개를 만듭니다. 다행인 점은 쉽게 정리가 될 만큼 부드럽다는 것입니다. 우리 장교 중 한 명은 농담삼아 맛이 궁금하다고 했습니다."
+ gpm_survey.36.spec_project:0 "§Y특별 프로젝트 발표:§!\n    $GPM_DISCOVERY_MUSHROOM_FORESTS$"
+
+ # Planet Wonder
+ gpm_survey.700.name:0 "발견: 경이로운 행성"
+ gpm_survey.700.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학자 §H[Root.GetLeaderName]§!는 탐사 도중 놀라운 발견을 했습니다!\n매우 특이한 것이 처음으로 이 행성에서 발견되었습니다. 우리 과학자들은 이것의 중요성에 놀라움을 금치 못했으며, 모든 이론과 탐사기록 중에서도 이와 유사한 것은 없었습니다.\n어쩌면 우주의 진정한 경이가 아닐까요?"
+ 	# hive mind
+ gpm_survey.700.hive.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 드론 §H[Root.GetLeaderName]§!는 탐사 도중 놀라운 발견을 했습니다!\n매우 특이한 특징이 처음으로 이 행성에서 발견되었습니다. 우리 과학자들은 이것의 중요성에 놀라움을 금치 못했으며, 모든 이론과 탐사기록 중에서도 이와 유사한 것은 없었습니다.\n어쩌면 우주의 진정한 경이가 아닐까요?"
+ 	# machine empire
+ gpm_survey.700.mach.desc:0 "과학선 §H[Root.GetName]§!에 탑승한 과학 유닛 §H[Root.GetLeaderName]§!는 탐사 도중 놀라운 발견을 했습니다!\n매우 특이한 특징이 처음으로 이 행성에서 발견되었습니다. 우리 과학자들은 이것의 중요성에 놀라움을 금치 못했으며, 모든 이론과 탐사기록 중에서도 이와 유사한 것은 없었습니다.\n어쩌면 우주의 진정한 경이가 아닐까요?"
+ 
+ #######################################
+ #### Precursor Survey Events
+ ####################################### 
+ # dig site spawn event
+ gpm_precursor.9000.desc:0 "과학선이 §H[precursor_planet.GetName]§!에서 고대 선구자 문명과 관련된 것을 발견했습니다. 고대 선구자 유물을 찾는데 있어서 큰 기회가 될 것이며 이것에 대해 더 연구해야 합니다."
+ gpm_precursor.9000.a:0 "§H[precursor_planet.GetName]§!에서 고고학 발굴지가 발견됩니다."
+ gpm_unknown_precursor_empire:0 "§L선구자§!"
+  
+ # gpm_precursor_remnants discovery
+ gpm_survey_precursors.10.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 잔해"
+ gpm_survey_precursors.10.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성에 고대 성간 제국인 §L[this.owner.gpm_precursor_empire_name]§!에 의해 건설된 상당한 양의 기반시설 잔해가 남아있습니다."
+ 	# hive mind
+ gpm_survey_precursors.10.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성에 고대 성간 제국인 §L[this.owner.gpm_precursor_empire_name]§!에 의해 건설된 상당한 양의 기반시설 잔해가 남아있습니다."
+ 	# machine empire
+ gpm_survey_precursors.10.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성에 고대 성간 제국인 §L[this.owner.gpm_precursor_empire_name]§!에 의해 건설된 상당한 양의 기반시설 잔해가 남아있습니다."
+ 
+ # gpm_precursor_energy_grid discovery
+ gpm_survey_precursors.20.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 에너지 연결망"
+ gpm_survey_precursors.20.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n궤도에서도 관측되는 이 광대한 에너지 연결망은 정말 신비롭습니다. 에너지 연결망은 무너진 건물과 부서진 도로, 그 외 몇가지 요소로 둘러싸여 있습니다. 언젠가 이 행성에 존재했던 강력한 문명이 도시에서 도시로 에너지를 전송하는 것 뿐만 아니라, 심지어 가로등과 각 가정으로 에너지를 전송하기 위해서도 이 에너지 연결망을 사용했음이 명백합니다.\n\n조사팀의 철저한 조사에도 불구하고 에너지 연결망을 구성하는 재료의 성분 분석엔 실패했습니다. 구조는 알 수 없는 성분을 주 원료로 하는 일종의 초저항 외피로 둘러싸인 액화 수정층과 반투명한 물질 핵으로 이루어진 듯 합니다.\n\n초기 연구에선 이 거대한 연결망이 행성 깊은 곳의 거대한 열 발전소를 동력원으로 하는 것으로 추측중입니다. 불행하게도, 연결망의 거대한 열 통풍구는 너무 깊고 뜨거워 탐사할 수 없습니다. 다만 과학팀은 에너지 연결망을 약간 개조하기만 한다면 우리의 에너지망과 호환될 수 있다고 확신하고 있습니다."
+ 	# hive mind
+ gpm_survey_precursors.20.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n궤도에서도 관측되는 이 광대한 에너지 연결망은 정말 신비롭습니다. 에너지 연결망은 무너진 건물과 부서진 도로, 그 외 몇가지 요소로 둘러싸여 있습니다. 언젠가 이 행성에 존재했던 강력한 문명이 도시에서 도시로 에너지를 전송하는 것 뿐만 아니라, 심지어 가로등과 각 가정으로 에너지를 전송하기 위해서도 이 에너지 연결망을 사용했음이 명백합니다.\n\n조사팀의 철저한 조사에도 불구하고 에너지 연결망을 구성하는 재료의 성분 분석엔 실패했습니다. 구조는 알 수 없는 성분을 주 원료로 하는 일종의 초저항 외피로 둘러싸인 액화 수정층과 반투명한 물질 핵으로 이루어진 듯 합니다.\n\n초기 연구에선 이 거대한 연결망이 행성 깊은 곳의 거대한 열 발전소를 동력원으로 하는 것으로 추측중입니다. 불행하게도, 연결망의 거대한 열 통풍구는 너무 깊고 뜨거워 탐사할 수 없습니다. 다만 과학팀은 에너지 연결망을 약간 개조하기만 한다면 우리의 에너지망과 호환될 수 있다고 확신하고 있습니다."
+ 	# machine empire
+ gpm_survey_precursors.20.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n궤도에서도 관측되는 이 광대한 에너지 연결망은 정말 신비롭습니다. 에너지 연결망은 무너진 건물과 부서진 도로, 그 외 몇가지 요소로 둘러싸여 있습니다. 언젠가 이 행성에 존재했던 강력한 문명이 도시에서 도시로 에너지를 전송하는 것 뿐만 아니라, 심지어 가로등과 각 가정으로 에너지를 전송하기 위해서도 이 에너지 연결망을 사용했음이 명백합니다.\n\n조사팀의 철저한 조사에도 불구하고 에너지 연결망을 구성하는 재료의 성분 분석엔 실패했습니다. 구조는 알 수 없는 성분을 주 원료로 하는 일종의 초저항 외피로 둘러싸인 액화 수정층과 반투명한 물질 핵으로 이루어진 듯 합니다.\n\n초기 연구에선 이 거대한 연결망이 행성 깊은 곳의 거대한 열 발전소를 동력원으로 하는 것으로 추측중입니다. 불행하게도, 연결망의 거대한 열 통풍구는 너무 깊고 뜨거워 탐사할 수 없습니다. 다만 과학팀은 에너지 연결망을 약간 개조하기만 한다면 우리의 에너지망과 호환될 수 있다고 확신하고 있습니다."
+ 
+ # Precursor_Satellite_Grid discovery
+ gpm_survey_precursors.30.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 위성망"
+ gpm_survey_precursors.30.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성은 수백개의 소형 §L[this.owner.gpm_precursor_empire_name]§! 인공위성이 효율적인 궤도에 존재하고 있습니다. 이 인공위성을 통신이나 감시에 사용했는지는 불분명하지만, 연구를 통해 분명 많은 것들을 배울 수 있을 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.30.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성은 수백개의 소형 §L[this.owner.gpm_precursor_empire_name]§! 인공위성이 효율적인 궤도에 존재하고 있습니다. 이 인공위성을 통신이나 감시에 사용했는지는 불분명하지만, 연구를 통해 분명 많은 것들을 배울 수 있을 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.30.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성은 수백개의 소형 §L[this.owner.gpm_precursor_empire_name]§! 인공위성이 효율적인 궤도에 존재하고 있습니다. 이 인공위성을 통신이나 감시에 사용했는지는 불분명하지만, 연구를 통해 분명 많은 것들을 배울 수 있을 것입니다."
+ 
+ # gpm_precursor_city discovery
+ gpm_survey_precursors.40.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 도시"
+ gpm_survey_precursors.40.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n성간 제국이었던 §L[this.owner.gpm_precursor_empire_name]§!의 고대 도시 폐허가 이 행성에서 발견되었습니다. 이 도시는 과학자들의 추측에 따르면 분명 오랜 시간 방치되어 오래 전에 완전히 풍화되었어야 했습니다만, 이상하게도 거의 온전한 상태를 유지하고 있습니다. 현재는 유적이라 부를 만한 것만이 남아있으며, 이곳에 살던 이들은 완전히 사라진듯 합니다."
+ 	# hive mind
+ gpm_survey_precursors.40.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n성간 제국이었던 §L[this.owner.gpm_precursor_empire_name]§!의 고대 도시 폐허가 이 행성에서 발견되었습니다. 이 도시는 과학 드론들의 추측에 따르면 분명 오랜 시간 방치되어 오래 전에 완전히 풍화되었어야 했습니다만, 이상하게도 거의 온전한 상태를 유지하고 있습니다. 현재는 유적이라 부를 만한 것만이 남아있으며, 이곳에 살던 이들은 완전히 사라진듯 합니다."
+ 	# machine empire
+ gpm_survey_precursors.40.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n성간 제국이었던 §L[this.owner.gpm_precursor_empire_name]§!의 고대 도시 폐허가 이 행성에서 발견되었습니다. 이 도시는 과학 유닛들의 추측에 따르면 분명 오랜 시간 방치되어 오래 전에 완전히 풍화되었어야 했습니다만, 이상하게도 거의 온전한 상태를 유지하고 있습니다. 현재는 유적이라 부를 만한 것만이 남아있으며, 이곳에 살던 이들은 완전히 사라진듯 합니다."
+ 
+ # gpm_precursor_shipyards discovery
+ gpm_survey_precursors.50.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 조선소"
+ gpm_survey_precursors.50.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n오래되고 강력한 §L[this.owner.gpm_precursor_empire_name]§! 조선소가 이 행성을 둘러싸고 있습니다. 일부분은 상당히 손상되었지만 다른 부분은 약간의 수리를 통해 작동시킬 수 있을 것으로 보입니다. 어떠한 선박이나 자원도 이 조선소에서 발견되지 않지만, 우리 공학팀은 이 조선소가 사실상 완전히 자율적인 시스템일 수 있다고 생각합니다. 많은 재료를 하역할 수 있게 특별히 설계된 구역이 있고, 조선소 깊은 곳에는 강력한 중력 반응로가 자리잡고 있으며 완벽하게 이해할 수는 없지만 아마도 이곳의 동력 공급 및 궤도 유지를 위한 것으로 보입니다. 아마 우리도 언젠가는 건설할 수 있을 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.50.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n오래되고 강력한 §L[this.owner.gpm_precursor_empire_name]§! 조선소가 이 행성을 둘러싸고 있습니다. 일부분은 상당히 손상되었지만 다른 부분은 약간의 수리를 통해 작동시킬 수 있을 것으로 보입니다. 어떠한 선박이나 자원도 이 조선소에서 발견되지 않지만, 우리 공학팀은 이 조선소가 사실상 완전히 자율적인 시스템일 수 있다고 생각합니다. 많은 재료를 하역할 수 있게 특별히 설계된 구역이 있고, 조선소 깊은 곳에는 강력한 중력 반응로가 자리잡고 있으며 완벽하게 이해할 수는 없지만 아마도 이곳의 동력 공급 및 궤도 유지를 위한 것으로 보입니다. 아마 우리도 언젠가는 건설할 수 있을 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.50.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n오래되고 강력한 §L[this.owner.gpm_precursor_empire_name]§! 조선소가 이 행성을 둘러싸고 있습니다. 일부분은 상당히 손상되었지만 다른 부분은 약간의 수리를 통해 작동시킬 수 있을 것으로 보입니다. 어떠한 선박이나 자원도 이 조선소에서 발견되지 않지만, 우리 공학팀은 이 조선소가 사실상 완전히 자율적인 시스템일 수 있다고 생각합니다. 많은 재료를 하역할 수 있게 특별히 설계된 구역이 있고, 조선소 깊은 곳에는 강력한 중력 반응로가 자리잡고 있으며 완벽하게 이해할 수는 없지만 아마도 이곳의 동력 공급 및 궤도 유지를 위한 것으로 보입니다. 아마 우리도 언젠가는 건설할 수 있을 것입니다."
+ 
+ # gpm_precursor_planetary_gun discovery
+ gpm_survey_precursors.60.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 행성 포탑"
+ gpm_survey_precursors.60.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 전역에 수백만년 전에 지어진 거대한 무기들이 설치되어 있으며, 이 무기들은 궤도의 대상에 대한 유효한 타격을 줄 수 있을 것으로 추측됩니다. 무기 기술팀은 거대한 무기에 대한 추가적인 연구를 권고하고 있습니다. 또한, 이 거대한 무기를 작동시켜 함선에 대한 방어능력을 충분히 발휘할 수도 있을 것입니다.\n\n조사팀의 추가 연구 결과, 이 무기 체계는 이전의 행성 거주자들에 의해 행성방위 및 정찰 임무의 시작지로 전략적으로 사용되었다는 것이 밝혀졌습니다. 다만 그들이 무엇으로부터 행성을 지키고, 또 무엇을 찾으려 했는지는 알 수 없었습니다."
+ 	# hive mind
+ gpm_survey_precursors.60.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 전역에 수백만년 전에 지어진 거대한 무기들이 설치되어 있으며, 이 무기들은 궤도의 대상에 대한 유효한 타격을 줄 수 있을 것으로 추측됩니다. 무기 기술팀은 거대한 무기에 대한 추가적인 연구를 권고하고 있습니다. 또한, 이 거대한 무기를 작동시켜 함선에 대한 방어능력을 충분히 발휘할 수도 있을 것입니다.\n\n조사팀의 추가 연구 결과, 이 무기 체계는 이전의 행성 거주자들에 의해 행성방위 및 정찰 임무의 시작지로 전략적으로 사용되었다는 것이 밝혀졌습니다. 다만 그들이 무엇으로부터 행성을 지키고, 또 무엇을 찾으려 했는지는 알 수 없었습니다."
+ 	# machine empire
+ gpm_survey_precursors.60.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 전역에 수백만년 전에 지어진 거대한 무기들이 설치되어 있으며, 이 무기들은 궤도의 대상에 대한 유효한 타격을 줄 수 있을 것으로 추측됩니다. 무기 기술팀은 거대한 무기에 대한 추가적인 연구를 권고하고 있습니다. 또한, 이 거대한 무기를 작동시켜 함선에 대한 방어능력을 충분히 발휘할 수도 있을 것입니다.\n\n조사팀의 추가 연구 결과, 이 무기 체계는 이전의 행성 거주자들에 의해 행성방위 및 정찰 임무의 시작지로 전략적으로 사용되었다는 것이 밝혀졌습니다. 다만 그들이 무엇으로부터 행성을 지키고, 또 무엇을 찾으려 했는지는 알 수 없었습니다."
+ 
+ # gpm_precursor_bunker_grid discovery
+ gpm_survey_precursors.70.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 방어망"
+ gpm_survey_precursors.70.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n한때 이 행성을 지배했던 고대의 선구자 문명이 남긴 것은 행성 규모의 거대한 방어망 뿐입니다. 조사팀은 방어망이 은하계 전역에 걸친 분쟁의 잔재라고 추측합니다. 이곳에 거주했던 이들 중 아직까지 살아있는 이가 없는 것으로 보아, 적어도 승자는 아니었을 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.70.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n한때 이 행성을 지배했던 고대의 선구자 문명이 남긴 것은 행성 규모의 거대한 방어망 뿐입니다. 조사팀은 방어망이 은하계 전역에 걸친 분쟁의 잔재라고 추측합니다. 이곳에 거주했던 이들 중 아직까지 살아있는 이가 없는 것으로 보아, 적어도 승자는 아니었을 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.70.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n한때 이 행성을 지배했던 고대의 선구자 문명이 남긴 것은 행성 규모의 거대한 방어망 뿐입니다. 조사팀은 방어망이 은하계 전역에 걸친 분쟁의 잔재라고 추측합니다. 이곳에 거주했던 이들 중 아직까지 살아있는 이가 없는 것으로 보아, 적어도 승자는 아니었을 것입니다."
+
+ # gpm_precursor_mechs discovery
+ gpm_survey_precursors.80.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 거대 전투기계"
+ gpm_survey_precursors.80.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n버려진 거대한 기계 군단이 행성 표면 아래에서 재가동 명령을 기다리고 있습니다. 기계의 두꺼운 장갑과 거대한 크기는 아마 행성 방어가 주 목적이었으리라 암시합니다. 오랜 시간이 지났음에도 기능 저하나 기능 상실의 징후는 거의 없습니다.\n\n세심한 조사 끝에 요새 행성을 위해 만들어진 기계라고 추측할 수 있었습니다. 뛰어난 방어 능력을 보면, 그 요새 행성에서도 이 기계들은 충분한 능력을 발휘했음이 틀림없습니다."
+ 	# hive mind
+ gpm_survey_precursors.80.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n버려진 거대한 기계 군단이 행성 표면 아래에서 재가동 명령을 기다리고 있습니다. 기계의 두꺼운 장갑과 거대한 크기는 아마 행성 방어가 주 목적이었으리라 암시합니다. 오랜 시간이 지났음에도 기능 저하나 기능 상실의 징후는 거의 없습니다.\n\n세심한 조사 끝에 요새 행성을 위해 만들어진 기계라고 추측할 수 있었습니다. 뛰어난 방어 능력을 보면, 그 요새 행성에서도 이 기계들은 충분한 능력을 발휘했음이 틀림없습니다."
+ 	# machine empire
+ gpm_survey_precursors.80.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n버려진 거대한 기계 군단이 행성 표면 아래에서 재가동 명령을 기다리고 있습니다. 기계의 두꺼운 장갑과 거대한 크기는 아마 행성 방어가 주 목적이었으리라 암시합니다. 오랜 시간이 지났음에도 기능 저하나 기능 상실의 징후는 거의 없습니다.\n\n세심한 조사 끝에 요새 행성을 위해 만들어진 기계라고 추측할 수 있었습니다. 뛰어난 방어 능력을 보면, 그 요새 행성에서도 이 기계들은 충분한 능력을 발휘했음이 틀림없습니다."
+
+ # gpm_precursor_planetary_shield discovery
+ gpm_survey_precursors.90.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 행성 보호막"
+ gpm_survey_precursors.90.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n흥미로운 보호막 배열망이 행성 전역에 퍼져있습니다. 재가동을 위해선 대량의 에너지를 필요로 하지만, 분명 모두에게 안식처를 제공할 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.90.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n흥미로운 보호막 배열망이 행성 전역에 퍼져있습니다. 재가동을 위해선 대량의 에너지를 필요로 하지만, 분명 모두에게 안식처를 제공할 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.90.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n흥미로운 보호막 배열망이 행성 전역에 퍼져있습니다. 재가동을 위해선 대량의 에너지를 필요로 하지만, 분명 모두에게 안식처를 제공할 것입니다."
+
+ # gpm_precursor_floating_city discovery
+ gpm_survey_precursors.100.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 부유 도시!"
+ gpm_survey_precursors.100.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n자가 유지 체계를 갖춘 도시 몇개가 행성 상공을 떠다니고 있습니다. 약간의 손상에도 불구하고 도시는 여전히 잘 작동하고 있습니다. 공중 도시 표면에는 건물과 기반시설의 잔해가 흩어져 있습니다. 이전의 거주자들이 공중 도시를 만들었는지, 아니면 공중 도시는 발견했을 뿐이고 그냥 그 위에 도시를 지어서 사용했는지는 우린 영원히 알 수 없을 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.100.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n자가 유지 체계를 갖춘 도시 몇개가 행성 상공을 떠다니고 있습니다. 약간의 손상에도 불구하고 도시는 여전히 잘 작동하고 있습니다. 공중 도시 표면에는 건물과 기반시설의 잔해가 흩어져 있습니다. 이전의 거주자들이 공중 도시를 만들었는지, 아니면 공중 도시는 발견했을 뿐이고 그냥 그 위에 도시를 지어서 사용했는지는 우린 영원히 알 수 없을 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.100.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n자가 유지 체계를 갖춘 도시 몇개가 행성 상공을 떠다니고 있습니다. 약간의 손상에도 불구하고 도시는 여전히 잘 작동하고 있습니다. 공중 도시 표면에는 건물과 기반시설의 잔해가 흩어져 있습니다. 이전의 거주자들이 공중 도시를 만들었는지, 아니면 공중 도시는 발견했을 뿐이고 그냥 그 위에 도시를 지어서 사용했는지는 우린 영원히 알 수 없을 것입니다."
+
+ # gpm_precursor_capital_complex discovery
+ gpm_survey_precursors.110.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 수도 복합 단지"
+ gpm_survey_precursors.110.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n진보된 §L[this.owner.gpm_precursor_empire_name]§!의 대도시 폐허가 행성에 펼쳐져 있습니다. 폐허 주위를 둘러싼 거대한, 그리고 한때는 정교했을 구조물들은 우리로 하여금 이곳이 오래전 사라진 제국의 잔해임을 짐작케 합니다."
+ 	# hive mind
+ gpm_survey_precursors.110.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n진보된 §L[this.owner.gpm_precursor_empire_name]§!의 대도시 폐허가 행성에 펼쳐져 있습니다. 폐허 주위를 둘러싼 거대한, 그리고 한때는 정교했을 구조물들은 우리로 하여금 이곳이 오래전 사라진 제국의 잔해임을 짐작케 합니다."
+ 	# machine empire
+ gpm_survey_precursors.110.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n진보된 §L[this.owner.gpm_precursor_empire_name]§!의 대도시 폐허가 행성에 펼쳐져 있습니다. 폐허 주위를 둘러싼 거대한, 그리고 한때는 정교했을 구조물들은 우리로 하여금 이곳이 오래전 사라진 제국의 잔해임을 짐작케 합니다."
+
+ # gpm_precursor_communication_hub discovery
+ gpm_survey_precursors.120.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 통신 허브"
+ gpm_survey_precursors.120.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 폐허엔 우뚝 선 거대한 첨탑이 존재합니다. 이 첨탑에선 여전히 궤도로 올라가는 강력한 신호를 방출하고 있습니다. 아마 이전에는 궤도 상의 위성망이 신호를 수신했을 것입니다. 대부분의 기능이 작동하고 있으며, 우리의 통신이나 감시 체계로 변환해 사용할 수 있을 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.120.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 폐허엔 우뚝 선 거대한 첨탑이 존재합니다. 이 첨탑에선 여전히 궤도로 올라가는 강력한 신호를 방출하고 있습니다. 아마 이전에는 궤도 상의 위성망이 신호를 수신했을 것입니다. 대부분의 기능이 작동하고 있으며, 우리의 통신이나 감시 체계로 변환해 사용할 수 있을 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.120.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 폐허엔 우뚝 선 거대한 첨탑이 존재합니다. 이 첨탑에선 여전히 궤도로 올라가는 강력한 신호를 방출하고 있습니다. 아마 이전에는 궤도 상의 위성망이 신호를 수신했을 것입니다. 대부분의 기능이 작동하고 있으며, 우리의 통신이나 감시 체계로 변환해 사용할 수 있을 것입니다."
+
+ # gpm_precursor_singularity_drive discovery
+ gpm_survey_precursors.130.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 특이점 드라이브"
+ gpm_survey_precursors.130.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성은 연구실과 유사한 지하 구역을 가지고 있습니다. 해당 구역의 중앙에는 에너지로 공명하는 거대한 특이점 드라이브가 설치되어 있습니다. 자동기계가 곳곳에 흩어져있으며, 때론 서로를 분해하고 때론 서로를 수리합니다.\n\n조사팀은 특이점 드라이브의 기능을 관측할 중계기를 설치했습니다. 그럼에도 불구하고, 특이점 드라이브가 어떤 용도로 사용되었는지에 대한 어떠한 증거도 발견되지 않았습니다. 정확한 사용 목적을 밝혀내기 전까진, 이곳을 사용하는데 주의를 기울일 필요가 있습니다."
+ 	# hive mind
+ gpm_survey_precursors.130.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성은 연구실과 유사한 지하 구역을 가지고 있습니다. 해당 구역의 중앙에는 에너지로 공명하는 거대한 특이점 드라이브가 설치되어 있습니다. 자동기계가 곳곳에 흩어져있으며, 때론 서로를 분해하고 때론 서로를 수리합니다.\n\n조사팀은 특이점 드라이브의 기능을 관측할 중계기를 설치했습니다. 그럼에도 불구하고, 특이점 드라이브가 어떤 용도로 사용되었는지에 대한 어떠한 증거도 발견되지 않았습니다. 정확한 사용 목적을 밝혀내기 전까진, 이곳을 사용하는데 주의를 기울일 필요가 있습니다."
+ 	# machine empire
+ gpm_survey_precursors.130.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성은 연구실과 유사한 지하 구역을 가지고 있습니다. 해당 구역의 중앙에는 에너지로 공명하는 거대한 특이점 드라이브가 설치되어 있습니다. 자동기계가 곳곳에 흩어져있으며, 때론 서로를 분해하고 때론 서로를 수리합니다.\n\n조사팀은 특이점 드라이브의 기능을 관측할 중계기를 설치했습니다. 그럼에도 불구하고, 특이점 드라이브가 어떤 용도로 사용되었는지에 대한 어떠한 증거도 발견되지 않았습니다. 정확한 사용 목적을 밝혀내기 전까진, 이곳을 사용하는데 주의를 기울일 필요가 있습니다."
+ 
+ # gpm_precursor_eternal_fortress discovery
+ gpm_survey_precursors.140.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 영원의 요새"
+ gpm_survey_precursors.140.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 이 행성에서 한 요새를 발견했습니다.\n요새는 놀랄만한 보존 상태로 오랜 시간 버려진 것으로 보입니다. 요새 외벽 주변은 많은 피해를 입었으나, 요새 외벽 자체에는 어떠한 피해 흔적도 보이지 않습니다."
+ 	# hive mind
+ gpm_survey_precursors.140.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 이 행성에서 한 요새를 발견했습니다.\n요새는 놀랄만한 보존 상태로 오랜 시간 버려진 것으로 보입니다. 요새 외벽 주변은 많은 피해를 입었으나, 요새 외벽 자체에는 어떠한 피해 흔적도 보이지 않습니다."
+ 	# machine empire
+ gpm_survey_precursors.140.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 이 행성에서 한 요새를 발견했습니다.\n요새는 놀랄만한 보존 상태로 오랜 시간 버려진 것으로 보입니다. 요새 외벽 주변은 많은 피해를 입었으나, 요새 외벽 자체에는 어떠한 피해 흔적도 보이지 않습니다."
+
+ # gpm_precursor_prison_planet discovery
+ gpm_survey_precursors.150.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 감옥 행성"
+ gpm_survey_precursors.150.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 표면은 수천 채의 막사가 뒤덮고 있으며, 그 바로 아래엔 행성 전체를 사용하는 거대한 감옥 체계의 잔해가 널려있습니다. 그곳에는 감방과 억제장이 설치되어 있습니다. 목적은 분명합니다.\n\n약간만 노력하면 이 시설을 우리가 사용할 수 있을 것입니다. 그 전에 조사팀은 이곳에 수감되었던 이들, 혹은 것들에 대한 정보를 찾기 시작했습니다. 뭔가 가둬져 있는 것 보다 더 불운한 일은 그것들을 가둬야 하는 거겠죠."
+ 	# hive mind
+ gpm_survey_precursors.150.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 표면은 수천 채의 막사가 뒤덮고 있으며, 그 바로 아래엔 행성 전체를 사용하는 거대한 감옥 체계의 잔해가 널려있습니다. 그곳에는 감방과 억제장이 설치되어 있습니다. 목적은 분명합니다.\n\n약간만 노력하면 이 시설을 우리가 사용할 수 있을 것입니다. 그 전에 조사팀은 이곳에 수감되었던 이들, 혹은 것들에 대한 정보를 찾기 시작했습니다. 뭔가 가둬져 있는 것 보다 더 불운한 일은 그것들을 가둬야 하는 거겠죠."
+ 	# machine empire
+ gpm_survey_precursors.150.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 표면은 수천 채의 막사가 뒤덮고 있으며, 그 바로 아래엔 행성 전체를 사용하는 거대한 감옥 체계의 잔해가 널려있습니다. 그곳에는 감방과 억제장이 설치되어 있습니다. 목적은 분명합니다.\n\n약간만 노력하면 이 시설을 우리가 사용할 수 있을 것입니다. 그 전에 조사팀은 이곳에 수감되었던 이들, 혹은 것들에 대한 정보를 찾기 시작했습니다. 뭔가 가둬져 있는 것 보다 더 불운한 일은 그것들을 가둬야 하는 거겠죠."
+ 
+ # gpm_precursor_mines discovery
+ gpm_survey_precursors.160.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 광산"
+ gpm_survey_precursors.160.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 거대한 고대의 채굴망을 발견하고는 깜짝 놀랐습니다.\n광산 시설은 완전히 자동화된 상태로, 여전히 일부분은 작동중입니다. 이 거대한 구조물과 터널은 분명 위대한 제국의 유산일 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.160.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 거대한 고대의 채굴망을 발견하고는 깜짝 놀랐습니다.\n광산 시설은 완전히 자동화된 상태로, 여전히 일부분은 작동중입니다. 이 거대한 구조물과 터널은 분명 위대한 제국의 유산일 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.160.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 거대한 고대의 채굴망을 발견하고는 깜짝 놀랐습니다.\n광산 시설은 완전히 자동화된 상태로, 여전히 일부분은 작동중입니다. 이 거대한 구조물과 터널은 분명 위대한 제국의 유산일 것입니다."
+
+ # gpm_precursor_manufactorium discovery
+ gpm_survey_precursors.170.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 제조 공장"
+ gpm_survey_precursors.170.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 표면에 대한 심층 조사 후, 지하에 묻힌 터널과 금고의 연결망이 드러났습니다. 표면의 아주 작은 입구는 지하의 거대 산업 단지로 이어집니다. 선구자의 뛰어난 기술은 공업 지구의 거대한 생산 라인을 유지하기 위해 행성의 에너지를 고갈시킬 수준으로 뽑아낼 수 있었습니다.\n\n공학팀은 이 설비가 원래 무엇을 제조하는 곳인지는 해석해낼 수 없었습니다만, 대신 우리가 원하는 제품을 제조하도록 개조할 수는 있다고 판단했습니다. 이 시설을 만든 이들의 천재적인 설계는 행성 핵에 치명적인 불안정성을 일으키진 않을 것으로 보입니다. 다만 공학팀은 이곳에서 이상한 일들이 일어나던 것을 지적하고 있습니다."
+ 	# hive mind
+ gpm_survey_precursors.170.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 표면에 대한 심층 조사 후, 지하에 묻힌 터널과 금고의 연결망이 드러났습니다. 표면의 아주 작은 입구는 지하의 거대 산업 단지로 이어집니다. 선구자의 뛰어난 기술은 공업 지구의 거대한 생산 라인을 유지하기 위해 행성의 에너지를 고갈시킬 수준으로 뽑아낼 수 있었습니다.\n\n공학팀은 이 설비가 원래 무엇을 제조하는 곳인지는 해석해낼 수 없었습니다만, 대신 우리가 원하는 제품을 제조하도록 개조할 수는 있다고 판단했습니다. 이 시설을 만든 이들의 천재적인 설계는 행성 핵에 치명적인 불안정성을 일으키진 않을 것으로 보입니다. 다만 공학팀은 이곳에서 이상한 일들이 일어나던 것을 지적하고 있습니다."
+ 	# machine empire
+ gpm_survey_precursors.170.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성 표면에 대한 심층 조사 후, 지하에 묻힌 터널과 금고의 연결망이 드러났습니다. 표면의 아주 작은 입구는 지하의 거대 산업 단지로 이어집니다. 선구자의 뛰어난 기술은 공업 지구의 거대한 생산 라인을 유지하기 위해 행성의 에너지를 고갈시킬 수준으로 뽑아낼 수 있었습니다.\n\n공학팀은 이 설비가 원래 무엇을 제조하는 곳인지는 해석해낼 수 없었습니다만, 대신 우리가 원하는 제품을 제조하도록 개조할 수는 있다고 판단했습니다. 이 시설을 만든 이들의 천재적인 설계는 행성 핵에 치명적인 불안정성을 일으키진 않을 것으로 보입니다. 다만 공학팀은 이곳에서 이상한 일들이 일어나던 것을 지적하고 있습니다."
+
+ # gpm_precursor_vaults discovery
+ gpm_survey_precursors.180.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 금고"
+ gpm_survey_precursors.180.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 산맥에는 작은 전초기지가 곳곳에 숨어있습니다. 조사 결과 거대한 금고 보관소로 통하는 숨겨진 출입구가 드러났습니다. 대부분은 텅 비어 있습니다. 약탈의 흔적이 보이는 곳도 있으며, 아예 아무것도 들어온 기록이 없는 곳도 있습니다. 그러나 몇몇 금고에는 자연상태에선 과학적으로나 고고학적으로나 설명할 수 없는 놀라운 보물이 숨겨져 있습니다.\n조사팀은 금고 외부의 전초기지가 여전히 작동하고 있으며, 약간의 개조를 통해 우리 통제 하에 넣을 수 있다고 보고했습니다. 차후의 연구를 고려하면, 분명 이 금고에선 무언가 과학적인 진보를 얻어낼 수 있을 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.180.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 산맥에는 작은 전초기지가 곳곳에 숨어있습니다. 조사 결과 거대한 금고 보관소로 통하는 숨겨진 출입구가 드러났습니다. 대부분은 텅 비어 있습니다. 약탈의 흔적이 보이는 곳도 있으며, 아예 아무것도 들어온 기록이 없는 곳도 있습니다. 그러나 몇몇 금고에는 자연상태에선 과학적으로나 고고학적으로나 설명할 수 없는 놀라운 보물이 숨겨져 있습니다.\n조사팀은 금고 외부의 전초기지가 여전히 작동하고 있으며, 약간의 개조를 통해 우리 통제 하에 넣을 수 있다고 보고했습니다. 차후의 연구를 고려하면, 분명 이 금고에선 무언가 과학적인 진보를 얻어낼 수 있을 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.180.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 산맥에는 작은 전초기지가 곳곳에 숨어있습니다. 조사 결과 거대한 금고 보관소로 통하는 숨겨진 출입구가 드러났습니다. 대부분은 텅 비어 있습니다. 약탈의 흔적이 보이는 곳도 있으며, 아예 아무것도 들어온 기록이 없는 곳도 있습니다. 그러나 몇몇 금고에는 자연상태에선 과학적으로나 고고학적으로나 설명할 수 없는 놀라운 보물이 숨겨져 있습니다.\n조사팀은 금고 외부의 전초기지가 여전히 작동하고 있으며, 약간의 개조를 통해 우리 통제 하에 넣을 수 있다고 보고했습니다. 차후의 연구를 고려하면, 분명 이 금고에선 무언가 과학적인 진보를 얻어낼 수 있을 것입니다."
+
+ # gpm_precursor_crashed_spacestation discovery
+ gpm_survey_precursors.190.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 궤도 스테이션 추락 지점"
+ gpm_survey_precursors.190.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n거대한 크레이터는 이 보잘것 없는 행성보다는, 우주 정거장의 잔해에 더 많은 관심이 가도록 만듭니다. 과학자들은 이 잔해를 지금은 사라진 옛 성간 제국의 것으로 추측하고 있습니다만, 잔해는 너무 큰 피해를 입어서 지금은 조사해도 얻을 것이 별로 없습니다.\n\n충격 당시 상황을 연구하는 것으로 속도, 물리학, 그리고 거대한 구조물과 행성의 내구성에 대한 추가적인 이해를 얻을 수 있을 것입니다. 공학팀은 지속적인 연구를 위한 전초기지를 설치할 준비를 마쳤습니다."
+ 	# hive mind
+ gpm_survey_precursors.190.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n거대한 크레이터는 이 보잘것 없는 행성보다는, 우주 정거장의 잔해에 더 많은 관심이 가도록 만듭니다. 과학자들은 이 잔해를 지금은 사라진 옛 성간 제국의 것으로 추측하고 있습니다만, 잔해는 너무 큰 피해를 입어서 지금은 조사해도 얻을 것이 별로 없습니다.\n\n충격 당시 상황을 연구하는 것으로 속도, 물리학, 그리고 거대한 구조물과 행성의 내구성에 대한 추가적인 이해를 얻을 수 있을 것입니다. 공학팀은 지속적인 연구를 위한 전초기지를 설치할 준비를 마쳤습니다."
+ 	# machine empire
+ gpm_survey_precursors.190.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n거대한 크레이터는 이 보잘것 없는 행성보다는, 우주 정거장의 잔해에 더 많은 관심이 가도록 만듭니다. 과학자들은 이 잔해를 지금은 사라진 옛 성간 제국의 것으로 추측하고 있습니다만, 잔해는 너무 큰 피해를 입어서 지금은 조사해도 얻을 것이 별로 없습니다.\n\n충격 당시 상황을 연구하는 것으로 속도, 물리학, 그리고 거대한 구조물과 행성의 내구성에 대한 추가적인 이해를 얻을 수 있을 것입니다. 공학팀은 지속적인 연구를 위한 전초기지를 설치할 준비를 마쳤습니다."
+
+ # gpm_precursor_battleground_ruins discovery
+ gpm_survey_precursors.200.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 전장 폐허"
+ gpm_survey_precursors.200.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n연구자들과 측량사들이 표면을 철저히 조사하기 시작했습니다.\n\n긁힌 자국, 반쯤 부서진 건물, 수천개의 무기 잔해만이 이 행성에 남아있습니다. 조사팀은 세심한 탐사 끝에 이곳에서 벌어진 대규모의 전투는 이 행성에 살고 있던 문명의 종언을 뜻한다는 것을 밝혀냈습니다.\n\n오래된 무기 및 전투 정보를 통해 우리 군대에 새로운 혁신을 불러일으킬 수 있을 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.200.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n연구자들과 측량사들이 표면을 철저히 조사하기 시작했습니다.\n\n긁힌 자국, 반쯤 부서진 건물, 수천개의 무기 잔해만이 이 행성에 남아있습니다. 조사팀은 세심한 탐사 끝에 이곳에서 벌어진 대규모의 전투는 이 행성에 살고 있던 문명의 종언을 뜻한다는 것을 밝혀냈습니다.\n\n오래된 무기 및 전투 정보를 통해 우리 군대에 새로운 혁신을 불러일으킬 수 있을 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.200.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n연구자들과 측량사들이 표면을 철저히 조사하기 시작했습니다.\n\n긁힌 자국, 반쯤 부서진 건물, 수천개의 무기 잔해만이 이 행성에 남아있습니다. 조사팀은 세심한 탐사 끝에 이곳에서 벌어진 대규모의 전투는 이 행성에 살고 있던 문명의 종언을 뜻한다는 것을 밝혀냈습니다.\n\n오래된 무기 및 전투 정보를 통해 우리 군대에 새로운 혁신을 불러일으킬 수 있을 것입니다."
+
+ # gpm_precursor_outpost_ruins discovery
+ gpm_survey_precursors.210.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 전초 기지"
+ gpm_survey_precursors.210.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성에 착륙하자마자, 이 행성엔 그 누구도 손을 대지 않았다는 것을 알 수 있었습니다. 숲의 중심부에 높여진 외딴 건축물을 제외하면 말이죠. 그 건축물에는 아직 전기가 통하고 있으며, 몇개의 방만이 건설되어 있습니다. 화면에는 여러 종류의 표식이 그려져 있습니다. 아마 고대 언어의 잔재거나, 죽기 직전 미치광이가 지껄인 소리일 것입니다.\n\n통역 드론을 사용해 이 언어를 연구하면 외계종의 사회적 구성 및 관용어에 대해 알 수 있을 것입니다. 비록 그 외계종은 오래전에 사라졌겠지만요."
+ 	# hive mind
+ gpm_survey_precursors.210.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성에 착륙하자마자, 이 행성엔 그 누구도 손을 대지 않았다는 것을 알 수 있었습니다. 숲의 중심부에 높여진 외딴 건축물을 제외하면 말이죠. 그 건축물에는 아직 전기가 통하고 있으며, 몇개의 방만이 건설되어 있습니다. 화면에는 여러 종류의 표식이 그려져 있습니다. 아마 고대 언어의 잔재거나, 죽기 직전 미치광이가 지껄인 소리일 것입니다.\n\n통역 드론을 사용해 이 언어를 연구하면 외계종의 사회적 구성 및 관용어에 대해 알 수 있을 것입니다. 비록 그 외계종은 오래전에 사라졌겠지만요."
+ 	# machine empire
+ gpm_survey_precursors.210.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n행성에 착륙하자마자, 이 행성엔 그 누구도 손을 대지 않았다는 것을 알 수 있었습니다. 숲의 중심부에 높여진 외딴 건축물을 제외하면 말이죠. 그 건축물에는 아직 전기가 통하고 있으며, 몇개의 방만이 건설되어 있습니다. 화면에는 여러 종류의 표식이 그려져 있습니다. 아마 고대 언어의 잔재거나, 죽기 직전 미치광이가 지껄인 소리일 것입니다.\n\n통역 드론을 사용해 이 언어를 연구하면 외계종의 사회적 구성 및 관용어에 대해 알 수 있을 것입니다. 비록 그 외계종은 오래전에 사라졌겠지만요."
+
+ # gpm_precursor_harbor_ruins discovery
+ gpm_survey_precursors.220.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 항만 폐허"
+ gpm_survey_precursors.220.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 해안가에는 정교한 항만의 잔해가 존재합니다. 오래 전에 이 행성에 살았던 이들은 효율적인 어획 및 가공 시설을 통해 이 행성의 생산성을 최대한으로 끌어올렸습니다.\n\n은하 전체적으로 보면 기본적으론 '농사'가 주축입니다만, 이 항만의 효용성에 한계가 있으리란 법은 없습니다. 하지만 우리가 이곳의 비밀을 밝혀내기 위해선 수백년 이상이 걸릴지도 모릅니다."
+ 	# hive mind
+ gpm_survey_precursors.220.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 해안가에는 정교한 항만의 잔해가 존재합니다. 오래 전에 이 행성에 살았던 이들은 효율적인 어획 및 가공 시설을 통해 이 행성의 생산성을 최대한으로 끌어올렸습니다.\n\n은하 전체적으로 보면 기본적으론 '농사'가 주축입니다만, 이 항만의 효용성에 한계가 있으리란 법은 없습니다. 하지만 우리가 이곳의 비밀을 밝혀내기 위해선 수백년 이상이 걸릴지도 모릅니다."
+ 	# machine empire
+ gpm_survey_precursors.220.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성의 해안가에는 정교한 항만의 잔해가 존재합니다. 오래 전에 이 행성에 살았던 이들은 효율적인 어획 및 가공 시설을 통해 이 행성의 생산성을 최대한으로 끌어올렸습니다.\n\n은하 전체적으로 보면 기본적으론 '농사'가 주축입니다만, 이 항만의 효용성에 한계가 있으리란 법은 없습니다. 하지만 우리가 이곳의 비밀을 밝혀내기 위해선 수백년 이상이 걸릴지도 모릅니다."
+
+ # gpm_precursor_ruins discovery
+ gpm_survey_precursors.230.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 폐허"
+ gpm_survey_precursors.230.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n위에서 쏟아지는 열기와 아래에서 올라오는 끝없는 모래는 이 행성을 현세의 지옥으로 만듭니다. 그럼에도 불구하고 몇몇 건축물 표면은 어떠한 것을 표시하고 있습니다. 조사팀은 이 문양들이 나타내는 종교적 성질과 함께, 이곳의 문명은 생명공학 기술이 뛰어났을 수도 있다고 보고했습니다.\n\n조사팀은 이러한 '사원' 하나를 더 조사한 후, 진화가 일어나는 증거를 발견했습니다. 다만 진화의 주도체가 사원 그 자체인지 아니면 이전의 거주민인지는 알 수 없습니다."
+ 	# hive mind
+ gpm_survey_precursors.230.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n위에서 쏟아지는 열기와 아래에서 올라오는 끝없는 모래는 이 행성을 현세의 지옥으로 만듭니다. 그럼에도 불구하고 몇몇 건축물 표면은 어떠한 것을 표시하고 있습니다. 조사팀은 이 문양들이 나타내는 종교적 성질과 함께, 이곳의 문명은 생명공학 기술이 뛰어났을 수도 있다고 보고했습니다.\n\n조사팀은 이러한 '사원' 하나를 더 조사한 후, 진화가 일어나는 증거를 발견했습니다. 다만 진화의 주도체가 사원 그 자체인지 아니면 이전의 거주민인지는 알 수 없습니다."
+ 	# machine empire
+ gpm_survey_precursors.230.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n위에서 쏟아지는 열기와 아래에서 올라오는 끝없는 모래는 이 행성을 현세의 지옥으로 만듭니다. 그럼에도 불구하고 몇몇 건축물 표면은 어떠한 것을 표시하고 있습니다. 조사팀은 이 문양들이 나타내는 종교적 성질과 함께, 이곳의 문명은 생명공학 기술이 뛰어났을 수도 있다고 보고했습니다.\n\n조사팀은 이러한 '사원' 하나를 더 조사한 후, 진화가 일어나는 증거를 발견했습니다. 다만 진화의 주도체가 사원 그 자체인지 아니면 이전의 거주민인지는 알 수 없습니다."
+
+ # gpm_precursor_obelisks discovery
+ gpm_survey_precursors.240.name:0 "발견: §L[this.owner.gpm_precursor_empire_name]§! 방첨탑"
+ gpm_survey_precursors.240.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성엔 특정 위치에 3개의 방첨탑이 설치되어 있습니다. 밤이 되자, 방첨탑은 사이오닉 에너지를 내뿜으며 빛나기 시작했고, 그 위에는 수많은 표식들이 존재합니다. 이 방첨탑을 연구하면 사이오닉과 관문 기술을 이해하는데 도움이 될 것입니다.\n\n연구팀은 각 방첨탑에 연구시설을 설치할 준비를 마쳤으며, 차후 추가 정보 획득을 위해 계속 연구할 것입니다."
+ 	# hive mind
+ gpm_survey_precursors.240.hive.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성엔 특정 위치에 3개의 방첨탑이 설치되어 있습니다. 밤이 되자, 방첨탑은 사이오닉 에너지를 내뿜으며 빛나기 시작했고, 그 위에는 수많은 표식들이 존재합니다. 이 방첨탑을 연구하면 사이오닉과 관문 기술을 이해하는데 도움이 될 것입니다.\n\n연구팀은 각 방첨탑에 연구시설을 설치할 준비를 마쳤으며, 차후 추가 정보 획득을 위해 계속 연구할 것입니다."
+ 	# machine empire
+ gpm_survey_precursors.240.mach.desc:0 "§H[Root.GetLeaderName]§!가 이끄는 과학선 §H[Root.GetName]§!의 조사팀은 놀라운 것을 발견했습니다!\n이 행성엔 특정 위치에 3개의 방첨탑이 설치되어 있습니다. 밤이 되자, 방첨탑은 사이오닉 에너지를 내뿜으며 빛나기 시작했고, 그 위에는 수많은 표식들이 존재합니다. 이 방첨탑을 연구하면 사이오닉과 관문 기술을 이해하는데 도움이 될 것입니다.\n\n연구팀은 각 방첨탑에 연구시설을 설치할 준비를 마쳤으며, 차후 추가 정보 획득을 위해 계속 연구할 것입니다."

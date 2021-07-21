@@ -1,0 +1,482 @@
+﻿l_english: 
+# Leader
+
+  otterleader_event_header:0 "Customize Leaders"
+  otterleader_event_description:0 "Customize your leaders"
+
+  otterleader_option_ruler:0 "Ruler"
+  otterleader_option_governors:0 "Governors"
+  otterleader_option_scientists:0 "Scientists"
+  otterleader_option_admirals:0 "Admirals"
+  otterleader_option_generals:0 "Generals"
+
+  otterleader_option_back:0 "<< BACK <<"
+  otterleader_option_done:0 "§R<< DONE >>§!"
+
+  ## Special
+
+  otterleader_option_clear_all_NAME:0 "Reset all"
+  otterleader_option_clear_all_DESC:0 "Reset all traits on all leaders in this category"
+
+  otterleader_option_clear_negative_NAME:0 "Remove all negative"
+  otterleader_option_clear_negative_DESC:0 "Remove all negative traits on all leaders in this category"
+
+  otterleader_option_add_experience_NAME:0 "Add experience"
+  otterleader_option_add_experience_DESC:0 "Get a few options to add experience on all leaders in this category"
+
+  ## Experience
+
+  otterleader_add_experience_100_NAME:0 "100"
+  otterleader_add_experience_100_DESC:0 "Give §G100§! experience to your leaders"
+
+  otterleader_add_experience_500_NAME:0 "500"
+  otterleader_add_experience_500_DESC:0 "Give §G500§! experience to your leaders"
+
+  otterleader_add_experience_1000_NAME:0 "1 000"
+  otterleader_add_experience_1000_DESC:0 "Give §G1 000§! experience to your leaders"
+
+  otterleader_add_experience_5000_NAME:0 "5 000"
+  otterleader_add_experience_5000_DESC:0 "Give §G5 000§! experience to your leaders"
+
+  otterleader_add_experience_10000_NAME:0 "10 000"
+  otterleader_add_experience_10000_DESC:0 "Give §G10 000§! experience to your leaders"
+
+  ## Project
+
+  otterleader_PROJECT:0 "Customize Leaders"
+  otterleader_PROJECT_DESC:0 "By researching this, you will be able to customize your leaders!"
+
+ # Event
+
+  otterleader_a_event_header:0 "Customize Admirals"
+  otterleader_g_event_header:0 "Customize Generals"
+  otterleader_gov_event_header:0 "Customize Governors"
+  otterleader_r_event_header:0 "Customize Ruler"
+  otterleader_s_event_header:0 "Customize Scientists"
+
+  otterleader_event_description:0 "Pick a category. You can always go back."
+
+  otterleader_option_category_general:0 "General"
+  otterleader_option_category_add_experience:0 "Experience"
+  otterleader_option_category_expertises:0 "Expertises"
+  otterleader_option_category_military:0 "Military"
+  otterleader_option_category_events:0 "Events"
+  otterleader_option_category_special:0 "Special"
+  otterleader_option_category_generic:0 "Generic"
+
+  ## General
+
+  otterleader_a_leader_trait_trickster_NAME:0 "Trickster"
+  otterleader_a_leader_trait_trickster_DESC:0 "Emergency FTL §G-15%§!\nDisengage chance §G+25%§!"
+
+  otterleader_a_leader_trait_fleet_logistician_NAME:0 "Fleet Logistician"
+  otterleader_a_leader_trait_fleet_logistician_DESC:0 "Upkeep §G-10%§!"
+
+  otterleader_a_leader_trait_engineer_NAME:0 "Engineer"
+  otterleader_a_leader_trait_engineer_DESC:0 "Hull regen §G+5%§!\nArmor regen §G+5%§!"
+
+  otterleader_a_leader_trait_aggressive_NAME:0 "Aggressive"
+  otterleader_a_leader_trait_aggressive_DESC:0 "Fire rate §G+5%§!\nSpeed §G+10%§!"
+
+  otterleader_a_leader_trait_cautious_NAME:0 "Cautious"
+  otterleader_a_leader_trait_cautious_DESC:0 "Weapon range §G+20%§!"
+
+  otterleader_a_leader_trait_scout_NAME:0 "Scout"
+  otterleader_a_leader_trait_scout_DESC:0 "Sensor range §G+1§!\nHyperlane range §G+2§!\nSpeed §G+10%§!"
+
+  otterleader_a_leader_trait_unyielding_NAME:0 "Unyielding"
+  otterleader_a_leader_trait_unyielding_DESC:0 "Hull §G+10%§!\nWeapon damage §G+5%§!\nDisengage chance §R-33%§!"
+
+  otterleader_a_leader_trait_gale_speed_NAME:0 "Gale Speed"
+  otterleader_a_leader_trait_gale_speed_DESC:0 "Evasion §G+5%§!\nSpeed §G+20%§!"
+
+  otterleader_g_leader_trait_restrained_NAME:0 "Restrained"
+  otterleader_g_leader_trait_restrained_DESC:0 "Disengage chance §G+20%§!\nCollateral damage §G-33%§!"
+
+  otterleader_g_leader_trait_charismatic_NAME:0 "Charismatic"
+  otterleader_g_leader_trait_charismatic_DESC:0 "Morale §G+25%§!"
+
+  otterleader_g_leader_trait_butcher_NAME:0 "Butcher"
+  otterleader_g_leader_trait_butcher_DESC:0 "Damage §G+10%§!\nCollateral damage §R+33%§!"
+
+  otterleader_g_leader_trait_glory_seeker_NAME:0 "Glory Seeker"
+  otterleader_g_leader_trait_glory_seeker_DESC:0 "Army Morale §G+10%§!\nArmy Damage §G+5%§!"
+
+  otterleader_g_leader_trait_army_logistician_NAME:0 "Logistician"
+  otterleader_g_leader_trait_army_logistician_DESC:0 "Upkeep §G-20%§!"
+
+  otterleader_g_leader_trait_general_mercenary_warrior_NAME:0 "Mercenary Warrior"
+  otterleader_g_leader_trait_general_mercenary_warrior_DESC:0 "Army Damage §G+10%§"
+
+  otterleader_gov_leader_trait_iron_fist_NAME:0 "$leader_trait_iron_fist$"
+  otterleader_gov_leader_trait_iron_fist_DESC:0 "Slave production §G+10%§!"
+
+  otterleader_gov_leader_trait_army_veteran_NAME:0 "$leader_trait_army_veteran$"
+  otterleader_gov_leader_trait_army_veteran_DESC:0 "Army build speed §G+20%§!\nArmy cost §G-20%§!\nArmy defence §G+20%§!"
+
+  otterleader_gov_leader_trait_retired_fleet_officer_NAME:0 "$leader_trait_retired_fleet_officer$"
+  otterleader_gov_leader_trait_retired_fleet_officer_DESC:0 "Starbase Shipyard build speed §G+20%§!\nStarbase Shipyard build cost §G-10%§!"
+
+  otterleader_gov_leader_trait_architectural_interest_NAME:0 "$leader_trait_architectural_interest$"
+  otterleader_gov_leader_trait_architectural_interest_DESC:0 "Buildings cost §G-10%§!\nDistricts cost §G-10%§!\nBuildings build speed §G+10%§!"
+
+  otterleader_gov_leader_trait_agrarian_upbringing_NAME:0 "$leader_trait_agrarian_upbringing$"
+  otterleader_gov_leader_trait_agrarian_upbringing_DESC:0 "Food production from jobs §G+10%§!"
+
+  otterleader_gov_leader_trait_intellectual_NAME:0 "$leader_trait_intellectual$"
+  otterleader_gov_leader_trait_intellectual_DESC:0 "Research production from jobs §G+10%§!"
+
+  otterleader_gov_leader_trait_environmental_engineer_NAME:0 "$leader_trait_environmental_engineer$"
+  otterleader_gov_leader_trait_environmental_engineer_DESC:0 "Blockers clear cost §G-25%§!\nBlockers clear time §G-25%§!"
+
+  otterleader_gov_leader_trait_righteous_NAME:0 "$leader_trait_righteous$"
+  otterleader_gov_leader_trait_righteous_DESC:0 "Crime §G-25§!"
+
+  otterleader_gov_leader_trait_enclave_trader_NAME:0 "$leader_trait_enclave_trader$"
+  otterleader_gov_leader_trait_enclave_trader_DESC:0 "Trade value §G+10%§!"
+
+  otterleader_gov_leader_trait_waste_management_specialist_NAME:0 "$leader_trait_waste_management_specialist$"
+  otterleader_gov_leader_trait_waste_management_specialist_DESC:0 "Buildings upkeep §G+10%§!"
+
+  otterleader_gov_leader_trait_nuumismatic_priest_NAME:0 "$leader_trait_nuumismatic_priest$"
+  otterleader_gov_leader_trait_nuumismatic_priest_DESC:0 "Trade Value §G+10%§!\nConsumer goods upkeep §G-10%§!"
+
+  otterleader_gov_leader_trait_bureaucrat_DESC:0 "Admin production from jobs §G+10%§!"
+
+  otterleader_r_trait_ruler_architectural_sense_NAME:0 "Architectural Sense"
+  otterleader_r_trait_ruler_architectural_sense_DESC:0 "Buildings cost §G-10%§!\nDistricts cost §G-10%§!\nBuilding build speed §G+10%§!"
+
+  otterleader_r_trait_ruler_frontier_spirit_NAME:0 "Frontier Spirit"
+  otterleader_r_trait_ruler_frontier_spirit_DESC:0 "Colonizer cost §G-35%§!\nColony development speed §G+25%§!"
+
+  otterleader_r_trait_ruler_world_shaper_NAME:0 "World Shaper"
+  otterleader_r_trait_ruler_world_shaper_DESC:0 "Terraforming speed §G+25%§!\nDeposit blockers clear cost §G-15%§!"
+
+  otterleader_r_trait_ruler_home_in_the_sky_NAME:0 "Home in the Sky"
+  otterleader_r_trait_ruler_home_in_the_sky_DESC:0 "Starbase module cost §G-20%§!\nStarbase upgrade cost §G-10%§!"
+
+  otterleader_r_trait_ruler_industrialist_NAME:0 "Industrialist"
+  otterleader_r_trait_ruler_industrialist_DESC:0 "Minerals §G+10%§!"
+
+  otterleader_r_trait_ruler_eye_for_talent_NAME:0 "Eye for Talent"
+  otterleader_r_trait_ruler_eye_for_talent_DESC:0 "Leader skill levels §G+1§!\nLeader experience gain §G+20%§!"
+
+  otterleader_r_trait_ruler_deep_connections_NAME:0 "Deep Connections"
+  otterleader_r_trait_ruler_deep_connections_DESC:0 "Influence §G+1§!"
+
+  otterleader_r_trait_ruler_charismatic_NAME:0 "Charismatic"
+  otterleader_r_trait_ruler_charismatic_DESC:0 "Edicts cost §G-10%§!\nEdicts length §G+20%§!"
+
+  otterleader_r_trait_ruler_champion_of_the_people_NAME:0 "Champion of the People"
+  otterleader_r_trait_ruler_champion_of_the_people_DESC:0 "Pop happiness §G+5%§!"
+
+  otterleader_r_trait_ruler_expansionist_NAME:0 "Expansionist"
+  otterleader_r_trait_ruler_expansionist_DESC:0 "Outpost cost §G-15%§!\nStarbase influence cost §G-15%§!"
+
+  otterleader_r_trait_ruler_fertility_preacher_NAME:0 "Fertility Preacher"
+  otterleader_r_trait_ruler_fertility_preacher_DESC:0 "Food §G+10%§!\nPop growth §G+5%§!"
+
+  otterleader_r_trait_ruler_investor_NAME:0 "Investor"
+  otterleader_r_trait_ruler_investor_DESC:0 "Trade value §G+10%§!"
+
+  otterleader_r_trait_ruler_space_miner_NAME:0 "Space Miner"
+  otterleader_r_trait_ruler_space_miner_DESC:0 "Mining station production §G+10%§!\nMining station cost §G-25%§!"
+
+  otterleader_r_trait_ruler_explorer_NAME:0 "Explorer"
+  otterleader_r_trait_ruler_explorer_DESC:0 "Science ship cost §G-25%§!\nAnomlay research speed §G+33%§!"
+
+  otterleader_s_leader_trait_meticulous_NAME:0 "$leader_trait_meticulous$"
+  otterleader_s_leader_trait_meticulous_DESC:0 "Anomaly chance §G+10%§!"
+
+  otterleader_s_leader_trait_spark_of_genius_NAME:0 "$leader_trait_spark_of_genius$"
+  otterleader_s_leader_trait_spark_of_genius_DESC:0 "Research speed §G+10%§!"
+
+  otterleader_s_leader_trait_carefree_NAME:0 "$leader_trait_carefree$"
+  otterleader_s_leader_trait_carefree_DESC:0 "Anomaly research speed §G+35%§!"
+
+  otterleader_s_leader_trait_roamer_NAME:0 "$leader_trait_roamer$"
+  otterleader_s_leader_trait_roamer_DESC:0 "Survey speed §G+25%§!"
+
+  otterleader_s_leader_trait_archaeologist_NAME:0 "$leader_trait_archaeologist$"
+  otterleader_s_leader_trait_archaeologist_DESC:0 "Precursor research speed §G+5%§!"
+
+  otterleader_s_leader_trait_maniacal_NAME:0 "$leader_trait_maniacal$"
+  otterleader_s_leader_trait_maniacal_DESC:0 "Research speed §G+5%§!"
+
+  otterleader_s_leader_trait_custom_AI_assistant_NAME:0 "$leader_trait_custom_AI_assistant$"
+  otterleader_s_leader_trait_custom_AI_assistant_DESC:0 "Research speed §G+5%§!\nSurvey speed §G+10%§!\nAnomaly research speed §G+15%§!"
+
+  otterleader_s_leader_trait_sapient_AI_assistant_NAME:0 "$leader_trait_sapient_AI_assistant$"
+  otterleader_s_leader_trait_sapient_AI_assistant_DESC:0 "Research speed §G+10%§!\nSurvey speed §G+20%§!\nAnomaly research speed §G+30%§!"
+
+  otterleader_s_leader_trait_towel_NAME:0 "$leader_trait_towel$"
+  otterleader_s_leader_trait_towel_DESC:0 "Survey speed §G+40%§!"
+
+  otterleader_s_leader_trait_inspired_archaeologist_NAME:0 "$leader_trait_inspired_archaeologist$"
+  otterleader_s_leader_trait_inspired_archaeologist_DESC:0 "Archaeological site excavation speed §G+30%§!"
+
+  otterleader_s_leader_trait_inspired_researcher_NAME:0 "$leader_trait_inspired_researcher$"
+  otterleader_s_leader_trait_inspired_researcher_DESC:0 "Technology research speed §G+10%§!"
+
+  otterleader_s_leader_trait_inspired_surveyor_NAME:0 "$leader_trait_inspired_surveyor$"
+  otterleader_s_leader_trait_inspired_surveyor_DESC:0 "Anomaly research speed §G+10%§!"
+
+  ## Military
+
+  otterleader_r_trait_ruler_corvette_focus_NAME:0 "$trait_ruler_corvette_focus$"
+  otterleader_r_trait_ruler_corvette_focus_DESC:0 "Corvette cost §G-20%§!"
+
+  otterleader_r_trait_ruler_destroyer_focus_NAME:0 "$trait_ruler_destroyer_focus$"
+  otterleader_r_trait_ruler_destroyer_focus_DESC:0 "Destroyer cost §G-20%§!"
+
+  otterleader_r_trait_ruler_cruiser_focus_NAME:0 "$trait_ruler_cruiser_focus$"
+  otterleader_r_trait_ruler_cruiser_focus_DESC:0 "Cruiser cost §G-20%§!"
+
+  otterleader_r_trait_ruler_battleship_focus_NAME:0 "$trait_ruler_battleship_focus$"
+  otterleader_r_trait_ruler_battleship_focus_DESC:0 "Battleship cost §G-20%§!"
+
+  otterleader_r_trait_ruler_recruiter_NAME:0 "$trait_ruler_recruiter$"
+  otterleader_r_trait_ruler_recruiter_DESC:0 "Army build speed §G+50%§! Army cost §G-20%§!"
+
+  otterleader_r_trait_ruler_from_the_ranks_NAME:0 "$trait_ruler_from_the_ranks$"
+  otterleader_r_trait_ruler_from_the_ranks_DESC:0 "Army morale §G+20%§! Army Experience gain §G+33%§!"
+
+  otterleader_r_trait_ruler_fortifier_NAME:0 "$trait_ruler_fortifier$"
+  otterleader_r_trait_ruler_fortifier_DESC:0 "Starbase upgrade cost §G-10%§! Military Station cost §G-33%§!"
+
+  otterleader_r_trait_ruler_logistic_understanding_NAME:0 "$trait_ruler_logistic_understanding$"
+  otterleader_r_trait_ruler_logistic_understanding_DESC:0 "Ship upkeep §G-5%§! Army upkeep §G-10%§!"
+
+  otterleader_r_trait_ruler_military_pioneer_NAME:0 "$trait_ruler_military_pioneer$"
+  otterleader_r_trait_ruler_military_pioneer_DESC:0 "Ship upgrade cost §G-10%§! Shipyard build cost §G-10%§!"
+
+  otterleader_r_trait_ruler_warlike_NAME:0 "$trait_ruler_warlike$"
+  otterleader_r_trait_ruler_warlike_DESC:0 "Weapon damage §G+5%§! Army damage §G+5%§!"
+
+  otterleader_r_leader_trait_fleet_organizer_NAME:0 "$leader_trait_fleet_organizer$"
+  otterleader_r_leader_trait_fleet_organizer_DESC:0 "Naval cap §G+15%§!"
+
+  otterleader_r_leader_trait_reformer_NAME:0 "$leader_trait_reformer$"
+  otterleader_r_leader_trait_reformer_DESC:0 "Unity §G+10%§!"
+
+  ## Expertise
+
+  otterleader_s_leader_trait_expertise_materials_NAME:0 "Expertise - Materials"
+  otterleader_s_leader_trait_expertise_materials_DESC:0 "§G+15%§! Research speed in Materials"
+
+  otterleader_s_leader_trait_expertise_propulsion_NAME:0 "Expertise - Propulsion"
+  otterleader_s_leader_trait_expertise_propulsion_DESC:0 "§G+15%§! Research speed in Propulsion"
+
+  otterleader_s_leader_trait_expertise_voidcraft_NAME:0 "Expertise - Voidcraft"
+  otterleader_s_leader_trait_expertise_voidcraft_DESC:0 "§G+15%§! Research speed in Voidcraft"
+
+  otterleader_s_leader_trait_expertise_industry_NAME:0 "Expertise - Industry"
+  otterleader_s_leader_trait_expertise_industry_DESC:0 "§G+15%§! Research speed in Industry"
+
+  otterleader_s_leader_trait_expertise_field_manipulation_NAME:0 "Expertise - Field Manipulation"
+  otterleader_s_leader_trait_expertise_field_manipulation_DESC:0 "§G+15%§! Research speed in Field Manipulation"
+
+  otterleader_s_leader_trait_expertise_particles_NAME:0 "Expertise - Particles"
+  otterleader_s_leader_trait_expertise_particles_DESC:0 "§G+15%§! Research speed in Particles"
+
+  otterleader_s_leader_trait_expertise_computing_NAME:0 "Expertise - Computing"
+  otterleader_s_leader_trait_expertise_computing_DESC:0 "§G+15%§! Research speed in Computing"
+
+  otterleader_s_leader_trait_expertise_psionics_NAME:0 "Expertise - Psionics"
+  otterleader_s_leader_trait_expertise_psionics_DESC:0 "§G+15%§! Research speed in Psionics"
+
+  otterleader_s_leader_trait_expertise_new_worlds_NAME:0 "Expertise - New Worlds"
+  otterleader_s_leader_trait_expertise_new_worlds_DESC:0 "§G+15%§! Research speed in New Worlds"
+
+  otterleader_s_leader_trait_expertise_statecraft_NAME:0 "Expertise - Statecraft"
+  otterleader_s_leader_trait_expertise_statecraft_DESC:0 "§G+15%§! Research speed in Statecraft"
+
+  otterleader_s_leader_trait_expertise_biology_NAME:0 "Expertise - Biology"
+  otterleader_s_leader_trait_expertise_biology_DESC:0 "§G+15%§! Research speed in Biology"
+
+  otterleader_s_leader_trait_expertise_military_theory_NAME:0 "Expertise - Military Theory"
+  otterleader_s_leader_trait_expertise_military_theory_DESC:0 "§G+15%§! Research speed in Military Theory"
+
+  ## Events
+
+  otterleader_a_leader_trait_sentinel_NAME:0 "Sentinel"
+  otterleader_a_leader_trait_sentinel_DESC:0 "Damage vs. Swarm §G+20%§!"
+
+  otterleader_a_leader_trait_hive_affinity_NAME:0 "Hive Affinity"
+  otterleader_a_leader_trait_hive_affinity_DESC:0 "Fire rate §G+20%§!"
+
+  otterleader_a_leader_trait_void_swimmer_NAME:0 "Void Swimmer"
+  otterleader_a_leader_trait_void_swimmer_DESC:0 "Speed §G+20%§!"
+
+  otterleader_a_leader_trait_ethereal_NAME:0 "Ethereal"
+  otterleader_a_leader_trait_ethereal_DESC:0 "Evasion §G+20%§!"
+
+  otterleader_a_leader_trait_dimensional_stutter_NAME:0 "Dimensional Stutter"
+  otterleader_a_leader_trait_dimensional_stutter_DESC:0 "Speed §G+20%§!"
+
+  otterleader_a_leader_trait_dragonslayer_NAME:0 "Dragonslayer"
+  otterleader_a_leader_trait_dragonslayer_DESC:0 "Speed §G+10%§!\nFire rate §G+10%§!"
+
+  otterleader_a_leader_trait_cybrex_NAME:0 "Cybrex"
+  otterleader_a_leader_trait_cybrex_DESC:0 "Damage vs. AI §G+20%§!"
+
+  otterleader_a_leader_trait_mercenary_warrior_NAME:0 "Mercenary Warrior"
+  otterleader_a_leader_trait_mercenary_warrior_DESC:0 "Evasion §G+10%§!\nFire rate §G+10%§!"
+
+  otterleader_a_leader_trait_great_khan_NAME:0 "Great Khan"
+  otterleader_a_leader_trait_great_khan_DESC:0 "Fire rate §G+20%§!\nSpeed §G+20%§!\nWeapon damage §G+20%§!\nEvasion §G+20%§!\nHull §G+20%§!\nHull regen §G+20%§!\nArmor regen §G+20%§!\nWeapon range §G+20%§!"
+
+  ## Special
+
+  otterleader_a_leader_trait_admiral_erudite_NAME:0 "Erudite"
+  otterleader_a_leader_trait_admiral_erudite_DESC:0 "Fire rate §G+5%§!\nDisengage chance §G+10%§!"
+
+  otterleader_a_leader_trait_admiral_cyborg_NAME:0 "Cyborg"
+  otterleader_a_leader_trait_admiral_cyborg_DESC:0 "Fire rate §G+5%§!"
+
+  otterleader_a_leader_trait_admiral_synthetic_NAME:0 "Synthetic"
+  otterleader_a_leader_trait_admiral_synthetic_DESC:0 "Fire rate §G+5%§!\nWeapon range §G+10%§!"
+
+  otterleader_a_leader_trait_admiral_psionic_NAME:0 "Psionic"
+  otterleader_a_leader_trait_admiral_psionic_DESC:0 "Weapon damage §G+10%§!\nEvasion §G+15%§!"
+
+  otterleader_a_leader_trait_admiral_chosen_NAME:0 "Chosen"
+  otterleader_a_leader_trait_admiral_chosen_DESC:0 "Weapon damage §G+20%§!\nEvasion §G+30%§!\n§GImmortal§!"
+
+  otterleader_a_leader_trait_admiral_brainslug_NAME:0 "Brain Slug"
+  otterleader_a_leader_trait_admiral_brainslug_DESC:0 "Fire Rate §G+5%§!\nEvasion §G+5%§!\nUpkeep §G-10%§!"
+
+  otterleader_a_leader_trait_admiral_hells_heart_NAME:0 "Hells Heart"
+  otterleader_a_leader_trait_admiral_hells_heart_DESC:0 "Fire Rate §G+10%§!\nWeapon damage §G+10%§!\nSpeed §G+10%§!\nEvasion §R-5%§!\nDisengage chance §R-33%§!\n"
+
+  otterleader_g_leader_trait_general_erudite_NAME:0 "Erudite"
+  otterleader_g_leader_trait_general_erudite_DESC:0 "Damage §G+5%§!\nDisengage chance §G+10%§!"
+
+  otterleader_g_leader_trait_general_cyborg_NAME:0 "Cyborg"
+  otterleader_g_leader_trait_general_cyborg_DESC:0 "Damage §G+5%§!"
+
+  otterleader_g_leader_trait_general_synthetic_NAME:0 "Synthetic"
+  otterleader_g_leader_trait_general_synthetic_DESC:0 "Damage §G+10%§!"
+
+  otterleader_g_leader_trait_general_psionic_NAME:0 "Psionic"
+  otterleader_g_leader_trait_general_psionic_DESC:0 "Morale §G+15%§!\nMorale damage §G+15%§"
+
+  otterleader_g_leader_trait_general_chosen_NAME:0 "Chosen"
+  otterleader_g_leader_trait_general_chosen_DESC:0 "Morale §G+30%§!\nMorale damage §G+20%§!\n§GImmortal§!"
+
+  otterleader_g_leader_trait_general_brainslug_NAME:0 "Brain Slug"
+  otterleader_g_leader_trait_general_brainslug_DESC:0 "Upkeep §G-15%§!"
+
+  otterleader_gov_leader_trait_governor_erudite_NAME:0 "$leader_trait_governor_erudite$"
+  otterleader_gov_leader_trait_governor_erudite_DESC:0 "Research production from jobs §G+5%§!"
+
+  otterleader_gov_leader_trait_governor_cyborg_NAME:0 "$leader_trait_governor_cyborg$"
+  otterleader_gov_leader_trait_governor_cyborg_DESC:0 "Minerals production from jobs §G+10%§!"
+
+  otterleader_gov_leader_trait_governor_synthetic_NAME:0 "$leader_trait_governor_synthetic$"
+  otterleader_gov_leader_trait_governor_synthetic_DESC:0 "Energy production from jobs §G+10%§!\nMinerals production from jobs §G+10%§!"
+
+  otterleader_gov_leader_trait_governor_psionic_NAME:0 "$leader_trait_governor_psionic$"
+  otterleader_gov_leader_trait_governor_psionic_DESC:0 "Stability §G+5§!\nUnity production from jobs §G+10%§!"
+
+  otterleader_gov_leader_trait_governor_chosen_NAME:0 "$leader_trait_governor_chosen$"
+  otterleader_gov_leader_trait_governor_chosen_DESC:0 "Stability §G+10§!\nUnity production from jobs §G+20%§!"
+
+  otterleader_gov_leader_trait_governor_brainslug_NAME:0 "$leader_trait_governor_brainslug$"
+  otterleader_gov_leader_trait_governor_brainslug_DESC:0 "Building speed §G+10%§!\n Research §G+15%§!"
+
+  otterleader_gov_leader_trait_governor_gray_NAME:0 "$leader_trait_governor_gray$"
+  otterleader_gov_leader_trait_governor_gray_DESC:0 "Building cost §G-40%§!\nBuilding build speed §G+40%§!\nEnergy §G+15%§!\nMinerals §G+15%§!\nBlockers clear cost §G-40%§!\nBLockers clear time §G-40%§!\n"
+
+  otterleader_gov_leader_trait_governor_oracle_NAME:0 "$leader_trait_governor_oracle$"
+  otterleader_gov_leader_trait_governor_oracle_DESC:0 "Stability §G+10§!\nUnity §G+20%§!\nCrime §G-45§!\nResearch §G-10%§!"
+
+  otterleader_r_leader_trait_ruler_erudite_NAME:0 "Erudite"
+  otterleader_r_leader_trait_ruler_erudite_DESC:0 "Research §G+5%§!"
+
+  otterleader_r_leader_trait_ruler_synthetic_NAME:0 "Synthetic"
+  otterleader_r_leader_trait_ruler_synthetic_DESC:0 "Robots production §G+5%§!"
+
+  otterleader_r_leader_trait_ruler_psionic_NAME:0 "Psionic"
+  otterleader_r_leader_trait_ruler_psionic_DESC:0 "Ethics attraction §G+10%§!\nInfluence §G+0.5§!"
+
+  otterleader_r_leader_trait_ruler_chosen_NAME:0 "Chosen"
+  otterleader_r_leader_trait_ruler_chosen_DESC:0 "Ethics attraction §G+20%§!\nInfluence §G+1§!\n§GImmortal§!"
+
+  otterleader_r_leader_trait_ruler_brainslug_NAME:0 "Brain Slug"
+  otterleader_r_leader_trait_ruler_brainslug_DESC:0 "Naval cap §G+10%§!\nResearch §G+10%§!"
+
+  otterleader_s_leader_trait_scientist_erudite_NAME:0 "Erudite"
+  otterleader_s_leader_trait_scientist_erudite_DESC:0 "Research speed §G+5%§!"
+
+  otterleader_s_leader_trait_scientist_cyborg_NAME:0 "Cyborg"
+  otterleader_s_leader_trait_scientist_cyborg_DESC:0 "Research speed §G+5%§!"
+
+  otterleader_s_leader_trait_scientist_synthetic_NAME:0 "Synthetic"
+  otterleader_s_leader_trait_scientist_synthetic_DESC:0 "Research speed §G+5%§!\nAnomaly research speed §G+15%§!"
+
+  otterleader_s_leader_trait_scientist_psionic_NAME:0 "Psionic"
+  otterleader_s_leader_trait_scientist_psionic_DESC:0 "Research speed §G+10%§!\nSurvey speed §G+25%§!"
+
+  otterleader_s_leader_trait_scientist_chosen_NAME:0 "Chosen"
+  otterleader_s_leader_trait_scientist_chosen_DESC:0 "Research speed §G+20%§!\nSurvey speed §G+50%§!\n§GImmortal§!"
+
+  otterleader_s_leader_trait_curator_NAME:0 "Curator"
+  otterleader_s_leader_trait_curator_DESC:0 "Research speed §G+15%§!\nSurvey speed §G+25%§!"
+
+  otterleader_s_leader_trait_scientist_brainslut_NAME:0 "Brain Slug"
+  otterleader_s_leader_trait_scientist_brainslut_DESC:0 "Research speed §G+10%§!\nSurvey Speed §G+15%§!\nAnomaly research speed §G+15%§!\n"
+
+  ## Generic
+
+  otterleader_leader_trait_adaptable_NAME:0 "Adaptable"
+  otterleader_leader_trait_adaptable_DESC:0 "Experience gain §G+25%§!"
+
+  otterleader_leader_trait_resilient_NAME:0 "Resilient"
+  otterleader_leader_trait_resilient_DESC:0 "Leader age §G+25§!"
+
+  otterleader_leader_trait_shroud_age_NAME:0 "Shroud Age"
+  otterleader_leader_trait_shroud_age_DESC:0 "Leader age §G+40§!"
+
+  otl.n: "Next§H>§"
+  otl.a: "All [ottleader_1.GetClass]"
+  otl.1: "[ottleader_1.GetName]"
+  otl.2: "[ottleader_2.GetName]"
+  otl.3: "[ottleader_3.GetName]"
+  otl.4: "[ottleader_4.GetName]"
+  otl.5: "[ottleader_5.GetName]"
+  otl.6: "[ottleader_6.GetName]"
+  otl.7: "[ottleader_7.GetName]"
+  otl.8: "[ottleader_8.GetName]"
+  otl.9: "[ottleader_9.GetName]"
+  otl.10: "[ottleader_10.GetName]"
+  otl.11: "[ottleader_11.GetName]"
+  otl.12: "[ottleader_12.GetName]"
+  otl.13: "[ottleader_13.GetName]"
+  otl.14: "[ottleader_14.GetName]"
+  otl.15: "[ottleader_15.GetName]"
+  otl.16: "[ottleader_16.GetName]"
+  otl.17: "[ottleader_17.GetName]"
+  otl.18: "[ottleader_18.GetName]"
+  otl.19: "[ottleader_19.GetName]"
+  otl.20: "[ottleader_20.GetName]"
+  otl.21: "[ottleader_21.GetName]"
+  otl.22: "[ottleader_22.GetName]"
+  otl.23: "[ottleader_23.GetName]"
+  otl.24: "[ottleader_24.GetName]"
+  otl.25: "[ottleader_25.GetName]"
+  otl.26: "[ottleader_26.GetName]"
+  otl.27: "[ottleader_27.GetName]"
+  otl.28: "[ottleader_28.GetName]"
+  otl.29: "[ottleader_29.GetName]"
+  otl.30: "[ottleader_30.GetName]"
+
+
+ 
+
+
+
+
+
+
+ 

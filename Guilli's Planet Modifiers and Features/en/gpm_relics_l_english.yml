@@ -1,0 +1,126 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # Relics
+ # Precursor Relics
+ #######################################
+ 
+ 
+ 
+ #######################################
+ #### Relics
+ #######################################
+ gpm_r_time_displacer:0 "시간 이동기"
+ gpm_r_time_displacer_desc:0 "이 장치는 주변 물체에 대해 상대론적인 시간 영향을 미칩니다."
+ gpm_relic_time_displacer_sci_effectTT:0 "§G이 효과는 시간이 지나면 더욱 강해집니다.§!"
+ gpm_time_displacer_relic_bonus:0 "시간 이동" 
+ gpm_time_displacer_relic_bonus_desc:0 "시간이란건 결국 상대적이죠."
+ 
+ gpm_r_alien_eggs:0 "제노모프 여왕"
+ gpm_r_alien_eggs_desc:0 "풀어주지 마시오."
+ gpm_r_alien_eggs_active_effect:0 "수도성 인근에 몇몇 §Y제노모프 군대§!를 소환합니다."
+ 
+ gpm_r_machine_world_core:0 "기계 행성 핵"
+ gpm_r_machine_world_core_desc:0 "재충전을 기다리는 휴면기의 기계행성 핵입니다."
+ gpm_r_machine_world_core_active_tooltip:0 "§H기계 행성 핵§!을 과충전하면 §Y거주 불가능한 행성§!, §Y거대 가스 행성§! 혹은 §Y부서진 행성§! 중 하나를 §H기계 행성§!으로 전환합니다.\n\n우리 국경 내부의 거주 불가능한 행성에 대한 §Y행성 동화§! 행성 결정을 해금합니다.\n\n§R사용하면 유물이 사라집니다.§!\n"
+
+ gpm_r_mars_rover:0 "복구된 오퍼튜니티 호"
+ gpm_r_mars_rover_desc:0 "오퍼튜니티 호는 완전히 복구되어 화성 표면을 즐겁게 돌아다니고 있습니다."
+ gpm_r_mars_rover_active_tooltip:0 "오퍼튜니티의 배터리를 재충전합니다. 10 £energy£ 에너지 크레딧이 소모됩니다.(특별한 효과는 없습니다.)"
+ 
+ #######################################
+ #### Precursor Relics
+ #######################################
+ gpm_r_encyclopedia_galactica:0 "갤럭티카 대백과사전"
+ gpm_r_encyclopedia_galactica_desc:0 "갤럭티카 대백과사전은 고대 문명의 집단지식을 보유하고 있습니다."
+ gpm_r_encyclopedia_galactica_active_effect_tooltip:0 "모든 몰락 제국으로부터 일시적인 우호도 보너스를 얻습니다."
+ 
+ gpm_r_zero_energy_generator:0 "영에너지 발전기"
+ gpm_r_zero_energy_generator_desc:0 "아공간에서 영에너지를 뽑아 소량의 물질로 변환하는 비교적 작은 장치입니다. 약간의 수정으로 에너지 연결망에 연결될 수 있습니다."
+ gpm_r_zero_energy_generator_active_effect:0 "$gpm_r_zero_energy_generator$"
+ 
+ gpm_r_quantum_sphere:0 "양자 구"
+ gpm_r_quantum_sphere_desc:0 "다른 항성계를 조사할 수 있는 상상할 수 없을 정도로 정교한 구체입니다. 이 구체는 은하 자체와 양자 결합되어 있는 것 같습니다."
+ gpm_r_quantum_sphere_active_effect:0 "$gpm_r_quantum_sphere$"
+ 
+ gpm_r_ai_architect:0 "인공지능 설계사"
+ gpm_r_ai_architect_desc:0 "삼각형 설계를 계속 고집하는 변덕스러운 인공지능입니다. 정상적인 디자인으로 설계하는 것을 동의시키려면 많은 노력이 필요합니다."
+ gpm_r_ai_architect_active_effect:0 "$gpm_r_ai_architect$"
+ 
+ gpm_r_encrypted_sct:0 "암호화된 SCT"
+ gpm_r_encrypted_sct_desc:0 "128b42 - viO9oo96eSf0AlyFelwIkGgMrs8LYTtecfV6aN33qjQ="
+ gpm_r_encrypted_sct_active_effect:0 "$gpm_r_encrypted_sct$"
+ 
+ gpm_r_experimental_weapon:0 "실험용 무기"
+ gpm_r_experimental_weapon_desc:0 "고대 제국의 말기에 고안된 실험용 무기입니다. 그러나 이것으로도 그들의 몰락을 막을 수는 없었습니다."
+ gpm_r_experimental_weapon_active_effect:0 "$gpm_r_experimental_weapon$"
+ 
+ gpm_r_fallout_emergency_replicator:0 "비상 제조기"
+ gpm_r_fallout_emergency_replicator_desc:0 "먼지로부터 동력을 공급받는 자급식 기계입니다. 이것은 생존하는데 필요한 모든 것을 제작할 수 있습니다."
+ 
+ gpm_r_power_core:0 "동력 코어"
+ gpm_r_power_core_desc:0 "고대의 원자로에서 꺼낸 이 동력 코어는 적어도 천년 동안은 전력을 생산할 수 있습니다."
+ gpm_r_power_core_active_effect:0 "$gpm_r_power_core$"
+ 
+ gpm_r_mysterious_shield_generator:0 "고대 보호막 생성기"
+ gpm_r_mysterious_shield_generator_desc:0 "이 비교적 작은 보호막 생성기는 에너지 공격을 차단하는 작은 에너지장을 생성할 수 있습니다. 이것은 잠재적으로 전 행성을 덮을 수 있는 보호막 생성기 네트워크의 기초를 형성할 수 있습니다."
+ gpm_r_mysterious_shield_generator_active_effect_tooltip:0 "행성 결정 §H$decision_gpm_shield_generator_arrays$§!를 사용하여 거주 가능한 단일 행성에 일련의 보호막을 설치할 수 있습니다."
+ 
+ gpm_r_gravity_engine:0 "중력 조종기" 
+ gpm_r_gravity_engine_desc:0 "이 장치는 매우 국부적인 부분의 중력장을 조정하여 중심점 주변의 중력을 증가시키거나 감소시킬 수 있습니다."
+ gpm_r_gravity_engine_active_effect_tooltip:0 "행성 결정 §H$decision_gpm_Floating_Island_Housing$§!를 사용하여 거주 가능한 단일 행성에 거대 부유 도시 건설이 가능해집니다."
+ 
+ gpm_r_codex_administratum:0 "코덱스 어드미니스트라툼"
+ gpm_r_codex_administratum_desc:0 "이 고대의 책은 우주로의 확장에 관한 모든 규정을 포함하는 책입니다. 가죽 커버와 얇은 페이지는 알려지지 않은 생물학적 소재로 제작되어 현미경 크기의 글자가 각인되어 있습니다."
+ gpm_r_codex_administratum_active_effect:0 "$gpm_r_codex_administratum$"
+ 
+ gpm_r_enigmatic_advisor:0 "수수께끼의 조언자"
+ gpm_r_enigmatic_advisor_desc:0 "고대 제국에 대한 방대한 지식과 그들의 부흥과 몰락에 대한 정보를 가지고 있는 이 수다스러운 인공지능 고문은 외교 문제에 있어 매우 중요한 자산이 될 수 있습니다."
+ gpm_r_enigmatic_advisor_active_effect:0 "$gpm_r_enigmatic_advisor$"
+ 
+ gpm_r_positronic_microchip:0 "양전자 마이크로칩"
+ gpm_r_positronic_microchip_desc:0 "양전자 와이어 프레임을 성형하여 마이크로칩을 만들었습니다. 이 칩은 이전에는 없던 계산 효율성에 전력을 공급할 수 있습니다."
+ gpm_r_positronic_nervious_system_active_effect:0 "$gpm_r_positronic_microchip$"
+ 
+ gpm_r_venerable_dreadnaught:0 "고대의 거인"
+ gpm_r_venerable_dreadnaught_desc:0 "어떤 전장에서도 적들을 폐기물로 만들고 파괴를 일으키는 고대의 전쟁 기계입니다."
+ gpm_r_venerable_dreadnaught_passive_effect_tooltip:0 "§H고대의 거인§! 지상군 잠금 해제"
+ gpm_r_venerable_dreadnaught_active_effect_tooltip:0 "§H고대의 거인§! 지상군을 하나 소환합니다. 유지비로 10 £energy£ 에너지 크레딧과 5 £alloys£ 합금이 사용됩니다."
+ 
+ gpm_r_sentinel_queen:0 "센티널 여왕"
+ gpm_r_sentinel_queen_desc:0 "이 자율형 인공지능은 수십억 대의 감시용 드론을 통제하여 행성 어느 곳에서나 질서와 보안을 유지할 수 있습니다."
+ gpm_r_sentinel_queen_active_effect:0 "$gpm_r_sentinel_queen$"
+ 
+ gpm_r_earthquake_engine:0 "지진 발생기"
+ gpm_r_earthquake_engine_desc:0 "국지적이고 통제 가능한 지진을 그 아래 원뿔 모양으로 만들어 낼 수 있는 이상한 부유 장치입니다. 이 장치는 행성의 지각층을 부드럽게 하여 채굴 작업을 용이하게 하기 위해 사용되었다는 이론이 있습니다."
+ 
+ gpm_r_manufactorium_ship:0 "난파된 고대 공장 함선"
+ gpm_r_manufactorium_ship_desc:0 "이 거의 온전한 난파선은 고대의 공장 함선입니다. 이 함선은 함내의 공장에서 다양한 재료가 생산될 수 있도록 합니다."
+ 
+ gpm_r_datacube:0 "데이터큐브"
+ gpm_r_datacube_desc:0 "이 이상한 데이터 큐브에 희미한 빛이 스며듭니다. 만지면 찢어져 열리면서 고르지만 낮선 물체가 드러납니다. 데이터 큐브에 물어보면 큐브 자체의 비밀이 드러나기도 합니다."
+ gpm_r_datacube_active_effect_tooltip:0 "무작위의 5개의 기술에 진행도 보너스 50%를 줍니다."
+ 
+ gpm_r_self_assembly_hub:0 "자가조립 허브"
+ gpm_r_self_assembly_hub_desc:0 "이 자율형 허브는 건설 촉수의 일부를 복제할 수 있어서 거의 모든 것들을 스스로 그리고 어떤 규모로든 건설할 수 있습니다."
+ gpm_r_self_assembly_hub_active_effect:0 "$gpm_r_self_assembly_hub$"
+ 
+ gpm_r_banner_of_the_fallen:0 "몰락한 자의 군기"
+ gpm_r_banner_of_the_fallen_desc:0 "이 수수께끼같은 깃발은 근처에 서 있는 누구에게나 긍정적이고 고무적인 효과를 주는 것 같습니다. 분석 결과 이 천은 일종의 사이오닉 장을 생성한다고 합니다."
+ gpm_r_banner_of_the_fallen_active_effect:0 "$gpm_r_banner_of_the_fallen$"
+ 
+ gpm_r_cloaking_device:0 "은폐장 생성기"
+ gpm_r_cloaking_device_desc:0 "이 장치는 시공을 구부려 큰 물체를 숨길 수 있습니다."
+ gpm_r_cloaking_device_active_effect:0 "$gpm_r_cloaking_device$"
+ gpm_r_cloaking_device_passive_effect_tooltip:0 "랜덤한 제독에게 §H스텔스 전략가§! 트레잇을 부여합니다."
+ 
+ gpm_r_q_storage_compressor:0 "Q-저장소 압축기"
+ gpm_r_q_storage_compressor_desc:0 "Q-저장소, 일반적으로 양자 저장소로 알려진 이것은 이론적으로 무한한 양의 물질을 저장할 수 있습니다. 이 장치가 양자역학의 본질에 대한 내용과 결합하기 위해서는 엄청난 양의 에너지가 필요할 것입니다. 우리는 이 안에 무엇이 들어있는지 그리고 어디에 있을지조차 알 수 없습니다. 무언가를 Q-저장소에서 장치에서 꺼낸 뒤에야 우리는 우리가 꺼낸 것을 알 수 있을 것입니다."
+ 
+ gpm_r_soul_gem:0 "고대 소울젬"
+ gpm_r_soul_gem_desc:0 "이 이상한 보석들은 강력한 사이오닉 영혼들을 담고 있는 것 같습니다. 자세히 들어보면, 그들이 비명을 지르는 것이 들립니다."
+ gpm_r_soul_gem_active_effect:0 "고대 영혼을 공유하는 레벨 5의 불멸 지도자를 획득합니다."
+ 
+ gpm_r_self_repairing_obelisk:0 "자가수리 방첨탑"
+ gpm_r_self_repairing_obelisk_desc:0 "모든 손상을 스스로 수리할 수 있는 완전히 작동하는 장치입니다. 이 장치는 얇은 나노봇 필름으로 덮여 있는 것 같습니다."
+ gpm_r_self_repairing_obelisk_active_effect:0 "$gpm_r_self_repairing_obelisk$"

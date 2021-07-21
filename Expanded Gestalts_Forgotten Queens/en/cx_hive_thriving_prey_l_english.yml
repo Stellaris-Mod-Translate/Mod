@@ -1,0 +1,39 @@
+﻿ l_english:
+ origin_hive_thriving_prey:0 "성공한 피식자"
+ origin_hive_thriving_prey_desc:0 "문제를 직면했을 때, 아무런 선택의 여지가 없다고 하는 것은 그저 책임 회피에 불과합니다. 먹이사슬의 가장 끄트머리에 있었음에도 불구하고, 이 군체의식은 땅굴을 파고 그 속으로 숨어 들어가 오직 계산된 싸움만을 치루며 번영하는 데 성공하였습니다."
+ origin_tooltip_thriving_effects:0 "§Y땅굴 행성§!을 수도로 가짐"
+ mod_job_larva_queen_add:0 "무리 여왕 직업"
+ job_larva_queen_effect_desc:0 "무리 여왕은 §H성장률§을 증가시키지만, 행성의 안정도를 떨어트립니다"
+ mod_district_subterranean_network_max:0 "최대 지하 자원 네트워크"
+ mod_starbase_outpost_alloys_cost_mult: "전초기지 합금 비용"
+ 
+ 
+ d_magma_lake:0 "마그마 호수"
+ d_magma_lake_desc:0 "이 방은 많은 양의 마그마를 보유하고 있습니다."
+ d_windy_tunnels:0 "바람 터널"
+ d_windy_tunnels_desc:0 "이 터널은 폭풍과도 같은 강한 바람이 붑니다."
+ d_mineral_rich_chamber:0 "고밀도 광물방"
+ d_mineral_rich_chamber_desc:0 "이 방은 각종 희귀한 광물로 넘쳐납니다."
+ d_underground_oasis:0 "지하 오아시스"
+ d_underground_oasis_desc:0 "이 방은 모든 유기적 필요를 충족시킬 수 있는 낙원과도 같습니다."
+ d_magma_whirlpool:0 "마그마 소용돌이"
+ d_magma_whirlpool_desc:0 "두 개의 상충하는 마그마의 흐름이 강 중심에 강력한 소용돌이를 만들어냈습니다."
+ d_magma_waterfalls:0 "마그마 폭포"
+ d_magma_waterfalls_desc:0 "마그마가 땅굴망 내부에 폭포를 형성하였습니다."
+ d_extra_humid_caverns:0 "습한 땅굴"
+ d_extra_humid_caverns_desc:0 "이 땅굴은 물과 마그마강이 만나는 지점입니다. 이로 인해 땅굴 내부가 계속 습합니다."
+ d_liquid_core:0 "행성 핵"
+ d_liquid_core_desc:0 "행성이 형성될 당시의 열에너지가 이 액상 핵을 계속 흐르게하고 있습니다."
+ 
+ d_abandoned_nest:0 "버려진 둥지"
+ d_abandoned_nest_desc:0 "이 곳은 한 때 군체의 안식처였으나, 공세로 인해 버려졌습니다."
+ d_flooded_nest:0 "침수된 둥지"
+ d_flooded_nest_desc:0 "이 곳은 한 때 번영하는 둥지였으나, 중대한 채광 참사로 인해 용암에 침수되었습니다."
+ d_infested_nest:0 "감염된 둥지"
+ d_infested_nest_desc:0 "군체의 무덤인지, 격리된 구역인지, 잊혀진 둥지인지 딱 잘라서 말하기는 힘듭니다. 확실한 사실은 이 곳은 시체와 질병으로 가득하다는 것입니다."
+ 
+ d_abandoned_network:0 "버려진 지하망"
+ d_abandoned_network_desc:0 "공격을 받았든 단순하게 버려졌든, 이 땅굴은 비어있고, 그 기반이 불안정해지고 있습니다."
+ 
+ 
+ START_SCREEN_THRIVING_PREY:0 "투쟁은 성장을 위한 전제 조건이다. 오랜 시간, 아주 오랫동안 힘겨운 삶을 거치지 않고 시련과 피, 땀, 눈물로 가득 찬 나날을  거치지 않았다면 우리는 자연이 우리에게 정한 한계를 넘어서지 못했을 것이다.\n\n 우리 세계에서 살아나가는 모든 생물 중 먹이 사슬의 상층 꼭대기에서 다른 이들을 포식할 수 있는 특권을 누리는 것은 극히 일부의 종에 불과했고,  확실히 우리는 그 종이 아니었다. 하지만 기나긴 투쟁과 은신의 세기가 지난  뒤, 우리는 마침내 번성했다. 승리하고야 만 것이다! \n\n이제 우리의 의식은 피식자 특유의 신중함과 경계심이 가득한 눈으로 별들 사이를 내다보고 있지만, 또한 그 사이에 무엇이 있을지 궁금해 하고 있다. "

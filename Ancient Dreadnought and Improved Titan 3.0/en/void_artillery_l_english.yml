@@ -1,0 +1,8 @@
+﻿l_english:
+ 
+ COMBAT_COMPUTER_VOID_BASIC:0 "기본 전투 컴퓨터 (공허 포격)"
+ COMBAT_COMPUTER_VOID_ADVANCED:0 "개량된 전투 컴퓨터 (공허 포격)"
+ COMBAT_COMPUTER_VOID_SAPIENT:0 "지능형 전투 컴퓨터 (공허 포격)"
+ COMBAT_COMPUTER_VOID_AUTONOMOUS:0 "자율형 전투 컴퓨터 (공허 포격)"
+ COMBAT_COMPUTER_VOID_PRECOG:0 "예지 전투 컴퓨터 (공허 포격)"
+ VOID_BEHAVIOR_DESC:1 "§H공허 포격:§! 함선은 일정 거리(150)를 유지하며 적을 향해 포격할 것입니다."

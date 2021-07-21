@@ -1,0 +1,171 @@
+﻿l_english:
+ #########################################
+ # Section Slots                         #
+ #########################################
+ bow:0 "선수"
+ mid:0 "함체"
+ mid1:0 "전열 함체"
+ mid2:0 "중수 함체"
+ mid3:0 "후미 함체"
+ stern:0 "선미"
+ #########################################
+ # Technology View                       #
+ #########################################
+ tech_rs_dreadnoughts:0 "드레드노트"
+ tech_rs_dreadnoughts_desc:0 ""
+ tech_rs_carrier:0 "항공모함"
+ tech_rs_carrier_desc:0 ""
+ tech_rs_battlecruisers:0 "전투순양함"
+ tech_rs_battlecruisers_desc:0 ""
+ tech_rs_carrier_build_speed:0 "표준화 항공모함 양식"
+ tech_rs_carrier_build_speed_desc:0 "항공모함의 모델과 구조에 대한 새로운 표준을 수립함으로써 생산 라인의 효율성 향상을 가져올 수 있습니다."
+ tech_dn_build_speed:0 "표준화 드레드노트 양식"
+ tech_dn_build_speed_desc:0 "드레드노트의 모델과 구조에 대한 새로운 표준을 수립함으로써 생산 라인의 효율성 향상을 가져올 수 있습니다."
+ tech_hdn_build_speed:0 "표준화 헤비 드레드노트 양식"
+ tech_hdn_build_speed_desc:0 "헤비 드레드노트의 모델과 구조에 대한 새로운 표준을 수립함으로써 생산 라인의 효율성 향상을 가져올 수 있습니다."
+ tech_rs_carrier_hull_1:0 "개량 항공모함 선체"
+ tech_rs_carrier_hull_1_desc:0 "건조 기술의 발달로 좀 더 견고하고 내구성이 좋은 항공모함을 만들 수 있게 되었습니다."
+ tech_rs_carrier_hull_2:0 "강화 항공모함 선체"
+ tech_rs_carrier_hull_2_desc:0 "최신형의 항공모함 선체는 구조강성 역장과 향상된 차단격벽으로 이루어져 있습니다."
+ tech_dn_hull_1:0 "개량 드레드노트 선체"
+ tech_dn_hull_1_desc:0 "건조 기술의 발달로 좀 더 견고하고 내구성이 좋은 드레드노트를 만들 수 있게 되었습니다."
+ tech_dn_hull_2:0 "강화 드레드노트 선체"
+ tech_dn_hull_2_desc:0 "최신형의 드레드노트 선체는 구조강성 역장과 향상된 차단격벽으로 이루어져 있습니다."
+ tech_hdn_hull_1:0 "개량 헤비 드레드노트 선체"
+ tech_hdn_hull_1_desc:0 "건조 기술의 발달로 좀 더 견고하고 내구성이 좋은 헤비 드레드노트를 만들 수 있게 되었습니다."
+ tech_hdn_hull_2:0 "강화 헤비 드레드노트 선체"
+ tech_hdn_hull_2_desc:0 "최신형의 헤비 드레드노트 선체는 구조강성 역장과 향상된 차단격벽으로 이루어져 있습니다."
+ TECH_UNLOCK_RS_SUPPORT_CRUISER_TITLE:0 "§H지원 순양함§!\n획기적으로 개조된 경량 무장 순양함 선체에 기초한, 지원 순양함은 함대의 군수 지원 임무를 수행하도록 설계되었습니다."
+ TECH_UNLOCK_RS_SUPPORT_CRUISER_DESC:0 "§H지원 순양함§!\n경량 무장 순양함 선체에 기초한, 지원 순양함은 함대의 군수 지원 임무를 수행하도록 설계되었습니다."
+ TECH_UNLOCK_RS_EA_CRUISER_TITLE:0 "§H함선 유형 잠금 해제:§! 전자전 순양함"
+ TECH_UNLOCK_RS_EA_CRUISER_DESC:0 "§H전자전 순양함§!\n획기적으로 개조된 순양함 선체에 기초한, 전자전 순양함은 함대의 전자기 전투 임무를 수행하도록 설계되었습니다."
+ TECH_UNLOCK_RS_BATTLECRUISER_TITLE:0 "§H함선 유형 잠금 해제:§! 전투순양함"
+ TECH_UNLOCK_RS_BATTLECRUISER_DESC:0 "§H전투순양함§!\n건설 기술의 향상은 간접적으로 중급 이하 함선 중 가장 큰 전투순양함의 개발로 이어졌습니다. 전함에 대체재인 전투순양함은 중급 이하 함대에서 핵심 역할을 합니다."
+ TECH_UNLOCK_RS_DREADNOUGHT_TITLE:0 "§H함선 유형 잠금 해제:§! 드레드노트"
+ TECH_UNLOCK_RS_DREADNOUGHT_DESC:0 "§H드레드노트§!\n공학 설계와 전력 공급/최적화의 발전은 이미 훌륭한 전함 선체에 추가 구역을 제공했습니다. 그 결과 상급 함선 드레드노트가 설계되었습니다."
+ TECH_UNLOCK_RS_HEAVY_DREADNOUGHT_TITLE:0 "§H함선 유형 잠금 해제:§! 헤비 드레드노트"
+ TECH_UNLOCK_RS_HEAVY_DREADNOUGHT_DESC:0 "§H헤비 드레드노트§!\n우주군의 힘을 상징하는, 헤비 드레드노트는 다른 상급 함선보다 장갑과 화력이 상당히 향상된 가장 큰 상급 함선입니다."
+ TECH_UNLOCK_RS_AUXILIARY_CRUISERS_TITLE:0 "§H함선 유형 잠금 해제:§! 지원 순양함, 전자전 순양함"
+ TECH_UNLOCK_RS_AUXILIARY_CRUISERS_DESC:0 "§H함대지원 순양함§!\n순양함 기반으로 다양한 장비를 탑재하여 함대의 공격과 방어를 지원하는 함대지원 순양함."
+ #########################################
+ # Dynamic Modifiers                     #
+ #########################################
+ mod_shipsize_rs_support_cruiser_build_speed_mult:0 "지원 순양함 건조 속도"
+ mod_shipsize_rs_ea_cruiser_build_speed_mult:0 "전자전 순양함 건조 속도"
+ mod_shipsize_rs_battlecruiser_build_speed_mult:0 "전투순양함 건조 속도"
+ mod_shipsize_rs_carrier_build_speed_mult:0 "항공모함 건조 속도"
+ mod_shipsize_rs_dreadnought_build_speed_mult:0 "드레드노트 건조 속도"
+ mod_shipsize_rs_heavy_dreadnought_build_speed_mult:0 "헤비 드레드노트 건조 속도"
+ mod_ship_rs_support_cruiser_cost_mult:0 "지원 순양함 건조 비용"
+ mod_ship_rs_ea_cruiser_cost_mult:0 "전자전 순양함 건조 비용"
+ mod_ship_rs_battlecruiser_cost_mult:0 "전투순양함 건조 비용"
+ mod_ship_rs_carrier_cost_mult:0 "항공모함 건조 비용"
+ mod_ship_rs_dreadnought_cost_mult:0 "드레드노트 건조 비용"
+ mod_ship_rs_heavy_dreadnought_cost_mult:0 "헤비 드레드노트 건조 비용"
+ mod_shipsize_rs_support_cruiser_hull_add:0 "지원 순양함 선체 내구도"
+ mod_shipsize_rs_ea_cruiser_hull_add:0 "전자전 순양함 선체 내구도"
+ mod_shipsize_rs_battlecruiser_hull_add:0 "전투순양함 선체 내구도"
+ mod_shipsize_rs_carrier_hull_add:0 "항공모함 선체 내구도"
+ mod_shipsize_rs_dreadnought_hull_add:0 "드레드노트 선체 내구도"
+ mod_shipsize_rs_heavy_dreadnought_hull_add:0 "헤비 드레드노트 선체 내구도"
+ #########################################
+ # RS Support Cruiser Sections           #
+ #########################################
+ RS_SUPPORT_CRUISER_BOW_A1S2:0 "충전기 선수"
+ RS_SUPPORT_CRUISER_MID_S2RDB:0 "나노봇 드론 함체"
+ RS_SUPPORT_CRUISER_STERN_S2:0 "포함 선미"
+ RS_SUPPORT_CRUISER_STERN_M1:0 "전열 선미"
+ #########################################
+ # RS Electronic Attack Cruiser Sections #
+ #########################################
+ RS_EA_CRUISER_BOW_A1S2:0 "불안정기 선수"
+ RS_EA_CRUISER_MID_A2S2:0 "완충기 함체"
+ RS_EA_CRUISER_STERN_S2:0 "포함 선미"
+ RS_EA_CRUISER_STERN_M1:0 "전열 선미"
+ #########################################
+ # RS BattleCruiser Sections             #
+ #########################################
+ RS_BATTLECRUISER_BOW_L1:0 "중포 선수"
+ RS_BATTLECRUISER_BOW_M1S2:0 "미사일 선수"
+ RS_BATTLECRUISER_BOW_M2:0 "전열 선수"
+ RS_BATTLECRUISER_BOW_XL1:0 "대형무장 선수"
+ RS_BATTLECRUISER_MID1_S2HB:0 "격납고 함체"
+ RS_BATTLECRUISER_MID1_L1M1:0 "중포 함체"
+ RS_BATTLECRUISER_MID1_M3:0 "전열 함체"
+ RS_BATTLECRUISER_MID1_M2S2:0 "미사일 함체"
+ RS_BATTLECRUISER_MID2_S2HB:0 "격납고 함체"
+ RS_BATTLECRUISER_MID2_L1M1:0 "중포 함체"
+ RS_BATTLECRUISER_MID2_M3:0 "전열 함체"
+ RS_BATTLECRUISER_MID2_M2S2:0 "미사일 함체"
+ RS_BATTLECRUISER_STERN_M1:0 "전열 선미"
+ RS_BATTLECRUISER_STERN_S2:0 "포함 선미"
+ #########################################
+ # RS Dreadnought Sections               #
+ #########################################
+ RS_DREADNOUGHT_BOW_L1M1S2:0 "전열 선수"
+ RS_DREADNOUGHT_BOW_L2:0 "중포 선수"
+ RS_DREADNOUGHT_BOW_M1S2SHB:0 "격납고 선수"
+ RS_DREADNOUGHT_BOW_XL1:0 "대형무장 선수"
+ RS_DREADNOUGHT_MID1_L2M2:0 "전열 함체"
+ RS_DREADNOUGHT_MID1_L3:0 "중포 함체"
+ RS_DREADNOUGHT_MID1_M4SHB:0 "격납고 함체"
+ RS_DREADNOUGHT_MID1_S4LHB:0 "모함 함체"
+ RS_DREADNOUGHT_MID2_L2M2:0 "전열 함체"
+ RS_DREADNOUGHT_MID2_L3:0 "중포 함체"
+ RS_DREADNOUGHT_MID2_M4SHB:0 "격납고 함체"
+ RS_DREADNOUGHT_MID2_S4LHB:0 "모함 함체"
+ RS_DREADNOUGHT_STERN_L1:0 "중포 선미"
+ RS_DREADNOUGHT_STERN_M2:0 "전열 선미"
+ #####################################
+ # RS Carrier Sections               #
+ #####################################
+ RS_CARRIER_BOW_2LHB:0 "모함 함체"
+ RS_CARRIER_BOW_2SLHB:0 "격납고 함체"
+ RS_CARRIER_MID1_2LHB:0 "모함 함체"
+ RS_CARRIER_MID1_2SLHB:0 "격납고 함체"
+ RS_CARRIER_MID2_2LHB:0 "모함 함체"
+ RS_CARRIER_MID2_2SLHB:0 "격납고 함체"
+ RS_CARRIER_STERN_1LHB:0 "모함 함체"
+ RS_CARRIER_STERN_S2:0 "격납고 함체"
+ ########################
+ # RS Heavy Dreadnought #
+ ########################
+ RS_HEAVY_DREADNOUGHT_BOW_L1M1S2:0 "전열 선수"
+ RS_HEAVY_DREADNOUGHT_BOW_L2:0 "중포 선수"
+ RS_HEAVY_DREADNOUGHT_BOW_XL1:0 "대형무장 선수"
+ RS_HEAVY_DREADNOUGHT_MID1_L2M2:0 "전열 함체"
+ RS_HEAVY_DREADNOUGHT_MID1_L3:0 "중포 함체"
+ RS_HEAVY_DREADNOUGHT_MID1_M4SHB:0 "격납고 함체"
+ RS_HEAVY_DREADNOUGHT_MID2_L2M2:0 "전열 함체"
+ RS_HEAVY_DREADNOUGHT_MID2_L3:0 "중포 함체"
+ RS_HEAVY_DREADNOUGHT_MID2_M4SHB:0 "격납고 함체"
+ RS_HEAVY_DREADNOUGHT_MID3_L2M2:0 "전열 함체"
+ RS_HEAVY_DREADNOUGHT_MID3_L3:0 "중포 함체"
+ RS_HEAVY_DREADNOUGHT_MID3_M4SHB:0 "격납고 함체"
+ RS_HEAVY_DREADNOUGHT_STERN_L1:0 "중포 선미"
+ RS_HEAVY_DREADNOUGHT_STERN_M2:0 "전열 선미"
+ #########################################
+ # RS Ship Auras                         #
+ #########################################
+ RS_SHIP_AURA_NANOBOT_CLOUD:1 "함선 탑재 나노봇 구름"
+ RS_SHIP_AURA_SHIELD_RECHARGER:1 "함선 탑재 쉴드 충전기"
+ RS_SHIP_AURA_SHIELD_DAMPENER:1 "함선 탑재 실드 타격기"
+ RS_SHIP_AURA_QUANTUM_DESTABILIZER:1 "함선 탑재 양자 불안정기"
+ RS_DEFENSIVE_SHIP_AURA_EMPTY:1 "빈 슬롯"
+ RS_OFFENSIVE_SHIP_AURA_EMPTY:1 "빈 슬롯"
+ #########################################
+ # RS Auxiliary Power Cores              #
+ #########################################
+ aux_power_core:1 "보조 전력 핵"
+ SUB-CAPITAL_FISSION_AUXILIARY_REACTOR:1 "보조 핵분열 반응로"
+ SUB-CAPITAL_FUSION_AUXILIARY_REACTOR:1 "보조 핵융합 반응로"
+ SUB-CAPITAL_COLD_FUSION_AUXILIARY_REACTOR:1 "보조 상온 핵융합 반응로"
+ SUB-CAPITAL_ANTIMATTER_AUXILIARY_REACTOR:1 "보조 반물질 반응로"
+ SUB-CAPITAL_ZERO_POINT_AUXILIARY_REACTOR:1 "보조 영점 반응로"
+ SUB-CAPITAL_DARK_MATTER_REACTOR:1 "보조 암흑물질 반응로"                                                         
+ CAPITAL_FISSION_AUXILIARY_REACTOR:1 "보조 핵분열 반응로"
+ CAPITAL_FUSION_AUXILIARY_REACTOR:1 "보조 핵융합 반응로"
+ CAPITAL_COLD_FUSION_AUXILIARY_REACTOR:1 "보조 상온 핵융합 반응로"
+ CAPITAL_ANTIMATTER_AUXILIARY_REACTOR:1 "보조 반물질 반응로"
+ CAPITAL_ZERO_POINT_AUXILIARY_REACTOR:1 "보조 영점 반응로"
+ CAPITAL_DARK_MATTER_REACTOR:1 "보조 암흑물질 반응로"                                                              

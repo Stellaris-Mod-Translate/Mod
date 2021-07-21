@@ -1,0 +1,50 @@
+﻿l_english:
+
+##################################################################################################################################################################################################################
+### TOOLTIPS ###
+################
+
+requires_no_existing_nsc_factory:0 "오직 하나의 전략 자원 공장을 건설할 수 있습니다."
+requires_no_existing_mall:0 "오직 하나의 은하 백화점을 건설할 수 있습니다."
+requires_no_existing_hospital:0 "오직 하나의 은하 종합병원을 건설할 수 있습니다."
+
+TBA:0 "\n§g(- Description To Be Added -)§!\n"
+
+hq_limit:0 "§R제국당 오직 하나의 §Y$sm_hq_annex$§!만이 존재할 수 있습니다.§!"
+drydock_limit:0 "§R제국당 오직 하나의 §Y$sm_drydock$§!만이 존재할 수 있습니다.§!"
+starbase_management_limit:0 "§R제국당 오직 5개의 §Y$sm_starbase_management$§!만이 존재할 수 있습니다.§!"
+starbase_management_machine_limit:0 "§R제국당 오직 5개의 §Y$sm_starbase_management_machine$§!만이 존재할 수 있습니다.§!"
+starbase_management_hive_limit:0 "§R제국당 오직 5개의 §Y$sm_starbase_management_hive$§!만이 존재할 수 있습니다.§!"
+requires_colony:0 "식민화된 행성 필요"
+requires_stronghold:0 "항성성새 필요"
+
+requires_technology_hyperlane_generation:0 "$TRIGGER_FAIL$ £physics  §Y$tech_hyperlane_generation$§! 기술이 필요합니다."
+
+requires_no_existing_generator_emisor:0 "$TRIGGER_FAIL$제국 내에 이미 건설된 §Y하이퍼레인 생성 신호 발신기§!로 인해 건설할 수 없습니다."
+requires_existing_generator_receptor:0 "$TRIGGER_FAIL$제국 내에 §Y하이퍼레인 생성 신호 수신기§!가 필요합니다."
+requires_existing_generator_emisor:0 "$TRIGGER_FAIL$제국 내에 §Y[Root.GetName]§! 성계와 하이퍼레인으로 연결되지 않은 성계에 §Y하이퍼레인 생성 신호 발신기§!가 필요합니다."
+requires_no_existing_system_generator_emisor:0 "$TRIGGER_FAIL$성계 내에 이미 건설된 §Y하이퍼레인 생성 신호 발신기§!로 인해 건설할 수 없습니다."
+requires_no_existing_generator_receptor:0 "$TRIGGER_FAIL$제국 내에 이미 건설된 §Y하이퍼레인 생성 신호 수신기§!로 인해 건설할 수 없습니다."
+
+requires_no_existing_remover_emisor:0 "$TRIGGER_FAIL$제국 내에 이미 건설된 §Y하이퍼레인 차단 신호 발신기§!로 인해 건설할 수 없습니다."
+requires_existing_remover_receptor:0 "$TRIGGER_FAIL$제국 내에 §Y하이퍼레인 차단 신호 수신기§!가 필요합니다."
+requires_existing_remover_emisor:0 "$TRIGGER_FAIL$제국 내에 §Y[Root.GetName]§! 성계와 하이퍼레인으로 연결된 성계에 §Y하이퍼레인 차단 신호 발신기§!가 필요합니다."
+requires_no_existing_system_remover_emisor:0 "$TRIGGER_FAIL$성계 내에 이미 건설된 §Y하이퍼레인 차단 신호 발신기§!로 인해 건설할 수 없습니다."
+requires_no_existing_remover_receptor:0 "$TRIGGER_FAIL$제국 내에 이미 건설된 §Y하이퍼레인 차단 신호 수신기§!로 인해 건설할 수 없습니다."
+
+nsc_headquarters_bonus:0 "사령부 스테이션 보너스"
+
+requires_technology_exploration_cruiser:0 "§H1세대 탐사 순양함§!이 필요합니다."
+requires_technology_automated_exploration:0 "§B자동화 탐사 규약§!이 필요합니다."
+requires_discovery_tree:0 "§M발견 전통§!의 완성이 필요합니다."
+
+nsc_light_ship_focus_tooltip: "$mod_light_ship_focus$"
+nsc_versatility_focus_tooltip: "$mod_versatility_focus$"
+nsc_capital_focus_tooltip: "$mod_capital_focus$"
+nsc_carrier_focus_tooltip: "$mod_carrier_focus$"
+
+starbase_h_limit.tooltip.fail: = "항성기지에 6개보다 많은 격납고를 건설할 수 없습니다."
+starbase_t_limit.tooltip.fail: = "항성기지에 2개보다 많은 타이탄 포대 모듈을 건설할 수 없습니다."
+starbase_xl_limit.tooltip.fail: = "항성기지에 6개보다 많은 초대형 포대 모듈을 건설할 수 없습니다."
+
+nsc.requires.asteroid: = "성계 내에 소행성이 필요합니다."

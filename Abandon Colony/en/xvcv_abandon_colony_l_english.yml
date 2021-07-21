@@ -1,0 +1,15 @@
+﻿l_english:
+
+### Decisions ###
+xvcv_abandon_colony_decision:0 "식민지 포기"
+xvcv_abandon_colony_decision_desc:0 "다른 이들의 생존을 위해 일부는 희생되어야 합니다."
+xvcv_abandon_colony_decision_effects:0 "이 £planet£ 식민지를 포기하는 확인 창이 열릴 것입니다."
+
+### Events ###
+xvcv_abandon_colony.1.name:0 "§R[Root.GetName]§! 포기"
+xvcv_abandon_colony.1.desc:0 "우리는 §Y[Root.GetName]§! 식민지를 포기할 것입니다."
+xvcv_abandon_colony.1.a:0 "그래."
+xvcv_abandon_colony.1.b:0 "그래, 하지만 행성 내의 £pop£ 인구를 버리지는 말도록."
+xvcv_abandon_colony.1.c:0 "행성 자체를 파괴해."
+xvcv_abandon_colony.1.d:0 "행성 자체를 파괴하되, 행성 내의 £pop£ 인구를 버리지는 말도록."
+xvcv_abandon_colony.close_window:0 "아니, 생각이 바뀌었어."

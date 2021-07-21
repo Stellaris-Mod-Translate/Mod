@@ -1,0 +1,286 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###       Advanced Combat Laser      ###
+########################################
+
+NHSC_LASER_6: "개량형 전투 레이저"
+NHSC_LASER_6_DESC: "성능이 크게 향상된 차세대 전투용 레이저"
+SMALL_NHSC_LASER_6: "소형 $NHSC_LASER_6$"
+SMALL_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+MEDIUM_NHSC_LASER_6: "중형 $NHSC_LASER_6$"
+MEDIUM_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+LARGE_NHSC_LASER_6: "대형 $NHSC_LASER_6$"
+LARGE_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+
+########################################
+###            Aurora Laser          ###
+########################################
+
+NHSC_LASER_7: "오로라 레이저"
+NHSC_LASER_7_DESC: "별처럼 아름답고, 지옥불처럼 치명적인."
+SMALL_NHSC_LASER_7: "소형 $NHSC_LASER_7$"
+SMALL_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+MEDIUM_NHSC_LASER_7: "중형 $NHSC_LASER_7$"
+MEDIUM_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+LARGE_NHSC_LASER_7: "대형 $NHSC_LASER_7$"
+LARGE_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+
+########################################
+###        Tachyon Disruptor         ###
+########################################
+
+NHSC_DISRUPTOR_4: "타키온 분열기"
+NHSC_DISRUPTOR_4_DESC: "장갑과 보호막을 모두 손상시키기 위해 타키온을 사용한 차세대 분열기."
+SMALL_NHSC_DISRUPTOR_4: "소형 $NHSC_DISRUPTOR_4$"
+SMALL_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+MEDIUM_NHSC_DISRUPTOR_4: "중형 $NHSC_DISRUPTOR_4$"
+MEDIUM_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+LARGE_NHSC_DISRUPTOR_4: "대형 $NHSC_DISRUPTOR_4$"
+LARGE_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+
+########################################
+###         Disruptor Lance          ###
+########################################
+
+NHSC_DISRUPTOR_5: "분열 랜스"
+NHSC_DISRUPTOR_5_DESC: "고출력 파티클 랜스에 분열기를 통합한 병기"
+SMALL_NHSC_DISRUPTOR_5: "소형 $NHSC_DISRUPTOR_5$"
+SMALL_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+MEDIUM_NHSC_DISRUPTOR_5: "중형 $NHSC_DISRUPTOR_5$"
+MEDIUM_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+LARGE_NHSC_DISRUPTOR_5: "대형 $NHSC_DISRUPTOR_5$"
+LARGE_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+
+########################################
+###      Advanced Plasma Cannon      ###
+########################################
+
+NHSC_PLASMA_4: "개량형 플라즈마 캐논"
+NHSC_PLASMA_4_DESC: "안정 상태의 플라즈마 클러스터를 발사하는 개량형 캐논은 더 많은 피해를 줄 수 있습니다."
+SMALL_NHSC_PLASMA_4: "소형 $NHSC_PLASMA_4$"
+SMALL_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+MEDIUM_NHSC_PLASMA_4: "중형 $NHSC_PLASMA_4$"
+MEDIUM_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+LARGE_NHSC_PLASMA_4: "대형 $NHSC_PLASMA_4$"
+LARGE_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+
+########################################
+###        Dragonbreath Cannon       ###
+########################################
+
+NHSC_PLASMA_5: "용의 숨결"
+NHSC_PLASMA_5_DESC: "신화 속의 드래곤과 같이 뜨거운 플라즈마를 발사하는 대포."
+SMALL_NHSC_PLASMA_5: "소형 $NHSC_PLASMA_5$"
+SMALL_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+MEDIUM_NHSC_PLASMA_5: "중형 $NHSC_PLASMA_5$"
+MEDIUM_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+LARGE_NHSC_PLASMA_5: "대형 $NHSC_PLASMA_5$"
+LARGE_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+
+########################################
+###        Antimatter Launcher       ###
+########################################
+
+NHSC_ENERGY_TORPEDO_3: "반물질 어뢰"
+NHSC_ENERGY_TORPEDO_3_DESC: "쌍소멸 반응을 이용하여 파괴적인 폭발을 일으키는 차세대 에너지 어뢰."
+
+########################################
+###        Dark Matter Launcher      ###
+########################################
+
+NHSC_ENERGY_TORPEDO_4: "암흑 물질 어뢰"
+NHSC_ENERGY_TORPEDO_4_DESC: "암흑 물질 분해 반응을 이용해 폭발을 응축시켜 목표를 파괴하는 에너지 어뢰."
+
+########################################
+###     Lightstorm Point Defense     ###
+########################################
+
+NHSC_LIGHTSTORM_PD: "뇌전 거점 방어"
+NHSC_LIGHTSTORM_PD_DESC: "매우 효율적인 레이저 기반 거점 방어 체계."
+
+########################################
+###      Improved Tachyon Lance      ###
+########################################
+
+NHSC_PARTICLE_LANCE_3: "개량형 타키온 랜스"
+NHSC_PARTICLE_LANCE_3_DESC: "개선된 집광 어레이를 탑재한 차세대 타키온 랜스."
+
+########################################
+###    Hypercharged Tachyon Lance    ###
+########################################
+
+NHSC_PARTICLE_LANCE_4: "과충전 타키온 랜스"
+NHSC_PARTICLE_LANCE_4_DESC: "타키온 랜스의 커패시터 코일을 과충전함으로써 위력을 더욱 증가시킬 수 있습니다."
+
+########################################
+###       Light of Destruction       ###
+########################################
+
+NHSC_PARTICLE_LANCE_TITANIC: "파멸의 빛"
+NHSC_PARTICLE_LANCE_TITANIC_DESC: "랜스의 정점."
+NHSC_PARTICLE_LANCE_JUGGERNAUT: "$NHSC_PARTICLE_LANCE_TITANIC$"
+NHSC_PARTICLE_LANCE_JUGGERNAUT_DESC: "$NHSC_PARTICLE_LANCE_TITANIC_DESC$"
+
+########################################
+###         Lightning Cannon         ###
+########################################
+
+NHSC_ARC_EMITTER_3: "라이트닝 에미터"
+NHSC_ARC_EMITTER_3_DESC: "강력한 전기장을 발사하는 아크 에미터의 고급형."
+
+########################################
+###            Arc Cannon            ###
+########################################
+
+NHSC_ARC_EMITTER_4: "아크 캐논"
+NHSC_ARC_EMITTER_4_DESC: "라이트닝 에미터의 가장 강력한 버전으로 그 어떤 단단한 장벽도 파괴할 수 있습니다."
+
+########################################
+###          Divine Thunder          ###
+########################################
+
+NHSC_ARC_EMITTER_TITANIC: "신의 번개"
+NHSC_ARC_EMITTER_TITANIC_DESC: "무자비한 힘으로 적을 파괴하는 천상의 폭풍."
+NHSC_ARC_EMITTER_JUGGERNAUT: "$NHSC_ARC_EMITTER_TITANIC$"
+NHSC_ARC_EMITTER_JUGGERNAUT_DESC: "$NHSC_ARC_EMITTER_TITANIC_DESC$"
+
+########################################
+###          Wave-Motion Gun         ###
+########################################
+
+NHSC_WAVEMOTIONGUN_1: "파동포"
+NHSC_WAVEMOTIONGUN_1_DESC: "특수한 배기 포트를 통해 엔진 출력을 일시적으로 무장으로 전용하여 적을 파괴합니다."
+
+NHSC_WAVEMOTIONGUN_2: "차원 파동포"
+NHSC_WAVEMOTIONGUN_2_DESC: "파동포의 업그레이드된 버전으로 빔 집중률을 향상해 정확도를 높였습니다."
+
+NHSC_WAVEMOTIONGUN_3: "타이탄 차원 파동포"
+NHSC_WAVEMOTIONGUN_3_DESC: "차원 파동포의 거대화 버전"
+NHSC_WAVEMOTIONGUN_JUGGERNAUT: "저거너트 $NHSC_WAVEMOTIONGUN_2$"
+NHSC_WAVEMOTIONGUN_JUGGERNAUT_DESC: "$NHSC_WAVEMOTIONGUN_3_DESC$"
+
+########################################
+###        Arc-en-Ciel Cannon        ###
+########################################
+
+NHSC_ARC_EN_CIEL: "아르크 앙 시엘"
+NHSC_ARC_EN_CIEL_DESC: "포켓 디멘션에 목표를 봉인한 뒤 빅 크런치를 일으켜 목표물의 흔적마저도 소멸시킵니다."
+NHSC_ARC_EN_CIEL_TITANIC: "$NHSC_ARC_EN_CIEL$"
+NHSC_ARC_EN_CIEL_TITANIC_DESC: "$NHSC_ARC_EN_CIEL_DESC$"
+NHSC_ARC_EN_CIEL_JUGGERNAUT: "$NHSC_ARC_EN_CIEL$"
+NHSC_ARC_EN_CIEL_JUGGERNAUT_DESC: "$NHSC_ARC_EN_CIEL_DESC$"
+
+########################################
+###       Chrono-Vortex Cannon       ###
+########################################
+
+NHSC_CHRONO_CANNON: "시공 와류 대포"
+NHSC_CHRONO_CANNON_DESC: "이 끔찍한 무기는 적 함선을 불안정한 시공간 왜곡을 통해 파괴합니다."
+SMALL_NHSC_CHRONO_CANNON: "소형 $NHSC_CHRONO_CANNON$"
+SMALL_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+MEDIUM_NHSC_CHRONO_CANNON: "중형 $NHSC_CHRONO_CANNON$"
+MEDIUM_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+LARGE_NHSC_CHRONO_CANNON: "대형 $NHSC_CHRONO_CANNON$"
+LARGE_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+
+########################################
+###    Amplified Cloud lightning     ###
+########################################
+
+NHSC_CLOUD_LIGHTNING_2: "증폭 클라우드 라이트닝"
+NHSC_CLOUD_LIGHTNING_2_DESC: "클라우드 라이트닝 무기의 강화된 버전으로 가장 강력한 전함에조차 피해를 입힐 수 있습니다."
+
+########################################
+###      Thunderstorm Generator      ###
+########################################
+
+NHSC_CLOUD_LIGHTNING_3: "폭풍우 발생기"
+NHSC_CLOUD_LIGHTNING_3_DESC: "적 함선을 찢어버릴 강력한 번개."
+
+########################################
+###           Plasma Cutter          ###
+########################################
+
+NHSC_MINING_LASER_2: "플라즈마 커터"
+NHSC_MINING_LASER_2_DESC: "광산 드론이 사용하는 레이저에서 파생된 함선 절단용 병기."
+SMALL_NHSC_MINING_LASER_2: "소형 $NHSC_MINING_LASER_2$"
+SMALL_NHSC_MINING_LASER_2_DESC: "$NHSC_MINING_LASER_2_DESC$"
+MEDIUM_NHSC_MINING_LASER_2: "중형 $NHSC_MINING_LASER_2$"
+MEDIUM_NHSC_MINING_LASER_2_DESC: "$NHSC_MINING_LASER_2_DESC$"
+
+########################################
+###      Advanced Plasma Cutter      ###
+########################################
+
+NHSC_MINING_LASER_3: "개량형 플라즈마 커터"
+NHSC_MINING_LASER_3_DESC: "향상된 위력과 정확도를 특징으로 하는 $NHSC_MINING_LASER_2$의 개량판"
+SMALL_NHSC_MINING_LASER_3: "소형 $NHSC_MINING_LASER_3$"
+SMALL_NHSC_MINING_LASER_3_DESC: "$NHSC_MINING_LASER_3_DESC$"
+MEDIUM_NHSC_MINING_LASER_3: "중형 $NHSC_MINING_LASER_3$"
+MEDIUM_NHSC_MINING_LASER_3_DESC: "$NHSC_MINING_LASER_3_DESC$"
+
+########################################
+###        Matter Annihilator        ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_WEAPON_2: "물질 절멸기"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "이차원에서의 전리품을 기반으로 한 물질 분해기의 개선된 형태."
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_2: "Small $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_2: "Medium $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_2: "Large $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC$"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_X: "거대 $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_X_DESC: "강력한 성능을 보장하는 $NHSC_EXTRADIMENSIONAL_WEAPON_2$의 확장형"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_T: "초거대 $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_T_DESC: "함대의 가장 거대하고 강력한 함선을 위한 $NHSC_EXTRADIMENSIONAL_WEAPON_2의 타이탄 형"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_J: "저거너트 $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_J_DESC: "함대의 가장 거대하고 강력한 함선을 위한 $NHSC_EXTRADIMENSIONAL_WEAPON_2의 저거너트 형"
+
+########################################
+###          Reality Eraser          ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_WEAPON_3: "현실 말소기"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "현실마저도 지울 수 있는 $NHSC_EXTRADIMENSIONAL_WEAPON_2$의 널 보이드 에너지 증폭 형태."
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_3: "Small $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_3: "Medium $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_3: "Large $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC$"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_X: "Grand $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_X_DESC: "우리 함대에 맞서는 이들에게 엄청난 위협을 주는 $NHSC_EXTRADIMENSIONAL_WEAPON_3$의 확장형"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_T: "Titanic $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_T_DESC: "궁극의 힘의 표상과도 같은 $NHSC_EXTRADIMENSIONAL_WEAPON_3$의 타이탄 형."
+NHSC_EXTRADIMENSIONAL_WEAPON_3_J: "Juggernaut $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_J_DESC: "궁극의 힘의 표상과도 같은 $NHSC_EXTRADIMENSIONAL_WEAPON_3$의 저거너트 형."
+
+########################################
+###      Juggernaut Beam Cannon      ###
+########################################
+
+NHSC_JUGGERNAUT_BEAM_CANNON_1: "저거너트 광선포"
+NHSC_JUGGERNAUT_BEAM_CANNON_1_DESC: "저거너트에 장착할 수 있는 가공할 위력의 광선포."
+NHSC_JUGGERNAUT_BEAM_CANNON_2: "개선된 $NHSC_JUGGERNAUT_BEAM_CANNON_1$"
+NHSC_JUGGERNAUT_BEAM_CANNON_2_DESC: "$NHSC_JUGGERNAUT_BEAM_CANNON_1$의 개선된 형태."
+
+########################################
+###    Overwrites Extradimensional   ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_1: "물질 분해기"
+NHSC_EXTRADIMENSIONAL_1_DESC: "몇 가지 물리적 법칙을 왜곡하여 파괴적인 결과를 불러옵니다."
+SMALL_NHSC_ED_WEAPON: "소형 $NHSC_EXTRADIMENSIONAL_1$"
+SMALL_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+MEDIUM_NHSC_ED_WEAPON: "중형 $NHSC_EXTRADIMENSIONAL_1$"
+MEDIUM_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+LARGE_NHSC_ED_WEAPON: "대형 $NHSC_EXTRADIMENSIONAL_1$"
+LARGE_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+
+MEDIUM_NHSC_PROBE_LIGHTNING: "미식별 에너지 방출기"
+MEDIUM_NHSC_PROBE_LIGHTNING_DESC: "우리가 알고 있는 다른 에너지 무기와 매우 유사합니다. 그러나 일반적으로 무기로 사용되던 에너지와는 주파수가 다릅니다."

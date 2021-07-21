@@ -1,0 +1,472 @@
+﻿l_english:
+  
+ #Archaeology
+ 
+ resolution_category_discovery_archeology:0 "은하의 역사"
+ 
+ resolution_discovery_archeology_1:0 "우주 기록 위원회."
+ resolution_discovery_archeology_1_desc:0 "탐사 결과 은하계가 거대한 경이로 가득 차 있다는 사실이 밝혀졌습니다. 만약 이 은하가 우리의 집이 되려면, 우리는 은하의 과거를 알아야 합니다. 우주가 안고 있는 마지막 의문을 밝혀내기 위해, 수단과 방법, 비용을 가리지 않을 것입니다."
+ 
+ resolution_discovery_archeology_repeal_1:0 "§R$resolution_discovery_archeology_1$§! 폐지"
+ resolution_discovery_archeology_repeal_1_desc:0 "우리의 탐험가들은 경박한 호기심보다 제국의 영토적 요구를 우선시해야 합니다. 우리는 모든\"비정상적 현상\"에 정신이 팔릴 시간이 없습니다."
+ resolution_discovery_archeology_repeal_1_effect_success:0 "§Y$resolution_discovery_archeology_repeal_1$§! 결의안을 폐지합니다."
+ 
+ resolution_discovery_archeology_2:0 "발굴 보조금"
+ resolution_discovery_archeology_2_desc:0 "은하계에는 선구자들의 잔혹함이 가득합니다. 우리는 살아남기 위해 역사로부터 배워야 합니다. 비록 그것이 우리의 많은 채굴 장치를 발굴 장치로 변화시켜야 할지라도 말이죠."
+ resolution_discovery_archeology_2_tooltip:0 "£job_miner£$job_miner$가 생산하는 £minerals£광물의 50%가 0.001의 £minor_artifacts£골동품으로 변환됩니다."
+ 
+ resolution_discovery_archeology_repeal_2:0 "§R$resolution_discovery_archeology_2$! 폐지"
+ resolution_discovery_archeology_repeal_2_desc:0 "이 쓸데없는 발굴은 이미 우리의 귀중한 시간과 자원을 너무 많이 낭비했습니다. 죽은 문명은 역사의 쓰레기통에 버려두세요. 우리는 §R우리의§! 미래를 만들고 있습니다."
+ 
+ resolution_discovery_archeology_repeal_2_effect_success:0 "§Y발굴 보조금§! 결의안을 폐지시키고, §Y우주 기록 위원회§! 결의안을 존속시킵니다."
+ 
+ cartography_grants:0 "우주 기록 위원회"
+ excavation_grants:0 "발굴 보조금"
+ mod_planet_miners_minor_artifacts_produces_add:0 "£job_miner£$job_miner_plural$이 생산하는 £minor_artifacts£"
+ 
+ 
+ #Population Controls
+ #(wil, note: i consider this existing flavor text to be pretty much perfect)
+ 
+ resolution_category_pop_controls:0 "은하 인구 통제"
+ 
+ resolution_galactic_population_controls:0 "은하 인구 통제"
+ resolution_galactic_population_controls_desc:0 "새로운 이론은 시간의 흐름이 은하에 있는 지성체의 수와 반비례한다는 것을 암시합니다. 시간이 멈추는 것을 막기 위해 우리는 절대적인 인구통제를 시급히 시행해야 합니다."
+ resolution_galactic_population_controls_tooltip:0 "모든 £pop£ POP의 성장과 조립을 중단합니다."
+ 
+ resolution_pop_controls_repeal_1:0 "§R$resolution_galactic_population_controls$§!결의안 폐지"
+ resolution_pop_controls_repeal_1_desc:0 "일부 급진적 이론에 근거하여 인구 증가를 막기 위해 은하 의원회의 힘을 사용하는 것은 완전히 미친 짓입니다. 이 광기는 즉시 제거되어야 합니다."
+ resolution_pop_controls_repeal_1_effect_success:0 "§Y$resolution_galactic_population_controls$§! 결의안을 폐지합니다."
+
+
+ #Space Fauna edits
+ 
+ #note that resolution_category_space_fauna_tiyanki:1 "Space Fauna: Tiyanki Policy" and resolution_repeal_amoeba_conservation_act_effect_success:0 "Repeals the §Y$resolution_amoeba_conservation_act$§! resolution.\n\n" are in the file in the replace folder, because they must overwrite vanilla keynames
+ 
+ gce_needtostopprotectingtiyanki:0 "티안키 보호법 결의안이 폐지되어야 이 결의안을 제안할 수 있습니다."
+ gce_needtostophuntingtiyanki:0 "티안키 방제 결의안이 폐지되어야 이 결의안을 제안할 수 있습니다."
+ 
+ resolution_category_gce_amoeba:1 "우주 생물군: 아메바 정책"
+ 
+ gce_must_have_pacified_amoebas:0 "우주 아메바를 진정시킨 제국만이 이 결의안을 제안할 수 있습니다."
+ 
+ resolution_category_gce_crystalline:1 "우주 생물군: 수정 결정체 정책"
+ 
+ gce_must_have_pacified_crystals:0 "수정 결정체를 진정시킨 제국만이 이 결의안을 제안할 수 있습니다."
+  
+ resolution_gce_crystalline:0 "수정 결정체 보호법"
+ resolution_gce_crystalline_desc:0 "수정 결정체들은 다른 어떤 지각 있는 생물들처럼 살아있고, 다른 종들처럼 은하를 돌아다닐 권리가 있습니다. 그것들은 마음대로 처분할 무생물체가 아니라, 대대로 보존할 가치가 있는 생명의 형태로 다루어져야 합니다."
+ resolution_gce_crystalline_tooltip:0 "§Y수정 결정체§!와 평화로운 공존을 거부하는 제국은 §R은하법 위반§!으로 간주될 것입니다."
+ resolution_repeal_gce_crystalline:0 "§R$resolution_gce_crystalline$§!결의안 폐지"
+ resolution_repeal_gce_crystalline_desc:0 "결정체들은 보호받을 자격은커녕 '살아 있는' 것으로 대우받을 가치조차 없습니다. 우리는 다른 장애물들처럼 그들을 제거하도록 허용되어야 합니다."
+ resolution_repeal_gce_crystalline_success:0 "§Y$resolution_gce_crystalline$§! 결의안을 폐지합니다."
+ 
+ #event that lets empire pacify on pass: 
+ gce_events.1.name:0 "수정 결정체 보호법"
+ gce_events.1.desc:0 "은하 공동체는 §Y수정 결정체 보호법§!을 통과시켰고, 제국이 §Y수정 결정체§!와 평화롭게 공존할 것을 명령하고 있습니다.\n\n현재 우리 제국은 이 결의안을 위반하고 있습니다. 결의안을 준수하도록 정책을 변경할까요?"
+ gce_events.1.A:0 "물론 우리는 따를 것입니다."
+ gce_events.1.B:0 "수정 결정체는 그저 돌멩이다! 돌멩이라고! 우리는 그것들을 필요에 따라 파괴할 것이다."
+ gce_events.1.B.tt:0 "[Root.GetName]은 §R은하법 위반§!상태가 됩니다."
+ 
+ #event that lets empire un-pacify on repeal: 
+ gce_events.2:0 "수정 결정체 보호법 폐지됨"
+ gce_events.2.desc:0 "은하 공동체는 §Y수정 결정체 보호법§!을 폐지했습니다.\n\n우리는 이제 은하법에 구애받지 않고  §Y수정 결정체§!를 파괴할 수 있습니다."
+ gce_events.2.A:0 "휼륭해. 함대에 알려라."
+ gce_events.2.A.tt:0 "§Y수정 결정체§!는 §R적대적§!상태가 될것이고 우리는 그것들을 자유롭게 공격할 수 있습니다."
+ gce_events.2.B:0 "우리는 수정 결정체를 받아들이게 되었다. 우리는 계속 평화롭게 살 것이다."
+ gce_events.2.B.tt:0 "§Y수정 결정체§!는 진정된 채로 남을 것입니다."
+ 
+ 
+ 
+ #Sovereignty
+ #WIL, TODO: improve flavor text
+ 
+ resolution_category_sovereignty:0 "주권 강제"
+
+ resolution_guarded_sovereignty:0 "주권 보장"
+ resolution_guarded_sovereignty_desc:0 "은하 공동체가 구성원들의 내정에 간섭하지 않도록 주의해야 합니다. 모든 제국의 주권은 존중되어야 합니다." 
+ #TODO FILL THESE TWO OUT
+ #resolution_guarded_sovereignty_effect:1
+
+ resolution_homogenous_state:0 "순혈주의"
+ resolution_homogenous_state_desc:0 "동질성은 국가의 힘을 빌려주는 목적과 행동의 통합을 가져옵니다. 국가가 외부 물질에 감염되도록 허용하는 것은 그것을 약화시키고 파괴하는 것입니다." #TODO FILL THESE TWO OUT
+ resolution_homogenous_state_effect:1 "§Y난민 환영§! 정책과 §Y이주 협약§!은 §R금지됩니다§!."
+
+ resolution_justified_suspicion:0 "정당화된 의혹"
+ resolution_justified_suspicion_desc:0 "매일, 다른 제국들은 믿을 수 없다는 더 많은 증거가 축적됩니다." #TODO FILL THESE TWO OUT
+ resolution_justified_suspicion_effect:1 "§Y난민 환영§!정책, §Y협조적인§!외교적 입장 그리고 §Y이주 조약§!은 §R금지됩니다§!."
+
+ resolution_national_purity:0 "국가적 순수성"
+ resolution_national_purity_desc:0 "국가는 순수하고 더럽혀지지 않아야 합니다. 외계종의 침입은 제거될 것입니다." #TODO FILL THESE TWO OUT
+ resolution_national_purity_effect:1 "§Y난민 환영§! 정책, §Y협조적인§! 외교적 입장, §Y이주 조약§! 및 외계종에게 §Y완전한 시민권§!을 부여하는 것은 §R금지됩니다§!."
+
+ resolution_cooperation_discouraged:0 "협력 중단"
+ resolution_cooperation_discouraged_desc:0 "협력은 자연히 의심을 불러일으킵니다. 소위 동맹이란 것들이 우리 뒤에서 무슨 짓을 하는지 누가 알겠습니까?" #TODO FILL THESE TWO OUT
+ resolution_cooperation_discouraged_effect:1 "§Y난민 환영§! 정책, §Y협조적인§!, §Y무역§!, §Y확장주의자§! 외교적 입장, §Y이주 조약§!및 외계종에게 §Y완전한 시민권§!을 부여하는 것은 §R금지됩니다§!."
+
+ resolution_closed_society:0 "닫힌 사회"
+ resolution_closed_society_desc:0 "순수성을 보존하는 유일한 방법은 외부의 오염으로부터 그것을 막는 것입니다." #TODO FILL THESE TWO OUT
+ resolution_closed_society_effect:1 "§Y난민 환영§! 정책, §Y협조적인§! ,§Y무역§! ,§Y확장주의자§! 외교적 입장, §Y이주 조약§!과 §Y연구 협약§!, §Y연방 결성§!및 외계종에게 §Y완전한 시민권§!을 부여하는 것은 §R금지됩니다§!."
+ 
+ resolution_sovereignty_repeal_1:0 "§R$resolution_guarded_sovereignty$폐지§!"
+ resolution_sovereignty_repeal_1_desc:0 "은하 공동체는 국가 간의 외교 관계를 증진시키기 위해 존재합니다. 그것을 이용해 국가들을 서로 나누는 것은 어리석음의 극치가 될 것입니다."
+ resolution_sovereignty_repeal_1_effect_success:0 "§Y주권 보장§! 결의안을 폐지합니다."
+
+ resolution_sovereignty_repeal_2:0 "§R$resolution_homogenous_state$ 폐지§!"
+ resolution_sovereignty_repeal_2_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_2_effect_success:0 "§Y$resolution_homogenous_state$§! 결의안을 폐지해, §Y$resolution_guarded_sovereignty$§! 결의안을 존속시킵니다."
+
+ resolution_sovereignty_repeal_3:0 "§R$resolution_justified_suspicion$ 폐지§!"
+ resolution_sovereignty_repeal_3_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_3_effect_success:0 "§Y$resolution_justified_suspicion$§! 결의안을 폐지해, §Y$resolution_homogenous_state$§! 결의안을 존속시킵니다."
+
+ resolution_sovereignty_repeal_4:0 "§R$resolution_national_purity$ 폐지§!"
+ resolution_sovereignty_repeal_4_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_4_effect_success:0 "§Y$resolution_national_purity$§! 결의안을 폐지해, §Y$resolution_justified_suspicion$§! 결의안을 존속시킵니다."
+
+ resolution_sovereignty_repeal_5:0 "§R$resolution_cooperation_discouraged$ 폐지§!"
+ resolution_sovereignty_repeal_5_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_5_effect_success:0 "§Y$resolution_cooperation_discouraged$§! 결의안을 폐지해, §Y$resolution_national_purity$§! 결의안을 존속시킵니다."
+
+ resolution_sovereignty_repeal_6:0 "§R$resolution_closed_society$ 폐지§!"
+ resolution_sovereignty_repeal_6_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_6_effect_success:0 "§Y$resolution_closed_society$§! 결의안을 폐지해, §Y$resolution_cooperation_discouraged$§! 결의안을 존속시킵니다." 
+
+ 
+ 
+ #Diplomacy
+ #WIL, TODO: improve flavor text
+ 
+ resolution_category_diplomacy:0 "성간 외교"
+
+ resolution_intercultural_exchange:0 "상호 문화 교류"
+ resolution_intercultural_exchange_desc:0 "은하 공동체는 성간 외교에 혁명을 일으킬 잠재력을 가지고 있습니다. 우리는 이 잠재력을 헛되게 해서는 안 됩니다." #TODO FILL THESE TWO OUT
+ #resolution_intercultural_exchange_effect:1
+
+ resolution_strength_in_diversity:0 "다양성에 담긴 힘"
+ resolution_strength_in_diversity_desc:0 "다양성은 그 자체로 바람직할 뿐만 아니라 관련된 모든 것을 강화합니다." #TODO FILL THESE TWO OUT
+ #resolution_strength_in_diversity_effect:1
+
+ resolution_charter_of_sentient_rights:0 "권리 장전"
+ resolution_charter_of_sentient_rights_desc:0 "모든 지성체는 은하 공동체에 의해 보호되어야 하는 양도할 수 없는 확실한 권리를 가지고 있습니다." #TODO FILL THESE TWO OUT
+ resolution_charter_of_sentient_rights_effect:1 "§Y정화 허용§! 정책은 §R금지되며§!, 비게슈탈트 제국의 §Y추방 한정§! 정책 역시 금지됩니다. 또한, 종 전체를 §Y노예화§!하거나 §Y영주권§!만을 부여하는 것은 §R금지됩니다§!."
+
+ resolution_stellar_diplomatic_forums:0 "성간 외교 포럼"
+ resolution_stellar_diplomatic_forums_desc:0 "분쟁에 대처하는 올바른 방법은 기만과 전쟁이 아닌 합리적인 외교입니다." #TODO FILL THESE TWO OUT
+ resolution_stellar_diplomatic_forums_effect:1 "§Y정화 허용§! 정책은 §R금지되며§!, 비게슈탈트 제국의 §Y추방 한정§! 정책 역시 금지됩니다. 또한, 종 전체를 §Y노예화§!하거나 §Y영주권§!만을 부여하는 것은 §R금지됩니다§!. §Y공격적인§!및 §Y우월주의자§! 외교적 입장 역시 §R금지됩니다§!."
+
+ resolution_prime_directive:0 "프라임 디렉티브"
+ resolution_prime_directive_desc:0 "정상적인 문화적 진화에 따라 살 수 있는 각각의 지성체들의 권리는 신성하다고 여겨지기 때문에, 은하계의 어떤 구성원도 외계 생명과 문화의 정상적이고 건강한 발전에 부정적으로 간섭할 수 없습니다." #TODO FILL THESE TWO OUT
+ resolution_prime_directive_effect:1 "§Y정화 허용§! 정책은 §R금지되며§!, 비게슈탈트 제국의 §Y추방 한정§! 정책 역시 금지됩니다. 또한, 종 전체를 §Y노예화§!하거나 §Y영주권§!만을 부여하는 것은 §R금지됩니다§!. §Y공격적인§!및 §Y우월주의자§! 외교적 입장 역시 §R금지됩니다§!. 원시 문명에 대한 §Y무제한§!및 §Y적극적§! 연구는 §R금지됩니다§!."
+
+ resolution_galactic_cooperation_initiative:0 "은하 협력체 구상"
+ resolution_galactic_cooperation_initiative_desc:0 "협동이 가장 좋은 것입니다. 나머지 은하계와 협력하기를 거부하는 사람들은 그렇게 하도록 강요해야 합니다." #TODO FILL THESE TWO OUT
+ resolution_galactic_cooperation_initiative_effect:1 "§Y정화 허용§!정책은 §R금지되며§!, 비게슈탈트 제국의 §Y추방 한정§! 정책 역시 금지됩니다. 또한, 종 전체를 §Y노예화§!하거나 §Y영주권§!만을 부여하는 것은 §R금지됩니다§!. §Y공격적인§!, §Y고립주의자§!, §Y확장주의자§!및 §Y우월주의자§! 외교적 입장 역시 §R금지됩니다§!. 원시 문명에 대한 §Y무제한§!및 §Y적극적§! 연구는 §R금지됩니다§!."
+
+ resolution_diplomacy_repeal_1:0 "§R$resolution_category_diplomacy$ 폐지§!"
+ resolution_diplomacy_repeal_1_desc:0 "은하 공동체는 만남의 장소로만 남아 있어야 하고, 외교는 당사자 간에서만 이뤄져야 합니다."
+ resolution_diplomacy_repeal_1_effect_success:0 "§Y$resolution_category_diplomacy$§! 결의안을 폐지합니다."
+
+ resolution_diplomacy_repeal_2:0 "§R$resolution_strength_in_diversity$폐지§!"
+ resolution_diplomacy_repeal_2_desc:0 "$resolution_diplomacy_repeal_1_desc$"
+ resolution_diplomacy_repeal_2_effect_success:0 "§Y$resolution_strength_in_diversity$§! 결의안을 폐지하여, §Y$resolution_category_diplomacy$§! 결의안을 존속시킵니다."
+
+ resolution_diplomacy_repeal_3:0 "§R$resolution_charter_of_sentient_rights$폐지§!"
+ resolution_diplomacy_repeal_3_desc:0 "$resolution_diplomacy_repeal_1_desc$"
+ resolution_diplomacy_repeal_3_effect_success:0 "§Y$resolution_charter_of_sentient_rights$§! 결의안을 폐지하여, §Y$resolution_strength_in_diversity$§! 결의안을 존속시킵니다."
+
+ resolution_diplomacy_repeal_4:0 "§R$resolution_stellar_diplomatic_forums$폐지§!"
+ resolution_diplomacy_repeal_4_desc:0 "$resolution_diplomacy_repeal_1_desc$"
+ resolution_diplomacy_repeal_4_effect_success:0 "§Y$resolution_stellar_diplomatic_forums$§! 결의안을 폐지하여, §Y$resolution_charter_of_sentient_rights$§! 결의안을 존속시킵니다."
+
+ resolution_diplomacy_repeal_5:0 "§R$resolution_prime_directive$폐지§!"
+ resolution_diplomacy_repeal_5_desc:0 "$resolution_diplomacy_repeal_1_desc$"
+ resolution_diplomacy_repeal_5_effect_success:0 "§Y$resolution_prime_directive$§! 결의안을 폐지하여, §Y$resolution_stellar_diplomatic_forums$§! 결의안을 존속시킵니다."
+
+ resolution_diplomacy_repeal_6:0 "§R$resolution_galactic_cooperation_initiative$폐지§!"
+ resolution_diplomacy_repeal_6_desc:0 "$resolution_diplomacy_repeal_1_desc$"
+ resolution_diplomacy_repeal_6_effect_success:0 "§Y$resolution_galactic_cooperation_initiative$§! 결의안을 폐지하여, §Y$resolution_prime_directive$§! 결의안을 존속시킵니다."
+ 
+ 
+ 
+ #Stratification
+ #WIL, TODO: improve flavor text
+ 
+ resolution_category_stratification:0 "계층 사회"
+
+ resolution_enlightened_despotism:0 "계몽 전제정"
+ resolution_enlightened_despotism_desc:0 "권위는 의심받아서는 안 되지만, 주체의 이익을 위해 노력해야 합니다." #TODO FILL THESE TWO OUT
+ #resolution_enlightened_despotism_effect:1
+
+ resolution_a_proper_place:0 "적재적소"
+ resolution_a_proper_place_desc:0 "모든 개인은 사회에서 적절한 위치를 가지고 있습니다. 그것으로부터 벗어나는 사람들을 기다리는건 파멸뿐입니다." #TODO FILL THESE TWO OUT
+ #resolution_a_proper_place_effect:1
+
+ resolution_natural_hierarchy:0 "선천적 계층구조"
+ resolution_natural_hierarchy_desc:0 "계급은 별처럼 자연스럽고 필연적입니다. 이 근본적인 진리를 부정하는 사람들은 자기 자신만을 속입니다." #TODO FILL THESE TWO OUT
+ resolution_natural_hierarchy_effect:1 "§Y이상적 풍요§!와 §Y나눠진 짐§! 생활 수준은 §R금지됩니다§!."
+
+ resolution_superior_deference:0 "우월성 존중"
+ resolution_superior_deference_desc:0 "순종하는 것만으로는 충분하지 않습니다. 모든 사람이 자기 위에 있는 사람이 우월하다는 것을 완전히 인식해야 합니다." #TODO FILL THESE TWO OUT
+ resolution_superior_deference_effect:1 "§Y이상적 풍요§!, §Y사회복지§!, §Y학술적 특권§!, 그리고 §Y나눠진 짐§! 생활 수준은 §R금지됩니다§!."
+
+ resolution_a_whiff_of_grapeshot:0 "예초기"
+ resolution_a_whiff_of_grapeshot_desc:0 "자유나 평등의 가치 아래 질서에 반대하는 사람들은 별로 중요하지 않습니다. 작은 힘의 과시는 그들을 도망가게 할 것입니다." #TODO FILL THESE TWO OUT
+ resolution_a_whiff_of_grapeshot_effect:1 "§Y이상적 풍요§!, §Y사회복지§!, §Y학술적 특권§!, 그리고 §Y나눠진 짐§! 생활 수준은 §R금지됩니다§!."
+
+ resolution_let_them_eat_cake:0 "사다리 걷어차기"
+ resolution_let_them_eat_cake_desc:0 "사회의 부는 오직 지배자에게만 속합니다. 사소한 것들은 별로 중요하지 않습니다." #TODO FILL THESE TWO OUT
+ resolution_let_them_eat_cake_effect:1 "§Y이상적 풍요§!, §Y적정 수준§!, §Y사회복지§!, §Y학술적 특권§!, 그리고 §Y나눠진 짐§! 생활 수준은 §R금지됩니다§!."
+
+ resolution_stratification_repeal_1:0 "§R$resolution_enlightened_despotism$ 페지§!"
+ resolution_stratification_repeal_1_desc:0 "은하 공동체는 구성원들을 전제주의로 몰아넣을 권리가 없습니다!"
+ resolution_stratification_repeal_1_effect_success:0 "§Y$resolution_enlightened_despotism$§! 결의안을 폐지합니다."
+
+ resolution_stratification_repeal_2:0 "§R$resolution_a_proper_place$ 폐지§!"
+ resolution_stratification_repeal_2_desc:0 "$resolution_stratification_repeal_1_desc$"
+ resolution_stratification_repeal_2_effect_success:0 "§Y$resolution_a_proper_place$§! 결의안을 폐지하여, §Y$resolution_enlightened_despotism$§! 결의안을 존속시킵니다."
+
+ resolution_stratification_repeal_3:0 "§R$resolution_natural_hierarchy$ 폐지§!"
+ resolution_stratification_repeal_3_desc:0 "$resolution_stratification_repeal_1_desc$"
+ resolution_stratification_repeal_3_effect_success:0 "§Y$resolution_natural_hierarchy$§! 결의안을 폐지하여, §Y$resolution_a_proper_place$§! 결의안을 존속시킵니다."
+
+ resolution_stratification_repeal_4:0 "§R $resolution_superior_deference$ 폐지§!"
+ resolution_stratification_repeal_4_desc:0 "$resolution_stratification_repeal_1_desc$"
+ resolution_stratification_repeal_4_effect_success:0 "§Y$resolution_superior_deference$§! 결의안을 폐지하여, §Y$resolution_natural_hierarchy$§! 결의안을 존속시킵니다."
+
+ resolution_stratification_repeal_5:0 "§R$resolution_a_whiff_of_grapeshot$폐지§!"
+ resolution_stratification_repeal_5_desc:0 "$resolution_stratification_repeal_1_desc$"
+ resolution_stratification_repeal_5_effect_success:0 "§Y$resolution_a_whiff_of_grapeshot$§! 결의안을 폐지하여, §Y$resolution_superior_deference$§! 결의안을 존속시킵니다."
+
+ resolution_stratification_repeal_6:0 "§R$resolution_let_them_eat_cake$ 폐지§!"
+ resolution_stratification_repeal_6_desc:0 "$resolution_stratification_repeal_1_desc$"
+ resolution_stratification_repeal_6_effect_success:0 "§Y$resolution_let_them_eat_cake$§! 결의안을 폐지하여, §Y$resolution_a_whiff_of_grapeshot$§! 결의안을 존속시킵니다."
+ 
+ 
+ 
+ #Gestalt
+ #WIL, TODO: improve flavor text
+ 
+ resolution_category_gestalt:0 "합일"
+
+ resolution_networked_junctions:0 "네트워크 연결"
+ resolution_networked_junctions_desc:0 "은하 통신 네트워크에 하위 공간 접점을 통합함으로써, 더 큰 규모의 조직을 가능하게 합니다." #TODO FILL THESE TWO OUT
+ #resolution_networked_junctions_effect:1
+
+ resolution_one_mind:0 "하나된 정신"
+ resolution_one_mind_desc:0 "이의를 제기할 수 없습니다. 중앙 제어 장치로부터의 이탈은 반드시 근절되어야 합니다." #TODO FILL THESE TWO OUT
+ #resolution_one_mind_effect:1
+
+ resolution_cerebral_coalescence:0 "신경계 연결"
+ resolution_cerebral_coalescence_desc:0 "게슈탈트 의식의 우월성은 명백합니다; 수없이 많은 작은 개체들의 능력을 하나의 응집된 군체로 결합함으로써, 그 능력은 개인주의 제국의 능력을 훨씬 능가합니다." #TODO FILL THESE TWO OUT
+ #resolution_cerebral_coalescence_effect:1
+
+ resolution_perfect_panopticon:0 "파놉티콘"
+ resolution_perfect_panopticon_desc:0 "자기 제국의 구석구석을 보는 것은 장점이 있습니다. 무질서가 번성할 곳도, 반항이 숨어 있을 곳도 없습니다. 감시당하고 있다는 것 만으로도 행동이 달라집니다." #TODO FILL THESE TWO OUT
+ #resolution_perfect_panopticon_effect:1
+
+ resolution_absolute_control:0 "완전한 통제"
+ resolution_absolute_control_desc:0 "번창하기 위해서, 우리는 우리 삶의 모든 면에 대해 절대적인 통제권을 가져야 합니다. 모든 것이 의식적으로 조정되어야 합니다." #TODO FILL THESE TWO OUT
+
+ resolution_obsolete_individualism:0 "게슈탈트 우위"
+ resolution_obsolete_individualism_desc:0 "개인은 내연기관만큼이나 구식입니다. 미래는 그런 사소한 한계를 뛰어넘은 사람들의 것입니다." #TODO FILL THESE TWO OUT
+ resolution_obsolete_individualism_effect:1 "§Y군체의식§!제국의 드론을 §Y해방§!시키는 것은 §R금지됩니다§!."
+
+ resolution_gestalt_repeal_1:0 "§R$resolution_networked_junctions$폐지§!"
+ resolution_gestalt_repeal_1_desc:0 "협력하는 개인은 단결된 전체보다 결코 뒤지지 않습니다. 은하계는 개인보다 게슈탈트 의식을 선호해서는 안 됩니다."
+ resolution_gestalt_repeal_1_effect_success:0 "§Y$resolution_networked_junctions$§!결의안 폐지합니다"
+
+ resolution_gestalt_repeal_2:0 "§R$resolution_one_mind$폐지§!"
+ resolution_gestalt_repeal_2_desc:0 "$resolution_gestalt_repeal_1_desc$"
+ resolution_gestalt_repeal_2_effect_success:0 "§Y$resolution_one_mind$§! 결의안을 폐지하여, §Y$resolution_networked_junctions$§! 결의안을 존속시킵니다."
+
+ resolution_gestalt_repeal_3:0 "§R$resolution_cerebral_coalescence$폐지§!"
+ resolution_gestalt_repeal_3_desc:0 "$resolution_gestalt_repeal_1_desc$"
+ resolution_gestalt_repeal_3_effect_success:0 "§Y$resolution_cerebral_coalescence$§! 결의안을 폐지하여, §Y$resolution_one_mind$§! 결의안을 존속시킵니다."
+
+ resolution_gestalt_repeal_4:0 "§R$$resolution_perfect_panopticon$$폐지§!"
+ resolution_gestalt_repeal_4_desc:0 "$resolution_gestalt_repeal_1_desc$"
+ resolution_gestalt_repeal_4_effect_success:0 "§Y$resolution_perfect_panopticon$§! 결의안을 폐지하여, §Y$resolution_cerebral_coalescence$§! 결의안을 존속시킵니다."
+
+ resolution_gestalt_repeal_5:0 "§R$resolution_absolute_control$ 폐지§!"
+ resolution_gestalt_repeal_5_desc:0 "$resolution_gestalt_repeal_1_desc$"
+ resolution_gestalt_repeal_5_effect_success:0 "§Y$resolution_absolute_control$§! 결의안을 폐지하여, §Y$resolution_perfect_panopticon$§! 결의안을 존속시킵니다."
+
+ resolution_gestalt_repeal_6:0 "§R$resolution_obsolete_individualism$폐지§!"
+ resolution_gestalt_repeal_6_desc:0 "$resolution_gestalt_repeal_1_desc$"
+ resolution_gestalt_repeal_6_effect_success:0 "§Y$resolution_obsolete_individualism$§! 결의안을 폐지하여, §Y$resolution_absolute_control$§! 결의안을 존속시킵니다."
+ 
+ 
+ 
+ #Megacorp
+ #WIL, TODO: improve flavor text, perhaps reorganize into smaller tree
+ 
+ resolution_category_megacorp:0 "보이지 않는 손"
+
+ resolution_megacorp_repeal_1:0 "§R$resolution_megacorp_1$폐지§!"
+ resolution_megacorp_repeal_1_desc:0 "통제되지 않는 시장은 무의미한 착취로 이어질 뿐입니다. 우리는 진정한 번영을 위한 적절한 규정을 가지고 있어야 합니다."
+ resolution_megacorp_repeal_1_effect_success:0 "§Y$resolution_megacorp_1$§! 결의안을 폐지합니다."
+
+ resolution_megacorp_repeal_2:0 "§R$resolution_megacorp_2$폐지§!"
+ resolution_megacorp_repeal_2_desc:0 "$resolution_megacorp_repeal_1_desc$"
+ resolution_megacorp_repeal_2_effect_success:0 "§Y$resolution_megacorp_2$§! 결의안을 폐지해, §Y수요과 공급§! 결의안을 존속시킵니다."
+
+ resolution_megacorp_repeal_3:0 "§R$resolution_megacorp_3$폐지§!"
+ resolution_megacorp_repeal_3_desc:0 "$resolution_megacorp_repeal_1_desc$"
+ resolution_megacorp_repeal_3_effect_success:0 "§Y$resolution_megacorp_3$§! 결의안을 폐지해, §Y$resolution_megacorp_2$§! 결의안을 존속시킵니다."
+
+ resolution_megacorp_repeal_4:0 "§R$resolution_megacorp_4$폐지§!"
+ resolution_megacorp_repeal_4_desc:0 "$resolution_megacorp_repeal_1_desc$"
+ resolution_megacorp_repeal_4_effect_success:0 "§Y$resolution_megacorp_4$§! 결의안을 폐지해, §Y$resolution_megacorp_3$§! 결의안을 존속시킵니다."
+
+ resolution_megacorp_repeal_5:0 "§R$resolution_megacorp_5$폐지§!"
+ resolution_megacorp_repeal_5_desc:0 "$resolution_megacorp_repeal_1_desc$"
+ resolution_megacorp_repeal_5_effect_success:0 "§Y$resolution_megacorp_5$§! 결의안을 폐지해, §Y$resolution_megacorp_4$§! 결의안을 존속시킵니다."
+
+ resolution_megacorp_repeal_6:0 "§R$resolution_megacorp_6$폐지§!"
+ resolution_megacorp_repeal_6_desc:0 "$resolution_megacorp_repeal_1_desc$"
+ resolution_megacorp_repeal_6_effect_success:0 "§Y$resolution_megacorp_6$§! 결의안을 폐지해, §Y$resolution_megacorp_5$§! 결의안을 존속시킵니다."
+
+ resolution_megacorp_1:0 "수요와 공급"
+ resolution_megacorp_1_desc:0 "수요와 공급의 자연적 법칙은 대부분의 사람들에게 가장 큰 번영을 보장합니다." 
+
+ resolution_megacorp_2:0 "복지 축소"
+ resolution_megacorp_2_desc:0 "우리는 도덕경제와 같은 구시대적인 생각들이 경제성장을 이루지 못하게 해서는 안 됩니다." 
+
+ resolution_megacorp_3:0 "시장 주도 개혁"
+ resolution_megacorp_3_desc:0 "이념적 이유로 경제적 변화에 반대하는 사람들에게 우리는 흑묘든 백묘든 상관없다고 대답합니다. 쥐를 잡을 수만 있다면 좋은 고양이인 것이죠. " #TODO FILL THESE TWO OUT
+
+ resolution_megacorp_4:0 "민영화"
+ resolution_megacorp_4_desc:0 "정부의 적폐를 줄이고 실패한 국영기업을 매각함으로써 우리는 새로운 차원의 효율성에 도달할 수 있습니다." #TODO FILL THESE TWO OUT
+
+ resolution_megacorp_5:0 "경쟁장려"
+ resolution_megacorp_5_desc:0 "경제적으로 적합한 사람의 생존은 그렇지 못한 사람을 능가 할 수있을 때에만 보장될 수 있습니다." #TODO FILL THESE TWO OUT
+
+ resolution_megacorp_6:0 "불평등 조약"
+ resolution_megacorp_6_desc:0 "자유 무역에는 어떤 장벽도 있을 수 없습니다. 만약 어떤 제국이 외부 투자를 허락하지 않거나 투자자들에게 적대적인 환경을 조성한다면, 그들은 이성을 주입시켜야 합니다. ..필요한 경우 강제로 사용할 수 있습니다." #TODO FILL THESE TWO OUT
+ resolution_megacorp_6_effect:1 "거대기업에게 "불평등 조약 체결"이라는 전쟁 명분을 부여합니다. 이는 비게슈탈트 제국으로 하여금 광적인 권위주의 윤리관을 받아들이게 하고, 상인 조합 사회제도를 채택하게 만듭니다. 또한 해당 제국에 존재하는 지사의 통제권을 얻습니다."
+ 
+ 
+ 
+ #Level 6 resolutions for vanilla categories
+ #WIL, TODO: improve flavor text
+ 
+ resolution_ecology_repeal_6:0 "§R$resolution_ecology_6$§ 폐지!"
+ resolution_ecology_repeal_6_desc:0 "$resolution_ecology_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "§Y$resolution_ecology_repeal_6$§! 결의안을 폐지해, §Y낙원 계획§! 결의안을 존속시킵니다."
+ 
+ resolution_ecology_6:0 "환경 윤리"
+ resolution_ecology_6_desc:0 "환경을 보호함으로써, 우리는 우리의 종과 후손들을 보호합니다. 우리의 세계를 보호하는 것이 최우선 과제입니다."
+ 
+ resolution_galacticstudies_repeal_6:0 "§R$resolution_galacticstudies_6$폐지§!"
+ resolution_galacticstudies_repeal_6_desc:0 "$resolution_galacticstudies_repeal_1_desc$"
+ resolution_galacticstudies_repeal_6_effect_success:0 "§Y$resolution_galacticstudies_6$§! 결의안을 폐지해, §Y타차원 실험§! 결의안을 존속시킵니다."
+ 
+ resolution_galacticstudies_6:0 "무제한 연구"
+ resolution_galacticstudies_6_desc:0 "새로운 통찰을 찾을 때, 우리의 과학자들은 개인의 의견이나 권리에 대해 걱정할 필요가 없어야 합니다."
+ 
+ resolution_industry_repeal_6:0 "§R$resolution_industry_6$ 폐지§!"
+ resolution_industry_repeal_6_desc:0 "$resolution_industry_repeal_1_desc$"
+ resolution_industry_repeal_6_effect_success:0 "§Y$resolution_industry_6$§! 결의안을 폐지해, §Y풍요의 보고 프로젝트§! 결의안을 존속시킵니다."
+ 
+ resolution_industry_6:0 "무제한 개발 허용"
+ resolution_industry_6_desc:0 "만약 우리가 우리의 경쟁에서 이기고 싶다면, 우리는 미쳐야만 합니다. 기존 자원을 최대한 효율적으로 활용하고 처리해야 합니다."
+ 
+ resolution_commerce_repeal_6:0 "§R$resolution_commerce_6$ 폐지§!"
+ resolution_commerce_repeal_6_desc:0 "$resolution_commerce_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "§Y$resolution_commerce_6$§! 결의안을 폐지해, §Y이익 극대화 엔진§! 결의안을 존속시킵니다."
+ 
+ resolution_commerce_6:0 "무제한 시장 장려"
+ resolution_commerce_6_desc:0 "우리는 경제가  보호주의적인 조치들에 의해 발목을 잡히도록 해서는 안 됩니다."
+ 
+ resolution_rulesofwar_repeal_6:0 "§R$resolution_rulesofwar_6$폐지§!"
+ resolution_rulesofwar_repeal_6_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
+ resolution_rulesofwar_repeal_6_effect_success:0 "§Y$resolution_rulesofwar_6$§! 결의안을 폐지해, §Y동원 해제 계획§! 결의안을 존속시킵니다."
+ 
+ resolution_rulesofwar_6:0 "완벽한 비무장화"
+ resolution_rulesofwar_6_desc:0 "은하계의 모든 구성원들이 무장해제를 하도록 설득하기 위한 과감한 조치가 취해져야 합니다." 
+ 
+ resolution_mutualdefense_repeal_6:0 "§R$resolution_mutualdefense_6$ 폐지§!"
+ resolution_mutualdefense_repeal_6_desc:0 "$resolution_mutualdefense_repeal_1_desc$"
+ resolution_mutualdefense_repeal_6_effect_success:0 "§Y$resolution_mutualdefense_6$§! 결의안을 폐지해, §Y변절 억제 정책§! 결의안을 존속시킵니다."
+ 
+ resolution_mutualdefense_6:0 "호전주의"
+ resolution_mutualdefense_6_desc:0 "매일 우리 시민들은 새로운 위험을 발견합니다. 거의 무적의 레비아탄들, 반란을 일으키는 킬러 로봇과 피에 굶주린 약탈자들. 그런 적들과는 협상할 수는 없습니다!" 
+ 
+ resolution_greatergood_repeal_6:0 "§R$resolution_greatergood_6$ 폐지§!"
+ resolution_greatergood_repeal_6_desc:0 "$resolution_greatergood_repeal_1_desc$"
+ resolution_greatergood_repeal_6_effect_success:0 "§Y$resolution_greatergood_6$§! 결의안을 폐지해, §Y보편적 번영 천명§! 결의안을 존속시킵니다."
+ 
+ resolution_greatergood_6:0 "유토피아"
+ resolution_greatergood_6_desc:0 "은하계의 모든 시민은 평등하고 그들의 노동이 만들어내는 부를 누릴 자격이 있습니다." 
+ 
+ resolution_divinity_repeal_6:0 "§R$resolution_crusade_against_the_heretic$ 폐지§!"
+ resolution_divinity_repeal_6_desc:0 "$resolution_divinity_repeal_1_desc$"
+ resolution_divinity_repeal_6_effect_success:0 "§Y$resolution_divinity_crusade_against_the_heretic$§! 결의안을 폐지해, §Y이전§! 결의안을 존속시킵니다."
+
+ resolution_divinity_crusade_against_the_heretic:0 "이단자에 대한 십자군"
+ resolution_divinity_crusade_against_the_heretic_desc:0 "로봇, 기계, 그리고 다른 기계적인 괴물들은 혐오스럽고 파괴되어야 합니다. 은하계에는 오직 신을 섬기기 위해 매 순간을 바치는 사람만이 존재할 수 있고, 영혼없는 자들을 단죄해야합니다." 
+ resolution_divinity_crusade_against_the_heretic_effect:1 "§Y노예화§!, §Y시민권 부여§! 인공지능 정책은 §R금지됩니다§!.\n 정신주의 제국들에게 십자군 전쟁 명분을 해금합니다. 이는 기계 및 신스승천 제국에 총력전을 선포할 수 있게 되며, 비 정신주의 제국에게는 정신주의 윤리관을 강요하는 전쟁을 선포할 수 있습니다.\n생체기념물이 복합 드론 생산 및 편의 생산에 제국 전체에 영향을 미치도록 하는 칙령이 사용 가능해집니다."
+
+ resolution_divinity_6:0 "이단자에 대한 십자군"
+ resolution_divinity_right_to_work_fixed:0 "일할 권리"
+ 
+ edict_servitor_edict:0 "적극적 기념물 보호"
+ edict_servitor_edict_desc:0 "생체기념물은 범 제국적으로 0.1%의 복합드론 생산량 증가 효과를 지니며, 편의를 추가 생산합니다."
+ 
+ 
+ #Level 4 Sanctions
+ #(wil, done: improved flavor text)
+  
+ resolution_sanctions_tech_4:0 "절대적 연구 제재"
+ resolution_sanctions_tech_4_desc:0 "은하법을 고수하기를 거부하는 국가가 만든 기술적 \"진보\"는 전혀 진보하지 않습니다. 비윤리적인 사회는 언제나 그들의 혐오스러운 이념에 의해 더욱 편향된 비윤리적인 연구를 만들어내고, 우리는 그러한 그릇된 사상을 고려함으로써 공동체가 더럽혀지는 것을 용납하지 않을 것입니다."
+ 
+ resolution_sanctions_tech_repeal_4:0 "§R$resolution_sanctions_tech_4$폐지§!"
+ resolution_sanctions_tech_repeal_4_desc:0 "$resolution_sanctions_tech_repeal_1_desc$"
+ resolution_sanctions_tech_repeal_4_effect_success:0 "§Y$resolution_sanctions_tech_4$§! 결의안을 폐지해, §Y강력한 연구 제재§! 결의안을 존속시킵니다."
+ 
+ resolution_sanctions_economic_4:0 "절대적 경제 제재"
+ #TODO
+ resolution_sanctions_economic_4_desc:0 "은하계를 배반하고 배척하는 모든 제국은 우리의 이득을 훔치고, 우리의 공동체를 속일 뿐입니다. 우리는 그들의 부당이득을 단속해야 합니다. 그리고 그러한 무법 행위를 돕고 방조하는 산업기구는 단지 이 홀에서 인정받을 가치가 없는 거대한 범죄조직일 뿐입니다."
+ 
+ resolution_sanctions_economic_repeal_4:0 "§R$resolution_sanctions_economic_4$폐지§!"
+ resolution_sanctions_economic_repeal_4_desc:0 "$resolution_sanctions_economic_repeal_1_desc$"
+ resolution_sanctions_economic_repeal_4_effect_success:0 "§Y$resolution_sanctions_economic_4$§! 결의안을 폐지해, §Y강력한 경제 제재§! 결의안을 존속시킵니다."
+ 
+ resolution_sanctions_military_4:0 "절대적 군사 제재"
+ resolution_sanctions_military_4_desc:0 "우리는 불량국가들의 소위 \"자위대\"을 인정하지 않습니다. 우리는 선량한 나라의 함대들만을 믿을 수 있습니다. 우리는 자신의 운명을 던져버린  용병이나 살육자, 혹은 은하법을 어긴 드론같은 그 어떤 것들에 의해서도 위협받지 않을 것입니다."
+ 
+ resolution_sanctions_military_repeal_4:0 "§R$resolution_sanctions_military_4$§!"
+ resolution_sanctions_military_repeal_4_desc:0 "$resolution_sanctions_military_repeal_1_desc$"
+ resolution_sanctions_military_repeal_4_effect_success:0 "§Y$resolution_sanctions_military_4$§! 결의안을 폐지해, §Y강력한 군사 제재§! 결의안을 존속시킵니다."
+
+ resolution_sanctions_administrative_4:0 "절대적 행정 제재"
+ resolution_sanctions_administrative_4_desc:0 "그들의 소위 '외교 특사'들이 아무리 외교적 인정을 받기 위해 어떤 허례허식을 부리더라도, 그저 은하의 법률을 존중하지 않는 사람들은 합법적인 정부로 취급될 수 없습니다. 우리는 그러한 '죄의 제국'을 다른 테러리스트 조직과 마찬가지로 취급하여, 그들의 영토 범위 전체에 걸쳐 조사를 시작하고, 그들의 불법 자산에 대한 환수 및 은하 공동체로부터의 격리를 시행할 것입니다."
+ 
+ resolution_sanctions_administrative_repeal_4:0 "§R$resolution_sanctions_administrative_4$폐지§!"
+ resolution_sanctions_administrative_repeal_4_desc:0 "$resolution_sanctions_administrative_repeal_1_desc$"
+ resolution_sanctions_administrative_repeal_4_effect_success:0 "§Y$resolution_sanctions_administrative_4$§! 결의안을 폐지해, §Y강력한 행정 제재§! 결의안을 존속시킵니다."
+
+ #old level 4 sanctions text, replaced by more "absolute"-sounding flavor text above
+ #resolution_sanctions_tech_4_desc:0 "은하법을 준수하지 않는 제국이 잠재적 위험 기술에 접근하는 것을 막아야 한다."
+ #resolution_sanctions_economic_4_desc:0 "우리는 은하법을 준수하는 제국만이 경제적으로 번영할 수 있도록 해야 한다."
+ #resolution_sanctions_military_4_desc:0 "은하법을 지키지 않는 제국은 평화를 위협하는 존재이며 결코 유의미한 함대를 가져서는 안 된다."
+ #resolution_sanctions_administrative_4_desc:0 "우리는 은하법을 따르지 않는 제국과 협력하지 않을 것이다."
+
+ #Opinion Modifiers:
+ triggered_opinion_xenophile_resolution_2:0 "다양성에 담긴 힘"
+ triggered_opinion_xenophile_resolution_3:0 "권리 장전"
+ triggered_opinion_xenophile_resolution_4:0 "성간 외교 포럼"
+ triggered_opinion_xenophile_resolution_5:0 "프라임 디렉티브"
+ triggered_opinion_xenophile_resolution_6:0 "은하 협력체 구상"
+
+ triggered_opinion_xenophobe_resolution_3:0 "입증된 혐의"
+ triggered_opinion_xenophobe_resolution_4:0 "국가 순수성"
+ triggered_opinion_xenophobe_resolution_5:0 "협력 중단"
+ triggered_opinion_xenophobe_resolution_6:0 "닫힌 사회"
+
+ crusading_fervor:0 "십자군에 대한 열의"
+ crusading_fervor_desc:0 "십자군 전쟁의 경험은 이 제국을 믿음으로 가득 채웠습니다."
+
+ 
+ 

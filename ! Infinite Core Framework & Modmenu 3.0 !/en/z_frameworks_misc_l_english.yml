@@ -1,0 +1,578 @@
+﻿l_english:
+
+#_[星辰大海的渴望]
+#_[全局_misc]
+#_[极限作弊]
+#_[战争类型]
+#_[巨建拆解]
+#_[自我拆解]
+
+
+###_[test]  ##############################################################################################
+ z_fw_dec_test_free_jobs: "§GInfinite Stellaris§!Test：free jobs"
+ z_fw_dec_test_free_jobs_desc: "当前剩余[This.z_fw_var_plnt_free_jobs]"
+
+
+
+
+###_[缺失文本]  #########################################################################################
+ mod_shipsize_constructor_build_speed_mult: "건설선 건설 속도"
+ mod_shipsize_science_build_speed_mult: "과학선 건설 속도"
+ mod_damage_vs_country_type_default_mult: "기본 제국에 대한 피해"
+ mod_damage_vs_country_type_default_ev_mult: "빈 방랑자에 대한 피해"
+ mod_damage_vs_country_type_ascended_empire_mult: "승천 제국에 대한 피해"
+ mod_damage_vs_country_type_lost_empire_mult: "잃어버린 제국에 대한 피해"
+ 
+ 
+
+
+###_[main]  ##############################################################################################
+#_names
+ NAME_z_fw_npc_1: "§GInfinite Stellaris§!"
+ NAME_z_fw_misc_autostation_fleet: "§G자동 스테이션§! 건설선"
+ NAME_z_fw_autostation_ship: "완전 자동 건설선"
+
+#_evts
+ z_fw_evt_crious: "뭔가 일어날 거야!"
+ z_fw_evt_good: "훌륭해!"
+ z_fw_evt_not_bad: "나쁘지 않군!"
+ z_fw_evt_terrible: "끔찍하군!"
+ z_fw_evt_incredible: "정말 놀랍군!"
+ z_fw_evt_bad: "정말 끔찍한 날이군!"
+ z_fw_evt_love: "나는 항상 코가사를 사랑할 것이다!"
+ z_fw_evt_love_2: "그녀는 왜 여기에 ... 아니, 나는 항상 코가사를 사랑할 것이다!"
+ 
+#_기술
+ tech_z_dummy: "§R그것은 네가 가질것이 아니다!§!"
+ 
+#_트레잇
+#_통치자 트레잇
+ z_fw_trait_leader_test_ancrel:0 "끝없는 축복-고고학"
+ z_fw_trait_leader_test_ancrel_desc:0 "풍부한 지식！"
+ 
+#_modifiers
+ z_fw_temp_function:0 "§B기능 편집§!"
+ z_fw_temp_function_desc:0 "임시 기능에 대한 수정자입니다"
+ z_fw_mod_cntr_default:0 "§GInfinite Stellaris:§! 버프 기본"
+ z_fw_mod_cntr_default_desc:0 "Shipbreaker/"
+
+#_메인 이벤트 체인 SP用Root EC用This,EC等同country本身
+ z_chain_main_title: "§GInfinite Collection: 핵심 시스템§!"
+ z_chain_main_desc: "Infinite Collection의 세부 변수입니다.\n\n§G$z_desire_for_star_var$§! left §G[This.z_desire_for_star_var]§!"
+ 
+#_megastructures
+ z_fw_mega_test:0 "테스트 건물"
+ z_fw_mega_test_DESC:0 "테스트!"
+ z_fw_mega_test_MEGASTRUCTURE_DETAILS:0 "X"
+
+
+
+
+
+
+
+
+###_Eager for stars
+#_evts
+ z_fw_start_setting:0 "§GIfinite Stellaris§! 시작 설정"
+ z_fw_start_setting_desc:0 "Infinite Stellaris 프레임 워크를 활성화하고 프레임 워크와 함께 제공되는 새 콘텐츠를 사용하기로 결정했습니다. \n여기에서 Infinite Stellaris 및 하위 모드의 핵심 컨텐츠를 미리 설정합니다. 커서를 각 옵션으로 이동하여 유지한 후 안내창을 주의 깊게 읽으십시오. 설정을 변경하려면 옵션을 직접 클릭하면 다른 옵션으로 전환됩니다. \n설정을 마친 후 하단의 §G$z_fw1_misc.1.c$§!를 클릭하십시오. 그렇지 않으면 이 메뉴를 종료 할 수 없습니다. §G$z_fw1_misc.1.c$§!를 찾을 수 없다면 §B오른쪽 슬라이더§!를 사용하십시오."                     
+ z_fw_start_setting_1:0 "시작 설정 : 성능 및 유틸리티"
+ z_fw_start_setting_1_desc:0 "Infinite Stellaris 프레임 워크를 활성화하고 프레임 워크와 함께 제공되는 새 콘텐츠를 사용하기로 결정했습니다. \n여기에서 Infinite Stellaris 및 하위 모드의 핵심 콘텐츠를 사전 설정합니다. 머무를 각 옵션으로 커서를 이동하고 나중에 소개문을 주의 깊게 읽으십시오. 설정을 변경하려면 옵션을 직접 클릭하면 다른 옵션으로 전환됩니다. \n알림: §B오른쪽 슬라이더§!를 사용하십시오.\n최적화 및 특수 유틸리티와 관련된 모든 설정."
+ z_fw_start_setting_2:0 "시작 설정: 추가 콘텐츠"
+ z_fw_start_setting_2_desc:0 "Infinite Stellaris 프레임 워크를 활성화하고 프레임 워크와 함께 제공되는 새 콘텐츠를 사용하기로 결정했습니다. \n여기에서 Infinite Stellaris 및 하위 모드의 핵심 콘텐츠를 사전 설정합니다. 머무를 각 옵션으로 커서를 이동하고 나중에 소개문을 주의 깊게 읽으십시오. 설정을 변경하려면 옵션을 직접 클릭하면 다른 옵션으로 전환됩니다. \n알림: §B오른쪽 슬라이더§!를 사용하십시오.\n이스터에그, 독립 컨텐츠 등등 카테고리의 대부분의 설정은 게임 도중에 변경할 수 없습니다."
+ z_fw_start_setting_done:0 "시작 설정 완료"
+ z_fw_tips_start_setting_done:0 "설정을 마친 후 ESC를 클릭하여 이 메뉴를 종료하고 초기화합니다. 게임에서 언제든지 설정창을 열어 설정을 조정할 수도 있습니다."
+ z_fw_start_setting_next:0 "다음 설정 카테고리"
+ 
+ z_fw_start_title:0 "§GIfinite Stellaris§!에 오신 것을 환영합니다"
+ z_fw_start_desc:0 "§GInfinite Stellaris§!는 수많은 §Y고품질 모드§!를 수집하는데 전념합니다. 각 모드를 §Y호환성§!으로 만든다는 전제하에, 그 기능들은 효과적일 것입니다. 이것은 Infinite Stellaris와 그 하위 모듈이 기반이 되는 동안 완전히 새로운 게임 시스템을 구축할 것입니다. 확실히, 이것은 여러분을 위한 새로운 여정을 시작할 것입니다.\n\n현재 컨텐츠는 §Y기본 호환 패치/ 행성 용량/ 새로운 전쟁 유형/ 새로운 맵 모드/ 고급 무기 기술 연계 시스템/ 동적 난이도 시스템/ 자동 건설선/ 우주 감시망 스위치/ 고급 치트 시스템/ 신규 유물 및 이벤트 등입니다.§! 설정 패널에서 로고를 클릭하여 프레임 워크 설정을 열고 필요한 기능을 끄거나 끕니다.\n\n당신의 지원은 저§H小伞INFINI7E§!의 동기가 됩니다.\n\n자세한 소개를 보려면 각 시작 설정 옵션 버튼에 커서를 놓으십시오."
+ 
+ z_fw1_misc.1.a1: "별에 대한 욕망 §G켜기§!"
+ z_fw1_misc.1.a1.tooltip: "이 종은 영토 확장을 열망하고 있으며, 당신은 $z_fw_r_monument$를 얻을 것입니다. 게임을 어렵게 만들고 고강도 적과 함께 모드 환경에 적응합니다. 욕망 점수 §G+6§!과 모성은 초기 POP성장을 얻습니다.\n\n욕망 점수를 사용하여 행성결정 $z_fw_dec_desire_for_stars$를 트리거하거나 $z_fw_r_monument$를 전환하여 대성전을 시작할 수 있습니다."
+ z_fw1_misc.1.a2: "별에 대한 욕망 §H끄기§!"
+ z_fw1_misc.1.a2.tooltip: "프레임워크 설정에서 호출할 수 있는 $z_fw_r_monument$를 얻을 수 없습니다."
+ z_fw1_misc.1.b1: "장래 계획 §G켜기§!"
+ z_fw1_misc.1.b1.tooltip: "일정량의 자원 보조금을 받게됩니다. §R주의, 이것은 치트입니다!§! 고급 시작을 사용하는 경우 이 버프가 필요하지 않습니다."
+ z_fw1_misc.1.b2: "Plan Ahead §H끄기§!"
+ z_fw1_misc.1.b2.tooltip: "게임 시작시 자원 보조금은 없습니다."
+ z_fw1_misc.1.c1: "Infinite Stellaris 이스터에그 유물 §G활성화됨§!"
+ z_fw1_misc.1.c1.tooltip: "무작위 플레이어 제국 근처 은하계 사이에서 Infinite Stellaris의 이스터 에그 유물을 생성합니다, 놀랍습니다! 현재 $z_fw_r_head_of_karyl$, $z_lctr_r_adv_sensor$가 포함됩니다. \n참고: §BInfinite Stellaris: Advanced Locator mod standalone version§!을 설치한 경우, $z_lctr_r_adv_sensor$가 생성되어야 합니다."
+ z_fw_tips_easter_relic: "Infinite Stellaris 이스터에그 유물"
+ z_fw_tips_easter_relic_desc: "§B이상한 머리§!: 특정 행성에 놀라운 스컹크를 떨어뜨리는 데 사용할 수 있는 이상한 머리. 그것은 행성의 모든 생물을 감염시키고 동화시킨 다음 전체 국가 또는 전체 은하계가 완전히 감염 될 때까지 전염병처럼 퍼집니다. AI 또는 플레이어에 의해 트리거 될 수 있습니다."
+ z_fw1_misc.1.c2: "Infinite Stellaris 이스터에그 유물 §H비활성화됨§!"
+ z_fw1_misc.1.c2.tooltip: "새로운 독창적 유물 없음."
+ z_fw1_misc.1.d3: "$z_modmenu.133.e1$"
+ z_fw1_misc.1.d3.tooltip: "$z_modmenu.133.e1.tooltip$"
+ z_fw1_misc.1.d4: "$z_modmenu.133.e2$"
+ z_fw1_misc.1.d4.tooltip: "$z_modmenu.133.e2.tooltip$"
+ z_fw1_misc.1.d5: "$z_modmenu.133.f1$"
+ z_fw1_misc.1.d5.tooltip: "$z_modmenu.133.f1.tooltip$"
+ z_fw1_misc.1.d6: "$z_modmenu.133.f2$"
+ z_fw1_misc.1.d6.tooltip: "$z_modmenu.133.f2.tooltip$"
+ z_fw1_misc.1.d1: "$z_modmenu.133.d9$"
+ z_fw1_misc.1.d1.tooltip: "$z_modmenu.133.d9.tooltip$"
+ z_fw1_misc.1.d2: "$z_modmenu.133.d10$"
+ z_fw1_misc.1.d2.tooltip: "$z_modmenu.133.d10.tooltip$"
+ z_fw1_misc.1.d2a: "$z_modmenu.133.d10a$"
+ z_fw1_misc.1.d2a.tooltip: "$z_modmenu.133.d10a.tooltip$"
+ z_fw1_misc.1_pr_on: "생산 혁명: §G표준 모드§!(현재)"
+ z_fw1_misc.1_pr_on.tooltip: "표준모드에서 이미 모든 제국은 이미 §B1차 생산 혁명§!을 완료했습니다."
+ z_fw1_misc.1_pr_off: "생산 혁명: §H역사적 모드§!(현재)"
+ z_fw1_misc.1_pr_off.tooltip: "역사적 모드에서는 아래 나열된 모든 기술을 완료한 후 모드 설정창에서 §B1차 생산 혁명§을 시작할 수 있습니다.:\n $tech_mining_2$/$tech_mineral_purification_2$/$tech_alloys_2$/$tech_luxuries_2$/$tech_power_plant_3$/$tech_power_hub_2$/$tech_self_aware_logic$/$tech_volatile_motes$/$tech_exotic_gases$/$tech_rare_crystals$"
+ z_fw1_misc.1_pr_adv_ap_on: "생산 혁명: 고급 상승 §G활성화됨§! (현재/기본값)"
+ z_fw1_misc.1_pr_adv_ap_off: "생산혁명: 고급 상승 §H비활성화됨§! (현재)"
+ z_fw1_misc.1_pr_adv_ap.tooltip: "기본적으로 활성화됩니다. 요구 사항이 충족되면 (기술 수준이 T4에 도달) 2차 상승이 허용 된 다음 3차가 허용됩니다. 이러한 승격으로 출력 효율은 멀티 모드 게임에 적합한 바닐라 경제보다 훨씬 뛰어납니다. \n\n§Y참고: 이 옵션은 게임 시작시에만 사용할 수 있습니다. 일단 선택되면 게임 중 변경할 수 없습니다.§!"
+ z_fw_tips_start_pf2_dpr_off: "00 작업 플러스: 동적 POP 제한 §H비활성화됨§!"
+ z_fw_tips_start_pf2_dpr_off_desc: "$z_performance_misc.11.i0.tooltip$"
+ z_fw_tips_start_pf2_dpr_on: "00 작업 플러스: 동적 POP 제한 §G활성화됨§!"
+ z_fw_tips_start_pf2_dpr_on_desc: "$z_performance_misc.11.i2.tooltip$"
+ z_fw1_misc.1.c: "§B시작 설정 완료§!"
+ z_fw1_misc.1.c.tooltip: "그리고 시작합니다."
+ z_fw_start_uncomplete: "시작 설정 미완료"
+ z_fw_tips_start_uncomplete: "먼저 아래의 §G$z_fw_start_setting_done$§! 버튼을 눌러야 합니다."
+#_[evt13]
+ z_fw_desire_point_add_war_title:0 "전쟁의 승자: 욕망 점수 §G+1.§!"
+ z_fw_desire_point_add_war_desc:0 "아무도 우리를 막을 수 없습니다! 우리가 선포한 전쟁에서 승리하고 제국 전체가 흥분합니다."
+
+#_tooltips
+ z_fw_desire_point_required:0 "욕망 점수 부족."
+ z_fw_r_monument_activited:0 "Infinite Stellaris 기념비가 활성화됩니다."
+ z_fw_r_monument_effect:0 "Infinite Stellaris의 기념비 활성화, 욕망 점수 -3, 대성전 버프 추가, 당신만큼 전쟁을 잘 아는 사람은 없을것입니다!"
+#_relic
+ z_fw_r_monument:0 "§GInfinite Stars의 기념비§!"
+ z_fw_r_monument_desc:0 "보았노라, 이겼노라. 우리의 위대한 문명이 별들로 발을 들여 놓았을 때 그들은 정교한 장인정신으로 이 기념비를 만들었습니다. 그것은 우주에 대한 우리의 위대한 문명의 열망을 담고있으며, 또한 미래의 우리의 영광을 예고하고 있습니다. 이것을 활성화하면 욕망 점수가 소모되고 $z_fw_dec_desire_for_stars$도 사용됩니다. 우리가 선포한 전쟁에서 승리하거나 특정 특별 이벤트를 완료하면 욕망 점수를 §Y얻을§! 수 있습니다.\n§B우리의 여정은 별들의 바다입니다.§!\n\n남은 욕망 점수 §G[root.z_fw_desire_point_var]§!"
+ z_fw_r_monument_effect:0 "활성화하면 욕망 점수를 §G3§!만큼 소비합니다. 게임 기간에 따라, 다른 대성전 버프가 획득될 것입니다. 10년 안에 적을 물리칠 수 있도록 최선을 다하십시오!"
+#_决策
+ z_fw_dec_desire_for_stars:0 "§G별에 대한 갈망§!: 빠른 성장"
+ z_fw_dec_desire_for_stars_desc:0 "시간은 돈이고 시간은 생명입니다. 우리는 다른 문명을 따라 잡고 더 빠르게 성장하고 더 많은 인구와 더 강력한 생산성을 가져야합니다."
+ z_fw_dec_desire_for_stars_effect:0 "특정 기간 동안 행성에 $z_fw_mod_desire_growth_normal$을 추가하여, POP 성장률을 증가시키고 욕망 점수를 §G1§!만큼 소비합니다.\n\n남은 욕망 점수 §G[Root.Owner.z_fw_desire_point_var]§!"
+#_modifier
+ z_fw_mod_desire_growth_normal:0 "§G별에 대한 갈망§!"
+ z_fw_mod_desire_growth_normal_desc:0 "미래가 기대됩니다! 우리의 목표는 별들의 바다입니다!"
+ z_fw_mod_desire_growth_hive:0 "§G별에 대한 갈망§!"
+ z_fw_mod_desire_growth_hive_desc:0 "우리는 하나, 우리 전체입니다! 무리는, 전능합니다!"
+ z_fw_mod_desire_assembly_machine:0 "§G별에 대한 갈망§!"
+ z_fw_mod_desire_assembly_machine_desc:0 "미지의 공간을 탐험한다면 문명의 생존 확률이 높아집니다!"
+
+ z_fw_mod_desire_crusade_early:0 "§G황금기의 대성전§!"
+ z_fw_mod_desire_crusade_early_desc:1 "우리 문명은 사악한 외계인이 은하계에 몰려들기 전에 확장을 가속화해야합니다. 저를 믿으십시오, 우리만큼 조기 공격을 더 잘 이해하는 사람은 없습니다."
+ z_fw_mod_desire_crusade_mid:0 "§G투쟁의 시대의 대성전§!"
+ z_fw_mod_desire_crusade_mid_desc:1 "23세기의 암울한 어둠속에서 전쟁만이 있을 뿐 아무도 우리가 앞으로 나아가는 것을 막을 수는 없습니다. 저를 믿으십시오, 우리만큼 멸종을 더 잘 이해하는 사람은 없습니다."
+ z_fw_mod_desire_crusade_late:0 "§G암흑기의 대성전§!"
+ z_fw_mod_desire_crusade_late_desc:1 "우리 문명은 멸종의 위기에 직면해있고, 먼 별에서 온 악마들은 우리의 공간을 차지하고 있습니다. 우리는 살아남아야 합니다. 저를 믿으십시오, 우리보다 생존을 더 잘 이해하는 사람은 없습니다."
+#_变量
+ z_fw_desire_point_var:0 "욕망 점수"
+
+
+
+
+
+
+
+
+###_[全局]    ##############################################################################################
+
+#_资源补助
+ z_fw_mod_cntr_res_stock_50000:0 "§G비축량 증가!"
+ z_fw_mod_cntr_res_stock_50000_desc:0 "잠깐, 왜 우리 창고가 그렇게 많이 보관할 수 있을까요!"
+ z_fw_mod_cntr_res_stock_500000:0 "$z_fw_mod_cntr_res_stock_50000$"
+ z_fw_mod_cntr_res_stock_500000_desc:0 "$z_fw_mod_cntr_res_stock_50000_desc$"
+ z_fw_mod_cntr_res_stock_5000000:0 "$z_fw_mod_cntr_res_stock_50000$"
+ z_fw_mod_cntr_res_stock_5000000_desc:0 "$z_fw_mod_cntr_res_stock_50000_desc$"
+
+###_地图模式    战争/舰队
+ #_[战争]
+ z_map_mode_war:0 "§G전쟁 행동§! 지도 모드"
+ z_map_mode_war_desc:0 "§B파란색§!은 동맹, §R붉은색§!은 적, 그리고 §Y노란색§!은 우리에게 국경을 폐쇄한 나라입니다. \n\n참고: 자신의 관점만 확인할 수 있습니다."
+ z_map_mode_war_enemy:0 "적"
+ z_map_mode_war_ally:0 "동맹"
+ z_map_mode_war_border_locked:0 "국경 폐쇄"
+ z_map_mode_war_potential_enermy:0 "잠재적 적 (경쟁자 또는 우리 영토를 요구)"
+ z_map_mode_war_none:0 "우리의 현재 전쟁에 관여하지 않습니다."
+ #_[舰队]
+ z_map_mode_fleet:0 "§G함대 전력§! 지도 모드"
+ z_map_mode_fleet_desc:0 "약할수록, §B파랗게§!. 강할수록, the §R붉게§! 보입니다."
+ z_map_mode_fleet_negligible:0 "§Y[This.GetName]§!는 제대로 된 함대 전력이 거의 없습니다."
+ z_map_mode_fleet_pathetic:0 "§Y[This.GetName]§!의 함대 전력은 언급 할 가치가 없습니다."
+ z_map_mode_fleet_inferior:0 "§Y[This.GetName]§!의 함대 전력은 약간 약합니다."
+ z_map_mode_fleet_equivalent:0 "§Y[This.GetName]§의 함대 전력은 균등하게 일치합니다."
+ z_map_mode_fleet_superior:0 "§Y[This.GetName]§!의 함대 전력이 약간 더 좋습니다."
+ z_map_mode_fleet_overwhelming:0 "§Y[This.GetName]§!의 함대 전력은 매우 강력합니다."
+ z_map_mode_fleet_lv1:0 "§Y[This.GetName]§!는 적어도 [1k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv2:0 "§Y[This.GetName]§!는 적어도 [5k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv3:0 "§Y[This.GetName]§!는 적어도 [10k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv4:0 "§Y[This.GetName]§!는 적어도 [25k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv5:0 "§Y[This.GetName]§!는 적어도 [50k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv6:0 "§Y[This.GetName]§!는 적어도 [100k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv7:0 "§Y[This.GetName]§!는 적어도 [250k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv8:0 "§Y[This.GetName]§!는 적어도 [500k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv9:0 "§Y[This.GetName]§!는 적어도 [750k]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv10:0 "§Y[This.GetName]§!는 적어도 [1m]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv11:0 "§Y[This.GetName]§!는 적어도 [2.5m]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv12:0 "§Y[This.GetName]§!는 적어도 [5m]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv13:0 "§Y[This.GetName]§!는 적어도 [10m]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv14:0 "§Y[This.GetName]§!는 적어도 [25m]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv15:0 "§Y[This.GetName]§!는 적어도 [50m]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv16:0 "§Y[This.GetName]§!는 적어도 [100m]의 함대를 가지고 있습니다."
+ z_map_mode_fleet_lv17:0 "§Y[This.GetName]§!는 적어도 [250m]의 함대를 가지고 있습니다."
+ 
+ z_map_mode_science:0 "§G기술력§! 지도 모드"
+ z_map_mode_science_desc:0 "우리보다 기술력이 뛰어날수록 §R붉게§!. 우리에 비해 기술력이 약할수록 §B파랗게§! 보입니다."
+ z_map_mod~e_science_more_4:0 "§Y[This.GetName]§! >>>> §G[From.GetName]§!"
+ z_map_mode_science_more_3:0 "§Y[This.GetName]§! >>> §G[From.GetName]§!"
+ z_map_mode_science_more_2:0 "§Y[This.GetName]§! >> §G[From.GetName]§!"
+ z_map_mode_science_more_1:0 "§Y[This.GetName]§! > §G[From.GetName]§!"
+ z_map_mode_science_equal:0 "§Y[This.GetName]§! = §G[From.GetName]§!"
+ z_map_mode_science_less_1:0 "§Y[This.GetName]§! < §G[From.GetName]§!"
+ z_map_mode_science_less_2:0 "§Y[This.GetName]§! << §G[From.GetName]§!"
+ z_map_mode_science_less_3:0 "§Y[This.GetName]§! <<< §G[From.GetName]§!"
+ z_map_mode_science_less_4:0 "§Y[This.GetName]§! <<<< §G[From.GetName]§!"
+ 
+ z_map_mode_relic:0 "§G유물 보유§! 지도 모드"
+ z_map_mode_relic_desc:0 "더 많은 유물을 보유할수록 §R붉게§!. 특별한 것이 있다면 §G녹색§!.인피니티 스톤을 가지고 있다면 §B파란색§!으로 보입니다."
+ z_map_mode_relic_infinite:0 "§Y[This.GetName]§! 인피니티 스톤을 하나 이상 보유합니다."
+ z_map_mode_relic_4:0 "§Y[This.GetName]§!는 뭔가 특별한 것을 가지고 있습니다."
+ z_map_mode_relic_3:0 "§Y[This.GetName]§!는 많은 유물들을 가지고 있습니다."
+ z_map_mode_relic_2:0 "§Y[This.GetName]§!는 2개의 유물을 가지고 있습니다."
+ z_map_mode_relic_1:0 "§Y[This.GetName]§!는 1개의 유물을 가지고 있습니다."
+ z_map_mode_relic_none:0 "§Y[This.GetName]§!는 유물을 가지고 있지 않습니다."
+ 
+ z_map_mode_zenith:0 "§G몰락제국§! 지도 모드"
+ z_map_mode_zenith_desc:0 "각성제국은 §R붉은색§!, 몰락제국은 §Y노란색§!, ZOFE 초월제국은 §B파란색§!, ZOFE 잃어버린 제국은 §E청록색§!, 일반제국은 §W흰색§!으로 보입니다."
+ z_map_mode_zenith_awakened:0 "§Y[This.GetName]§!는 각성제국입니다."
+ z_map_mode_zenith_fallen:0 "§Y[This.GetName]§!는 몰락제국입니다."
+ z_map_mode_zenith_ascended:0 "§Y[This.GetName]§!는 초월제국입니다."
+ z_map_mode_zenith_lost:0 "§Y[This.GetName]§!는 잃어버린 제국입니다."
+ z_map_mode_zenith_default:0 "§Y[This.GetName]§!는 일반제국입니다."
+
+ z_map_mode_rivals:0 "§G경쟁자§! 지도 모드"
+ z_map_mode_rivals_desc:0 "서로 경쟁자면 §Y노란색§!, 우리가 경쟁자로 선포한 대상은 §B파란색§!, 우리를 경쟁자로 선포한 대상은 §R붉은색§!으로 보입니다."
+ z_map_mode_rivals_both:0 "§Y[This.GetName]§!와 §G[From.GetName]§!는 서로 경쟁자입니다."
+ z_map_mode_rivals_ours:0 "§Y[This.GetName]§!는 §G[From.GetName]§!가 경쟁자로 선포한 대상입니다."
+ z_map_mode_rivals_their:0 "§Y[This.GetName]§!은 §G[From.GetName]§!를 경쟁자로 선포했습니다"
+ z_map_mode_rivals_none:0 "§Y[This.GetName]§!"
+
+ z_map_mode_borders:0 "§G국경 관계§! 지도 모드"
+ z_map_mode_borders_desc:0 "서로 국경을 폐쇄했으면 §Y노란색§!, 우리에게 국경들 폐쇄했으면 §B파란색§!, 우리가 국경을 폐쇄한 대상은 §R붉은색§!, 국경을 폐쇄하지 않았다면 §G녹색§!으로 보입니다."
+ z_map_mode_borders_both:0 "§Y[This.GetName]§!와 §G[From.GetName]§!는 서로 국경을 폐쇄했습니다."
+ z_map_mode_borders_ours:0 "§Y[This.GetName]§!는 §G[From.GetName]§!에 의해 국경이 폐쇄됬습니다."
+ z_map_mode_borders_their:0 "§Y[This.GetName]§!는 §G[From.GetName]§!에게 국경을 폐쇄했습니다."
+ z_map_mode_borders_none:0 "§Y[This.GetName]§!와 §G[From.GetName]§!는 국경을 폐쇄하지 않았습니다."
+
+ z_map_mode_claims:0 "§G영유권§! 지도 모드"
+ z_map_mode_claims_desc:0 "서로의 영토에 영유권 주장이 있다면 §Y노란색§!, 우리가 영유권을 주장한 대상은 §B파란색§!, 우리 영토에 영유권을 주장하면 §R붉은색§!으로 보입니다."
+ z_map_mode_claims_both:0 "§Y[This.GetName]§!와 §G[From.GetName]§!는 서로의 영토에 영유권을 주장합니다."
+ z_map_mode_claims_ours:0 "§Y[This.GetName]§!의 영토에 §G[From.GetName]§!가 주장한 영유권이 있습니다."
+ z_map_mode_claims_their:0 "§Y[This.GetName]§!는 §G[From.GetName]§!의 영토에 영유권을 주장합니다."
+ z_map_mode_claims_none:0 "§Y[This.GetName]§!"
+
+
+
+
+
+ 
+ 
+ 
+###_[战争类型]    ##########################################################################################
+#_去军事化
+ casus_belli_z_fw_cb_demilitarize: "군사적 위협"
+ war_goal_z_fw_wg_demilitarize: "비무장화"
+ war_goal_z_fw_wg_demilitarize_desc: "적의 전쟁 잠재력을 약화시키고 군사 확장을 포기하도록 하기 위해 전쟁을 선포합니다."
+ z_fw_demilitarize_accept: "§Y[From.GetName]§!는 비무장화 되며, 이것은 §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!는 §Y15§!년 동안 감소시키고, 영향력 획득을 감소시키며, 평화주의가 우세해지고 전쟁을 선포할 수 없습니다.\n§Y[Root.GetName]§!는 §G+100§! £influence£을 얻습니다.\n"
+#_modifier
+ z_fw_demilitarized: "비무장화"
+ z_fw_demilitarized_desc: "§L우리는 다른 제국에 의해 비무장화 되었습니다.§!"
+ z_fw_demilitarized_militarist: "$z_fw_demilitarized$"
+ z_fw_demilitarized_militarist_desc: "§L이 군국주의 제국은 다른 제국에 의해 비무장화되었습니다.§!"
+ z_fw_mod_cntr_demilitarizer: "평화 유지군"
+ z_fw_mod_cntr_demilitarizer_desc: "§L평화를 수호하고 국제 균형을 유지하는 것이 우리의 사명입니다!§!"
+ z_fw_mod_popf_wg_dm_approval: "평화주의"
+ z_fw_mod_popf_wg_dm_approval_desc: "평화주의의 유세"
+ 
+#_圣遗物争夺战
+ casus_belli_z_fw_cb_plunder_relic:0 "유물 확보"
+ casus_belli_z_fw_cb_plunder_relic_all:0 "모든 유물 확보"
+ war_goal_z_fw_plunder_one_relic:0 "유물 확보"
+ war_goal_z_fw_plunder_one_relic_desc:0 "이 전쟁 목표를 사용하여 적이 소유한 유물을 확보합니다. 그들이 여러 가지 보물을 가지고 있다면, 그들은 그것들중 하나를 무작위로 선택하여 우리 수도로 보낼 것입니다."
+ war_goal_z_fw_plunder_all_relics:0 "모든 유물 확보"
+ war_goal_z_fw_plunder_all_relics_desc:0 "적에게서 모든 보물을 가져옵니다. 이 전쟁 목표를 사용하면 외교적으로 심각한 영향을 미칠 수 있습니다."
+#_通知event
+ z_fw_relic_wars.name:0 "유물 확보"
+ z_fw_relic_wars.desc:0 "[From.From.GetName]가 우리에게 항복했습니다. 전리품으로서의 유물은 안전하게 우리 수도로 옮겨졌습니다. 고고학자들이 예상한대로 이 귀중한 유물은 마침내 진정한 소유자에게로 돌아왔습니다."
+ z_fw1_misc.21.a:0 "그래, 이건 우리거다."
+ z_fw_relic_wars_lost.name:0 "실패의 수난"
+ z_fw_relic_wars_lost.desc:0 "전쟁은 끝났다! 우리는 실패를 인정해야합니다. 전쟁 보상으로 우리가 가지고있는 유물을 [From.GetName]에 전달할 것입니다. 오늘 전국의 언론인들은 이 사건을 수치스러운 패배로 묘사했습니다."
+ z_fw1_misc.22.a:0 "놈들은 댓가를 치를거다."
+ z_fw_relic_wars_all.name:0 "보물 확보"
+ z_fw_relic_wars_all.desc:0 "[From.From.GetName]은 완전히 패배했으며, 그 사람들의 목숨은 우리 손에 달려 있습니다. 문명화된 성간 제국으로서 우리는 무의미한 살상을 통해 즐거움을 누리지 못할 것이지만, 보물 창고에있는 먼지 투성이의 보물은 용감한 전사들의 최고의 영광이 될 것입니다."
+ z_fw1_misc.23.a:0 "모두 이리로 가져와라!"
+ z_fw_relic_wars_all_lost.name:0 "좋은 소식"
+ z_fw_relic_wars_all_lost.desc:0 "우리의 한때 강력한 함대는 이제 우주의 먼지가되었고, 우리 방위군은 적의 해병대에 항복했으며, 우리의 국보는 약탈당했습니다. [From.GetName]의 야만인들은 우리에게 빈 금고만 남겼습니다."
+ z_fw1_misc.24.a:0 "생존이 가장 큰 재산이다."
+#_modifier
+ z_fw_relic_obtained:0 "유물 약탈자"
+ z_fw_relic_obtained_desc:0 "다른 것들은 지옥이며 그들의 증오는 우리의 힘과 자부심의 근원입니다."
+#_态度
+ z_fw_opinion_wg_relic:0 "우리 성유물 약탈"
+ z_fw_opinion_wg_relic_all:0 "우리의 모든 것을 약탈"
+ z_fw_opinion_wg_relic_all_others:0 "유물 라이더"
+
+#_打开边境
+ casus_belli_z_fw_cb_border:0 "국경 폐쇄"
+ war_goal_z_fw_wg_open_border: "국경 개방"
+ war_goal_z_fw_wg_open_border_desc: "전쟁을 시작하여 적대적인 문명의 국경을 열고 20년의 통행권을 얻습니다."
+ z_fw_open_border_tooltip:0 "§Y[From.GetName]§!은 패배하여 오만함을 내려 놓고 §Y20§!년 동안 우리에게 국경을 개방하기로 동의했습니다.\n§Y[Root.GetName]§는 §G+100§! £influence£을 얻습니다.\n"
+ war_goal_z_fw_wg_open_border_long: "항구 개방"
+ war_goal_z_fw_wg_open_border_long_desc: "전쟁을 시작하여 적대적인 문명의 국경을 열고 40년 동안의 통행권을 얻고 경쟁을 끝냅니다."
+ z_fw_open_border_long_tooltip:0 "§Y[From.GetName]§!은 완전히 패배하여 오만함을 내려 놓고 §Y40§!년 동안 우리에게 국경을 개방하기로 동의했습니다. 동시에 우리는 그들과의 경쟁자 상태도 끝냈지만 분명히 그들은 이 결과에 동의하지 않았고 미래에 언젠가 반격할 것입니다.\n§Y[Root.GetName]§!는 §G+150§! £influence£을 얻습니다.\n"
+#_态度
+ z_fw_opinion_wg_open_boder_long:0 "만연한 우리 영토"
+ 
+#_抢夺小伞
+ casus_belli_z_fw_cb_r_hok_kogasa:0 "$NAME_z_fw_ldr_skunk_kogasa$ 소유"
+ war_goal_z_fw_wg_r_hok_kogasa: "$NAME_z_fw_ldr_skunk_kogasa$ 확보"
+ war_goal_z_fw_wg_r_hok_kogasa_desc: "코가사... 적어도 코가사의 체험판이 그들의 손에 있고 우리는 그녀를 되찾고 싶습니다."
+ z_fw_wg_r_hok_kogasa_tooltip:0 "§Y[From.GetName]§!이 패배하여 $NAME_z_fw_ldr_skunk_kogasa$를 잃었습니다.\n§Y[Root.GetName]§!는 $NAME_z_fw_ldr_skunk_kogasa$를 얻습니다.\n"
+ z_fw1_relic_koh.313.name:0 "우리는 $NAME_z_fw_ldr_skunk_kogasa$를 얻었습니다."
+ z_fw1_relic_koh.313.desc:0 "$NAME_z_fw_ldr_skunk_kogasa$는 강력한 지도자이며 다양한 역할을 수행 할 수 있습니다. 분명히 그녀를 다른 하위 문명의 손에 두는 것은 낭비입니다. 이제 그녀는 우리의 것입니다. 이것이 Infinite Stellaris가 준 영광입니다! 저는 항상 $NAME_z_fw_ldr_skunk_kogasa$!를 사랑합니다!"
+ z_fw1_relic_koh.314.name:0 "우리는 $NAME_z_fw_ldr_skunk_kogasa$를 잃었습니다"
+ z_fw1_relic_koh.314.desc:0 "나는 항상 $NAME_z_fw_ldr_skunk_kogasa$!를 사랑하지만, 그녀를 잃었습니다!!! 젠장, 이건 부끄러운데, 내 체험판 코가사가 사라졌다. 그녀는 방금 여기에 있었어, 젠장 젠장!!! 언젠가는 그녀를 되찾을 것입니다. $NAME_z_fw_ldr_skunk_kogasa$!는 우리에게만 속할 수 있습니다!!!"
+
+
+
+
+
+
+
+
+###_[ambient] ############################################################################################
+#_planet
+ z_pc_nova:0 "§G초신성§!"
+ z_pc_nova_desc:0 "이 초신성은 분명히 부자연스러워서 극도로 불안정합니다. 몇 달 안에 붕괴할 것입니다. 그러나 그 전에는 하늘에서 가장 밝은 별이 될 것입니다."
+
+
+
+
+
+
+
+
+###_[极限作弊]    ############################################################################################
+
+###_璀璨星图
+#_evts
+ z_fw_r_co_choice_power.name:0 "§G천상의 모형§!: 발사 모드"
+ z_fw_r_co_choice_power.desc:0 "신의 분노를 느껴보십시오. 우리는 별을 폭발시킬 방법을 선택해야합니다. 즉시 모든 것이 조용해질 것입니다. 폭발하는 별의 밝은 빛과 함께 질서는 은하계로 돌아올 것입니다."
+ z_fw1_misc.31.exp_executing:0 "현재 성계를 폭파시킵니다."
+ z_fw1_misc.31.plnt_random:0 "무작위 천체를 폭파시킵니다."
+ z_fw1_misc.31.plnt_random_bh:0 "임의의 천체를 폭파하고 블랙홀로 붕괴시킵니다."
+ z_fw1_misc.31.sstm:0 "성계의 모든 천체를 폭파시킵니다."
+ z_fw1_misc.31.sstm_bh:0 "성계의 모든 천체를 폭파하고 블랙홀로 붕괴시킵니다."
+ z_fw1_misc.31.sstm_near:0 "현재 시스템의 모든 천체와 가까운 은하를 폭파합니다."
+ z_fw1_misc.31.cntr:0 "현재 시스템이 속한 문명을 직접 파괴합니다."
+ z_fw1_misc.313.name:0 "[LastKilledCountryName]가 완전히 파괴되었습니다."
+ z_fw1_misc.313.desc:0 "우리는 [LastKilledCountryName]이 어떤 불가사의한 힘에 의해 완전히 파괴되었다는 것을 알게되었습니다. 한 달도 채 안되어 영토의 항성들이 차례로 폭발하여 그들의 영토는 극도로 빛나게 했지만 안타깝게도 그들 역시 빛이 되었습니다. 그들의 소중한 함대, 하늘 돔을 덮고있는 거대 구조물, 그들의 번영하고 영광스러운 행성은 이제 잔해 외에는 아무것도 남지 않았습니다. 반짝이는 초신성과 천체의 파편이 서로 얽혀 매우 웅장한 그림을 이루고 있는데, 이것은 중독성이 있습니다."
+ z_fw1_misc.314.name:0 "[LastKilledCountryName]가 완전히 파괴되었습니다"
+ z_fw1_misc.314.desc:0 "우리는 강력한 [LastKilledCountryName]이 어떤 불가사의한 힘에 의해 완전히 파괴되었다는 것을 알게되었습니다. 한 달도 채 안되어 영토의 항성들이 차례로 폭발하여 그들의 영토는 극도로 빛나게 했지만 안타깝게도 그들 역시 빛이 되었습니다. 그들의 타의 추종을 불허하는 함대, 하늘 돔을 덮고있는 거대 구조물, 그들의 번영하고 영광스러운 행성은 이제 잔해 외에는 아무것도 남지 않았습니다. 반짝이는 초신성과 천체의 파편이 서로 얽혀 매우 웅장한 그림을 이루고 있는데, 이것은 중독성이 있습니다."
+ z_fw1_misc.315.name:0 "[LastKilledCountryName]가 완전히 파괴되었습니다"
+ z_fw1_misc.315.desc:0 "우리는 [LastKilledCountryName]가 불가사의한 끔찍한 힘에 의해 완전히 파괴되었다는 것을 알게되었습니다. 한 달도 채 안되어 영토의 항성들이 차례로 폭발하여 그들의 영토는 극도로 빛나게 했지만 안타깝게도 그들 역시 빛이 되었습니다. 우리는 그들이 어떤 역사를 가지고 있는지 알지 못하며, 그들과 소통한 것은 우리를 위해 존재하지 않았던 것처럼 단지 짧은 대화일 뿐입니다. 오늘날 반짝이는 초신성과 천체의 파편이 그들이 지배했었던 성계에서 서로 얽혀 매우 웅장한 그림을 이루고 있는데, 이것은 중독성이 있습니다."
+ z_fw1_misc.316.name:0 "알려지지 않은 성간 문명이 완전히 파괴되었습니다."
+ z_fw1_misc.316.desc:0 "알려지지 않은 성간 문명이 불가사의한 끔찍한 힘에 의해 완전히 파괴되었다는 것을 알게되었습니다. 한 달도 채 안되어 영토의 항성들이 차례로 폭발하여 그들의 영토는 극도로 빛나게 했지만 안타깝게도 그들 역시 빛이 되었습니다. 우리는 그들이 어떤 종류의 역사를 가지고 있는지 알지 못하며, 그들과 소통한 것은 우리를 위해 존재하지 않았던 것처럼 단지 짧은 대화 일뿐입니다. 오늘날 반짝이는 초신성과 천체의 파편이 그들이 지배했었던 성계에서 서로 얽혀 매우 웅장한 그림을 이루고 있는데, 이것은 중독성이 있습니다."
+
+#_tooltips
+ z_fw_r_celestial_orrey_not_activited:0 "천상의 모형는 §H활성화되지 않았습니다.§!"
+ z_fw_r_celestial_orrey_activited:0 "천상의 모형는 §G활성화§!되었습니다. 천체를 폭발시킬 공학 함선의 §Y거대건축물 건설 패널§!에 위치 지정 좌표를 지정합니다."
+ z_fw_target_marker_co_ongoing:0 "천상의 모형 대상 표식이 존재합니다."
+  z_fw_target_marker_cht_co_ongoing:0 "A Bright Star Map Target Marker is existed."
+ z_fw_target_marker_co_1_placement:0 "항성에 설정해야 합니다."
+ z_fw_target_marker_co_2_placement:0 "블랙홀, 중성자별 등과 같은 특수 천체에 설정해야 합니다."
+#_megastructures
+ z_fw_mega_r_cht_co_tgt_marker_1:0 "항성핵 기폭장치 표적 표시기"
+ z_fw_mega_r_cht_co_tgt_marker_1_DESC:0 "우리가 당신을 파괴하고 싶다면 그것은 당신과 관련이 없습니다. 우리는 너무 많은 문명의 잿더미를 목격했습니다. 아무리 훌륭한 문화와 업적은 무한한 별들 앞에서는 역사의 먼지일 뿐입니다."
+ z_fw_mega_r_cht_co_tgt_marker_1_MEGASTRUCTURE_DETAILS:0 "정상적인 항성을 표시하고 핵을 폭파하면 모든것이 파괴됩니다."
+ z_fw_mega_r_cht_co_tgt_marker_2:0 "중력 충격 표적 표시기"
+ z_fw_mega_r_cht_co_tgt_marker_2_DESC:0 "$z_fw_mega_r_cht_co_tgt_marker_1_desc$"
+ z_fw_mega_r_cht_co_tgt_marker_2_MEGASTRUCTURE_DETAILS:0  "특별한 천체를 표시하고 중력 폭발을 유발하면 모든것이 파괴됩니다."
+#_relic
+ z_fw_r_celestial_orrey:0 "§GInfinite Stellaris§!: 천상의 모형"
+ z_fw_r_celestial_orrey_desc:0 "오로스크의 고대 네크론 왕조의 신비한 장비로 은하 전체를 덮고있는 거대한 항성지도 네트워크를 보여줍니다. 강조된 것들 중 하나를 클릭하면 항성이 순식간에 초신성이됩니다.\n§B와우, 사방에 반짝이는 밝은 점들이 있습니다.§!"
+ z_fw_r_celestial_orrey_effect:0 "이 기능을 켜면 다음 년도에 전체 감지기 범위를 확보하고 $z_fw_mega_r_cht_co_tgt_marker_1$ 및 $z_fw_mega_r_cht_co_tgt_marker_2$ 거대건축물을 잠금 해제 할 수 있습니다. 이들은 천체를 폭파하는 데 사용됩니다."
+#_决策
+ z_fw_dec_detonate_star:0 "§G천상의 모형§!: 항성 폭파"
+ z_fw_dec_detonate_star_desc:0 "별의 핵을 동요하게 하는 것은 별이 수명을 다한다는 것입니다. 꽃을 피우는 것은 이번이 마지막이 될 것입니다."
+ z_fw_dec_detonate_star_effect:0 "이 항성은 초신성 폭발하여 성계의 모든 것을 파괴합니다. 항성의 질량에 따라 몇 달 안에 블랙홀, 중성자별 또는 백색 왜성으로 붕괴 될 수 있습니다. 어쨌거나 모든 것이 파괴됩니다."
+ 
+
+###_永恒星炬
+#_tooltips
+ z_fw_r_cheat_quantum_beacon_effect:0 "영원한 항성 횃불을 켜면 10년 동안 함대에 무한한 망명을 제공하고 퇴각 확률, 함선 속도 및 점프 드라이브 효율성이 크게 향상되고 모든 국가와의 국경이 개방됩니다. 전체 감지 범위도 10년 동안 유지됩니다."
+ z_fw_r_cheat_quantum_beacon_activited:0 "영원한 항성 횃불 §G활성화됨§!"
+#_relic
+ z_fw_r_cheat_quantum_beacon:0 "§GInfinite Stellaris§!: 영원한 항성 횃불"
+ z_fw_r_cheat_quantum_beacon_desc:0 "Infini7e의 영광은 항상 은하계를 비추고 고통받는 영혼을 위한 은신처를 제공하여 격동의 소동돌이 속에서도 길을 잃지 않을 것입니다. ——알파 차원, Infinite Stellaris의 지배자 입니다."
+ 
+
+###_维度解构剑
+#_evts
+ z_fw1_misc.321.name:0 "이 $z_fw_r_cheat_hyper_blade$를 어떻게 사용하시겠습니까?"
+ z_fw1_misc.321.desc:0 "이 유물을 활성화 또는 비활성화 할 수 있으며 활성화하면 건설선을 사용하여 좌표를 찾고 초공간 구조를 재구성할 수 있습니다. 물론 모든 초공간로를 1 초 안에 직접 파괴할 수도 있습니다."
+ z_fw_evt_r_cheat_hyper_blade_on:0 "$z_fw_r_cheat_hyper_blade$ 활성화"
+ z_fw_evt_r_cheat_hyper_blade_on_desc:0 "차원 해체 칼날을 활성화하면 두 개의 격리 된 성계 사이에 초공간로를 만들거나 상호 연결된 두 성계 사이의 기존 초공간로를 차단할 수 있습니다. \n건설선을 사용하여 두 성계에 시작 및 종료 표식을 설치하면 두 성계 간의 초공간 구조가 변경됩니다.§!"
+ z_fw_evt_r_cheat_hyper_blade_off:0 "$z_fw_r_cheat_hyper_blade$ 비활성화"
+ z_fw_evt_r_cheat_hyper_blade_off_desc:0 "더 이상 초공간 구조를 형성 할 수 없습니다."
+ z_fw_evt_r_cheat_hyper_blade_doom:0 "암흑 에너지 초공간로 소멸 자르기를 시행합니다."
+ z_fw_evt_r_cheat_hyper_blade_doom_desc:0 "한번의 자르기로 하늘이 폭발할 것입니다. 은하 전체의 모든 초공간로는 즉시 파괴 될 것이며 되돌릴 수는 없습니다."
+#_evts pop up
+ z_fw1_misc.322.name:0 "암흑에너지 초공간로 파괴 자르기"
+ z_fw1_misc.322.desc:0 "한번의 자르기로 하늘이 부서질 것입니다. \n눈부신 섬광과 함께 그녀가 나타났고, 그녀는 연장자로부터 $z_fw_r_cheat_hyper_blade$를 낚아챘습니다. 그녀는 외쳤습니다: §B암흑에너지는 전능할지니!§!. 그녀는 그것을 갈랐습니다! 암흑에너지의 급류가 차원구조를 왜곡시켰고, 이 은하를 연결하는 모든 초공간로가 사라졌습니다. 기절한 노인과 관중은 조각상처럼 제자리에 서 있었고, $z_fw_r_cheat_hyper_blade$는 땅을 가로 질러 청록색 원호를 번쩍이며, 조용한 선실에서 특히 심한 삑삑 거리는 소리가 당황스러운 장면을 연출했습니다."
+ z_fw1_misc.323.name:0 "$z_fw1_misc.322.name$"
+ z_fw1_misc.323.desc:0 "한번의 자르기로 하늘이 부서질 것입니다. \n눈부신 섬광과 함께 그녀가 나타났고, 그녀는 연장자로부터 $z_fw_r_cheat_hyper_blade$를 낚아챘습니다. 그녀는 외쳤습니다: §B암흑에너지는 전능할지니!§!. 그녀는 그것을 갈랐습니다! 암흑에너지의 급류가 차원구조를 왜곡시켰고, [event_target:z_fw_tgt_sys_r_cht_hyper_1.GetName] 와 [event_target:z_fw_tgt_sys_r_cht_hyper_2.GetName] 사이의 초공간로가 사라졌습니다. 기절한 노인과 관중들은 조각상처럼 제자리에 서 있었고, $z_fw_r_cheat_hyper_blade$는 땅을 가로 질러 청록색 원호를 번쩍이며, 조용한 선실에서 특히 심한 삑삑 거리는 소리가 당황스러운 장면을 연출했습니다."
+ z_fw1_misc.324.name:0 "암흑에너지 초공간로 연결 자르기"
+ z_fw1_misc.324.desc:0 "한번의 자르기로 하늘이 부서질 것입니다. \n눈부신 섬광과 함께 그녀가 나타났고, 그녀는 연장자로부터 $z_fw_r_cheat_hyper_blade$를 낚아챘습니다. 그녀는 외쳤습니다: §B암흑에너지는 전능할지니!§!. 그녀는 그것을 갈랐습니다! 암흑에너지의 급류가 차원구조를 왜곡시켰고, [event_target:z_fw_tgt_sys_r_cht_hyper_1.GetName] 와 [event_target:z_fw_tgt_sys_r_cht_hyper_2.GetName] 사이에 새로운 초공간로가 나타났습니다. 기절한 노인과 관중들은 조각상처럼 제자리에 서 있었고, $z_fw_r_cheat_hyper_blade$는 땅을 가로 질러 청록색 원호를 번쩍이며, 조용한 선실에서 특히 심한 삑삑 거리는 소리가 당황스러운 장면을 연출했습니다."
+ z_fw1_misc.325.name:0 "암흑에너지 초공간로 소멸 자르기"
+ z_fw1_misc.325.desc:0 "한번의 자르기로 하늘이 폭발할 것입니다. \n눈부신 섬광과 함께 그녀가 나타났고, 그녀는 연장자로부터 $z_fw_r_cheat_hyper_blade$를 낚아챘습니다. 그녀는 외쳤습니다: §B암흑에너지는 전능할지니!§!. 그녀는 그것을 갈랐습니다! 암흑에너지가 은하를 휩쓸었습니다. 기절한 노인과 관중은 조각상처럼 제자리에 서 있었고, $z_fw_r_cheat_hyper_blade$는 땅을 가로 질러 청록색 원호를 번쩍이며, 조용한 선실에서 특히 심한 삑삑 거리는 소리가 당황스러운 장면을 연출했습니다. \n이때 모든 사람들이 갑자기 반응하여 초공간 통신기를 보았습니다. 감지기에 있든 통신 채널에 있든 오직 죽은 침묵만 있을 뿐입니다. 초공간은 역사가 되었습니다."
+#_tooltips
+ z_fw_tips_r_hyper_blade_effect:0 "차원 해체 칼날을 활성화하면 두 개의 격리된 성계 사이에 초공간로를 생성하거나 상호 연결된 두 성계 사이의 기존 초공간로를 차단할 수 있습니다. \n§Y참고: 한번에 한 명의 플레이어만 활성화할 수 있습니다.§!"
+ z_fw_tips_r_hyper_blade_activated:0 "$z_fw_r_cheat_hyper_blade$ §G활성화됨§!! 당신이 그것을 활성화하는 플레이어라면, 건설선을 사용하여 암흑에너지 초공간로 조성 자르기의 시작점과 끝점을 찾으십시오."
+#_relic
+ z_fw_r_cheat_hyper_blade:0 "§GInfinite Stellairs§!: 차원 해체 칼날"
+ z_fw_r_cheat_hyper_blade_desc:0 "에메랄드 빛이 고대 검을 스쳐 지나갑니다. 이 고대 유물은 우주의 구조를 변화시킬 수 있는 힘으로 가득 차 있었습니다. 칼에 새겨진 글씨에는 고대 글씨체로 된 큰 글자들이 줄지어 새겨져 있습니다: §B암흑에너지는 전능할지니!§!\또한 아래에는 눈에 띄지 않는 작은 인쇄물이 한 줄의 지침서가 새겨져 있습니다.: §B양손에 칼을 들고있는 장로가 외쳐야 합니다.: §G무한의 별자리에 영광이 있을지니§!, 그리고 밝은 !§G암흑에너지 초공간로 조성 자르기§!를 대상 성계에 강하게 내리치십시오!§!\n세상에나... 이건 너무 지나칩니다!"
+#_megastructures
+ #_截断者
+ z_fw_mega_r_cht_hyper_tgt_marker_0:0 "암흑에너지 초공간로 조성 자르기 §R차단 지점§!"
+ z_fw_mega_r_cht_hyper_tgt_marker_0_DESC:0 "한번의 자르기로 하늘이 부서질 것입니다."
+ z_fw_mega_r_cht_hyper_tgt_marker_0_MEGASTRUCTURE_DETAILS:0 "이 성계에 연결된 모든 초공간로가 차단됩니다"
+ #_起点
+ z_fw_mega_r_cht_hyper_tgt_marker_1:0 "암흑에너지 초공간로 조성 자르기 §G시작 지점§!"
+ z_fw_mega_r_cht_hyper_tgt_marker_1_DESC:0 "한번의 자르기로 하늘이 부서질 것입니다. \n한 노인이 이 성계를 향해 칼날을 휘둘렀습니다. 서로 접촉한 적도 없고, 기적적으로 가까이에서 두 세계를 분리한 적도 없는 수만 광년 떨어진 성계를 완전히 연결시켰습니다. 아, 암흑에너지, 정말 전능합니다. 아, Infini7e, 당신은 은하의 구세주입니다!"
+ z_fw_mega_r_cht_hyper_tgt_marker_1_MEGASTRUCTURE_DETAILS:0 "이 성계는 초공간 구조를 변경하는 출발점이 될 것입니다."
+ #_终点
+ z_fw_mega_r_cht_hyper_tgt_marker_2:0 "암흑에너지 초공간로 조성 자르기 §H끝 지점§!"
+ z_fw_mega_r_cht_hyper_tgt_marker_2_DESC:0 "한번의 자르기로 하늘이 부서질 것입니다. \n한 노인이 이 성계를 향해 칼날을 휘둘렀습니다. 서로 접촉한 적도 없고, 기적적으로 가까이에서 두 세계를 분리한 적도 없는 수만 광년 떨어진 성계를 완전히 연결시켰습니다. 아, 암흑에너지, 정말 전능합니다. 아, Infini7e, 당신은 은하의 구세주입니다!"
+ z_fw_mega_r_cht_hyper_tgt_marker_2_MEGASTRUCTURE_DETAILS:0 "이 성계는 초공간 구조를 변경하는 종점 역할을 합니다."
+ 
+
+###_物质湮灭剑
+#_evts
+ z_fw1_misc.331.name:0 "이 $z_fw_r_cheat_mega_sword$를 어떻게 사용하시겠습니까?"
+ z_fw1_misc.331.desc:0 "이 유물을 활성화하거나 비활성화 할 수 있습니다. 활성화하면 건설선을 사용하여 성계을 찾고 성계에 지정된 거대 구조물을 철거할 수 있습니다. 물론 전체 은하계의 모든 거대 구조물을 직접 파괴할 수도 있습니다. 관문이나 L-관문은 파괴할 수 없으며 파괴하면 밸런스에 심각한 영향을 미치고 게임 구조가 변경됩니다."
+ z_fw_evt_r_cheat_mega_sword_off:0 "$z_fw_r_cheat_mega_sword$ §G비활성화§!"
+ z_fw_evt_r_cheat_mega_sword_off_desc:0 "더이상 $z_fw_mega_r_cht_mega_tgt_marker$를 지을 수 없습니다!.§!"
+ z_fw_evt_r_cheat_mega_sword_on:0 "$z_fw_r_cheat_mega_sword$ §H활성화§!"
+ z_fw_evt_r_cheat_mega_sword_on_desc:0 "건설선이 도달할 수 있는 모든 성계에서 거대 구조물을 검색하고 표시한 다음 이 표시를 기반으로 파괴할 거대 구조물을 결정할 수 있습니다.\n건설선을 사용하여 파괴하려는 거대 구조물이있는 성계에 $z_fw_mega_r_cht_mega_tgt_marker$를 건설하십시오. 한번에 한명의 플레이어 만 $z_fw_mega_r_cht_mega_tgt_marker$ 건설할 수 있습니다.§!"
+ z_fw_evt_r_cheat_mega_sword_doom:0 "암흑에너지 거대건축물 제거 자르기"
+ z_fw_evt_r_cheat_mega_sword_doom_desc:0 "한번의 자르기로 하늘이 부서질 것입니다. 은하 전체의 모든 거대 구조물은 즉시 파괴될 것이며 되돌릴 방법은 없습니다.§!"
+ 
+ z_fw_evt_r_cht_mega_choose:0 "이 성계에서 거대 구조물 탐색"
+ z_fw_tips_r_cht_mega_choose_tgt:0 "[event_target:z_fw_tgt_sys_r_cht_mega.GetName]에서 유효한 거대 구조물을 탐색합니다."
+ z_fw_tips_r_cht_mega_choose_reroll:0 "표식 재배치"
+ z_fw_tips_r_cht_mega_choose_non:0 "이 성계에는 철거 할 유효한 거대 구조물이 없습니다."
+ z_fw_tips_r_cht_mega_choose_demolish_0:0 "아무것도 없습니다."
+ z_fw_tips_r_cht_mega_choose_demolish:0 "지정된 거대 구조물을 즉시 파괴합니다. 참고: 표식을 잘 확인하십시오."
+ z_fw_tips_r_cht_mega_choose_demolish_1:0 "§G1§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_2:0 "§G2§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_3:0 "§G3§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_4:0 "§G4§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_5:0 "§G5§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_6:0 "§G6§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_7:0 "§G7§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_8:0 "§G8§으로 표시된 거대 구조물을 즉시 파괴합니다."
+ z_fw_tips_r_cht_mega_choose_demolish_9:0 "§G9§으로 표시된 거대 구조물을 즉시 파괴합니다."
+
+#_tooltips
+ z_fw_tips_r_cht_mega_sword_effect:0 "물질 말소 검을 활성화하면 지정된 성계의 모든 거대 구조물을 철거할 수 있습니다.\n건설선을 사용하여 탐지 표식을 설치하면 시스템 거대 구조물 검사 패널을 열고 그 위에있는 표식에 따라 파괴 할 거대 구조물을 선택할 수 있습니다.\n§Y참고: 은하계에는 한 번에 하나의 탐지 신호만 존재할 수 있습니다§!"
+#_relic
+ z_fw_r_cheat_mega_sword:0 "§GInfintie Stellaris§!: 물질 말소 검"
+ z_fw_r_cheat_mega_sword_desc:0 "에메랄드 빛이 고대 검을 스쳐 지나갑니다. 이 고대 유물은 우주의 구조를 변화시킬 수 있는 힘으로 가득 차 있었습니다. 칼에 새겨진 글씨에는 고대 글씨체로 된 큰 글자들이 줄지어 새겨져 있습니다: §B암흑에너지는 전능할지니!§!\또한 아래에는 눈에 띄지 않는 작은 인쇄물이 한 줄의 지침서가 새겨져 있습니다.: §B양손에 
+ 칼을 들고있는 장로가 외쳐야 합니다.: §G무한의 별자리에 영광이 있을지니§!, 그리고 밝은 !§G암흑에너지 거대건축물 제거 자르기§!를 목표 거대 구조물에 강하게 내리치십시오!§!\n세상에나... 이건 너무 지나칩니다!
+ 
+#_megastructures
+ #_巨建毁灭者
+ z_fw_mega_r_cht_mega_tgt_marker:0 "암흑에너지 거대건축물 제거 자르기 §G탐색 지점§!"
+ z_fw_mega_r_cht_mega_tgt_marker_DESC:0 "한번의 자르기로 하늘이 부서질 것입니다.\n이 고대 무기의 단순한 자르기만으로도 우주를 창조하는 힘을 방출할 수 있을만큼 강력하며 거대 구조물은 순식간에 사라질 수 있습니다. 암흑 에너지는, 전능합니다!"
+ z_fw_mega_r_cht_mega_tgt_marker_MEGASTRUCTURE_DETAILS:0 "이 성계에서 가능한 모든 거대 구조물을 감지하고 표시한 다음 이 표식를 기반으로 파괴할 거대 구조물을 선택할 수 있습니다."
+
+
+###_真`狂怒
+#_evts
+ z_fw_evt_r_cht_fury:0 "이 $z_fw_r_cheat_fury$?를 어떻게 사용하시겠습니까?"
+ z_fw_evt_r_cht_fury_desc:0 "이 유물를 활성화하여 필요한 강도를 선택하고 적들이 당신의 분노를 느끼게하십시오. 빛의 죽음에 대한 분노와 분노!"
+ z_fw_evt_r_cht_fury_buff_1:0 "분노 LV1: Fevor, meisanguis!"
+ z_fw_evt_r_cht_fury_buff_2:0 "분노 LV2: 찾아서 파괴하라!"
+ z_fw_evt_r_cht_fury_buff_3:0 "분노 LV3: 모두 휩쓸어라!"
+ z_fw_evt_r_cht_fury_buff_4:0 "분노 LV4: KKND - 부수고 죽이고 파괴하라!!"
+ z_fw_evt_r_cht_fury_buff_5:0 "분노 LV5: 나는 파멸일지니!!!"
+ z_fw_evt_r_cht_fury_buff_desc:0 "필요한 분노 강도를 선택합니다. 강도가 높을수록 보너스가 더 무시무시합니다."
+ z_fw_evt_r_cht_fury_buff_clean:0 "평온을 되찾다."
+ z_fw_evt_r_cht_fury_buff_clean_desc:0 "더이상 분노는 없습니다."
+#_relic
+ z_fw_r_cheat_fury:0 "§GInfinite Stellaris§!: 분노"
+ z_fw_r_cheat_fury_desc:0 "이 신비한 상징은 정신없고 불안한 에너지를 발산하여 가까이있는 모든 생물을 미치게 만듭니다. 피처럼 붉은 고대 상징은 조밀하게 포장 된 작은 문자로 덮여 있으며 희미하게 보입니다: §B암흑에너지는 전능할지니!§!\n또한 아래에는 작고 눈에 잘 띄지 않는 단어가 줄 지어 있습니다.: §R여기에 다른 차원에서 온 강력한 마음의 영광스러운 과거에 대한 기록이 있습니다. 분노하고 정의를 실천하십시오. 그들은 한때 극심한 분노로 근원 제국의 함선의 방어막을 뚫고, 격노로 연합 함대의 장갑을 부수고, 격렬한 외침으로 솟구치는 태양 폭풍을 소멸시키며, 이 축제를 축하하기 위해 아름다운 소녀 드레스를 입었습니다...§!\n세상에나, 너무 두렵습니다!!!"
+ z_fw_tips_r_cht_fury_effect:0 "분노 보너스를 가질 수 있습니다. 총 5 개의 레벨이 있습니다. 강력한 치트 행위는 게임의 재미를 감소시킬 것입니다. 신중하게 결정하십시오."
+#_modifiers
+ z_fw_mod_r_cht_fury_1:0 "$z_fw_evt_r_cht_fury_buff_1$"
+ z_fw_mod_r_cht_fury_1_desc:0 "여러분의 것이 되어서는 안되는 이 힘을 받아들이고, 불태우고, 탐닉하고, 그들을 잿더미로 만들어 버립니다."
+ z_fw_mod_r_cht_fury_2:0 "$z_fw_evt_r_cht_fury_buff_2$"
+ z_fw_mod_r_cht_fury_2_desc:0 "$z_fw_mod_r_cht_fury_1_desc$"
+ z_fw_mod_r_cht_fury_3:0 "$z_fw_evt_r_cht_fury_buff_3$"
+ z_fw_mod_r_cht_fury_3_desc:0 "$z_fw_mod_r_cht_fury_1_desc$"
+ z_fw_mod_r_cht_fury_4:0 "$z_fw_evt_r_cht_fury_buff_4$"
+ z_fw_mod_r_cht_fury_4_desc:0 "$z_fw_mod_r_cht_fury_1_desc$"
+ z_fw_mod_r_cht_fury_5:0 "$z_fw_evt_r_cht_fury_buff_5$"
+ z_fw_mod_r_cht_fury_5_desc:0 "$z_fw_mod_r_cht_fury_1_desc$"
+
+
+###_[cht_闪电之球]
+ z_fw_r_cht_emp:0 "§GInfinite§!: Lightning Orb"
+ z_fw_r_cht_emp_desc:0 "Lightning orb, dark energy magic orb, when used, there is a certain chance to trigger purification, instantly destroying the Void Summon...Sorry for taking the wrong script. \nThe strange instrument full of technological sense, entangled by the crackling electric arc, so that no one dared to observe it closely. Different from other Cangxue Mountain creations, there is an industrial cyberpunk style everywhere. The following line of small characters can be seen faintly: §B Dark energy, omnipotent! §! In addition, there is an instruction for use: §Y When it is dropped to the target location, it will generate a strong electromagnetic pulse, which can directly destroy all artificial products. In addition, due to energy coupling, it has a magical killing effect on non-real world creations.§!"
+ z_fw_r_cht_emp_effect:0 "If $NAME_z_fw_tgt_r_cht_emp_ship$ does not exist, turning it on will open all borders (connected countries) within one year and get a $NAME_z_fw_tgt_r_cht_emp_ship$. \n Jumping $NAME_z_fw_tgt_r_cht_emp_ship$ to the specified galaxy will generate a magnetic storm covering the entire galaxy, which will destroy all ships in the galaxy that can produce wreckage, and leave the wreckage for research."
+
+###_[巨建拆解]    ########################################################################################
+#_decision
+ z_fw_dec_mega_dismantle: "§GInfintie Stellaris§!: 거대 구조물 해체"
+ z_fw_dec_mega_dismantle_desc: ""
+ z_fw_tips_dec_mega_dismantle: "거대 구조물을 해체하고 합금을 회수합니다."
+ z_fw_tips_mega_dismentle_ongoing: "한 번에 한 명의 플레이어만 이 기능을 사용할 수 있습니다."
+ z_fw_dec_mega_dismantle_plnt: "$z_fw_dec_mega_dismantle$"
+ z_fw_dec_mega_dismantle_plnt_desc: ""
+#_mega
+ z_fw_mega_dismantle:0 "거대 구조물 해체기"
+ z_fw_mega_dismantle_DESC:0 ""
+ z_fw_mega_dismantle_MEGASTRUCTURE_DETAILS:0 ""
+
+#_evts
+ z_fw_evt_mega_dismantle:0 "이 성계에서 유효한 거대 구조물을 탐색합니다."
+ z_fw_evt_mega_dismantle_desc:0 "모든 유효한 거대 구조물을 탐색합니다."
+ z_fw_tips_mega_dismantle_reroll:0 "표식 재배치"
+ z_fw_tips_mega_dismantle_non:0 "이 시스템에는 해체할 유효한 거대 구조물이 없습니다."
+ z_fw_tips_mega_dismantle_0:0 "아무것도 하지 마라."
+ z_fw_tips_mega_dismantle:0 "거대 건축물 해체를 즉시 시작합니다. 참고: 표식을 잘 확인하십시오."
+ z_fw_tips_mega_dismantle_1:0 "§H1§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_2:0 "§H2§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_3:0 "§H3§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_4:0 "§H4§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_5:0 "§H5§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_6:0 "§H6§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_7:0 "§H7§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_8:0 "§H8§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_tips_mega_dismantle_9:0 "§H9§!으로 표시된 거대 구조물을 즉시 분해합니다."
+ z_fw_evt_mega_dismantle_done:0 "거대 구조물 분해 완료"
+ z_fw_evt_mega_dismantle_done_desc:0 "고대의 거대한 구조물이 완전히 무너졌습니다. 부서진 골조와 성간 먼지만이 과거의 전설을 말하며 우리는 그것으로부터 충분한 합금을 회수했습니다."
+ z_fw_evt_mega_dismantle_plnt_ongoing:0 "이 성계에서 거주지 해체가 진행되고 있습니다."
+ z_fw_evt_mega_dismantle_plnt_ongoing_desc:0 "현재 거주지 해체 작업이 완료될 때까지 두 번째 거주지를 해체할 수 없습니다."
+ 
+ 
+#_[自我拆解]
+#_evts
+ z_fw1_misc.140.title:0 "역설계를 위해 이 함대를 파괴하시겠습니까?"
+ z_fw1_misc.140.desc:0 "이 함대를 해체하기로 결정한 경우, 폭력적인 해체를 위해 함대를 준비하십시오. 목표 함대는 해체되고 방어 체계가 매우 취약해지지만 반복 공격은하지 마십시오. 자동 방어 메커니즘이 작동됩니다."
+ z_fw1_misc.flt_self_dismantle_no:0 "자기 해체: 현재 사용할 수 없습니다. 설정 패널에서 활성화하십시오."
+ z_fw1_misc.140.title:0 "역설계를 위해 이 함대를 파괴 하시겠습니까?"
+ z_fw1_misc.140.desc:0 "이 함대를 해체하기로 결정한 경우, 폭력적인 해체를 위해 함대를 준비하십시오. 표적 함대 해체는 해체되고 방어 시스템이 매우 취약 해지지만 반복 공격은하지 마십시오. 자동 방어 메커니즘이 트리거됩니다.."
+ z_fw1_misc.140.a:0 "맞아, 함대를 준비하라!"
+ z_fw1_misc.140.b:0 "그러지 않겠다..."
+#_modifier
+ z_fw_mod_cntr_self_dismantle:0 "§G함선파괴자§!"
+ z_fw_mod_cntr_self_dismantle_desc:0 "빨리, 부숴버려라!"
+ mod_damage_vs_country_type_z_fw_npc_temp_neutral_self_dismantle_mult:0 "해체할 대상에 대한 피해 증가"
+

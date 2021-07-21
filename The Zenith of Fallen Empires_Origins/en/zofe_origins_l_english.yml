@@ -1,0 +1,254 @@
+﻿l_english:
+
+ original_people_init_01_NAME:0 "원로 종족"
+ original_people_init_01_DESC:0 "§Y$pc_gaia$§!의 원로 종족으로 시작하지만, 이들의 진정한 기원은 여전히 수수께끼로 남아있습니다."
+
+ d_original_people_ship_graveyard:0 "특이한 폐허"
+ d_original_people_ship_graveyard_desc:0 "알려지지 않은 이유로, 우리의 새로운 감지기는 이 폐허 밑에 숨겨진 특이한 무언가를 감지했습니다."
+
+ origin_original_people:0 "원로 종족"
+ origin_original_people_desc:0 "대성전이 끝나갈 무렵 적들에게 알려지지 않은 소수의 원로 종족이 전쟁을 피해 §Y$pc_gaia$§!에 피난처를 세웠습니다. 거의 전멸에 가까운 상황에 처한 원로들은 과거의 잿더미에서 문명을 재건하는 동안 젊은이들이 고대의 숙적을 찾지 않도록 그들의 역사에 대해 결코 말하지 않겠다고 맹세했습니다."
+
+ origin_ancestors:0 "링월드 제국"
+ origin_ancestors_desc:0 "링월드 제국은 1만 년 전 대성전에서 그들의 유산과 은하계에 대한 공헌과 함께 멸망했다고 추정되었습니다. 모두가 파괴된 링월드만이 한 때 강대했던 제국이 남긴 전부라고 추측했습니다. 하지만 그 가설은 틀렸습니다. 아직 살아있는 사람들에게 말이죠. 그들은 기술을 재건한 후에, 은하계로 돌아갈 준비가 되었습니다."
+
+ civic_tooltip_original_people_effects:3 "§R- 경고: 도전적인 기원§!\n- 모성이 §Y희귀한 행성 특징§!을 가진 §Y$pc_gaia$§!으로 고정됩니다 (크기: £planetsize£ §Y25§!)\n - 폐허가 된 거대구조물이 인접한 성계에 생성됩니다.\n - 주 종족이 §Y$trait_punctual$§! 트레잇을 가지고 시작합니다.\n - 주 종족이 §Y$trait_patriotic$§! 트레잇을 가지고 시작합니다.\n - 주 종족이 §Y$trait_disciplined$§! 트레잇을 가지고 시작합니다.\n - §R고대의 숙적들은 아직 살아 있을 지도 모릅니다.§!"
+ civic_tooltip_ancestors_effects:3 "- §Y링월드§!를 모성으로 시작합니다.\n- 폐허가 된 거대구조물이 인접한 성계에 생성됩니다.\n- 링월드에는 구간을 유지할 수 있는 §Y$d_arcane_generator$§!가 있습니다.\n- 몇 개의 몰락 제국 건물을 가지고 시작합니다.\n- 거주적합성이 §Y$trait_pc_ringworld_habitable_preference$§!로 설정되며, 다른 유형의 정착지를 만드는 것이 어려워지게 될 것입니다.\n- 함께한 역사로 인해, 몰락 제국은 당신의 종족을 기억할지도 모릅니다."
+
+ 
+ 
+
+ trait_punctual:0 "시간 엄수"
+ trait_punctual_desc:0 "§L이 종의 구성원들은 항상 시간을 엄수하여 생산성을 향상시킵니다.§!"
+ trait_patriotic:0 "애국적인"
+ trait_patriotic_desc:0 "§L이 종의 구성원들은 그들의 유산을 매우 자랑스럽게 여기며 명령에 따르는 것을 의무라고 생각합니다.§!"
+ trait_disciplined:0 "규율있는"
+ trait_disciplined_desc:0 "§L이 종의 구성원들은 훈련된 군인들을 육성하며, 이들은 전투에 굉장히 효과적입니다.§!"
+ 
+
+ opinion_original_people:0 "원로"
+
+ opinion_shared_history:0 "공유된 역사"
+
+ opinion_shadows_of_the_original_empire:0 "원로 제국의 그림자"
+
+ ORIGINAL:0 "원로"
+
+
+ original_people.1.desc:0 "어리석은 [Root.GetSpeciesName]. 네놈들이 더 뛰어난 사람을 존중하지 않는 것은 곧 너희의 실패가 될 것이다. 우리 앞에 엎드려 용서를 빌면, 너희의 쓸모없는 제국을 멸망시키지 않을 수도 있지."
+
+ original_people.3.desc:0 "원로 제국은 부패했다. §H너§! 또한 타락했지. 정신은 균형을 지켜야 한다고 말하고 있고, 우리는 순종할 것이다."
+ original_people.3.desc.b:0 "[Root.GetSpeciesNamePlural]이(가) 우리가 더 큰 이익을 위해 너희의 제국을 파괴했다는 사실을 받아들이지 않는 것이 놀랍군. 돌아온건 [Root.GetSpeciesNamePlural]이(가) 저지른 마지막 실수다."
+ original_people.3.desc.c:0 "네놈들은 힘과, 고난의 과거와, 너희가 초래한 모든 고통 속에서 아무것도 배우지 못 했구나. 원로 제국의 압제는 결코 돌아오지 않을 것이고, 우리는 이 뜻을 관철할 것이다."
+ original_people.3.desc.d:0 "원로 쓰레기들. 우리는 선조들이 시작한 일을 끝내고 이 은하에서 역겨운 모든 [Root.GetSpeciesName]을(를) 쓸어버릴 것이다."
+ original_people.3.a:0 "그렇게 해라."
+ 
+ original_people.50.desc:0 "1만 년 동안, 은하는 진정한 평화를 누렸고, 악의와 너희 종족 없이 사는 법을 배웠다. 네놈들이 돌아온 이후, 은하계에서 다시 한번 전쟁이 시작됐다. 네놈들은 전염병이고, 반드시 멈춰야 한다. 우리의 선조들이 한때 자유를 위해 의무를 다하고 삶을 바쳤기 때문에, 우리도 역시 우리의 의무를 피하지 않을 것이다.\n\n때가 되었다. 결정이 내려졌지. 제 2차 성전이 선포되었고, 원로 제국의 압제가 다시는 돌아오지 못 하도록 대 연합이 다시금 결성되었다. 너희는... §H사라질§! 것이다!"
+ original_people.50.a:0 "안 돼... 안 돼... 안 돼!"
+ original_people.50.b:0 "널 죽여 버리겠다!"
+ original_people.50.c:0 "아니. 이건 시작에 불과하다!"
+ original_people.50.d:0 "그렇게 해라. 우리는 해야 할 일을 할테니."
+
+
+ original_people.60.name:0 "[Root.GetName]의 특이한 폐허"
+ original_people.60.desc:0 "새로운 감지 기술을 통해 우리가 탐험할 수 없었던 외딴 지역의 또 다른 이상 현상을 포착할 수 있었습니다. 그러나 감지기는 우리에게 더 많은 것을 알려줄 수 없으며, 과학자 팀이 조사를 원하고 있습니다. 하지만 먼저 폐허를 정리해야 합니다."
+ original_people.60.a:0 "그렇게 해라. 폐허를 정리 해."
+
+ original_people.6.name:0 "우주선 묘지"
+ original_people.6.desc:0 "지난 1만년 동안의 표면 잔해와 생물학적 성장을 없앤 후, 우리는 고대 우주선의 잔해를 발견했습니다. 그러나 왠지는 모르겠지만, 우리가 그것을 알아봐야 할 것처럼 친숙하게 느껴졌습니다. 고고학자 팀이 조사에 참여했는데, 놀랍게도 이 함선은 §H[Root.GetName]§!의 초기 정착민들이 그린 원시적인 그림들과 일치합니다. 어떻게 이럴 수가 있을까요?\n\n이 발견 소식이 퍼지자 물리학자들과 엔지니어들은 함선에서 발견된 기술에 흥분했습니다. 무기는 현재 우리의 물리학으로 이해할 수 없는 것이고, 함선이 조립되고 우주를 비행한 방법은 우리의 공학 경험을 훨씬 뛰어넘는 것처럼 보였습니다. 이 문제를 해결하기 위해, 우리의 최고 과학자들은 복원 프로젝트를 제안했습니다. 물론, 상당한 자원이 필요할 것입니다.\n\n어디서 온 것인가? 왜 이렇게 낯이 익을까? 어쩌면 이 난파선이 우리의 과거에 대한 모든 해답을 가지고 있는지도 모릅니다."
+ original_people.6.a:0 "고칠 수 있겠나?"
+ original_people.6.b:0 "자원을 위해 폐기해라."
+ original_people.6.c:0 "그것의 기술을 연구해라."
+ original_people.6.d:0 "내버려 둬. 무관하다."
+
+ ORIGINAL_PEOPLE_ESCORT:0 "고대의 함선 깨우기"
+ ORIGINAL_PEOPLE_ESCORT_DESC:0 "이 함선은 정말 낡아보입니다... 정말로요. 그러나 그것은 이상할만치 눈에 익은 것 같습니다. 이 무시무시한 껍데기에서 발견된 비문은 현재 국립 박물관에 전시되어 있는 고대 문헌들과 묘한 유사점을 지니고 있지만, 우리는 10여년 전까지만 해도 완전한 우주 비행을 이루지 못했습니다.\n\n잘못된 버튼을 눌러 실수로 함선이 폭발하지 않도록 주의하면서 함선의 작동 원리를 연구하는데 시간이 걸릴 것입니다."
+
+
+ original_people.7.name:0 "고대의 함선이 깨어나다"
+ original_people.7.desc:0 "웅웅거리기 시작했습니다. 그것은 처음에는 희미했습니다. 마치 우리의 멀지만 신비로운 과거에서 오는 메아리처럼 말이죠. 그러나 엔진이 굉음을 내며 살아났고, 오래 전에 죽었다고 생각했던 함선을 깨웠습니다. 무기, 생명유지장치, 하이퍼 드라이브 등 모든 것이 온라인 되었고, 이 사실을 함선의 AI가 고대 §H[Root.Owner.GetSpeciesAdj]§!의 방언으로 알렸습니다. 이것은 더 이상 묻히고 잊혀지지 않을 것입니다.\n\n함선의 내부와 조종 장치는 우리의 고유한 §H[Root.Owner.GetSpeciesAdj]§! 생리학에 딱 들어맞는 것 같았습니다. 그리고 우리의 제독들은 그것이 실제로 작동하는 것을 보고 싶어 했습니다. 하지만 우리 과학자들은 현대 과학으로 이해되지 않는 이 함선의 기술을 역설계하거나 개조하는 것에 대해 경고했습니다. "어떻게 된건진 모르겠는데, 작동은 하고 폭발하진 않아요." 한 엔지니어가 투덜대며 말했습니다. "그러니까 망가뜨리지 마."\n\n이제 우리가 한때 성간 문명이었다는 것이 점점 명백해지고 있습니다. 그 증거는 극복할 수 없습니다. 무슨 일이 있었을까요? 고향에는 최초의 정착민을 넘어선 §H[Root.Owner.GetSpeciesAdj]§!의 역사는 존재하지 않습니다. 출현 이전의 기록은 존재하지 않죠. 저 너머에 우리가 더 있을까요?\n\n함선의 블랙박스에 남아 있는 것을 살펴본 결과, 마지막으로 명령을 받은 것은 개척선들, 아마도 우리의 조상들일 것입니다. 어떤 의미에서 이 함선은 궤도에서 일종의 치명적인 사고를 당하기 전에 결국 이 행성에 정착한 우리의 선조들을 지켰습니다. 어떤 경우든, 우리는 이 함선을 다시 미지의 공간으로 날려서 우리의 기원의 신비를 밝혀낼 운명인 것 같습니다."
+ original_people.7.a:0 "함선을 궤도에 올려라!"
+
+
+
+ 01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "아마 너희 종족이 아직 살아있는 이유가 있을 거다, [From.GetSpeciesName]."
+ 02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "넌... 너희는 우리의 역사 기록 보관소에 있는 아주 §H끔찍한§! 사람들을 생각나게 하는군."
+ 03_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "우리는 잊지 않았다, [From.GetSpeciesNamePlural]. 과거의 실수로부터 배우는 것이 좋을 것이다.."
+ 04_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "그래서, 원로 제국이 아직 살아있나. 어째서 선조들이 일을 마무리 짓지 않았는지 알기 어렵군." 
+
+ 
+ 01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "너희의 죄를 속죄해라, [From.GetSpeciesNamePlural]. 아마도 결국은 너희를 위한 구원이 있을테니."
+ 02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "이토록 조잡한 금속 껍질을 타고 다니다니. 그토록 강대했던 [From.GetSpeciesNamePlural]이(가) 이렇게 몰락했는가."
+ 03_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "[From.GetSpeciesNamePlural]이(가) 멸종되지 않아 기쁘군! 너를 봐라! 정말 귀엽지 않나! 너는 우리의 궁전에 휼륭한 컬렉션이 될거다."
+ 04_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "아마도 [From.GetSpeciesNamePlural]은(는) 완전히 쓸모 없는 것은 아닐지도 모르겠군. 아마 너는 좋은 노예가 될거다... 그래, [From.GetSpeciesNamePlural]이(가) 수천 년 전에 야기한 피해를 복구하는 것이 적합하겠군."
+
+ 01_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "아마 그게 네 본성이겠군. 넌 절대 변하지 않아, [From.GetSpeciesNamePlural]."
+ 02_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "역사의 교훈을 잊지 마라, [From.GetSpeciesNamePlural]. 우리는 너희를 한 번 떨어뜨렸고, 다시 그렇게 할 수 있으니."
+ 03_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "[From.Capital.GetName]의 학교에서는 무엇을 가르치지? 분명히 너는 스스로의 역사를 모르고 되풀이 할 운명이다."
+ 04_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "좋은 [From.GetSpeciesName]은(는) 오직 죽은 [From.GetSpeciesName] 뿐이다."
+
+ 01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "역사는 반복된다. 지난 번엔 어떻게 됐었는지 상기시켜줘야 하나?"
+ 02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "넌 벌을 받아야 해."
+ 01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "이것은 은하의 더 큰 이익을 위한 것이다."
+ 02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "다시는 하지 마라."
+ 01_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "어두운 역사로부터 아무것도 배운 것이 없나, [From.GetSpeciesName]?"
+ 02_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "[From.Capital.GetName]은(는) 불탈 것이다. 원로 제국이 다시는 돌아오지 못 하도록 지켜보겠다."
+
+
+
+ 01_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "예언자들은 너희의 귀환에 대해 말했다, [From.GetSpeciesName]. 하지만 너희는 그럴만한 힘이 있는가?"
+ 02_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "그래, [From.GetSpeciesNamePlural]은(는) 한때 대성전에서 싸웠지. 기록보관소가 질리도록 말해주더군."
+ 03_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "우리는 항상 [From.GetSpeciesNamePlural]이(가) 어떻게 대성전에서 살아남았는지 궁금했다. 우리 외계종 동물원은 아직 완성되지 않았어."
+ 04_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "그래, [From.GetSpeciesNamePlural]이(가) 아직 살아있군. 우리는 기록보관소에서 너희에 대해 읽었지만, 너희의 업적이 실제로 사실인지는 의심스럽다."
+
+ 01_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "예언자들이 옳았다, [From.GetSpeciesNamePlural]. 넌 장막의 균형을 되돌릴 수 있곘군."
+ 02_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "우리는 [From.GetSpeciesNamePlural]이(가) 사실상 오랫동안 과학적 진보를 이루지 못 한 것에 대해서 심각하게 우려하고 있다."
+ 03_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "보고 싶었다네, 친구들! 따라잡아야 할 것이 많네. 대성전 이후 수 세기가 지났어."
+ 04_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "우리는 우리의 오랜 동맹을 받아들일 수 있다는 것을 결코 깨닫지 못 했었다. 다소 이상한 외모에도 불구하고 우리의 선조들이 왜 동맹이었는지 알 수 있겠군." 
+
+
+ 01_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "아마도 우리 예언자들이 [From.GetSpeciesNamePlural]에 대해 틀렸을 것 같군. 그들은 장막의 균형을 회복하지 못할 것이다."
+ 02_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "우리를 시험하지 마라, 우리의 인내심은 무한하지 않으니."
+ 03_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "어째서 오늘날의 [From.GetSpeciesNamePlural]은(는) 위대한 선조들의 유산을 그렇게 열심히 파괴하는 거지?"
+ 04_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "우리는 역사상 한번도 [From.GetSpeciesNamePlural]와 싸운 적이 없지만, 필요하다면 그렇게 할 것이다."
+
+ 01_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "안타깝지만, [From.GetSpeciesName], 해야만 하는 일이다."
+ 02_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "[From.Capital.GetName]이(가) 다시 불타오르는 것을 보는건 슬프겠군."
+ 01_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "우리는 다른 방법이 있기를 바랐다."
+ 02_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "우리가 이렇게 하게 만들지 마라."
+ 01_ANCESTOR_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "[From.GetSpeciesName]은(는) 은하계에서 멀리 떨어진 동안 심하게 탈선한 것 같군."
+ 02_ANCESTOR_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "너는 우리가 함께한 역사를 잘못된 의제로 악용하고 있다. 널 막아야만 해."
+
+ START_SCREEN_ORIGINAL_PEOPLE:0 "수세기 동안, [GetAdj]의 생물학자들은 [GetSpeciesNamePlural]이(가) [GetHomeWorldName]의 생물권에서 진화하지 않았다는 것을 알고 있었습니다. 사실 약 1만 년 전 까지는 [GetSpeciesName]의 존재 기록이 없었습니다. 그들은 갑작스럽게 출현했다는 것이 대중적인 이론으로 여겨졌습니다. [GetSpeciesNamePlural]은(는) 아마도 우주의 다른 곳에서 유래되었을 것입니다.\n\n하지만 만약 우리가 이미 성간 문명이었다면, 최초의 [GetSpeciesName] 개척자들은 진보된 기술들을 하나도 물려받지 못 했을까요? 그리고 어째서 우리는 잊혀진 듯 여기 남겨졌을까요?[GetSpeciesNamePlural]은(는) 어디에서 왔으며 다른 이들은 어떻게 되었을까요? 왜 우리 선조들은 과거를 언급하지 않았을까요?\n\n최근 몇 년간, [GetRulerTitle] [GetRulerName]은(는) [GetAdj]의 비밀스러운 과거에 대한 답을 찾겠다고 약속하여 엄청난 지지와 함께 권력을 장악했습니다."
+ START_SCREEN_ANCESTORS:0 "수 천년 전, 이 은하는 초월 제국이 전쟁을 일으켜 수많은 문명에 죽음을 가져왔을 때 종말을 엿보았습니다. 대성전의 정당성을 확신한 각 초월 제국들은 과학의 한계를 뛰어넘어, 매번 더 위험하고 새로운 병기로 무장한 거대한 함대를 배치했습니다. 엄청난 전투가 벌어지고 많은 행성이 포화에 휘말려 우주의 공백을 메아리치는 수천 개의 무덤 행성을 남겼습니다.\n\n하지만 이제 대성전의 희생자가 일어섰고, [GetSpeciesNamePlural]은(는) 잃어버린 유산을 되찾고 별들 사이에서 그들의 정당한 위치를 되찾기 시작했습니다. 그들은 선조의 힘에 걸맞게 일어날 수 있을까요? 다시 한번 초월 제국이 될 수 있을까요?"
+
+ original_people_chain_title:0 "원로 종족"
+ original_people_chain_desc:0 "첫 번째 [From.GetSpeciesNamePlural]은(는) 약 1만 년 전에 나타났지만, 이전에는 알려진 바가 거의 없었습니다. 자신의 뿌리를 찾는 것은 곧 자신의 진정한 모습을 찾는 것이며, 그들의 집, 진정한 집을 찾는 것은 오랫동안 [Root.GetAdj]의 꿈이었습니다. 나무가 뿌리 없이 어떻게 살 수 있을까요? 이런 속담이 있습니다:\n\n'금이라 해서 다 반짝이는 것은 아니며,\n방황하는 자 모두 길을 잃은 것은 아니다.\n강한 것은 오래되어도 시들지 않고,\n깊은 뿌리에는 서리가 닿지 못한다.\n\n타버린 재에서 새로이 불길이 일고,\n어두운 그림자에서 빛이 솟구칠 것이니,\n부러진 칼날은 되살아날 것이며,\n왕관을 잃은 자 다시 왕이 되리라.'"
+ 
+ original_people_digsite_1:0 "우리의 뿌리를 찾아서"
+ original_people_digsite_1_desc:0 "특이한 금속성 수치는 행성의 가장 깊은 바다에서 시작되었습니다. 우리가 이것을 감지할 수 있는 것은 스캐너와 센서 기술이 향상되었기 때문입니다. 그러나 이 정도의 압력을 견딜 수 있는 함선을 충분한 과학 장비를 탑재한 상태로 조립하는 것은 결코 작은 일이 아닙니다."
+ original_people_digsite_2:0 "대답 없는 부름"
+ original_people_digsite_2_desc:0 "우리 선조의 식민지가 멸망하기 전에 조난신호가 이 행성에 보내졌습니다. 그러나 개척선은 아무런 회답도 받지 못했고, 아무런 도움도 오지 않았습니다. 우리는 그 이유를 알고 싶습니다."
+ original_people_digsite_3:0 "난민 행성"
+ original_people_digsite_3_desc:0 "어째선지, 작은 도시 행성에 나타난 난민들의 대부분은 이 행성에서 온 사람들이었습니다. 이유를 찾아야 합니다."
+ original_people_digsite_4:0 "황금 도시"
+ original_people_digsite_4_desc:0 "황금 도시는 더 이상 존재하지 않지만, 행성을 둘러싼 잔해들은 우리의 먼 과거에 대한 정보를 담고 있으며, 우리에게 무슨 일이 일어났는지에 대해 많은 것을 말해 줄 수 있습니다."
+ 
+ original_people.100.name:0 "[From.Capital.GetName]에서의 발견"
+ original_people.100.desc:0 "최근 [From.Capital.GetName]의 가장 깊은 바다로의 탐사에서 다소 특이한 금속 판독 값을 얻어낼 수 있었지만, 그 아래에 무엇이 있는지 완전히 확신할 수 없습니다. 고고학자들은 그 위치를 조사할 것을 권하고 있습니다."
+ original_people.100.a:0 "바다 밑에는 뭐가 있을까?"
+
+ original_people.101.name:0 "바다 아래의 선박"
+ original_people.101.desc:0 "현재까지 가장 정교한 수중탐사를 마치고 현장에 도착한 우리의 고고학자들은 이 특이한 금속 판독의 근원이 사실 어떤 종류의 함선과 개척선과 다르지 않은 함선이었다는 것을 확인할 수 있었습니다. 이것이 우리의 기원에 대한 해답을 줄 수 있을까요?\n\n우리 조사팀은 지상에서 더 많은 것을 할 수 있기 때문에 먼저 함선을 회수하는 계획을 제안했습니다."
+ original_people.101.a:0 "어떻게든 복구할 수 있을까?"
+
+ original_people.102.name:0 "회복된 우주선"
+ original_people.102.desc:0 "엄청난 노력으로, 그 신비한 배의 잔해가 땅에 떨어졌습니다. 약 1만 년이 지나며 바다의 낮은 온도에 의해 보존되었지만, 이 함선의 상태는... 작동 가능합니다. 그러나 이 함선이 다시는 비행할 수 없다는 것에는 의심의 여지가 없습니다.\n\n내부에서 우리 선조인 [From.Owner.GetSpeciesNamePlural]의 작은 유골을 발견했는데, 아마도 우리의 선조들은 충돌하기 직전에 그 함선에 갇혔을 것입니다. 탈출용 포드가 투하된 것으로 판단하건대, 소수의 승객들은 가까스로 탈출하여 안전한 곳으로 나아갔을 가능성이 높았고, 나머지는 함선과 함께 해저로 가라앉았습니다. 우리 과학자들은 블랙박스를 복구해서 추락의 원인을 조사하고 우리가 배울 수 있는 교훈이 있는지 확인하려고 합니다."
+ original_people.102.a:0 "그것이 우리의 과거에 대해 무엇을 말해 줄 수 있을까?"
+
+ original_people.103.name:0 "블랙박스 해독"
+ original_people.103.desc:0 "우리가 회수한 블랙박스는 상태가 엉망이었지만, 마지막 항목은 마지막 순간에 무슨 일이 일어났는지에 대한 단서를 제공했습니다. 개척선은 [From.Owner.Capital.GetName]에 추락하기 직전에 알 수 없는 적들에게 공격을 받고 있었습니다. 마지막 메시지는 가까운 성계에 도움을 요청하는 절박한 요청이었습니다. 그 메시지는 응답 받지 못했습니다." 
+ original_people.103.a:0 "그럼 우리는 이 성계로 간다."
+
+ original_people.200.name:0 "오지 않은 도움"
+ original_people.200.desc:0 "식민지 주민들의 조난신호가 인근 성계로 전송되었고 우리는 [event_target:original_people_digsite_2.GetName] 행성의 좌표를 정확히 찾아낼 수 있었습니다. 우리는 즉시 팀을 보내서 어째서 우리 선조들의 도움 요청이 무시되었는지 알아내야 합니다."
+ original_people.200.a:0 "왜 대답이 없었지?"
+
+ original_people.201.name:0 "[From.Planet.GetName]의 전투"
+ original_people.201.desc:0 "거대한 분화구와 파괴의 표면적인 수준에서 볼 때, 고고학 팀은 이 작은 도시 행성이 궤도 폭격의 대상이 되었다고 추론했습니다. 우리가 지금까지 봐왔던 것과는 달랐습니다. 이상하게도 시가전의 흔적은 없었습니다. 그것은 절멸의 전쟁이었습니다. 그 유적의 밑을 더 깊게 탐사한 결과, [From.Owner.GetSpeciesNamePlural]이(가) 죽기 전에 무너져가는 구조물 아래에 갇혀있는 것으로 보이는 유물이 더 많이 발견되었습니다.\n\n북반구에서 우리 팀은 이 행성이 운명을 맞이하기 전에 일어난 우주 전투의 결과로 보이는 잔해들을 발견했습니다. 방어대의 몇 척 안 되는 함정이 순식간에 옆으로 쓸려나가 산산조각이 나는 일방적인 전투에서 식민지 주민들이 도움을 요청했을 때 아무런 대답도 받지 못한 것은 당연한 일입니다."
+ original_people.201.a:0 "정말 끔찍하군."
+
+ original_people.202.name:0 "공황에 휩싸인 도시"
+ original_people.202.desc:0 "도시의 마지막 날에 대한 몇 개의 홀로그램 기록이 남아 있었습니다. [From.Owner.GetSpeciesAdj] 주민들이 밀려오는 함대를 인지하게 되었을 때, 그에 뒤따를 파괴 또한 알 수 있었습니다. 남아있을 수 없었기에, 여유가 있는 사람들은 개척선에 탑승했습니다.\n\n당시 수용 능력보다 훨씬 더 많은 인구가 거주하던 너무나도 작은 도시에서는 민간인 사상자가 천문학적이었습니다. 지금 그 이유 또한 수수께끼로 남아있습니다. 점령당한 도시를 구하기 위한 지원군이 없었기 떄문에 행성은 생명의 흔적이 없을 때까지 무차별 폭격을 받았습니다."
+ original_people.202.a:0 "누가 우리 선조들에게 이런 짓을 했을까?"
+
+ original_people.203.name:0 "발견된 마이그레이션 기록"
+ original_people.203.desc:0 "고대 궁전의 폐허 속에서 우리는 [From.Planet.GetName]의 정부 기록으로 보이는 것을 발견했고 당시 인구 통계와 인구에 대한 다소 흥미로운 자료가 있었습니다. 그 작은 도시는 이미 제국 곳곳에서 유입 된 [From.Owner.GetSpeciesAdj] 난민들을 처리하느라 식민지의 막대한 주택과 식량 부족을 야기하면서 위기에 처해 있었습니다. 주지사는 얼마나 상황이 절박해졌는지 알고 있었지만 난민들은 계속 찾아왔습니다. 그 후 얼마 지나지 않아 적 함대가 도착하여 그들을 모두 고통에서 해방시켰습니다.\n\n기록을 살펴보는 동안, 특히 한 행성에서 [From.Planet.GetName]에 가장 많은 난민을 수송했습니다. 같은 운명을 겪었을까요? 아마도 우리는 그곳에서 더 많은 단서를 찾을 것이고, 그것이 우리를 고향으로 이끌 것입니다."
+ original_people.203.a:0 "이 행성을 찾아보자."
+
+ 
+ original_people.3000.name:0 "차폐 된 행성"
+ original_people.3000.desc:0 "[From.GetName]은(는) 일종의 에너지 장벽에 완전히 둘러싸여있는 것으로 확인되었습니다. [Root.GetName]이(가) 센서로 장벽을 뚫으려는 모든 시도는 실패했습니다. 스캔 광선은 마치 거울을 보는 것처럼 단순히 함선으로 반사될 뿐입니다.\n\n수천 년 간의 붕괴의 결과로 장벽의 에너지 수치가 다소 변동하고 있지만, 원시적인 화력으로 그것을 파괴하는 것은 여전히 불가능합니다. 과학 책임자 [Root.GetLeaderName]이(가) 장벽을 제거하는 방법을 조사하기 위한 특별 프로젝트를 제안했습니다. 하지만 만약 그것이 밖으로 부터의 무언가를 배제하는 것이 아니라 안에 가둬놓기 위해 만들어졌다고 가정한다면 어떡할까요?"
+ original_people.3000.a:0 "장벽이 무너지고 있다. 과학을 위해!"
+ 
+ ORIGINAL_PEOPLE_SHIELD_PROJECT:0 "[event_target:original_people_shielded_planet.GetName]의 보호막 약화"
+ ORIGINAL_PEOPLE_SHIELD_PROJECT_DESC:0 "알 수 없는 이유로, 누군가 또는 무언가가 [event_target:original_people_shielded_planet.GetName]을(를) 뚫을 수 없는 에너지 차폐막에 가두었습니다. 에너지 수치가 변동하고 있으며, 장벽이 수천 년 동안 활성화되었음을 알 수 있습니다. 우리는 장벽을 무효화하고 그 아래에 무엇이 있지 알아낼 방법을 찾아야 합니다!"
+
+ original_people.3001.name:0 "보존된 함선"
+ original_people.3001.desc:0 "[From.From.GetName] 위의 과학자들이 마침내 에너지 장벽을 약화시키는 데 성공했습니다. 그것이 사라졌을 때, 우리는 대수롭지 않은 암석의 낮은 궤도를 천천히 표류하는 군함을 발견했습니다.\n\n해군 예비 함대의 잔존물로 보이지만 어떻게 장벽 안에 갇히게 되었는지는 알 수 없습니다. 무인 함선이지만, 그 배는 우리의 부름에 반응하는 것 같았고 명령을 받아들였습니다."
+ original_people.3001.a:0 "이 배에 승무원을 보내라."
+ original_people.3002.name:0 "이건 우리 함대의 좋은 전력이 되겠군."
+ original_people.3002.desc:0 "[From.From.GetName] 위의 과학자들이 마침내 에너지 장벽을 약화시키는 데 성공했습니다. 그것이 사라졌을 때, 우리는 대수롭지 않은 암석의 낮은 궤도를 천천히 표류하는 군함을 발견했습니다.\n\n해군 예비 함대의 잔존물로 보이지만 어떻게 장벽 안에 갇히게 되었는지는 알 수 없습니다. 무인 함선이지만, 그 배는 우리의 부름에 반응하는 것 같았고 명령을 받아들였습니다."
+ original_people.3002.a:0 "그건 우리 함대의 좋은 전력이 되겠군."
+ original_people.3003.name:0 "Mothballed Fleet"
+ original_people.3003.desc:0 "[From.From.GetName] 위의 과학자들이 마침내 에너지 장벽을 약화시키는 데 성공했습니다. 그것이 사라졌을 때, 우리는 대수롭지 않은 암석의 낮은 궤도를 천천히 표류하는 함대를 발견했습니다.\n\n해군 예비 함대의 잔존물로 보이지만 어떻게 장벽 안에 갇히게 되었는지는 알 수 없습니다. 무인 함선이지만, 그 함대는 우리의 부름에 반응하는 것 같았고 명령을 받아들였습니다."
+ original_people.3003.a:0 "그것들은 우리 함대의 좋은 전력이 되겠군."
+ 
+ original_people.300.name:0 "난민 행성"
+ original_people.300.desc:0 "작은 도시 행성에 도착한 많은 난민들은 [event_target:original_people_digsite_3.GetName] 행성 출신이었습니다. 행성 주변의 장벽이 성공적으로 약화되면서, 이제 표면을 조사하여 식민지에 무슨 일이 일어났는지 알아낼 수 있게 되었습니다."
+ original_people.300.a:0 "당장 그곳으로 가야한다."
+
+ original_people.301.name:0 "죽음의 행성"
+ original_people.301.desc:0 "[From.Planet.GetName]의 춥고 황량한 표면에는 한 때 수십 억의 [From.Owner.GetSpeciesNamePlural]을(를) 수용했던 거대한 식민지의 흔적이 거의 없었습니다. 깊은 눈이 행성을 뒤덮었는데, 아마도 장벽이 햇빛을 상당 부분 차단해 기온이 곤두박질친 결과였을 것입니다.\n\n우리 팀은 더 많은 선조들이 이곳에 묻혔느지, 아니면 복구해야 할 중요한 문화적 유물이 있는지 알아보기 위해 눈을 계속 파헤칠 것입니다."
+ original_people.301.a:0 "계속 파라."
+
+ original_people.302.name:0 "[From.Planet.GetName]의 전투"
+ original_people.302.desc:0 "우리가 눈더미를 파헤치는 동안 이 저온 환경에서 어느 정도 보존된 [From.Owner.GetSpeciesAdj]을(를) 더 많이 발견했습니다. 그들은 보석으로 장식되었고 예쁜 옷을 입고 있었습니다. 적어도 행성에 일이 닥치기 전 까지는 이 사회에서 물적 자원이 풍부했던 듯 보입니다.\n\n또한 [From.Planet.GetName]에서 이 전투에 대한 기록이 담긴 일지를 찾았습니다. 거센 저항에도 불구하고 수비대는 크게 압도당했고 결국 패배했습니다. 우리의 추정에 따르면, 이곳은 당시 제국에 중요한 성계였고 제국은 잃을 수 없었을 것입니다.\n\n공격자들은 시가전이 불리하다는 것을 잘 이해하고 있었고, 그래서 그들은 행성 전체를 파괴할 수 있는 무시무시한 구조물인 §H콜로서스§!라고 알려진 무기를 배치했습니다. 그들은 더 많은 지원군이 도착하기 전에 그것을 사용했습니다. 활성화와 동시에 [From.Planet.GetName]의 주민들은 갇혔습니다. 몇 척의 전함이 행성에서 급히 건조되었지만 그 장벽은 내부에서 뚫을 수 없었습니다.\n\n도망칠 수 있는 사람들은 적의 함대가 궤도에 진입하기 훨씬 전에 도망쳤지만 남은 자들은 결국 얼어 죽었고, 그것이 [From.Owner.GetSpeciesAdj] 식민지의 끝이었습니다."
+ original_people.302.a:0 "비극적이군."
+
+ original_people.303.name:0 "마지막 일지"
+ original_people.303.desc:0 "우리가 발견한 일지의 일부에서 §Y황금 도시§!를 언급했으며, 그 어조의 경외심으로 판단하건대, 그곳은 제국의 수도였던 것 같습니다. 마치 향수병에 걸린 듯, 그들의 절망적인 상황을 실감하고 많은 주민들은 §Y황금 도시§!로 돌아가 그 웅장한 첨탑을 다시 한 번 보고 싶다는 열망을 표현했습니다. 심지어 전체 중 하나는 현재 우리의 감지기에는 없는 성계의 정확한 좌표를 표시했습니다.\n\n마침내, 이 중요한 정보를 가지고, 우리는 선조의 희망을 가지고 마침내 집으로 돌아갈 수 있게 되었습니다. 함께."
+ original_people.303.a:0 "집으로 가자, 황금 도시로."
+
+ original_people.4000.name:0 "잠자는 거인"
+ original_people.4000.desc:0 "성계에 진입하자, 한때 §Y황금 도시§!로 알려졌던 행성을 조용히 공전하고 있는 거대한 함선이 시야에 들어왔습니다. 우리는 이 행성이 한동안 행성을 공전하고 있다고 생각하지만, 어떤 목적을 가지고 있는지, 그렇게 함으로써 무엇을 성취할 수 있을지에 대해서는 불분명했습니다.\n\n그럼에도 불구하고, 우리는 조심스럽게 접근해야 합니다. 이것이 무엇이든지 간에, 우리가 자극한다면 분명히 우리를 산산조각 낼 수 있을 것입니다."
+ original_people.4000.a:0 "조심하게 진행해야 한다."
+ 
+ original_people.4001.name:0 "깨어난 거인"
+ original_people.4001.desc:0 "§Y황금 도시§!에 방문객이 있다는 사실은 궤도에 있는 거대한 함선의 주목을 피하지 못했습니다. 그것은 우리의 신호를 분석하고, 우리의 시그니처를 읽고, 즉시 모든 엔진과 무기 시스템을 활성화했습니다.\n\n우리의 과학선이 이 사실을 알았을 때, 우리는 우리의 의도를 알리기 위해 거대한 우주선에 신호를 보내기 시작했고, 그러자 우리를... 따르기 시작했습니다. 마치 우리의 에너지 신호의 일부가 함선의 데이터 뱅크 깊숙한 곳의 무언가를 깨우는 것 같았습니다.\n\n이제 이 함선은 우리가 가는 곳마다 우리를 따라다닐 것 같습니다."
+ original_people.4001.a:0 "이 거대한 함선이 우리를 따라오는게 무슨 소용이 있을까?"
+ 
+ original_people.400.name:0 "황금 도시"
+ original_people.400.desc:0 "고대 [From.Owner.GetSpeciesAdj] 제국의 수도였던 §Y황금 도시§!는 오랫동안 부서진 바위 덩어리로 전락해 있었지만, 그것의 파편들은 그 시대와 당시의 기술적 진보에 대한 엄청난 통찰력을 제공해 주었고, 우리의 사라진 문화에 대해 많은 것을 말해 줄 수 있었습니다. 우리는 그곳에 팀을 보내서 행성의 잔해들을 조사해야 합니다."
+ original_people.400.a:0 "우리가 무엇을 찾을 수 있는지 볼까."
+
+ original_people.401.name:0 "유토피아 행성"
+ original_people.401.desc:0 "§Y황금 도시§!의 유적을 조사하면서, 우리는 이곳이 한때 황금 잔디의 들판과 노래하는 탑이 고대 [From.Owner.GetSpeciesNamePlural]을(를) 탄생시킨 유토피아 행성이었다는 사실을 알게 되었습니다. 그들의 문명은 약 3만년 전에 우주 비행을 달성하면서 빠르게 발전했습니다. 그들이 마주친 많은 원시 제국들에게 [From.Owner.GetSpeciesNamePlural]은(는) 하늘에서 내려온 신으로 여겨졌고, 원시인들은 떼를 지어 공물을 바쳤습니다. 이 모든 부로 은하계의 경이 중 하나인 웅장한 첨탑이 지어졌지만, 지금은 그런 광경을 볼 수 없습니다."
+ original_people.401.a:0 "얼마나 슬픈 일인가."
+
+ original_people.402.name:0 "최초의 은하 제국"
+ original_people.402.desc:0 "약 2만년 전, 은하 공동체의 지원으로 고대 [From.Owner.GetSpeciesAdj] 제국은 안전한 사회를 이루기 위해 최초의 은하 제국이 되었습니다. 그리하여 원로 제국이 탄생했고, [From.Owner.GetSpeciesNamePlural]은(는) 원로 종족으로 알려지게 되었습니다. 암흑 물질 융합을 이룬 유일한 종으로서, 위기가 닥칠 때마다 항상 [From.Owner.GetSpeciesNamePlural]이(가) 은하계를 멸망으로부터 보호했으며, 이후 1만 년 동안 원로 제국은 거의 무적처럼 보였습니다.\n\n원로 제국의 지배가 끝나갈 무렵, [From.Owner.GetSpeciesNamePlural]은(는) 여러 전선에서 싸우고 있었습니다. 예상보다 일찍 타차원 침략자와 성간 우주에서 온 '끔찍한 존재'들이 은하계의 구석구석을 동시에 침략했습니다. 그들의 함대와 보급품들은 과도하게 늘어난 반면, 그들의 가신들은 전쟁 노력에 거의 기여하지 않았습니다. 제국 함대는 대체할 수 있는 여력보다 더 빠르게 함대를 잃기 시작했고, 어떤 이들에게는 이것이 기회가 되었습니다."
+ original_people.402.a:0 "우리가 최초의 은하 제국이었나?"
+
+ original_people.403.name:0 "마지막 전투"
+ original_people.403.desc:0 "대성전의 마지막 전투는 §Y황금 도시§!에서 벌어졌습니다. 복구된 홀로그램 기록에 따르면, '하늘 참호'가 활성화되었으며 500개의 서로 연결된 행성 보호막이 폭격으로부터 §Y황금 도시§!를 보호했고, 최전방 함대에 조난 신호가 전송되었습니다: 돌아와서 도시를 구하라.\n\n하지만 마지막 구호작업이 이루어지기 전에 끔찍한 무기가 §Y황금 도시§!에 발사되어 행성을 반으로 쪼개버리면서 순식간에 수십억 명의 [From.Owner.GetSpeciesNamePlural]들이 죽었습니다. 신호탑이 파괴되면서 골리앗 외에는 더 이상의 증원군이 도착하지 않았지만 연합 함대는 계속 전진했고, 원로 제국의 심장과 영혼은 더 이상 존재하지 않았습니다."
+ original_people.403.a:0 "조난 신호를 재현할 수만 있다면..."
+ original_people.403.b:0 "그건 너무 지나친 모험이다."
+ 
+ ORIGINAL_PEOPLE_DISTRESS_SIGNAL:0 "조난 신호 탑"
+ ORIGINAL_PEOPLE_DISTRESS_SIGNAL_DESC:0 "만약 우리가 익숙한 에너지 시그니처를 사용하여 조난 신호 패턴을 어떻게든 재현할 수 있다면, 우리는 그것을 우주의 빈 공간으로 방송할 수 있을 것입니다. 고대 제국 함대의 함선이 아직 남아있다면 우리의 신호에 응답하여 돌아올 수 있습니다."
+
+ original_people.5000.name:0 "조난 신호 모사"
+ original_people.5000.desc:0 "§Y황금 도시§!의 잔해에서 수집한 다양한 군함과 교차 참조 데이터를 통해, 우리 엔지니어들은 깊고 미지의 공간으로 신호를 보낼 수 있는 신호탑을 건설할 수 있었습니다. 만약 우리 조상들의 함선이 아직 그곳에 있다면, 그들은 우리의 조난신호를 받으면 돌아와 다가올 전투에서 우리를 도울 것입니다."
+ original_people.5000.a:0 "가동하라!"
+ 
+ original_people.5004.name:0 "응답한 선박"
+ original_people.5004.desc:0 "앞서, 한 함선이 우리의 조난 신호에 반응하여 [Root.Capital.GetName]을(를) 선회하며 나타났습니다. 충분한 시간이 주어지면 옛 제국 함대의 잔재가 하나씩 우리에게 돌아올 것이고, 그들이 모이면 원로 제국이 다시 태어날 것입니다."
+ original_people.5004.a:0 "집에 돌아온 걸 환영합니다!"
+ 
+ original_people.6000.name:0 "원로 제국 구조물"
+ original_people.6000.desc:0 "이전의 발굴에서 더 많은 자료를 수집 한 후, 우리 과학자들은 원로 제국이 우리가 지금까지 보아온 것과는 달리 고도로 발전된 자동화 산업을 가지고 있었다고 합리적으로 확신하고 있습니다. 어쩌면 우리는 과거의 기적과 같은 기술을 재현할 수 있는 방법을 찾아야 할지도 모릅니다."
+ original_people.6000.a:0 "우리는 모든 기술을 회복해야만 한다."
+ original_people.6000.b:0 "아니, 너무 많은 노력이 들 것이다."
+ 
+ original_people.6001.name:0 "복구 성공"
+ original_people.6001.desc:0 "우리 과학자들은 몇 개의 고대 원로 제국 건축물의 청사진을 성공적으로 회수했습니다. 그들의 기능과 능력은 현재 우리의 경제에 큰 잠재력을 보여주고 있습니다."
+ original_people.6001.a:0 "좋아!"
+ 
+ 
+ 
+ 
+
+
+
+

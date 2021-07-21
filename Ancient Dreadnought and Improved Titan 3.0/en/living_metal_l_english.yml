@@ -1,0 +1,7 @@
+﻿l_english:
+ 
+ tech_living_metal_repair:0 "자가복구 구조"
+ tech_living_metal_repair_desc:0 "생체 금속의 자연적인 움직임에 변화를 주는 것은 약간 까다로울 수 있지만 이것을 이용하여 자가복구 구조를 만들 수 있다는 가능성은 꽤나 매력적입니다."
+ 
+ AUTO_REPAIR_L:0 "자가복구 구조"
+ AUTO_REPAIR_L_DESC:0 "함선의 구조 설계에 각인된 생체 금속은 함선이 손상되었을 때 선체 구조를 회복하려고 시도할 것입니다."

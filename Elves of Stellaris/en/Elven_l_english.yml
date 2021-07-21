@@ -1,0 +1,495 @@
+﻿l_english:
+
+FLAG_CATEGORY_elven:0 "엘프"
+
+####################################
+# Name Lists
+####################################
+name_list_eos_namelist_elf_ayleid:0 "엘프: 에일리드"
+name_list_eos_namelist_elf_wild:0 "엘프: 와일드"
+name_list_eos_namelist_elf_hidden:0 "엘프: 하이든"
+## QUENYA
+name_list_eos_namelist_elf_eldali:0 "엘프: 엘다리"
+## Pseudo-Gaulish
+name_list_eos_namelist_elf_aenari:0 "엘프: 아에나리"
+name_list_eos_namelist_elf_altmer:0 "엘프: 알트머"
+
+####################################
+# System Initializers-
+####################################
+elven_system_imperial_initializer_NAME:0 "엘프의 고향"
+elven_system_imperial_initializer_DESC:0 "§L엘다르의 고향, 아바리에서 시작합니다.§!\n\n$system_initializer_DESC$"
+elven_system_lhuren_initializer_NAME:0 "얼루노르 성단"
+elven_system_lhuren_initializer_DESC:0 "§L악명높은 드래곤 성단에서 시작합니다.§!\n\n$system_initializer_DESC$"
+elven_system_gaul_initializer_NAME:0 "왜성 쌍성계"
+elven_system_gaul_initializer_DESC:0 "§L갈색 왜성과 F급 주계열성으로 이루어진 쌍성계에서 시작합니다.§!\n\n$system_initializer_DESC$"
+
+####################################
+# Origins 
+####################################
+
+origin_elven_foundations:0 "엘프의 기원"
+origin_elven_foundations_desc:0 "고대 엘다르 제국의 수많은 유산을 물려받았습니다."
+origin_tooltip_elven_foundations_effects:3 "§Y시작 위치§!:\n §Y미리 만들어진 성단§!에서 시작\n\n§Y시작 성계§!:\n §R환경 재해§! 보유\n\n§Y모성§!:\n §Y3§!개의 §E특별한§! 기능\n §Y아바리 링§! :\n   소량의 £housing£ §Y주거§! 제공\n   행성의 £physics£ £society£ £engineering£ §Y연구§! 향상\n   £resource_time£ §Y건물 건설 속도§! 상승\n   £ship_stats_build_cost£ §Y건물 건설 비용§! 감소"
+
+origin_elven_arcadian_symbiosis:0 "아르카디아의 공생"
+origin_elven_arcadian_symbiosis_desc:0 "지각있는 식물과 공존하는 특이한 문명입니다."
+origin_tooltip_elven_arcadian_symbiosis_effects:3 "§Y시작 위치§!:\n §Y미리 만들어진 성단§!에서 시작\n §R거주 가능한 행성§!\n §R선호 행성임을 보장하지 않음!§!\n\n§Y모성§!:\n £planet£ §Y$pc_continental$§!\n §G자연의 아름다움§! 모디파이어 보유\n §Y3§!개의 §E특별한§! 기능\n §Y8§! £pop£ POP이 아래의 특성을 가진 §Y식물형 트렌트§!로 대체\n   §G굴종§!\n   §G괴력§!\n   §G회복력§!\n   §R느린 번식§!\n   §R정착민§!\n §Y트렌트§!는 거주 적합도를 높임\n\n§Y제국§!:"
+
+origin_elven_celestial_throne:0 "천상의 왕좌"
+origin_elven_celestial_throne_desc:0 "평화와 자기 성찰에 대한 철학이 세계를 휩쓴 후, 외부로부터 모두를 지키기 위한 제국을 세우게 되었습니다."
+origin_tooltip_elven_celestial_throne_effects:3 "§Y시작 위치§!:\n §Y미리 만들어진 성단§!에서 시작\n §G거주 가능한 행성§!\n §G시작 성계 내에 있음§!\n\n§Y시작 성계§!:\n §R환경 재해§! 보유\n\n§Y모성§!:\n §Y3§!개의 §E특별한§! 기능\n §Y아바리 보호막§! 보유\n   궤도 폭격으로부터 보호\n   £stability£ §Y안정도§! 증가\n   £crime£ §Y범죄§! 감소\n   §Y이주§! 감소\n\n§Y제국§!:\n§M타오르는 진주§! 유물 보유"
+
+####################################
+# Species Classes
+####################################
+ELVEN:0 "엘프"
+ELVEN_desc:1 "종족 그 자체는 제국에 큰 영향이 없겠지만 엘프 종족은 다른 엘프를 기타 외계 종족보다 덜 외계적으로 생각 할 것입니다."
+ELVEN_plural:0 "엘프"
+ELVEN_insult_01:0 "괴물"
+ELVEN_insult_plural_01:0 "괴물"
+ELVEN_insult_02:0 "뾰족귀 고블린"
+ELVEN_insult_plural_02:0 "뾰족귀 고블린"
+ELVEN_insult_03:0 "살찐 요정"
+ELVEN_insult_plural_03:0 "살찐 요정"
+ELVEN_insult_04:0 "걸어다니는 물주머니"
+ELVEN_insult_plural_04:0 "걸어다니는 물주머니"
+ELVEN_compliment_01:0 "천사"
+ELVEN_compliment_plural_01:0 "천사"
+ELVEN_spawn:0 "maiden"
+ELVEN_spawn_plural:0 "maidens"
+ELVEN_sound_01:0 "growling"
+ELVEN_sound_02:0 "grunting"
+ELVEN_sound_03:0 "yapping"
+ELVEN_sound_04:0 "yowling"
+ELVEN_sound_05:0 "mewling"
+ELVEN_organ:0 "stomach"
+ELVEN_organ_plural:0 "stomachs"
+ELVEN_mouth:0 "mouth"
+ELVEN_ear:0 "ear"
+ELVEN_ear_plural:0 "ears"
+ELVEN_hand:0 "hand"
+ELVEN_hand_plural:0 "hands"
+ELVEN_tooth:0 "tooth"
+ELVEN_tooth_plural:0 "teeth"
+
+RT_DRUID:0 "드루이드"
+
+####################################
+# MEGASTRUCTURES
+####################################
+
+elven_avari_ring_MEGASTRUCTURE_DETAILS:1 "이 인공적인 고리는 기후 조건을 원하는대로 변환시킬 수 있습니다."
+elven_avari_ring_CONSTRUCTION_INFO_DELAYED:2 "§Y아바리 고리§!는 사이오닉 필드를 만들면서 행성에 거주하는 사람들이 요구를 충족시키도록 환경을 변화시킵니다."
+elven_avari_ring:0 "아바리 고리"
+elven_avari_ring_DESC:0 "아바리 고리는 거주민들의 선호에 맞춰서 환경을 변화시키는건 물론, 무엇이든 쉽게 궤도로 운송시켜 줄 수 있습니다."
+
+elven_avari_shield_MEGASTRUCTURE_DETAILS:1 "적의 폭격을 막고 민중들을 진정시키기 위한 방어적 구조물."
+elven_avari_shield_CONSTRUCTION_INFO_DELAYED:2 "§Y아바리 보호막§!은 행성 전체를 감싸면서 적의 폭격으로부터 행성을 보호하는건 물론이고 표면의 대중들의 불만까지 진정 시킬 수 있습니다."
+elven_avari_shield:0 "아바리 보호막"
+elven_avari_shield_DESC:0 "행성 전체를 감싸는 보호막이 적의 행성 폭격을 막고 지표면에 있는 대중들의 불만을 진정시킵니다."
+
+## AINATELE AKA SANCTUARY! ##
+pc_elven_sanctuary:0 "아이네틀"
+pc_elven_sanctuary_adj:0 "만들어진"
+pc_elven_sanctuary_desc:0 "알려진 종족들을 수용할 수 있도록 설계된 거대한 인공 구조물입니다."
+mod_pc_elven_sanctuary_habitability:0 "아이네틀 적합도"
+trait_pc_elven_sanctuary_preference:0 "아이네틀 선호"
+trait_pc_elven_sanctuary_preference_desc:0 "§L기후 선호도는 생성 시, 혹은 유전자 조작을 통해 결정됩니다.§!"
+
+####################################
+# Traits
+####################################
+
+trait_elven_true:0 "엘프"
+trait_elven_true_desc:0 "§L이 문명은 엘다르의 후예로써 놀라울 정도로 긴 수명을 가집니다.§!\n"
+trait_elven_savage:0 "야만적인 엘프"
+trait_elven_savage_desc:0 "§L신비로운 엘다르의 분파 중 잔혹함을 받아드린 분파입니다.§!\n"
+
+####################################
+# OPINION MODIFIERS
+####################################
+
+ elven_triggered_opinion_elf_and_elf:0 "엘다르 친화성"
+ elven_triggered_opinion_elf_and_drow:0 "엘다르 친화성"
+ elven_triggered_opinion_drow_and_elf:0 "엘다르 친화성"
+
+####################################
+# CIVICS
+####################################
+
+civic_elven_arcane_minded:0 "마법적 사회"
+civic_elven_arcane_minded_desc:0 "초물리학적 현상을 연구하는건 국가적인 취미입니다. 예측 할 수 없는 마법은 거의 모든 사회에서 토론 대상이 됩니다. 이러한 환경은 연구자들의 상상력을 자극합니다."
+civic_tooltip_arcane_minded_effects:0 "§Y고고학 발굴 속도§!를 약간 높여줍니다.\n"
+#civic_tooltip_arcane_minded_effects:0 "사이오닉 연구 속도: §G+15%§!\n이상현상 실패 확률 §G-10%§!\n연구 속도 §G+5%§!"
+
+civic_elven_craft:0 "우아한 예술성"
+civic_elven_craft_desc:0 "완벽함과 아름다움을 이루기 위한 노력이 주요한 목표인 사회입니다. 건축물부터 우주선까지 모든 것들은 실용성에 못지 않게 아름다워야 하며, 이러한 사회적 목표의 결과로 더 단단한 배와 건축물뿐만이 아니라, 많은 시민들을 행복하게 합니다."
+civic_elven_tooltip_craft_effects:0 "시민 POP 행복도: §G+10%§!\n선체 내구도: §G+5%§!\n요새 방어 보너스: §G+10%§!"
+
+#civic_elven_great_firewall:0 "만리방화벽"
+#civic_elven_great_firewall_desc:0 "반체제 사상이 어떤 사회에서건 위험하다는 사실을 실감한 이후, 우린 이에 대한 최종적인 해결책을 만들기 위해 노력했습니다. 결국 단순한 물리적인 요소 뿐만이 아니라 위험한 사상을 배제할 수 있는 방법을 찾아냈습니다. 이제 파괴적인 사상들은 어디에서 나왔던간에 신속하게 소멸될 것입니다."
+
+civic_elven_celestial_grace:0 "천상의 품위"
+civic_elven_celestial_grace_desc:0 "황제가 천상에 대한 권리를 가지는 것은 신성한 권리에 의한 것이 아니라, 별이 자신들 스스로를 바치게 되는 것이다. 따라서 정당하고 완전한 통치자는 국운과 번영이 자연스레 따라오게 되며, 왕좌에 앉을 자격이 없는 통치자는 분쟁과 분노가 자연스레 따라오게 됩니다."
+civic_tooltip_celestial_grace_effects:0 "다양한 요소에 의해 영향받는 §Y별의 축복§! 변동치를 얻습니다. §Y별의 축복§! 점수에 따라 이득과 손해가 발생합니다.\n최대치의 §Y별의 축복§!에서, §H천명§! 전쟁 명분이 활성화되어 주변 제국에 대해 재한 없는 종속국화 전쟁을 수행할 수 있습니다.\n"
+
+elven_celestial_favor_0:0 "별의 축복: §Y0§!"
+elven_celestial_favor_1p:0 "별의 축복: §G1§!"
+elven_celestial_favor_2p:0 "별의 축복: §G2§!"
+elven_celestial_favor_3p:0 "별의 축복: §G3§!"
+elven_celestial_favor_4p:0 "별의 축복: §G4§!"
+elven_celestial_favor_5p:0 "별의 축복: §G5§!"
+elven_celestial_favor_1n:0 "별의 축복: §R-1§!"
+elven_celestial_favor_2n:0 "별의 축복: §R-2§!"
+elven_celestial_favor_3n:0 "별의 축복: §R-3§!"
+elven_celestial_favor_4n:0 "별의 축복: §R-4§!"
+elven_celestial_favor_5n:0 "별의 축복: §R-5§!"
+
+elven_celestial_favor_factor_ruler_psi:0 "§L사이오닉 지도자§!"
+elven_celestial_favor_factor_ruler_psi_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_ruler_chosen:0 "§L선택받은 지도자§!"
+elven_celestial_favor_factor_ruler_chosen_desc:0 "별의 축복이 §G2 상승합니다§!"
+elven_celestial_favor_factor_ruler_erudite:0 "§L박식한 지도자§!"
+elven_celestial_favor_factor_ruler_erudite_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_ruler_skilled:0 "§L매우 뛰어난 지도자§!"
+elven_celestial_favor_factor_ruler_skilled_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_peace:0 "§L오랜 평화§!"
+elven_celestial_favor_factor_peace_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_safe:0 "§L반대자 없음§!"
+elven_celestial_favor_factor_safe_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_ruler_neg:0 "§L결함있는 지도자§!"
+elven_celestial_favor_factor_ruler_neg_desc:0 "별의 축복이 §R1 하락합니다§!"
+elven_celestial_favor_factor_ruler_alien:0 "§L외계종 지도자§!"
+elven_celestial_favor_factor_ruler_alien_desc:0 "별의 축복이 §R1 하락합니다§!"
+elven_celestial_favor_factor_threatened:0 "§L위협적인 이웃§!"
+elven_celestial_favor_factor_threatened_desc:0 "별의 축복이 §R1 하락합니다§!"
+elven_celestial_favor_factor_threatened_multi:0 "§L위협적인 이웃§!"
+elven_celestial_favor_factor_threatened_multi_desc:0 "별의 축복이 §R2 하락합니다§!"
+elven_celestial_favor_factor_subject:0 "§L종속국화 됨§!"
+elven_celestial_favor_factor_subject_desc:0 "별의 축복이 §R3 하락합니다§!"
+
+elven_celestial_favor_factor_used_pearl:0 "§L타오르는 진주의 축복§!"
+elven_celestial_favor_factor_used_pearl_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_ruler_ding:0 "§L계몽된 지도자§!"
+elven_celestial_favor_factor_ruler_ding_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_new_colony:0 "§L새로운 식민지§!"
+elven_celestial_favor_factor_new_colony_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_mega_built:0 "§L거대건축물 건설§!"
+elven_celestial_favor_factor_mega_built_desc:0 "별의 축복이 §G2 상승합니다§!"
+elven_celestial_favor_factor_mega_upgraded:0 "§L거대건축물 건설§!"
+elven_celestial_favor_factor_mega_upgraded_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_won_war:0 "§L영광스러운 승리§!"
+elven_celestial_favor_factor_won_war_desc:0 "별의 축복이 §G1 상승합니다§!"
+elven_celestial_favor_factor_won_def:0 "§L불굴의 방어§!"
+elven_celestial_favor_factor_won_def_desc:0 "별의 축복이 §G2 상승합니다§!"
+elven_celestial_favor_factor_quo_war:0 "§L수치스러운 타협§!"
+elven_celestial_favor_factor_quo_war_desc:0 "별의 축복이 §R1 하락합니다§!"
+elven_celestial_favor_factor_lost_war:0 "§L치욕스러운 항복§!"
+elven_celestial_favor_factor_lost_war_desc:0 "별의 축복이 §R2 하락합니다§!"
+elven_celestial_favor_factor_lost_planet:0 "§L잃어버린 식민지§!"
+elven_celestial_favor_factor_lost_planet_desc:0 "별의 축복이 §R1 하락합니다§!"
+elven_celestial_favor_factor_lost_system:0 "§L잃어버린 성계§!"
+elven_celestial_favor_factor_lost_system_desc:0 "별의 축복이 §R1 하락합니다§!"
+
+# New restriction text not in vanilla
+civic_elven_tooltip_not_materialistic:0 "§Y물질주의§!가 아닐 것"
+
+agenda_elven_isolationism:0 "경제 자립"
+
+####################################
+# Policies 
+####################################
+
+policy_elven_gender_policy:0 "성별 정책"
+policy_elven_gender_policy_desc:0 "이 정책들은 성별에 따라 지도자가 될 수 있는지를 결정합니다.\n\n§R주의: 정책은 현재 지도자나 그 후계자에게 영향을 주지 않습니다!§!\n"
+
+elven_gender_default_name:0 "평등"
+elven_gender_default:0 "평등"
+elven_gender_default_desc:0 "끔찍하게 지루하고 유행에도 맞지 않게, 남자건 여자건 모두 똑같이 지도자가 될 수 있습니다."
+
+elven_gender_matriarchy_full_name:0 "절대적 모권사회"
+elven_gender_matriarchy_full:0 "절대적 모권사회"
+elven_gender_matriarchy_full_desc:0 "이 정책은 남자를 사회적으로 존재하지 않다고 가정하며 외부의 시선 때문에 이를 숨기려고 합니다."
+#"Males are prone to emotionality and clouded judgement. It therefore follows that only females should be leaders at all levels of society."
+
+elven_gender_matriarchy_governor_name: "모계중심"
+elven_gender_matriarchy_governor:0 "모계중심"
+elven_gender_matriarchy_governor_desc:0 "남자는 슈트에 잘 맞습니다만... 가운과는 별로 맞지 않습니다. 따라서 여자가 가운을 입을 수 있는 모든 자리에 임명되어야 합니다."
+#"Females are more suited for ruling and top tier management. All rulers and governors are female."
+
+elven_gender_patriarchy_military_name:0 "기사도"
+elven_gender_patriarchy_military:0 "기사도"
+elven_gender_patriarchy_military_desc:0 "무언가를 해치는 것은 여자가 하는 것 보단 남자가 하는게 더 보기 좋다는 사실은 모두가 알고 있습니다. 군사적 역할은 남자가 담당하는게 맞습니다."
+#"It is the sacred duty of males to defend the weak and defensless. As such, only males are involved in combat oriented positions."
+
+elven_gender_patriarchy_full_name:0 "절대적인 부권사회"
+elven_gender_patriarchy_full:0 "절대적인 부권사회"
+elven_gender_patriarchy_full_desc:0 "왜 여성들이 지루한 일을 수행하게 해야 할까요? 여성들이 할 일이 얼마나 많은데요. 패션을 관리하고...살인 음모를 꾸미고..." 
+
+####################################
+# Diplomacy
+####################################
+
+personality_ayleid_personality:0 "에일리드 제국주의자"
+personality_ayleid_personality_desc:0 "에일리드 제국주의자들은 자신들을 모든 엘프 종족들의 지배자라고 생각합니다. 그들은 매우 확장적이지만 다른 종족에게는 위협을 느끼지 않는 한 별 관심을 보이지 않습니다"
+
+personality_sidh_personality:0 "에델 평화주의자"
+personality_sidh_personality_desc:0 "에델 평화주의자들은 가능한 모든 곳에서 조화를 추구하며, 그를 위해 직접적으로든 이민을 통해서건 다른 문명에 평화를 촉진시키고자 합니다."
+
+personality_gaul_personality:0 "고독한 예술가"
+personality_gaul_personality_desc:0 "고독한 예술가는 자신들의 일을 계속 하는 경향이 있으며, 다른 위협으로부터 고립되는 것을 선호합니다. 그러나 외부 세력이 이들을 위협할 경우 모두가 하나의 목적, 위협을 파괴하기 위해 단결합니다."
+
+gov_elven_druid_circle:0 "드루이드 의회"
+gov_elven_druid_circle_desc:0 "주술사의 과두제이며, 현명한 드루이드 의회가 국가를 지배합니다. 사실 국가와 의회는 별로 다르지 않습니다."
+
+####################################
+# Nations 
+####################################
+
+EMPIRE_DESIGN_elven_civ1:0 "고요한 왕국 세나라타"
+EMPIRE_DESIGN_elven_civ1_desc:0 "외계 역사학자들은 에일리드가 이 세상에 항상 존재해왔다는 것을 마지못해 인정합니다. 이 애일리드라는 종족이 주도를 했건 안했건, 대부분 학자들은 그들이 한 때 지금은 어떻게 부르는지 그리고 얼마나 큰지 모르는 거대한 성간 제국의 일부였다는 것입니다.\n\n이러한 사실과 상관 없이, 그들은 이제 자신의 행성계에서 벗어나서 활동을 하려고 시도합니다. 그들의 조용함과 무관심한 태도는 이들을 과소평가하게 만들지만, 그러나 그들을 폭력적으로 도발할때 결과는 대부분 매우 치명적이였습니다. 
+EMPIRE_DESIGN_elven_civ2:0 "아에나리 연합"
+EMPIRE_DESIGN_elven_civ2_desc:0 "고대 아에나리는 영토와 자원을 얻기 위해 싸우는 각기 다른 부족들이었습니다. '자원' 중 하나는 강하지만 느린 트렌트입니다. 강력하지만 지성체에게 복종적인 트렌트는 과거부터 지금까지 유용한 노동자로 활용되고 있습니다.\n\n중대한 위협이 나타나기 전까지는 아무 문제 없이 살아왔습니다. 위협에 대한 구체적인 기록은 남아있지 않으나, 종족을 멸망 직전까지 몰아넣은 매우 큰 위협이었습니다.\n\n그 이후로 아에나리는 온 세상을 정복하기 위해 천천히 확장해나갔습니다. 본성은 예전과 같으나, 자신들끼리 싸우던 조상들의 사소한 싸움따위는 잊어버렸습니다.\n\n최근의 기술 발전은 아에나리가 저 하늘 너머로 나아갈 수 있게 해 주었습니다. 평소엔 우호적인 이들이지만, 위협에 맞설 때 모두가 하나로 뭉치는 성향은 사라지지 않았습니다.\n"
+EMPIRE_DESIGN_elven_civ3:0 "오를리노르 벨란데"
+EMPIRE_DESIGN_elven_civ3_desc:0 "드래곤 클러스터의 빽빽한 별들 사이에 숨겨진, 오를리노르는 거의 알려지지 않은 행성계입니다. 상호간 교류가 거의 없었던 탓에, 질서와 통일성이 중심이 된 사회 체제를 구축했습니다. 만약 이에 대해 위협을 가하는 존재가 있다면, 그들은 압도적인 폭력으로 대응할 것입니다."
+
+#############
+### STARS ###
+#############
+
+pc_elven_prismatic_star:0 "프리즘 별"
+pc_elven_prismatic_star_desc:0 "이 특이한 별은 분류 내릴 수 없습니다. 이 별은 뛰어나고 천재적인 과학자조차 파악할 수 없는 어떠한 메커니즘에 의해 다른 파장의 빛을 발산합니다. 이러한 방출로 대부분 지적 생명체의 호기심을 자극하는 화려한 색상을 보여줍니다. 대부분 생명체들은 이에 긍정적인 영향를 받기 때문에, 이는 그저 미스터리로 남아 있을 뿐입니다.."
+
+#################
+### BUILDINGS ###
+#################
+
+elven_building_army_primitive:0 "바라드 엘레나스"
+elven_building_army_primitive_desc:0 "고대, 모든 외부의 위협으로부터 세계를 수호하는 신령스러운 질서의 보호자"
+
+##############
+### ARMIES ###
+##############
+
+elven_primitive_army:0 "마테오렌 엘레나스"
+
+########################
+### PLANET MODIFIERS ###
+########################
+
+elven_avari_ring_modifier:0 "아바리 세계"
+elven_avari_ring_modifier_desc:0 "인공적인 궤도상 고리가 있는 이 세계는 거주하는 사람에 따라 환경이 바뀝니다."
+
+elven_avari_shield_modifier:0 "아바리 방어막"
+elven_avari_shield_modifier_desc:0 "이 세계는 적의 공격을 무력화하고 대중들을 진정 시키는 강력한 방어막에 감싸여 있습니다."
+
+elven_mineral_poor:1 "질좋은 광물의 부족"
+elven_mineral_poor_desc:1 "이 행성이 원래부터 이랬는지, 아니면 모르는 종족이 유용한 가치의 광물을 모두 채굴 한 것인지 알 수 없지만, 이 행성의 광물들의 질이 매우 낮은 것은 사실입니다."
+
+elven_natural_beauty:0 "자연의 아름다움"
+elven_natural_beauty_desc:0 "이 행성은 아름답다는 말 말고는 표현할 방법이 없습니다. 행성의 거주자들은 매일매일 새로운 경이로움을 느끼게 될 것입니다."
+
+elven_irradiated_planet:0 "피폭됨"
+elven_irradiated_planet_desc:0 "오래전 어떤 재앙이 이 행성을 휩쓴 후, 곳곳에서 높은 수치의 방사능이 감지됩니다."
+
+elven_storm_world_modifier:0 "초능력 폭풍"
+elven_storm_world_modifier_desc:0 "이 세계의 표면은 무정형의 금속과 이상한 땅과 산 그리고 계곡 및 다른 모든 지형들이 존재하며, 탐사선이 착륙하는 순간에 바다에 가라앉는거 처럼 사라집니다. 반복적인 스캔을 해보면 관찰 되었던 산이 사라지기까지 합니다. 심지어 빛조차도 이상해서 원래 낮이여야 할 곳은 어둡고, 밤이여야 할 것은 낮처럼 밝습니다. 이러한 현상이 자연스러운 현상이건 아니건, 이 세계가 만든건 우리는 도저히 이해 할 수 없을 겁니다."
+
+elven_great_firewall_modifier:0 "만리방화벽"
+elven_great_firewall_modifier_desc:0 "수천년동안의 공학의 정점으로써, 만리방화벽은 반체제인사들과 외계인으로부터 우리를 지켜줄 겁니다."
+
+elven_treant_harmony_5:0 "인공 활력 부여"
+elven_treant_harmony_5_desc:0 "§Y5 트렌트§!마다 행성의 거주적합도를 §G5%§! 상승시킵니다.(역주:최대 50%)"
+elven_treant_harmony_10:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_10_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_15:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_15_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_20:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_20_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_25:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_25_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_30:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_30_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_35:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_35_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_40:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_40_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_45:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_45_desc:0 "$elven_treant_harmony_5_desc$"
+elven_treant_harmony_50:0 "$elven_treant_harmony_5$"
+elven_treant_harmony_50_desc:0 "$elven_treant_harmony_5_desc$"
+
+##############
+### EVENTS ###
+##############
+
+elven_leader_events.33.name:0 "약물 남용"
+elven_leader_events.33.desc:0 "§R[deceased_leader.GetName]§!'의 나쁜 생활 습관은 결국 치명적인 결과를 초래했습니다. 그가 수행해야할 보고를 제대로 못한지 꽤 시간이 흘렀고, 마침내 [deceased_leader.GetSheHe]가 죽은 것을 확인했습니다. 조사에 따르면 불법적인 약물에 대한 과다 복용이 그의 사망을 유발한 것으로 확인됩니다."
+
+elven_decision_arcology_project:0 "$ap_arcology_project$"
+elven_decision_arcology_project_effects:1 "Turns the planet into an §Y$pc_city$§!, increasing £housing£ §Y$PLANET_HOUSING_TITLE$§!, §YResource Production§! and §YPop Growth§! and unlocking special £district£ §YArcology Districts§! at the expense of the planet's natural resources becoming §Rinaccessible§!, preventing all further construction of £district£ §YGenerator§!, §YMining§! and §YAgriculture Districts§!."
+elven_decision_arcology_project_effects_short:2 "Increases £housing£ §Y$PLANET_HOUSING_TITLE$§!, §YResource Production§! and §YPop Growth§!\nEnables £district£ §YArcology Districts§!\nDisables construction of £district£ §YGenerator§!, §YMining§! and §YAgriculture Districts§!"
+elven_decision_arcology_project_requirements:0 "£trigger_no£ §R행성의 모든 지구가 §! §Y$district_city_plural$로 가득 차야 합니다.§!"
+elven_decision_arcology_project_desc:1 "끝없이 늘어선 아콜로지가 행성의 남극에서 북극까지 이어져있습니다. 행성 전역을 하나의 도시로 만들 것입니다."
+
+####################
+### STAR CLASSES ###
+####################
+
+sc_elven_prismatic:1 "프리즘 별"
+sc_elven_prismatic_black_hole:1 "프리즘 블랙홀"
+sc_elven_binary_1:1 "$sc_binary_1$"
+sc_elven_binary_2:1 "$sc_binary_1$"
+sc_elven_binary_3:1 "$sc_binary_1$"
+sc_elven_binary_4:1 "$sc_binary_1$"
+sc_elven_binary_5:1 "$sc_binary_1$"
+sc_elven_binary_6:1 "$sc_binary_1$"
+sc_elven_binary_prismatic_black_hole:1 "$sc_binary_1$"
+sc_elven_trinary_1:1 "$sc_trinary_1$"
+sc_elven_trinary_2:1 "$sc_trinary_1$"
+sc_elven_sexenary_1:1 "6중 성계"
+sc_elven_septenary_1:1 "7중 성계"
+sc_elven_septenary_2:1 "7중 성계"
+sc_elven_super_1:1 "15중 성계"
+sc_elven_gaul:1 "$sc_binary_1$"
+sc_elven_imperial:1 "$sc_pulsar$"
+sc_elven_polydora:1 "Class A Star"
+
+############
+### JOBS ###
+############
+
+job_elven_dragon_researcher:0 "용 연구가"
+job_elven_dragon_researcher_plural:0 "용 연구가"
+job_elven_dragon_researcher_desc:0 "이 세계의 가장 큰 수수께끼는 세계를 이해하는 것 그 자체입니다."
+job_elven_dragon_researcher_effect_desc:0 "£job_dragon_researcher£ $job_dragon_researcher_plural$는 £consumer_goods£ §Y$consumer_goods$§!를 £society£ §Y연구 점수§!로 변환합니다."
+mod_job_elven_dragon_researcher_add:0 "$job_dragon_researcher$ 직업"
+mod_job_elven_dragon_researcher_per_pop:0 "$VALUE$ POP마다 §G+1§! $job_dragon_researcher$"
+mod_job_elven_dragon_researcher_per_pop_short:0 "\n$VALUE$ £pop£마다 §G+1§! £mod_dragon_researcher_add£"
+
+job_elven_dragon_priest:0 "용 사제"
+job_elven_dragon_priest_plural:0 "용 사제"
+job_elven_dragon_priest_desc:0 "민중에 대한 영적인 지도는 가장 경건하고 독실한 사람만이 행할 수 있습니다."
+job_elven_dragon_priest_effect_desc:0 "£job_dragon_priest£ $job_dragon_priest_plural$는 £consumer_goods£ §Y$consumer_goods$§!를 £unity£ §Y$unity$§!과 £society£ §Y$society_research$§!로 변환합니다."
+mod_job_elven_dragon_priest_add:0 "$job_dragon_priest$ 직업"
+mod_job_elven_dragon_priest_per_pop:0 "$VALUE$ POP마다 §G+1§! $job_dragon_priest$"
+mod_job_elven_dragon_priest_per_pop_short:0 "\n$VALUE$ £pop£ §G+1§! £mod_dragon_priest_add£"
+
+job_elven_archaeologist:0 "고고학자"
+job_elven_archaeologist_plural:0 "고고학자"
+job_elven_archaeologist_desc:0 "이 세계의 가장 큰 수수께끼는 세계를 이해하는 것 그 자체입니다."
+job_elven_archaeologist_effect_desc:0 "£job_archaeologist£ $job_archaeologist_plural$는 £consumer_goods£ §Y$consumer_goods$§!를 £society£ £engineering£ §Y연구 점수§!로 변환합니다."
+mod_job_elven_archaeologist_add:0 "$job_archaeologist$ 직업"
+mod_job_elven_archaeologist_per_pop:0 "$VALUE$ POP마다 §G+1§! $job_archaeologist$"
+mod_job_elven_archaeologist_per_pop_short:0 "\n$VALUE$ £pop£ §G+1§! £mod_archaeologist_add£"
+
+#######################
+### PLANET FEATURES ###
+#######################
+
+# AYLEID #
+
+d_elven_planetary_tir_aranad:0 "티르 아라나드"
+d_elven_planetary_tir_aranad_desc:0 "일반적으로 영원의 타워라고 불리는 이 건물은, 첨탑의 크기가 너무 커서 가장 높은 곳으로 가려면 최고 수준의 가압이 필요합니다. 아마 일부 지역들은 선사시대때부터 지어졌으며, 항상 최고권력자들의 거주지로써 활용되었습니다. 타워의 대부분은 돌로 구성 되어 있지만 현대의 무기에도 전혀 끄덕하지 않습니다. 그렇기 때문에 이 건물이 생겨났는지에 대해서 수많은 이론들이 있으며, 최고 지도자가 거주한 건물이면서도 동시에 이 건물을 연구하기 위한 수많은 과학자들의 보금자리이기도 했습니다."
+
+d_elven_planetary_frensca_tol_blocker:0 "£blocker£ 프렌스카 톨"
+d_elven_planetary_frensca_tol_blocker_desc:0 "얼핏 보면 물리학적 상식을 파괴하는 거대한 부유 대륙입니다. 자세히 보면 이 대륙의 부유를 유지하는 고대 장치들의 연결망을 확인할 수 있습니다. 누가 이 대륙을 만들었는지에 대해선 많은 논란이 있습니다. 천년 전에도 이 대륙에 대한 기록은 존재하지만, 대륙을 만든 이들에 대한 기록은 아무것도 남아있지 않습니다. 대륙의 표면은 황폐한 상태로 남아있으며, 이곳에서 살기 위해선 기반 시설에 대한 투자가 필요할 것입니다."
+
+d_elven_planetary_frensca_tol:0 "프렌스카 톨"
+d_elven_planetary_frensca_tol_desc:0 "얼핏 보면 물리학적 상식을 파괴하는 거대한 부유 대륙입니다. 자세히 보면 이 대륙의 부유를 유지하는 고대 장치들의 연결망을 확인할 수 있습니다. 누가 이 대륙을 만들었는지에 대해선 많은 논란이 있습니다. 천년 전에도 이 대륙에 대한 기록은 존재하지만, 대륙을 만든 이들에 대한 기록은 아무것도 남아있지 않습니다. 곳곳에 마구잡이로 자라난 식물은 정리되었으며, 현대의 기반 시설이 설치되었습니다. 아마 이 대륙에 정착한 것은 수천년만에 처음일 것입니다."
+
+# LHUREN #
+
+d_elven_planetary_sentient_dragons:0 "자각있는 용들"
+d_elven_planetary_sentient_dragons_desc:0 "아마로 파충류로 추측되는 이 불가사의한 기원의 이 종은 분명히 우리 행성에 살고 있습니다. 의사소통은 항상 이 용들에 의해 시작되고 일반적으로 그들의 말을 이해하긴 어렵습니다. 수천년동안의 전쟁과 대부분의 국가들이 바로 그들의 숨은 조언에 의해 형성되었죠. 무엇이 그들이 우리를 관심있어 하는지, 그들의 인구가 얼마인지, 또는 그들이 어디에서 사는건지조차 과학적 탐구 정신으로 무장된 사람들조차 이들에 대한 연구를 피했습니다.  그래서 우리가 오직 알 수 있는 사실은 그들이 존재한다는 것 하나 뿐입니다."
+
+d_elven_planetary_sentient_dragons_blocker:0 "자각있는 용들"
+d_elven_planetary_sentient_dragons_blocker_desc:0 "아마로 파충류로 추측되는 이 불가사의한 기원의 이 종은 분명히 우리 행성에 살고 있습니다. 의사소통은 항상 이 용들에 의해 시작되고 일반적으로 그들의 말을 이해하긴 어렵습니다. 수천년동안의 전쟁과 대부분의 국가들이 바로 그들의 숨은 조언에 의해 형성되었죠. 무엇이 그들이 우리를 관심있어 하는지, 그들의 인구가 얼마인지, 또는 그들이 어디에서 사는건지조차 과학적 탐구 정신으로 무장된 사람들조차 이들에 대한 연구를 피했습니다.  그래서 우리가 오직 알 수 있는 사실은 그들이 존재한다는 것 하나 뿐입니다."
+
+d_elven_planetary_gardens_of_heaven:0 "천상의 정원"
+d_elven_planetary_gardens_of_heaven_desc:0 "의심스러운 증거를 가진 환상적인 전설에서는 어떻게 이 정원이 탄생되었는지 말합니다. 일부는 신학자들이 직접 건설했다고 말하고, 다른 주장으로는 어떤 지도자가 건설을 지시한 이후 계속 확장된 것이라고 주장합니다. 무엇이 기원이던간에 이 정원은 지금은 궤도에서조차 눈으로 쉽게 볼 수 있을 만큼 거대한 면적을 차지하며 중요한 일이 있을때마다 이 정원은 우리가 이루어낸 창조성의 상징이 되었습니다."
+
+d_elven_planetary_gardens_of_heaven_blocker:0 "£blocker£ 천상의 정원"
+d_elven_planetary_gardens_of_heaven_blocker_desc:0 "$d_elven_planetary_gardens_of_heaven_desc$"
+
+d_elven_planetary_forbidden_arcology_blocker:0 "금지된 계획 도시"
+d_elven_planetary_forbidden_arcology_blocker_desc:0 ""
+
+# SIDH #
+
+d_elven_planetary_light_of_altanis:0 "알타니스의 빛"
+d_elven_planetary_light_of_altanis_desc:0 "광대한 비콘에서 보내지는 빛이 광대한 우주 공간으로 나아갑니다. 이러한 계획의 시작은 철학자 알타니스 (그녀가 좋아하는 축제 중에 술에 취해있는 동안) 제안되었으며, 이 비콘은 우주 전역에 평화와 즐거움의 메세지를 보냅니다. 우주가 이에 신경을 쓸지 안쓸지에 대해서는 아직도 논쟁중에 있습니다."
+
+d_elven_planetary_daerlas_mina_blocker:0 "댈르라스 마나"
+d_elven_planetary_daerlas_mina_blocker_desc:0 "고대 시 인들 하나인 미나 여사의 전설에 따르면, 끝없는 축제 분위기에 지친 그녀가 개인적인 목적의 환락을 위해 건설한 도시라고 합니다. 이 전설이 사실인지 아닌지는 별로 중요하지 않습니다. 오늘날 이 도시는 한쪽 끝부터 반대편 끝까지 축제가 멈추지 않기 때문이죠."
+
+d_elven_planetary_daerlas_mina:0 "댈르라스 마나"
+d_elven_planetary_daerlas_mina_desc:0 "고대 시 인들 하나인 미나 여사의 전설에 따르면, 끝없는 축제 분위기에 지친 그녀가 개인적인 목적의 환락을 위해 건설한 도시라고 합니다. 이 전설이 사실인지 아닌지는 별로 중요하지 않습니다. 오늘날 이 도시는 한쪽 끝부터 반대편 끝까지 축제가 멈추지 않기 때문이죠."
+
+d_elven_planetary_aerostat_plantations:0 "비행망 대규모 농업지구"
+d_elven_planetary_aerostat_plantations_desc:0 "역사에 이름을 남긴 위해단 시드족 농부는, 작물은 평화롭고 조용한 것을 좋아한다고 말했습니다. 평화와 고요는 시드가 사는 그 어떤 곳에서도 찾아볼 수 없습니다. 이런 불행한 상황을 타파하기 위해, 대량의 작물을 운송하기 위한 행성계 비행망이 구축되었습니다. 시드는 언제나 집 주변에서 자연의 아름다움과, 신선한 작물을 맛볼 수 있게 되었습니다."
+
+d_elven_healing_spring:0 "다산의 샘"
+d_elven_healing_spring_desc:0 "기록된 역사 이전부터 존재해온 이 작은 샘은 한모금만으로 생명체의 다산을 돕습니다. 온 세계의 커플들이 이곳으로 순례 여행을 하는 것이 관례입니다."
+
+# ARCHEOLOGY RELATED #
+
+d_elven_planetary_elenyas_gate:0 "엘레냐의 관문"
+d_elven_planetary_elenyas_gate_desc:0 "<UNUSED: former Sidh feature, probably needs cleanup>"
+
+#######################
+###     RELICS      ###
+#######################
+
+# LHUREN #
+
+r_elven_flaming_pearl:0 "타오르는 진주"
+r_elven_flaming_pearl_desc:0 "기원을 알 수 없는 이상한 물체이며, 우리가 알고 있는 많은 과학적 법칙을 거스르는 성질을 가진 미확인 물질로 구성되어있습니다.\n\n더욱 놀라운 것은, 이곳에 불을 붙이면 나는 향기가 용종을 끌어들이는 것 처럼 보인다는 것입니다.\n\n전설에 따르면, 진주의 소유자의 가치를 용이 알게 된다면 소원을 들어준다고 합니다. 어쩌면, 사실일지도 모르겠습니다."
+elven_relic_flaming_pearl_active:0 "용들을 불러내고...\n§Y누가 알겠어요?§!"
+elven_relic_events.0101.name:0 "용의 둥지"
+elven_relic_events.0101.desc:0 "제각기 다른 9마리의 용이 불에 응답하여 나타났습니다. 서로 난잡하게 지껄이기만 할 뿐이었으나, 이 기회를 놓치지 않고 §Y[Root.GetRulerTitle] [Root.GetRulerName]§!는 용을 설득하여 가장 큰 미스터리, 그들이 어디에서 왔는지를 물었습니다.\n\n용들은 [Root.Ruler.GetHimHer]에게 이 사실을 알려주게 되어 기쁜 것 처럼 보였습니다. 각기 다른 대답으로 낯설고, 추상적이고, 모순적인 대답이었으나 9마리의 용 모두가 서로의 의견이 진리이며 세세한 내용이 생략되지 않았다는 것에 동의하는 것 처럼 보였습니다.\n\n결국 [Root.GetRulerTitle]는 진실을 밝혀내는 것이 불가능하다는 것을 깨닥았습니다. 그럼에도 몇몇 학자들은 용들은 정직했으나 우리가 스스로 그 답에 도달하기를 바랬다는 이론을 제시했습니다."
+elven_relic_events.0101.a:0 "다른걸 기대해도 될까?"
+elven_relic_events.0102.name:0 "수수께끼같은 수수께끼"
+elven_relic_events.0102.desc:0 "한 용이 나타나 특이한 거래를 제안했습니다. 자신이 한번의 기회에서 답할 수 없었던, 수수께끼에 불과한 '무한값'에 대한 것을요.\n\n그것은 §Y[Root.GetRulerTitle] [Root.GetRulerName]§!이 처음에 예상했던 것 보다 어렵다는 것이 입증되었으며, 마침내 [Root.Ruler.GetSheHe]는 용의 발걸음을 멈추게 할 만큼 재치있는 답을 내놓을 수 있었습니다. 감명받은 용은 거래의 대가로 우리에게 또다른 수수께끼를 내주었습니다.\n\n[Root.GetName]의 온갖 석학들이 달려들어 수수께끼를 풀다가 지쳐 잠들었으나, 이들의 정신은 그 어느때보다도 맑아졌습니다."
+elven_relic_events.0102.a:0 "아...거의 다 풀었는데!"
+elven_relic_events.0103.name:0 "비늘 헤아리기"
+elven_relic_events.0103.desc:0 "허영심으로 가득한 용 하나가 부름에 답하여, [Root.GetSpeciesName]가 자신의 비늘을 칭송한다면 우주의 모든 비밀을 밝혀낼 수 있다고 주장했습니다. 사실, 그 용은 §Y[Root.GetRulerTitle] [Root.GetRulerName]§!에게 [Root.Ruler.GetSheHe]가 자신이 가진 모든 비늘을 셀 수 있다면 위대한 비밀이 [Root.Ruler.GetHimHer]의 백성들에게 그 모습을 밝힐 것이라 약속했습니다.\n\n[Root.GetRulerTitle]는 116개의 비늘이 있음을 알아냈지만, 비늘 하나가 살짝 갈라져 있는 것을 보았습니다. 이를 지적해 용의 분노를 사는 것 보단, 용에게 117개의 비늘이 있노라 거짓으로 답했습니다.\n\n그 답에 용은 기뻐하며 [Root.GetRulerName]의 부지런함을 칭찬하며 떠났습니다.\n\n용이 떠나간 자리에 하나의 비늘이 남아있었으며, 과학자들이 조사를 시작했습니다."
+elven_relic_events.0103.a:0 "과학을 위해서라면..."
+elven_relic_events.0104.name:0 "억겁의 지혜"
+elven_relic_events.0104.desc:0 "지혜로운 늙은 용이 찾아와, §Y[Root.GetRulerTitle] [Root.GetRulerName]§!가 준비한 제물을 받아들고선 그 은혜를 갚겠다 말했습니다. 그러나 용이 전해주는 이야기는 너무나 오래되어, [Root.Ruler.GetSheHe]는 그 이야기의 원류가 이 우주에 존재하는 것일지 확신하지 못했습니다.\n\n[Root.GetRulerTitle]는 많은 의문점이 있었으나, [Root.Ruler.GetSheHe]가 질문을 하려고 하면 다른 용이 나타나 다른 이야기를 시작하고, 또 다른 질문을 하려고 하면 다른 용이 나타나 다른 이야기를 시작하기를 반복했습니다.\n새로운 용들이 계속 오고가며, 마치 [Root.GetRulerName]는 보이지도 않는다는 듯 자신들끼리 이야기를 이어나갔습니다. 처음 이야기를 들을 때를 제외하고는 단 한차례도 끼어들 틈이 없었습니다만, [Root.Ruler.GetSheHe]는 새로운 이야기를 들으며 배우는 것에 만족했습니다.\n\n[Root.GetRulerTitle]의 이 만남에 대한 기억은 [Root.GetName]가 예술가들에게 이 이야기를 아름답게 묘사할 수 있는 영감을 주었습니다."
+elven_relic_events.0104.a:0 "그러나 이 이야기가 정말로 사실일까?"
+elven_relic_events.0105.name:0 "Lesson in Humility"
+elven_relic_events.0105.desc:0 "§Y[Root.GetRulerTitle] [Root.GetRulerName]§! lit the Pearl and awaited the coming of dragons, first for hours, then days, until eventually the flames faltered and fizzled out.\n\nIt seems that despite following the ritual to letter and preparing enticing offerings, [Root.GetRulerName]'s summons were summarily ignored. But maybe that should come as no surprise; the Pearl grants [Root.Ruler.GetHimHer] no power over them, it merely draws their attention. Perhaps none simply had the whim to approach this time.\n\nIf nothing else, the experience gave the [Root.GetRulerTitle] much to ponder and a healthy dose of humility to come to terms with."
+elven_relic_events.0105.a:0 "Unpredictable creatures."
+elven_relic_events.0106.name:0 "Generous Rainfall"
+elven_relic_events.0106.desc:0 "A diminitive and sorry-looking dragon approached the site of the ritual, asking to be fed for he was hungry.\n\n§Y[Root.GetRulerTitle] [Root.GetRulerName]§! was willing to induldge the creature and ordered some food to be prepared. When offered, the dragon asked the chef to explain in detail what it was and how it had been prepared, after which he refused and requested a different dish. The situation repeated no less than eight more times, at which point the dragon finally declared that his curiosity had been sated.\n\nIn exchange, he promised that he would bring life-giving rain to all [Root.GetAdj] worlds so that we might come up with even more plentiful and diverse cuisine."
+elven_relic_events.0106.a:0 "Everyone's a gourmand these days..."
+elven_relic_flaming_pearl_rainfall:0 "Flaming Pearl: Generous Rainfall"
+elven_relic_events.0107.name:0 "Inspired Artifice"
+elven_relic_events.0107.desc:0 "Several dragons were attracted to the Pearl this time, yet all but one of them lingered only for a moment before departing. The last one to arrive stayed a little longer and was persuaded to explain the others' strange behaviour. As it turned out, they had simply found [Root.GetSpeciesNamePlural] boring and their offerings unworthy of attention. They judged us so by beholding our craftsmanship, which had apparently 'lost its novelty' and stagnated.\n\nSuffice to say, artisans across [Root.GetName] took the harsh judgement as a challenge and impetus to innovate."
+elven_relic_events.0107.a:0 "The dragons will eat their words."
+elven_relic_flaming_pearl_artifice:0 "Flaming Pearl: Inspired Artifice"
+elven_relic_events.0108.name:0 "Jade Rush"
+elven_relic_events.0108.desc:0 "A jade-scaled dragon answered the summons but would not speak, and rather than take any of the presented offerings, left us a gift instead and vanished promptly thereafter. The unexpected memento was a small piece of jadeite ore, a rare sight in this day and age given that its natural deposits had been mined out since ancient times, yet hardly valuable thanks to modern synthesis technology.\n\nHowever, further examination of the sample revealed physical properties that the gem should not possess - this 'draconic jade' is an excellent energy conductor, is harder than duranium and clearer than most synthetic lens crystals!\n\nMoreover, mining facilies across [Root.GetName] report that deposits of this baffling mineral have sprung up overnight as far as the eye can see!"
+elven_relic_events.0108.a:0 "Green is back in vogue!"
+elven_relic_flaming_pearl_jade:0 "Flaming Pearl: Jade Rush"
+elven_relic_events.0109.name:0 "Heavenly Authority"
+elven_relic_events.0109.desc:0 "Two dragons were attracted by the Flaming Pearl, both claiming to be its sole rightful owner and demanding it to be returned at once.\nIt did not take long before their attention shifted away from us and onto one another. Neither willing to back down from their claim, they began to fight. Although incredibly fascinating to watch at first, the duel dragged on for days and the collateral damage of it was beginning to take its toll on planetary and orbital infrastructure.\n\nIn an attempt to put a stop to it, §Y[Root.GetRulerTitle] [Root.GetRulerName]§! proposed a truce between the two. Since it was clear that neither could defeat the other in combat, [Root.Ruler.GetSheHe] proposed that [Root.GetName] would serve as impartial safekeepers of the Pearl until such a time that either of them could convince the other of the validity of their claim. Much to the [Root.GetRulerTitle]'s relief and no small amount of surprise, the rival dragons accepted the terms without question and went their separate ways."
+elven_relic_events.0109.a:0 "What... just happened?"
+elven_relic_flaming_pearl_authority:0 "Flaming Pearl: Heavenly Authority"
+elven_relic_events.0110.name:0 "Celestial Guardian"
+elven_relic_events.0110.desc:0 "A young dragon with a taste for adventure approached §Y[Root.GetRulerTitle] [Root.GetRulerName]§! and expressed interest in exploring the stars alongside [Root.GetSpeciesNamePlural]. In exchange, he offered to act as the empire's protector for a limited time. He would accompany our fleets and keep them out of danger as well as safeguard the peace and safety of our planets.\n\nExactly how he means to back that bold claim remains to be seen, but the [Root.GetRulerTitle] saw no reason to refuse him."
+elven_relic_events.0110.a:0 "And he was so adorable!"
+elven_relic_flaming_pearl_guardian:0 "Flaming Pearl: Celestial Guardian"
+
+##########################
+###      War Goals      ##
+##########################
+
+war_goal_wg_elven_imperial_tributary:0 "Secure Border"
+war_goal_wg_elven_imperial_tributary_desc:0 "Peacekeeping efforts are made in order to ensure that our borders are being respected and no threat is festering beyond them. A token Tribute shall suffice as proof of our neighbor's friendly intent.\n\nIn the event of a Status Quo peace, systems we occupy will be released as a new Tributary if they include at least one planet."
+cb_elven_celestial_tribute:0 "Heavenly Authority"
+casus_belli_cb_elven_celestial_tribute:0 "Heavenly Authority"
+elven_celestial_tribute_favor_fail:0 "£trigger_no£ We must have 5 §YCelestial Favor§!"
+elven_celestial_tribute_favor:0 "£trigger_yes£ We must have 5 §YCelestial Favor§!"

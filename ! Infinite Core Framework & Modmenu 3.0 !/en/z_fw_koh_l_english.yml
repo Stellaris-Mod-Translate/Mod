@@ -1,0 +1,224 @@
+﻿l_english:
+#_[relic通用]
+#_[site_阿斯特莱雅]
+#_[z_common]
+#_[sp_舰妈们]
+#_[sp_荧光鼬]
+
+
+###_[relic通用]  #########################################################################################
+#_evts
+ z_fw1_relic_koh.1.name:0 "§GInfinite Stellaris§!: 우주의 불가사의"
+ z_fw_relic_found.desc.first:1 "[Root.GetName]은 혼자가 아닙니다. 어떤 사람들은 이미 우리보다 오래 전에 별빛을 쫓는 여정을 시작했습니다. 한편으로는 흥분되기도 하고 다른 한편으로는 불안하기도 합니다."
+ z_fw_relic_found.desc.regular:1 "[Root.Capital.GetName] 정부는 불가사의한 유적에 대한 보고를 매우 중요하게 생각합니다. \n\n[Root.GetSpeciesAdj] 학자들은 이러한 우주의 불가사의에 대한 탐험이 제국에 매우 중요하다고 믿고 있습니다.\n\하지만, 우리는 가능한 한 빨리 이 우주의 불가사의를 탐구하기 위해 탐험대를 조직해야 합니다. 아마도 별들의 행운이 그곳에서 우리를 기다리고 있을 것입니다."
+ z_fw_relic_found.desc.gestalt:1 "[Root.GetName]은 불가사의한 외계 유적지에 대해 상당히 관심을 가지고 있습니다. 누가 이 폐허를 남겼던지간에 우리 문명을 바꿀만큼 충분히 불가사의한 지식이 숨겨져 있을 것입니다.\n\n우리는 가능한 한 빨리 이 우주의 불가사의를 탐구하기 위해 탐험대를 조직해야 합니다. 아마도 별들의 행운이 그곳에서 우리를 기다리고 있을 것입니다."
+
+
+
+
+###_[site_阿斯特莱雅]    ##############################################
+#_names
+ NAME_z_fw_r_hok_site_planet: "아스트라이아"
+#_evts
+ z_fw_evt_good_karyl: "흉륭해, 하지만 뭔가 냄새가 나는군!"
+ z_fw_evt_terrible_karyl: "지금 큰 문제가 있고, 냄새가 나는군!"
+ z_fw1_relic_koh.101.name: "행성의 인구가 완전히 감염되었습니다"
+ z_fw1_relic_koh.101.desc.1: "시끄러운 소녀 목소리와 함께, 유기체, 지능적인 기계, 석질류, 혹은 다른 지저분한 존재에 관계없이, 행성 전체의 지적 생명체는 두 가닥의 흰 머리카락을 가진 검은 머리의 동물귀 소녀가 되었습니다. 비록 우리는 왜 이 촉수 머리가 제빵 기계와 돌까지도 동화시킬 수 있는지 아직 이해하지 못했지만, 이 행성에 다른 종이 없다는 것에는 의심의 여지가 없습니다. 만약 있다면, 그것은 곧 그것들이 될 것입니다. 하지만 다행히도, $z_fw_r_head_of_karyl$로, 우리는 외계 행성에 있는 것과 달리 고품질 동물귀 소녀들을 만들 수 있습니다."
+ z_fw1_relic_koh.101.desc.2: "시끄러운 소녀 목소리와 함께, 유기체, 지능적인 기계, 석질류, 혹은 다른 지저분한 존재에 관계없이, 행성 전체의 지적 생명체는 두 가닥의 흰 머리카락을 가진 검은 머리의 동물귀 소녀가 되었습니다. 비록 우리는 왜 이 촉수 머리가 제빵 기계와 돌까지도 동화시킬 수 있는지 아직 이해하지 못했지만, 이 행성에 다른 종이 없다는 것에는 의심의 여지가 없습니다. 정말 끔찍합니다, 세상에, 방치한다면 다른 행성도 감염될 수 있습니다!"
+ z_fw1_relic_koh.1011.name: "스컹크 전염병에 대한 최신 뉴스"
+ z_fw1_relic_koh.1011.desc: "시끄러운 소녀의 소음으로 제국 전체가 이 이상한 생물에 의해 점령된 것 같습니다. 우리는 정확히 무슨 일이 일어났는지 이해하지 못했지만 분명히 제국의 시민과 지도자들은 스컹크처럼 보이는 소녀 그룹으로 대체되었습니다. 그럼에도 불구하고 그들은 원래 종의 기억과 사회적 지위를 완벽하게 물려받은 것 같습니다. 조금은 걱정되지만 제국에 큰 영향을 미치지 않는 것 같습니다."
+ z_fw1_relic_koh.1011.desc.1: "스컹크 소녀들의 떠들썩한 목소리와 함께, 제국 전체가 이 이상한 생명체에 의해 점령당한 것처럼 보였습니다. 우리는 무슨 일이 일어났는지 잘 이해하지 못했지만, 제국의 모든 시민들과 지도자들이 이 스컹크처럼 생긴 소녀들에 의해 대체되었다는 것은 분명했습니다. 우리는 미래에 무슨 일이 일어날지 모르지만, 분명히 우리는 현 상황과 아무 상관이 없습니다. 하지만 여전히 희망은 있습니다. 언젠가는 모두를 예전처럼 회복시킬 수 있는 방법을 찾을 수 있을 것입니다."
+ z_fw1_relic_koh.1011.desc.2a: "소녀들의 떠들썩한 목소리와 함께, 제국의 절반 이상의 사람들이 이 이상한 스컹크 소녀들에 의해 대체되었습니다. 우리는 무슨 일이 일어나고 있는지 전혀 이해하지 못했고, 현재 상황과는 아무런 관련이 없었습니다. 비록 페스트가 현재 너무 많은 심각한 영향을 끼치지는 않았지만, 우리는 미래에 무슨 일이 일어날지 모릅니다. 코가사가 우리 제국을 지켜주길!"
+ z_fw1_relic_koh.1011.desc.2b: "스컹크 전염병에 감염된 제국의 사람들의 수가 75% 이하로 떨어졌다는 것은 좋은 소식처럼 들리네요. 비록 제국의 절반 이상의 시민들이 여전히 스컹크 소녀의 지위를 유지하고 있지만, 상황은 나아지고 있는 것처럼 보입니다. 코가사가 우리 제국을 지켜주길!"
+ z_fw1_relic_koh.1011.desc.3a: "소녀들의 떠들썩한 목소리와 함께, 제국의 25% 이상의 사람들이 이 이상한 스컹크 소녀들에 의해 대체되었습니다. 우리는 무슨 일이 일어나고 있는지 전혀 이해하지 못했고, 현재 상황과는 아무런 관련이 없었습니다. 우리는 모든 것이 통제 불능이 되기 전에 무언가를 해야 합니다. 코가사가 우리 제국을 지켜주길 바랍니다!"
+ z_fw1_relic_koh.1011.desc.3b: "스컹크 전염병에 감염된 제국의 사람들의 수가 50% 이하로 떨어졌다는 것은 좋은 소식처럼 들리네요. 비록 많은 사람들이 여전히 스컹크 전염병으로 고통 받고 있지만, 스컹크 전염병은 특정한 통제하에 있습니다. 코가사가 우리 제국을 지켜주길!"
+ z_fw1_relic_koh.1011.desc.4: "스컹크 전염병에 감염된 제국의 사람들의 수가 25% 이하로 떨어졌다는 것은 좋은 소식처럼 들리네요. 스컹크 전염병에 대한 우리의 통제는 놀라운 결과를 얻었고, 전염병은 곧 끝날 것으로 보입니다. 코가사가 우리 제국을 지켜주길 바랍니다!"
+ 
+ z_fw1_relic_koh.102.name: "이 행성은 오염되었습니다!"
+ z_fw1_relic_koh.102.desc: "잠깐, 무슨 일이지, 이게 뭐야? 활기 넘치는... 머리? 거기에 끔찍한 끈적 끈적한 촉수로 덮여 있습니다. 세상에, 그들은 실제로 모든 사람에게 뛰어들어 모든 사람의 머리를 찢어 놓고 교체했습니다. 이 괴물은 대체 뭐야?"
+ 
+ NAME_z_fw_ldr_skunk_kogasa: "§B스컹크 타타라 코가사§!"
+ z_fw1_relic_koh.312.name: "그녀가 돌아오다!"
+ z_fw1_relic_koh.312.desc: "그녀가 왔고, 그녀는 큰 우산을 가지고 왔습니다! $NAME_z_fw_ldr_skunk_kogasa$가 어떻게 자신의 죽음을 피했는지는 아무도 모르지만, 그녀가 예전처럼 상처없이 우리 앞에 서 있다는 것은 의심의 여지가 없습니다. 사람들을 무서워하게 만들지 만, 우리는 그녀가 "당신은 괜찮아요. 괜찮아요."라는 원칙을 고수함으로써 우리와 계속해서 일할 수 있다는 것을 매우 기쁘게 생각합니다." \n\n§BI새로운 여행을 시작할 시간입니다!§!"
+ z_fw1_relic_koh.312.a.desc: "그녀가 왔고, 그녀는 큰 우산을 가지고 왔습니다! $NAME_z_fw_ldr_skunk_kogasa$가 어떻게 자신의 죽음을 피했는지는 아무도 모르지만, 그녀가 지금 상처없이 우리 앞에 서 있다는 것은 의심의 여지가 없습니다. 그러나 그녀의 상태는 그다지 좋지 않은 것 같고 오랫동안 기억을 잃어버린 것 같습니다. 하지만 어쨌든 그녀가 여기 있어도 괜찮습니다. 우리는 그녀가 우리와 계속해서 일할 수 있다는 사실에 여전히 매우 기쁩니다. \n§B아 ... 넌 누구야§!"
+#_site evts
+ z_fw1_relic_koh.20.name: "Weird recording"
+ z_fw1_relic_koh.20.desc: "We recently received an inexplicable recording, which was very confusing, accompanied by the girl ’s chanting laughter and the screaming of others in horror. Because its content is too weird and thrilling, we once thought it was a prank. But obviously, it seems to come from information near our home star, and it might be rewarding to send a research ship to investigate."
+ z_fw1_relic_koh.21.name: "Ancient ruins"
+ z_fw1_relic_koh.21.desc: "Arriving on the surface of Asteria, the team found that there were no signs of life activity. Only the huge pure white building covered with gravel and stains and the gold relief inlaid on it showed the prosperity here.\n\nWhat happened here, and what horrible disasters destroyed this magnificent city-state?\n\nSilent silence gave the expedition members an ominous hunch, but under the leadership of the captain, everyone still gathered the courage to go deep into the ruins."
+ z_fw1_relic_koh.22.name: "Cursed fresco"
+ z_fw1_relic_koh.22.desc: "The investigators went into the ruins with uneasiness, and they found that the civilization seemed to start to decline after some sudden religious worship. The original elaborate building was suddenly randomly filled with some kind of tentacle-like head image with paint, which seems to be the new god they worship.\n\nHowever, such a primitive and rough religious culture does not seem to be an orthodox god. Although everyone is very scared, they continue to move forward under the leadership of scientist §B[Root.GetLeaderName]§!"
+ z_fw1_relic_koh.23.name: "Deep inside"
+ z_fw1_relic_koh.23.desc: "§B[Root.GetLeaderName]§! Leading the investigation team into the inside of the ruins, the crew can only send intermittent messages because of the blocking of the signal. The crew on [Root.GetName] pay close attention to these messages. §B[Root.GetLeaderName]§! It seems to have found some kind of huge machine, which seems to be a seal with something buried in it, and they are trying to scan it.\n\nEverything is running as usual, and suddenly the signal becomes unstable, they seem to be in trouble. In the intermittent audio communication, we can only hear the cry of the crew's fear, scattered gunshots, and ... some kind of girlish hustle and laughter, which is really weird!"
+ z_fw1_relic_koh.24.name: "Ancient machine"
+ z_fw1_relic_koh.24.desc: "When the conflict subsided, the audio message suddenly became strange. The investigation team and §B[Root.GetLeaderName]§! 'S voice disappeared, replaced by a completely strange sweet girl voice, they told the crew on the track that everything was normal, no one sacrificed, except ... everyone changed Became a dark-haired cat-eared girl.\n\nAt first, the crew did not believe everything they heard. They thought that §B[Root.GetLeaderName]§! must have been absorbed and replaced by some indescribable existence. But the answers from the investigation team and §B[Root.GetLeaderName]§! Show that they seem to be themselves, regardless of character or information they know!\n\n§B[Root.GetLeaderName]§! Said the huge machine suddenly turned on, and it was indeed sealed with something in it. It was a cat ear head covered with tentacles, and this split head attacked them. As for the latter things, they also forgot.\n\n§B[Root.GetLeaderName]§! It is recommended that this head be recovered, and be quarantined and imprisoned after boarding the ship, and other matters will be returned to the Imperial Research Center for processing. The crew discussed for a long time and decided to accept her proposal. There is also good news that the investigation team accidentally obtained some boxes full of alloys and bitcoins from near the machine. These resources can be used by the empire."
+ z_fw1_relic_koh.25.name: "Forgotten history"
+ z_fw1_relic_koh.25.desc: "§B[Root.GetLeaderName]§! Carefully read the text engraved on the ancient machine, this is an ancient language already in the database! All the mysteries are also solved:\n\nIn ancient times, Astraia lived a group of carefree girls who built a great civilization and a splendid culture. But one day, one of them, named Kiruyi Momocha, was suddenly persecuted by others because she looked like a skunk. Everyone hated her and gave her a cursed name, Karyl.\n\nKiruyi Momocha is very angry, but she has no friends, everyone squeezes her out. So she prayed to the voice in §Hthe Abyss§! For refuge from the depths of the stars, and §Hthe Abyss§! Answered her and gave her the ability to immortalize and assimilate others.\n\nThis assimilation method is both cruel and gentle, it allows the replica of Bade Hiliuye to tear off other people ’s heads and assimilate their bodies, while retaining their original soul intact. So everyone who laughs at Bahia Siliuye will become her and retain the original memory. Eventually, when everyone was assimilated, they were unwilling to suffer such humiliation, and they all broke off themselves, and Kiruyi Momocha also sealed herself sadly."
+ z_fw1_relic_koh.26.name: "Purification"
+ z_fw1_relic_koh.26.desc: "A few days later, the sealing machine suddenly started again automatically, turning the planet into a heavenly Gaia world.\n\nThe curse of Kiruyi Momocha disappeared from here, and the lucky ones who were fortunate enough to listen to the history of Asteria have been rewarded by this ancient civilization.\n\nSo, are we going to purify this planet into Gaia or leave it as it is? After all, minor relic resources are very rare."
+ z_fw1_relic_koh.26.a: "Purify it"
+ z_fw1_relic_koh.26.b: "Leave as is"
+ z_fw1_relic_koh.27.name: "Strange head"
+ z_fw1_relic_koh.27.desc: "The exploration of the ruins was interrupted, a faulty operation triggered some kind of ancient defense mechanism, and the entire Astraea ruins collapsed.\n\nHowever, we did not get nothing, a strange head was sent to the research ship, we need to study well."
+
+
+#_relic
+ z_fw_r_head_of_karyl:0 "§GInfinte Stellaris§!: Strange head"
+ z_fw_r_head_of_karyl_desc:0 "A strange head, covered with sticky tentacles, once it comes into contact with living things, whether it is a living thing or a machine, it will immediately jump to the opposite body to tear off the opposite head and replace it, and it will split to duplicate themselves from time to time. It seems very dangerous, so we sealed it, but it seems that throwing these replicas on the colony may be a good choice.\n§BHowever, this thing is really stinky.§!"
+ z_fw_r_head_of_karyl_effect:0 "Activited this will unlock the megastructure $z_fw_mega_target_marker_hok$, and only one can be built each time you activited this relic. Then you will specify any colony and sow replica of $z_fw_r_head_of_karyl$ on it. After the release, a wave of infections will be carried out on the target planet, and it will not stop until the entire planet's population has been transformed into the skunk species. Skunk species are a kind of cosmic plague. They will automatically infect other non-skunk species and add new traits and appearances based on their own species. As the number of people infected with skunks increases, the chance of mutation will also increase. High mutation possibility will produce new beneficial or harmful species, and trigger a series of unexpected chain results. §HIf you want to stop spontaneous infection, click the big LOGO to open the framework setting and disable the spontaneous infection. Please note that stopping the infection will only prevent inactive infections from occurring.§!"
+#_archeaology site
+ z_site_head_of_karyl:0 "Ruins of Astraia"
+ z_site_hok_intro:0 "A piece of ruined ancient city ruins, the only recognizable stone inscriptions that once used to be called Asteria, the huge towering buildings are engraved with pictures of inexplicable objects similar to tentacles. No one knows what terrible things has happened here."
+ 
+#_species
+ z_karyl_1:0 "Headhunter skunk"
+ z_karyl_robot_1:0 "Iron Head skunk"
+ z_karyl_machine_1:0 "Titanium skunk"
+ z_karyl_lithoid_1:0 "Rocky skunk"
+ z_karyl_necroid_1:0 "Corpse skunk"
+ z_karyl_1:0 "Headhunter skunk"
+ z_karyl_machine_1:0 "Iron Head skunk"
+ z_karyl_wsg_1:0 "Warship Skunk"
+ z_karyl_sh_1:0 "Abyssal Skunk"
+ z_karyl_name:0 "skunk"
+ 
+ Z_KARYL:0 "skunk"
+ Z_KARYL_desc:1 "Strange species, with a cute face, but not smelly mammals. But the most critical issue is that they can plunder the bodies of other species."
+ Z_KARYL_adj:0 "skunk's"
+ Z_KARYL_plural:0 "skunks"
+ Z_KARYL_insult_01:0 "mangey skunk"
+ Z_KARYL_insult_plural_01:0 "mangey skunks"
+ Z_KARYL_compliment_01:0 "Noisy skunk"
+ Z_KARYL_compliment_plural_01:0 "Noisy skunks"
+ Z_KARYL_spawn:0 "skunk"
+ Z_KARYL_spawn_plural:0 "skunks"
+ Z_KARYL_sound_01:0 "purring"
+ Z_KARYL_sound_02:0 "NAI!"
+ Z_KARYL_organ:0 "stomach"
+ Z_KARYL_mouth:0 "mouth"
+ Z_KARYL_hand:0 "paw"
+
+ Z_KARYL_ROBOT:0 "Iron Head skunk"
+ Z_KARYL_ROBOT_desc:1 "Strange species, with a cute face, but not smelly robots. But the most critical issue is that they can plunder the bodies of other species."
+ Z_KARYL_ROBOT_adj:0 "Iron Head skunk's"
+ Z_KARYL_ROBOT_plural:0 "Iron Head skunks"
+ Z_KARYL_ROBOT_insult_01:0 "rust skunks"
+ Z_KARYL_ROBOT_insult_plural_01:0 "rust skunks"
+ Z_KARYL_ROBOT_compliment_01:0 "Noisy skunks"
+ Z_KARYL_ROBOT_compliment_plural_01:0 "Noisy skunks"
+ Z_KARYL_ROBOT_spawn:0 "skunks"
+ Z_KARYL_ROBOT_spawn_plural:0 "skunks"
+ Z_KARYL_ROBOT_sound_01:0 "purring"
+ Z_KARYL_ROBOT_sound_02:0 "NAI!"
+ Z_KARYL_ROBOT_organ:0 "stomach"
+ Z_KARYL_ROBOT_mouth:0 "mouth"
+ Z_KARYL_ROBOT_hand:0 "paw"
+ 
+ Z_KARYL_MACHINE:0 "Titanium skunk"
+ Z_KARYL_MACHINE_desc:1 "Strange species, with a cute face, but not smelly machines. But the most critical issue is that they can plunder the bodies of other species."
+ Z_KARYL_MACHINE_adj:0 "Titanium skunk's"
+ Z_KARYL_MACHINE_plural:0 "Titanium skunks"
+ Z_KARYL_MACHINE_insult_01:0 "rust skunk"
+ Z_KARYL_MACHINE_insult_plural_01:0 "rust skunks"
+ Z_KARYL_MACHINE_compliment_01:0 "Noisy skunk"
+ Z_KARYL_MACHINE_compliment_plural_01:0 "Noisy skunks"
+ Z_KARYL_MACHINE_spawn:0 "skunk"
+ Z_KARYL_MACHINE_spawn_plural:0 "skunks"
+ Z_KARYL_MACHINE_sound_01:0 "purring"
+ Z_KARYL_MACHINE_sound_02:0 "NAI!"
+ Z_KARYL_MACHINE_organ:0 "stomach"
+ Z_KARYL_MACHINE_mouth:0 "mouth"
+ Z_KARYL_MACHINE_hand:0 "paw"
+
+ Z_KARYL_LITHOID:0 "Rocky skunk"
+ Z_KARYL_LITHOID_desc:1 "Strange species, with a cute face, but not smelly stone skunks. But the most critical issue is that they can plunder the bodies of other species."
+ Z_KARYL_LITHOID_adj:0 "Rocky skunk's"
+ Z_KARYL_LITHOID_plural:0 "Rocky skunks"
+ Z_KARYL_LITHOID_insult_01:0 "cracked skunks"
+ Z_KARYL_LITHOID_insult_plural_01:0 "cracked skunks"
+ Z_KARYL_LITHOID_compliment_01:0 "Noisy skunks"
+ Z_KARYL_LITHOID_compliment_plural_01:0 "Noisy skunks"
+ Z_KARYL_LITHOID_spawn:0 "skunks"
+ Z_KARYL_LITHOID_spawn_plural:0 "skunks"
+ Z_KARYL_LITHOID_sound_01:0 "purring"
+ Z_KARYL_LITHOID_sound_02:0 "NAI!"
+ Z_KARYL_LITHOID_organ:0 "stomach"
+ Z_KARYL_LITHOID_mouth:0 "mouth"
+ Z_KARYL_LITHOID_hand:0 "paw"
+
+ Z_KARYL_NECROID:0 "Corpse skunk"
+ Z_KARYL_NECROID_desc:1 "Strange species, with a cute face, but not smelly undead skunks. But the most critical issue is that they can plunder the bodies of other species."
+ Z_KARYL_NECROID_adj:0 "Corpse skunk's"
+ Z_KARYL_NECROID_plural:0 "Corpse skunks"
+ Z_KARYL_NECROID_insult_01:0 "Rancid skunk"
+ Z_KARYL_NECROID_insult_plural_01:0 "Rancid skunks"
+ Z_KARYL_NECROID_compliment_01:0 "Noisy skunk"
+ Z_KARYL_NECROID_compliment_plural_01:0 "Noisy skunks"
+ Z_KARYL_NECROID_spawn:0 "skunks"
+ Z_KARYL_NECROID_spawn_plural:0 "skunks"
+ Z_KARYL_NECROID_sound_01:0 "purring"
+ Z_KARYL_NECROID_sound_02:0 "NAI!"
+ Z_KARYL_NECROID_organ:0 "stomach"
+ Z_KARYL_NECROID_mouth:0 "mouth"
+ Z_KARYL_NECROID_hand:0 "paw"
+
+
+
+
+###_[z_common]
+#_特性
+ z_fw_trait_r_hok_kayrl_positive:0 "§G스컹크 최적화§!"
+ z_fw_trait_r_hok_kayrl_positive_desc: "$z_fw_trait_r_hok_kayrl_negative_desc$ However...I think it is OK!"
+ z_fw_trait_r_hok_kayrl_negative:0 "§G오염된 스컹크§!"
+ z_fw_trait_r_hok_kayrl_negative_desc: "This thing doesn't look good, this guy's head is really unnatural! Hey, why is there such a head!"
+#_traits leader
+ z_fw_trait_leader_r_hok:0 "Skunk's knowledge"
+ z_fw_trait_leader_r_hok_desc:0 "Although it's really stinky, but knowledgeable!"
+ z_fw_trait_leader_r_hok_pupil:0 "Strange Heterochromatic Pupil"
+ z_fw_trait_leader_r_hok_pupil_desc:0 "Two eyes have different attributes, and can always see something that shouldn't be seen."
+ z_fw_trait_leader_r_hok_kogasa:0 "Kogasa Skunk"
+ z_fw_trait_leader_r_hok_kogasa_desc:0 "There is no need to worry about death because of the incredible things that have been mixed in the genes, and in addition, this leader accidentally fell in love with drag racing."
+ 
+#_modifiers
+ z_fw_r_hok_stop_growth:0 "$z_fw_temp_function$"
+ z_fw_r_hok_stop_growth_desc:0 "$z_fw_temp_function_desc$"
+
+#_megastructures
+ z_fw_mega_target_marker_hok:0 "Headhunter skunks Executing Beacon"
+ z_fw_mega_target_marker_hok_DESC:0 "They will never know what happened!"
+ z_fw_mega_target_marker_hok_MEGASTRUCTURE_DETAILS:0 "Specify any reachable colony, no matter how far away, no matter who its owner is, accept the curse of the headhunters!"
+
+
+
+
+###_[sp_舰妈们]
+#_特性
+ z_fw_trait_r_hok_sp_wsg:0 "§G군함 스컹크§!"
+ z_fw_trait_r_hok_sp_wsg_desc: "They seem to call this kind of thing a mental model, but WTF, why can this thing be infected? The huge hull surpassed the rules of physics, and even if it was reduced to a human form, it still maintained the hardness and length that a space battleship should have, and was unexpectedly attentive. The most important thing is that §B$sr_alpha$§! and §B$sr_neo$§! are produced according to the number of pops every year. That's wonderful."
+ z_fw_trait_r_hok_sp_wsg_sh:0 "§GAbyssal Warship Skunk§!"
+ z_fw_trait_r_hok_sp_wsg_sh_desc: "They seem to call this kind of thing a mental model, but WTF, why can this thing be infected? Because of being in the environment of the deep sea of dark energy all year round, he accidentally shuts himself down, but he is good at maintaining ships and fighting. The most important thing is that §B$sr_se$§! and §B$sr_neo$§! are produced according to the number of pops every year. That's wonderful."
+ z_fw_trait_r_hok_sp_wss_swg:0 "§GImperial Warship Skunk§!"
+ z_fw_trait_r_hok_sp_wss_swg_desc: "They seem to call this kind of thing a mental model, but WTF, why can this thing be infected? The huge Imperial Star Destroyer can also be reduced to a small mental model! It's really nice to hear, and these guys seem to be very good at productivity and self-maintenance.  The most important thing is that §B$sr_kyber_swgs$§! and §B$sr_tibanna_swgs$§! are produced according to the number of pops every year. That's wonderful."
+#_evt_收集资源
+ z_fw1_relic_koh.1051.name:0 "§BWarship Skunk:§! Additional Resources Recovery"
+ z_fw1_relic_koh.1051.desc:0 "We were able to extract and recover some precious resources from our girls:\n§B$sr_neo$§! [root.z_fw_var_cntr_hok_sr_wsg_neo]\n§B$sr_alpha$§! [root.z_fw_var_cntr_hok_sr_wsg_alpha]\n§B$sr_se$§! [root.z_fw_var_cntr_hok_sr_wsg_sh]"
+ z_fw1_relic_koh.1051.a:0 "That's Great!"
+ z_fw1_relic_koh.1051.b:0 "No more Additional Resources Recovery pop-up any more"
+ z_fw1_relic_koh.1051.b.tooltip:0 "You can re-enable it in framework setting (Toggle the Big LOGO)."
+ z_fw_evt_r_koh_a_sr_popup_disabled:0 "Renable Additional Resources Recovery pop-up Events"
+ z_fw1_relic_koh.1053.name:0 "§BImperial Warship Skunk:§! Additional Resources Recovery"
+ z_fw1_relic_koh.1053.desc:0 "We were able to extract and recover some precious resources from our girls:\n§B$sr_kyber_swgs$§![root.z_fw_var_cntr_hok_sr_kyber_swgs]\n§B$sr_tibanna_swgs$§![root.z_fw_var_cntr_hok_sr_tibanna_swgs]"
+
+
+
+
+###_[sp_荧光鼬]
+#_特性
+ z_fw_trait_r_hok_sp_sofe_pgnt:0 "§YStellarborne Skunks§!"
+ z_fw_trait_r_hok_sp_sofe_pgnt_desc: "Fuck, these guys actually... actually shine, this group of skunks are really omnipotent, almost more omnipotent than dark energy. Extracting genes and memories from the Stellarborne's golden blood makes them stronger and easier to acquire new skills. But in my opinion, the biggest advantage is that no flashlight is needed at night any more. However, the most important thing is that §B$acot_sr_stellarite$§! and §B$acot_sr_light_matter$§! are produced according to the number of pops every year. That's wonderful."
+#_evt_收集资源
+ z_fw1_relic_koh.1052.name:0 "§BFluorescent Skunk:§! Additional Resources Recovery"
+ z_fw1_relic_koh.1052.desc:0 "Because we are gGod like (nonsense), even our excrement is a treasure from the Pantheon. Naturally, we can extract and recycle some precious resources from it:\n§B$acot_sr_stellarite$§! [root.z_fw_var_cntr_hok_sr_sofe_stellarite]\n§B$acot_sr_light_matter$§! [root.z_fw_var_cntr_hok_sr_sofe_light_matter]"
+ z_fw1_relic_koh.1052.a:0 "Ahhhhhhhhh, that's good!"
+
+ 

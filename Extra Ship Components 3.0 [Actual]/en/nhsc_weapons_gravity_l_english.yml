@@ -1,0 +1,86 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+### Gravitational Anomaly Projector  ###
+########################################
+
+NHSC_SINGULARITY_CANNON_1: "이상 중력 발생기"
+NHSC_SINGULARITY_CANNON_1_DESC: "이 무기는 무작위 중력파를 발생시켜 적 함선을 타격합니다."
+SMALL_NHSC_SINGULARITY_CANNON_1: "소형 $NHSC_SINGULARITY_CANNON_1$"
+SMALL_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1: "중형 $NHSC_SINGULARITY_CANNON_1$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_1: "대형 $NHSC_SINGULARITY_CANNON_1$"
+LARGE_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+
+########################################
+###    Spatial Distortion Cannon     ###
+########################################
+
+NHSC_SINGULARITY_CANNON_2: "공간 왜곡 대포"
+NHSC_SINGULARITY_CANNON_2_DESC: "이상 중력 발생기의 개량형."
+SMALL_NHSC_SINGULARITY_CANNON_2: "소형 $NHSC_SINGULARITY_CANNON_2$"
+SMALL_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2: "중형 $NHSC_SINGULARITY_CANNON_2$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_2: "대형 $NHSC_SINGULARITY_CANNON_2$"
+LARGE_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+
+########################################
+###     Microsingularity Cannon      ###
+########################################
+
+NHSC_SINGULARITY_CANNON_3: "국소특이점 대포"
+NHSC_SINGULARITY_CANNON_3_DESC: "이 대포는 초소형 불안정 특이점을 발사해 어떤 함선도 쉽게 소멸시킬 수 있습니다."
+SMALL_NHSC_SINGULARITY_CANNON_3: "소형 $NHSC_SINGULARITY_CANNON_3$"
+SMALL_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3: "중형 $NHSC_SINGULARITY_CANNON_3$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_3: "대형 $NHSC_SINGULARITY_CANNON_3$"
+LARGE_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+
+########################################
+###    Spatial Distortion Warhead    ###
+########################################
+
+NHSC_GRAVITY_TORPS_1: "공간 왜곡 어뢰"
+NHSC_GRAVITY_TORPS_1_DESC: "강력한 중력파를 생성해 원자 수준에서 물질을 분해시키는 어뢰."
+
+########################################
+###     Microsingularity Warhead     ###
+########################################
+
+NHSC_GRAVITY_TORPS_2: "국소특이점 어뢰"
+NHSC_GRAVITY_TORPS_2_DESC: "이 어뢰의 폭발은 초소형 블랙홀을 생성해 함선을 빨아들입니다."
+
+########################################
+###       Super-Graviton Cannon      ###
+########################################
+
+NHSC_GRAVITON_LANCE_1: "중력포"
+NHSC_GRAVITON_LANCE_1_DESC: "발사 궤적을 따라 시공간 연속성을 왜곡해 근처의 모든 것을 찢어버리는 입자 캐논."
+
+########################################
+###   Focused Super-Graviton Cannon  ###
+########################################
+
+NHSC_GRAVITON_LANCE_2: "집중형 중력포"
+NHSC_GRAVITON_LANCE_2_DESC: "중력포의 개선된 버전"
+
+########################################
+###   Titanic Super-Graviton Cannon  ###
+########################################
+
+NHSC_GRAVITON_LANCE_TITANIC: "타이탄 중력포"
+NHSC_GRAVITON_LANCE_TITANIC_DESC: "우리 함대의 가장 거대한 함선을 위한 초대형 중력포."
+NHSC_GRAVITON_LANCE_JUGGERNAUT: "저거너트 $NHSC_GRAVITON_LANCE_1$"
+NHSC_GRAVITON_LANCE_JUGGERNAUT_DESC: "$NHSC_GRAVITON_LANCE_TITANIC_DESC$"
+
+########################################
+###        Singularity Bombers       ###
+########################################
+
+NHSC_GRAVITY_BOMBERS: "특이점 폭격기"
+NHSC_GRAVITY_BOMBERS_DESC: "중력 병기로 무장한 함재기."

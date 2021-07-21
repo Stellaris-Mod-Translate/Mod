@@ -1,0 +1,1647 @@
+﻿l_english:
+###############################################################
+#                 PSIONIC SPECIES EXPANSION                   #
+#                                         By: jasonpepe       #
+###############################################################
+#Consider skip-reading or speedrunning if you cannot accept broken non-native written english, or write the new one that replaces mine, i'm not even a native-writer in my language.
+#What hire a native-writer? you don't complain about the free stuff, okay?
+
+ mod_planet_farmers_energy_upkeep_add: "£job_farmer£ $job_farmer_plural$ 직업 £energy£ $energy$ 유지비" 
+
+ mod_planet_farmers_minerals_produces_add: "£job_farmer£ $job_farmer_plural$이 생산하는 £minerals£ $minerals$"
+ mod_planet_farmers_consumer_goods_produces_add: "£job_farmer£ $job_farmer_plural$이 생산하는 £consumer_goods£ $consumer_goods$"
+
+ mod_planet_miners_energy_upkeep_add: "£job_miner£ $job_miner_plural$ 직업 £energy£ $energy$ 유지비"
+ mod_planet_miners_alloys_produces_add: "£job_miner£ $job_miner_plural$이 생산하는 £alloys£ $alloys$"
+ mod_planet_miners_energy_produces_add: "£job_miner£ $job_miner_plural$이 생산하는 £energy£ $energy$"
+ 
+ mod_planet_technician_energy_upkeep_add: "£job_technician£ $job_technician_plural$ 직업 £energy£ $energy$ 유지비"
+ mod_planet_technician_exotic_gases_produces_add: "£job_technician£ $job_technician_plural$이 생산하는 £exotic_gases£ $exotic_gases$"
+ 
+ mod_planet_metallurgists_energy_upkeep_add: "£job_foundry£ $job_foundry$ 직업 £energy£ $energy$ 유지비"
+ mod_planet_metallurgists_minerals_upkeep_add: "£job_foundry£ $job_foundry$ 직업 £minerals£ $minerals$ 유지비"
+ mod_planet_metallurgists_minerals_produces_add: "£job_foundry£ $job_foundry$이 생산하는 £minerals£ $minerals$"
+ mod_planet_metallurgists_rare_crystals_produces_add: "£job_foundry£ $job_foundry$이 생산하는 £rare_crystals£ $rare_crystals$"
+ 
+ mod_planet_artisans_alloys_produces_add: "£job_artisan£ $job_artisan_plural$이 생산하는 £alloys£ $alloys$"
+ mod_planet_artisans_volatile_motes_produces_add: "£job_artisan£ $job_artisan_plural$이 생산하는 £volatile_motes£ $volatile_motes$"
+ mod_planet_artisans_minerals_upkeep_add: "£job_artisan£ $job_artisan$ 직업 £minerals£ $minerals$ 유지비"
+
+#Message#
+ PSE_READY_TO_CAST_TITLE: "사이오닉 파워 사용 준비"
+ PSE_BOMB_EXPLODED_TITLE: "영혼 불꽃의 발현"
+ PSE_NARROW_ESCAPED_TITLE: "안전한 곳으로의 순간이동"
+ PSE_WORSHIPPED_TITLE: "윤리관 도입"
+ PSE_EXPIRED_TITLE: "파워 사라짐" 
+
+#
+ opinion_pse_brainwash_us: "Manipulated our People"
+ opinion_pse_stirring_us: "Stirring our Empire"
+ opinion_pse_bomb_exploded_our_fleet: "Annihilated our Ships"
+ opinion_pse_bomb_exploded_our_planet: "Devastated our Worlds"
+ opinion_pse_bomb_uprooting_our_planet: "Uprooted our Worlds"
+ 
+ mind_over_matter_tooltip_trigger: "$pse_power_increase_month$: §G+0.25§!\n"
+ transcendence_tooltip_trigger:0 "$pse_power_increase_month$: §G+0.5§!\n"
+ relic_zro_crystal_passive_trigger: "$pse_power_bar_cap_name$: §G+25§!\n"
+ job_telepath_effect_desc_trigger: "§Y4§! £job_telepath£ $job_telepath_plural$ 직업마다 §G+0.25§! §H$pse_power_text_icon$§!를 획득합니다. 최대 4회 중첩됩니다.\n각 £job_telepath£ $job_telepath$직업이 §G+5§! §H$pse_power_bar_cap_name$§!를 제공합니다. 최대 25회 중첩되어 §G+125§!까지 적용됩니다.\n"
+
+ pse_no_ruler: "§Y지도자 없음§!"
+ pse_nihility: "§H허무§!"
+ pse_nihility_desc: "$pse_nihility$\n§L[Ruler.GetName] [Ruler.GetDoesDo]는 어떠한 사이오닉 능력도 갖추지 못했습니다.§!\n\n§E효과 없음§!"
+ pse_potential: "§H가능성§!"
+ pse_potential_desc: "$pse_potential$\n§L[Ruler.GetName] [Ruler.GetHasHave]는 잠재적 사이오닉 능력을 갖추고 있으며, 우리의 힘을 더욱 강하게 만들 수 있을 것입니다.§!\n\n§E제국 효과:§!\n$pse_power_increase_month$: §G+0.25§!\n$pse_power_bar_cap_name$: §G+10§!"
+ pse_psychic: "§H$leader_trait_admiral_psionic$§!"
+ pse_psychic_desc: "$pse_psychic$\n§L4등급 사이오닉 능력자로써, [Ruler.GetName]은 염동력과 텔레파시 능력을 가지고 있습니다.§!\n\n§E제국 효과:§!\n$pse_power_increase_month$: §G+0.5§!\n$pse_power_bar_cap_name$: §G+25§!"
+ pse_chosen: "§H$leader_trait_ruler_chosen$§!"
+ pse_chosen_desc: "$pse_chosen$\n§L[Ruler.GetName]는 $leader_trait_ruler_chosen$입니다. 은하계 역사 전체를 뒤져보아도 극소수의 이들만이 이정도 수준의 사이오닉 능력을 다룰 수 있습니다.§!\n\n§E제국 효과:§!\n$pse_power_increase_month$: §G+2§!\n$pse_power_bar_cap_name$: §G+150§!"
+ 
+ pse_spirit_bomb: "영혼 불꽃"
+ pse_spirit_bomb_plural: "영혼 불꽃"
+ 
+ 
+ 
+ pse_blank: ""
+
+ pse_god: "신의"
+ pse_god2: "여신의"
+
+ pse_narrow_escape_name: "예측된 탈출의 기회"
+ pse_narrow_escape_tooltip: "$pse_leader|Y$은 자신의 죽음을 회피하여 $pse_capital|Y$로 순간이동해왔습니다."
+ mod_country_sr_zro_produces_mult: "월간 $sr_zro$"
+ 
+ MOD_pse_power_prefix: "§E사이오닉 파워: §!"
+ MOD_pse_power_desc: "§G우리는 우리에게 발현된 사이오닉 능력으로부터 이점을 얻습니다.§!"
+ 
+ MOD_pse_power_leader_exp_up_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_leader_exp_up_title$"
+ MOD_pse_power_leader_exp_up_modifier_fake_tooltip: "$pse_power_botton_leader_exp_up_tooltip$\n$pse_power_botton_leader_exp_up_tooltip2$"
+ MOD_pse_power_leader_exp_up_modifier_fake_desc: "$MOD_pse_power_desc$"
+ MOD_pse_power_leader_tech_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_leader_tech_title$"
+ MOD_pse_power_leader_tech_modifier_fake_tooltip: "$pse_power_botton_leader_tech_tooltip$\n$pse_power_botton_leader_tech_tooltip2$\n$pse_power_botton_leader_tech_tooltip3$"
+ MOD_pse_power_leader_tech_modifier_fake_desc: "$MOD_pse_power_desc$"
+ MOD_pse_power_leader_remove_negative_trait_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_leader_remove_negative_trait_title$"
+ MOD_pse_power_leader_remove_negative_trait_modifier_fake_tooltip: "$pse_power_botton_leader_remove_negative_trait_tooltip$\n$pse_power_botton_leader_remove_negative_trait_tooltip2$"
+ MOD_pse_power_leader_remove_negative_trait_modifier_fake_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_planet_unity_modifier:0 "$MOD_pse_power_prefix$$pse_power_botton_planet_unity_title$"
+ MOD_pse_power_planet_unity_modifier_fake_tooltip: "$pse_power_botton_planet_unity_tooltip$\n$pse_power_botton_planet_unity_tooltip2$"
+ MOD_pse_power_planet_unity_modifier_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_planet_crime_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_planet_crime_title$"
+ MOD_pse_power_planet_crime_modifier_fake_tooltip: "$pse_power_botton_planet_crime_tooltip$\n$pse_power_botton_planet_crime_tooltip2$\n$pse_power_botton_planet_crime_tooltip3$"
+ MOD_pse_power_planet_crime_modifier_fake_desc: "$MOD_pse_power_desc$"
+  
+ MOD_pse_power_planet_build_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_planet_build_title$"
+ MOD_pse_power_planet_build_modifier_fake_tooltip: "$pse_power_botton_planet_build_tooltip$\n$pse_power_botton_planet_build_tooltip2$"
+ MOD_pse_power_planet_build_modifier_fake_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_planet_build_modifier_mega: "$MOD_pse_power_planet_build_modifier_fake$"
+ MOD_pse_power_planet_build_modifier_mega_tooltip: "$pse_power_botton_planet_build_tooltip$\n$pse_power_botton_planet_build_tooltip3$"
+ MOD_pse_power_planet_build_modifier_mega_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_planet_ethic_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_planet_ethic_title$"
+ MOD_pse_power_planet_ethic_modifier_fake_tooltip: "$pse_power_botton_planet_ethic_tooltip$\n$pse_power_botton_planet_ethic_tooltip2$\n$pse_power_botton_planet_ethic_tooltip3$"
+ MOD_pse_power_planet_ethic_modifier_fake_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_cleanse_cap_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_cleanse_cap_title$"
+ MOD_pse_power_cleanse_cap_modifier_fake_tooltip: "$pse_power_botton_cleanse_cap_tooltip$\n$pse_power_botton_cleanse_cap_tooltip2$\n$pse_power_botton_cleanse_cap_tooltip3$"
+ MOD_pse_power_cleanse_cap_modifier_fake_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_combat_range_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_combat_range_title$"
+ MOD_pse_power_combat_range_modifier_fake_tooltip: "$pse_power_botton_combat_range_tooltip$\n$pse_power_botton_combat_range_tooltip2$\n$pse_power_botton_combat_range_tooltip3$"
+ MOD_pse_power_combat_range_modifier_fake_desc: "$MOD_pse_power_desc$"
+ MOD_pse_power_combat_ship_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_combat_ship_title$"
+ MOD_pse_power_combat_ship_modifier_fake_tooltip: "$pse_power_botton_combat_ship_tooltip$\n$pse_power_botton_combat_ship_tooltip2$\n$pse_power_botton_combat_ship_tooltip3$"
+ MOD_pse_power_combat_ship_modifier_fake_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_break_unity_modifier_effect: "사상의 부조화"
+ MOD_pse_power_break_unity_modifier_effect_desc: "알 수 없는 무엇인가의 작용이 우리 모두의 정신과 마음에 의심과 불신을 불러일으키고 있습니다."
+ 
+ MOD_pse_power_break_unity_modifier_effect_pop: "$MOD_pse_power_break_unity_modifier_effect$"
+ MOD_pse_power_break_unity_modifier_effect_pop_desc: "$MOD_pse_power_break_unity_modifier_effect_desc$"
+ 
+ 
+ MOD_pse_power_break_unity_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_break_unity_title$"
+ MOD_pse_power_break_unity_modifier_fake_tooltip: "$pse_power_botton_break_unity_tooltip$\n$pse_power_botton_break_unity_tooltip2$\n$pse_power_botton_break_unity_tooltip3$"
+ MOD_pse_power_break_unity_modifier_fake_desc: "$MOD_pse_power_desc$"
+ MOD_pse_power_break_unity_modifier_fake_effect: "$pse_power_botton_break_unity_tooltip2$\n$pse_power_botton_break_unity_tooltip3$"
+ MOD_pse_power_break_unity_modifier_fake_effect_pop: "$pse_power_botton_break_unity_tooltip3$"
+ 
+ 
+ MOD_pse_power_break_stability_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_break_stability_title$"
+ MOD_pse_power_break_stability_modifier_fake_tooltip: "$pse_power_botton_break_stability_tooltip$\n$pse_power_botton_break_stability_tooltip2$\n$pse_power_botton_break_stability_tooltip3$"
+ MOD_pse_power_break_stability_modifier_fake_desc: "$MOD_pse_power_desc$"
+ MOD_pse_power_break_stability_modifier_fake_effect: "$pse_power_botton_break_stability_tooltip2$\n$pse_power_botton_break_stability_tooltip3$"
+
+ MOD_pse_power_break_stability_modifier_effect: "불협화음"
+ MOD_pse_power_break_stability_modifier_effect_desc: "알 수 없는 무엇인가의 작용이 우리 모두의 정신과 마음에 갈등과 증오를 불러일으키고 있습니다."
+
+
+ MOD_pse_power_break_building_modifier_1: "지형 파괴"
+ MOD_pse_power_break_building_modifier_1_desc: "규칙은 알고 있겠지. 물론 나도 알고 있다."
+ MOD_pse_power_break_building_modifier_2: "$MOD_pse_power_break_building_modifier_1$"
+ MOD_pse_power_break_building_modifier_2_desc: "$MOD_pse_power_break_building_modifier_1_desc$"
+ MOD_pse_power_break_building_modifier_3: "$MOD_pse_power_break_building_modifier_1$"
+ MOD_pse_power_break_building_modifier_3_desc: "$MOD_pse_power_break_building_modifier_1_desc$"
+ MOD_pse_power_break_building_modifier_4: "$MOD_pse_power_break_building_modifier_1$"
+ MOD_pse_power_break_building_modifier_4_desc: "$MOD_pse_power_break_building_modifier_1_desc$"
+ MOD_pse_power_break_building_modifier_5: "$MOD_pse_power_break_building_modifier_1$"
+ MOD_pse_power_break_building_modifier_5_desc: "$MOD_pse_power_break_building_modifier_1_desc$"
+ MOD_pse_power_break_building_modifier_max: "$MOD_pse_power_break_building_modifier_1$"
+ MOD_pse_power_break_building_modifier_max_desc: "$MOD_pse_power_break_building_modifier_1_desc$"
+ 
+ MOD_pse_power_galaxy_field_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_galaxy_field_title$"
+ MOD_pse_power_galaxy_field_modifier_fake_tooltip: "$pse_power_botton_galaxy_field_tooltip$\n$pse_power_botton_galaxy_field_tooltip2$\n$pse_power_botton_galaxy_field_tooltip3$"
+ MOD_pse_power_galaxy_field_modifier_fake_desc: "$MOD_pse_power_desc$"
+ MOD_pse_power_galaxy_field_modifier_fake_effect: "$pse_power_botton_galaxy_field_tooltip2$\n$pse_power_botton_galaxy_field_tooltip3$"
+
+
+ MOD_pse_power_chosen_speed_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_chosen_speed_title$"
+ MOD_pse_power_chosen_speed_modifier_fake_tooltip: "$pse_power_botton_chosen_speed_tooltip$\n$pse_power_botton_chosen_speed_tooltip2$\n$pse_power_botton_chosen_speed_tooltip3$"
+ MOD_pse_power_chosen_speed_modifier_fake_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_worship_pop_modifier_ethic: "기억 혼란"
+ MOD_pse_power_worship_pop_modifier_happiness: "비합리적인 흥분"
+ MOD_pse_power_worship_pop_modifier_xenophile: "신을 향한 예배"
+ MOD_pse_power_worship_pop_modifier_xenophobe: "$MOD_pse_power_worship_pop_modifier_xenophile$"
+ MOD_pse_power_worship_pop_modifier_authoritarian: "$MOD_pse_power_worship_pop_modifier_xenophile$"
+ MOD_pse_power_worship_pop_modifier_egalitarian: "$MOD_pse_power_worship_pop_modifier_xenophile$"
+ MOD_pse_power_worship_pop_modifier_militarist: "$MOD_pse_power_worship_pop_modifier_xenophile$"
+ MOD_pse_power_worship_pop_modifier_pacifist: "$MOD_pse_power_worship_pop_modifier_xenophile$"
+ MOD_pse_power_worship_pop_modifier_spiritualist: "$MOD_pse_power_worship_pop_modifier_xenophile$"
+ MOD_pse_power_worship_pop_modifier_materialist: "$MOD_pse_power_worship_pop_modifier_xenophile$"
+ 
+ MOD_pse_power_chosen_backstab_modifier_fake: "$MOD_pse_power_prefix$$pse_power_botton_chosen_backstab_title$"
+ MOD_pse_power_chosen_backstab_modifier_fake_tooltip: "$pse_power_botton_chosen_backstab_tooltip$\n$pse_power_botton_chosen_backstab_tooltip2$\n$pse_power_botton_chosen_backstab_tooltip3$"
+ MOD_pse_power_chosen_backstab_modifier_fake_desc: "$MOD_pse_power_desc$"
+ 
+ MOD_pse_power_covenant_eater_fleet_modifier_effect: "$MOD_pse_power_prefix$$pse_power_botton_covenant_eater_fleet_title$"
+ MOD_pse_power_covenant_eater_fleet_modifier_effect_tooltip: "$pse_power_botton_covenant_eater_fleet_tooltip$\n$pse_power_botton_covenant_eater_fleet_tooltip2$"
+ MOD_pse_power_covenant_eater_fleet_modifier_effect_desc: "§GWitness the rage of the Eater of Worlds.§!"
+ 
+ MOD_pse_power_covenant_eater_army_modifier_effect: "$MOD_pse_power_prefix$$pse_power_botton_covenant_eater_army_title$"
+ MOD_pse_power_covenant_eater_army_modifier_effect_desc: "$MOD_pse_power_covenant_eater_fleet_modifier_effect_desc$"
+ 
+ MOD_pse_power_covenant_desire_income_modifier_effect_1: "$MOD_pse_power_prefix$$pse_power_botton_covenant_desire_income_title$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_1_desc: "§GGood business is where you find a great deal with the Instrument of Desire.§!"
+ MOD_pse_power_covenant_desire_income_modifier_effect_2: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_2_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_3: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_3_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_4: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_4_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_5: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_5_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_6: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_6_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_7: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_7_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_8: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_8_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_9: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_9_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_10: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_10_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_11: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_11_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_12: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_12_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_13: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_13_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_14: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_14_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_15: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_15_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_16: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_16_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_17: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_17_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_18: "$MOD_pse_power_covenant_desire_income_modifier_effect_1$"
+ MOD_pse_power_covenant_desire_income_modifier_effect_18_desc: "$MOD_pse_power_covenant_desire_income_modifier_effect_1_desc$"
+ 
+ MOD_pse_power_covenant_knowledge_code_effect: "$MOD_pse_power_prefix$$pse_power_botton_covenant_knowledge_code_title$"
+ MOD_pse_power_covenant_knowledge_code_effect_desc: "§G공허 속의 속삭임이 우리의 첩보망의 확장에 큰 도움을 주고 있습니다.§!"
+ 
+ MOD_pse_power_covenant_all_bribe_effect: "$MOD_pse_power_prefix$$pse_power_botton_covenant_all_bribe_title$"
+ MOD_pse_power_covenant_all_bribe_effect_tooltip: "§Y모디파이어가 사라지기 전까지 계약의 부정적인 효과가 발생하지 않습니다.§!"
+ MOD_pse_power_covenant_all_bribe_effect_desc: "우리와 계약을 맺은 존재가 우리의 헌신에 만족하고 있습니다."
+ 
+ MOD_pse_power_patron_double_effect: "계약 : 공동의 위협"
+ MOD_pse_power_patron_double_effect_desc: "우리와 계약을 맺은 존재가 장막의 공동의 위협에 맞서는 데 도움이 될 능력을 제공합니다."
+ 
+ MOD_pse_power_patron_double_eater_effect: "$MOD_pse_power_patron_double_effect$"
+ MOD_pse_power_patron_double_eater_effect_desc: "$MOD_pse_power_patron_double_effect_desc$"
+ 
+ MOD_pse_power_patron_double_desire_effect: "$MOD_pse_power_patron_double_effect$"
+ MOD_pse_power_patron_double_desire_effect_desc: "$MOD_pse_power_patron_double_effect_desc$"
+ 
+ MOD_pse_power_patron_double_knowledge_effect: "$MOD_pse_power_patron_double_effect$"
+ MOD_pse_power_patron_double_knowledge_effect_desc: "$MOD_pse_power_patron_double_effect_desc$"
+ 
+ MOD_pse_power_patron_double_composer_effect: "$MOD_pse_power_patron_double_effect$"
+ MOD_pse_power_patron_double_composer_effect_desc: "$MOD_pse_power_patron_double_effect_desc$"
+ 
+ MOD_pse_power_patron_double_eater_effect_tooltip: "$pse_patron_double_eater_text$\n$MOD_pse_power_covenant_all_bribe_effect_tooltip$"
+ MOD_pse_power_patron_double_desire_effect_tooltip: "$pse_patron_double_desire_text$\n$MOD_pse_power_covenant_all_bribe_effect_tooltip$"
+ MOD_pse_power_patron_double_knowledge_effect_tooltip: "$pse_patron_double_knowledge_text$\n$MOD_pse_power_covenant_all_bribe_effect_tooltip$"
+ MOD_pse_power_patron_double_composer_effect_tooltip: "$pse_patron_double_composer_text$\n$MOD_pse_power_covenant_all_bribe_effect_tooltip$"
+ 
+ MOD_pse_power_patron_double_eater_effect_mult1: "계약으로 얻은 힘"
+ MOD_pse_power_patron_double_eater_effect_mult2: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult3: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult4: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult5: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult6: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult7: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult8: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult9: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_eater_effect_mult10: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult1: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult2: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult3: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult4: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult5: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult6: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult7: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult8: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult9: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ MOD_pse_power_patron_double_desire_effect_mult10: "$MOD_pse_power_patron_double_eater_effect_mult1$"
+ 
+ pse_patron_double_eater_text: "재사용 대기중인 $pse_power_text_icon$마다 §H$MOD_SHIP_FIRE_RATE_MULT$§!과 §H$MOD_SHIP_WEAPON_DAMAGE$§!이 §G5%§! 증가합니다. (최대 §G50%§!)."
+ pse_patron_double_desire_text: "재사용 대기중인 $pse_power_text_icon$마다 (최대 10회 중첩) §H$mod_planet_jobs_produces_mult$§!이 §G2.5%§!증가하고 §H$mod_planet_jobs_upkeep_mult$§!가 §G1.5%§! 감소합니다."
+ pse_patron_double_knowledge_text: "$pse_power_text_icon$를 사용할 때 마다, 약간의 §H월간 연구 점수§!를 획득합니다."
+ pse_patron_double_composer_text: "$pse_power_text_icon$를 사용할 때 마다, §H1-2§! 유기체 £pops£ §GPOP§!을 획득합니다."
+ 
+ 
+ 
+###TECH
+ 
+ tech_pse_pop_1: "염동력 응용"
+ tech_pse_pop_1_desc: "염동 능력을 갖춘 이들을 양성하여 생산성을 높일 수 있습니다."
+
+ tech_pse_pop_2: "염동력 증폭"
+ tech_pse_pop_2_desc: "염동력 강화제의 광범위한 사용을 통해 많은 이들이 최소한의 육체적 노동으로 수많은 업무를 처리할 수 있을 것입니다. 이는 반중력 공학에도 큰 도움이 될 것입니다."
+ 
+
+ tech_pse_pop_1_tooltip: "§E모든 §Y$trait_latent_psionic$§!, §Y$trait_psionic$§! POP:§!\n$mod_planet_jobs_upkeep_mult$: §G-5%§!\n$mod_planet_jobs_produces_mult$: §G+5%§!"
+ tech_pse_pop_2_tooltip: "§E모든 §Y$trait_psionic$§! POP:§!\n$mod_planet_jobs_upkeep_mult$: §G-10%§!\n$mod_planet_jobs_produces_mult$: §G+5%§!"
+ 
+ tech_pse_leader_1: "예측형 순간이동"
+ tech_pse_leader_1_desc: "지도자들에게 선행 예지 및 순간이동 기술을 교육하여, 함선을 타고있는 지도자의 생존 가능성을 크게 높입니다."
+ tech_pse_leader_2: "긴급 순간이동 탈출장치"
+ tech_pse_leader_2_desc: "함선에 장착된 최신형 사이오닉 증폭기를 활용하여 지도자가 더욱 안전한 순간이동을 수행할 수 있습니다."
+
+
+ feature_pse_leader_feature: "§H기능 잠금 해제:§! 예측형 순간이동"
+ feature_pse_leader_feature_desc: "§H예측형 순간이동§!\n전투 중, 함선에 탄 지도자는 함선이 파괴되기 전 일정 확률로 탈출합니다."
+
+ tech_pse_leader_1_tooltip: "§E모든 함선에 탄 §Y$leader_trait_admiral_psionic$§! 리더:§!\n$pse_narrow_escape_name$: §G+50%§!"
+ tech_pse_leader_2_tooltip: "$mod_leaders_upkeep_mult$: §G-10%§!\n§E모든 함선에 탄 §Y$leader_trait_admiral_psionic$§! 리더:§!\n$pse_narrow_escape_name$: §G+25%§!"
+
+ tech_pse_zro_1: "$sr_zro$ 응용"
+ tech_pse_zro_1_desc: "사이오닉에 대한 연구 끝에 $sr_zro$를 활용하여 사이오닉 잠재력을 향상시킬 수 있는 방법을 발견했습니다."
+
+ feature_pse_zro_feature: "§H기능 잠금 해제:§! 지로 응용"
+ feature_pse_zro_feature_desc: "§H지로 할인§!\n£sr_zro£ §Y$sr_zro$§!를 §Y$pse_power_text_icon$§! 사이오닉 파워의 비용을 감소시키기 위해 사용할 수 있습니다."
+
+
+ tech_pse_power_1: "사이오닉 조작"
+ tech_pse_power_1_desc: "사이오닉의 힘을 연구합니다. 보이지 않는 손으로 무엇인가를 만들 수 있게 되었습니다."
+ 
+ tech_pse_power_1_tooltip: "$pse_power_increase_month$: §G+0.5§!\n$pse_power_bar_cap_name$: §G+15§!"
+ 
+ tech_pse_power_2: "사이오닉 확장"
+ tech_pse_power_2_desc: "우리의 욕망대로 움직일 수 있는 힘에는 책임이 따라옵니다."
+ 
+ tech_pse_power_2_tooltip: "$pse_power_increase_month$: §G+0.25§!\n$pse_power_bar_cap_name$: §G+30§!"
+ 
+ tech_pse_power_3: "흐릿한 예지"
+ tech_pse_power_3_desc: "꿈이 보여주는 수많은 상황 중, 올바른 상황을 찾아 미래를 그려내는 것은 우리에게 달려있습니다."
+ 
+ tech_pse_power_3_tooltip: "$pse_power_increase_month$: §G+0.5§!\n$pse_power_bar_cap_name$: §G+30§!\n사이오닉 파워 사용시 얻는 오염: §G-20%§!"
+
+ tech_pse_circle_1: "순환의 흐름"
+ tech_pse_circle_1_desc: "세계는 태어나고 번성하고 실패하고 다시 태어나는 것으로 반복됩니다. 순환은 우리의 위대한 여정의 일부입니다."
+ 
+ feature_pse_circle_feature: "§H사이오닉 파워:§! 잠재된 가능성"
+ feature_pse_circle_feature_desc: "§H잠재된 가능성§!\n오염이 없을 때 추가로 §G+3§! $pse_power_increase_month$을 획득합니다.\n우리의 군사 함선이 적 함선/스테이션을 파괴/후퇴 시키면 §G+0.25§! $pse_power_text_icon$를 획득합니다."
+
+ feature_pse_circle_feature_2: "§H오염:§! 자연적인 정화"
+ feature_pse_circle_feature_2_desc: "§H자연적인 정화§!\n월간 오염: §G-0.1§!\n§Y$pse_power_text_icon$§!이 최대치일 때 추가적으로 오염이 감소합니다. $pse_power_increase_month$에 따라 감소량이 변동됩니다."
+
+ 
+
+ tech_pse_bomb_1: "영혼 점화"
+ tech_pse_bomb_1_desc: "영혼 불꽃의 정수와 안정적인 연결을 유지하는 방법을 통해, 생각만으로 불꽃을 피워낼 수 있습니다."
+ 
+ feature_pse_bomb_feature2: "§H기능 잠금 해제:§! $tech_pse_bomb_1$"
+ feature_pse_bomb_feature2_desc: "§H$tech_pse_bomb_1$§!\n함대의 §H해산§!명령으로 모든 곳에 §Y영혼 불꽃§!을 일으킬 수 있습니다. 반드시 적이 파괴할 필요는 없습니다."
+ feature_pse_bomb_feature: "§H영혼 불꽃:§! 면역"
+ feature_pse_bomb_feature_desc: "§H영혼 불꽃§!\n우리가 일으킨 §Y영혼 불꽃§!은 우리에게 피해를 입히지 않습니다."
+
+ edict_pse_psi_ruler_ui: "사이오닉 파워 메뉴"
+ edict_pse_psi_ruler_ui_desc: "사이오닉 능력이 발전해감에 따라, 마침내 우리는 우주에 우리의 의지를 투영할 수 있게 되었습니다. 더 많은 연구와 준비가 있다면, 우리가 어디까지 할 수 있는지 다른 그 누구도 모를 것입니다."
+ edict_pse_psi_ruler_ui_tooltip: "사이오닉 파워 메뉴에서 잠금 해제된 모든 $pse_power_text_icon$을 사용할 수 있습니다."
+
+ edict_pse_zro_edict: "$sr_zro$ 흡입"
+ edict_pse_zro_edict_desc: "사이오닉 종족은 통제 가능한 수준의 $sr_zro$를 흡입하여 능력을 더 쉽게 발현할 수 있습니다. 누군가는 중독될 수도 있겠지만요."
+ edict_pse_zro_edict.tooltip: "§E모든 §Y$trait_psionic$§! 특성을 가진 종족:§!\n  $mod_planet_jobs_produces_mult$: §G+15%§!\n  노예 이상의 권리를 가진 모든 POP이 매달 §R0.05§! £sr_zro£ §Y$sr_zro$§!를 소모."
+ pse_zro_edict_fail_text: "§R£trigger_no£ 이 시행령을 유지하기에 충분한 양의 £sr_zro£ §Y$sr_zro$§!가 없습니다.§!"
+ edict_pse_zro_gas_edict: "지로 증류"
+ edict_pse_zro_gas_edict_desc: "$exotic_gases$와 비슷하게, $sr_zro$도 $building_refinery$에서 증류할 수 있습니다. 약간의...비용이 들긴 합니다."
+ edict_pse_zro_gas_edict.tooltip: "$mod_planet_refiners_produces_mult$: §G+10%§!\n£job_gas_refiner£ $job_gas_refiner_plural$이 §G0.5§! £sr_zro£ §Y$sr_zro$§!를 생산\n£job_gas_refiner£ $job_gas_refiner_plural$의 유지비가 §R5§! £energy£ §Y$energy$§!, §R15§! £minerals£ §Y$minerals$§! 증가"
+ 
+ edict_pse_psi_power: "사이오닉 운용 인도"
+ edict_pse_psi_power_desc: "사이오닉의 미래가 우리 손에 쥐어졌습니다. 우리는 모든 사이오닉 사용자가 우리를 도울 수 있는 힘을 발현할 수 있도록 도울 수 있습니다."
+ edict_pse_psi_power_tooltip: "$pse_power_increase_month$: §G+1§!\nPOP으로 인한 $pse_power_bar_cap_name$: §G+50%§!"
+
+ 
+ #Traits
+ 
+ pse_leader_trait_shroud_age: "$leader_trait_shroud_age$"
+ pse_leader_trait_shroud_age_desc: "$leader_trait_shroud_age_desc$"
+ 
+ ###UI
+ 
+ pse_notify_enable_tooltip: "§H자동 알림§!\n$pse_power_text_icon$가 가득 차면 자동으로 알려줍니다.\n\n§G클릭하여 자동 알림을 활성화 하십시오.§!"
+ pse_notify_disable_tooltip: "§H자동 알림§!\n$pse_power_text_icon$가 가득 차면 자동으로 알려줍니다.\n\n§G현재 활성화 됨§!\n§R클릭하여 자동 알림을 비활성화 하십시오.§!"
+
+ 
+ pse_top_bar_switch_tooltip: "§H작은 창§!\n우리의 모든 $pse_power_text_icon$을 메뉴에 들어가지 않고 확인할 수 있도록 작은 바 형태로 띄웁니다.\n\n§Y바닐라 UI제한으로 바닐라 파일이 수정되었기에, main_bottom.gui를 수정하는 다른 모드에 의해 사용할 수 없게 될 수 있습니다.§!\n\n§G클릭하여 작은 창을 활성화/비활성화할 수 있습니다.§!"
+ 
+ pse_power_text_icon: "£pse_power_text_icon£ 사이오닉 파워"
+     pse_power_text_title: "§H사이오닉 파워§!"
+     pse_power_text_icon_desc: "§E§H사이오닉 파워§!(£pse_power_text_icon£)는 사이오닉 분야에서의 우리의 능력치를 나타내며, 우리의 정신에 따라 깨달음을 얻거나 사라질 수 있습니다.§!"
+     pse_power_increase_month_0000: "§Y0.0§!"
+     pse_power_increase_month_0025: "§G+0.25§!"
+     pse_power_increase_month_0050: "§G+0.5§!"
+     pse_power_increase_month_0075: "§G+0.75§!"
+     pse_power_increase_month_0100: "§G+1.0§!"
+     pse_power_increase_month_0125: "§G+1.25§!"
+     pse_power_increase_month_0150: "§G+1.5§!"
+     pse_power_increase_month_0175: "§G+1.75§!"
+     pse_power_increase_month_0200: "§G+2.0§!"
+     pse_power_increase_month_0225: "§G+2.25§!"
+     pse_power_increase_month_0250: "§G+2.5§!"
+     pse_power_increase_month_0275: "§G+2.75§!"
+     pse_power_increase_month_0300: "§G+3.0§!"
+     pse_power_increase_month_0325: "§G+3.25§!"
+     pse_power_increase_month_0350: "§G+3.5§!"
+     pse_power_increase_month_0375: "§G+3.75§!"
+     pse_power_increase_month_0400: "§G+4.0§!"
+     pse_power_increase_month_0425: "§G+4.25§!"
+     pse_power_increase_month_0450: "§G+4.5§!"
+     pse_power_increase_month_0475: "§G+4.75§!"
+     pse_power_increase_month_0500: "§G+5.0§!"
+     pse_power_increase_month_0525: "§G+5.25§!"
+     pse_power_increase_month_0550: "§G+5.5§!"
+     pse_power_increase_month_0575: "§G+5.75§!"
+     pse_power_increase_month_0600: "§G+6.0§!"
+     pse_power_increase_month_0625: "§G+6.25§!"
+     pse_power_increase_month_0650: "§G+6.5§!"
+     pse_power_increase_month_0675: "§G+6.75§!"
+     pse_power_increase_month_0700: "§G+7.0§!"
+     pse_power_increase_month_0725: "§G+7.25§!"
+     pse_power_increase_month_0750: "§G+7.5§!"
+     pse_power_increase_month_0775: "§G+7.75§!"
+     pse_power_increase_month_0800: "§G+8.0§!"
+     pse_power_increase_month_0825: "§G+8.25§!"
+     pse_power_increase_month_0850: "§G+8.5§!"
+     pse_power_increase_month_0875: "§G+8.75§!"
+     pse_power_increase_month_0900: "§G+9.0§!"
+     pse_power_increase_month_0925: "§G+9.25§!"
+     pse_power_increase_month_0950: "§G+9.5§!"
+     pse_power_increase_month_0975: "§G+9.75§!"
+     pse_power_increase_month_1000: "§G+10.0§!"
+     pse_power_increase_month_1025: "§G+10.25§!"
+     pse_power_increase_month_1050: "§G+10.5§!"
+     pse_power_increase_month_1075: "§G+10.75§!"
+     pse_power_increase_month_1100: "§G+11.0§!"
+     pse_power_increase_month_1125: "§G+11.25§!"
+     pse_power_increase_month_1150: "§G+11.5§!"
+     pse_power_increase_month_1175: "§G+11.75§!"
+     pse_power_increase_month_1200: "§G+12.0§!"
+     pse_power_increase_month: "월간 $pse_power_text_icon$"
+     pse_power_increase_month_name: "§H월간 $pse_power_text_icon$§!"
+     pse_power_increase_month_desc: "§E매달 §G[root.pse_monthly_power]§! §H$pse_power_text_icon$§!가 재생됩니다. 재생량은 아래 모디파이어에 의해 영향받습니다.§!\n------------"
+     pse_power_increase_month_modifier_base: "기본: §Y+0.5§!"
+     pse_power_increase_month_modifier_hive_mind: "군체 의식: §Y+1.0§!"
+     pse_power_increase_month_modifier_ruler1: "[root.GetRulerName]: §G+0.25§!"
+     pse_power_increase_month_modifier_ruler2: "[root.GetRulerName]: §G+0.5§!"
+     pse_power_increase_month_modifier_ruler3: "[root.GetRulerName]: §G+2§!"
+     pse_power_increase_month_modifier_job1: "$job_telepath$ 직업: §G+0.25§!"
+     pse_power_increase_month_modifier_job2: "$job_telepath$ 직업: §G+0.5§!"
+     pse_power_increase_month_modifier_job3: "$job_telepath$ 직업: §G+0.75§!"
+     pse_power_increase_month_modifier_job4: "$job_telepath$ 직업: §G+1§!"
+     pse_power_increase_month_modifier_leader1: "$leader_trait_admiral_psionic$ 지도자: §G+0.25§!"
+     pse_power_increase_month_modifier_leader2: "$leader_trait_admiral_psionic$ 지도자: §G+0.5§!"
+     pse_power_increase_month_modifier_leader3: "$leader_trait_admiral_psionic$ 지도자: §G+0.75§!"
+     pse_power_increase_month_modifier_leader4: "$leader_trait_admiral_psionic$ 지도자: §G+1§!"
+     pse_power_increase_month_modifier_tech1: "기술: §G+0.5§!"
+     pse_power_increase_month_modifier_tech2: "기술: §G+0.75§!"
+     pse_power_increase_month_modifier_tech3: "기술: §G+1.25§!"
+     pse_power_increase_month_modifier_ap1: "$ap_mind_over_matter$: §G+0.25§!"
+     pse_power_increase_month_modifier_ap2: "$ap_transcendence$: §G+0.5§!"
+     pse_power_increase_month_modifier_zero_corruption: "$tech_pse_circle_1$: §G+3§!"
+     pse_power_increase_month_modifier_edict: "$edict_pse_psi_power$: §G+1§!"
+     pse_power_increase_month_modifier_psy_siphon1: "$name_psy_siphon$: §G+0.5§!"
+     pse_power_increase_month_modifier_psy_siphon2: "$name_psy_siphon$: §G+1§!"
+     pse_power_increase_month_modifier_patron: "$name_psy_siphon$: §G+1§!"
+ 
+ 
+ 
+ 
+ 
+ MOD_PSE_TITLE: "사이오닉 현현"
+ MOD_PSE_DESC: "사용할 '§M사이오닉 파워§!'를 선택하십시오."
+
+ 
+ MOD_PSE_INNER_TITLE: "§H내면§!"
+
+ MOD_PSE_INNER_DESC: "§E우리의 제국, 지도자, POP, 행성에 영향을 미칩니다.§!"
+ MOD_PSE_OUTER_TITLE: "§H외면§!"
+
+ MOD_PSE_OUTER_DESC: "§E성계, 우주전, 다른 제국, 은하 전체에 영향을 미칩니다.§!"
+ 
+ pse_power_botton_selected_text: "§G선택됨§!"
+
+ pse_power_botton_selected_tooltip: "\n§H현재 선택§!"
+ pse_power_botton_base_cost_text: "§Y기본 $pse_power_text_icon$ 비용:§! "
+ pse_botton_select_text: "\n§G클릭하여 선택하세요§!"
+ pse_power_botton_cooldown_tooltip: "§P재사용 대기시간:§!"
+ pse_power_botton_used_cap_text: "§P사이오닉 수용력 제한:§! "
+ pse_power_botton_used_cap_tooltip: "재사용 대기시간이 종료되기 전까지 사이오닉 수용력이 제한됩니다."
+ pse_power_botton_cooldown_text: "§P재사용 대기시간§!"
+
+ pse_power_botton_cooldown_tooltip2: "§R£trigger_no£ 다시 사이오닉 파워를 현현시키기 위해선 시간이 필요합니다.§!"
+ 
+ pse_power_botton_cooldown_1080: "$pse_power_botton_cooldown_tooltip$ §P36 개월§!"
+ pse_power_botton_cooldown_1800: "$pse_power_botton_cooldown_tooltip$ §P60 개월§!"
+ pse_power_botton_cooldown_3600: "$pse_power_botton_cooldown_tooltip$ §P120 개월§!"
+ pse_power_botton_cooldown_7200: "$pse_power_botton_cooldown_tooltip$ §P240 개월§!"
+ 
+ pse_power_cooldown_extra_100_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y20§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_200_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y19§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_300_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y18§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_400_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y17§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_500_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y16§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_10_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y15§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_20_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y14§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_30_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y13§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_40_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y12§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_50_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y11§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_1_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y10§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_2_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y9§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_3_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y8§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_4_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y7§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_extra_5_year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y6§!년을 기다려야 합니다.§!"
+     
+     pse_power_cooldown_360_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y5§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_720_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y4§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_1080_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y3§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_1440_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y2§!년을 기다려야 합니다.§!"
+     pse_power_cooldown_1470_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y12§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1500_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y11§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1530_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y10§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1560_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y9§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1590_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y8§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1620_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y7§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1650_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y6§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1680_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y5§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1710_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y4§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1740_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y3§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1770_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y2§!개월을 기다려야 합니다.§!"
+     pse_power_cooldown_1800_5year_desc: "§R£trigger_no£ 이 사이오닉 파워를 다시 사용하기 위해선 §Y1§!개월을 기다려야 합니다.§!"
+ 
+ pse_power_main_button_desc: "§E먼저 사용할 방식을 정하고, 사이오닉 파워 목록 중 하나를 선택하십시오.§!"
+###MAIN### 
+ pse_power_main_botton_click_tooltip: "\n\n§G클릭으로 관련된 사이오닉 파워를 엽니다.§!"
+ pse_power_main_botton_effect_leader_title: "§H지도자§!\n§E지도자의 만족이 제국의 미래를 여는 열쇠가 될 것입니다.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_shroud_title: "§H장막§!\n§E장막을 탐사하여 우주의 비밀을 밝혀낼 수 있을 것입니다.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_planet_title: "§H행성§!\n§E긍정적이고 순응적인 거대한 물체에 훌륭한 국가가 따라옵니다.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_cleanse_title: "§H오염 정화§!\n§E사고를 방지하기 위해서 오염을 정화해야 합니다.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_summon_title: "§H소환§!\n§E강대한 힘과 맞바꾼 힘.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_combat_title: "§H전투§!\n§E전투야말로 사이오닉 능력이 빛을 발하는 곳입니다.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_break_title: "§H파괴§!\n§E우리의 적들은 불행히도 '사고'를 당할 예정입니다.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_galaxy_title: "§H우주§!\n§E우주의 힘은 보이는 만큼 강력합니다.§!$pse_power_main_botton_click_tooltip$"
+ pse_power_main_botton_effect_chosen_title: "\n§G클릭을 통해 [Root.Ruler.GetName]의 지원을 받아 사용할 수 있는 사이오닉 파워 목록을 가져옵니다§!"
+ 
+ pse_power_main_botton_effect_covenant_composer_title: "§Y운명의 작곡가§!"
+ pse_power_main_botton_effect_covenant_composer_desc: "\n§E제국 효과:§!\n$MOD_POP_GROWTH_SPEED$: §G+20%§!\n$MOD_LEADER_AGE$: §G+20§!년$pse_power_main_botton_click_tooltip$"
+ 
+ pse_power_main_botton_effect_covenant_knowledge_title: "§Y공허의 속삭임§!"
+ pse_power_main_botton_effect_covenant_knowledge_desc: "\n§E제국 효과:§!\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+15%§!\n$mod_country_influence_produces_mult$: §G+15%§!\n$MOD_INTEL_DECRYPTION_ADD$: §G+2§!$pse_power_main_botton_click_tooltip$"
+ 
+ pse_power_main_botton_effect_covenant_desire_title: "§Y욕망의 하수인§!"
+ pse_power_main_botton_effect_covenant_desire_desc: "\n§E제국 효과:§!\n$mod_planet_jobs_produces_mult$: §G+10%§!$pse_power_main_botton_click_tooltip$"
+
+ pse_power_main_botton_effect_covenant_eater_title: "§Y세계 포식자§!"
+ pse_power_main_botton_effect_covenant_eater_desc: "\n§E제국 효과:§!\n$MOD_SHIP_FIRE_RATE_MULT$: §G+15%§!\n$MOD_ARMY_MORALE$: §G+30%§!$pse_power_main_botton_click_tooltip$"
+ 
+ pse_power_main_botton_effect_covenant_cycle_title: "§R순환의 끝§!"
+ pse_power_main_botton_effect_covenant_cycle_desc: "\n§E제국 효과:§!\n§R모든 것§!"
+
+ 
+ pse_power_main_botton_idk_tooltip: "§R£trigger_no£ 어떻게 이러한 종류의 사이오닉 파워를 사용하는지 알지 못합니다."
+
+ pse_power_main_botton_access_shroud_first_tooltip: "§R£trigger_no£ 장막과 접촉하기 전엔 장막과 관련된 사이오닉 파워를 사용할 수 없습니다."
+ 
+ pse_power_main_botton_access_shroud_tooltip: "[root.pse_power_main_botton_access_shroud_first_scripted_loc]"
+ 
+###POWER### 
+ pse_power_botton_select_main_first_1: "§E우리가 행사할 수 있는 §Y$pse_power_text_icon$§!의 목록입니다.§!"
+ pse_power_botton_select_main_first_2: "§E먼저 사용할 사이오닉 파워의 종류를 선택해야 합니다.§!"
+ pse_power_botton_select_one_of_them_first_1: "§E위의 §Y$pse_power_text_icon$§!목록 중 원하는 것을 선택하십시오.§!"
+ pse_power_botton_select_one_of_them_first_2: "§E자세한 내용을 보기 위해선 사이오닉 파워 아이콘에 마우스를 가져다 대십시오.§!"
+
+
+ pse_power_botton_cooldown_over: "다음 사이오닉 파워를 다시 사용할 수 있음: "
+
+
+ pse_power_botton_leader_find_title: "§H강제된 각성§!"
+ pse_power_botton_leader_find_desc: "잠재된 사이오닉 특성을 가진 지도자를 사이오닉 에너지를 주입해 강제로 각성시킬 수 있습니다.\n\n$pse_power_botton_leader_find_tooltip$\n$pse_power_botton_leader_find_tooltip2$\n\n$pse_power_botton_leader_find_tooltip_end$\n$pse_power_botton_leader_find_cooldown$"
+
+ pse_power_botton_leader_find_tooltip: "§E§Y$trait_latent_psionic$§! 종족 특성을 가진 무작위 지도자에게 적용되는 효과:§!"
+ pse_power_botton_leader_find_tooltip2: "§Y$leader_trait_admiral_psionic$§! 특성을 획득하고 사이오닉 파워를 얻습니다."
+ pse_power_botton_leader_find_tooltip_end: "$pse_power_botton_base_cost_text$§H50§!"
+ pse_power_botton_leader_find_cooldown: "$pse_power_botton_cooldown_tooltip$ §P없음§!"
+ 
+
+ pse_power_botton_leader_find_cant_fine_one: "§R£trigger_no£ 각성시킬 수 있는 지도자가 없습니다.§!"
+ pse_power_botton_leader_find_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_leader_find_title$"
+ pse_power_botton_leader_find_no_vaild_leader: "§R£trigger_no£ 유효한 §Y$leader_trait_admiral_psionic$§! 지도자가 없습니다.§!"
+
+ pse_power_botton_leader_exp_up_title: "§H집단 기억§!"
+ pse_power_botton_leader_exp_up_desc: "사이오닉 연계망을 구축하여 지도자들이 서로의 실수로부터 배우고 천천히 경험치를 획득합니다.\n\n$pse_power_botton_leader_exp_up_tooltip$\n$pse_power_botton_leader_exp_up_tooltip2$\n\n$pse_power_botton_leader_exp_up_tooltip_end$\n$pse_power_botton_leader_exp_up_cooldown$"
+ pse_power_botton_leader_exp_up_tooltip: "§E§Y$leader_trait_admiral_psionic$§! 특성에게 적용되는 효과:§!"
+ pse_power_botton_leader_exp_up_tooltip2: "§Y60§!개월 동안 매 달마다 경험치를 §Y10§! 획득합니다. 모든 종류의 경험치 획득 증가 효과가 적용됩니다."
+ pse_power_botton_leader_exp_up_tooltip_end: "$pse_power_botton_base_cost_text$§H40§!"
+ pse_power_botton_leader_exp_up_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_leader_exp_up_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_leader_exp_up_title$"
+ 
+ pse_power_botton_leader_tech_title: "§H아이디어 시각화§!"
+ pse_power_botton_leader_tech_desc: "가장 뛰어난 이들의 심리를 조사하여, 그들의 위대한 계획에 대한 계획을 모든 사람에게 전달해 새로운 깨달음을 줍니다.\n\n$pse_power_botton_leader_tech_tooltip$\n$pse_power_botton_leader_tech_tooltip2$\n$pse_power_botton_leader_tech_tooltip3$\n\n$pse_power_botton_leader_tech_tooltip_end$\n$pse_power_botton_leader_tech_cooldown$"
+ pse_power_botton_leader_tech_tooltip: "§E제국 효과:§!"
+ pse_power_botton_leader_tech_tooltip2: "연구 지도자의 특성에 맞춰 §Y연구 선택지§!나 월간 연구 점수를 획득합니다."
+ pse_power_botton_leader_tech_tooltip3: "연구 지도자들이 전문지식을 가지고 있지 않다면 월간 연구 점수를 획득합니다."
+ pse_power_botton_leader_tech_tooltip_end: "$pse_power_botton_base_cost_text$§H75§!"
+ pse_power_botton_leader_tech_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_leader_tech_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_leader_tech_title$"
+ 
+ pse_power_botton_leader_remove_negative_trait_title: "§H색인된 생각§!"
+ pse_power_botton_leader_remove_negative_trait_desc: "우리의 지도자는 반사회적 특성으로 고통받기엔 너무나 소중합니다. 함께라면 우리는 긍정적인 생각을 할 수 있고, 더 나은 방향으로 나아갈 수 있습니다.\n\n$pse_power_botton_leader_remove_negative_trait_tooltip$\n$pse_power_botton_leader_remove_negative_trait_tooltip2$\n\n$pse_power_botton_leader_remove_negative_trait_tooltip_end$\n$pse_power_botton_leader_remove_negative_trait_cooldown$"
+ pse_power_botton_leader_remove_negative_trait_tooltip: "$pse_power_botton_leader_exp_up_tooltip$"
+ pse_power_botton_leader_remove_negative_trait_tooltip2: "§Y5§!년 내로 부정적인 지도자 특성이 제거됩니다."
+ pse_power_botton_leader_remove_negative_trait_tooltip_end: "$pse_power_botton_base_cost_text$§H35§!"
+ pse_power_botton_leader_remove_negative_trait_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_leader_remove_negative_trait_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_leader_remove_negative_trait_title$"
+ 
+ pse_power_botton_shroud_boon_title: "§H장막의 축복§!"
+ pse_power_botton_shroud_boon_desc: "장막의 존재와 우리 사이의 사이오닉 유대감을 더욱 증폭할 수 있습니다.\n\n$pse_power_botton_shroud_boon_tooltip$\n$pse_power_botton_shroud_boon_tooltip2$\n\n$pse_power_botton_shroud_boon_tooltip_end$\n$pse_power_botton_shroud_boon_cooldown$"
+ pse_power_botton_shroud_boon_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_shroud_boon_tooltip2: "§Y5§!년간 무작위 §Y장막의 축복§! 모디파이어를 하나 획득합니다."
+ pse_power_botton_shroud_boon_tooltip_end: "$pse_power_botton_base_cost_text$§H65§!"
+ pse_power_botton_shroud_boon_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_shroud_boon_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_shroud_boon_title$"
+ 
+ pse_power_botton_shroud_is_opened: "§R£trigger_no£ 먼저 장막과 접촉해야 합니다.§!"
+
+ pse_power_botton_shroud_enter_title: "§H장막 재접근§!"
+ pse_power_botton_shroud_enter_desc: "텔레패스 의회는 약간의 추가 보급을 통해 장막에 추가적으로 들어갈 수 있습니다.\n\n$pse_power_botton_shroud_enter_tooltip$\n$pse_power_botton_shroud_enter_tooltip2$\n\n$pse_power_botton_shroud_enter_tooltip_end$\n$pse_power_botton_shroud_enter_cooldown$"
+ pse_power_botton_shroud_enter_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_shroud_enter_tooltip2: "§Y$shroud_cooldown$§!을 줄이고 장막에 다시 들어갈 수 있습니다."
+ pse_power_botton_shroud_enter_tooltip_end: "$pse_power_botton_base_cost_text$§H45§!"
+ pse_power_botton_shroud_enter_cooldown: "$pse_power_botton_cooldown_1800$"
+
+ pse_power_botton_shroud_enter_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_shroud_enter_title$"
+
+ pse_power_botton_shroud_enter_dont_have_cooldown: "§R£trigger_no£ 장막에 접근할 수 있으므로 사용할 필요가 없습니다.§!"
+
+ pse_power_botton_shroud_cause_left_title: "§H저주 해주§!"
+ pse_power_botton_shroud_cause_left_desc: "에너지의 반발이 우리 사회의 발목을 잡을 때, 우리를 잇는 연결고리에서 뿌리뽑아버릴 수 있습니다.\n\n$pse_power_botton_shroud_cause_left_tooltip$\n$pse_power_botton_shroud_cause_left_tooltip2$\n\n$pse_power_botton_shroud_cause_left_tooltip_end$\n$pse_power_botton_shroud_cause_left_cooldown$"
+ pse_power_botton_shroud_cause_left_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_shroud_cause_left_tooltip2: "§Y$shroud_neg_happiness$§! 또는 제국을 뒤흔드는 조작을 중단시킵니다."
+ pse_power_botton_shroud_cause_left_tooltip_end: "$pse_power_botton_base_cost_text$§H50§!"
+ pse_power_botton_shroud_cause_left_cooldown: "$pse_power_botton_cooldown_1080$"
+ 
+ pse_power_botton_shroud_cause_left_dont_have_any_one_of_them: "§R£trigger_no£ 어떤 장막의 저주도 발동되지 않았습니다.§!"
+
+ pse_power_botton_shroud_cause_left_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_shroud_cause_left_title$"
+
+
+ pse_power_botton_planet_unity_title: "§H사이코메트리§!"
+ pse_power_botton_planet_unity_desc: "우리 모두는 언어를 발산하는 독특한 에너지장을 가지고 있습니다. 한번의 접촉으로 서로 대화할 수 있습니다.\n\n$pse_power_botton_planet_unity_tooltip$\n$pse_power_botton_planet_unity_tooltip2$\n\n$pse_power_botton_planet_unity_tooltip_end$\n$pse_power_botton_planet_unity_cooldown$"
+ pse_power_botton_planet_unity_tooltip: "§E§Y$trait_latent_psionic$§!이나 §Y$trait_psionic$§! 특성을 가진 종족에게 적용되는 효과:§!"
+ pse_power_botton_planet_unity_tooltip2: "노예 이상의 모든 POP이 §Y5§!년간 매달 §G0.33§! £unity£ §Y$unity$§!을 생산합니다."
+ pse_power_botton_planet_unity_tooltip3: "평범한 생활수준 이상을 가진 노예 이상의 모든 POP이 §Y5§!년간 매달 §G0.33§! £unity£ §Y$unity$§!을 생산합니다."
+ pse_power_botton_planet_unity_tooltip_end: "$pse_power_botton_base_cost_text$§H85§!"
+ pse_power_botton_planet_unity_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_planet_unity_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_planet_unity_title$"
+ 
+ pse_power_botton_gestalt_consciousness_cannot: "£trigger_no£ §R우리는 §Y$ethic_gestalt_consciousness$§!이므로 몇몇 능력을 사용할 수 없습니다.§!"
+ 
+ pse_power_botton_planet_crime_title: "§H도덕관념§!"
+ pse_power_botton_planet_crime_desc: "부정적인 사고방식은 쉽게 추적할 수 있습니다. 즉, 우리 행성의 그 어떤 불법적인 움직임이라도 찾아낼 수 있다는 것입니다.\n\n$pse_power_botton_planet_crime_tooltip$\n$pse_power_botton_planet_crime_tooltip2$\n$pse_power_botton_planet_crime_tooltip3$\n\n$pse_power_botton_planet_crime_tooltip_end$\n$pse_power_botton_planet_crime_cooldown$"
+ pse_power_botton_planet_crime_tooltip: "§E§Y5§!년간 제국에 적용되는 효과:§!"
+ pse_power_botton_planet_crime_tooltip2: "$MOD_INTEL_ENCRYPTION_ADD$: §G+1§!, $MOD_PLANET_CRIME_ADD$: §G-10%§!"
+ pse_power_botton_planet_crime_tooltip3: "낮은 범죄도의 모든 행성에서 불법 행위를 근절합니다."
+ pse_power_botton_planet_crime_tooltip_end: "$pse_power_botton_base_cost_text$§H70§!"
+ pse_power_botton_planet_crime_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_planet_crime_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_planet_crime_title$"
+ 
+ pse_power_botton_planet_ethic_title: "§H이데올로기 조작§!"
+ pse_power_botton_planet_ethic_desc: "이데올로기는 대중의 신념이 아니라, 이익의 신념을 나타냅니다. 주변 여건에 대한 충분한 개입과 공감 형성을 통해 우리가 원하는 윤리관을 차질없이 형성할 수 있습니다.\n\n$pse_power_botton_planet_ethic_tooltip$\n$pse_power_botton_planet_ethic_tooltip2$\n$pse_power_botton_planet_ethic_tooltip3$\n\n$pse_power_botton_planet_ethic_tooltip_end$\n$pse_power_botton_planet_ethic_cooldown$"
+ pse_power_botton_planet_ethic_tooltip: "$pse_power_botton_planet_crime_tooltip$"
+ pse_power_botton_planet_ethic_tooltip2: "$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$: §G+25%§!"
+ pse_power_botton_planet_ethic_tooltip3: "반대되는 윤리관을 가진 POP이 시간이 지남에 따라 국가의 윤리관으로 변합니다."
+ pse_power_botton_planet_ethic_tooltip_end: "$pse_power_botton_base_cost_text$§H100§!"
+ pse_power_botton_planet_ethic_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_planet_ethic_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_planet_ethic_title$"
+ 
+ pse_power_botton_planet_build_title: "§H즉각적인 건설§!"
+ pse_power_botton_planet_build_desc: "건설 현장은 4개의 평행 우주에 연결될 수 있습니다. 시공간 연속체를 건설 현장 중심으로 이동시켜, 건설이 완료된 세계와 중첩시킨 후 복제합니다.\n\n$pse_power_botton_planet_build_tooltip$\n$pse_power_botton_planet_build_tooltip2$\n$pse_power_botton_planet_build_tooltip3$\n\n$pse_power_botton_planet_build_tooltip_end$\n$pse_power_botton_planet_build_cooldown$"
+ pse_power_botton_planet_build_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_planet_build_tooltip2: "어떤 종류의 £building£ §Y행성 건물§!이라도 §Y20§!개까지 즉시 건설합니다."
+ pse_power_botton_planet_build_tooltip3: "즉각적으로 모든 §Y테라포밍§! 과정과 §Y거대 건축물 건설§!을 몇년 진행시킵니다."
+ pse_power_botton_planet_build_tooltip_end: "$pse_power_botton_base_cost_text$§H250§!"
+ pse_power_botton_planet_build_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_planet_build_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_planet_build_title$"
+ 
+ pse_power_botton_planet_build_effect_over: "$pse_power_botton_planet_build_title$의 효과가 만료되었습니다."
+ 
+ pse_power_botton_cleanse_psi_title: "§H순환 가속§!"
+ pse_power_botton_cleanse_psi_desc: "오염과 정화는 사이오닉 파워의 순환 과정입니다. 우리는 이 순환 과정을 더 빠르고 짧게 만들 수 있습니다.\n\n$pse_power_botton_cleanse_psi_tooltip$\n$pse_power_botton_cleanse_psi_tooltip2$\n\n$pse_power_botton_cleanse_psi_tooltip_end$\n$pse_power_botton_cleanse_psi_cooldown$"
+ pse_power_botton_cleanse_psi_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_cleanse_psi_tooltip2: "오염을 §Y20§!만큼 감소시킵니다."
+ pse_power_botton_cleanse_psi_tooltip_end: "$pse_power_botton_base_cost_text$§H125§!"
+ pse_power_botton_cleanse_psi_cooldown: "$pse_power_botton_cooldown_1080$"
+ 
+ pse_power_botton_cleanse_psi_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_cleanse_psi_title$"
+ 
+ pse_power_botton_cleanse_cap_title: "§H사이오닉 정화§!"
+ pse_power_botton_cleanse_cap_desc: "약간의 $pse_power_bar_cap_name$를 사용하여 오염을 격리합니다.\n\n$pse_power_botton_cleanse_cap_tooltip$\n$pse_power_botton_cleanse_cap_tooltip2$\n$pse_power_botton_cleanse_cap_tooltip3$\n\n$pse_power_botton_cleanse_cap_tooltip_end$\n$pse_power_botton_cleanse_cap_cooldown$"
+ pse_power_botton_cleanse_cap_tooltip: "§E제국 효과:§!"
+ pse_power_botton_cleanse_cap_tooltip2: "§Y5§!년간 오염을 매달 §Y0.5§!만큼 감소시킵니다."
+ pse_power_botton_cleanse_cap_tooltip3: "재사용 대기시간이 만료될 때 까지 $pse_power_bar_cap_name$이 §R-35§!만큼 감소합니다."
+ pse_power_botton_cleanse_cap_tooltip_end: "$pse_power_botton_base_cost_text$§H50§!"
+ pse_power_botton_cleanse_cap_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_cleanse_cap_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_cleanse_cap_title$"
+ 
+ pse_power_botton_cleanse_cannot_use_zro: "§R£trigger_no£ 정화의 힘은 £sr_zro£ §Y$sr_zro$§!로 인한 비용 감소가 적용되지 않습니다.§!"
+ pse_power_botton_cleanse_corruption_is_too_low: "§Y£trigger_no£ 오염 수치가 낮아서 당분간 걱정할 필요가 없습니다.§!"
+ 
+ pse_power_botton_cleanse_zro_title: "§H지로 정화§!"
+ pse_power_botton_cleanse_zro_desc: "많은 양의 지로를 휘발시킨 사이오닉 강화 분말을 사용해 오염 수치를 줄일 수 있습니다. 정확한 과정의 원리는 알 수 없습니다.\n\n$pse_power_botton_cleanse_zro_tooltip$\n$pse_power_botton_cleanse_zro_tooltip2$\n$pse_power_botton_cleanse_zro_tooltip3$\n\n$pse_power_botton_cleanse_zro_tooltip_end$\n$pse_power_botton_cleanse_zro_cooldown$"
+ pse_power_botton_cleanse_zro_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_cleanse_zro_tooltip2: "$sr_zro$를 §Y20§! 사용할 때 마다 오염을 §Y1§!만큼 감소시킵니다."
+ pse_power_botton_cleanse_zro_tooltip3: "오염 수치가 $sr_zro$ 사용량을 결정합니다."
+ pse_power_botton_cleanse_zro_tooltip_end: "$pse_power_botton_base_cost_text$§H15§!"
+ pse_power_botton_cleanse_zro_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_cleanse_zro_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_cleanse_zro_title$"
+ 
+
+
+ pse_power_botton_cleanse_sublimate_title: "§H오염 승화§!"
+ pse_power_botton_cleanse_sublimate_desc: "오염의 일부를 승화시켜, 영혼의 정수로 전환합니다.\n\n$pse_power_botton_cleanse_sublimate_tooltip$\n$pse_power_botton_cleanse_sublimate_tooltip2$\n$pse_power_botton_cleanse_sublimate_tooltip3$\n\n$pse_power_botton_cleanse_sublimate_tooltip_end$\n$pse_power_botton_cleanse_sublimate_cooldown$"
+ pse_power_botton_cleanse_sublimate_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_cleanse_sublimate_tooltip2: "£sr_psionic_sublimate£ §Y$sr_psionic_sublimate$§!을 §G10%§! 증가시킵니다."
+ pse_power_botton_cleanse_sublimate_tooltip3: "오염의 §Y15%~50%§!를 £sr_psionic_sublimate£ §Y$sr_psionic_sublimate$§!로 전환합니다."
+ pse_power_botton_cleanse_sublimate_tooltip_end: "$pse_power_botton_base_cost_text$§H175§!"
+ pse_power_botton_cleanse_sublimate_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_cleanse_sublimate_not_subbed_title: "$pse_power_botton_cleanse_sublimate_title$"
+ pse_power_botton_cleanse_sublimate_not_subbed_desc: "오염의 일부를 승화시켜, 영혼의 정수로 전환합니다.\n\n$pse_power_botton_cleanse_sublimate_not_subbed_tooltip$\n$pse_power_botton_cleanse_sublimate_not_subbed_tooltip2$\n$pse_power_botton_cleanse_sublimate_not_subbed_tooltip3$\n\n$pse_power_botton_cleanse_sublimate_not_subbed_tooltip_end$\n$pse_power_botton_cleanse_sublimate_not_subbed_cooldown$"
+ pse_power_botton_cleanse_sublimate_not_subbed_tooltip: "$pse_power_botton_cleanse_sublimate_tooltip$"
+ pse_power_botton_cleanse_sublimate_not_subbed_tooltip2: "§Y사이오닉 승화물§!을 §G10%§! 증가시킵니다."
+ pse_power_botton_cleanse_sublimate_not_subbed_tooltip3: "오염의 §Y15%~50%§!를 §Y사이오닉 승화물§!로 전환합니다."
+ pse_power_botton_cleanse_sublimate_not_subbed_tooltip_end: "$pse_power_botton_cleanse_sublimate_tooltip_end$"
+ pse_power_botton_cleanse_sublimate_not_subbed_cooldown: "$pse_power_botton_cleanse_sublimate_cooldown$" 
+ 
+ pse_power_botton_cleanse_sublimate_not_sub_giga: "§R£trigger_no£ §YGigastructural Engineering & More§! 모드가 필요합니다.§!"
+
+ pse_power_botton_cleanse_sublimate_need_psi_becon: "§R£trigger_no£ §Y$name_psychic_beacon$§!을 가지고 있어야 합니다.§!"
+ 
+ pse_power_botton_cleanse_sublimate_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_cleanse_sublimate_title$"
+ 
+ pse_power_botton_summon_spacefaring_title: "§H사이오닉 개체 소환§!"
+ pse_power_botton_summon_spacefaring_desc: "수도 성계에서 장막으로부터 태어난 영혼을 부릅니다.\n\n$pse_power_botton_summon_spacefaring_tooltip$\n$pse_power_botton_summon_spacefaring_tooltip2$\n\n$pse_power_botton_summon_spacefaring_tooltip_end$\n$pse_power_botton_summon_spacefaring_cooldown$"
+ pse_power_botton_summon_spacefaring_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_summon_spacefaring_tooltip2: "특이한 무기를 사용하는 에너지체인 사이오닉 개체를 소환합니다."
+ pse_power_botton_summon_spacefaring_tooltip_end: "$pse_power_botton_base_cost_text$§H125§!"
+ pse_power_botton_summon_spacefaring_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_summon_spacefaring_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_summon_spacefaring_title$"
+ 
+ pse_power_botton_summon_avatar_title: "§H아바타 소환§!"
+ pse_power_botton_summon_avatar_desc: "수도 행성에서 사이오닉 에너지를 모아 군대로 만들어냅니다.\n\n$pse_power_botton_summon_avatar_tooltip$\n$pse_power_botton_summon_avatar_tooltip2$\n\n$pse_power_botton_summon_avatar_tooltip_end$\n$pse_power_botton_summon_avatar_cooldown$"
+ pse_power_botton_summon_avatar_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_summon_avatar_tooltip2: "지상전을 수행할 수 있는 강력한 사이오닉 아바타를 소환합니다."
+ pse_power_botton_summon_avatar_tooltip_end: "$pse_power_botton_base_cost_text$§H35§!"
+ pse_power_botton_summon_avatar_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_summon_avatar_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_summon_avatar_title$"
+ 
+ pse_power_botton_summon_resource_title: "§H자원 수확§!"
+ pse_power_botton_summon_resource_desc: "장막의 영혼을 포획하여 물질 자원으로 전환합니다. 이렇게 변환할 때 어떤 자원이 될 지는 예측할 수 없습니다.\n\n$pse_power_botton_summon_resource_tooltip$\n$pse_power_botton_summon_resource_tooltip2$\n\n$pse_power_botton_summon_resource_tooltip_end$\n$pse_power_botton_summon_resource_cooldown$"
+ pse_power_botton_summon_resource_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_summon_resource_tooltip2: "무작위 양의 자원을 생성합니다. 비물질 자원은 제외됩니다."
+ pse_power_botton_summon_resource_tooltip_end: "$pse_power_botton_base_cost_text$§H95§!"
+ pse_power_botton_summon_resource_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_summon_resource_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_summon_resource_title$"
+ 
+ #pse_power_botton_summon_ship_title: "§HShip From Beyond§!"
+ #pse_power_botton_summon_ship_desc: "Here laid stranded fleet-entities within some deepest trenches of the Shroud realm. It would be a shame to let them decay without salvaging and putting them to good use.\n\n$pse_power_botton_summon_ship_tooltip$\n$pse_power_botton_summon_ship_tooltip2$\n\n$pse_power_botton_summon_ship_tooltip_end$\n$pse_power_botton_summon_ship_cooldown$"
+ #pse_power_botton_summon_ship_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ #pse_power_botton_summon_ship_tooltip2: "Summon a fleet of ships up to §Y15%§! of our §H£navy_size£ $NAVY_SIZE_TITLE$§!."
+ #pse_power_botton_summon_ship_tooltip3: "$pse_power_botton_covenant_composer_life_tooltip3$"
+ #pse_power_botton_summon_ship_tooltip_end: "$pse_power_botton_base_cost_text$§H170§!"
+ #pse_power_botton_summon_ship_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ #pse_power_botton_summon_ship_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_summon_ship_title$"
+ 
+ pse_power_botton_combat_boon_title: "$pse_power_botton_shroud_boon_title$"
+ pse_power_botton_combat_boon_desc: "장막의 강력한 에너지를 빌려와 우주전을 강화합니다.\n\n$pse_power_botton_combat_boon_tooltip$\n$pse_power_botton_combat_boon_tooltip2$\n\n$pse_power_botton_combat_boon_tooltip_end$\n$pse_power_botton_combat_boon_cooldown$"
+ pse_power_botton_combat_boon_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_combat_boon_tooltip2: "$pse_power_botton_shroud_boon_tooltip2$"
+ pse_power_botton_combat_boon_tooltip_end: "$pse_power_botton_base_cost_text$§H70§!"
+ pse_power_botton_combat_boon_cooldown: "$pse_power_botton_cooldown_1800$"
+ 
+ pse_power_botton_combat_boon_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_combat_boon_title$"
+ 
+ pse_power_botton_combat_range_title: "§H예지 공격§!"
+ pse_power_botton_combat_range_desc: "우리의 함대를 사이오닉 에너지로 둘러쌉니다. 함대의 모든 무기가 거리에 관계없이 사격하는 순간 적의 눈 앞으로 순간이동하며, 언제나 적중합니다.\n\n$pse_power_botton_combat_range_tooltip$\n$pse_power_botton_combat_range_tooltip2$\n$pse_power_botton_combat_range_tooltip3$\n\n$pse_power_botton_combat_range_tooltip_end$\n$pse_power_botton_combat_range_cooldown$"
+ pse_power_botton_combat_range_tooltip: "$pse_power_botton_combat_ship_tooltip$"
+ pse_power_botton_combat_range_tooltip2: "§Y12§!개월 동안 $MOD_SHIP_WEAPON_RANGE_MULT$가 크게 증가하고, 언제나 적중합니다."
+ pse_power_botton_combat_range_tooltip3: "함선/스테이션에만 적용됩니다."
+ pse_power_botton_combat_range_tooltip_end: "$pse_power_botton_base_cost_text$§H165§!"
+ pse_power_botton_combat_range_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_combat_range_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_combat_range_title$"
+ 
+ pse_power_botton_combat_arc_title: "§H사이오닉 격류§!"
+ pse_power_botton_combat_arc_desc: "함선과 스테이션에 충분한 힘을 저장해둡니다. 선체에 손상이 생기면, 저장된 힘의 격류가 적에게 반격할 것입니다.\n\n$pse_power_botton_combat_arc_tooltip$\n$pse_power_botton_combat_arc_tooltip2$\n$pse_power_botton_combat_arc_tooltip3$\n\n$pse_power_botton_combat_arc_tooltip_end$\n$pse_power_botton_combat_arc_cooldown$"
+ pse_power_botton_combat_arc_tooltip: "§E함선/스테이션에 적용되는 효과:§!"
+ pse_power_botton_combat_arc_tooltip2: "적 함선이 우리의 함선/스테이션을 파괴하거나 후퇴시켰을 때, 대상에게도 선체 피해를 줍니다."
+ pse_power_botton_combat_arc_tooltip3: "현재 존재하는 함선/스테이션에만 적용되며, 1회성으로 적용됩니다."
+ pse_power_botton_combat_arc_tooltip_end: "$pse_power_botton_base_cost_text$§H150§!"
+ pse_power_botton_combat_arc_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_combat_arc_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_combat_arc_title$"
+ 
+ pse_power_botton_combat_range_effect_over: "$pse_power_botton_combat_range_title$ 사이오닉 파워 효과가 만료되었습니다."
+ 
+ pse_power_botton_combat_ship_title: "§H절대방벽§!"
+ pse_power_botton_combat_ship_desc: "사이오닉 에너지막으로 함선과 스테이션을 코팅하여, 짧은 시간 동안 모든 물리적 공격으로부터 보호합니다. 그러나 강제적인 충돌을 방지하지는 않습니다.\n\n$pse_power_botton_combat_ship_tooltip$\n$pse_power_botton_combat_ship_tooltip2$\n$pse_power_botton_combat_ship_tooltip3$\n\n$pse_power_botton_combat_ship_tooltip_end$\n$pse_power_botton_combat_ship_cooldown$"
+ pse_power_botton_combat_ship_tooltip: "§E함선/스테이션에 적용되는 효과:§!"
+ pse_power_botton_combat_ship_tooltip2: "§Y6§!개월 간 모든 종류의 함선 무기로부터 보호받습니다."
+ pse_power_botton_combat_ship_tooltip3: "$pse_power_botton_combat_range_tooltip3$ 우주항은 제외됩니다."
+ pse_power_botton_combat_ship_tooltip_end: "$pse_power_botton_base_cost_text$§H250§!"
+ pse_power_botton_combat_ship_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_combat_ship_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_combat_ship_title$"
+ pse_power_botton_combat_ship_effect_over: "$pse_power_botton_combat_ship_title$ 사이오닉 파워 효과가 만료되었습니다."
+ 
+ pse_power_botton_break_unity_title: "§H성가신 공기§!"
+ pse_power_botton_break_unity_desc: "성가신 이웃을 성가시게 만들어줍니다. ...사실 모든 지성체는 서로에게 성가실 뿐입니다만.\n\n$pse_power_botton_break_unity_tooltip$\n$pse_power_botton_break_unity_tooltip2$\n$pse_power_botton_break_unity_tooltip3$\n\n$pse_power_botton_break_unity_tooltip_end$\n$pse_power_botton_break_unity_cooldown$"
+ pse_power_botton_break_unity_tooltip: "§E§Y5§!년간 주변의 긴장된 이웃들에게 적용되는 효과:§!"
+ pse_power_botton_break_unity_tooltip2: "$mod_country_base_unity_produces_mult$: §R-20%§!"
+ pse_power_botton_break_unity_tooltip3: "POP 하나당 매달 §R0.33§! £unity£ §Y$unity$§! 소모."
+ pse_power_botton_break_unity_tooltip_end: "$pse_power_botton_base_cost_text$§H100§!"
+ pse_power_botton_break_unity_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_break_unity_effect_over: "$pse_power_botton_break_unity_title$가 만료되었습니다." 
+ pse_power_botton_break_unity_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_break_unity_title$"
+ 
+ pse_power_botton_break_dont_have_vaild_target: "§R£trigger_no£ 적용 가능한 국가가 없습니다.§!"
+ pse_power_botton_break_dont_have_vaild_neighbor: "§R£trigger_no£ 적용 가능한 이웃이 없습니다.§!"
+ pse_power_botton_break_dont_have_war: "§R£trigger_no£ 전쟁 및 위기 발생시에만 사용할 수 있습니다.§!"
+ 
+ pse_power_botton_break_stability_title: "§H마음의 불협화음§!"
+ pse_power_botton_break_stability_desc: "이웃의 정신을 뒤틀고 비틀어 그들의 행동을 비이성적이고 조화를 이룰 수 없게 만듭니다.\n\n$pse_power_botton_break_stability_tooltip$\n$pse_power_botton_break_stability_tooltip2$\n$pse_power_botton_break_stability_tooltip3$\n\n$pse_power_botton_break_stability_tooltip_end$\n$pse_power_botton_break_stability_cooldown$"
+ pse_power_botton_break_stability_tooltip: "$pse_power_botton_break_unity_tooltip$"
+ pse_power_botton_break_stability_tooltip2: "$MOD_PLANET_STABILITY_ADD$: §R-15§!, $MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$: §R-50%§!"
+ pse_power_botton_break_stability_tooltip3: "$MOD_PLANET_CRIME_MULT$/$MOD_PLANET_CRIME_NO_HAPPINESS_MULT$: §R+50%§!"
+ pse_power_botton_break_stability_tooltip_end: "$pse_power_botton_base_cost_text$§H135§!"
+ pse_power_botton_break_stability_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_break_stability_effect_over: "$pse_power_botton_break_stability_title$이 만료되었습니다." 
+ pse_power_botton_break_stability_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_break_stability_title$"
+ 
+ pse_power_botton_break_building_title: "§H지각 뒤엎기§!"
+ pse_power_botton_break_building_desc: "전쟁 중 적의 행성에 에너지를 집중시켜, 행성 건축물을 뿌리뽑아버립니다. 하지만 개발이 거의 되지 않은 행성에는 큰 효과가 없습니다.\n\n$pse_power_botton_break_building_tooltip$\n$pse_power_botton_break_building_tooltip2$\n$pse_power_botton_break_building_tooltip3$\n\n$pse_power_botton_break_building_tooltip_end$\n$pse_power_botton_break_building_cooldown$"
+ pse_power_botton_break_building_tooltip: "§E전쟁중인 적의 행성에 적용되는 효과:§!"
+ pse_power_botton_break_building_tooltip2: "사이오닉 에너지가 §Y33%§!확률로 건물을 파괴하고 황폐화 수치를 올립니다."
+ pse_power_botton_break_building_tooltip3: "행성의 인구가 파괴되는 건물의 수와 황폐화 수치를 결정합니다."
+ pse_power_botton_break_building_tooltip_end: "$pse_power_botton_base_cost_text$§H175§!"
+ pse_power_botton_break_building_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_break_building_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_break_building_title$"
+ 
+ pse_power_botton_break_stop_title: "§시간 정지§!"
+ pse_power_botton_break_stop_desc: "더 월드!\n\n$pse_power_botton_break_stop_tooltip$\n$pse_power_botton_break_stop_tooltip2$\n\n$pse_power_botton_break_stop_tooltip_end$\n$pse_power_botton_break_stop_cooldown$"
+ pse_power_botton_break_stop_tooltip: "$pse_power_botton_break_unity_tooltip$"
+ pse_power_botton_break_stop_tooltip2: "모든 건설이 다음 §Y24§!개월간 정지합니다."
+ pse_power_botton_break_stop_tooltip3: ""
+ pse_power_botton_break_stop_tooltip_end: "$pse_power_botton_base_cost_text$§H200§!"
+ pse_power_botton_break_stop_cooldown: "$pse_power_botton_cooldown_3600$"
+ 
+ pse_power_botton_break_stop_effect_over: "$pse_power_botton_break_stop_title$이 만료되었습니다." 
+ pse_power_botton_break_stop_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_break_stop_title$"
+ 
+ pse_power_botton_galaxy_storm_title: "§H태양 폭풍§!"
+ pse_power_botton_galaxy_storm_desc: "은하의 대부분에 영향을 미치는 대규모 공간 교란을 일으키는 폭풍을 소환합니다. 폭풍에 영향받은 아광속 엔진, 보호막 생성기, 감지기에 큰 피해를 받을 것입니다.\n\n$pse_power_botton_galaxy_storm_tooltip$\n$pse_power_botton_galaxy_storm_tooltip2$\n$pse_power_botton_galaxy_storm_tooltip3$\n\n$pse_power_botton_galaxy_storm_tooltip_end$\n$pse_power_botton_galaxy_storm_cooldown$"
+ pse_power_botton_galaxy_storm_tooltip: "§E은하에 적용:§!"
+ pse_power_botton_galaxy_storm_tooltip2: "성계의 §Y50%§!가 태양 폭풍에 영향을 받습니다. §Y5§!년간 지속됩니다."
+ pse_power_botton_galaxy_storm_tooltip3: "아공간 폭풍이 발생한 성계는 함대에 많은 페널티를 줍니다."
+ pse_power_botton_galaxy_storm_tooltip_end: "$pse_power_botton_base_cost_text$§H220§!"
+ pse_power_botton_galaxy_storm_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_galaxy_storm_cannot_use: "§R£trigger_no£ 이미 아공간 폭풍이 발생했습니다.§!"
+ 
+ 
+ pse_power_botton_galaxy_storm_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_galaxy_storm_title$"
+ 
+ pse_power_botton_galaxy_field_title: "§H중력장§!"
+ pse_power_botton_galaxy_field_desc: "은하계 전체에 FTL 포획기를 살포합니다. 일단 사이오닉 장이 대상을 포착하면, 이 초대받지 않은 손님들은 한동안 그곳에서 벗어날 수 없을 것입니다.\n\n$pse_power_botton_galaxy_field_tooltip$\n$pse_power_botton_galaxy_field_tooltip2$\n$pse_power_botton_galaxy_field_tooltip3$\n\n$pse_power_botton_galaxy_field_tooltip_end$\n$pse_power_botton_galaxy_field_cooldown$"
+ pse_power_botton_galaxy_field_tooltip: "$pse_power_botton_galaxy_storm_tooltip$"
+ pse_power_botton_galaxy_field_tooltip2: "우리의 성계에 중력장을 §Y5§!년간 설치합니다."
+ pse_power_botton_galaxy_field_tooltip3: "중력장이 설치된 성계에 진입하는 적대적 함선은 §Y30§!일간 이동 속도가 감소합니다."
+ pse_power_botton_galaxy_field_tooltip_end: "$pse_power_botton_base_cost_text$§H235§!"
+ pse_power_botton_galaxy_field_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_galaxy_field_effect_over: "$pse_power_botton_galaxy_field_title$이 만료되었습니다."
+ 
+ pse_power_botton_galaxy_field_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_galaxy_field_title$"
+ 
+ MOD_pse_power_galaxy_field_effect_tooltip: "A psychic gravity field encircled this controlled system and hostile fleets will receive §Y30§! days movement penalties upon entering."
+
+ MOD_pse_power_galaxy_field_effect: "중력장"
+ 
+ pse_power_botton_galaxy_spacefaring_title: "§H굶주린 포식자§!"
+ pse_power_botton_galaxy_spacefaring_desc: "우리 차원으로 장막의 생명체를 불러옵니다. 굶주림에 미쳐버린 장막의 생명체들은 눈에 보이는 모든 것을 공격할 것입니다.\n\n$pse_power_botton_galaxy_spacefaring_tooltip$\n$pse_power_botton_galaxy_spacefaring_tooltip2$\n$pse_power_botton_galaxy_spacefaring_tooltip3$\n\n$pse_power_botton_galaxy_spacefaring_tooltip_end$\n$pse_power_botton_galaxy_spacefaring_cooldown$"
+ pse_power_botton_galaxy_spacefaring_tooltip: "$pse_power_botton_galaxy_storm_tooltip$"
+ pse_power_botton_galaxy_spacefaring_tooltip2: "성계를 가로지르며 보이는 모든 것을 공격하는 장막의 생명체를 소환합니다."
+ pse_power_botton_galaxy_spacefaring_tooltip3: "은하 전체의 발달 수준이 장막의 생명체의 수를 결정합니다."
+ pse_power_botton_galaxy_spacefaring_tooltip_end: "$pse_power_botton_base_cost_text$§H200§!"
+ pse_power_botton_galaxy_spacefaring_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_galaxy_spacefaring_cannot_use: "§R£trigger_no£ 이 우주엔 이미 장막의 생물체가 소환되었습니다.§!"
+ pse_power_botton_galaxy_spacefaring_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_galaxy_spacefaring_title$"
+ 
+ pse_power_botton_galaxy_cause_title: "§H저 벽 너머로부터의 저주§!"
+ pse_power_botton_galaxy_cause_desc: "장막의 성가신 영혼을 끌어들여, 은하의 모든 문명을 거슬리게 만듭니다.\n\n$pse_power_botton_galaxy_cause_tooltip$\n$pse_power_botton_galaxy_cause_tooltip2$\n$pse_power_botton_galaxy_cause_tooltip3$\n\n$pse_power_botton_galaxy_cause_tooltip_end$\n$pse_power_botton_galaxy_cause_cooldown$"
+ pse_power_botton_galaxy_cause_tooltip: "$pse_power_botton_galaxy_storm_tooltip$"
+ pse_power_botton_galaxy_cause_tooltip2: "무작위 §Y$shroud_neg_happiness$§! 효과가 국가에 적용됩니다."
+ pse_power_botton_galaxy_cause_tooltip3: "우리 제국엔 영향을 미치지 않습니다."
+ pse_power_botton_galaxy_cause_tooltip_end: "$pse_power_botton_base_cost_text$§H130§!"
+ pse_power_botton_galaxy_cause_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_galaxy_cause_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_galaxy_cause_title$"
+ 
+ 
+ pse_power_botton_chosen_worship_title: "§H신을 향한 예배§!"
+ pse_power_botton_chosen_worship_desc: "믿음의 본질은 맹목입니다. 우리의 [root.pse_get_god_gender]의 뜻대로, 불운한 이웃들의 생각을 찰흙 만지듯 뒤집어 엎을 수 있을 정도의 믿음. wish.\n\n$pse_power_botton_chosen_worship_tooltip$\n$pse_power_botton_chosen_worship_tooltip2$\n$pse_power_botton_chosen_worship_tooltip3$\n\n$pse_power_botton_chosen_worship_tooltip_end$\n$pse_power_botton_chosen_worship_cooldown$"
+ pse_power_botton_chosen_worship_tooltip: "§E긴장하는 이웃들에게 적용되는 효과:§!"
+ pse_power_botton_chosen_worship_tooltip2: "모든 POP이 각각 §Y50%§!의 확률로 우리의 윤리관으로 변합니다."
+ pse_power_botton_chosen_worship_tooltip3: "$ethic_gestalt_consciousness$ 제국에는 효과가 없습니다.."
+ pse_power_botton_chosen_worship_tooltip_end: "$pse_power_botton_base_cost_text$§H215§!"
+ pse_power_botton_chosen_worship_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_chosen_worship_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_chosen_worship_title$"
+ 
+ pse_power_botton_chosen_speed_title: "§H차원 여행§!"
+ pse_power_botton_chosen_speed_desc: "시공간 연속성을 파괴하는 강력한 사이오닉 파장을 함대 전체에 뒤집어 씌워, 언제나 어디로든 점프할 수 있을 것입니다.\n\n$pse_power_botton_chosen_speed_tooltip$\n$pse_power_botton_chosen_speed_tooltip2$\n$pse_power_botton_chosen_speed_tooltip3$\n\n$pse_power_botton_chosen_speed_tooltip_end$\n$pse_power_botton_chosen_speed_cooldown$"
+ pse_power_botton_chosen_speed_tooltip: "$pse_power_botton_combat_ship_tooltip$"
+ pse_power_botton_chosen_speed_tooltip2: "다른 성계로 쉽게 이동할 수 있습니다. 전투 중엔 비활성화됩니다."
+ pse_power_botton_chosen_speed_tooltip3: "§Y12§!개월 동안, §Y30§!일마다 모든 함선에 적용됩니다 ."
+ pse_power_botton_chosen_speed_tooltip_end: "$pse_power_botton_base_cost_text$§H280§!"
+ pse_power_botton_chosen_speed_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_chosen_speed_effect_over: "$pse_power_botton_chosen_speed_title$의 사이오닉 파워 효과가 만료되었습니다."
+ pse_power_botton_chosen_speed_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_chosen_speed_title$"
+ 
+ pse_power_botton_chosen_shroud_title: "§HShroud Roams§!"
+ pse_power_botton_chosen_shroud_desc: "장막은 [Root.Ruler.GetName]의 등장 전까진 예측할 수 없는 영역이었습니다. 그 길을 열어주는 이의 등장 이전까지는 말입니다.\n\n$pse_power_botton_chosen_shroud_tooltip$\n$pse_power_botton_chosen_shroud_tooltip2$\n$pse_power_botton_chosen_shroud_tooltip3$\n\n$pse_power_botton_chosen_shroud_tooltip_end$\n$pse_power_botton_chosen_shroud_cooldown$"
+ pse_power_botton_chosen_shroud_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_chosen_shroud_tooltip2: "장막에서 원하는 대부분의 효과를 선택할 수 있습니다."
+ pse_power_botton_chosen_shroud_tooltip3: "§Y$shroud_cooldown$§!이 발생하지 않습니다."
+ pse_power_botton_chosen_shroud_tooltip_end: "$pse_power_botton_base_cost_text$§H60§!"
+ pse_power_botton_chosen_shroud_cooldown: "$pse_power_botton_cooldown_1800$" 
+ 
+ pse_power_botton_chosen_shroud_upset: "§R£trigger_no£ §Y[Ruler.GetName]§!는 우리의 실패에 분노했으며, 한동안은 도와주지 않을 것입니다.§!"
+ pse_power_botton_chosen_shroud_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_chosen_shroud_title$"
+ 
+ pse_power_botton_chosen_backstab_title: "§H변절자의 생각§!"
+ pse_power_botton_chosen_backstab_desc: "우리는 적의 행동을 꼭두각지처럼 조종할 수 있습니다. 적의 시민은 적의 적이 될 것입니다. 충분한 힘을 투사한다면 그들 사이에서 반란이 일어날 것입니다.\n\n$pse_power_botton_chosen_backstab_tooltip$\n$pse_power_botton_chosen_backstab_tooltip2$\n$pse_power_botton_chosen_backstab_tooltip3$\n\n$pse_power_botton_chosen_backstab_tooltip_end$\n$pse_power_botton_chosen_backstab_cooldown$"
+ pse_power_botton_chosen_backstab_tooltip: "§E긴장하는 국가에 적용되는 효과:§!"
+ pse_power_botton_chosen_backstab_tooltip2: "각 행성이 §Y50%§!확률로 §Y5§!년간 반란을 일으킵니다."
+ pse_power_botton_chosen_backstab_tooltip3: "일반 제국의 안정도가 낮거나 범죄율이 높은 행성에만 영향을 미칩니다."
+ pse_power_botton_chosen_backstab_tooltip_end: "$pse_power_botton_base_cost_text$§H240§!"
+ pse_power_botton_chosen_backstab_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_chosen_backstab_effect_over: "$pse_power_botton_chosen_backstab_title$의 사이오닉 파워 효과가 만료되었습니다."
+ pse_power_botton_chosen_backstab_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_chosen_backstab_title$"
+ 
+ pse_power_botton_chosen_bomb_title: "§H영혼 불꽃§!"
+ pse_power_botton_chosen_bomb_desc: "작지만 극도로 압축된 단일 사이오닉 개체를 불러냅니다. 파괴된다면, 압축된 힘을 해방하여 성계 내의 모든 함선을 제거할 것입니다.\n\n$pse_power_botton_chosen_bomb_tooltip$\n$pse_power_botton_chosen_bomb_tooltip2$\n$pse_power_botton_chosen_bomb_tooltip3$\n\n$pse_power_botton_chosen_bomb_tooltip_end$\n$pse_power_botton_chosen_bomb_cooldown$"
+ pse_power_botton_chosen_bomb_tooltip: "§E다음 효과를 가진 아바타 소환:§!"
+ pse_power_botton_chosen_bomb_tooltip2: "파괴되면 성계 내의 모든 함대 파괴."
+ pse_power_botton_chosen_bomb_tooltip3: "영향받은 행성은 파괴되고, 식민지화 할 수 없게 되며 £sr_zro£ §Y$sr_zro$§! 매장지가 생김."
+ pse_power_botton_chosen_bomb_tooltip_end: "$pse_power_botton_base_cost_text$§H300§!"
+ pse_power_botton_chosen_bomb_cooldown: "$pse_power_botton_cooldown_7200$" 
+ 
+ pse_power_botton_chosen_bomb_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_chosen_bomb_title$"
+ 
+ pse_power_botton_chosen_bomb_can_only_have_one: "§R£trigger_no£ 강렬한 에너지가 응축되어 있기에, 한번에 하나의 §Y영혼 불꽃§!만을 다룰 수 있습니다.§!"
+ 
+ pse_power_botton_covenant_composer_life_title: "§H길어진 삶§!"
+ pse_power_botton_covenant_composer_life_desc: "장수하는 것 보다 더 좋은 것은, 더 오래 사는 것 말고는 없습니다.\n\n$pse_power_botton_covenant_composer_life_tooltip$\n$pse_power_botton_covenant_composer_life_tooltip2$\n$pse_power_botton_covenant_composer_life_tooltip3$\n\n$pse_power_botton_covenant_composer_life_tooltip_end$\n$pse_power_botton_covenant_composer_life_cooldown$"
+ pse_power_botton_covenant_composer_life_tooltip: "§E§Y$leader_trait_admiral_psionic$§! 특성을 가진 무작위 지도자에게 적용되는 효과:§!"
+ pse_power_botton_covenant_composer_life_tooltip2: "유지비 감소와 증가된 수명"
+ pse_power_botton_covenant_composer_life_tooltip3: "의도하지 않은 효과 발생 가능"
+ pse_power_botton_covenant_composer_life_tooltip_end: "$pse_power_botton_base_cost_text$§H75§!"
+ pse_power_botton_covenant_composer_life_cooldown: "$pse_power_botton_cooldown_1080$" 
+
+ pse_power_botton_covenant_composer_life_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_composer_life_title$"
+
+ pse_power_botton_covenant_composer_pop_title: "§H인구 성장§!"
+ pse_power_botton_covenant_composer_pop_desc: "운명의 작곡가로부터 얻은 힘의 일부를 가족계획을 가진 이들에게 전달하여, 예상치 못한 양의 인구 성장을 이끌어냅니다.\n\n$pse_power_botton_covenant_composer_pop_tooltip$\n$pse_power_botton_covenant_composer_pop_tooltip2$\n$pse_power_botton_covenant_composer_pop_tooltip3$\n\n$pse_power_botton_covenant_composer_pop_tooltip_end$\n$pse_power_botton_covenant_composer_pop_cooldown$"
+ pse_power_botton_covenant_composer_pop_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_covenant_composer_pop_tooltip2: "유기체 인구의 수를 £pops£ §YPOP§!의 §G5%§!만큼 증가시킵니다."
+ pse_power_botton_covenant_composer_pop_tooltip3: "이 과정에서 최대 §G100§! £pops£ §YPOP§!을 생성할 수 있습니다."
+ pse_power_botton_covenant_composer_pop_tooltip_end: "$pse_power_botton_base_cost_text$§H200§!"
+ pse_power_botton_covenant_composer_pop_cooldown: "$pse_power_botton_cooldown_3600$" 
+ 
+ pse_power_botton_covenant_composer_pop_have_no_organic_pop: "§R£trigger_no£ 수를 늘릴 수 있는 유기체 POP이 없습니다.§!"
+ pse_power_botton_covenant_composer_pop_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_composer_pop_title$"
+ 
+ pse_power_botton_covenant_eater_fleet_title: "§H광란의 군대§!"
+ pse_power_botton_covenant_eater_fleet_desc: "세계 포식자의 힘을 빌려 우리 함선의 무기가 그 어떤 방어라도 꿰뚫을 수 있게 합니다.\n\n$pse_power_botton_covenant_eater_fleet_tooltip$\n$pse_power_botton_covenant_eater_fleet_tooltip2$\n\n$pse_power_botton_covenant_eater_fleet_tooltip_end$\n$pse_power_botton_covenant_eater_fleet_cooldown$"
+ pse_power_botton_covenant_eater_fleet_tooltip: "$pse_power_botton_combat_ship_tooltip$"
+ pse_power_botton_covenant_eater_fleet_tooltip2: "§Y24§!개월 동안 §Y$MOD_SHIP_ARMOR_DAMAGE_MULT$§!과 §Y$MOD_SHIP_SHIELD_DAMAGE_MULT$§!가 매우 크게 증가합니다."
+ pse_power_botton_covenant_eater_fleet_tooltip3: ""
+ pse_power_botton_covenant_eater_fleet_tooltip_end: "$pse_power_botton_base_cost_text$§H210§!"
+ pse_power_botton_covenant_eater_fleet_cooldown: "$pse_power_botton_cooldown_3600$" 
+
+ pse_power_botton_covenant_eater_fleet_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_eater_fleet_title$"
+ pse_power_botton_covenant_eater_fleet_effect_over: "$pse_power_botton_covenant_eater_fleet_title$의 사이오닉 파워 효과가 만료되었습니다."
+
+ pse_power_botton_covenant_eater_army_title: "§H분노 촉발§!"
+ pse_power_botton_covenant_eater_army_desc: "세계 포식자로부터 빌려온 맹렬한 힘은 생각 없이 접근하는 적을 찢어발기고, 우리의 모든 군대를 일당백으로 만들 것입니다. \n\n$pse_power_botton_covenant_eater_army_tooltip$\n$pse_power_botton_covenant_eater_army_tooltip2$\n\n$pse_power_botton_covenant_eater_army_tooltip_end$\n$pse_power_botton_covenant_eater_army_cooldown$"
+ pse_power_botton_covenant_eater_army_tooltip: "§E강습군에게 적용되는 효과:§!"
+ pse_power_botton_covenant_eater_army_tooltip2: "§Y24§!개월 동안 §Y$MOD_ARMY_DAMAGE_MULT$§!와 §Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!가 매우 크게 증가합니다."
+ pse_power_botton_covenant_eater_army_tooltip3: ""
+ pse_power_botton_covenant_eater_army_tooltip_end: "$pse_power_botton_base_cost_text$§H180§!"
+ pse_power_botton_covenant_eater_army_cooldown: "$pse_power_botton_cooldown_3600$" 
+ 
+ pse_power_botton_covenant_eater_army_no_vaild_army: "§R£trigger_no£ 우린 효과를 적용할 수 있는 어떠한 지상군도 가지고 있지 않습니다.§!"
+ pse_power_botton_covenant_eater_army_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_eater_army_title$"
+ pse_power_botton_covenant_eater_army_effect_over: "$pse_power_botton_covenant_eater_army_title$ 사이오닉 파워가 만료되었습니다."
+ 
+ pse_power_botton_covenant_desire_income_title: "§H경제 성장§!"
+ pse_power_botton_covenant_desire_income_desc: "좋은 사업이란 좋은 물건을 찾아내는 것입니다. 수요의 불규칙적인 증가엔 놀라운 수익이 따라옵니다.\n\n$pse_power_botton_covenant_desire_income_tooltip$\n$pse_power_botton_covenant_desire_income_tooltip2$\n$pse_power_botton_covenant_desire_income_tooltip3$\n\n$pse_power_botton_covenant_desire_income_tooltip_end$\n$pse_power_botton_covenant_desire_income_cooldown$"
+ pse_power_botton_covenant_desire_income_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_covenant_desire_income_tooltip2: "§Y5§!년간 무작위 £job£ §Y직업§! 생산량이 증가합니다."
+ pse_power_botton_covenant_desire_income_tooltip3: "$pse_power_botton_covenant_composer_life_tooltip3$"
+ pse_power_botton_covenant_desire_income_tooltip_end: "$pse_power_botton_base_cost_text$§H150§!"
+ pse_power_botton_covenant_desire_income_cooldown: "$pse_power_botton_cooldown_3600$" 
+ 
+ pse_power_botton_covenant_desire_income_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_desire_income_title$"
+ 
+ pse_power_botton_covenant_desire_borrow_title: "§H자원 변환§!"
+ pse_power_botton_covenant_desire_borrow_desc: "여분의 자원을 욕망의 하수인에게 보내, 우리가 필요로 하는 자원을 받습니다.\n\n$pse_power_botton_covenant_desire_borrow_tooltip$\n$pse_power_botton_covenant_desire_borrow_tooltip2$\n$pse_power_botton_covenant_desire_borrow_tooltip3$\n\n$pse_power_botton_covenant_desire_borrow_tooltip_end$\n$pse_power_botton_covenant_desire_borrow_cooldown$"
+ pse_power_botton_covenant_desire_borrow_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_covenant_desire_borrow_tooltip2: "자원 하나를 다른 자원으로 변환합니다. 물질 자원만 가능합니다."
+ pse_power_botton_covenant_desire_borrow_tooltip3: "보내는 자원은 완전히 사라집니다."
+ pse_power_botton_covenant_desire_borrow_tooltip_end: "$pse_power_botton_base_cost_text$§H175§!"
+ pse_power_botton_covenant_desire_borrow_cooldown: "$pse_power_botton_cooldown_3600$" 
+ 
+ pse_power_botton_covenant_desire_borrow_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_desire_borrow_title$"
+
+ 
+ pse_power_botton_covenant_knowledge_tech_title: "§H암흑의 깨달음§!"
+ pse_power_botton_covenant_knowledge_tech_desc: "공허의 속삭임은 다른 이들이 알지 못하는 지식을 알고 있습니다. 충분히 주의를 기울이면, 더 많은 지식을 공유받을 수 있습니다.\n\n$pse_power_botton_covenant_knowledge_tech_tooltip$\n$pse_power_botton_covenant_knowledge_tech_tooltip2$\n\n$pse_power_botton_covenant_knowledge_tech_tooltip_end$\n$pse_power_botton_covenant_knowledge_tech_cooldown$"
+ pse_power_botton_covenant_knowledge_tech_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_covenant_knowledge_tech_tooltip2: "반복 기술 5회를 획득합니다."
+ pse_power_botton_covenant_knowledge_tech_tooltip3: "$pse_power_botton_covenant_composer_life_tooltip3$"
+ pse_power_botton_covenant_knowledge_tech_tooltip_end: "$pse_power_botton_base_cost_text$§H180§!"
+ pse_power_botton_covenant_knowledge_tech_cooldown: "$pse_power_botton_cooldown_3600$" 
+ 
+ pse_power_botton_covenant_knowledge_tech_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_knowledge_tech_title$"
+ 
+ pse_power_botton_covenant_knowledge_code_title: "§H비밀 파쇄§!"
+ pse_power_botton_covenant_knowledge_code_desc: "우리는 알려진 그 어떤 나라보다도 첩보망이 다차원적입니다. 좀 더 밀어붙이지 않을 이유가 없습니다.\n\n$pse_power_botton_covenant_knowledge_code_tooltip$\n$pse_power_botton_covenant_knowledge_code_tooltip2$\n$pse_power_botton_covenant_knowledge_code_tooltip3$\n\n$pse_power_botton_covenant_knowledge_code_tooltip_end$\n$pse_power_botton_covenant_knowledge_code_cooldown$"
+ pse_power_botton_covenant_knowledge_code_tooltip: "$pse_power_botton_planet_crime_tooltip$"
+ pse_power_botton_covenant_knowledge_code_tooltip2: "$MOD_INTEL_DECRYPTION_ADD$: §G+2§!"
+ pse_power_botton_covenant_knowledge_code_tooltip3: "$MOD_SPY_NETWORK_DAILY_VALUE_ADD$ and $MOD_ESPIONAGE_OPERATION_SPEED_MULT$: §G+100%§!"
+ pse_power_botton_covenant_knowledge_code_tooltip_end: "$pse_power_botton_base_cost_text$§H130§!"
+ pse_power_botton_covenant_knowledge_code_cooldown: "$pse_power_botton_cooldown_1800$"  
+ 
+ pse_power_botton_covenant_knowledge_code_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_knowledge_code_title$"
+ 
+ pse_power_botton_covenant_all_bribe_title: "§H헌신§!"
+ pse_power_botton_covenant_all_bribe_desc: "계약의 대가를 미루는 것도 가능합니다. 충분한 양의 사이오닉 파워를 제공하는 것으로, 계약자를 잠시 만족시킬 수 있습니다.\n\n$pse_power_botton_covenant_all_bribe_tooltip$\n$pse_power_botton_covenant_all_bribe_tooltip2$\n\n$pse_power_botton_covenant_all_bribe_tooltip_end$\n$pse_power_botton_covenant_all_bribe_cooldown$"
+ pse_power_botton_covenant_all_bribe_tooltip: "$pse_power_botton_leader_tech_tooltip$"
+ pse_power_botton_covenant_all_bribe_tooltip2: "일정 기간동안 계약으로 인한 부정적인 효과가 발생하지 않습니다."
+ pse_power_botton_covenant_all_bribe_tooltip3: ""
+ pse_power_botton_covenant_all_bribe_tooltip_end: "$pse_power_botton_base_cost_text$§H175§!"
+ pse_power_botton_covenant_all_bribe_cooldown: "$pse_power_botton_cooldown_3600$"  
+
+ pse_power_botton_covenant_all_bribe_no_need: "£trigger_no£ §R우리의 계약자는 그 어떠한 대가도 요구하지 않고 우리에게 힘을 제공하며, 헌신을 필요로 하지 않습니다.§!"
+ pse_power_botton_covenant_all_bribe_cooldown_over: "$pse_power_botton_cooldown_over$$pse_power_botton_covenant_all_bribe_title$"
+
+ 
+ #TODO
+ pse_power_botton_covenant_cycle_break_title: "§R순환의 끝§!"
+ pse_power_botton_covenant_cycle_break_desc: "오직 선택받은 자만이 정해진 순환을 멈출 수 있습니다.\n\n$pse_power_botton_covenant_cycle_break_tooltip$\n$pse_power_botton_covenant_cycle_break_tooltip2$\n$pse_power_botton_covenant_cycle_break_tooltip3$\n\n$pse_power_botton_covenant_cycle_break_tooltip_end$\n$pse_power_botton_covenant_cycle_break_cooldown$"
+ pse_power_botton_covenant_cycle_break_tooltip: "$pse_power_botton_planet_crime_tooltip$"
+ pse_power_botton_covenant_cycle_break_tooltip2: "§R순환의 끝§!과 협상을 시작합니다."
+ pse_power_botton_covenant_cycle_break_tooltip3: "$MOD_SPY_NETWORK_DAILY_VALUE_ADD$: §G+50%§!, $MOD_ESPIONAGE_OPERATION_SPEED_MULT$: §G+50%§!"
+ pse_power_botton_covenant_cycle_break_tooltip_end: "$pse_power_botton_base_cost_text$§H130§!"
+ pse_power_botton_covenant_cycle_break_cooldown: "$pse_power_botton_cooldown_3600$"  
+
+ 
+ pse_power_cast_icon_desc: "§Y사용§!"
+ pse_power_botton_default_text: "§Y<위 목록 중 하나를 선택하십시오>§!"
+ 
+
+ 
+ PSE_COST_POWER_REQUIRED_TOOLTIP: "[root.pse_select_power_scripted_loc]"
+ pse_select_power_text_select_one_of_them_first: "§R£trigger_no£ 먼저 원하는 능력을 선택하십시오.§!"
+ pse_select_power_text_lack_required_power: "§R£trigger_no£ §Y[root.pse_power_text_message]§!은 더 많은 $pse_power_text_icon$을 필요로 합니다.§!"
+ 
+ pse_power_botton_not_enough_power_and_zro_to_cast: "§R£trigger_no£ 능력을 사용하기 위한 충분한 양의 §Y$pse_power_text_icon$§!가 없습니다.§!"
+ 
+ PSE_COST_POWER_VARI_TEXT: "[root.pse_power_cost_text]"
+ PSE_COST_POWER_TOOLTIP: "§Y[root.pse_power_cost]§! §H$pse_power_text_icon$§! "
+ PSE_COST_POWER_TOOLTIP_AFTERNATE: "소모"
+ 
+ PSE_COST_CLEANSE_TOOLTIP: "오염을 완전히 제거하기 위해서 대략 §Y[root.pse_corruption_purify_zro_requirement]§! £sr_zro£ §H$sr_zro$§!가 필요합니다."
+ 
+ PSE_COST_POWER_BAR_ESTAMATILE_TOOLTIP: "§H능력 사용 비용§!\n선택한 능력을 사용하기 위해서 (£sr_zro£ $sr_zro$ 할인 적용), §Y[root.pse_power_cost]§! §H$pse_power_text_icon$§!가 필요합니다."
+ pse_power_bar_cap_name: "사이오닉 수용력"
+ PSE_POWER_BAR_CAP_TOOLTIP: "$MOD_PSE_BAR_TOOLTIP$"
+ PSE_POWER_BAR_CAP_DESC: "§E사이오닉 수용력은 다음에 의해 영향받습니다:§!\n§G+ 사이오닉 특성을 가진 통치자, 지도자, POP\n+ 텔레파시 능력자 직업, 기술§!\n§R- 사이오닉 파워의 재사용 대기시간으로 인해 발생하는 탈진§!\n------------\n[root.pse_power_bar_num_text_base][root.pse_power_bar_num_text_hive_mind][root.pse_power_bar_num_text_ruler][root.pse_power_bar_num_text_peak][root.pse_power_bar_num_text_relic][root.pse_power_bar_num_text_job][root.pse_power_bar_num_text_tech][root.pse_power_bar_num_text_leader][root.pse_power_bar_num_text_pops][root.pse_power_bar_num_text_power1][root.pse_power_bar_num_cooldown_power]"
+
+ MOD_PSE_BAR_TOOLTIP: "§H사이오닉 수용력§!\n현재 우리의 사이오닉 수용력 §Y[root.pse_power]§!/§Y[root.pse_power_cap]§! $pse_power_text_icon$.\n\n$PSE_POWER_BAR_CAP_DESC$"
+
+ PSE_CORRUPTION_BAR_TOOLTIP: "§R오염§!: §Y[root.pse_corruption]§!/§Y100§!\n------------\n$PSE_CORRUPTION_BAR_DESC$"
+
+ PSE_CORRUPTION_BAR_DESC: "§E오염은 우리가 장막 안에 숨은 사악한 존재들과 얼마나 연결되었는지를 나타냅니다.\n\n오염은 사이오닉 파워를 사용할 때 증가하며, 예외적으로 정화 범주의 사이오닉 파워를 사용하면 감소합니다. 부패 수치가 높을 때 사이오닉 파워를 사용하면 §R불행한 사태§!가 발생할 수 있습니다.§!"
+
+ pse_power_bar_cap_base: "기본: §Y+50§!\n" #50
+ pse_power_bar_cap_hive_mind: "군체의식: §Y+75§!\n" #75
+ pse_power_bar_cap_ruler1: "[root.GetRulerName]: §G+10§!\n" #150
+ pse_power_bar_cap_ruler2: "[root.GetRulerName]: §G+25§!\n"
+ pse_power_bar_cap_ruler3: "[root.GetRulerName]: §G+150§!\n"
+ pse_power_bar_cap_job1: "$job_telepath$ 직업: §G+5§!\n" #125
+    pse_power_bar_cap_job2: "$job_telepath$ 직업: §G+10§!\n"
+    pse_power_bar_cap_job3: "$job_telepath$ 직업: §G+15§!\n"
+    pse_power_bar_cap_job4: "$job_telepath$ 직업: §G+20§!\n"
+    pse_power_bar_cap_job5: "$job_telepath$ 직업: §G+25§!\n"
+    pse_power_bar_cap_job6: "$job_telepath$ 직업: §G+30§!\n"
+    pse_power_bar_cap_job7: "$job_telepath$ 직업: §G+35§!\n"
+    pse_power_bar_cap_job8: "$job_telepath$ 직업: §G+40§!\n"
+    pse_power_bar_cap_job9: "$job_telepath$ 직업: §G+45§!\n"
+    pse_power_bar_cap_job10: "$job_telepath$ 직업: §G+50§!\n"
+    pse_power_bar_cap_job11: "$job_telepath$ 직업: §G+55§!\n"
+    pse_power_bar_cap_job12: "$job_telepath$ 직업: §G+60§!\n"
+    pse_power_bar_cap_job13: "$job_telepath$ 직업: §G+65§!\n"
+    pse_power_bar_cap_job14: "$job_telepath$ 직업: §G+70§!\n"
+    pse_power_bar_cap_job15: "$job_telepath$ 직업: §G+75§!\n"
+    pse_power_bar_cap_job16: "$job_telepath$ 직업: §G+80§!\n"
+    pse_power_bar_cap_job17: "$job_telepath$ 직업: §G+85§!\n"
+    pse_power_bar_cap_job18: "$job_telepath$ 직업: §G+90§!\n"
+    pse_power_bar_cap_job19: "$job_telepath$ 직업: §G+95§!\n"
+    pse_power_bar_cap_job20: "$job_telepath$ 직업: §G+100§!\n"
+    pse_power_bar_cap_job21: "$job_telepath$ 직업: §G+105§!\n"
+    pse_power_bar_cap_job22: "$job_telepath$ 직업: §G+110§!\n"
+    pse_power_bar_cap_job23: "$job_telepath$ 직업: §G+115§!\n"
+    pse_power_bar_cap_job24: "$job_telepath$ 직업: §G+120§!\n"
+    pse_power_bar_cap_job25: "$job_telepath$ 직업: §G+125§!\n"
+#    pse_power_bar_cap_job26: "$job_telepath$ 직업: §G+39§!\n"
+#    pse_power_bar_cap_job27: "$job_telepath$ 직업: §G+40.5§!\n"
+#    pse_power_bar_cap_job28: "$job_telepath$ 직업: §G+42§!\n"
+#    pse_power_bar_cap_job29: "$job_telepath$ 직업: §G+43.5§!\n"
+#    pse_power_bar_cap_job30: "$job_telepath$ 직업: §G+45§!\n"
+#    pse_power_bar_cap_job31: "$job_telepath$ 직업: §G+46.5§!\n"
+#    pse_power_bar_cap_job32: "$job_telepath$ 직업: §G+48§!\n"
+#    pse_power_bar_cap_job33: "$job_telepath$ 직업: §G+49.5§!\n"
+#    pse_power_bar_cap_job34: "$job_telepath$ 직업: §G+51§!\n"
+#    pse_power_bar_cap_job35: "$job_telepath$ 직업: §G+52.5§!\n"
+#    pse_power_bar_cap_job36: "$job_telepath$ 직업: §G+54§!\n"
+#    pse_power_bar_cap_job37: "$job_telepath$ 직업: §G+55.5§!\n"
+#    pse_power_bar_cap_job38: "$job_telepath$ 직업: §G+57§!\n"
+#    pse_power_bar_cap_job39: "$job_telepath$ 직업: §G+58.5§!\n"
+#    pse_power_bar_cap_job40: "$job_telepath$ 직업: §G+60§!\n"
+#    pse_power_bar_cap_job41: "$job_telepath$ 직업: §G+61.5§!\n"
+#    pse_power_bar_cap_job42: "$job_telepath$ 직업: §G+63§!\n"
+#    pse_power_bar_cap_job43: "$job_telepath$ 직업: §G+64.5§!\n"
+#    pse_power_bar_cap_job44: "$job_telepath$ 직업: §G+66§!\n"
+#    pse_power_bar_cap_job45: "$job_telepath$ 직업: §G+67.5§!\n"
+#    pse_power_bar_cap_job46: "$job_telepath$ 직업: §G+69§!\n"
+#    pse_power_bar_cap_job47: "$job_telepath$ 직업: §G+70.5§!\n"
+#    pse_power_bar_cap_job48: "$job_telepath$ 직업: §G+72§!\n"
+#    pse_power_bar_cap_job49: "$job_telepath$ 직업: §G+73.5§!\n"
+#    pse_power_bar_cap_job50: "$job_telepath$ 직업: §G+75§!\n"
+
+
+ pse_power_bar_cap_tech1: "기술: §G+15§!\n" #75
+ pse_power_bar_cap_tech2: "기술: §G+45§!\n"
+ pse_power_bar_cap_tech3: "기술: §G+75§!\n"
+ pse_power_bar_cap_pop1: "사이오닉 POP: §G+1.5§!\n" #150
+    pse_power_bar_cap_pop2: "사이오닉 POP: §G+3§!\n"
+    pse_power_bar_cap_pop3: "사이오닉 POP: §G+4.5§!\n"
+    pse_power_bar_cap_pop4: "사이오닉 POP: §G+6§!\n"
+    pse_power_bar_cap_pop5: "사이오닉 POP: §G+7.5§!\n"
+    pse_power_bar_cap_pop6: "사이오닉 POP: §G+9§!\n"
+    pse_power_bar_cap_pop7: "사이오닉 POP: §G+10.5§!\n"
+    pse_power_bar_cap_pop8: "사이오닉 POP: §G+12§!\n"
+    pse_power_bar_cap_pop9: "사이오닉 POP: §G+13.5§!\n"
+    pse_power_bar_cap_pop10: "사이오닉 POP: §G+15§!\n"
+    pse_power_bar_cap_pop11: "사이오닉 POP: §G+16.5§!\n"
+    pse_power_bar_cap_pop12: "사이오닉 POP: §G+18§!\n"
+    pse_power_bar_cap_pop13: "사이오닉 POP: §G+19.5§!\n"
+    pse_power_bar_cap_pop14: "사이오닉 POP: §G+21§!\n"
+    pse_power_bar_cap_pop15: "사이오닉 POP: §G+22.5§!\n"
+    pse_power_bar_cap_pop16: "사이오닉 POP: §G+24§!\n"
+    pse_power_bar_cap_pop17: "사이오닉 POP: §G+25.5§!\n"
+    pse_power_bar_cap_pop18: "사이오닉 POP: §G+27§!\n"
+    pse_power_bar_cap_pop19: "사이오닉 POP: §G+28.5§!\n"
+    pse_power_bar_cap_pop20: "사이오닉 POP: §G+30§!\n"
+    pse_power_bar_cap_pop21: "사이오닉 POP: §G+31.5§!\n"
+    pse_power_bar_cap_pop22: "사이오닉 POP: §G+33§!\n"
+    pse_power_bar_cap_pop23: "사이오닉 POP: §G+34.5§!\n"
+    pse_power_bar_cap_pop24: "사이오닉 POP: §G+36§!\n"
+    pse_power_bar_cap_pop25: "사이오닉 POP: §G+37.5§!\n"
+    pse_power_bar_cap_pop26: "사이오닉 POP: §G+39§!\n"
+    pse_power_bar_cap_pop27: "사이오닉 POP: §G+40.5§!\n"
+    pse_power_bar_cap_pop28: "사이오닉 POP: §G+42§!\n"
+    pse_power_bar_cap_pop29: "사이오닉 POP: §G+43.5§!\n"
+    pse_power_bar_cap_pop30: "사이오닉 POP: §G+45§!\n"
+    pse_power_bar_cap_pop31: "사이오닉 POP: §G+46.5§!\n"
+    pse_power_bar_cap_pop32: "사이오닉 POP: §G+48§!\n"
+    pse_power_bar_cap_pop33: "사이오닉 POP: §G+49.5§!\n"
+    pse_power_bar_cap_pop34: "사이오닉 POP: §G+51§!\n"
+    pse_power_bar_cap_pop35: "사이오닉 POP: §G+52.5§!\n"
+    pse_power_bar_cap_pop36: "사이오닉 POP: §G+54§!\n"
+    pse_power_bar_cap_pop37: "사이오닉 POP: §G+55.5§!\n"
+    pse_power_bar_cap_pop38: "사이오닉 POP: §G+57§!\n"
+    pse_power_bar_cap_pop39: "사이오닉 POP: §G+58.5§!\n"
+    pse_power_bar_cap_pop40: "사이오닉 POP: §G+60§!\n"
+    pse_power_bar_cap_pop41: "사이오닉 POP: §G+61.5§!\n"
+    pse_power_bar_cap_pop42: "사이오닉 POP: §G+63§!\n"
+    pse_power_bar_cap_pop43: "사이오닉 POP: §G+64.5§!\n"
+    pse_power_bar_cap_pop44: "사이오닉 POP: §G+66§!\n"
+    pse_power_bar_cap_pop45: "사이오닉 POP: §G+67.5§!\n"
+    pse_power_bar_cap_pop46: "사이오닉 POP: §G+69§!\n"
+    pse_power_bar_cap_pop47: "사이오닉 POP: §G+70.5§!\n"
+    pse_power_bar_cap_pop48: "사이오닉 POP: §G+72§!\n"
+    pse_power_bar_cap_pop49: "사이오닉 POP: §G+73.5§!\n"
+    pse_power_bar_cap_pop50: "사이오닉 POP: §G+75§!\n"
+    pse_power_bar_cap_pop51: "사이오닉 POP: §G+76.5§!\n"
+    pse_power_bar_cap_pop52: "사이오닉 POP: §G+78§!\n"
+    pse_power_bar_cap_pop53: "사이오닉 POP: §G+79.5§!\n"
+    pse_power_bar_cap_pop54: "사이오닉 POP: §G+81§!\n"
+    pse_power_bar_cap_pop55: "사이오닉 POP: §G+82.5§!\n"
+    pse_power_bar_cap_pop56: "사이오닉 POP: §G+84§!\n"
+    pse_power_bar_cap_pop57: "사이오닉 POP: §G+85.5§!\n"
+    pse_power_bar_cap_pop58: "사이오닉 POP: §G+87§!\n"
+    pse_power_bar_cap_pop59: "사이오닉 POP: §G+88.5§!\n"
+    pse_power_bar_cap_pop60: "사이오닉 POP: §G+90§!\n"
+    pse_power_bar_cap_pop61: "사이오닉 POP: §G+91.5§!\n"
+    pse_power_bar_cap_pop62: "사이오닉 POP: §G+93§!\n"
+    pse_power_bar_cap_pop63: "사이오닉 POP: §G+94.5§!\n"
+    pse_power_bar_cap_pop64: "사이오닉 POP: §G+96§!\n"
+    pse_power_bar_cap_pop65: "사이오닉 POP: §G+97.5§!\n"
+    pse_power_bar_cap_pop66: "사이오닉 POP: §G+99§!\n"
+    pse_power_bar_cap_pop67: "사이오닉 POP: §G+100.5§!\n"
+    pse_power_bar_cap_pop68: "사이오닉 POP: §G+102§!\n"
+    pse_power_bar_cap_pop69: "사이오닉 POP: §G+103.5§!\n"
+    pse_power_bar_cap_pop70: "사이오닉 POP: §G+105§!\n"
+    pse_power_bar_cap_pop71: "사이오닉 POP: §G+106.5§!\n"
+    pse_power_bar_cap_pop72: "사이오닉 POP: §G+108§!\n"
+    pse_power_bar_cap_pop73: "사이오닉 POP: §G+109.5§!\n"
+    pse_power_bar_cap_pop74: "사이오닉 POP: §G+111§!\n"
+    pse_power_bar_cap_pop75: "사이오닉 POP: §G+112.5§!\n"
+    pse_power_bar_cap_pop76: "사이오닉 POP: §G+114§!\n"
+    pse_power_bar_cap_pop77: "사이오닉 POP: §G+115.5§!\n"
+    pse_power_bar_cap_pop78: "사이오닉 POP: §G+117§!\n"
+    pse_power_bar_cap_pop79: "사이오닉 POP: §G+118.5§!\n"
+    pse_power_bar_cap_pop80: "사이오닉 POP: §G+120§!\n"
+    pse_power_bar_cap_pop81: "사이오닉 POP: §G+121.5§!\n"
+    pse_power_bar_cap_pop82: "사이오닉 POP: §G+123§!\n"
+    pse_power_bar_cap_pop83: "사이오닉 POP: §G+124.5§!\n"
+    pse_power_bar_cap_pop84: "사이오닉 POP: §G+126§!\n"
+    pse_power_bar_cap_pop85: "사이오닉 POP: §G+127.5§!\n"
+    pse_power_bar_cap_pop86: "사이오닉 POP: §G+129§!\n"
+    pse_power_bar_cap_pop87: "사이오닉 POP: §G+130.5§!\n"
+    pse_power_bar_cap_pop88: "사이오닉 POP: §G+132§!\n"
+    pse_power_bar_cap_pop89: "사이오닉 POP: §G+133.5§!\n"
+    pse_power_bar_cap_pop90: "사이오닉 POP: §G+135§!\n"
+    pse_power_bar_cap_pop91: "사이오닉 POP: §G+136.5§!\n"
+    pse_power_bar_cap_pop92: "사이오닉 POP: §G+138§!\n"
+    pse_power_bar_cap_pop93: "사이오닉 POP: §G+139.5§!\n"
+    pse_power_bar_cap_pop94: "사이오닉 POP: §G+141§!\n"
+    pse_power_bar_cap_pop95: "사이오닉 POP: §G+142.5§!\n"
+    pse_power_bar_cap_pop96: "사이오닉 POP: §G+144§!\n"
+    pse_power_bar_cap_pop97: "사이오닉 POP: §G+145.5§!\n"
+    pse_power_bar_cap_pop98: "사이오닉 POP: §G+147§!\n"
+    pse_power_bar_cap_pop99: "사이오닉 POP: §G+148.5§!\n"
+    pse_power_bar_cap_pop100: "사이오닉 POP: §G+150§!\n"
+
+ pse_power_bar_cap_power1: "사이오닉 정화: §R-35§!\n"
+ pse_power_bar_cap_relic: "$r_zro_crystal$: §G+25§!\n" #25
+ 
+ pse_power_bar_cap_psy_siphon1: "$name_psy_siphon$: §G+50§!\n"
+ pse_power_bar_cap_psy_siphon2: "$name_psy_siphon$: §G+125§!\n"
+ 
+ pse_power_bar_cap_leader1: "$leader_trait_admiral_psionic$ 지도자: §G+1.25§!\n" #25
+ pse_power_bar_cap_leader2: "$leader_trait_admiral_psionic$ 지도자: §G+2.5§!\n"
+ pse_power_bar_cap_leader3: "$leader_trait_admiral_psionic$ 지도자: §G+3.75§!\n"
+ pse_power_bar_cap_leader4: "$leader_trait_admiral_psionic$ 지도자: §G+5§!\n"
+ pse_power_bar_cap_leader5: "$leader_trait_admiral_psionic$ 지도자: §G+6.25§!\n"
+ pse_power_bar_cap_leader6: "$leader_trait_admiral_psionic$ 지도자: §G+7.5§!\n"
+ pse_power_bar_cap_leader7: "$leader_trait_admiral_psionic$ 지도자: §G+8.75§!\n"
+ pse_power_bar_cap_leader8: "$leader_trait_admiral_psionic$ 지도자: §G+10§!\n"
+ pse_power_bar_cap_leader9: "$leader_trait_admiral_psionic$ 지도자: §G+11.25§!\n"
+ pse_power_bar_cap_leader10: "$leader_trait_admiral_psionic$ 지도자: §G+12.5§!\n"
+ pse_power_bar_cap_leader11: "$leader_trait_admiral_psionic$ 지도자: §G+13.75§!\n"
+ pse_power_bar_cap_leader12: "$leader_trait_admiral_psionic$ 지도자: §G+15§!\n"
+ pse_power_bar_cap_leader13: "$leader_trait_admiral_psionic$ 지도자: §G+16.25§!\n"
+ pse_power_bar_cap_leader14: "$leader_trait_admiral_psionic$ 지도자: §G+17.5§!\n"
+ pse_power_bar_cap_leader15: "$leader_trait_admiral_psionic$ 지도자: §G+18.75§!\n"
+ pse_power_bar_cap_leader16: "$leader_trait_admiral_psionic$ 지도자: §G+20§!\n"
+ pse_power_bar_cap_leader17: "$leader_trait_admiral_psionic$ 지도자: §G+21.25§!\n"
+ pse_power_bar_cap_leader18: "$leader_trait_admiral_psionic$ 지도자: §G+22.5§!\n"
+ pse_power_bar_cap_leader19: "$leader_trait_admiral_psionic$ 지도자: §G+23.75§!\n"
+ pse_power_bar_cap_leader20: "$leader_trait_admiral_psionic$ 지도자: §G+25§!\n"
+ pse_power_bar_cap_leader21: "$leader_trait_admiral_psionic$ 지도자: §G+26.25§!\n"
+ pse_power_bar_cap_leader22: "$leader_trait_admiral_psionic$ 지도자: §G+27.5§!\n"
+ pse_power_bar_cap_leader23: "$leader_trait_admiral_psionic$ 지도자: §G+28.75§!\n"
+ pse_power_bar_cap_leader24: "$leader_trait_admiral_psionic$ 지도자: §G+30§!\n"
+ pse_power_bar_cap_leader25: "$leader_trait_admiral_psionic$ 지도자: §G+31.25§!\n"
+ pse_power_bar_cap_leader26: "$leader_trait_admiral_psionic$ 지도자: §G+32.5§!\n"
+ pse_power_bar_cap_leader27: "$leader_trait_admiral_psionic$ 지도자: §G+33.75§!\n"
+ pse_power_bar_cap_leader28: "$leader_trait_admiral_psionic$ 지도자: §G+35§!\n"
+ pse_power_bar_cap_leader29: "$leader_trait_admiral_psionic$ 지도자: §G+36.25§!\n"
+ pse_power_bar_cap_leader30: "$leader_trait_admiral_psionic$ 지도자: §G+37.5§!\n"
+ pse_power_bar_cap_leader31: "$leader_trait_admiral_psionic$ 지도자: §G+38.75§!\n"
+ pse_power_bar_cap_leader32: "$leader_trait_admiral_psionic$ 지도자: §G+40§!\n"
+ pse_power_bar_cap_leader33: "$leader_trait_admiral_psionic$ 지도자: §G+41.25§!\n"
+ pse_power_bar_cap_leader34: "$leader_trait_admiral_psionic$ 지도자: §G+42.5§!\n"
+ pse_power_bar_cap_leader35: "$leader_trait_admiral_psionic$ 지도자: §G+43.75§!\n"
+ pse_power_bar_cap_leader36: "$leader_trait_admiral_psionic$ 지도자: §G+45§!\n"
+ pse_power_bar_cap_leader37: "$leader_trait_admiral_psionic$ 지도자: §G+46.25§!\n"
+ pse_power_bar_cap_leader38: "$leader_trait_admiral_psionic$ 지도자: §G+47.5§!\n"
+ pse_power_bar_cap_leader39: "$leader_trait_admiral_psionic$ 지도자: §G+48.75§!\n"
+ pse_power_bar_cap_leader40: "$leader_trait_admiral_psionic$ 지도자: §G+50§!\n"
+ 
+ pse_power_bar_cap_power_count1: "사이오닉 탈진: §R-15§!\n"
+ pse_power_bar_cap_power_count2: "사이오닉 탈진: §R-30§!\n"
+ pse_power_bar_cap_power_count3: "사이오닉 탈진: §R-45§!\n"
+ pse_power_bar_cap_power_count4: "사이오닉 탈진: §R-60§!\n"
+ pse_power_bar_cap_power_count5: "사이오닉 탈진: §R-75§!\n"
+ pse_power_bar_cap_power_count6: "사이오닉 탈진: §R-90§!\n"
+ pse_power_bar_cap_power_count7: "사이오닉 탈진: §R-105§!\n"
+ pse_power_bar_cap_power_count8: "사이오닉 탈진: §R-120§!\n"
+ pse_power_bar_cap_power_count9: "사이오닉 탈진: §R-135§!\n"
+ pse_power_bar_cap_power_count10: "사이오닉 탈진: §R-150§!\n"
+ pse_power_bar_cap_power_count11: "사이오닉 탈진: §R-165§!\n"
+ pse_power_bar_cap_power_count12: "사이오닉 탈진: §R-180§!\n"
+ pse_power_bar_cap_power_count13: "사이오닉 탈진: §R-195§!\n"
+ pse_power_bar_cap_power_count14: "사이오닉 탈진: §R-210§!\n"
+ pse_power_bar_cap_power_count15: "사이오닉 탈진: §R-225§!\n"
+ pse_power_bar_cap_power_count16: "사이오닉 탈진: §R-240§!\n"
+ pse_power_bar_cap_power_count17: "사이오닉 탈진: §R-255§!\n"
+ pse_power_bar_cap_power_count18: "사이오닉 탈진: §R-270§!\n"
+ pse_power_bar_cap_power_count19: "사이오닉 탈진: §R-285§!\n"
+ pse_power_bar_cap_power_count20: "사이오닉 탈진: §R-300§!\n"
+ pse_power_bar_cap_power_count21: "사이오닉 탈진: §R-315§!\n"
+ pse_power_bar_cap_power_count22: "사이오닉 탈진: §R-330§!\n"
+ pse_power_bar_cap_power_count23: "사이오닉 탈진: §R-345§!\n"
+ pse_power_bar_cap_power_count24: "사이오닉 탈진: §R-360§!\n"
+ pse_power_bar_cap_power_count25: "사이오닉 탈진: §R-375§!\n"
+ pse_power_bar_cap_power_count26: "사이오닉 탈진: §R-390§!\n"
+ pse_power_bar_cap_power_count27: "사이오닉 탈진: §R-405§!\n"
+ pse_power_bar_cap_power_count28: "사이오닉 탈진: §R-420§!\n"
+ pse_power_bar_cap_power_count29: "사이오닉 탈진: §R-435§!\n"
+ pse_power_bar_cap_power_count30: "사이오닉 탈진: §R-450§!\n"
+ 
+ pse_zro_discount_tooltip: "§H지로 할인§!\n§E표시된 만큼의 £sr_zro£ §H$sr_zro$§!를 사용하여 사이오닉 파워의 소모량을 줄일 수 있습니다. £sr_zro£ §H$sr_zro$§! 요구량은 §H$pse_power_text_icon$§!가 소모하는 양에 따라 결정됩니다.§!"
+ pse_zro_discount_plus_tooltip: "§G할인율 10% 증가§!"
+ pse_zro_discount_minus_tooltip: "§G할인율 10% 감소§!"
+ 
+ pse_zro_discount_maxed: "§R£trigger_no£ 최대치 도달.§!"
+ pse_zro_discount_1_text: "\n§G§H$pse_power_text_icon$§!의 소모량을 10% 감소시킵니다.§!"
+ pse_zro_discount_2_text: "\n§G§H$pse_power_text_icon$§!의 소모량을 10% 감소시킵니다.§!"
+ pse_zro_discount_3_text: "\n§G§H$pse_power_text_icon$§!의 소모량을 10% 감소시킵니다.§!"
+ MOD_PSE_ZRO_DISCOUNT_0: "§Y0%§!"
+ MOD_PSE_ZRO_DISCOUNT_1: "§G-10%§!"
+ MOD_PSE_ZRO_DISCOUNT_2: "§G-20%§!"
+ MOD_PSE_ZRO_DISCOUNT_3: "§G-30%§!"
+ 
+ 
+ 
+ PSE_ZRO_COST_NOTHING_TOOLTIP: "$PSE_COST_POWER_TOOLTIP$$PSE_COST_POWER_TOOLTIP_AFTERNATE$"
+
+ PSE_ZRO_COST_LESS_POWER_TOOLTIP: "$PSE_COST_POWER_TOOLTIP$와 §Y[root.pse_zro_cost_num]§! £sr_zro£ §H$sr_zro$§! $PSE_COST_POWER_TOOLTIP_AFTERNATE$"
+ 
+ 
+pse.90.title: "사이오닉 파워"
+#Add Shorten one as hive mind and machine may access with other mods
+
+pse.90.normal: "점점 더 많은 이들이 사이오닉 능력에 대한 재능을 발휘함에 따라, 마법과 주문의 실존성에 대한 의문이 생겨나고 있습니다. 처음엔 쉽사리 무시할 수 있는 주장이었습니다. 우리가 사이오닉 능력을 가지게 되었을 때, 그 무엇을 마법이라고 부를 수 있을까요?\n\n이제, 우린 알고 있습니다. 한때 주술로 숭배받던 능력은 사이오닉 능력의 발현에 지나지 않았습니다. 과거 우리의 전설 속 신들과 같은 위대한 존재의 권능으로 여겨진 힘을, 이젠 우리도 사용할 수 있습니다.\n\n우리는 §H[Root.GetSpeciesNamePlural]§!의 가장 뛰어난 이들을 모아 §Y텔레패스 의회§!를 설립하였습니다. 비록 이들이 다룰 수 있는 사이오닉 에너지는 우리의 목표를 위해 다뤄야 할 에너지의 양에 비하면 훨씬 적으나, 이들이 함께 힘을 모아 우리 문명 전체의 사이오닉 에너지를 집중시키는 초점의 역할을 할 수 있습니다. 우리는 우리가 무엇을 할 수 있을 것인지, 그리고 어떠한 위험이 그 앞에 놓여있을지 파악하기 위해 더 많은 연구를 할 필요가 있을 것입니다."
+pse.90.desc: "충분한 재능있는 이들이 사이오닉의 비밀을 알게 된다면, 우리는 지금껏 §H[Root.GetSpeciesName]§!이 경험하지 못한 강력한 능력을 사용할 수 있는 자격을 갖출 수 있습니다.\n\n물론 강력한 힘에는 그 대가가 따릅니다. 만일 우리가 이 힘을 멋대로 사용한다면, 그 뒤엔 무슨 일이 일어날 지 알 수 없습니다."
+pse.90.a: "시작해보자!"
+pse.90.tooltip: "§H시행령 잠금 해제:§! $edict_pse_psi_ruler_ui$"
+
+pse.101.title: "아이디어 시각화"
+pse.101.desc: "천재의 반짝임이 마침내 현실이 됩니다."
+pse.101.desc2: "우리의 가장 거친 꿈이 현실이 됩니다."
+pse.101.desc3: "생각의 대상이 실존하는 지에 대한건 중요치 않습니다."
+pse.101.desc4: "상상이 현실이 되는 곳."
+pse.101.desc5: "흐릿한 시야 너머로 우리를 인도하는 불빛. 모든 이들이 의미를 이해하기 위해 최선을 다합니다."
+
+pse.102.name: "색인된 생각"
+ pse.102.desc: "§H[selected_leader.GetName]§!가 마침내 우리의 중재 끝에 자신의 문제를 해결하게 되었습니다.\n\n"
+ pse.102.desc_a: "이제 다시금 [selected_leader.GetHimHer]가 더 열린 생각을 가질 수 있을 것입니다."
+ pse.102.desc_b: "이제 다시금 [selected_leader.GetHimHer]가 더 건강한 삶을 살아갈 수 있을 것입니다."
+ pse.102.desc_c: "[selected_leader.GetHeSheCap]가 마침내 결실을 맺을 것입니다."
+ pse.102.desc_d: "[selected_leader.GetHeSheCap]이 이전의 패배를 딛고 일어서, 이전보다 용감해졌습니다."
+ pse.102.desc_e: "[selected_leader.GetHeSheCap]가 함대를 더 나은 방식으로 지휘할 수 있게 되었습니다."
+ pse.102.desc_f: "[selected_leader.GetHeSheCap]가 스탠드 책상을 이용하기로 했습니다."
+ pse.102.desc_g: "[selected_leader.GetHeShe]는 더이상 부당한 이득을 챙기는 데 관심을 가지지 않을 것입니다."
+ pse.102.desc_h: "[selected_leader.GetHeShe]는 더이상 대원들을 거칠게 다루지 않습니다."
+ 
+pse.103.name: "저주 해주"
+ pse.103.desc: "우리 사이의 사이오닉 연결을 그 무엇이 방해하더라도, 우리의 에너지를 주입하는 것으로 파괴할 수 있습니다.\n\n이제 우리의 연결은 다시금 안전해졌습니다."
+
+pse.104.title: "자원 교환"
+pse.104.desc: "비축된 자원이 갑자기 나타났습니다.\n\n어디서 왔는지는 묻지 마십시오."
+pse.104.desc2: "이 변환된 재료는 충분한 지식의 발전과 함께라면, 언젠간 이해할 수 있을 것입니다."
+pse.104.desc3: "솔직히 말해서, 맛있고 신선한 지로콜라(TM)이 나왔으면 더 좋았을 겁니다."
+pse.104.tooltip: "[root.pse_104_scripted_loc_energy][root.pse_104_scripted_loc_minerals][root.pse_104_scripted_loc_food][root.pse_104_scripted_loc_alloys][root.pse_104_scripted_loc_consumer_goods][root.pse_104_scripted_loc_influence][root.pse_104_scripted_loc_unity][root.pse_104_scripted_loc_minor_artifacts][root.pse_104_scripted_loc_exotic_gases][root.pse_104_scripted_loc_rare_crystals][root.pse_104_scripted_loc_volatile_motes][root.pse_104_scripted_loc_sr_dark_matter][root.pse_104_scripted_loc_sr_living_metal]"
+
+pse.104.energy: "£energy£ §Y[root.pse_energy].00§!\n"
+pse.104.minerals: "£minerals£ §Y[root.pse_minerals].00§!\n"
+pse.104.food: "£food£ §Y[root.pse_food].00§!\n"
+pse.104.alloys: "£alloys£ §Y[root.pse_alloys].00§!\n"
+pse.104.consumer_goods: "£consumer_goods£ §Y[root.pse_consumer_goods].00§!\n"
+pse.104.influence: "£influence£ §Y[root.pse_influence].00§!\n"
+pse.104.unity: "£unity£ §Y[root.pse_unity].00§!\n"
+pse.104.exotic_gases: "£exotic_gases£ §Y[root.pse_exotic_gases].00§!\n"
+pse.104.rare_crystals: "£rare_crystals£ §Y[root.pse_rare_crystals].00§!\n"
+pse.104.volatile_motes: "£volatile_motes£ §Y[root.pse_volatile_motes].00§!\n"
+pse.104.sr_dark_matter: "£sr_dark_matter£ §Y[root.pse_sr_dark_matter].00§!\n"
+pse.104.sr_living_metal: "£sr_living_metal£ §Y[root.pse_sr_living_metal].00§!\n"
+pse.104.minor_artifacts: "£minor_artifacts£ §Y[root.pse_minor_artifacts].00§!\n"
+
+pse.120.title: "지각 뒤엎기"
+pse.120.desc: "지각 뒤엎기가 시전되었습니다. 적어도 적의 §Y[root.pse_power_break_affected_num]§! 행성에 영향을 미쳤습니다."
+
+pse_power_botton_break_building_effect_result: "우리는 전쟁중인 적의 $pse_power_break_affected_num|Y$ 행성에 영향을 미쳤습니다."
+
+
+pse.125.desc:0 "장막에서 나온 존재들이 공간의 장막을 뚫고 여러 성계 내에서 실체화되었습니다.\n\n엄청난 양의 사이오닉 에너지를 모은 복수심 가득한 아바타들이 시야에 들어온 무엇이든 맹렬히 공격합니다."
+
+pse.127.desc: "현실에 존재하는 아바타가 시간이 지남에 따라 서서히 약해져 실체를 유지할 수 없게 되었습니다. 대부분은 다시금 장막으로 추방되었습니다."
+
+pse.128.desc: "현실에 존재하는 사이오닉 개체가 시간이 지남에 따라 서서히 약해져 실체를 유지할 수 없게 되었습니다. 대부분은 다시금 장막으로 추방되었습니다."
+
+pse.129.title:0 "사이오닉 개체 등장"
+pse.129.desc:0 "어떠한 전조도 없이 에너지로 구성된 개체가 공간의 장막을 뚫고 [shroud_spawn_system.GetName]에 나타났습니다! 엄청난 양의 사이오닉 에너지를 모은 복수심 가득한 사이오닉 에너지체가 시야에 들어온 무엇이든 맹렬히 공격합니다."
+
+
+pse.131.title: "저 너머로부터의 저주"
+pse.131.desc: "어떠한 전조도 없이, 강력한 사이오닉 충격이 우리 국가를 휩쓸었습니다!"
+pse.131.desc.a:0 "$pse.131.desc$\n\n우리 시민들의 행복에 지대한 영향을 끼쳤으며, 암울한 기운만이 [Root.GetName]을 떠돌고 있습니다. 심지어 사이오닉에 둔감한 이들조차 이 분위기를 느끼고 있습니다."
+pse.131.desc.b:0 "$pse.131.desc$\n\n이 부정적인 에너지가 시민들의 마음속에 의심을 확산시켰습니다. 많은 사람들이 정부의 계획에 맞지 않는 급진적인 아이디어에 눈을 돌리고 있습니다. 심지어 사이오닉에 둔감한 이들 마저도 이 효과의 대상이 되었습니다."
+pse.131.desc.c:0 "$pse.131.desc$\n\n함선의 무장이 급격히 노화되어, 전투를 진행하기 힘들어졌습니다."
+pse.131.desc.d:0 "$pse.131.desc$\n\n어떤 이유에서인지, [Root.GetName]의 출산율이 급격하게 낮아졌습니다."
+pse.131.desc.e:0 "$pse.131.desc$\n\n연구자들의 정신이 흐리멍텅해졌으며, 연구에 집중하지 못하고 있습니다."
+pse.131.desc.f:0 "$pse.131.desc$\n\n정치적 영향력의 축적 속도가 크게 느려졌습니다."
+pse.131.desc.g:0 "$pse.131.desc$\n\n한때 단결했던 우리 시민은 이젠 분산되었습니다."
+pse.131.desc.h:0 "$pse.131.desc$\n\n마치 보이지 않는 힘이 함선에 작용하는 것 같습니다. 함선의 이동 속도가 크게 감소합니다."
+pse.131.desc.i:0 "$pse.131.desc$\n\n부정적인 에너지가 지상군의 사기를 크게 떨어트렸습니다."
+pse.131.desc.j:0 "$pse.131.desc$\n\n모든 종류의 감지기의 범위가 크게 감소했습니다."
+pse.131.desc.geth: "$pse.131.desc$\n\n그러나, 이러한 에너지는 우리에게 무시할 수 있을 정도로 미미한 효과만을 끼쳤습니다."
+pse.131.a: "계속해라."
+
+pse.135.casted: "우린 적어도 다른 제국의 $pse_pop_worship|Y$ £pops£에게 우리의 윤리관을 강요했습니다."
+
+pse.145.title: "$utopia.3000.name$"
+pse.145.desc1: "모든 연결이 우리의 목적지에 연결되었으나, 우리 중 그 누구도 깨닫지 못했습니다."
+pse.145.desc2: "은하를 거머쥘 수 있는 강대한 힘은 우리의 이해를 거부합니다. 무엇인가가 우리에게 행동을 지시하며, 우리가 다른 이들에게 행했던 것 처럼 우리의 잠재의식을 주무릅니다. 심지어 지금도 우리를 지켜보고 있으며, 다음 행동을 계획하고 있습니다.\n\n[Ruler.GetName]은 헛웃음을 흘립니다. [Ruler.GetSheHe]는 답을 알고 있습니다."
+pse.145.desc3: "스텔라리스 사이오닉 제국, 25배 위기, 후반 연도 2250년, 스피드런..."
+pse.145.desc4: "이런 분위기는 [Ruler.GetName]에겐 익숙합니다. 언제나 즐겼던 것 처럼."
+pse.145.desc5: "[Ruler.GetName]는 다시금 보이는 길을 따라가던 도중, 문득 응답이 옵니다.\n\n목소리는 [Ruler.GetName]와 닮아있습니다. 마치 다른 시공간선에서 오는 것 같습니다."
+pse.145.desc6: "시간은 존재하기도 하지만, 존재하지 않기도 하기에 의미가 없습니다."
+pse.145.desc7: "패독놈들이 이걸 DLC로 만들면, CPU의 1코어만을 혹사시키는 현 상태의 부담을 줄이는데 도움이 될까요?"
+pse.145.desc8: "이런 랜덤 요소가 리워크된 적은 있습니까?"
+pse.145.desc9: "사이오닉을 위한 봄은 오는가?"
+pse.145.desc10: "우리의 두려움이 당신의 악몽이 될 수 있나요?"
+pse.145.desc11: "3차원 영역에서 4, 5차원으로 연결되는 포탈을 찾기 위해선 우리 모두가 더 높은 곳으로 가야 합니다."
+pse.145.desc12: "세계를 만들고 파괴할 수 있는 유물이 있습니다. 장막의 그 어떤 존재도 이 유물을 찾아낼 수 없을 겁니다. 음...우측 하단의 저 점들인가?\n\n§B"해롭고, 단조롭고, 따분하기까지! 정직하게 합시다!"§!"
+pse.145.desc13: "1일 1 지로콜라(TM)는 행운을 가져다 줄 것입니다"
+pse.145.desc14: "§B"이번엔 어디로 가려고?"§!"
+pse.145.desc15: "[Ruler.GetName]가 길을 알 겁니다."
+pse.145.desc16: "§B"이번 게임에선 승리가 가까워 오는 것 같기도 하고."§!"
+pse.145.desc17: "§B"더는 목적없이 안개로 가려진 길을 헤매고 다니지 마. 그냥 다음 해를 기다려."§!"
+pse.145.desc18: "§B"난 널 위해 이걸 하는거야."§!"
+pse.145.desc19: "시간을 갖고, 주변을 둘러보며, 우리가 뭘 원하는지 물어보십시오."
+pse.145.desc20: "§B"이곳이 우리의 운명을 결정하는 곳입니다."§!"
+pse.145.desc21: "[Ruler.GetName]가 다음 경로를 찾아가는 데 방해되진 않았습니다. 수없이 헤메다보면..."
+pse.145.desc22: "§B"지름길로 가볍게 산책하는 정도일 뿐이야."§!"
+pse.145.desc23: "§B"읽을 순 있는거 맞지?"§!"
+
+
+pse.145.0: "§B알려지지 않은 길§!"
+pse.145.0.tooltip: "이 길은 이곳 말고는 어디로도 갈 수 없습니다."
+pse.145.1: "§B비밀의 길§!"
+pse.145.1.tooltip: "이 길은 한 오래된 제국으로 향합니다."
+pse.145.a: "§B깜빡이는 별의 길§!"
+pse.145.a.tooltip: "§B운석처럼 생긴 특이한 배가 있다면 조사해볼만 합니다.§!"
+pse.145.b: "§B낮은 곳의 길§!"
+pse.145.b.tooltip: "§B보호막이 있는 존재가 있습니다.§!"
+pse.145.c: "§B예지의 길§!"
+pse.145.c.tooltip: "§B많은 가능성 중 오직 하나만이 진실입니다.§!"
+pse.145.d: "§Y속삭임의 길§!"
+pse.145.d.tooltip: "§B광기의 지식이 탐나나요?§!"
+pse.145.e: "§Y작곡가의 길§!"
+pse.145.e.tooltip: "§B기계들에겐 친절하지 않습니다.§!"
+pse.145.f: "§Y굶주림의 길§!"
+pse.145.f.tooltip: "§B절대로 만족할만큼 먹진 못할 것입니다.§!"
+pse.145.g: "§Y욕망의 길§!"
+pse.145.g.tooltip: "§B단 하나가 가치가 있다면, 수백만번이라도 다시금.§!"
+pse.145.h: "§R순환의 길§!"
+pse.145.h.tooltip: "§B마지막 수단.§!"
+pse.145.nope: "신경쓰지마."
+
+pse.147.title: "필멸의 괴로움"
+pse.147.desc: "§Y[Ruler.GetName]§!에 대한 우리의 순진한 행동에 대한 처벌이 마침내 시작된 것 같습니다.\n\n비록 의도하지 않은 실수였지만, 우리는 장막에 의미없는 힘을 쏟아붓는 재미없는 일 대신 [Root.GetSpeciesName]이 알고있는 숨바꼭질을 하듯 [Ruler.GetHerHim]를 남겨두고 사라졌습니다.\n\n지금은 [Ruler.GetHeShe]는 우리가 무엇을 요청하든 거부할 것이며, 애원하는 것도 받아들여지지 않을 것입니다. §Y[Root.GetRulerTitle]§!가 장막 속에서 겪은 분노가 시간이 지남에 따라 씻겨나가지 않는 한, 우리는 2년간 홀로 남을 것입니다."
+pse.147.a: "§B그렇게 할 일이 없나?§!"
+pse.147.tooltip: "[Ruler.GetName]는 $pse_power_text_icon$의 지원을 거부했습니다. 우리가 실수로 장막을 뚫으라고 했다거나, [Root.GetRulerTitle]를 홀로 남겨뒀거나...맞죠?"
+
+pse.160.title: "영혼 불꽃"
+pse.160.desc: "감히 상상할 수 조차 없는 강렬한 사이오닉 에너지가 §Y[Root.GetRulerTitle]§!의 눈 앞에서 극도로 압축되어 작은 사이오닉 특이점이 되었습니다.\n\n우연히라도 이 사이오닉 폭탄이 터진다면 해당 성계의 모든 것이 사이오닉 에너지에 휩쓸려 파괴될 것입니다. 예측하기론 폭발 후 몇년간 사이오닉 구름과 번개가 해당 성계를 뒤덮을 것이며, 감지기로도 해당 성계의 피해를 측정할 수 없을 것입니다."
+pse.160.a: "조심히 다뤄라."
+pse.160.b: "위기를 끝내기 위한 효율적인 선택이 되겠지."
+pse.160.meme: "폭탄을 설치했다!"
+pse.160.tooltip: "§R경고 : 영혼 불꽃의 폭발은 해당 성계에 엄청난 폭발을 일으킬 것입니다.§!"
+
+pse.162.bomb_exploded: "영혼 불꽃이 $pse_system|H$ 성계에 거대한 혼란을 일으켰습니다."
+pse.162.bomb_exploded2: "$pse_country|H$의 영혼 불꽃이 $pse_system|H$ 성계에 거대한 혼란을 일으켰습니다."
+
+pse.163.title: "$pse.160.title$: §H폭파§!"
+pse.163.desc: "우리의 영혼 불꽃이 §H[event_target:pse_system.GetName]§! 성계에서 폭발했습니다! 엄청난 양의 사이오닉 에너지가 성계 전체를 휩쓸고 지나가며, 엄청난 사태를 불러일으켰습니다.\n\n폭발에서 살아남은 식민지의 대부분은 파괴되었으며, 복구하는데 수십년 이상이 걸릴 것입니다.."
+pse.163.desc_has_tech: "우리의 영혼 불꽃이 §H[event_target:pse_system.GetName]§! 성계에서 폭발했습니다! 엄청난 양의 사이오닉 에너지가 성계 전체를 휩쓸고 지나가며, 모든 종류의 사이오닉 주파수를 교란시켰습니다.\n\n영혼 불꽃이 인식하지 못한 모든 식민지가 파괴되었으며, 복구하는데 수십년 이상이 걸릴 것입니다."
+pse.163.a: "우리의 영혼에 자비를."
+pse.163.b: "큰 힘에는 큰 책임이 따른데."
+pse.163.meme: "테러리스트 승리!"
+pse.163.xeno: "이것이 '효율'이라는 것이다."
+
+pse.163.tooltip:0 "£sr_zro£ §H$sr_zro$§! 매장지가 §H[event_target:pse_system.GetName]§! 성계의 미개척지에 나타납니다."
+
+
+pse.180.title: "생명 연장"
+pse.180.desc: "기적이라고밖에 말할 수 없는 일입니다. §H[pse_leader.GetTitle] [pse_leader.GetName]§!은 어떤 부작용도 없이 다시 젊음을 되찾아 모두의 질시를 사고 있습니다."
+pse.180.desc2: "연장된 생명의 힘이 §H[pse_leader.GetTitle] [pse_leader.GetName]§!에게 거의 효과를 발휘하지 못하는 것 같습니다. 그리고 우리는 어떤 [pse_leader.GetHerHim]의 사이오닉 에너지가 문제였는지 알지 못합니다.\n\n그럼에도 불구하고, [pse_leader.GetName]은 장수할 수 있을 것입니다."
+pse.180.desc3: "검은 테의 얀경을 쓴 위대하고 현명한 노인이 §H[pse_leader.GetTitle] [pse_leader.GetName]§!의 눈 앞에 나타나, [pse_leader.GetHerHim]에게 1초의 삶을 부여했습니다." #+1s
+pse.180.desc4: "모두가 더 나은 삶을 살게 될 것이다."
+
+
+pse.181.desc: "§H[pse_leader.GetTitle] [pse_leader.GetName]§!는 더욱 오래 살 수 있게 되었습니다. 정확히는, 다시금 젊음을 되찾았다는 말입니다.\n\n아직까진 §H[pse_leader.GetName]§!에게 다른 부작용의 발현을 찾아볼 수는 없었지만 [pse_leader.GetTitle]의 경험이 사라진 것으로 보이며, 다시금 처음부터 경험을 쌓아나가야 할 것입니다."
+pse.181.a: "좋은...건가?"
+pse.181.a.tooltip: "§H[pse_leader.GetName]§!의 나이가 거꾸로 돌아가며, [pse_leader.GetHerHis]의 레벨이 §Y1§!로 설정됩니다."
+
+pse.185.title: "인구 폭발"
+pse.185.desc: "소식에 따르면 §H[root.GetSpeciesName]§!의 모든 가정에서 열둘 이상의 아이가 동시에 태어났습니다.\n\n현재까지 알려진 부작용은 없습니다."
+pse.185.desc2: "과학자들이 설명할 수 없는 10가지 신비 - 갑작스러운 탄생"
+pse.185.desc3: "평행우주에선 인구가 곧 국력입니다."
+pse.185.desc4: "§Y$CARRY_CAP$§!이나 §Y$FE_LOGISTIC_CEILING$§!에 방해받지 않습니다."
+pse.185.tooltip: "§Y[root.pse_population]§! £pops£ POP이 며칠 내로 최대치로 생겨날 것입니다."
+
+pse.200.title: "경제 성장"
+pse.200.desc1: "창고에 식량이 어마무시한 속도로 쌓이고 있습니다."
+pse.200.desc2: "대부분의 작물에는 약간의 미네랄이 포함되어 있습니다만, 이젠 '풍부한 미네랄'이 아니라 광물에 가까운 수준입니다."
+pse.200.desc3: "가장 값진 작물만이 상품화됩니다. 부디 구석에서 썩어가지만 않기를."
+pse.200.desc4: "광산 아래로 내려가서 광물과 광부와 광산을 찾습니다."
+pse.200.desc5: "광산에서 희귀한 광물을 발견하는 건 드문 일입니다. 심지어 최근에는 당장 그대로 사용해도 무방한 많은 양의 중금속이 발견되었습니다."
+pse.200.desc6: "태양빛이 비추는 곳 아래에서, 화려하게 빛나는 황금을 찾을 수 있으리라고 그 누가 생각할 수 있었을까요?\n\n그야말로 골드러시 그 자체입니다."
+pse.200.desc7: "광업이 무서운 속도로 발전하는 동안, 에너지 사업도 그에 맞춰 발전시킬 필요가 있습니다."
+pse.200.desc8: "얻을 수 있다면 얻는 것이 좋습니다. §H욕망의 하수인§!이 전기분해 효과를 통해 §Y$exotic_gases$§!를 만들어낼 수 있게 해 주었다면, 더더욱!"
+pse.200.desc9: "에너지 생산이 개선되고 안정되어, 건물과 지구에 대한 유지비를 줄여줍니다."
+pse.200.desc10: "정제된 금속에 대한 수요가 사상 최고치를 갱신하고 있습니다."
+pse.200.desc11: "§H욕망의 하수인§!의 힘으로 합금을 생산하고 남은 광석을 결정화합니다."
+pse.200.desc12: "광물을 합금으로 만드는 합금 주조 공장에 분명히 광물을 넣었는데, 어찌된 일인지 교활한 광물들이 교묘하게 살아남았습니다."
+pse.200.desc13: "낭비적인 행동이 우리의 매일매일에 깊숙히 침투해야만 합니다. 그래야 이렇게 기나긴 주문목록을 볼 수 있을테니까요."
+pse.200.desc14: "악명높은 '해쉬태그계산' 작업에 그래픽 장비가 소모되고 있으며, 심각한 품절 사태가 이어지고 있습니다. 이 광기넘치는 현상을 해결하기 위해 생산라인 일부를 전환해야만 합니다."
+pse.200.desc15: "§H욕망의 하수인§!의 힘이 민간 공장에서 매우 민감한 §Y$volatile_motes$§!을 생산할 수 있게 만들어줬습니다.\n\n거짓말같다면, 결과를 보십시오."
+pse.200.desc16: "§Y떡상§!입니다! 더 높이! 저 하늘 높이!"
+pse.200.desc17: "에너지 크레딧을 더 많은 에너지 크레딧과 교환할 수 있던 날을 기억하십니까?"
+pse.200.desc18: "§H[Root.GetName]§!는 모든 천상의 별들이 자신만의 가치를 가지고 있다고 판단했습니다. 단지 어떤 가치를 가졌는지 알 수 없을 뿐입니다."
+
+pse.200.a: "경제 성장!"
+pse.200.meme: "떡상!"
+
+pse.205.title: "자원 교환"
+pse.205.desc: "먼저 §H욕망의 하수인§!에게 교환받길 원하는 자원을 선택하십시오."
+
+pse.205.energy: "£energy£ $energy$"
+pse.205.food: "£food£ $food$"
+pse.205.minerals: "£minerals£ $minerals$"
+pse.205.alloys: "£alloys£ $alloys$"
+pse.205.consumer_goods: "£consumer_goods£ $consumer_goods$"
+pse.205.exotic_gases: "£exotic_gases£ $exotic_gases$"
+pse.205.rare_crystals: "£rare_crystals£ $rare_crystals$"
+pse.205.volatile_motes: "£volatile_motes£ $volatile_motes$"
+pse.205.sr_living_metal: "£sr_living_metal£ $sr_living_metal$"
+pse.205.sr_dark_matter: "£sr_dark_matter£ $sr_dark_matter$"
+
+pse.206.desc: "§H욕망의 하수인에게§! §Y[root.pse_resource_go_out_inital_number]§! §H[root.pse_205_exchange_resource_icon]§!을 주고서 어떤 자원을 받길 원하십니까?"
+
+pse.207.desc: "짧은 시간이 지난 후, 우리가 원하던 대량의 자원이 갑작스레 나타났습니다.\n\n분명 이는 서로에게 좋은 결과가 될 것입니다. §H욕망의 하수인§!은 매우 기뻐하며 다음 거래를 준비합니다."
+
+pse.210.title: "다크 유레카"
+pse.210.desc: "이거 어떻게 켜지?"
+pse.210.desc2: "과학자들이 설명할 수 없는 10가지 질문."
+pse.210.desc3: "이거 조금, 그리고 저것도 조금."
+
+pse.215.title: "공물"
+pse.215.desc: "모두가 지로콜라(TM)를 사랑합니다. 심지어 장막의 존재조차도 지로콜라(TM)를 공물로 요구했습니다."
+pse.215.desc2: "어쩌면 장막의 존재는 매년 수십개의 지로콜라를 요구할지도 모릅니다."
+
+
+
+pse.220.title: "마음의 불협화음"
+pse.220.desc: "갑작스레 우리 모두가 서로에 대한 비이성적인 증오와 참을 수 없는 불신감을 경험하고 있습니다. 가장 섬세한 사람마저도 가장 잔혹한 범죄자가 될 수 있습니다."
+pse.220.desc_no_psionic: "직접적인 증거는 없지만, 우리는 §H[pse_country.GetName]§!이 우리 행성을 무정부상태로 만들기 위한 공작을 시도했다고 생각합니다."
+pse.220.desc_psionic: "모든 증거는 이러한 현상이 사이오닉 파워에 의해 발생했음을 보여주며, §H[pse_country.GetName]§!이 주도했음을 보여줍니다. 그들이 자신들의 힘을 사용하여 우리 행성을 무정부상태로 만들려고 합니다."
+
+pse.220.a: "어떻게 감히!"
+
+pse.221.desc: "$pse.220.desc$\n\n우리는 왜 이런 상황이 발생했는지 알 수 없습니다. 그러나 이러한 불안요소는 사라지기까지 시간이 좀 걸릴 것입니다."
+
+pse.225.title: "사상의 부조화"
+pse.225.desc: "점점 더 많은 사회적 반달행위가 제국 곳곳에서 보고되고 있습니다. 사회적 안정을 위협하는 이들이 아무런 의식 없이 소요사태를 만들어내고 있습니다."
+
+pse.226.desc: "$pse.225.desc$\n\n우리는 왜 이런 상황이 발생했는지 알 수 없습니다. 그러나 이러한 불안요소는 사라지기까지 시간이 좀 걸릴 것입니다."
+
+pse.230.title: "지각 뒤엎기"
+pse.230.desc: "우리 행성 중 일부에서 구조물이 서로 충돌하여 대규모 붕괴 사태가 발생했습니다!"
+pse.230.tooltip: "많이 개발된 몇몇 행성에서 건물이 파괴되고 황폐화되었습니다."
+
+
+#Gigastructure
+pse.235.title: "$name_psy_siphon$의 힘"
+pse.235.desc: "비록 부분적인 완성이긴 하지만, [pse_system.GetName] 성계에 건설한 §Y$name_psy_siphon$§!는 §H$pse_power_text_icon$§!의 수용량을 늘려주어, 힘의 발현을 더욱 쉽게 만들어줍니다."
+pse.235.a: "Good to know."
+pse.235.tooltip: "부분적으로 완성된 §Y$name_psy_siphon$§!는 §H$pse_power_bar_cap_name$§!를 §G50§!만큼 증가시킵니다."
+
+pse.240.title: "$name_psy_siphon$"
+pse.240.desc: "완전히 기능하는 §Y$name_psy_siphon$§!, §H"장막 라우터"§!라 표현할 수 있는 이 건축물이 우리의 사이오닉 능력을 크게 확장시켰으며, 더 강력한 힘을 사용할 수 있을 것입니다."
+pse.240.tooltip: "§Y$name_psy_siphon$§!는 §H$pse_power_increase_month$§!를 §G+1§!만큼, §H$pse_power_bar_cap_name$§!를 §G125§!만큼 증가시킵니다."
+#
+pse.245.title: "오염 승화"
+pse.245.desc: "오염을 거부하고, 영으로써 승화하라." #Ori (Soft of)
+pse.245.desc2: "오염을 격리하고 승화시킨 잔류물은 언젠가 유용하게 사용할 수 있을 것입니다."
+pse.245.desc3: "급증하는 오염은 정화되었으며, 그 과정에서 잔류물이 남았습니다."
+
+pse.245.tooltip: "오염의 일부를 §G[root.pse_sublimate_int_num]§! £sr_psionic_sublimate£ §Y$sr_psionic_sublimate$§!로 전환합니다."
+#
+
+pse.265.title: "계약의 필요성"
+pse.265.desc: "우리의 사이오닉 능력자들이 장막과의 연결 중 하나가 특별하게 강해진 것을 감지했습니다. [root.GetSpeciesNamePlural]의 텔레패스 능력자들에게 잘 알려진 경로가 아니지만, §H[root.pse_265_get_covenant_name]§!에게 장막과의 계약을 시작하라는 속삭임이 들려옵니다.\n\n[pse_target_country.GetName]이 [pse_system.GetName] 성계에 §Y$crisis_sphere_4$§!을 건설하기 시작한 것이 그 이유로 보입니다. 만일 그것이 완공되면, 장막의 엄청난 에너지를 완전히 뽑아낼 것입니다. 모든 것, §H[root.pse_265_get_covenant_name]§!을 포함한 모든 것이 파괴될 것입니다.\n\n§H[root.pse_265_get_covenant_name]§!는 특별한 계약입니다. 장막과의 계약으로 힘을 얻고, 그에 대한 대가를 치러야 합니다. 그러나 이번에 한하여, 그 어느때보다도 후한 혜택이 제공됩니다. 어떤 단점도 없습니다. 우리의 사이오닉 능력자는 과거와 같은 치명적인 정신 분열을 겪지 않을 것입니다.\n\n계약의 대가를 말하자면, §H[root.pse_265_get_covenant_name]§!는 이 [pse_target_country.GetSpeciesNamePlural] 미치광이를 모두 제거해야 할 것입니다... 어쩌면 우리의 더 위대한 목표를 위해 이용할 수도 있을 것입니다."
+pse.265.a: "이것은 분명 우리에게 큰 도움이 될 것입니다."
+
+pse.265.eater: "행성 포식자"
+pse.265.desire: "욕망의 하수인"
+pse.265.knowledge: "공허의 속삭임"
+pse.265.composer: "운명의 작곡가"
+
+
+pse.500.title: "대가: §R오염§!"
+pse.500.desc: "무절제한 사이오닉 파워의 사용이 마침내 우리 자신의 한계치를 넘어섰습니다. 사이오닉 오염이 §H[root.GetName]§!의 모두를 휩쓸고 지나갑니다. 수많은 사이오닉 장비가 망가지고, 많은 이들이 미쳐가고 있습니다."
+pse.500.meme: "가서 지로콜라(TM)나 가져와라!"
+
+pse.500.leader_death: "$leader_name|H$이 §R오염§!으로 인해 사망했습니다."
+pse.500.planet_ruin: "$planet_name|H$의 행성 건물이 §R오염§!으로 인해 파괴되었습니다."
+pse.500.ship: "침식으로 인해 §R[root.pse_ship]§!이 손실되었습니다."
+pse.500.pop: "§R[root.pse_pop]§! §Y£pops£ POP§!이 §R오염§!으로 인해 사망했습니다."
+
+pse.1002.title: "$edict_pse_psi_ruler_ui$"
+pse.1002.desc: "§Y$edict_pse_psi_ruler_ui$§!에 접근 - 시행령을 비활성화하고, 다시 활성화하십시오."
+
+pse.15005.desc: "§H$pse_power_text_icon$§!가 가득 찼으며, 그 힘을 드러낼 준비를 마쳤습니다."

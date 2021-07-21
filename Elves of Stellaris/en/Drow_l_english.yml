@@ -1,0 +1,350 @@
+﻿l_english:
+FLAG_CATEGORY_drow:0 "드로우"
+
+####################################
+# Name Lists
+####################################
+
+name_list_eos_namelist_drow_dunmer:0 "드로우 : 던머"
+name_list_eos_namelist_drow_ilythiiri:0 "드로우 : 일리시어리"
+name_list_eos_namelist_drow_darkelf:0 "드로우 : 다크엘프"
+
+####################################
+# System Initializers
+####################################
+drow_system_tulshar_initializer_NAME:0 "지하 세계"
+drow_system_tulshar_initializer_DESC:0 "§L우리는 지하 속 세계에서 살아남았습니다. 이제 저 높은 별로 향할 때입니다.\n\n$system_initializer_DESC$"
+drow_system_eilistraee_initializer_NAME:0 "다채색의 낙원"
+drow_system_eilistraee_initializer_DESC:0 "§L우리는 다채롭게 빛나는 별과 블랙홀 아래에서 살아왔습니다.§!\n\n$system_initializer_DESC$"
+
+####################################
+# Origins 
+####################################
+
+origin_drow_subterranean_inception:0 "저 아래에서의 시작"
+origin_drow_subterranean_inception_desc:0 "수백만년 이상 우리는 지하의 드넓은 동굴 속에서 살아왔습니다. 그동안 우리는 수많은 동굴의 벽을 뚫어왔습니다. 이제 우리는 새로운 벽을 뚫을 준비가 되었습니다. 바로 우주입니다."
+origin_tooltip_drow_subterranean_inception_effects:3 "§Y시작 장소§!:\n §Y미리 만들어진 성단§!\n\n§Y모성계§!:\n §R환경 재해§! 발생중\n §Y$pc_drow_valshaquellar$§! 거대 구조물 포함:\n   §R파괴된§! 상태이나 수리할 수 있음\n   §H유물§! 행성 특징 포함\n\n§Y모성§!:\n £planet£ §Y$pc_drow_speleoterrestrial$§!\n §Y1§!개의 §E특별한§! 행성 특징 보유\n\n§Y종족§!:\n 적합도가 §Y$trait_pc_drow_speleoterrestrial_preference$§!로 설정\n §G모든 행성에서 살아갈 수 있으나, 그 어떤 유형도 이상적이지 않음§!"
+
+origin_drow_prismatic_refuge:0 "프리즘 피난처"
+origin_drow_prismatic_refuge_desc:0 "모성계에서 간신히 벗어난 피난선이 기적적으로 낙원과도 같은 행성에 불시착했습니다. 행성을 모두 정복한 피난민이 다시금 별을 향해 고개를 돌립니다."
+origin_tooltip_drow_prismatic_refuge_effects:3 "§Y시작 장소§!:\n §Y미리 만들어진 성단§!\n\n§Y모성계§!:\n §R환경 재해§! 발생중\n §R위험한 웜홀§! 포함\n\n§Y모성§!:\n §Y3§!개의 §E특별한§! 행성 특징\n\n§Y제국§!:\n§M웜홀 안정화§! 기술을 가지고 시작"
+
+########################
+### PLANET MODIFIERS ###
+########################
+
+drow_glowing_waters:0 "인광성 바다"
+drow_glowing_waters_desc:0 "이 바다의 플랑크톤은 밤에 약간의 전자기적 복사를 방출하여 아름다운 불빛을 연출합니다."
+
+drow_strong_magnetic_field:0 "강력한 자기장"
+drow_strong_magnetic_field_desc:1 "이 행성은 비정상적으로 강한 자기장을 가지고 있으며, 자기장의 간섭 때문에 많은 전자기구들과 컴퓨터가 자주 고장 날 것입니다."
+
+drow_defunct_lifesupport:0 "부서진 생명 유지 장치"
+drow_defunct_lifesupport_desc:0 "§L이곳의 생명 유지 장치는 모두 파괴되었습니다.§!"
+
+drow_decimated_infrastructure:0 "기반 시설 잔해"
+drow_decimated_infrastructure_desc:0 "§L한때 기반 시설로 덮인 이 땅엔 이젠 뒤틀린 금속만이 남아있습니다.§!"
+
+drow_trait_xenocidal_terror:0 "제노사이드 테러"
+drow_trait_xenocidal_terror_desc:0 "행성 인구의 일부가 갑작스럽게 사라졌습니다! 지역의 §R차별주의§!적인 이들은 이것이 그저 서류상의 오류라고만 생각하며, 그들은 §Y사라진 이§!가 있었다는 사실을 기억하지 못합니다."
+
+####################################
+# Species Classes
+####################################
+DROW:0 "드로우"
+DROW_desc:1 "종족 그 자체는 너의 제국에게 큰 영향이 없겠지만 엘프 종족은 다른 엘프를 기타 외계 종족보다 덜 외계적으로 생각 할 것이다."
+DROW_plural:0 "Ilythiiri"
+DROW_insult_01:0 "악마"
+DROW_insult_plural_01:0 "악마들"
+DROW_insult_02:0 "까맣게 그을린 깜둥이"
+DROW_insult_plural_02:0 "까맣게 그을린 깜둥이들"
+DROW_insult_03:0 "불탄 그렘린"
+DROW_insult_plural_03:0 "불탄 그렘린들"
+DROW_insult_04:0 "불탄 물주머니"
+DROW_insult_plural_04:0 "불탄 물주머니"
+DROW_compliment_01:0 "천사"
+DROW_compliment_plural_01:0 "천사들"
+DROW_spawn:0 "아이"
+DROW_spawn_plural:0 "아이들"
+DROW_sound_01:0 "*으르렁대는 소리*"
+DROW_sound_02:0 "*꿀꿀 소리*"
+DROW_sound_03:0 "*지껄임*"
+DROW_sound_04:0 "*울부짖음*"
+DROW_sound_05:0 "*야옹 소리*"
+DROW_organ:0 "배"
+DROW_organ_plural:0 "배"
+DROW_mouth:0 "입"
+DROW_ear:0 "귀"
+DROW_ear_plural:0 "귀"
+DROW_hand:0 "손"
+DROW_hand_plural:0 "손"
+DROW_tooth:0 "이"
+DROW_tooth_plural:0 "이"
+
+RT_VALSHARESS:0 "발샤레스"
+
+ILYTHIIRI:0 "일리시어리"
+ILYTHIIRI_desc:0 "종족형은 제국에 별 영향을 미치진 않습니다만, 드로우 종족은 일단 드로우 종족형 안에 포함되는 이들을 다른 종족에 비해 조금 더 친숙하게 느낄 것입니다."
+ILYTHIIRI_plural:0 "일리시어리"
+ILYTHIIRI_insult_01:0 "악마"
+ILYTHIIRI_insult_plural_01:0 "악마들"
+ILYTHIIRI_insult_02:0 "까맣게 그을린 깜둥이"
+ILYTHIIRI_insult_plural_02:0 "까맣게 그을린 깜둥이들"
+ILYTHIIRI_insult_03:0 "불탄 그렘린"
+ILYTHIIRI_insult_plural_03:0 "불탄 그렘린들"
+ILYTHIIRI_insult_04:0 "불탄 물주머니"
+ILYTHIIRI_insult_plural_04:0 "불탄 물주머니들"
+ILYTHIIRI_compliment_01:0 "천사"
+ILYTHIIRI_compliment_plural_01:0 "천사들"
+ILYTHIIRI_spawn:0 "아이"
+ILYTHIIRI_spawn_plural:0 "아이들"
+ILYTHIIRI_sound_01:0 "*으르렁대는 소리*"
+ILYTHIIRI_sound_02:0 "*꿀꿀 소리*"
+ILYTHIIRI_sound_03:0 "*지껄임*"
+ILYTHIIRI_sound_04:0 "*울부짖음*"
+ILYTHIIRI_sound_05:0 "*야옹 소리*"
+ILYTHIIRI_organ:0 "배"
+ILYTHIIRI_organ_plural:0 "배"
+ILYTHIIRI_mouth:0 "입"
+ILYTHIIRI_ear:0 "귀"
+ILYTHIIRI_ear_plural:0 "귀"
+ILYTHIIRI_hand:0 "손"
+ILYTHIIRI_hand_plural:0 "손"
+ILYTHIIRI_tooth:0 "이"
+ILYTHIIRI_tooth_plural:0 "이"
+
+####################################
+# Traits
+####################################
+trait_drow:0 "다크 엘프"
+trait_drow_desc:0 "§L엘다르의 분파에 가까운 이 종족은 그들의 형제처럼 불명은 아니지만 매우 긴 시간을 삽니다.§!\n"
+trait_drow_savage:0 "다크 엘프 새비지"
+trait_drow_savage_desc:0 "§L야만성을 예술의 형태라 생각하는 고대 엘다르의 분파입니다.§!\n"
+trait_drow_xenocidal:0 "제노사이드"
+trait_drow_xenocidal_desc:0 "§L이 종족은 같은 행성에서 사는 노예화 되지 않은 타 종족을 죽이는 것으로 잘 알려져 있습니다. 특히 평등주의자, 외계친화자 그리고 평화주의자는  §Yaccidents§!.§!\n (죽을 가능성이 높습니다.)"
+
+####################################
+# Civics 
+####################################
+
+civic_drow_eilistraee:0 "평화주의자"
+civic_drow_eilistraee_desc:0 "이 사회는 언제나 평화와 질서를 위한 설득을 권장합니다. 그러나 만약 설득이 실패한다면, 더 큰 선을 위하여 무력을 사용 할 수도 있습니다. 통제할 수 없는 혼돈은 절대로 허용되지 않습니다."  
+civic_drow_eilistraee_tooltip_effects:0 ""
+civic_drow_warriors:0 "테카르타스"
+civic_drow_warriors_desc:0 "이 사회는 성공하기 위한 속임수와 힘을 긍정하고 장려합니다. 한명이 실패하면 다른 사람이 그 자리를 채웁니다. 끝없는 지도자간의 음모는 서로를 나태하지 않게 하고, 뒤쳐진 자는 죽어서 정리됩니다. 또한 세습을 기반으로 한 계급체계가 아니라 사이오닉적 능력에 따라 위치가 결정되며, 이러한 사이오닉 능력주의는 개인부터 집단까지 모두를 통제하고 국가는 계승권을 놓고 서로 싸우는 상태에 빠져있습니다."
+civic_drow_arcane:0 "페이어 탈썰러"
+civic_drow_arcane_desc:0 "이 사회는 세습을 기반으로 한 계급체계가 아니라 사이오닉적 능력에 따라 위치가 결정되며, 이러한 사이오닉 능력주의는 개인부터 집단까지 모두를 통제하고 국가는 계승권을 놓고 서로 싸우는 상태에 빠져있습니다."
+
+civic_tooltip_drow_warriors_effects:0 "지도자와 통치자들에게 §Y사고§!가 발생할 수도 있습니다.\n 그리고  §Y평등§!, §Y남성 우선§!, §Y남성 우월§! 성 정책을 사용하지 못합니다. \n$MOD_COUNTRY_INFLUENCE_GAIN_ADD$: §G+1§!\n$MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n$mod_leaders_cost_mult$: §G-50%§!\n$MOD_COUNTRY_ELECTION_INFLUENCE_COST$: §G-50%§!\n$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§!\n$mod_category_psionics_research_speed_mult$: §G+25%§!\n$MOD_COUNTRY_TRUST_CAP_ADD$: §R-50§!\n$MOD_COUNTRY_TRUST_GROWTH$: §R-75%§!\n"
+#civic_tooltip_drow_warriors_effects:0 "Leaders and rulers are prone to §Yaccidents§!\nCannot use §YEquality§!, §YChivalry§! and §YAbsolute Patriarchy§! gender policies\n$MOD_COUNTRY_INFLUENCE_GAIN_ADD$: §G+1§!\n$MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n$mod_leaders_cost_mult$: §G-50%§!\n$MOD_COUNTRY_ELECTION_INFLUENCE_COST$: §G-50%§!\n$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§!\n$mod_category_psionics_research_speed_mult$: §G+25%§!\n$MOD_COUNTRY_INSULT_EFFICIENCY$: §G+50%§!\n$MOD_COUNTRY_TRUST_CAP_ADD$: §R-50§!\n$MOD_COUNTRY_TRUST_GROWTH$: §R-75%§!\n$MOD_COUNTRY_DIPLOMACY_INFLUENCE_COST$: §R+50%§!\n"
+
+# New restriction text not in vanilla
+civic_drow_tooltip_not_materialistic:0 "§Y물질주의§!가 아니어야 합니다"
+
+####################################
+# Diplomacy
+####################################
+
+personality_tulshar_personality:0 "일리시어리 발사레"
+personality_tulshar_personality_desc:0 "발사레는 모든 외계종들이 자신들에게 복종하는 것이 정당하다고 믿으며, 따라서 그들은 매우 공격적이고 확장적이며 이러한 그들의 생각에 대해 의심도 품치 않을 것입니다."
+
+personality_eilistraeean_personality:0 "오르세 다론"
+personality_eilistraeean_personality_desc:0 "오르세 다론, 도로쉬의 성기사들은 은하의 질서를 가져 오는 것이 그들의 신성한 의무라고 믿습니다. 평화적인 방법을 선호하지만, 필요하다면 무력을 사용 할 것입니다. 이들과의 우애는 절대적으로 깨지지 않을 것 입니다."
+
+gov_drow_matriarchal_council:0 "모계 의회"
+gov_drow_matriarchal_council_desc:0 "이 정부는 정신주의적 형태의 과두정입니다. 여러 가문의 여성들이 실질적으로 이 정부를 통제하며, 이러한 가문들이 정치적 영향력을 높히기 위해 경쟁하는 것은 권장되지만, 노골적인 살인은 불법입니다."
+
+####################
+### PLANET STUFF ###
+####################
+
+## VALSHAQUELLAR ##
+pc_drow_valshaquellar:0 "밴샤퀼라"
+pc_drow_valshaquellar_adj:0 "인공"
+pc_drow_valshaquellar_desc:0 "특수한 한 종족만을 위해 설계된 것처럼 보이는 거대한 인공 구조물."
+mod_pc_drow_valshaquellar_habitability:0 "밴샤퀼라 선호"
+trait_pc_drow_valshaquellar_preference:0 "밴샤퀼라 거주성"
+trait_pc_drow_valshaquellar_preference_desc:0 "§L기후 선호도는 유전적 수준, 영겁의 진화 또는 잘 설계된 유전자 조작에 의해 결정됩니다.§!"
+
+pc_drow_valshaquellar_dead:0 "밴샤퀼라"
+pc_drow_valshaquellar_dead_adj:0 "파괴된"
+pc_drow_valshaquellar_dead_desc:0 "특수한 한 종족만을 위해 설계된 것처럼 보이는 거대한 인공 구조물."
+mod_pc_drow_valshaquellar_dead_habitability:0 "밴샤퀼라 선호"
+trait_pc_drow_valshaquellar_dead_preference:0 "밴샤퀼라 거주성"
+trait_pc_drow_valshaquellar_dead_preference_desc:0 "§L기후 선호도는 유전적 수준, 영겁의 진화 또는 잘 설계된 유전자 조작에 의해 결정됩니다.§!"
+
+pc_drow_speleoterrestrial:0 "Speleoterrestrial World"
+pc_drow_speleoterrestrial_adj:0 "speleoterrestrial"
+pc_drow_speleoterrestrial_desc:0 "넓은 지하 동굴이 퍼져있는 암석 행성. 얕은 질소-산소 대기는 특정 형태의 생물체에게 적합합니다."
+pc_drow_speleoterrestrial_habitability:0 "지하 거주성"
+mod_pc_drow_speleoterrestrial_habitability:0 "지하 선호"
+trait_pc_drow_speleoterrestrial_preference:0 "지하 거주성"
+trait_pc_drow_speleoterrestrial_preference_desc:1 "§L기후 선호도는 유전적 수준, 영겁의 진화 또는 잘 설계된 유전자 조작에 의해 결정됩니다.§!"
+
+pc_drow_valshaquellar_tile:0 "밴샤퀼라 지형"
+pc_drow_valshaquellar_tile_desc:0 "이 가혹한 환경은 일부 생명체들에게만 살기 적합할 뿐입니다." 
+
+#################
+### BUILDINGS ###
+#################
+
+drow_building_army_primitive:0 "쿠엘라린 제크렛'타우"
+drow_building_army_primitive_desc:0 "고대의 질서의 따른 수비군으로 반드시 필요할때만 소집되는 군대."
+
+##############
+### ARMIES ###
+##############
+
+drow_primitive_army:0 "밀로차르 드'아론"
+
+####################################
+# Nations 
+####################################
+EMPIRE_DESIGN_drow_civ1:0 "에일리스트레이의 아이들"
+EMPIRE_DESIGN_drow_civ1_desc:0 "오래된 이야기에 따르면 에일리스트레이인들은 거대한 악을 피해 고향을 떠나왔습니다. 여신 에일리스트레이의 도움으로, 혹은 순전한 행운으로 피난선은 웜홀을 안전히 통과하고, 수백만년 이상 살아갈 수 있는 낙원을 발견했습니다.\n\n이제 이들은 다시금 하늘 저편의 별을 바라보고 있습니다. 평화와 희망의 이야기를 모두에게 전할 준비를 하면서요. 누군가 거부한다면, 강제로 알게 해 줄 것입니다."
+
+EMPIRE_DESIGN_drow_tulshar_civ:0 "일리시어리 툴사르"
+EMPIRE_DESIGN_drow_tulshar_civ_desc:0 "일리시어리의 역사는 크게 둘로 나눌 수 있습니다. 지상에서의 시절과, 지하에서의 시절입니다. 수천년간 이들은 지표면 아래에서 살아왔습니다. 거대한 지하도시를 건설하고, 그리고 도시간의 전쟁이 발생했습니다. 그러던 어느 날, 탐사자가 새로운 세상을 발견하였습니다. 지상입니다. 이 발견의 충격은 모든 일리시어리 사회에 퍼져나갔으며, 이때의 혼란을 이용해 한 군벌이 하나의 목적 아래 모든 세력을 하나로 통합했습니다. 바로 지상의 정복입니다.\n\n저 너머에 얼마나 많은 목표가 있을 지는 모릅니다. 그러나 행성 표면을 모두 정복한 일리시어리는, 이제 하늘 저편을 바라봅니다."
+
+###################
+### EVENT STUFF ###
+###################
+#[Root.GetName]
+## VALSHAQUELLAR ##
+drow_special.1.name:0 "모성 복원"
+drow_special.1.desc:0 "최신 기술인 £society §Y$tech_ecological_adaptation$§!은 [event_target:elves_planet_valshaquellar.GetName]의 상황을 분석할 수 있도록 합니다. 우린 여전히 이 §Y사건§!의 원인을 파악할 순 없습니다. 그러나 이젠 살아갈 수 없을 정도로 망가진 구역을 완전히 복원하는데 필요한 기술은 갖춰졌을 겁니다."
+drow_special.1a.desc:0 "§Y$decision_mastery_of_nature$§! 기술을 개발한 후, [event_target:elves_planet_valshaquellar.GetName]의 상황을 분석할 수 있게 되었습니다. 우린 여전히 이 §Y사건§!의 원인을 파악할 순 없습니다. 그러나 이젠 살아갈 수 없을 정도로 망가진 구역을 완전히 복원하는데 필요한 기술은 갖춰졌을 겁니다."
+drow_special.1.a:0 "고려할 가치가 있군."
+drow_special.2.name:0 "복원 완료"
+drow_special.2.desc:0 "우리는 마침내 [From.From.GetName]의 옛 영광을 완전히 복원했습니다!\n\n이제 이 거대한 구조물에 거주할 수 있습니다!"
+drow_special.2.a:0 "제국에 영광을!"
+drow_decision_valshaquellar_repair:0 "밴샤퀼라 수리"
+drow_decision_valshaquellar_repair_desc:0 "거대한 거주지를 이전의 훌륭한 수준으로 복구하는 것은 많은 투자를 필요로 합니다. 수리가 끝나면 이전에 사용할 수 없던 부분에도 거주할 수 있게 될 것입니다."
+drow_decision_valshaquellar_repair_tooltip:0 "§Y밴샤퀼라§!가 §Y$trait_pc_drow_speleoterrestrial_preference$§! 특성을 가진 종족에게 적합하게 변할 것입니다."
+
+elven_valshaquellar_chain_title:0 "밴샤퀼라 수리"
+elven_valshaquellar_chain_desc:0 "§Y$tech_ecological_adaptation$§!의 추가적인 연구를 통해 밴샤퀼라를 수리하여 과거의 영광을 되찾을 수 있을 것입니다."
+
+START_SCREEN_SUBTERRANEAN_INCEPTION:0 "기술의 발전은 빨랐으나, 민간 사회의 혼돈은 더욱 빨랐습니다. 온 세계가 무정부상태에 빠지자, 군부가 법과 질서를 회복하기 위해 나섰습니다. 외부와 내부의 모든 위협으로부터 질서를 수호하기 위한 준비가 끝나고, 새로운 질서가 설립되었습니다."
+
+####################
+### STAR CLASSES ###
+####################
+
+sc_drow_binary_1:1 "$sc_binary_1$"
+sc_drow_binary_2:1 "$sc_binary_1$"
+sc_drow_binary_3:1 "$sc_binary_1$"
+sc_drow_trinary_1:1 "$sc_trinary_1$"
+sc_drow_trinary_2:1 "$sc_trinary_1$"
+sc_drow_quaternary_1:1 "사중성계"
+sc_drow_quaternary_2:1 "사중성계"
+sc_drow_tulshar:0 "$sc_m_giant$"
+
+#######################
+### PLANET FEATURES ###
+#######################
+
+## TULSHAR ##
+
+d_drow_planetary_speleostructural_instability:1 "£blocker£ Speleostructural Instability"
+d_drow_planetary_speleostructural_instability_desc:0 "복잡하게 얽힌 자연 동굴계와 인공 건축물로 인해, 표면 구조가 불안정해졌습니다. 거대한 건축물을 건설하기 힘들고, 지표면에 건설할 수 있는 구역이 크게 제한됩니다.\n\n§R제거할 수 없습니다§!"
+
+d_drow_planetary_cheel_xsaus:0 "체'엘 크사'우스"
+d_drow_planetary_cheel_xsaus_desc:0 "행성 표면 발견 이전의 고대 유적지입니다. 한때는 중요한 도시였으나, 지금은 도시의 주인이 누구였는지도 잊힌 상태입니다. 그러나 이 유적은 다른 의미로 유명합니다. 탐사자, 함선, 탐사정, 그 외의 모든 것이 유적 안에서 돌아오지 못했습니다. 심지어 현대에 이르러 폭격을 수행했음에도 아무런 외형적 변화가 관측되지 않았습니다. 이 유적에 어떠한 힘이 존재하는 지는 알 수 없으며, 현대의 이해 수준을 초월합니다."
+
+d_drow_planetary_murrpau_sanguine:0 "넘쳐나는 무르파우"
+d_drow_planetary_murrpau_sanguine_desc:0 "모피를 가진 비행 능력이 있는 기생형 사족 생명체입니다. 갓 태어난 무르파우도 매우 위협적입니다. 그러나 독립 개체로 행동하는 경향이 있으며, 빛이 거의 없는 곳에서만 사냥합니다. 대다수 모든 생명체의 피를 먹지만, 지성체의 피를 더욱 선호합니다. 이유는 밝혀지지 않았습니다."
+
+d_drow_planetary_murrpau_sanguine_blocker:0 "£blocker£ 넘쳐나는 무르파우"
+d_drow_planetary_murrpau_sanguine_blocker_desc:0 "$d_drow_planetary_murrpau_sanguine_desc$"
+
+d_drow_planetary_zhevalshath_blocker:0 "£blocker£ 제발사스"
+d_drow_planetary_zhevalshath_blocker_desc:0 "이 신비로운 탑의 흑요석 벽은 현대 무기마저 넘어설 수 없었습니다. 궁전이나 요새의 역할을 할 수도 있지만, 지금은 버려진 채 황폐한 상태로 남아있습니다. 이 요새를 복구하는 것은 많은 투자가 필요하지만, 불가능한 일은 아닙니다."
+
+d_drow_planetary_zhevalshath:0 "제발사스"
+d_drow_planetary_zhevalshath_desc:0 "궁전보단 요새에 가까운 제발사스는 버려진 탑 중 가장 높은 탑이었습니다. 거대한 흑요석 벽은 하늘과 땅 어느곳에서든 넘어서기 쉽지 않습니다. 그 위로는 현대식 방어무기가 늘어서서 그 누구도 감히 공격할 마음을 품을 수 없게 만듭니다. 이제 이 거대한 구조물은 그에 걸맞는 군주가 앉을 권좌가 되었습니다."
+
+d_drow_planetary_subterranean_hydroponics:0 "지하 수경재배지"
+d_drow_planetary_subterranean_hydroponics_desc:0 "오직 농사를 짓기 위해 수면 아래의 바위를 깎아 만든 거대한 동굴입니다."
+
+d_drow_planetary_buried_sea:0 "파묻힌 바다"
+d_drow_planetary_buried_sea_desc:0 "화학물질로 생겨난 생명체와 공존하는 지하의 거대한 바다입니다. 영양가가 풍부한 생명체가 살고 있습니다."
+
+d_drow_planetary_happy_lizard_farms:0 "맹독성 파충류 서식지"
+d_drow_planetary_happy_lizard_farms_desc:0 "역사가 기록되기도 전에 개척된 이곳은 현재 목장에서 기르는 커다란 맹독성 파충류의 서식지입니다. 맛 좋은 고기만큼이나 독 역시도 다양한 용도로 사용되고 있습니다."
+
+d_drow_planetary_shroom_flats:0 "버섯 평야"
+d_drow_planetary_shroom_flats_desc:0 "거대하고 평평한 균류의 숲입니다. 인위적으로 기를 수 있는 식용 곰팡이인 '플럼 투구'가 있습니다."
+
+d_drow_planetary_luminous_lichen:0 "발광 이끼"
+d_drow_planetary_luminous_lichen_desc:0 "단순히 먹을 수 있을 뿐만 아니라 풍미를 더해주는 발광 이끼가 자라나고 있습니다."
+
+d_drow_planetary_ancient_dynamos:0 "고대의 발전기"
+d_drow_planetary_ancient_dynamos_desc:0 "알 수 없는 문명이 만들어낸 고대의 발전기입니다. 음모론자들은 이곳이 우리가 잊은 외계 종족의 마지막 잔재라는 이야기를 엮어냅니다. 현재 주류가 된 이론은 이곳이 단지 역사에 기록되지 못할 정도로 한미한 국가가 남긴 유일한 흔적이라는 것입니다."
+
+d_drow_planetary_sunken_geysers:0 "땅 속의 간헐천"
+d_drow_planetary_sunken_geysers_desc:0 "등시적으로 분출하는 지하의 간헐천입니다."
+
+d_drow_planetary_serpentine_trench:0 "수중 참호"
+d_drow_planetary_serpentine_trench_desc:0 "고속 조류가 흐르는 길고 구불구불한 수중 참호입니다. 수중 경기에 주로 사용되며, 수력 발전 용도로도 사용할 수 있습니다."
+
+d_drow_planetary_metal_wastefields:0 "금속 전장"
+d_drow_planetary_metal_wastefields_desc:0 "대부분 순수한 금속으로 이루어진 고대 유적지와, 다양한 합금으로 이루어진 광활한 광장으로 이루어져있습니다. 설계나 제작 수단과는 별개로 누가 이러한 곳을 만들었는지, 왜 만들었는지에 대한 명확한 증거는 없습니다."
+
+d_drow_planetary_aurous_fissures:0 "금 간헐천"
+d_drow_planetary_aurous_fissures_desc:0 "이 지역의 독특한 자연 형성은 순금에 가까운 지층의 균열을 포함하고 있습니다. 이곳에선 자주 금이 분출되며, 쉽게 금속화할 수 있을 정도로 낮은 온도입니다."
+
+d_drow_planetary_carbon_subterrane:0 "탄소 동굴"
+d_drow_planetary_carbon_subterrane_desc:0 "동굴 전체가 고체 결정화 탄소로 가득 차 있습니다. 자연의 경이이자, 광물의 원천입니다."
+
+## VALSHAQUELLAR ##
+
+d_drow_collapsed_spire:1 "£blocker£ 무너진 첨탑"
+d_drow_collapsed_spire_desc:0 "거대한 주거용 첨탑이 자체 무게로 인해 붕괴되어 접근이 차단되었습니다. 이 첨탑이 멀쩡하게 서 있었을 때는, 이곳에서 가장 높은 건물이었을 것입니다."
+d_drow_massive_crevice:1 "£blocker£ 거대한 크레바스"
+d_drow_massive_crevice_desc:0 "한때 밀집된 도시지역이 그 가운데를 지나가는 거대한 균열로 인해 둘로 나뉘었습니다. 지진과 산사태가 자주 발생하는 등, 지반이 극도로 불안정한 지역입니다."
+d_drow_shattered_solar_array:1 "£blocker£ 부서진 태양광 발전기"
+d_drow_shattered_solar_array_desc:0 "거대한 태양광 발전기의 잔해입니다. 정상적으로 기능했을 땐 행성 전역의 대부분에 전력을 공급했을 것입니다."
+d_drow_flooded_reactor_pits:1 "£blocker£ 침수된 원자로 구덩이"
+d_drow_flooded_reactor_pits_desc:0 "한때 이 행성의 주요 에너지 생산 시설이 위치했던 곳입니다. 지금은 깊은 구덩이만이 남아있습니다. 비와 홍수가 구덩이에 탁한 물만을 가득 채웠습니다."
+d_drow_ancient_reactor_pits:0 "고대의 원자로 구덩이"
+d_drow_ancient_reactor_pits_desc:0 "적도 부근에 위치한 깊은 구덩이 속엔 주 에너지 발전 시설이 있었습니다. 놀랍도록 튼튼한 기반 시설의 대다수가 현재도 기능하고 있으며, 새로운 원자로를 건설할 수 있는 부지로 활용할 수 있습니다."
+d_drow_immense_solar_array:0 "거대한 태양광 발전망"
+d_drow_immense_solar_array_desc:0 "거의 작은 대륙의 크기와 맞먹는 거대한 태양광 발전망입니다. 태양광 발전기 그 자체는 대다수가 수리할 수 없을 정도로 부서졌지만, 전력 운송 기반 시설은 살아남았으며 에너지 생산에 활용할 수 있을 것입니다."
+d_drow_central_spire:0 "중앙 첨탑"
+d_drow_central_spire_desc:0 "한때 이곳의 행정 중심지 역할을 한 우뚝 솟은 구조물입니다. 중심지와 내부 시설에서 이전 문명의 폐허를 연구할 수 있는 기회를 찾을 수 있습니다."
+d_drow_industrial_sector:0 "산업 구역"
+d_drow_industrial_sector_desc:0 "이 지역 전체가 한때는 산업 중심지 역할을 했습니다. 본래 가동되던 공장과 정유시설이 가동을 중단한 지 오래지만, 여전히 이곳에서 많은 양의 흩어진 자원을 찾을 수 있습니다."
+d_drow_relic_dense_ruins:0 "밀집된 폐허"
+d_drow_relic_dense_ruins_desc:0 "이곳을 뒤덮은 유적의 숲은 과학에 도움이 되지만, 그만큼 거주 공간이 제한되게 됩니다."
+
+## EILISTRAEEN ##
+
+d_drow_planetary_feral_fairies:0 "포식성 요정"
+d_drow_planetary_feral_fairies_desc:0 "무리지어 날아다니는 작은 지각 생물체입니다. 독자적인 언어체계와 원시 수준의 기술을 가지고 있습니다. 그러나 그 이상의 정보는 이 종족에게 접근하는 어리석은 이들이 한끼 식사거리가 되는 사실에 의해 알려지지 않았습니다. 이 종족 중 소수는 종종 음식, 혹은 자신들이 운반할 수 있는 다른 것을 훔쳐갑니다. 과거엔 무리지어 거주지를 습격하는 경우가 있었으나, 현재는 그런 현상이 발생하지 않습니다."
+
+d_drow_planetary_cp_klepto_fairies:0 "도벽성 요정"
+d_drow_planetary_cp_klepto_fairies_desc:0 "무리지어 날아다니는 작은 지각 생물체입니다. 본래 살아가던 숲이 파괴되었을 때 멸종되었다고 생각했습니다만, 놀랍게도 새로운 환경에 예상 이상으로 잘 적응했습니다. 이들은 높은 건물과 전신주 위에 자신들의 집을 만듭니다. 음식과 기술을 훔치고, 훔친 물건을 거래합니다. 행성 전역의 암시장 중 3/4 이상이 요정 하나 이상과 관련되어 있습니다."
+
+d_drow_planetary_feral_fairies_blocker:0 "£blocker£ 포식성 요정"
+d_drow_planetary_feral_fairies_blocker_desc:0 "$d_drow_planetary_feral_fairies_desc$"
+
+d_drow_planetary_glowing_forests:0 "빛나는 숲"
+d_drow_planetary_glowing_forests_desc:0 "화학성 물질로 빛을 내는 식물로 가득한 숲입니다. 생물 발광 식물은 대부분 육식성이기에, 겉으로 보기엔 아름다우나 접근하기엔 위험합니다. 어떤 식물종은 거대한 동물, 또는 조심성없이 다가간 지성체를 잡아먹습니다. 충분한 안전수칙을 기억한다면, 다양하고 독특한 성질을 가진 화합물을 생산하기 위해 식물을 수확하여 사용할 수 있습니다."
+
+d_drow_planetary_glowing_forests_blocker:0 "£blocker£ 빛나는 숲"
+d_drow_planetary_glowing_forests_blocker_desc:0 "$d_drow_planetary_glowing_forests_desc$"
+
+d_drow_planetary_cheel_krezust:0 "체'엘 크'레주스트"
+d_drow_planetary_cheel_krezust_desc:0 "피난선이 처음 착륙한 고대 유적지를 기반으로 하는 첫 도시입니다. 행성 전체에 걸쳐 지속적으로 확장한 결과 이곳은 이제 거대한 도시가 되었으며, 우리의 문화적인 수도가 되었습니다."
+
+d_drow_planetary_glowing_oceans:0 "빛나는 바다"
+d_drow_planetary_glowing_oceans_desc:0 "바다에 사는 플랑크톤이 밤에 약간의 방사선을 방출하며 아름다운 빛을 냅니다."
+
+## FALLEN EMPIRES ##
+
+d_drow_planetary_cheel_phalar_blocker:0 "£blocker£ 죽은 자의 도시"
+d_drow_planetary_cheel_phalar_blocker_desc:0 "행성의 대부분이 죽은 유골로 가득한 오래된 첨탑으로 가득합니다. 탐험가들이 이곳을 탐사할 때 이상한 일이 발생했습니다. 비정상적인 빈도의 장비 고장과 웃고, 울고, 비명지르는 동상까지. 과학자들은 탐험가들이 공포에 질려 환각을 보았다고 확신합니다. 그러나 모두가 동의하는 사실은, 이곳이 죽은 유골로 가득 차 있어 많은 건물을 철거한 후에야 사용할 수 있다는 것입니다. 많은 노력과 시간이 필요할 것입니다."
+
+d_drow_planetary_cheel_phalar_cursed:0 "죽은 자의 저주"
+d_drow_planetary_cheel_phalar_cursed_desc:0 "죽은 자의 도시를 철거하는 일은 힘든 일이었습니다. 장비 고장은 이제 놀랍지도 않습니다. 사태는 악화되었습니다. 뚜렷한 이유 없는 정전, 가끔 실종되는 개척자까지. 이제 모든 개척자가 실종되었습니다. 그러나 가끔 몇 분간 통신이 이어지고 있습니다. 누군가, 혹은 무엇인가가 이 사건의 배후에 서 있습니다만, 정확히 무엇인지 알 수 없습니다. 식민지가 공포에 질려있습니다. 다음에 어떤 문제가 발생할지도 알 수 없습니다."

@@ -1,0 +1,35 @@
+﻿l_english:
+ 
+ # ###################################
+ # Decisions
+ # ###################################
+ 
+
+decision_swap_mining_to_generator:0 "광물을 에너지 매장지로 변경"
+decision_swap_mining_to_generator_desc:0 "우리는 새로운 에너지원을 식별함으로써 해당지역의 채굴활동에서 벗어나게 되었습니다."
+ 
+decision_swap_farming_to_generator:0 "식량을 에너지 매장지로 변경"
+decision_swap_farming_to_generator_desc:0 "우리는 새로운 에너지원을 식별함으로써 해당지역의 농업활동에서 벗어나게 되었습니다."
+
+decision_swap_farming_to_mining:0 "식량을 광물 매장지로 변경"
+decision_swap_farming_to_mining_desc:0 "우리는 새로운 광맥을 식별함으로써 해당지역의 농업활동에서 벗어나게 되었습니다."
+
+decision_swap_generator_to_mining:0 "에너지를 광물 매장지로 변경"
+decision_swap_generator_to_mining_desc:0 "우리는 새로운 광맥을 식별함으로써 해당지역의 발전활동에서 벗어나게 되었습니다."
+
+decision_swap_generator_to_farming:0 "에너지를 식량 매장지로 변경"
+decision_swap_generator_to_farming_desc:0 "우리는 농업용 토지를 경작함으로써 해당지역의 발전활동에서 벗어나게 되었습니다."
+
+decision_swap_mining_to_farming:0 "광물을 식량 매장지로 변경"
+decision_swap_mining_to_farming_desc:0 "우리는 농업용 토지를 경작함으로써 해당지역의 채굴활동에서 벗어나게 되었습니다."
+
+ 
+ # ###################################
+ # Modifiers
+ # ###################################
+ 
+ #de_focus_energy:0 "$decision_set_planet_focus_energy$"
+ #de_focus_energy_desc:0 "$decision_set_planet_focus_energy_desc$"
+ 
+
+ # Terraforming

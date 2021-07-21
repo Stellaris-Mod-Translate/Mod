@@ -1,0 +1,404 @@
+﻿l_english:
+
+##################################################################################################################################################################################################################
+### COMPONENTS ###
+##################
+
+NSC_STRIKE_CRUISER_AURA_EMPTY:0 "빈 슬롯"
+NSC_TITAN_AURA_EMPTY:0 "빈 슬롯"
+NSC_FLAGSHIP_AURA_EMPTY:0 "빈 슬롯"
+SPECIAL_SLOT_EMPTY:0 "빈 슬롯"
+EXPLORATION_SLOT_EMPTY:0 "빈 슬롯"
+SPECIAL_NO_SEC_REACTOR:0 "빈 슬롯"
+NSC_SUPPORTSHIP_AURA_EMPTY:0 "빈 슬롯"
+
+nsc_supportship_aura:0 "지원 순양함 오라"
+nsc_supportship_aura_DESC:0 "지원 순양함을 위해 설계된 다양한 고급 오라 체계입니다."
+nsc_supportship_hull_aura:0 "지원 순양함 오라 - 선체"
+NSC_SUPPORTSHIP_HULL_AURA:0 "지원 순양함 오라 - 선체"
+nsc_supportship_upkeep_aura:0 "지원 순양함 오라 - 유지비"
+NSC_SUPPORTSHIP_UPKEEP_AURA:0 "지원 순양함 오라 - 유지비"
+nsc_supportship_ftl_aura:0 "지원 순양함 오라 - FTL"
+NSC_SUPPORTSHIP_FTL_AURA:0 "지원 순양함 오라 - FTL"
+nsc_supportship_armor_aura:0 "지원 순양함 오라 - 장갑"
+NSC_SUPPORTSHIP_ARMOR_AURA:0 "지원 순양함 오라 - 장갑"
+nsc_supportship_shield_aura:0 "지원 순양함 오라 - 보호막"
+NSC_SUPPORTSHIP_SHIELD_AURA:0 "지원 순양함 오라 - 보호막"
+nsc_supportship_invasion_aura:0 "지원 순양함 오라 - 침략"
+NSC_SUPPORTSHIP_INVASION_AURA:0 "지원 순양함 오라 - 침략"
+
+NSC_AI_COMBAT_COMPUTER:0 "인공지능 전투 체계"
+nsc_ai:0 "인공지능 전투 체계"
+NSC_AI_BEHAVIOR_DESC:0 "극도로 발달된 컴퓨터 시스템은 함선의 키를 조작할 필요 없이 함선 내의 모든 전투 시스템을 지능적으로 작동시킬 수 있습니다. 이는 전투 중 완벽한 이동 제어를 가능케 합니다.\n\n§G사용 방법:§! §B이 컴퓨터는 특정 종류의 함선에만 사용 가능하며 전투 중에 플레이어가 직접 이 함선의 움직임을 통제할 수 있습니다.\n\n이 컴퓨터를 장착한 함선들은§! §H반드시§! §B혼자 혹은 동일한 컴퓨터를 탑재한 함선들로만 함대를 구성해야 합니다. 이동 통제는 다른 전투 컴퓨터를 가진 다른 함선들과 혼합된 함대에서는 작동하지 않을 것입니다.\n\n이 부품을 탑재하면, 함대는 당신이 지정한 위치로 이동하여 무기 사정거리 내에 목표물이 있는 한 계속 발사할 것입니다.§! §H함대는 이동 지시를 내리기 전까지는 움직이지 않을 것입니다.§!"
+
+nsc_strike_cruiser_aura:0 "타격 순양함 전투 체계 I"
+nsc_strike_cruiser_aura_DESC:0 "이 전투 체계는 사정권에 들어온 적 함선을 포착해 도주나 전투 이탈을 막는 역할을 합니다. 열등하거나 회피적인 적들의 타격 후 이탈 전력을 방지하기 위한 필수품입니다."
+nsc_strike_cruiser_aura_2:0 "타격 순양함 전투 체계 II"
+NSC_STRIKE_CRUISER_AURA_2_DESC:0 "이 개선된 전투 체계는 이전 세대보다 훨씬 더 효과적입니다. 사정권 내의 모든 적은 탈출을 시도하는 동안 꽤 오랫동안 멈춰서 싸울 수 밖에 없을 것입니다."
+nsc_titan_aura:0 "함대 명령 네트워크"
+nsc_flagship_aura:0 "진보한 함대 명령 네트워크"
+
+NSC_STRIKE_CRUISER_AURA:0 "타격 순양함 전투 체계 I"
+NSC_STRIKE_CRUISER_AURA_2:0 "타격 순양함 전투 체계 II"
+NSC_TITAN_AURA:0 "함대 명령 네트워크"
+NSC_FLAGSHIP_AURA:0 "진보한 함대 명령 네트워크"
+
+special_ship_slot:0 "특수 부품"
+special_ship_slot_DESC:0 "특수 부품 슬롯입니다."
+
+exploration_ship_slot:0 "탐사 순양함 부품"
+exploration_ship_slot_DESC:0 "특별한 탐사 부품 슬롯입니다."
+
+hq_ftl_components:0 "사령부 점프 드라이브"
+hq_ftl_components_DESC:0 "사령부의 점프 드라이브를 위한 슬롯입니다."
+
+SPECIAL_SLOT_MULTIPHASIC_SENSORS:0 "다면 감지기"
+SPECIAL_SLOT_MULTIPHASIC_SENSORS_DESC:0 "이 첨단 센서들은 다면 생성기를 사용하여 센서 범위를 증가시키고, 멀리서 우주 공간의 예비 스캔을 실시함으로써 은하 지도의 자료를 빠르게 업데이트하고 추가합니다."
+SPECIAL_SLOT_DAMAGE_CONTROL:0 "손상 통제반"
+SPECIAL_SLOT_DAMAGE_CONTROL_DESC:0 "이 전문 승무원들은 전투 상황에서의 신속한 함선 수리 훈련을 받아 함선의 운항시간을 연장하고, 전투 후 수리를 위해 항성기지로 복귀할 필요성을 절감합니다."
+SPECIAL_SLOT_READY_ROOM:0 "함장 상황실"
+SPECIAL_SLOT_READY_ROOM_DESC:0 "거대한 함선을 지휘하는 것은 무거운 짐이며, 아무리 유능한 함장이라도 그 부담을 느낄 것입니다. 그래서 함장이 쉴 수 있는 개인 공간이면서 유사시 즉시 이용할 수 있는 상황실을 마련함으로써 함장의 정신건강과 휴식을 통한 지휘력의 향상시킬 수 있었습니다."
+SPECIAL_SLOT_CREW_LOUNGE:0 "승무원 휴게실"
+SPECIAL_SLOT_CREW_LOUNGE_DESC:0 "우주를 항해하는 함선에 장기간 탑승하면 승무원들은 큰 피로를 느낍니다. 그래서 승무원 휴게실 구역을 지정하여 스트레스를 해소하고 정신건강을 향상시켜 유사시 전투수행능력을 향상시키는 공간을 제공할 것입니다."
+SPECIAL_SLOT_FIRE_CONTROL:0 "화기 통제 체계"
+SPECIAL_SLOT_FIRE_CONTROL_DESC:0 "이 첨단 표적 시스템은 함선이 더 빠르고 정밀하게 사격 제원을 획득할 수 있게 하여 전투 중에 적 함선에게 더 큰 피해를 입힐 수 있게 합니다."
+SPECIAL_SLOT_STRUCTURAL_INTEGRITY:0 "구조무결성 역장"
+SPECIAL_SLOT_STRUCTURAL_INTEGRITY_DESC:0 "이 첨단 역장은 함선의 내부로부터 선체 구조를 강화시켜 함선이 격침되기 전까지 더 오랜 시간 동안 적의 공격을 견딜 수 있도록 합니다."
+SPECIAL_SLOT_AUXILIARY_SHIELDS:0 "보조 보호막 체계"
+SPECIAL_SLOT_AUXILIARY_SHIELDS_DESC:0 "이 보조 보호막 생성기는 전투 중에 함선의 방어막을 강화하여 적의 공격에 대한 방어를 더욱 탄력적으로 만듭니다."
+SPECIAL_SLOT_QUANTUM_THRUSTERS:0 "양자 추진기"
+SPECIAL_SLOT_QUANTUM_THRUSTERS_DESC:0 "이 양자 추진기는 유지비가 비싸고 전체적으로 함선의 마모와 손상을 증가시키지만 아광속 속도의 상당한 증가를 가능케하며 이로 인해 어떤 상황이 발생하더라도 우리 함대가 더 빠르게 대응할 수 있게 될 것입니다."
+SPECIAL_SLOT_DEFLECTOR_ARRAY:0 "전향장치 배열망"
+SPECIAL_SLOT_DEFLECTOR_ARRAY_DESC:0 "이 전향장치 배열망은 보호막 생성기의 부담을 완화시켜 전투 후 함선의 보호막이 더 빨리 재생될 수 있도록 하여 다음 전투에 대비할 수 있게 합니다. 이는 한 성계에서 연속적인 전투를 벌이는 상황에서는 승패를 가를 것입니다."
+SPECIAL_SLOT_KITCHEN_SINK:0 "주방 개수대"
+SPECIAL_SLOT_KITCHEN_SINK_DESC:0 "깨끗한 선원은 행복한 선원입니다. 행복한 선원은 강력합니다. 하지만 대체 왜 그게 전력을 소모하는진 모르겠군요."
+SPECIAL_SLOT_STELLAR_CARTOGRAPHY:0 "성간 지도 제작소"
+SPECIAL_SLOT_STELLAR_CARTOGRAPHY_DESC:0 "이 대형 시스템은 주변 공간 매핑에 사용되어 함선 컴퓨터의 FTL 점프 계산 및 복구 속도를 향상시킵니다."
+SPECIAL_SLOT_NAVIGATIONAL_ARRAY:0 "항법 시스템"
+SPECIAL_SLOT_NAVIGATIONAL_ARRAY_DESC:0 "이 첨단 3D 항법 시스템은 두 가지 기능을 제공합니다. 첫째로는 전투 중에 적 함선을 추적하는 무기 능력을 향상시키고, 둘째는 점프 드라이브가 탑재되어 있다면 점프 드라이브의 이동 거리를 늘리는 것입니다."
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM:0 "MARS 무기 시스템"
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM_DESC:0 "이 첨단 거점방어 무기 체계는 미사일, 어뢰, 타격기 등 매우 회피적인 목표물을 추적하고 매우 빠른 속도로 표적 제원을 입력하여 거점방어 무기의 공격 속도와 공격력을 높이도록 설계되었습니다."
+
+EXPLORATION_SLOT_ANOMALY_LAB:0 "이상현상 연구소"
+EXPLORATION_SLOT_ANOMALY_LAB_DESC:0 "이 실험실은 탐험 중의 이상 상을 연구하는데 전념하는 실험실입니다. 각각의 이상현상은 완전히 포괄적인 분석을 받아야 하지만, 발견해야 할 것은 너무 많고 시간은 적습니다. 이를 위해 실험실을 최적화함으로써 모든 이상현상 연구에 필요한 관심을 받으면서 연구 시간을 극적으로 단축시킬 수 있습니다."
+EXPLORATION_SLOT_SURVEY_LAB:0 "탐사 연구소"
+EXPLORATION_SLOT_SURVEY_LAB_DESC:0 "이 우주에는 너무나 많은 행성과 성계가 있고, 각각의 성계와 행성이 새로운 발견의 열쇠를 쥐고 있을지도 모릅니다. 낭비할 시간이 없는 우리에겐 이 전문 연구소가 같은 시간동안 더 많은 공간을 조사해 조사속도를 향상시킬 것입니다. 더 많은 조사는 더 많은 발견, 더 많은 모험 그리고 은하에 대한 더 많은 지식을 의미합니다."
+EXPLORATION_SLOT_ANALYSIS_LAB:0 "고급 분석 연구소"
+EXPLORATION_SLOT_ANALYSIS_LAB_DESC:0 "모든 이상현상은 본질적으로 이전의 이론들에 도전합니다. 그리고 과학에 진보에 있어서 이보다 더 가치있는 것은 없습니다. 우리는 어떠한 잠재적인 이상현상과 그들이 가지고 있는 비밀들을 놓칠 수 없습니다. 이 전문 연구소는 은하의 모든 이상현상을 찾을 수 있도록 할 것입니다."
+EXPLORATION_SLOT_ARCH_LAB:0 "고급 고고학 연구소"
+EXPLORATION_SLOT_ARCH_LAB_DESC:0 "이 실험실은 고고학 연구에 전념하고 있습니다. 고고학 발굴지는 상상을 불러일으키는 미지의 신비를 담고 있으며, 그것에 대한 모든 것을 전면적으로 분석할 수 있는 전용 연구실을 가질 자격이 있습니다."
+EXPLORATION_SLOT_STELLAR_CARTOGRAPHY:0 "성간 지도 제작소"
+EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_DESC:0 "이 대형 시스템은 주변 공간 매핑에 사용되어 함선 컴퓨터의 FTL 점프 계산 및 복구 속도를 향상시킵니다. 이 모델은 일반 군함에 사용되는 모델보다 훨씬 더 효과적이지만 까다로워서 시스템을 유지하는데 고도로 훈련된 과학관의 꾸준한 관리가 필요합니다."
+EXPLORATION_SLOT_QUANTUM_THRUSTERS:0 "양자 추진기"
+EXPLORATION_SLOT_QUANTUM_THRUSTERS_DESC:0 "탐사할 것이 너무나도 많아 조사 장소 사이를 이동하는데 소비되는 시간은 낭비입니다. 이 양자 추진기들은 함선을 빠르게 이동시키기 위해서 고안된 것으로, 함선이 항상 다음의 위대한 우주의 신비를 향해 빠르게 움직일 수 있게 합니다."
+EXPLORATION_SLOT_NAVIGATIONAL_ARRAY:0 "항법 시스템"
+EXPLORATION_SLOT_NAVIGATIONAL_ARRAY_DESC:0 "이 진보한 3D 항법 시스템은 센서 범위를 가능한 한 멀리 확장하도록 특별히 설계되어 있으며, 멀리 떨어진 공간의 예비 스캔을 실시함으로써 은하 지도의 자료를 빠르게 업데이트하고 추가합니다."
+EXPLORATION_SLOT_PHYSICS_LAB:0 "진보한 물리 연구실"
+EXPLORATION_SLOT_PHYSICS_LAB_DESC:0 "§H생산량:§! 10 물리 연구 점수\n이 첨단 연구소는 물질과 에너지의 비밀, 컴퓨터, 현장 조작 등 획기적인 물리학 연구를 진행하는 데 전념하고 있습니다."
+EXPLORATION_SLOT_SOCIETY_LAB:0 "진보한 사회학 연구실"
+EXPLORATION_SLOT_SOCIETY_LAB_DESC:0 "§H생산량:§! 10 사회학 연구 점수\n이 첨단 연구소는 사회학, 생물학, 철학, 군사 이론, 생명과 문화 등 획기적인 사회학 연구를 진행하는 데 전념하고 있습니다."
+EXPLORATION_SLOT_ENGINEERING_LAB:0 "진보한 공학 연구실"
+EXPLORATION_SLOT_ENGINEERING_LAB_DESC:0 "§H생산량:§! 10 공학 연구 점수\n이 첨단 연구소는 재료, 산업, 우주선, 추진기, 로봇 등 획기적인 공학 연구를 진행하는 데 전념하고 있습니다."
+
+EXPLORATION_SLOT_MINING_FACILITY:0 "소행성 채굴시설"
+EXPLORATION_SLOT_MINING_FACILITY_DESC:0 "§H생산량:§! 7 광물\n이 시설은 노후한 탐사 순양함을 첨단 채굴 플랫폼으로 개조할 수 있게 하며, 매달 소량의 광물을 생산합니다."
+
+EXPLORATION_SLOT_SOLAR_ARRAY:0 "태양광 발전망"
+EXPLORATION_SLOT_SOLAR_ARRAY_DESC:0 "§H생산량:§! 7 에너지\n이 이설은 노후한 탐사 순양함을 대형 태양 전지판과 배터리 시스템을 통해 태양광 발전망으로 개조할 수 있게 하며, 매달 소량의 에너지를 생산합니다."
+
+EXPLORATION_SLOT_ALLOY_REFINERY:0 "합금 주조소"
+EXPLORATION_SLOT_ALLOY_REFINERY_DESC:0 "§H생산량:§! 7 합금\n이 시설은 노후한 탐사 순양함을 현대식 합금 정제소로 개조할 수 있게 하며, 매달 소량의 합금을 생산합니다."
+
+FIGHTERS_HANGAR_PD_1:0 "기본 타격기 (PD)"
+FIGHTERS_HANGAR_PD_1_DESC:0 "기본 타격기가 모함과 함께 전투에 돌입합니다. 폭격기와 미사일을 요격하기 위해 모함 근처에 머무를 것입니다."
+FIGHTERS_HANGAR_PD_2:0 "개량된 타격기 (PD)"
+FIGHTERS_HANGAR_PD_2_DESC:0 "향상된 타격기는 적의 소형함과 타격기를 주 목표로 삼습니다. 폭격기와 미사일을 요격하기 위해 모함 근처에 머무를 것입니다."
+FIGHTERS_HANGAR_PD_3:0 "향상된 타격기 (PD)"
+FIGHTERS_HANGAR_PD_3_DESC:0 "개선된 타격기는 소규모 적 함대에 큰 피해를 입힐 수 있으며, 적함에 대항할 수 있습니다. 폭격기와 미사일을 요격하기 위해 모함 근처에 머무를 것입니다."
+
+LARGE_FIGHTERS_HANGAR_PD_1:0 "기본 타격기 (PD)"
+LARGE_FIGHTERS_HANGAR_PD_2:0 "개량된 타격기 (PD)"
+LARGE_FIGHTERS_HANGAR_PD_3:0 "향상된 타격기 (PD)"
+
+NSC_REACTOR_BOOSTER_1:0 "중력자 가속기"
+NSC_REACTOR_BOOSTER_1_DESC:0 "중력자 동력 기술을 사용하는 반응로 가속기입니다."
+NSC_REACTOR_BOOSTER_2:0 "나크아드리아 가속기"
+NSC_REACTOR_BOOSTER_2_DESC:0 "나크아드리아 동력 기술을 사용하는 반응로 가속기입니다."
+NSC_REACTOR_BOOSTER_3:0 "특이점 가속기"
+NSC_REACTOR_BOOSTER_3_DESC:0 "특이점 동력 기술을 사용하는 반응로 가속기입니다."
+
+CORVETTE_SENSOR:0 "초계함 정찰 감지기"
+CORVETTE_SENSOR_DESC:0 "이 특별한 센서는 초계함급 함선이 과학선을 보내기 전에 성계의 위협을 정찰할 수 있게 해줄 것입니다."
+
+NSC_BOMBARDMENT_1:0 "개선된 폭격"
+NSC_BOMBARDMENT_1_DESC:0 "함선에 행성을 더 빠르게 초토화할 수 있는 개선된 무기를 장비할 수 있습니다."
+NSC_BOMBARDMENT_2:0 "발전된 폭격"
+NSC_BOMBARDMENT_2_DESC:0 "함선에 행성을 더 빠르게 초토화할 수 있는 개선된 무기를 장비할 수 있습니다."
+NSC_BOMBARDMENT_3:0 "진보한 폭격"
+NSC_BOMBARDMENT_3_DESC:0 "함선에 행성을 더 빠르게 초토화할 수 있는 개선된 무기를 장비할 수 있습니다."
+
+NSC_NANITE_FIELD:0 "나노봇 군집"
+nsc_nanite_aura:0 "나노봇 군집"
+nsc_starbase_nanite_aura:0 "나노봇 군집"
+nsc_starbase_nanite_aura_DESC:0 "분자 결합을 방해하여 적 함선의 장갑을 갉아먹는 첨단 나노봇 무리입니다."
+sm_nsc_nanite_field:0 "나노봇 제조소"
+sm_nsc_nanite_field_desc:0 "이 시설에서는 분자 결합을 방해하여 적 함선의 장갑을 갉아먹는 첨단 나노봇을 제작, 보관, 배치합니다."
+
+FLAGSHIP_JUMP_DRIVE:0 "기함 점프 드라이브"
+FLAGSHIP_JUMP_DRIVE_DESC:0 "기함의 점프 드라이브는 성계간에 거의 즉각적으로 움직힐 수 있도록 현실에 함선 크기의 거대한 구멍을 뚫습니다. 이 과정에서 점프 드라이브를 통해 함선이 이동하는 공간이 무엇인진 아직 파악되지 않았습니다."
+
+HEADQUARTERS_JUMP_DRIVE:0 "사령부 점프 드라이브"
+HEADQUARTERS_JUMP_DRIVE_DESC:0 "사령부 점프 드라이브는 현실 구조에 함선 크기의 구멍을 뚫어 성계간의 거의 즉각적인 이동을 가능케 합니다. 사령부 스테이션의 거대한 크기와 엄청난 중량 때문에 이 드라이브는 충전 시간이 매우 길고 산발적으로만 사용할 수 있습니다."
+
+
+
+##################################################################################################################################################################################################################
+### REACTORS ###
+################
+
+### FISSION REACTORS ###
+STRIKECRUISER_FISSION_REACTOR:0 "$FISSION_REACTOR$"
+BATTLECRUISER_FISSION_REACTOR:0 "$FISSION_REACTOR$"
+CARRIER_FISSION_REACTOR:0 "$FISSION_REACTOR$"
+DREADNOUGHT_FISSION_REACTOR:0 "$FISSION_REACTOR$"
+
+### FUSION REACTORS ###
+STRIKECRUISER_FUSION_REACTOR:0 "$FUSION_REACTOR$"
+BATTLECRUISER_FUSION_REACTOR:0 "$FUSION_REACTOR$"
+CARRIER_FUSION_REACTOR:0 "$FUSION_REACTOR$"
+DREADNOUGHT_FUSION_REACTOR:0 "$FUSION_REACTOR$"
+
+### COLD FUSION REACTORS ###
+STRIKECRUISER_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
+BATTLECRUISER_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
+CARRIER_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
+DREADNOUGHT_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
+
+### ANTIMATTER REACTORS ###
+STRIKECRUISER_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
+BATTLECRUISER_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
+CARRIER_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
+DREADNOUGHT_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
+
+### ZERO POINT REACTOR ###
+STRIKECRUISER_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
+BATTLECRUISER_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
+CARRIER_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
+DREADNOUGHT_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
+
+### DARK MATTER REACTOR ###
+STRIKECRUISER_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
+BATTLECRUISER_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
+CARRIER_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
+DREADNOUGHT_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
+
+### GRAVITON REACTORS ###
+CORVETTE_GRAVITON_REACTOR:0 "중력자 반응로"
+DESTROYER_GRAVITON_REACTOR:0 "중력자 반응로"
+CRUISER_GRAVITON_REACTOR:0 "중력자 반응로"
+STRIKECRUISER_GRAVITON_REACTOR:0 "중력자 반응로"
+BATTLECRUISER_GRAVITON_REACTOR:0 "중력자 반응로"
+BATTLESHIP_GRAVITON_REACTOR:0 "중력자 반응로"
+DREADNOUGHT_GRAVITON_REACTOR:0 "중력자 반응로"
+TITAN_GRAVITON_REACTOR:0 "중력자 반응로"
+PLATFORM_GRAVITON_REACTOR:0 "중력자 반응로"
+STATION_GRAVITON_REACTOR:0 "중력자 반응로"
+FORTRESS_GRAVITON_REACTOR:0 "중력자 반응로"
+
+GRAVITON_REACTOR:0 "중력자 반응로"
+GRAVITON_REACTOR_DESC:0 "반물질 반응을 강화하기 위한 중력자 투입을 통해 반응로의 에너지 생산량을 크게 증가시킵니다."
+
+### NAQUADRIA REACTORS ###
+CORVETTE_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+DESTROYER_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+CRUISER_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+STRIKECRUISER_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+BATTLECRUISER_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+BATTLESHIP_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+DREADNOUGHT_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+TITAN_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+PLATFORM_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+STATION_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+FORTRESS_NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+
+NAQUADRIA_REACTOR:0 "나크아드리아 반응로"
+NAQUADRIA_REACTOR_DESC:0 "고대의 희귀한 수정에서 동력을 공급받는 반응로입니다."
+
+### SINGULARITY REACTORS ###
+CORVETTE_SINGULARITY_REACTOR:0 "특이점 반응로"
+DESTROYER_SINGULARITY_REACTOR:0 "특이점 반응로"
+CRUISER_SINGULARITY_REACTOR:0 "특이점 반응로"
+STRIKECRUISER_SINGULARITY_REACTOR:0 "특이점 반응로"
+BATTLECRUISER_SINGULARITY_REACTOR:0 "특이점 반응로"
+BATTLESHIP_SINGULARITY_REACTOR:0 "특이점 반응로"
+DREADNOUGHT_SINGULARITY_REACTOR:0 "특이점 반응로"
+TITAN_SINGULARITY_REACTOR:0 "특이점 반응로"
+PLATFORM_SINGULARITY_REACTOR:0 "특이점 반응로"
+STATION_SINGULARITY_REACTOR:0 "특이점 반응로"
+FORTRESS_SINGULARITY_REACTOR:0 "특이점 반응로"
+
+SINGULARITY_REACTOR:0 "특이점 반응로"
+SINGULARITY_REACTOR_DESC:0 "인공 블랙홀에서 동력을 공급받는 반응로입니다."
+
+### MULTI DIMENSIONAL REACTORS ###
+CORVETTE_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+DESTROYER_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+CRUISER_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+STRIKECRUISER_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+BATTLECRUISER_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+BATTLESHIP_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+DREADNOUGHT_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+TITAN_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+PLATFORM_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+STATION_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+FORTRESS_MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+
+MULTIDIMENSIONAL_REACTOR:0 "다차원 반응로"
+MULTIDIMENSIONAL_REACTOR_DESC:0 "다른 차원, 다른 현실 사이에 물질이 이동할 수 있는 통로를 만드는 기술을 통해 다소 제한적이나마 반응로에 동력을 공급하기 위한 진공 에너지의 흐름을 이용할 수 있습니다"
+
+### OPTIMIZED DARK MATTER REACTORS ###
+CORVETTE_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+DESTROYER_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+CRUISER_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+STRIKECRUISER_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+BATTLECRUISER_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+BATTLESHIP_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+DREADNOUGHT_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+TITAN_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+PLATFORM_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+STATION_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+FORTRESS_OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+
+OPTIMIZED_ENIGMATIC_REACTOR:0 "최적화된 암흑 물질 반응로"
+OPTIMIZED_ENIGMATIC_REACTOR_DESC:0 "과학자들의 연구와 수수께끼의 요새에서 찾아냈던 지식을 이용해, 이 불안정하고 이상한 입자를 만들어낼 위험 없이 우주 공간에서 직접적으로 영점 에너지를 채취할 수 있게 되었습니다. 따라서 에너지의 흐름을 제어하는 능력만으로, 지속적인 에너지 통제가 가능해졌습니다."
+ 
+### SPECIAL REACTORS ###
+FLAGSHIP_BLACK_HOLE_REACTOR_1:0 "블랙홀 반응로"
+FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC:0 "인공 블랙홀에서 동력을 공급받는 반응로입니다."
+FLAGSHIP_BLACK_HOLE_REACTOR_2:0 "블랙홀 반응로 II"
+FLAGSHIP_BLACK_HOLE_REACTOR_2_DESC:0 "인공 블랙홀에서 동력을 공급받는 반응로입니다."
+FLAGSHIP_BLACK_HOLE_REACTOR_3:0 "블랙홀 반응로 III"
+FLAGSHIP_BLACK_HOLE_REACTOR_3_DESC:0 "인공 블랙홀에서 동력을 공급받는 반응로입니다."
+CITADEL_DARK_MATTER_REACTOR:0 "암흑 물질 반응로"
+
+### DEFENSE STATION SECONDARY REACTORS ###
+STATION_FISSION_REACTOR:0 "2차 핵분열 반응로"
+STATION_FUSION_REACTOR:0 "2차 핵융합 반응로"
+STATION_COLD_FUSION_REACTOR:0 "2차 상온 핵융합 반응로"
+STATION_ANTIMATTER_REACTOR:0 "2차 반물질 반응로"
+STATION_ZERO_POINT_REACTOR:0 "2차 영점 반응로"
+
+### DEFENSE FORTRESS SECONDARY REACTORS ###
+FORTRESS_FISSION_REACTOR:0 "2차 핵분열 반응로"
+FORTRESS_FUSION_REACTOR:0 "2차 핵융합 반응로"
+FORTRESS_COLD_FUSION_REACTOR:0 "2차 상온 핵융합 반응로"
+FORTRESS_ANTIMATTER_REACTOR:0 "2차 반물질 반응로"
+FORTRESS_ZERO_POINT_REACTOR:0 "2차 영점 반응로"
+
+XL_CANNON_ZERO_POINT_REACTOR:0 "절멸자포 영점 반응로"
+XL_CANNON_DARK_MATTER_REACTOR:0 "절멸자포 암흑물질 반응로"
+
+T_CANNON_DARK_MATTER_REACTOR:0 "말살자포 암흑물질 반응로"
+
+
+##################################################################################################################################################################################################################
+### THRUSTERS ###
+#################
+
+### LEVEL 1 ###
+STRIKECRUISER_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+STRIKECRUISE_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+BATTLECRUISER_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+CARRIER_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+CARRIER_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+DREADNOUGHT_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+FLAGSHIP_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+FLAGSHIP_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+
+### LEVEL 2 ###
+STRIKECRUISER_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+STRIKECRUISERSHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+BATTLECRUISER_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+CARRIER_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+CARRIER_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+DREADNOUGHT_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+FLAGSHIP_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+FLAGSHIP_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+
+### LEVEL 3 ###
+STRIKECRUISER_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+STRIKECRUISER_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+BATTLECRUISER_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+CARRIER_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+CARRIER_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+DREADNOUGHT_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+FLAGSHIP_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+FLAGSHIP_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+
+### LEVEL 4 ###
+STRIKECRUISER_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+STRIKECRUISER_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+BATTLECRUISER_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+CARRIER_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+CARRIER_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+DREADNOUGHT_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+FLAGSHIP_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+FLAGSHIP_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+
+### LEVEL 5 ###
+STRIKECRUISER_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+STRIKECRUISER_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+BATTLECRUISER_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+CARRIER_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+CARRIER_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+DREADNOUGHT_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+FLAGSHIP_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+FLAGSHIP_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+
+
+##################################################################################################################################################################################################################
+### WEAPONS ###
+###############
+
+PERDITION_BEAM_FLAGSHIP:0 "정의의 집행자"
+PERDITION_BEAM_FLAGSHIP_DESC:0 "가장 거대한 함선을 위한 가장 거대한 무기입니다. 별로 크지 않은 지도자에겐 충분한 보상이 될 겁니다."
+
+PERDITION_BEAM_STARBASE:0 "원자상 분해기"
+PERDITION_BEAM_STARBASE_DESC:0 "적들을 원자로 분해해 버리는 무기입니다."
+
+XL_BEAM_STARBASE:0 "편광 전자 변조기"
+XL_BEAM_STARBASE_DESC:0 "원자상 분해기의 두배 정도의 화력에 차지하는 공간은 절반 정도인 무기입니다."
+
+BASIC_XL_BEAM:0 "시험형 에너지 랜스"
+BASIC_XL_BEAM_DESC:0 "시험형 에너지 랜스입니다. 랜스의 실용성을 입증하기 위해 만들어진 시험형 무기로, 다음 세대에 비해 화력이 약하지만 전략자원을 필요로 하지 않습니다."
+
+BASIC_T_BEAM:0 "시험형 천벌 광선"
+BASIC_T_BEAM_DESC:0 "시험형 천벌 광선은 타이탄급 무기의 초기형으로, 그 크기와 위용에 비해선 사실 파괴력이 부족한 편입니다. 그런만큼 전략자원은 필요로 하지 않습니다."
+
+TOMAHAWK_CRUISE_MISSILE:0 "토마호크 순항 미사일"
+TOMAHAWK_CRUISE_MISSILE_DESC:0 "매우 긴 사거리와 강력한 화력을 자랑하지만 매우 비싼 대 주력함 미사일입니다. 방위 거점이나 사정거리가 긴 함선에 매우 유용한 무기입니다."
+
+HARPOON_CRUISE_MISSILE:0 "하푼 순항 미사일"
+HARPOON_CRUISE_MISSILE_DESC:0 "토마호크 순항 미사일의 작은 파생형인 하푼 순항 미사일은 토마호크 미사일의 사정거리와 파괴력을 약간 줄인 대신 속도와 회피율을 높였습니다."
+
+BATTLESHIP_SNIPER_GUN_1:0 "전자기 유동 기관포"
+BATTLESHIP_SNIPER_GUN_1_DESC:0 "이 특화 고속 포탑은 민첩한 초계함에 대항하기 위해 설계되었습니다. 장거리에서도 높은 정밀도를 보장합니다만, 튼튼한 함선이라면 충분히 맞으면서 버틸 수 있습니다."
+
+BATTLESHIP_SNIPER_GUN_2:0 "광양자 유동 기관포"
+BATTLESHIP_SNIPER_GUN_2_DESC:0 "이 특화된 고속 포탑은 민첩한 초계함에 대항하기 위해 설계되었습니다. 장거리에서도 높은 정밀도를 보장합니다만, 튼튼한 함선이라면 충분히 맞으면서 버틸 수 있습니다."
+
+NSC_BB_SNIPER:0 "전자기 유동 기관포"
+NSC_BB_SNIPER_DESC:0 "이 특화된 고속 포탑은 민첩한 초계함에 대항하기 위해 설계되었습니다. 장거리에서도 높은 정밀도를 보장합니다만, 튼튼한 함선이라면 충분히 맞으면서 버틸 수 있습니다."
+
+NSC_BB_SNIPER_2:0 "광양자 유동 기관포"
+NSC_BB_SNIPER_2_DESC:0 "이 특화된 고속 포탑은 민첩한 초계함에 대항하기 위해 설계되었습니다. 장거리에서도 높은 정밀도를 보장합니다만, 튼튼한 함선이라면 충분히 맞으면서 버틸 수 있습니다."

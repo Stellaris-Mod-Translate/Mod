@@ -1,0 +1,28 @@
+﻿l_english:
+ 
+ decision_make_xeno_preserve:0 "기획: 외계종 보호구역 건설"
+ decision_make_xeno_preserve_desc:0 "우리 은하의 지성있는 종의 다양성을 보호하기 위해 외계종 보호구역을 만드는 것은 오랜 시간동안 우리의 숙원이었습니다."
+
+ decision_abolish_xeno_preserve:0 "외계종 보호구역 제거"
+ decision_abolish_xeno_preserve_desc:0 "이 행성의 외계종 보호구역을 제거할 것입니다."
+ 
+ decision_planet_fe_buildings_boost:0 "자동화 시설 오버클럭"
+ decision_planet_fe_buildings_boost_desc:0 "자동화 시설은 오버클럭을 통해 생산량을 더욱 증가시킬 수 있습니다."
+ 
+ decision_artifact_search:0 "고대 유물 수집"
+ decision_artifact_search_desc:0 "몰락 제국의 행성에는 그들의 박물관과 무덤에 수많은 유물들을 보관하고 있으며, 그들의 비밀을 밝혀낼 가치가 있는 이들에게 수집되기를 기다리고 있습니다."
+
+ decision_fe_xeno_preserve_no_districts:0 "£trigger_no£ The planet must be unspoiled by district and building development."
+ 
+ 
+ edict_rejuvenate_society:0 "활기 넘치는 사회"
+ edict_rejuvenate_society_desc:0 "우리의 적들로 가득 찬 은하계에서, 우리는 현실에 안주할 여유가 없습니다. 사회적 퇴폐를 뿌리뽑아 국가에 활력을 되찾아주기 위한 캠페인이 전개되고 있습니다."
+ 
+ edict_punishment_protocols:0 "$unity_ambition$ 응징 절차"
+ edict_punishment_protocols_desc:0 "우리의 명백한 힘에 굴복하지 않는 이들을 위해, 응징 절차를 시행할 때가 왔습니다. 우리는 그들의 모든 전술과 약점을 알고 있으며, 이를 입증할 준비가 되었습니다."
+ 
+ edict_artifacts_acquisition:0 "$unity_ambition$ 골동품 비축"
+ edict_artifacts_acquisition_desc:0 "제국의 곳곳에서 필요한 모든 수단을 이용해 골동품을 수집할 수 있도록 하여, 중요한 발견을 할 때마다 보너스를 받을 수 있게 합니다. 고대 지식에 대한 우리의 열망은 반드시 충족되어야 합니다."
+ 
+ mod_country_base_minor_artifacts_produces_add:0 "월간 £minor_artifacts£ 골동품"
+ 
