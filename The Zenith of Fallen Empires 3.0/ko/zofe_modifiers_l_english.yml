@@ -1,0 +1,48 @@
+﻿l_english:
+ 
+ 
+ inspiring_warlord:0 "고무시키는 전쟁군주"
+ inspiring_warlord_desc:0 "통치자는 제국이 싸우도록 격려합니다."
+ 
+ demilitarized_state:0 "비무장 국가"
+ demilitarized_state_desc:0 "이 국가는 비무장 상태로, 전개할 수 있는 함선의 수가 제한됩니다."
+ 
+ new_world_order:0 "신세계의 질서"
+ new_world_order_desc:0 "새로운 질서를 따르는 효과를 겪고 있는 사회."
+ 
+ democratized_utopia:0 "민주화된 낙원"
+ democratized_utopia_desc:0 "이곳은 분명 민주화된 낙원이다."
+ 
+ fe_satrapy:0 "태수령"
+ fe_satrapy_desc:0 "태수령으로서, 우리는 국민을 일정수 군인으로 모집해 종주국에게 보낼 의무가 있습니다."
+ 
+ the_preserve:0 "보존구역"
+ the_preserve_desc:0 "이 행성은 광범위한 생태계를 수용하고, 거대한 외계인 보존 프로젝트를 형성합니다."
+ 
+ has_preserve_world_planet:0 "외계인 보존"
+ has_preserve_world_planet_desc:0 "우리는 이미 우리의 가이아 행성을 보존구역으로 지정했습니다."
+ 
+ op_vs_plebs:0 "강자 vs 서민"
+ op_vs_plebs_desc:0 "우린 그들의 비밀, 결점, 약점을 모두 알고 있습니다."
+ 
+ auxiliary_overlord: "보조 보너스"
+ auxiliary_overlord_desc:0 "우리의 보조 유닛은 차세대 기계를 조립하는 능력을 크게 향상시켜줍니다."
+ 
+ fe_xeno_preserve:0 "외계인 보존구역"
+ fe_xeno_preserve_desc:0 "은하계 전체에서 지적 생명체를 광범위하게 수집해 보호하기 위해 디자인된 거대한 복합단지입니다."
+ 
+ ai_debug_ascend:0 "초월 제국"
+ ai_debug_ascend_desc:0 "초월 제국은 은하계에 막대한 영향력을 행사합니다."
+ 
+ pm_planet_fe_buildings_boost:0 "자동화 시설 오버클럭"
+ pm_planet_fe_buildings_boost_desc:0 "자동화 산업 시설을 오버클럭하여 20%의 추가 생산량을 제공합니다."
+ planet_fe_buildings_boost:0 "자동화 시설 산출량: §G+20%§!"
+ 
+ pm_Utopian_Paradise:0 "유토피아 낙원"
+
+ mod_damage_vs_country_type_ascended_empire_mult:0 "초월 제국에 대한 피해"
+ 
+ mod_planet_priests_physics_research_produces_add:0 "£job_priest£ $job_priest_plural$로부터 £physics£ $physics_research$"
+ mod_planet_priests_society_research_produces_add:0 "£job_priest£ $job_priest_plural$로부터 £society£ $society_research$"
+ mod_planet_priests_engineering_research_produces_add:0 "£job_priest£ $job_priest_plural$로부터 £engineering£ $engineering_research$"
+ 

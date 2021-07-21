@@ -1,0 +1,36 @@
+﻿l_english:
+
+ BSW_SWARM_BEHAVIOR_DESC:0 "$SWARM_BEHAVIOR_DESC$"
+ BSW_PICKET_BEHAVIOR_DESC:0 "§H초계 전술:§! 함선이 근거리(§Y$BSW_RANGE_30$§!)로 전진하여 적을 요격하려 시도할 것입니다."
+ BSW_LINE_BEHAVIOR_DESC:0 "§H전열 전술:§! 함선이 중거리(§Y$BSW_RANGE_50$§!)를 유지하면서 전진하고 대형을 유지할 것입니다."
+ BSW_LINE_BIGSHIP_BEHAVIOR_DESC:0 "§H전열 전술:§! 함선이 중거리(§Y$BSW_RANGE_80$§!)를 유지하면서 전진하고 대형을 유지할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_80$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_PLATFORM_BEHAVIOR_DESC:0 "$PLATFORM_BEHAVIOR_DESC$"
+
+ BSW_CARRIER_ALT_BEHAVIOR_DESC:0 "§H모함 전술:§! 함선은 전투 중 현 위치를 유지할 것입니다."
+ BSW_MAX_BEHAVIOR_DESC:0 "§H장거리 전술:§! 함선이 탑재된 무기의 최대 사거리에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+
+ BSW_ARTILLERY_BEHAVIOR_080_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_80$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+
+ BSW_ARTILLERY_BEHAVIOR_088_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_88$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_096_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_96$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_104_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_104$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_112_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_112$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_120_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_120$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_128_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_128$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_136_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_136$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_144_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_144$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_152_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_152$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_160_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_160$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ 
+ BSW_ARTILLERY_BEHAVIOR_100_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_100$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_110_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_110$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ # BSW_ARTILLERY_BEHAVIOR_120_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_120$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_130_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_130$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_140_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_140$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_150_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_150$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ # BSW_ARTILLERY_BEHAVIOR_160_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_160$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_170_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_170$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_180_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_180$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_190_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_190$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."
+ BSW_ARTILLERY_BEHAVIOR_200_DESC:0 "§H포격 전술:§! 함선이 장거리(§Y$BSW_RANGE_200$§!)에 머무르면서 목표에 장거리 무기를 발사할 것입니다."

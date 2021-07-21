@@ -1,0 +1,511 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # Vanilla Missing Localisation
+ # Habitat Infrastructure
+ # Ringworld Infrastructure
+ # Blockers
+ # Space Deposits
+ # Planet Wonders
+ # Features Events & Relics
+ # Features Habitable Worlds
+ # Features Relic and Ecu worlds
+ # Features Machine Worlds
+ # Features Hive Worlds
+ # Features Precursor Worlds
+ #######################################
+ 
+ gpm_d_mineral_1p5:0 "£minerals£ §Y+1.5§!"
+ gpm_d_triple_science:0 "£physics_research §Y+2§! £society_research §Y+2§! £engineering_research §Y+2§!"
+ gpm_d_double_science_phy_soc:0 "£physics_research §Y+3§! £society_research §Y+2§!"
+ gpm_d_double_science_soc_phy:0 "£physics_research §Y+2§! £society_research §Y+3§!"
+ gpm_d_double_science_phy_eng:0 "£physics_research §Y+3§! £engineering_research §Y+2§!"
+ gpm_d_double_science_eng_phy:0 "£physics_research §Y+2§! £engineering_research §Y+3§!"
+ gpm_d_double_science_soc_eng:0 "£society_research §Y+3§! £engineering_research §Y+2§!"
+ gpm_d_double_science_eng_soc:0 "£society_research §Y+2§! £engineering_research §Y+3§!"
+ 
+ #######################################
+ #### Vanilla Missing Localisation
+ #######################################
+ d_infestation:0 "감염 지대"
+ d_infestation_desc:0 "접촉하는 모든 것을 잡아먹고 빠르게 성장하는 많은 촉수와 미끌미끌한 종류의 이끼가 들끓는 드넓은 지역입니다."
+ 
+ #######################################
+ #### Habitat Infrastructure
+ #######################################
+ gpm_d_moon_mining_infrastructure:0 "위성 채광 시설"
+ gpm_d_moon_mining_infrastructure_desc:0 "인근 위성의 채광작업을 보조하는 전문화된 시설입니다."
+
+ gpm_d_asteroid_mining_infrastructure:0 "소행성 채광 시설"
+ gpm_d_asteroid_mining_infrastructure_desc:0 "소행성 채광작업을 보조하는 전문화된 시설입니다." 
+
+ gpm_d_orbital_research_infrastructure:0 "궤도 연구 시설"
+ gpm_d_orbital_research_infrastructure_desc:0 "행성의 연구를 보조하는 전문화된 시설입니다."
+ 
+ gpm_d_archeology_infrastructure:0 "고고학 연구 시설"
+ gpm_d_archeology_infrastructure_desc:0 "행성의 고고학 탐사를 보조하는 전문화된 시설입니다."
+ 
+ gpm_d_archeology_precursor_infrastructure:0 "선구자 고고학 연구 시설"
+ gpm_d_archeology_precursor_infrastructure_desc:0 "행성의 고고학 탐사를 보조하는 전문화된 시설입니다."
+ 
+ gpm_d_time_research_infrastructure:0 "크로노톤 연구 시설"
+ gpm_d_time_research_infrastructure_desc:0 "크로노톤 입자에 대한 연구를 진행하는 전문화된 시설입니다."
+
+ gpm_d_alloy_mining_infrastructure:0 "합금 채광 시설"
+ gpm_d_alloy_mining_infrastructure_desc:0 "행성으로부터 매우 희귀한 합금 추출을 보조하는 전문화된 시설입니다."
+
+ gpm_d_mineral_mining_infrastructure:0 "광물 채광 시설"
+ gpm_d_mineral_mining_infrastructure_desc:0 "광범위한 행성 채광을 보조하는 전문화된 시설입니다."
+
+ gpm_d_particle_collecting_infrastructure:0 "입자 수집 시설"
+ gpm_d_particle_collecting_infrastructure_desc:0 "가스와 입자를 수집하는 것을 보조하는 전문화된 시설입니다."
+
+ gpm_d_spice_collecting_infrastructure:0 "생물종 수집 시설"
+ gpm_d_spice_collecting_infrastructure_desc:0 "행성에서 생물종을 수집하는 것을 보조하는 전문화된 시설입니다."
+
+ gpm_d_alien_egg_infrastructure:0 "외계 생물 종자 보관 시설"
+ gpm_d_alien_egg_infrastructure_desc:0 "행성에서 발견된 생물종을 보관하는 전문화된 시설입니다."
+
+ gpm_add_moon_mining_infrastructure:0 "행성 특징: §H$gpm_d_moon_mining_infrastructure$§!"
+ gpm_add_asteroid_mining_infrastructure:0 "행성 특징: §H$gpm_d_asteroid_mining_infrastructure$§!"
+ gpm_add_orbital_research_infrastructure:0 "행성 특징: §H$gpm_d_orbital_research_infrastructure$§!"
+ gpm_add_archeology_infrastructure:0 "행성 특징: §H$gpm_d_archeology_infrastructure$§!"
+ gpm_add_archeology_precursor_infrastructure:0 "행성 특징: §H$gpm_d_archeology_precursor_infrastructure$§!"
+ gpm_add_time_research_infrastructure:0 "행성 특징: §H$gpm_d_time_research_infrastructure$§!"
+ gpm_add_alloy_mining_infrastructure:0 "행성 특징: §H$gpm_d_alloy_mining_infrastructure$§!"
+ gpm_add_mineral_mining_infrastructure:0 "행성 특징: §H$gpm_d_mineral_mining_infrastructure$§!"
+ gpm_add_particle_collecting_infrastructure:0 "행성 특징: §H$gpm_d_particle_collecting_infrastructure$§!"
+ gpm_add_spice_collecting_infrastructure:0 "행성 특징: §H$gpm_d_spice_collecting_infrastructure$§!"
+ gpm_add_alien_egg_infrastructure:0 "행성 특징: §H$gpm_d_alien_egg_infrastructure$§!"
+ 
+ #######################################
+ #### Ringworld Infrastructure
+ #######################################
+ 
+ #######################################
+ #### Blockers
+ #######################################
+ gpm_tb_toxic_gas:0 "£blocker£ 독성 가스 구름"
+ gpm_tb_toxic_gas_desc:0 "거대한 독성 가스 구름이 부드럽게 떠다니고 있는 지역입니다. 이곳에 건물을 짓는 것은 자살행위입니다."
+
+ gpm_tb_locust_plagues:0 "£blocker£ 포식하는 벌레떼"
+ gpm_tb_locust_plagues_desc:0 "이 생물체들은 관찰된 다른 곤충 종보다 훨씬 더 끔찍하고 무섭게 보일뿐만 아니라 이파리가 있는 모든 것에 대한 끝없는 식욕을 가지고 있는 것처럼 보입니다. 이것들을 없애는 것이 바람직하지만, 이것들을 제거하려면 화염보다도 더한 것이 필요할 것입니다."
+ 
+ gpm_tb_seasonal_flooding:0 "£blocker£ 빈번한 범람원"
+ gpm_tb_seasonal_flooding_desc:0 "이 땅은 이곳에 정착하는 것은 현명하지 못하다고 생각될 정도로 주기적으로 범람하는 지역입니다. 땅과 인접한 강을 개발하고 홍수를 예방하는 둑과 장벽을 건설하여 강이 범람하지 않도록 하는 것이 적극 권장됩니다."
+
+ gpm_tb_xenomorph_blocker:0 "£blocker£ 배회하는 제노모프"
+ gpm_tb_xenomorph_blocker_desc:0 "이빨과 발톱, 그리고 무엇이든지 죽이고 싶어하는 본능적인 충동만으로 이루어진 공포스럽고 굶주린 '제노모프'라 불리는 동물들입니다."
+
+ gpm_tb_ringworld_blocker:0 "£blocker£ 파괴된 기반시설"
+ gpm_tb_ringworld_blocker_desc:0 "$d_tomb_world_wasteland_desc$"
+
+ gpm_tb_deep_caverns:0 "깊은 균열"
+ gpm_tb_deep_caverns_desc:0 "길고 가늘게 구불거리며 바닥이 보이지 않을 정도로 깊은 지표면의 균열입니다."
+
+ gpm_tb_deprecated_infrastructure:0 "버려진 기반시설"
+ gpm_tb_deprecated_infrastructure_desc:0 "오래전에 잊혀지고 수리되지 않은 채 버려진 건물, 교량, 도로입니다."
+
+ gpm_tb_volatile_gasses:0 "독성 가스 식물"
+ gpm_tb_volatile_gasses_desc:0 "치명적인 독성 가스물질을 방출하는 외계 식물입니다."
+
+ gpm_tb_volatile_motes:0 "휘발성 식물"
+ gpm_tb_volatile_motes_desc:0 "어디에서나 자랄 수 있을 것 같은 가연성의 폭발성 식물입니다."
+
+ gpm_tb_volatile_crystals:0 "수정 결정화 식물"
+ gpm_tb_volatile_crystals_desc:0 "자생하는 토양을 수정 결정화 시키는 독특한 식물입니다."
+
+ gpm_tb_swamp_resources:0 "끈적끈적한 늪"
+ gpm_tb_swamp_resources_desc:0 "넓은 지역을 뒤덮고 있는 악취가 진동하는 끈적끈적한 늪입니다."
+
+ gpm_tb_ocean_resources:0 "심해 광상"
+ gpm_tb_ocean_resources_desc:0 "심해의 광물 광상입니다."
+
+ gpm_tb_forest_resources:0 "빽빽한 열대우림"
+ gpm_tb_forest_resources_desc:0 "귀중한 광물과 물질이 있는 빽빽한 숲입니다."
+
+ gpm_tb_automated_turrets:0 "자동화된 포탑"
+ gpm_tb_automated_turrets_desc:0 "움직이는 모든 것을 향해 사격하는 치명적인 자동 포탑입니다."
+ 
+ gpm_tb_crystal_growth_resources:0 "거대 수정"
+ gpm_tb_crystal_growth_resources_desc:0 "넓은 광물 풍부 지역을 뒤덮고 있는 거대 수정입니다."
+ 
+ gpm_tb_lethal_overgrowth_resources:0 "위험식물 구역"
+ gpm_tb_lethal_overgrowth_resources_desc:0 "면도칼처럼 날카로운 잎을 가진 식물들이 자라는 지역입니다."
+ 
+ #######################################
+ #### Space Deposits
+ #######################################
+ gpm_d_unity_deposit:0 "고대문명 폐허"
+ gpm_d_unity_deposit_desc:0 "오래 전에 사라진 문명의 폐허입니다."
+ 
+ #######################################
+ #### Planet Wonders
+ #######################################
+ gpm_d_gargantuan_sinkhole:0 "£gpm_planet_wonder  §E초거대 싱크홀§!"
+ gpm_d_gargantuan_sinkhole_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n비록 크기는 불확실하지만, 행성의 가장 깊은 곳까지 이어지는 거대한 싱크홀입니다. 이 신비한 구조물은 오랜 시간이 지났음에도 튼튼하고 온전한 상태입니다. 우리 과학자들은 이 싱크홀의 성분과 광물분포를 연구하는 데 열심입니다. 주변 동굴망의 초기 조사 결과, 채굴 활동에 적합한 지역이라고 판명되었습니다."
+
+ gpm_d_discharging_field:0 "£gpm_planet_wonder  §E전기방출 지역§!"
+ gpm_d_discharging_field_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n이상한 석조 구조물이 많이 서있으며 불규칙하게 전기가 방출되는 지역입니다. 이러한 전기 방출은은 이론적으로도, 이 돌들을 이루고 있는 물질로도 불가능한 현상입니다. 또한, 끊임없이 방출되는 자기장은 대부분의 전자기기를 교란하는 것처럼 보입니다."
+
+ gpm_d_giant_trees:0 "£gpm_planet_wonder  §E거대한 나무§!"
+ gpm_d_giant_trees_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n산처럼 굵은 줄기와 뿌리의 복잡한 격자망을 가진 이 거대한 나무들은 전체 생태계를 지탱할 수 있습니다. 특이한 점으로는 행성의 표면 스캔 데이터가 이 종이 행성 전체에 분포한다고 나타나지만, 작은 개체는 발견되지 않았으며, 이 식물의 나이도 추정할 수 없었습니다. 조직 샘플은 그 안에서 번성하는 생물들의 행동과 마찬가지로 진행중인 연구에 큰 흥미거리가 될 것입니다. 또한 피타란 가루와 유사한 화학성분이 주변의 풍부한 토양에서 드문드문 발견됩니다."
+
+ gpm_d_crystal_jungle:0 "£gpm_planet_wonder  §E수정 정글§!"
+ gpm_d_crystal_jungle_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n이 숲에서는 마치 식물에서 튀어나온 형태로 존재하는 질 좋은 광물이 발견됩니다. 초기의 연구는 이 결정체들이 식물의 확산을 돕는 생물체들을 유인하는 수단으로 작용한다는 이론에 힘을 실어주었습니다. 전문 기술자들은 이러한 식물의 연구가 광물 추출과 생산에 있어서 많은 도움이 될 것이라고 예측했습니다. 또한 이 신비한 식물들의 많은 세대가 지난 지역에서는 광물 퇴적물의 지층이 발견되었습니다."
+
+ gpm_d_floating_islands:0 "£gpm_planet_wonder  §E부유 대륙§!"
+ gpm_d_floating_islands_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n작고 고정된 대륙들이 아직 알려지지 않은 힘에 의해 공기 중에 떠 있습니다. 중력 측정 결과는 안정적이지만 일부 물질은 대륙 근처에서 이상현상이 발생합니다.\n이러한 부유 대륙은 단지 몇 개의 대형 추진기를 사용함으로써 새로운 시설을 위한 훌륭한 토대가 될 것입니다."
+
+ gpm_d_amoeba_sea:0 "£gpm_planet_wonder  §E아메바 바다§!"
+ gpm_d_amoeba_sea_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n두꺼운 보라색 층이 이 세계의 수권을 덮고 있는데 이는 수십억마리의 미생물들이 먹이를 먹고 번식하기 위한 군체입니다. 바닷물은 역동적인 세포 구조에 갇혀 있고, 거대하고 복잡한 영양소망이 군집 내부에 형성되어 있으며, 공생관계부터 포식관계까지 다른 해양 생물과의 상호작용도 다양합니다.\n조금 더 면밀한 연구를 위해 주변 섬의 토양 시료를 조사한 결과 아메바 군락의 대사현상의 부산물인 고유하고 영양분이 많은 생화학적 화합물이 풍부하게 분포하고 있는 것으로 알려졌습니다."
+
+ gpm_d_glass_towers:0 "£gpm_planet_wonder  §E수정탑§!"
+ gpm_d_glass_towers_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n하늘 높이 도달한 기념비적인 결정체 구조물이 낮에는 여러 색깔로 경관을 물들이고 밤에는 불길한 밝은 빛을 은은히 내고 있습니다. 외부 구조는 매우 불침투적이며, 그것의 기원에 대해서는 거의 알려져 있지 않습니다. 또한 격렬한 눈보라가 이것을 두들기는데도 무너진 수정은 하나도 발견되지 않았습니다. 뉴트로늄과 관련된 것으로 알려진 이 단단한 탑들이 어떤 화합물을 생성하든 공학 분야에서의 비약적인 발전을 제공할 가능성이 높습니다.\n주변 광물의 조사 결과는 빙하의 깊은 곳에서도 유사한 화합물이 존재한다는 것을 알려주었습니다."
+
+ gpm_d_howling_peaks:0 "£gpm_planet_wonder  §E울부짖는 산§!"
+ gpm_d_howling_peaks_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n끊임없이 부는 강풍이 지나갈 때마다 울부짖는 소리가 울려퍼지는 공허하고 지루한 산입니다. 이 소리는 멀리 떨어진 곳에서도 낮게 들리고 가까운 곳에서는 귀청이 떨어질 것 같이 크게 들립니다. 더욱 흥미로운 사실은 이러한 반향이 전자기파와 중력파를 발생시킨다는 점입니다. 이 현상이 어떻게 시공간의 왜곡을 만들어 내는지는 아직 더 연구할 필요가 있습니다. 게다가 이 산의 이상한 모양은 자원이 풍부한 광맥에 더 쉽게 접근할 수 있게 합니다."
+
+ gpm_d_mega_fungi:0 "£gpm_planet_wonder  §E거대 균류§!"
+ gpm_d_mega_fungi_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n행성의 넓은 지역으로 퍼져나가는 거대한 유기체로서, 제한적이고 느리지만 움직일 수 있는 번식을 위한 포자가 자라는 돌출부가 자라납니다. 탐사에서는 가지가 피해를 입으면 그것을 접고 매우 느린 속도로 탐사대가 남긴 음식을 적극적으로 찾는 것 처럼 보이는 이상한 행동이 관찰되었습니다. 이러한 신경활동의 흔적은 드물지만 현재 퇴화하지는 않았습니다. 또한 이 거대 균류는 우리 탐사대가 탐험하는 동안 다시 자라고 먹을 수 있는 훌륭한 식량 공급원이라는 사실을 증명했습니다."
+
+ gpm_d_energy_storm:0 "£gpm_planet_wonder  §E에너지 폭풍§!"
+ gpm_d_energy_storm_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n이 회전하면서 굉음을 내는 혼란스러운 에너지 폭풍은 이 목가적인 행성의 넓은 지역에 타격을 입힙니다. 이 폭풍의 위치는 잘 알려져 있고 다른 일반적인 폭풍처럼 이동하는 것처럼 보이지는 않았지만, 이 이상현상이 헤아릴 수 없을 정도로 오랜 시간 동안 움직이지 않았다는 강력한 증거가 있습니다 또한 약간의 방사능을 포함한 모든 종류의 에너지 패턴이 이 폭풍에서 방출되는 것처럼 보이며, 이는 우리 과학자들의 가장 대담한 과학 모델으로도 설명할 수 없는 현상입니다. 우리 과학자들이 맞닥뜨린 가장 큰 난관인 이 설명할 수 없는 현상을 통해, 학계에서는 충격을 받은 채 더욱 면밀한 조사를 요구하고 있습니다. 예비 연구에 따르면, 이상한 에너지 파동이 대부분의 우리 전자제품에 전력을 공급하는 것처럼 보인다고 합니다."
+
+ gpm_d_titanic_cave:0 "£gpm_planet_wonder  §E초거대 동굴§!"
+ gpm_d_titanic_cave_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n이 놀라운 동굴은 깊은 곳에서만 발견할 수 있는 내행성 활동과 광물 구조를 탐사할 수 있는 훌륭한 기회를 제공하여 암석형 행성에 대한 우리의 이해를 크게 높여줍니다. 이 동굴은 순전히 우리 도시를 그 안에 넣을 수 있을만큼 거대하고, 이 행성에서의 확장을 위한 잠재력을 크게 증가시켜 줄 것이라고 예상됩니다."
+
+ gpm_d_abandoned_stargate:0 "£gpm_planet_wonder  §E버려진 관문§!"
+ gpm_d_abandoned_stargate_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n알려지지 않은 기술로 지어진 신비한 구조물입니다. 현재 작동하고 있지는 않지만 변칙적인 공간 왜곡 이상현상이 주변에서 무작위로 발생하여 위험하고 건설하기에 부적합한 지역입니다. 그러나 안전한 거리에서 이러한 이상 현상은 우리의 과학적 이해의 상당한 진보를 위해 연구될 수 있습니다."
+
+ gpm_d_bioluminescent_forest:0 "£gpm_planet_wonder  §E생물발광 숲§!"
+ gpm_d_bioluminescent_forest_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n낮 동안은 소박하고 조용한 숲이지만, 해가 지면 숲은 식물부터 동물에서까지 나온 빛으로 다채로운 빛의 향연이 벌어집니다. 이 숲에서 채취한 생체발광 조직 샘플은 알려진 다른 생물발광 생물과는 다른 독특한 화합물을 가지고 있으며, 일부 동물들은 시간적 깜빡임과 색상의 변화로 일종의 복잡한 빛 기반 의사소통 방법을 발전시킨 것으로 보입니다."
+
+ gpm_d_land_reefs:0 "£gpm_planet_wonder  §E육지 산호 지대§!"
+ gpm_d_land_reefs_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n특이한 미생물로 뒤덮인 일년 내내 자라는 광물 구조입니다. 산호는 이 미생물 군락을 위한 구조물의 역할을 하며, 강한 바람이 산호의 성장에 필요한 요소들을 운반하고 제공하는 것처럼 보입니다. 이 튼튼한 산호의 잘 통제된 채굴은 재생 가능한 광물 자원의 원천을 제공할 수 있다고 예상됩니다."
+
+ gpm_d_lava_lake:0 "£gpm_planet_wonder  §E용암 호수§!"
+ gpm_d_lava_lake_desc:0 "£gpm_planet_wonder§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n이례적으로 많은 양의 용암이 용암 호수를 형성하면서 이 행성의 넓은 지역에 걸쳐서 유독가스를 내뿜고 있습니다. 주변 지열 활동이 격렬하여 이 지역은 가스 발전 설비를 설치하는 데 적합할 것 같습니다."
+
+ gpm_d_Collapsed_habitat:0 "£gpm_planet_wonder  §E추락한 외계 거주지§!"
+ gpm_d_Collapsed_habitat_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n거대한 궤도 구조물의 잔해가 이 행성의 광범위한 지역을 덮고 있습니다. 외계 궤도 거주지로 보이는 이 잔해는 우리가 건설할 수 있는 거주지와는 달리 기원과 사용된 기술을 알 수 없었습니다. 가장 중요한 잔해를 둘러싼 지역은 이상한 액체 금속의 확산 현상이 일어나고 있습니다."
+
+ gpm_d_dangerous_hives:0 "£gpm_planet_wonder  §E위험한 군체§!"
+ gpm_d_dangerous_hives_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n이 기초적인 구조물 안에는 포악한 생물 무리가 살고 있습니다. 이 행성의 대부분의 지역은 그 포악한 생물들의 광대한 군락망으로 덮여 있습니다. 부대를 상륙시키기 전 궤도 폭격이 강력히 권고되는 바입니다."
+
+ gpm_d_forgotten_deposit:0 "£gpm_planet_wonder  §E잊혀진 고대 자원 저장소§!"
+ gpm_d_forgotten_deposit_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n처음 발견했을 당시 핵 방공호로 묘사된 이 거대한 시설은 실제로는 오랫동안 잊혀진 고대의 자원 저장소였습니다. 이전 소유자의 흔적은 발견되지 않았지만 대부분의 자동화 시설은 여전히 작동 중입니다. 이 저장소는 마치 시간이 멈춘 것처럼 보이는 기술이 적용된 거대한 탱크에 초중원소들을 보관하고 있었습니다. 안타깝게도, 몇몇 손상된 구역은 수백년동안 고방사성 물질을 유출해 온 것 같습니다. 보존된 원소들은 헤아릴 수 없는 희귀성을 가지고 있으며, 합성은 극히 어렵습니다. 또한 현재의 격납 기술로는 탱크 외부에서 물질의 붕괴를 간신히 늦출 수 있을 뿐입니다."
+
+ gpm_d_ruined_arcology:0 "£gpm_planet_wonder  §E아콜로지 폐허§!"
+ gpm_d_ruined_arcology_desc:0 "£gpm_planet_wonder£§H자연 불가사의§!는 강력한 보너스를 주는 행성의 희귀한 특성입니다.\n\n지속 가능한 건축의 정점을 상징하는 한때 번창했던 아콜로지의 거대한 폐허입니다. 행성의 아주 깊은 곳에서의 광업과 중심부의 에너지 발전에서 상층부의 계층화된 농업에 이르기까지의 모든 활동은 이 행성의 서로 다른 구역에서 잊혀진 시기에 개발되었습니다. 아직 보존된 시설들은 인근 지역의 생산 증가에 도움이 될 수 있도록 수리될 수 있습니다."
+
+ #######################################
+ #### Features Events & Relics
+ #######################################
+ gpm_d_floating_islands_housing:0 "거대 부유 도시"
+ gpm_d_floating_islands_housing_desc:0 "도시 기반시설로 덮인 거대하고 평평한 인공 부유섬입니다."
+
+ gpm_d_restored_infrastructure:0 "복구된 기반시설"
+ gpm_d_restored_infrastructure_desc:0 "과거의 영광을 되찾은 고대의 기반시설입니다."
+ 
+ gpm_d_time_displaced_planet:0 "시간 이동 구역"
+ gpm_d_time_displaced_planet_desc:0 "과거나 미래로 이동하는 넓은 지역입니다. 이 지역에 나타나는 동식물들은 늙었다가, 젊어졌다가, 다시 늙어 보입니다. 이 빠른 시간 이동이 오랫동안 생명체에게 지속되면 어떤 영향을 미치는지는 아직 확실하지 않습니다."
+ 
+ gpm_d_planetary_shield_array:0 "진보한 행성 보호막"
+ gpm_d_planetary_shield_array_desc:0 "전 행성을 둘러싸는 강력한 행성 보호막입니다." 
+ 
+ #######################################
+ #### Features Habitable Worlds
+ #######################################
+ gpm_d_ruined_battlefield:0 "전장의 폐허"
+ gpm_d_ruined_battlefield_desc:0 "군기, 깃발, 원시적인 무기와 원시적이지 않은 무기까지 표면에 끝없는 잔해가 흩어져 있습니다. 이 잔해들은 사방이 사상자들로 가득한 격렬하고 유혈이 낭자했던 전쟁을 보여줍니다. 현장을 봐서는 누가 이겼는지조차 알 수 없어 보입니다. 아마도 그들 모두에게 적절한 장례를 치르는 것이 최선일 것입니다."
+ 
+ gpm_d_spaceship_graveyard:0 "추락한 우주선"
+ gpm_d_spaceship_graveyard_desc:0 "수천년은 아니더라도 수 세기 전에 이곳에 추락한 듯한 거대한 선체가 지표면에 반쯤 박혀 있는 채로 이 지역의 대부분을 덮고 있습니다. 선체 내부의 연구할 만한 장비의 대부분은 자연에 의해 풍화되어 파괴되었지만, 아마도 여전히 연구할 것이 남아있을 것입니다."
+ 
+ gpm_d_android_pleasure_palace:0 "안드로이드 유흥 센터"
+ gpm_d_android_pleasure_palace_desc:0 "오래되어 보이지만 잘 정비된 건물이 서 있습니다. 이 건물은 아직 활성화 상태인 것 같고 몇몇 사람들은 그 건물 안에서 모든 종류의 휴머노이드형 로봇들이 서로에게 이상한 짓을 하는 것을 볼 수 있다고 합니다."
+  
+ gpm_d_unusual_formations:0 "특이한 지질 구조"
+ gpm_d_unusual_formations_desc:0 "거대하고 많은 양의 이상하지만 자연적으로 형성된 지질학적 형상이 발견되는 곳입니다. 이러한 형상의 크기와 모양은 어떤 부분에서는 몇몇 지역과 상당히 일치하는 것 같습니다."
+  
+ gpm_d_ice_flora:0 "얼음 식물"
+ gpm_d_ice_flora_desc:0 "어떻게 이렇게 추운 곳에서 살아가고 있는지는 모르겠지만, 은은한 청백색의 꽃과 나무들이 곳곳에서 자라고 있습니다. 나뭇잎들은 햇빛을 부드럽게 굴절시키면서 표면에 환상적이고 아름답게 산란된 빛을 투영하는 반결정 구조를 가진 것처럼 보입니다."
+ 
+ gpm_d_planetwide_forest:0 "광대한 숲"
+ gpm_d_planetwide_forest_desc:0 "강과 산을 포함한 모든것에 걸쳐서 뻗어있는 거대한 삼림지대입니다. 엄청난 넓이로 인해 길을 잃기가 쉽습니다."
+ 
+ gpm_d_dense_forests:0 "빽빽한 숲"
+ gpm_d_dense_forests_desc:0 "숲 속에서는 하늘이 보이지 않을 만큼 빽빽하고 높이 솟은 나무들이 가득한 숲입니다. 숲 속에서는 특이한 많은 동식물들을 발견할 수 있습니다."
+ 
+ gpm_d_proto_forests:0 "원시림"
+ gpm_d_proto_forests_desc:0 "초기 진화 단계의 나무들이 가득한 숲입니다. 익숙하지 않은 모습의 식물이 많은 광경이지만 웬지 매우 평화롭습니다."
+ 
+ gpm_d_temple_of_the_ancient_one:0 "고대 존재의 신전"
+ gpm_d_temple_of_the_ancient_one_desc:0 "이곳에 거대한 암벽 신전이 있습니다. 버려지고 수목이 무성하지만 어째서인지 아직도 불이나 화로같은 곳에서 나오는 빛이 새어 나옵니다. 이 신전이 누구를 위한 것인지 무엇을 위한 것인지조차 아는 사람이 없습니다."
+ 
+ gpm_d_arachnophobia:0 "거대 거미"
+ gpm_d_arachnophobia_desc:0 "잠시 우리 세계와 매우 비슷한 세계를 가정해봅시다. 거미가 4미터 가까운 길이로 자라고, 엄청나게 빠르게 번식하고, 숨는데 능숙하며, 무리를 지어 공격하는 점만 빼고 말입니다."
+ 
+ gpm_d_dunes:0 "사구 지대"
+ gpm_d_dunes_desc:0 "여기도 모래. 저기는 더 많은 모래. 사방이 모래입니다. 이 사구들은 시야가 닿는 곳까지 뻗어 있고, 높이도 하늘에 닿을 듯이 높습니다. 이 지역에 정착지를 건설하기 전에 이 지역을 안정화시키는데는 어느 정도의 노력이 필요할 것 같습니다."
+ 
+ gpm_d_mushroom_forest:0 "버섯 숲"
+ gpm_d_mushroom_forest_desc:0 "거대 버섯의 숲이 이 지역을 덮고 있습니다. 이곳은 거대 버섯의 갓 부분으로 인해 그늘져 있습니다. 버섯 자체는 부드러워서 제거하는데 시간이 많이 걸리지는 않을 것 같습니다."
+ 
+ gpm_d_oasis:0 "오아시스"
+ gpm_d_oasis_desc:0 "따뜻한 샘물이 있는 이 고립된 지역은 우거지고 무질서하게 뻗어 있는 생태계가 자리잡고 있습니다."
+ 
+ gpm_d_floating_rocks:0 "부유섬"
+ gpm_d_floating_rocks_desc:0 "이 행성의 특정 광물이나 물질은 커다란 바위가 공중을 떠다니게 하여 지표면에서 수 미터에서 수백미터 떨어진 곳에 떠 있는 떠다니는 섬들을 형성합니다."
+  
+ gpm_d_ancient_temple:0 "고대 신전"
+ gpm_d_ancient_temple_desc:0 "오래 전에 지어진 고대 신전입니다."
+
+ gpm_d_small_wildlife:0 "소형 야생동물 무리"
+ gpm_d_small_wildlife_desc:0 "배회하는 작은 야생동물의 무리입니다."
+
+ gpm_d_massive_wildlife:0 "거대 야생동물 무리"
+ gpm_d_massive_wildlife_desc:0 "매우 거대한 야생동물의 무리입니다."
+
+ gpm_d_super_volcano:0 "초화산"
+ gpm_d_super_volcano_desc:0 "여전히 활화산인 이 거대 화산들은 대부분 마지막 분출에서 나온 퇴적물 층의 아래에 숨겨져 있습니다."
+
+ gpm_d_obsidian_fields:0 "흑요석 지대"
+ gpm_d_obsidian_fields_desc:0 "기묘한 흑요석이 어지럽게 흩어져 있는 넓은 들판입니다."
+
+ gpm_d_magnetic_mountains:0 "자성을 띄는 산"
+ gpm_d_magnetic_mountains_desc:0 "이 산의 높은 광물 밀도는 이곳을 초자성적으로 만들었습니다."
+
+ gpm_d_magnetic_fields:0 "자기장 붕괴 지역"
+ gpm_d_magnetic_fields_desc:0 "지표면의 특이한 광물로 인해 생성된 국부적인 고 자기장 구역입니다."
+
+ gpm_d_rich_crater:0 "광물이 풍부한 크레이터"
+ gpm_d_rich_crater_desc:0 "이 크레이터에는 광물이 풍부한 소행성의 잔해가 묻혀 있습니다."
+
+ gpm_d_surface_mineral_veins:0 "지표 광맥"
+ gpm_d_surface_mineral_veins_desc:0 "지질학적 활동으로 인해 넓은 광물 광맥이 지표면에 형성되었습니다."
+
+ gpm_d_dense_metal_veins:0 "빽빽한 금속 광맥"
+ gpm_d_dense_metal_veins_desc:0 "지표면 깊은 곳에 있던 금속 광맥이 수백만년에 걸쳐 지표면으로 모습을 드러낸 곳입니다."
+
+ gpm_d_iron_mountain:0 "금속성 산"
+ gpm_d_iron_mountain_desc:0 "행성의 중심부에서 나온 파편이 지각을 밀어내고 형성한 산입니다."
+
+ gpm_d_floating_island:0 "부유섬"
+ gpm_d_floating_island_desc:0 "특이한 중력 이상현상이 지표면의 일부를 공기 중에 띄워놓고 있습니다."
+
+ gpm_d_floating_mountain:0 "부유산"
+ gpm_d_floating_mountain_desc:0 "산에 함유된 광물이 이상한 자기장과 중력의 상호작용을 통해 산 자체가 지표면 위로 떠오르게 되었습니다."
+
+ gpm_d_carnivorous_jungle:0 "육식성 정글"
+ gpm_d_carnivorous_jungle_desc:0 "이 정글 내부의 거의 모든 생명체는 육식성 생물입니다."
+
+ gpm_d_carnivorous_forest:0 "육식성 숲"
+ gpm_d_carnivorous_forest_desc:0 "이 숲 내부의 거의 모든 생명체는 육식성 생물입니다."
+
+ gpm_d_carnivorous_kelp:0 "육식성 해초"
+ gpm_d_carnivorous_kelp_desc:0 "희생양을 잽싸게 감싼 뒤 산채로 먹는 이상한 해초가 있는 곳입니다."
+
+ gpm_d_magma_ocean:0 "마그마 바다"
+ gpm_d_magma_ocean_desc:0 "행성 지각에 거대한 구멍이 생겨 영구적인 마그마 바다가 형성되었습니다."
+
+ gpm_d_toxic_vent:0 "독성 분출구"
+ gpm_d_toxic_vent_desc:0 "표면 분출구에서 유독가스가 뿜어져 나옵니다."
+
+ gpm_d_colossal_subterranean_cavern:0 "거대 지하동굴"
+ gpm_d_colossal_subterranean_cavern_desc:0 "초고밀도의 바위로 인해 거대한 동굴이 무너지지 않고 표면 아래에 형성될 수 있었습니다."
+
+ gpm_d_titanic_hunting_ground:0 "거대생물 사냥터"
+ gpm_d_titanic_hunting_ground_desc:0 "거대생물의 무리가 배회하는 지역입니다."
+
+ gpm_d_unnatural_crystals:0 "특이한 수정"
+ gpm_d_unnatural_crystals_desc:0 "광물이 존재하지 않는 장소에 이상한 다색 결정체가 형성되어 있습니다."
+
+ gpm_d_ancient_battlefield:0 "고대의 전장"
+ gpm_d_ancient_battlefield_desc:0 "먼 과거에 있었던 전장의 흔적입니다."
+
+ gpm_d_buried_remains:0 "매장된 유해"
+ gpm_d_buried_remains_desc:0 "큰 전쟁에서 매장된 유해들입니다."
+
+ gpm_d_crashed_fighter:0 "추락한 초계함"
+ gpm_d_crashed_fighter_desc:0 "초계함 형태의 함선이 추락해 있습니다."
+
+ gpm_d_crashed_destroyer:0 "추락한 구축함"
+ gpm_d_crashed_destroyer_desc:0 "이곳에 추락한 구축함 크기의 함선의 잔해입니다."
+
+ gpm_d_crashed_battleship:0 "추락한 전함"
+ gpm_d_crashed_battleship_desc:0 "이곳에 추락한 지 수백년은 된 거대한 전함의 잔해입니다."
+
+ gpm_d_crashed_capital_ship:0 "추락한 거대 함선"
+ gpm_d_crashed_capital_ship_desc:0 "이곳에 먼 과거에 추락한 전함보다 큰 것 같은 함선의 잔해입니다."
+
+ gpm_d_crystal_hills:0 "수정 구릉지"
+ gpm_d_crystal_hills_desc:0 "수정으로 뒤덮인 굴곡진 언덕 지형입니다."
+
+ gpm_d_colossal_fish:0 "거대 물고기"
+ gpm_d_colossal_fish_desc:0 "거대 물고기의 떼입니다."
+
+ gpm_d_sprawling_archipelago:0 "군도"
+ gpm_d_sprawling_archipelago_desc:0 "몇 개의 작은 섬들이 한곳에 모여 있습니다."
+
+ gpm_d_spice_fields:0 "향신료 지대"
+ gpm_d_spice_fields_desc:0 "값비싼 향신료들이 자라는 지역입니다."
+
+ gpm_d_geometric_oddities:0 "기하학적 이상"
+ gpm_d_geometric_oddities_desc:0 "갑작스러운 지질 활동으로 일부 지형이 이상한 형태로 변했습니다."
+
+ gpm_d_garbage_patch:0 "고대 쓰레기 처리구역"
+ gpm_d_garbage_patch_desc:0 "멸종된 문명에 의해 남겨진 처리되지 않은 대형 쓰레기 처리장입니다."
+
+ gpm_d_industrial_ruins:0 "산업 폐허"
+ gpm_d_industrial_ruins_desc:0 "산업 폐허로 가득한 넓은 계곡입니다."
+
+ gpm_d_radioactive_dump:0 "방사능 폐기물 처리장"
+ gpm_d_radioactive_dump_desc:0 "방사능 폐기물로 가득 찬 산업 시설이 자리잡고 있습니다."
+
+ gpm_d_ice_flower_field:0 "얼음식물 지대"
+ gpm_d_ice_flower_field_desc:0 "이 식물들은 영하의 온도에서 자라나면서도 내부의 온도는 빙점 바로 위로 유지하게 합니다."
+
+ gpm_d_white_forest:0 "백색 숲"
+ gpm_d_white_forest_desc:0 "이 숲을 이루는 나무들은 그것을 완전히 덮는 이상한 나무껍질 같은 윤활유를 만들어내어 유난히 밝은 흰색을 띕니다. 이로 인해 이 나무들은 행성의 춥고 혹독한 온도에서 살아남을 수 있습니다."
+
+ gpm_d_strange_ice_river:0 "이상한 얼음 강"
+ gpm_d_strange_ice_river_desc:0 "흐르는 얼음의 강입니다."
+
+ gpm_d_massive_ray_school:0 "거대 가오리 무리"
+ gpm_d_massive_ray_school_desc:0 "가오리와 비슷한 물고기의 거대한 무리입니다."
+
+ gpm_d_the_black_stone:0 "흑색 바위"
+ gpm_d_the_black_stone_desc:0 "정글 중간에 이상한 흑색 바위가 있습니다.."
+
+ gpm_d_sprawling_prestine_ruins:0 "새것같은 유적"
+ gpm_d_sprawling_prestine_ruins_desc:0 "자연과 시간의 영향을 받지 않은듯한 고대 유적입니다."
+
+ gpm_d_skyscraper_village:0 "초고층 건물 마을"
+ gpm_d_skyscraper_village_desc:0 "높은 초고층 건물들로 가득 찬 고대 문명의 작은 마을의 잔해입니다."
+
+ gpm_d_sandworm_pit:0 "거대 모래벌레 소굴"
+ gpm_d_sandworm_pit_desc:0 "이 구덩이에는 한 마리의 악취가 진동하는 생물이 살고 있는데, 벽과 중앙에서 나오는 촉수는 날카로운 이빨을 가지고 있습니다."
+
+ gpm_d_grand_reef:0 "거대 산호"
+ gpm_d_grand_reef_desc:0 "엄청나게 거대한 산호가 온갖 종류의 이국적인 산호로 가득 찬 표면 바로 아래에 자리잡고 있습니다."
+
+ gpm_d_glistening_lake:0 "반짝이는 호수"
+ gpm_d_glistening_lake_desc:0 "이 호수의 반짝이는 수면은 아침에 해가 뜰때 더욱 아름답습니다."
+
+ gpm_d_fossilized_egg_sacks:0 "화석화된 알 무더기"
+ gpm_d_fossilized_egg_sacks_desc:0 "화석화된 대형 알 무더기가 거대한 협곡에 뭉쳐져 있습니다. 그들의 생물학적 구조는 지난 수백만년동안 화석화되었습니다."
+
+ gpm_d_fossilized_structures:0 "화석화된 구조물"
+ gpm_d_fossilized_structures_desc:0 "거대한 화석화된 구조물이 곳곳에 있습니다. 이 구조물은 생물학적 물질로 만들어졌고 이후 수백만년에 걸쳐 화석화되었습니다."
+
+ gpm_d_fossilized_creep:0 "화석화된 지면"
+ gpm_d_fossilized_creep_desc:0 "지난 수백만년에 걸쳐 화석화된 생물의 두껍고 바스라지는 소리가 나는 화석층이 넓은 지역을 덮고 있습니다."
+
+ gpm_d_giant_skeleton:0 "거대 골격"
+ gpm_d_giant_skeleton_desc:0 "거대 모래벌레의 남은 뼈대입니다."
+
+ gpm_d_resonating_ice:0 "공명하는 얼음"
+ gpm_d_resonating_ice_desc:0 "독특한 나선 배열과 표면의 자기 금속이 얼음을 고도로 공명시키고 강력한 자기장을 만들어내고 있습니다."
+
+ gpm_d_tiny_herds:0 "아주 작은 동물 무리"
+ gpm_d_tiny_herds_desc:0 "복실복실하고 아주 작은 동물의 무리입니다."
+
+ gpm_d_fertile_field:0 "비옥한 지대"
+ gpm_d_fertile_field_desc:0 "영양분과 물이 매우 풍부한 극도로 비옥한 지역입니다."
+ 
+ gpm_d_ecological_brain:0 "생태학적 뇌"
+ gpm_d_ecological_brain_desc:0 "뇌와 같은 구조를 형성하는 생태학적 신경 경로의 군집입니다."
+
+ gpm_d_hot_springs:0 "온천"
+ gpm_d_hot_springs_desc:0 "뜨겁고 깨끗한 물이 부글부글 끓고 있는 샘입니다."
+
+ gpm_d_colossal_coral_life:0 "거대 산호"
+ gpm_d_colossal_coral_life_desc:0 "거대한 산호초는 매우 다양한 해양 생물을 품고 있습니다."
+
+ gpm_d_salt_flats:0 "넓은 소금 평원"
+ gpm_d_salt_flats_desc:0 "증발한 대양에 의해 퇴적된 밀도높은 소금 층으로 뒤덮인 거대하고 평평한 지형입니다."
+ 
+ #######################################
+ #### Features Relic and Ecu worlds
+ #######################################
+ gpm_d_relic_tank_factory:0 "고대 전차 제작 플랫폼"
+ gpm_d_relic_tank_factory_desc:0 "피탄 면적이 좁고, 빠르지만 중장갑의 전차를 생산할 수 있는 고대의 전차 조립 공장입니다."
+ gpm_d_relic_tank_factoryTT:0 "§H전차 부대§! 사용 가능"
+
+ gpm_d_relic_mech_factory:0 "고대 전투기계 제작 플랫폼"
+ gpm_d_relic_mech_factory_desc:0 "여러 개의 거대한 전투기계를 생산할 수 있는 고대의 자율적인 공장입니다."
+ gpm_d_relic_mech_factoryTT:0 "§H전투기계 부대§! 사용 가능"
+
+ gpm_d_relic_power_armor_factory:0 "고대 파워 아머 제작 플랫폼"
+ gpm_d_relic_power_armor_factory_desc:0 "적은 자원으로 생산이 가능한 고대의 파워 아머를 제작하는 공장입니다."
+ gpm_d_relic_power_armor_factoryTT:0 "§H파워 아머 부대§! 사용 가능"
+
+ gpm_d_relic_ship_factory:0 "고대 조선소"
+ gpm_d_relic_ship_factory_desc:0 "소형 공격선을 건조할 수 있는 고대의 자율적인 조선소입니다."
+ gpm_d_relic_ship_factoryTT:0 "§H전투 비행대§! 사용 가능"
+
+ gpm_d_relic_reactor_factory:0 "고대 원자로"
+ gpm_d_relic_reactor_factory_desc:0 "고대의 원자로가 간신히 작동하고 있습니다. 여전히 전력을 생산하기는 하지만, 그것을 망치지 않는 것이 최선입니다."
+
+ gpm_d_relic_roaming_killbots:0 "배회하는 살인로봇"
+ gpm_d_relic_roaming_killbots_desc:0 "치명적이고 은밀한 자율형 로봇들이 이 행성을 돌아다닙니다. 그들은 위협으로 인식되는 모든 것을 사냥합니다. 그리고 그들은 모든 것을 위협으로 간주합니다."
+
+ gpm_d_relic_post_apocalyptic_housing:0 "판자집"
+ gpm_d_relic_post_apocalyptic_housing_desc:0 "금속판, 케이블 및 다양한 용도의 재료로 엉성하게 조립된 주택입니다."
+
+ gpm_d_relic_post_apocalyptic_scrapyards:0 "거대 고철 처리장"
+ gpm_d_relic_post_apocalyptic_scrapyards_desc:0 "엄청난 양의 버려진 차량 및 전자 장치의 산입니다."
+ 
+ #######################################
+ #### Features Machine Worlds
+ #######################################
+ 
+ #######################################
+ #### Features Hive Worlds
+ #######################################
+ 
+ #######################################
+ #### Features Precursor Worlds
+ #######################################
+ gpm_d_precursor_planetary_shield:0 "수수께끼의 행성 보호막"
+ gpm_d_precursor_planetary_shield_desc:0 "전 행성 표면을 덮은 자가유지가 가능하고 동력을 생성하는 거대한 행성 보호막이 있습니다"
+ 
+ gpm_d_precursor_capital_complex:0 "고대 거대 도시"
+ gpm_d_precursor_capital_complex_desc:0 "가운데 우뚝 솟은 거대한 구조물이 있는 거대한 선구자들의 도시입니다. 대부분의 기반시설이 여전히 사용 가능한 것으로 보입니다."
+
+ gpm_d_precursor_ruins_1:0 "고대 산업 기반시설"
+ gpm_d_precursor_ruins_1_desc:0 "오래 전에 멸망한 문명에서 사용하던 산업 폐허입니다."
+ gpm_d_precursor_ruins_1_distr:0 "가치없는 고대 산업 폐허"
+ gpm_d_precursor_ruins_1_distr_desc:0 "$gpm_d_precursor_ruins_1_desc$"
+
+ gpm_d_precursor_ruins_2:0 "고대 도시 기반시설"
+ gpm_d_precursor_ruins_2_desc:0 "오래 전에 멸망한 문명에서 사용하던 도시 기반시설입니다."
+ gpm_d_precursor_ruins_2_distr:0 "가치없는 고대 산업 폐허"
+ gpm_d_precursor_ruins_2_distr_desc:0 "$gpm_d_precursor_ruins_2_desc$"
+
+ gpm_d_precursor_ruins_3:0 "매몰된 선구자 건축물"
+ gpm_d_precursor_ruins_3_desc:0 "오래 전에 멸망한 문명의 매몰된 유적입니다."
+ gpm_d_precursor_ruins_3_distr:0 "가치없는 매몰된 고대 폐허"
+ gpm_d_precursor_ruins_3_distr_desc:0 "$gpm_d_precursor_ruins_3_desc$"
+
+ gpm_d_precursor_ruins_4:0 "고대 동결 튜브"
+ gpm_d_precursor_ruins_4_desc:0 "오래 전에 사라진 문명의 조각들이 곳곳에 있습니다."
+ gpm_d_precursor_ruins_4_distr:0 "가치없는 고대의 조각"
+ gpm_d_precursor_ruins_4_distr_desc:0 "$gpm_d_precursor_ruins_4_desc$"
+
+ gpm_d_precursor_ruins_5:0 "고대 발전 기반시설"
+ gpm_d_precursor_ruins_5_desc:0 "오래 전에 멸망한 문명에서 사용하던 발전 기반시설입니다."
+ gpm_d_precursor_ruins_5_distr:0 "가치없는 고대 발전 폐허"
+ gpm_d_precursor_ruins_5_distr_desc:0 "$gpm_d_precursor_ruins_5_desc$"
+
+ gpm_d_precursor_ruins_6:0 "고대 전장"
+ gpm_d_precursor_ruins_6_desc:0 "오래 전에 멸망한 문명의 고대 전장입니다."
+ gpm_d_precursor_ruins_6_distr:0 "가치없는 폐허"
+ gpm_d_precursor_ruins_6_distr_desc:0 "$gpm_d_precursor_ruins_6_desc$"
+
+ gpm_d_precursor_ruins_7:0 "고대 잔해"
+ gpm_d_precursor_ruins_7_desc:0 "오래 전에 멸망한 문명의 전장으로부터 생겨난 수많은 파편입니다."
+ gpm_d_precursor_ruins_7_distr:0 "고대 잔해"
+ gpm_d_precursor_ruins_7_distr_desc:0 "$gpm_d_precursor_ruins_7_desc$"

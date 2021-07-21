@@ -1,0 +1,384 @@
+﻿l_english:
+
+#_[指南/状态检视/换页]
+#_[人口管理/ai建设限制/贸易优化]
+#_[ai物种合并/国内物种合并/国内机械合并/ai舰队合并/ai栖息地摧毁]
+#_[手动迁出/手动迁入]
+#_指南
+ z_mm_tips_pf2_btn_misc_guide: "§GBetter Performance§!\n알림: 모든 최적화는 언제든지 조정할 수 있습니다. 지시사항을 주의 깊게 읽고 자신에게 맞는 최적화 방법을 선택하십시오. \n\n§B 제국 인구 제한: §! 여러분의 인구 증가율은 특별한 수학적 모델에 따라 바뀔 것입니다. \n이 모델은 현재 §Y 제국의 총 인구 수§!를 참조할 것입니다. 총 인구가 총 상한선의 50% 미만일 때 인구 증가는 플러스 보너스를 얻습니다. 총 상한선의 25%에 가까울수록 성장률이 높아집니다. 총 인구가 총 상한선의 50%를 초과하면 인구 증가는 마이너스 보너스를받습니다. 총 상한선의 100%에 가까울수록 성장률이 낮아집니다. \n§Y 제국의 최대 인구§!=식민지 수 x 한계기본 x 감소 (선택한 모드에 따라 다름). 디폴트 기본 번호는 240이며 25 개 이상의 행성에 대한 인구 제한은 증가하지 않습니다. 결국 최대 인구 제한은 3000입니다. \n\n자동화 다운그레이드/이주  : 그것은 각 행성에 대해 별도로 설정될 수 있고 실업자들이 자동으로 이주하거나 사회 계층을 낮추기 위해 일정량의 유지비를 지출할 수 있습니다. \n\n무역 계산 최적화: 무역 경로는 렉의 원인 중 하나입니다. 이 기능은 무역 경로를 닫고 저에너지 방식으로 무역 생산량을 계산할 수 있습니다. \n\nAI 거대구조물 제한: 전 은하에 궤도 거주지와 링 월드가 너무 많으면 AI는 타노스님이 옳다는 것을 깨닫게 되는 많은 POP을 얻고, 과문이 너무 많으면 경로 계산양이 크게 늘어납니다. 이 기능은 AI가 이 세 개의 메가 구조물을 구성하는 것을 제한하지만 손상된 거대구조물을 수리하는 데에는 영향을 미치지는 않습니다. \n\n종 최적화: 너무 많은 종도 렉의  범인입니다. 여기에서 전체 은하계의 종 수는 자기 진화, 혼종 및 AI 종 변형을 제한함으로써 제한됩니다. \n\n매뉴 기능   : 주황색 버튼은 모두 수동 기능입니다. 종을 병합하고, 함대를 최적화하고, 다른 빠른 작업을 수행 할 수 있습니다. \n알림: 종에 태그 특성을 추가하거나 결합된 종의 템플릿으로 사용하거나 결합된 종을 무시하도록 할 수 있습니다."
+
+#_main
+ z_modmenu_performance2: "§GBetter Performance§!"
+ z_performance2_title: "§GBetter Performance:§! 설정"
+ z_performance2_var: "§GBetter Performance:§! 상태"
+ z_performance2_title_desc: "§GBetter Performance§!에서 제공하는 다양한 기능 설정 \n§Y알림:§! 이러한 최적화는 게임 플레이에 약간의 영향을 미칩니다. 수행중인 작업을 모르는 경우 기본 상태를 유지하고 조정하지 않는 것이 좋습니다."
+ z_mm_performance2_desc: "$z_performance2_title_desc$"
+#_状态检视
+ z_performance2_title_desc.a1: "\n무역로 최적화 §H비활성화됨§!"
+ z_performance2_title_desc.a2: "\n무역로 최적화 §G활성화됨§!"
+ z_performance2_title_desc.i1: "동적 인구 제한 §H비활성화됨§!"
+ z_performance2_title_desc.i2: "동적 인구 제한 §G낮음§!"
+ z_performance2_title_desc.i3: "동적 인구 제한 §G높음§!"
+ z_performance2_title_desc.h1: "행성 인구 용량 §G활성화됨§!"
+ z_performance2_title_desc.h2: "행성 인구 용량 §H비활성화됨§!"
+ z_performance2_title_desc.b1: "AI 거주지 건설 §H바닐라§!"
+ z_performance2_title_desc.b2: "AI 거주지 건설 §R비허용됨§!"
+ z_performance2_title_desc.b3: "AI 거주지 건설 §G최적화§!"
+ z_performance2_title_desc.c1: "자가 진화 §H활성화됨§!"
+ z_performance2_title_desc.c2: "자가 진화 §G비활성화됨§!"
+ z_performance2_title_desc.d1: "AI 이종간 호환성 §H허용됨§!"
+ z_performance2_title_desc.d2: "AI 이종간 호환성 §G비허용됨§!"
+ z_performance2_title_desc.e1: "AI 생물학적 승천 §H허용됨§!"
+ z_performance2_title_desc.e2: "AI 생물학적 승천 §G비허용됨§!"
+ z_performance2_title_desc.e3: "AI 종 변환 §H허용됨§!"
+ z_performance2_title_desc.e4: "AI 종 변환 §G비허용됨§!"
+
+ z_performance2_title_desc.x1: "은하의 총 함선 §G[root.z_global_ships_var]§!"
+ z_performance2_title_desc.x1b: "은하의 총 함선 §R0§!"
+ z_performance2_title_desc.x2: "은하의 총 인구 §G[root.z_galaxy_pop_var]§!"
+ z_performance2_title_desc.x2b: "은하의 총 인구  §R0§!"
+ z_performance2_title_desc.x3: "은하의 총 실업자 POP §G[root.z_galaxy_pop_unemployed_var]§!"
+
+###_[换页]
+ z_pf2.pop_species: "페이지 1: POP 및 종 최적화"
+ z_pf2.other: "Page 2: 다른 최적화"
+ z_pf2.utility: "Page 3: 수동 유틸리티"
+ z_pf2.page: "클릭하면 설정 페이지로 전환됩니다."
+
+
+
+ 
+###_[人口管理]  宜居条件/自动移民/自动降级/人口上限
+ z_pf2.pop_management_auto_immig_on: "모든 식민지 자동 POP 이주 §G활성화됨§!"
+ z_pf2.pop_management_auto_immig_off: "모든 식민지 자동 POP 이주 §G비활성화됨§!"
+ z_pf2.pop_management_auto_immig_tips: "모든 식민지는 자동으로 실업자 POP을 이동하며, 이는 행성에 공석이 있을 때만 적용됩니다. 효력 발생시 매달 £energy£ §Y$energy$§! 유지비 §G3§!가 추가됩니다." 
+ z_pf2.pop_management_auto_demote: "모든 식민지 토글 §B자동 POP 강등§!"
+ z_pf2.pop_management_auto_demote_tips: "실업자 상류층 인구는 신속히 하류층으로 강등되고 효력을 가질 때 매달 £energy£ §Y$energy$§! 유지비 §G2§!가 추가됩니다."
+ z_pf2.pop_management_mig_ignore: "모든 식민지 이동 설정이 §H금지됨§!으로 변경됩니다."
+ z_pf2.pop_management_mig_default: "모든 식민지 이동 설정이 §G디폴트§!로 변경됩니다."
+ z_pf2.pop_management_mig_cntr: "모든 식민지에 적용되어 인구의 이주를 금지하고 자동 이주와 수동 이주 모두에 적용됩니다."
+ z_pf2_d_core: "§GBetter Performance: §! 핵심 기능"
+ z_pf2_d_core_desc: "§G자동 POP 이주§!/§B자동 POP 강등§!/§H무역 보상§!을 포함해서 Better Performance의 다양한 핵심 기능을 구현합니다./"
+#_vam
+ z_pf2.pop_management_vam_on: "바닐라 자동 이주 §G활성화됨§!"
+ z_pf2.pop_management_vam_off: "바닐라 자동 이주 §H비활성화됨§!"
+ z_pf2.pop_management_vam_tips: "만약 팝 수가 어느 정도 진행된 게임의 전체 일자리 수보다 많다면, 많은 수의 실업자들이 의미 없이 이주하여 추가 연산을 유발할 것입니다. 이 기능은 바닐라 자동 이주 기능을 비활성화 시킵니다. \n참고: 이것은 게임에 변화를 줍니다. 실업자 수는 바닐라 자동 이주에도 영향을 받지 않을 것입니다. 이 모드와 함께 제공되는 새 자동 이주 매커니즘을 켤 수 있습니다. 바닐라 매커니즘보다 최적화되었지만, 이 매커니즘은 플레이어에게만 영향을 미칩니다."
+#_宜居条件
+ z_pf_tips_heup_habit_set:0 "POP 이주 기능 실행시 팝의 거주 조건을 설정합니다. \n최소로 설정하면 15% 이상의 적합성을 가진 팝만 이주됩니다. \n거주가능으로 설정되면 적합성이 35% 이상인 팝만 이주됩니다. \n무시로 설정하면 POP 적합성이 무시되고 사용 가능한 모든 POP이 이주됩니다. 적합성을 무시하는 것은 전국 POP 이주 및 자동 POP 이주에 유효하지 않습니다. 이 두 경우에서 최소 적합성은 15% 이상이어야합니다."
+ z_pf.heup_habit_default:0 "POP 이주 적합성 설정: §G현재 최소§!"
+ z_pf.heup_habit_ignore:0 "POP 이주 적합성 설정: §H현재 무시§!"
+ z_pf.heup_habit_high:0 "POP 이주 적합성 설정: §Y현재 거주가능§!"
+ 
+#_自动移民
+ z_pf2_dec_plnt_auto_mig_on:0 "§BBetter Performance: §!자동 이주 §G활성화됨§!"
+ z_pf2_dec_plnt_auto_mig_on_desc:0 "빈 일자리가 있으면 국내 실업자 팝이 자동으로 이 행성으로 이주하여 차지합니다. 이 기능을 위한 유지비는 £energy£ §Y$energy$§! 유지비 §G3§!입니다."
+ z_pf2_dec_plnt_auto_mig_off:0 "§BBetter Performance: §!자동 이주 §H비활성화됨§!"
+ z_pf2_dec_plnt_auto_mig_off_desc:0 "이 기능은 비활성화 되어있지만 게임 자체의 자동 이주를 막지는 못합니다."
+ z_pf2_tips_auto_mig_toggle:0 "자동 이주 기능을 활성화하거나 비활성화합니다."
+#_自动降级
+ z_pf2_dec_plnt_auto_demote_on:0 "§BBetter Performance: §!자동 강등 §G활성화됨§!"
+ z_pf2_dec_plnt_auto_demote_on_desc:0 "실업자 상류층 POP는 일자리가 있을 때 매우 짧은 시간에 강등되고 재취업될 것입니다. 이 기능을 위한 유지비는 £energy£ §Y$energy$§! 유지비 §G2§!입니다."
+ z_pf2_dec_plnt_auto_demote_off:0 "§BBetter Performance: §!자동 강등 §H비활성화됨§!"
+ z_pf2_dec_plnt_auto_demote_off_desc:0 "기능이 비활성화되면 실업 POP의 강등이 매우 느려질 것입니다."
+ z_pf2_tips_auto_demote_toggle:0 "자동 강등을 활성화하거나 비활성화합니다."
+ 
+#_[人口上限]
+ z_pf2.cntr_pop_cap_on:0 "제국 POP 상항 §G활성화됨§!/현재 제한 기준 §Y[event_target:z_fw_tgt_global_event.z_pf2_var_cntr_pop_cap_set_base]§!"
+ z_pf2.cntr_pop_cap_off:0 "제국 POP 상한 §H비활성화됨§!/현재 제한 기준 §Y[event_target:z_fw_tgt_global_event.z_pf2_var_cntr_pop_cap_set_base]§!"
+ z_pf2.cntr_pop_cap.tooltip:0 "POP 제한을 연 후 제국의 총 인구 수에 상한선이 추가되어 소유한 행성의 수에 따라 최대 인구가 제한됩니다. \n계산 공식 : 식민지 수 x 제한 기준."
+ z_pf2.cntr_pop_cap_linear:0 "제국 POP 상한 모드는 §H선형으로 설정됨§!"
+ z_pf2.cntr_pop_cap_mode_100:0 "제국 POP 상한 모드는 §Y감소가 있는 100개의 식민지로 설정됨§!"
+ z_pf2.cntr_pop_cap_mode_50:0 제국 POP 상한 모드는 §G감소가 있는 50개의 식민지로 설정됨§!"
+ z_pf2.cntr_pop_cap_mode_25:0 "제국 POP 상한 모드는 §B감소가 있는 50개의 식민지로 설정됨§!"
+ z_pf2.cntr_pop_cap_mode.tooltip:0 "식민지의 수가 총 POP 한도를 증가시키는 방법을 결정합니다.\n§H선형§! 쇠퇴 없이 식민지가 추가 될 때마다, §Y기본 제한§! POP 상한이 증가합니다.\n§Y100 식민지§! 낮은 감소로 추가 할 때마다 식민지가 증가합니다 (100-총 식민지 수)% x §Y기본 제한§! 제국 POP 상한이 증가합니다. 최대 100 개의 식민지를 지원하며 새로운 식민지는 더 이상 제국 POP 상한을 증가시키지 않습니다.~ \n§G50 식민지§! 50 식민지 감소가 높을수록 각 추가 식민지가 증가합니다 [2 x (50-총 식민지 수)]% x §Y기본 제한§! 제국 POP 상한이 증가합니다. 최대 50개의 식민지를 지원하며 새로운 식민지는 더 이상 제국의 POP 상한을 증가시키지 않습니다. \n§B25 식민지§! 감소가 높을수록 각 추가 식민지가 증가합니다 [4 x (25-총 식민지 수)]% x §Y기본 제한§! 제국 POP 상한이 증가합니다. 최대 25개의 식민지를 지원하며 새로운 식민지는 더 이상 제국의 POP 상한을 증가시키지 않습니다."
+#_mod
+ z_pf2.cntr_pop_cap_base_add_10:0 "기본 제한: §G+10§!"
+ z_pf2.cntr_pop_cap_base_add_50:0 "기본 제한: §G+50§!"
+ z_pf2.cntr_pop_cap_base_subtract_10:0 "기본 제한: §B-10§!"
+ z_pf2.cntr_pop_cap_base_subtract_50:0 "기본 제한: §B-50§!"
+ z_pf2_mod_plnt_pop_growth:0 "§B제국 POP 제한: §! Growth correction"
+ z_pf2_mod_plnt_pop_growth_desc:0 "§B 제국 POP 제한§! 기능을 활성화 시, 소유한 행성의 수에 따라 인구 증가율을 조정합니다."
+ z_pf2_mod_plnt_pop_decline:0 "$z_pf2_mod_plnt_pop_growth$"
+ z_pf2_mod_plnt_pop_decline_desc:0 "$z_pf2_mod_plnt_pop_decline$
+ z_pf2_mod_plnt_pop_clone:0 "§B제국 POP 제한: §! 클론 수정"
+ z_pf2_mod_plnt_pop_clone_desc:0 "$z_pf2_mod_plnt_pop_decline$
+ z_pf2_mod_plnt_pop_assembly:0 "§B제국 POP 제한: §! 수정"
+ z_pf2_mod_plnt_pop_assembly_desc:0 "$z_pf2_mod_plnt_pop_decline$
+###_动态人口限制
+ z_performance_misc.11.i0: "동적 인구 제한 §비활성화됨§!"
+ z_performance_misc.11.i0.tooltip: "바닐라 게임 기본값, 동적 인구 제한 비활성화 및 실업자 POP은 인구 증가/조립/이민률에 영향을주지 않습니다.\n\n§Y주의: 많은 수의 실업자 인구는 행성의 안정성을 심각하게 떨어 뜨리고 무제한 인구 증가는 게임 후반에 심각한 지연을 초래합니다. 매일 너무 많은 POP이 확인되기 때문입니다§!"
+ z_performance_misc.11.i1: "동적 인구 제한 §B매우 낮음§!"
+ z_performance_misc.11.i1.tooltip: "동적 인구 제한이 매우 낮음으로 설정되었습니다. 실업자가 많을수록 인구 증가/조립/이민률이 낮아집니다. 인구 증가를 제한하기 위해 4 개의 실업자 POP부터 시작하여 최대 8 개의 실업자 POP까지 가능합니다.\n\n§Y이것은 게임의 무제한 인구 증가 메커니즘과 다릅니다.§!"
+ z_performance_misc.11.i2: "동적 인구 제한 §G낮음§!"
+ z_performance_misc.11.i2.tooltip: "동적 인구 제한이 낮음으로 설정되었습니다. 실업자가 많을수록 인구 증가/조립/이민률이 낮아집니다. 인구 증가를 제한하기 위해 5 개의 실업자 POP부터 시작하여 최대 12 개의 실업자 POP까지 가능합니다.\n\n§Y이것은 게임의 무제한 인구 증가 메커니즘과 다릅니다 .§!"
+ z_performance_misc.11.i3: "동적 인구 제한 §B높음§!"
+ z_performance_misc.11.i3.tooltip: "Infinite Stellaris 기본값, 동적 인구 제한이 높음으로 설정되었습니다. 인구 증가를 제한하기 위해 6 개의 실업자 POP부터 시작하여 최대 20 개의 실업자 POP까지 가능합니다.\n\n§Y이것은 게임의 무제한 인구 증가 메커니즘과 다릅니다 .§!"
+#_[decision]
+ z_pf2_dec_extreme_pop_restrict_on:0 "엄격한 인구 통제 §H켜기§!"
+ z_pf2_dec_extreme_pop_restrict_on_desc:0 "엄격한 인구 제한을 전환할지 여부를 결정합니다."
+ z_pf2_extreme_pop_restrict_on:0 "행성은 최대 1개의 실업자 POP과 1개의 주거 부족 POP만 허용합니다."
+ z_pf2_dec_extreme_pop_restrict_off:0 "엄격한 인구 통제 §G끄기§!"
+ z_pf2_dec_extreme_pop_restrict_off_desc:0 "$z_pf2_dec_extreme_pop_restrict_on_desc$"
+ z_pf2_extreme_pop_restrict_off:0 "엄격한 인구 제한을 해제합니다."
+
+###_Planet population capacity
+ z_performance_misc.11.h1: "행성 인구 용량 §G활성화됨§!"
+ z_performance_misc.11.h1.tooltip: "엄격한 인구 제한을 해제하고 Infinite Stellaris 최적화 설정을 사용하여 행성 인구 용량을 활성화합니다. 행성의 총 인구는 행성 크기와 행성 등급에 의해 제한됩니다.\n\n§Y주의: Carrying Capacity 모드를 구독한 경우 이 기능은 자동으로 비활성화됩니다. 활성화된 행성의 인구 수용량은 더 이상 무제한 인구 증가가 없기 때문에 게임 동작에 약간의 차이를 만들 것입니다§!"
+ z_performance_misc.11.h2: "행성 인구 용량 §H비활성화됨§!"
+ z_performance_misc.11.h2.tooltip: "바닐라 게임 기본값을 사용하여 행성 인구 용량을 비활성화합니다. 가능하다면 행성의 인구는 계속 증가 할 것입니다.\n\n§Y경고: 무제한 인구 증가는 게임 후반에 심각한 지연을 유발합니다. 매일 너무 많은 POP이 확인되기 때문입니다.§!"
+
+ z_performance_misc.11.j1: "추가 행성 POP 용량 §HNone§!"
+ z_performance_misc.11.j1.tooltip: "추가 인구 용량은 없습니다."
+ z_performance_misc.11.j2: "추가 행성 POP 용량 §G30§!"
+ z_performance_misc.11.j2.tooltip: "모든 행성은 추가 인구 용량을 얻습니다."
+ z_performance_misc.11.j3: "추가 행성 POP 용량 §G60§!"
+ z_performance_misc.11.j3.tooltip: "$z_performance_misc.11.j2.tooltip$"
+ z_performance_misc.11.j4: "추가 행성 POP 용량 §G90§!"
+ z_performance_misc.11.j4.tooltip: "$z_performance_misc.11.j2.tooltip$"
+ z_performance_misc.11.j5: "추가 행성 POP 용량 §G120§!"
+ z_performance_misc.11.j5.tooltip: "$z_performance_misc.11.j2.tooltip$"
+#_[deposit]
+ z_trade_normal_energy: "AI 무역 보상"
+ z_trade_normal_energy_desc: "무역로 최적화로 인한 무역 수입 손실 보상"
+ z_trade_megacorp_energy: "$z_trade_normal_energy$"
+ z_trade_megacorp_energy_desc: "$z_trade_normal_energy_desc$"
+ z_trade_normal_goods: "$z_trade_normal_energy$"
+ z_trade_normal_goods_desc: "$z_trade_normal_energy_desc$"
+ z_trade_megacorp_goods: "$z_trade_normal_energy$"
+ z_trade_megacorp_goods_desc: "$z_trade_normal_energy_desc$"
+
+ z_pf2_d_dynamic_cap_1: "§G동적 인구 제한§!"
+ z_pf2_d_dynamic_cap_1_desc: "인구 증가/조립/이민률은 행성상의 실업자 팝과 주거 부족 POP의 수에 의해 결정됩니다."
+ z_pf2_d_dynamic_cap_2: "$z_pf2_d_dynamic_cap_1$"
+ z_pf2_d_dynamic_cap_2_desc: "$z_pf2_d_dynamic_cap_1_desc$"
+ z_pf2_d_dynamic_cap_3: "$z_pf2_d_dynamic_cap_1$"
+ z_pf2_d_dynamic_cap_3_desc: "$z_pf2_d_dynamic_cap_1_desc$"
+ z_pf2_d_dynamic_cap_4: "$z_pf2_d_dynamic_cap_1$"
+ z_pf2_d_dynamic_cap_4_desc: "$z_pf2_d_dynamic_cap_1_desc$"
+ z_pf2_d_dynamic_cap_5: "$z_pf2_d_dynamic_cap_1$"
+ z_pf2_d_dynamic_cap_5_desc: "$z_pf2_d_dynamic_cap_1_desc$"
+ z_pf2_d_dynamic_cap_6: "$z_pf2_d_dynamic_cap_1$"
+ z_pf2_d_dynamic_cap_6_desc: "$z_pf2_d_dynamic_cap_1_desc$"
+ z_pf2_d_dynamic_cap_7: "$z_pf2_d_dynamic_cap_1$"
+ z_pf2_d_dynamic_cap_7_desc: "$z_pf2_d_dynamic_cap_1_desc$"
+ z_pf2_d_dynamic_cap_8: "$z_pf2_d_dynamic_cap_1$"
+ z_pf2_d_dynamic_cap_8_desc: "$z_pf2_d_dynamic_cap_1_desc$"
+
+ z_pf2_ecat_trade: "§G무역 보조금§!"
+ mod_z_pf2_ecoc_core_produces_mult: "$z_pf2_ecoc_core$ 생산"
+ z_pf2_d_trade_2c: "§G후반 게임 부스터§!: 무역 보조금"
+ z_pf2_d_trade_2c_desc: "이 행성의 §B인력/Pops§! 그리고 §Y제국 무역 정책§!이 무역 산출물을 결정할 것입니다."
+ z_pf2_d_trade_ru: "$z_pf2_d_trade_2c$"
+ z_pf2_d_trade_ru_desc: "$z_pf2_d_trade_2c_desc$"
+ z_pf2_d_trade_league: "$z_pf2_d_trade_2c$"
+ z_pf2_d_trade_league_desc: "$z_pf2_d_trade_2c_desc$"
+ z_pf2_d_trade_normal: "$z_pf2_d_trade_2c$"
+ z_pf2_d_trade_normal_desc: "$z_pf2_d_trade_2c_desc$"
+ 
+###_[ai建设限制]   栖息地/环世界/星门 ####################################
+#_[栖息地]
+ z_performance_misc.11.b1: "AI 거주지 건설 §G제한§!"
+ z_performance_misc.11.b1.tooltip: "Infinite Stellaris 최적화 설정을 사용하면 AI의 궤도 거주지 건설이 제한됩니다. 설정은 언제든지 변경할 수 있지만 건설된 거주지는 제거 할 수 없습니다. AI는 궤도 거주지를 건설할 수 있을 때 제한없이 건설할 것이며, 이는 시스템 압력을 증가시킬 것입니다. 이 최적화 설정을 사용하면 AI 제국이 소유하고있는 거주지 구조의 수를 세어 AI용 건설 CD를 설정하여 게임 플레이 기능을 보장 할 뿐만 아니라 AI가 제한없이 궤도 거주지를 건설하는 것을 방지합니다.§!"
+ z_performance_misc.11.b2: "AI 거주지 건설 §H바닐라§!"
+ z_performance_misc.11.b2.tooltip: "바닐라 게임 기본값을 사용하여 AI가 거주지를 건설하도록 허용합니다. 설정은 언제든지 변경할 수 있지만 건설된 거주지는 제거할 수 없습니다. §YAI는 궤도 거주지를 건설할 수 있을 때 제한없이 건설하여 시스템 압력이 높아집니다.§!"
+ z_performance_misc.11.b3: "AI 거주지 건설 §R완전히 금지§!"
+ z_performance_misc.11.b3.tooltip: "AI가 거주지를 건설하지 못하도록합니다. 설정은 언제든지 변경할 수 있지만 건설된 거주지는 제거할 수 없습니다. §YAI는 궤도 거주지를 건설할 수 있을 때 제한없이 건설하여 시스템 압력이 증가합니다. AI가 거주지를 건설하는 것을 금지하면 게임 플레이에 영향을 미칩니다§!"
+ z_pf2.ai_habitat_details_on: "거주지 제한 설정 §H(확장)§!：일반 AI=§G[event_target:z_fw_tgt_global_event.z_pf2_var_cntr_ai_habitat_cap_set_common]§!/§Y공허 거주자§! =§G[event_target:z_fw_tgt_global_event.z_pf2_var_cntr_ai_habitat_cap_set_vd]§!"
+ z_pf2.ai_habitat_details_off: "거주지 제한 설정 §G(축소)§!：일반 AI =§G[event_target:z_fw_tgt_global_event.z_pf2_var_cntr_ai_habitat_cap_set_common]§!/§Y공허 거주자§! =§G[event_target:z_fw_tgt_global_event.z_pf2_var_cntr_ai_habitat_cap_set_vd]§!"
+ z_pf2.ai_habitat_details: "궤도 서식지 건설의 상한선은 일반 AI와 §Y공허 거주자§!에 대해 별도로 설정할 수 있습니다. "
+ z_pf2.ai_habitat_var_common_add_1: "일반 AI 거주지 구조물 상한 §G+1§!"
+ z_pf2.ai_habitat_var_common_add_5: "일반 AI 거주지 구조물 상한 §G+5§!"
+ z_pf2.ai_habitat_var_common_subtract_1: "일반 AI 거주지 구조물 상한 §B-1§!"
+ z_pf2.ai_habitat_var_common_subtract_5: "일반 AI 거주지 구조물 상한 §B-5§!"
+ z_pf2.ai_habitat_var_vd_add_1: "§Y공허 거주자§! 거주지 구조물 상한 §G+1§!"
+ z_pf2.ai_habitat_var_vd_add_5: "§Y공허 거주자§! 거주지 구조물 상한 §G+5§!"
+ z_pf2.ai_habitat_var_vd_subtract_1: "§Y공허 거주자§! 거주지 구조물 상한 §B-1§!"
+ z_pf2.ai_habitat_var_vd_subtract_5: "§Y공허 거주자§! 거주지 구조물 상한 §B-5§!"
+#_[环世界]
+ z_performance_misc.11.g1: "AI 링 월드 건설 §H허용됨§!"
+ z_performance_misc.11.g1.tooltip: "원래 버전에서 AI는 마음대로 링 월드를 건축합니다. §Y 자금과 조건이 기준을 충족하면 AI는 링 월드를 건설하기 위해 노력을 아끼지 않을 것이며, 이로 인해 AI가 많은 인구를 차지하고 렉을 초래할 수 있습니다.§!"
+ z_performance_misc.11.g2: "AI 링 월드 건설 §G제한됨§!"
+ z_performance_misc.11.g2.tooltip: "이미 전 은하에 식민지가 있는 경우 해당 AI는 링 월드를 건설하지 않습니다. §Y 이 기능은 기존 링 월드를 업그레이드하거나 손상된 링 월드를 복구하기 위해 AI에 영향을 미치지 않습니다. §!"
+ z_performance_misc.11.g3: "AI 링 월드 건설 §B금지됨§!"
+ z_performance_misc.11.g3.tooltip: "AI는 어떤 상황에서도 링 월드를 건설하지 않습니다. §Y 이 기능은 기존 링 월드를 업그레이드하거나 손상된 링 월드를 복구하기 위해 AI에 영향을 미치지 않습니다. §!"
+
+#_[星门]
+ z_performance_misc.limited_gateway_vanilla: "AI 관문 건설 §H허용됨§!"
+ z_performance_misc.limited_gateway_ban: "AI 관문 건설 §B금지됨§!"
+ z_performance_misc.limited_gateway.tooltip: "자원을 사용할 수 있게 되면 AI는 모든 곳에 관물을 구축하기 위해 노력을 아끼지 않을 것이며, 이로 인해 경로 통계가 중단 될 수 있습니다. §Y 관문 건설을 금지해도 손상된 관문을 수리하는 AI에는 영향을 미치지 않습니다. §!"
+
+
+
+
+###_[贸易优化]
+ z_performance_misc.11.a1: "무역 최적화 §H비활성화됨§!"
+ z_performance_misc.11.a1.tooltip: "원래 설정인 AI 무역 시스템은 §Y 일일 무역 경로 감지§!를 한 후, 관문 네트워크가 구축되면 게임 속도가 심각하게 느려집니다."
+ z_performance_misc.11.a2: "무역 최적화 §GAI 활성화됨§!"
+ z_performance_misc.11.a2.tooltip: "AI 무역 시스템을 닫고 무역 보상 버프를 높여 §Y일일 무역 경로 검사§!에서 생성되는 계산 량을 줄입니다! \n플레이어의 무역 시스템은 변경되지 않았습니다. \n\n§Y알림: 무역 보상은 행성의 POP/인력 (산업 혁명)과 행성의 추가 무역 가치, 각 인구/인력=§G0.5 무역 가치§!에 따라 추가됩니다. §!"
+ z_performance_misc.11.a3: "무역 최적화 §B모두 활성화됨§!"
+ z_performance_misc.11.a3.tooltip: "모든 거래 시스템을 종료하고 출력 보상 버프를 증가시켜 §Y일일 무역 경로 검사§!의 계산 압력을 줄입니다. \n\n§Y알림: 무역 보상은 행성의 POP/인력 (산업 혁명)과 행성의 추가 무역 가치, 각 POP/인력=§G0.5 무역 가치§!에 따라 추가됩니다. §!"
+
+#_pmod
+ z_pf2_mod_plnt_trade_opt_normal: "무역 보조금 §G디폴트§!"
+ z_pf2_mod_plnt_trade_opt_normal_desc: "행성 POP/인력 (산업 혁명) 및 행성 추가 무역 가치에 따라 추가됩니다."
+ z_pf2_mod_plnt_trade_opt_goods: "무역 보조금 §H소비재§!"
+ z_pf2_mod_plnt_trade_opt_goods_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_unity: "무역 보조금 §C통합§!"
+ z_pf2_mod_plnt_trade_opt_unity_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_league: "무역 보조금 §BLeague§!"
+ z_pf2_mod_plnt_trade_opt_league_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+#_[工整传统]
+ z_pf2_mod_plnt_trade_opt_tt_1e: "무역 보조금 깔끔한 전통: £energy£§Y$energy$§!"
+ z_pf2_mod_plnt_trade_opt_tt_1e_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_1m: "무역 보조금 깔끔한 전통: £minerals£§R$minerals$§!"
+ z_pf2_mod_plnt_trade_opt_tt_1m_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_1f: "무역 보조금 깔끔한 전통: £food£§G$food$"
+ z_pf2_mod_plnt_trade_opt_tt_1f_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_rr: "무역 보조금 깔끔한 전통: §BResearch§!"
+ z_pf2_mod_plnt_trade_opt_tt_rr_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_2a: "무역 보조금 깔끔한 전통: £alloys£§P$alloys$§!"
+ z_pf2_mod_plnt_trade_opt_tt_2a_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_2c: "무역 보조금 깔끔한 전통: £consumer_goods£§H$consumer_goods$§!"
+ z_pf2_mod_plnt_trade_opt_tt_2c_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_2ac: "무역 보조금 깔끔한 전통: §Y2nd Industry§!"
+ z_pf2_mod_plnt_trade_opt_tt_2ac_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_ru: "무역 보조금 깔끔한 전통: £unity£§C$unity$§!"
+ z_pf2_mod_plnt_trade_opt_tt_ru_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_league: "무역 보조금 깔끔한 전통: §BTrade League§!"
+ z_pf2_mod_plnt_trade_opt_tt_league_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+
+ z_pf2_mod_plnt_trade_opt_tt_3vm: "무역 보조금 깔끔한 전통: £volatile_motes£§P$volatile_motes$§!"
+ z_pf2_mod_plnt_trade_opt_tt_3vm_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_3eg: "무역 보조금 깔끔한 전통: £exotic_gases£§G$exotic_gases$§!"
+ z_pf2_mod_plnt_trade_opt_tt_3eg_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_3rc: "무역 보조금 깔끔한 전통: £rare_crystals£§Y$rare_crystals$§!"
+ z_pf2_mod_plnt_trade_opt_tt_3rc_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_3all: "무역 보조금 깔끔한 전통: §Advanced Resources§!"
+ z_pf2_mod_plnt_trade_opt_tt_3all_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_srlm: "무역 보조금 깔끔한 전통: £sr_living_metal£§C$sr_living_metal$§!"
+ z_pf2_mod_plnt_trade_opt_tt_srlm_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_srzro: "무역 보조금 깔끔한 전통: £sr_zro£§C$sr_zro$§!"
+ z_pf2_mod_plnt_trade_opt_tt_srzro_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ z_pf2_mod_plnt_trade_opt_tt_srdm: "무역 보조금 깔끔한 전통: £sr_dark_matter£§C$sr_dark_matter$§!"
+ z_pf2_mod_plnt_trade_opt_tt_srdm_desc: "$z_pf2_mod_plnt_trade_opt_normal_desc$"
+ 
+#_mod
+ mod_z_pf2_ecoc_core_energy_produces_add: "§G성과 보조금§!은 £energy£§Y$energy$§!을 생산"
+ mod_z_pf2_ecoc_core_energy_upkeep_add: "§G성과 보조금§!은 £energy£§Y$energy$§!을 유지"
+ mod_z_pf2_ecoc_core_unity_produces_add: "§G성과 보조금§!은 £unity£§C$unity$§!을 생산"
+ mod_z_pf2_ecoc_core_consumer_goods_produces_add: "§G성과 보조금§!은 £consumer_goods£§H$consumer_goods$§!을 생산"
+ mod_z_pf2_ecoc_core_minerals_produces_add: "§G성과 보조금§!은 £minerals£§R$minerals$§!을 생산"
+ mod_z_pf2_ecoc_core_food_produces_add: "§G성과 보조금§!은 £food£§G$food$§!을 생산"
+ mod_z_pf2_ecoc_core_physics_research_produces_add: "§G성과 보조금§은! £physics_research£§B$physics_research$§!을 생산"
+ mod_z_pf2_ecoc_core_engineering_research_produces_add: "§G성과 보조금§!은  £engineering_research£§H$engineering_research$§!을 생산"
+ mod_z_pf2_ecoc_core_society_research_produces_add: "§G성과 보조금§!은  £society_research£§G$society_research$§!을 생산"
+ mod_z_pf2_ecoc_core_alloys_produces_add: "§G성과 보조금§!을 £alloys£§P$alloys$§!은 생산"
+ 
+ mod_z_pf2_ecoc_core_volatile_motes_produces_add: "§G성과 보조금§!은 £volatile_motes£§P$volatile_motes$§!을 생산"
+ mod_z_pf2_ecoc_core_exotic_gases_produces_add: "§G성과 보조금§!은  £exotic_gases£§G$exotic_gases$§!을 생산"
+ mod_z_pf2_ecoc_core_rare_crystals_produces_add: "§G성과 보조금§!은 £rare_crystals£§Y$rare_crystals$§!을 생산"
+ mod_z_pf2_ecoc_core_sr_living_metal_produces_add: "§G성과 보조금§!은 £sr_living_metal£§C$sr_living_metal$§!을 생산"
+ mod_z_pf2_ecoc_core_sr_zro_produces_add: "§G성과 보조금§!은 £sr_zro£§C$sr_zro$§!을 생산"
+ mod_z_pf2_ecoc_core_sr_dark_matter_produces_add: "§G성과 보조금§!은 £sr_dark_matter£§C$sr_dark_matter$§!을 생산"
+
+
+
+
+#_自我进化
+ z_performance_misc.11.c1: "자가 진화 이벤트 §G비활성화됨§!"
+ z_performance_misc.11.c1.tooltip: "Infinite Stellaris 최적화 설정을 사용하여 자가 진화를 비활성화 합니다. §Y환경에 적응하기 위해 자가 진화는 새로운 종을 생성하여 잠재적인 시스템 압력을 증가시킬 것입니다.§!"
+ z_performance_misc.11.c2: "자가 진화 이벤트 §H활성화됨§!"
+ z_performance_misc.11.c2.tooltip: "바닐라 게임 기본값인, 자가 진화를 활성화 합니다. §Y환경에 적응하기 위해 자가 진화는 새로운 종을 생성하여 잠재적인 시스템 압력을 증가시킬 것입니다.§!"
+#_AI物种杂交
+ z_performance_misc.11.d1: "AI 혼종 §G비허용됨§!"
+ z_performance_misc.11.d1.tooltip: "Infinite Stellaris 최적화 설정을 사용하면 AI가 혼종을 생성하지 않습니다. Unofficial Hive DLC: Forgotten Queens와 같은 혼종 기능이 있는 모드에도 적용됩니다. §Y이종 간 호환성은 많은 수의 아종을 생성하여 시스템 부담을 심각하게 증가시킵니다.§!"
+ z_performance_misc.11.d2: "AI 혼종 §H허용됨§!"
+ z_performance_misc.11.d2.tooltip: "바닐라 게임 기본값을 사용하면 AI가 혼종을 만들 수 있습니다. Unofficial Hive DLC: Forgotten Queens와 같은 혼종 기능이 있는 모드에도 적용됩니다. §Y이종 간 호환성은 많은 수의 아종을 생성하여 시스템 부담을 심각하게 증가시킵니다.§!"
+#_[AI gene ascension patch Disallowed]
+ z_performance_misc.11.e1: "AI 생물학적 승천 §G비허용됨§!"
+ z_performance_misc.11.e1.tooltip: "Infinite Stellaris 최적화 설정을 사용하여 AI가 생물학적 승천을 사용하지 못하도록합니다. AI가 이미 선택한 생물학적 승천를 제거하는 것은 불가능합니다. 게임을 시작할 때 결정하십시오. §Y생물학적 승천을 가진 AI는 계속해서 아종을 생성하고 시스템 부담을 심각하게 증가시킬 것입니다.§!"
+ z_performance_misc.11.e2: "AI 생물학적 승천 §H허용됨§!"
+ z_performance_misc.11.e2.tooltip: "바닐라 게임 기본값을 사용하여 AI가 생물학적 승천을 사용하도록 허용합니다. AI가 이미 선택한 생물학적 승천을 제거하는 것은 불가능합니다. 게임을 시작할 때 결정하십시오. §Y생물학적 승천을 가진 AI는 계속해서 아종을 생성하고 시스템 부담을 심각하게 증가시킬 것입니다.§!"
+#_禁用物种改造
+ z_pf2_disable_ai_species_mod: "§GInfinite Collection§!: AI 종 수정 비활성화"
+ z_pf2_disable_ai_species_mod_desc: "유기적이든 로봇이든 모두 처음 그대로 유지됩니다."
+ z_performance_misc.11.e3: "AI 종 변환 §H허용됨§!"
+ z_performance_misc.11.e3.tooltip: "바닐라 게임 기본값을 사용하면 AI의 종 수정이 허용됩니다. 조건이 충족되는 한 AI는 계속해서 아종을 생성하여 시스템 부담을 심각하게 증가시킵니다."
+ z_performance_misc.11.e5: "AI 종 변환 §B제한§!"
+ z_performance_misc.11.e5.tooltip: "Infinite Stellaris 최적화 설정을 사용하면 AI의 종은 최대 2 개의 아종만 가질 수 있습니다."
+ z_performance_misc.11.e4: "AI 종 변환 §B비허용됨§!"
+ z_performance_misc.11.e4.tooltip: "Infinite Stellaris 최적화 설정을 사용하면 AI의 종 수정이 허용되지 않습니다."
+#_舰队合并
+ z_performance_misc.11.k1: "AI 함대 최적화 효율성 §G높음§!"
+ z_performance_misc.11.k1.tooltip: "수동 함대 최적화 또는 자동 함대 최적화를 사용하면 낮은 함급이 가능한 한 많이 대형 함급으로 병합됩니다."
+ z_performance_misc.11.k2: "AI 함대 최적화 효율성 §B표준§!"
+ z_performance_misc.11.k2.tooltip: "수동 함대 최적화 또는 자동 함대 최적화를 사용할 경우 소형 선박은 거의 예약되지 않습니다."
+ z_performance_misc.11.k3: "AI 함대 최적화 효율성 §H낮음§!"
+ z_performance_misc.11.k3.tooltip: "수동 함대 최적화 또는 자동 함대 최적화를 사용할 때 많은 소형 선박이 예약됩니다."
+ z_performance_misc.11.k4: "AI 함대 자동 최적화 §G활성화됨§!"
+ z_performance_misc.11.k4.tooltip: "최적화는 매년 최적화 가능한 모든 힘대에서 자동으로 수행되며 최적화 효율성은 이전 옵션의 설정을 따릅니다."
+ z_performance_misc.11.k5: "AI 함대 자동 최적화 §H비활성화됨§!"
+ z_performance_misc.11.k5.tooltip: "자동 함대 최적화 없음"
+#_mod
+ z_pf2_mod_ship_opt: ""
+#_物种整合
+ z_pf2_trait_core_species:0 "직접 병합 템플릿"
+ z_pf2_trait_core_species_desc: "현재 속한 카테고리의 템플릿 종, 다른 모든 종은 여기에 병합됩니다. 이 템플릿으로 병합 된 각 팝에는 약간의 자원이 필요합니다."
+ z_performance_misc.11.f1: "§G실험적 기능: 모든 종 병합 - AI 제국§!"
+ z_performance_misc.11.f1.tooltip: "§Y일반 AI 제국§! 과 §Y승천 제국§!의 모든 종을 병합하여 너무 많은 종을 제거합니다. 이것은 게임 후반에 게임 성능을 향상시킬 것입니다.\n§G완전한 시민권§!을 가진 모든 POP들은 §B이 제국의 창립 종족§!으로 병합됩니다.\n§G제한된 시민권§!을 가진 모든 팝은 하나의 종으로 병합됩니다.\n모든 §G노예§!는 하나의 종으로 병합됩니다."
+ z_performance_misc.11.f1b.tooltip: "§Y일반 AI 제국§! 과 §Y승천 제국§!의 모든 종을 병합하여 너무 많은 종을 제거합니다. 이것은 게임 후반에 게임 성능을 향상시킬 것입니다.\n§G완전한 시민권§!을 가진 모든 POP들은 §B이 제국의 창립 종족§!으로 병합됩니다.\n§G제한된 시민권§!을 가진 모든 팝은 하나의 종으로 병합됩니다.\n모든 §G노예§!는 하나의 종으로 병합됩니다.\n\n§알림: 이 기능은 모드 설정 패널 상단의 바로가기 버튼을 통해 직접 실행할 수 있습니다.§!"
+#_物种整合-国内
+ z_performance_misc.11.f2: "§G실험적 기능: 모든 종 병합 - 당신의 제국§!"
+ z_performance_misc.11.f2.tooltip: "§Y당신의 제국§의 모든 종을 병합합니다.\n§G완전한 시민권§!을 가진 모든 POP들은 §B이 제국의 창립 종족§!으로 병합됩니다.\n§G제한된 시민권§!을 가진 모든 팝은 하나의 종으로 병합됩니다.\n모든 §G노예§!는 하나의 종으로 병합됩니다."
+#_智械整合-国内
+ z_performance_misc.11.f4: "§G실험적 기능: 모든 기계 종 병합 - 당신의 제국§!"
+ z_performance_misc.11.f4.tooltip: "§Y당신의 제국§의 모든 기계 종을 병합합니다..\n§G완전한 시민권§!을 가진 모든 로봇 POP은 병합됩니다.\n§G제한된 시민권§!을 가진 모든 로봇 POP은 하나의 로봇 종으로 병합됩니다.\n§G봉사 로봇§!은 하나의 로봇 종으로 병합됩니다."
+#_手动舰队合并
+ z_performance_misc.11.f5: "§GAI 함대 최적화§!"
+ z_performance_misc.11.f5.tooltip: "최적화 가능한 모든 AI 함대에 대해 즉시 최적화를 수행하고 AI의 기술 수준 및 최적화 효율성 설정에 따라 AI 함대를 병합합니다. 그런 다음 AI는 전 세계 함선의 총 수를 줄이기 위해 가능한 한 많은 대형 함급을 사용합니다."
+#_清除轨道栖息地
+ z_performance_misc.11.f3: "§G실험적 기능: 궤도 거주지 제거§!"
+ z_performance_misc.11.f3.tooltip: "§B공허 거주자§!가 아닌 제국의 모든 거주지를 파괴합니다. §Y주의해서 사용하십시오!§!"
+#_utility
+ z_performance_misc.11.x: "§B디폴트로 재설정§!"
+ z_performance_misc.11.x.tooltip: "Infinite Stellaris 기본 설정을 사용하여 모든 최적화를 활성화합니다."
+ z_performance_misc.11.x1: "§H바닐라 게임 설정으로 재설정§!"
+ z_performance_misc.11.x1.tooltip: "바닐라 게임 설정을 사용하며, 모든 최적화는 비활성화됩니다."
+ z_performance_misc.11.x2: "IC 모드 메뉴로 돌아가기"
+ z_performance_misc.11.x2.tooltip: "Infinite Collection 메인 메뉴로 돌아 가기"
+ z_performance_misc.11.x3: "나가기"
+ z_performance_misc.11.x3.tooltip: "대화창 닫기."
+
+
+###_[手动迁出]
+ z_pf_tips_heup_ignore_migration_control: "이 POP 이주 메커니즘은 §BBetter Performance§!의 독립 기능입니다. 바닐라 이주 제어의 영향을 받지 않으며 바닐라 이주 시스템에 영향을 주지 않습니다."
+ z_pf_tips_heup_mig_ignore: "§R이주 무시함§!으로 설정됨"
+ z_pf_dec_plnt_heup_mig: "§BPOP 관리:§! 수동 이동"
+ z_pf_dec_plnt_heup_mig_desc: "이민 설정에 따라 POP이 이동합니다."
+ z_pf_tips_heup_mig: "기본적으로 실업자는 다른 행성에 빈 일자리가 있을 때만 이주합니다. §H강제 이주§!로 설정하고 POP를 수용 할 수 있는 행성이 있다면, §G1 POP§!만 있을 때까지 이동합니다.\n$z_pf_tips_heup_ignore_migration_control$\n알림: 새 식민지는 기본적으로 §R이주 금지§!로 설정됩니다.§!."
+#_设置
+ z_pf_tips_heup_mig_set: "현재 행성의 이주 설정을 변경합니다. §B디폴트§!/§G우선§!/§H 강제§!/§R무시§!로 설정할 수 있습니다.\n$z_pf_tips_heup_ignore_migration_control$"
+ z_pf_dec_plnt_heup_mig_set_default: "현재 이주 설정 §B디폴트§!"
+ z_pf_dec_plnt_heup_mig_set_default_desc: "실업자 POP만 이주합니다."
+ z_pf_dec_plnt_heup_mig_set_prio: "현재 이주 설정 §G우선§!"
+ z_pf_dec_plnt_heup_mig_set_prio_desc: "이 행성의 팝에게 우선권이 주어질 것입니다."
+ z_pf_dec_plnt_heup_mig_set_forced: "현재 이주 설정 §H강제§!"
+ z_pf_dec_plnt_heup_mig_set_forced_desc: "모든 팝은 §G1 POP§!만 남을 때까지 강제로 밖으로 이주할 수 있습니다. \n알림: 이 기능은 §Y제국 이주§!와 §Y자동 이주§!에 유효하지 않습니다.""
+ z_pf_dec_plnt_heup_mig_set_ignore: "현재 이주 설정 §R무시§!"
+ z_pf_dec_plnt_heup_mig_set_ignore_desc: "이 행성의 POP은 이주하지 않을 것입니다."
+
+###_[手动迁入]
+ z_pf_tips_heup_immig_ignore: "§R이주 무시§!으로 설정됨"
+ z_pf_dec_plnt_heup_immig: "§BPOP 관리:§! 수동 이동"
+ z_pf_dec_plnt_heup_immig_desc: "이주 설정에 따라 팝이 이주합니다."
+ z_pf_tips_heup_immig: "기본적으로 팝은 행성에 빈 자리가 있을 때만 들어갑니다. §H강제 이주§!로 설정되어 있으면 거주 가능성 이외의 조건은 무시되고 거주 가능한 팝은 무기한 이동됩니다.\n$z_pf_tips_heup_ignore_migration_control$"
+#_设置
+ z_pf_tips_heup_immig_set: "현재 행성의 이주 설정을 변경하여 §B디폴트§!/§G우선§!/§H강제§!/§H무시§!로 설정할 수 있습니다.\n$z_pf_tips_heup_ignore_migration_control$"
+ z_pf_dec_plnt_heup_immig_set_default: "현재 이주 설정 §B디폴트§!"
+ z_pf_dec_plnt_heup_immig_set_default_desc: "이 행성의 빈 일자리가 채워지면 POP은 더 이상 들어오지 않을 것입니다."
+ z_pf_dec_plnt_heup_immig_set_prio: "현재 이주 설정 §G우선§!"
+ z_pf_dec_plnt_heup_immig_set_prio_desc: "실업자 POP이 먼저 이 행성으로 이동할 것입니다."
+ z_pf_dec_plnt_heup_immig_set_forced: "현재 이주 설정 §H강제§!"
+ z_pf_dec_plnt_heup_immig_set_forced_desc: "모든 실업자 팝은 공석에 관계없이 이 행성으로 강제로 이주 할 것입니다. \n알림: 이 기능은 §Y제국 이주§!와 §Y자동 이주§!에 유효하지 않습니다."
+ z_pf_dec_plnt_heup_immig_set_ignore: "현재 이주 설정 §R무시§!"
+ z_pf_dec_plnt_heup_immig_set_ignore_desc: "이 행성의 POP은 이주하지 않을 것입니다."

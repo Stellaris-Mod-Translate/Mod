@@ -1,0 +1,20 @@
+﻿ l_english:
+ origin_hive_cx_hive_world:0 "집합공생체"
+ origin_hive_cx_hive_world_desc:0 "이 군체는 살아있는 생물체의 거대한 집합체로, 그 안에 사는 다른 많은 공생관계 종을 수용합니다."
+ 
+ origin_hive_cx_hive_world_effects:0 "모성은 §Y$pc_hive$§!입니다.\n거주 선호가 §Y$trait_pc_hive_preference$§!으로 변경되며, 다른 유형의 행성들은 선호하지 않습니다.\n\n개척선은 더 비용이 들지만, 거주하기 적합하지 않은 행성을 천천히 §Y$pc_hive$§!으로 바꾸는 프로세스를 유도합니다."
+ 
+ 
+ START_SCREEN_CX_HIVE_WORLD:0 "수천 년 동안 나는 이 우주라는 광활한 공허에서 홀로 기다렸다.\n내 이름은 [Root.Capital.GetName], [Root.Owner.GetSpeciesNamePlural] 종족을 품고 있는 행성이자 거대한 생명체이다.\n\n나는 그들이 존재하기도 훨씬 전부터 살아왔다.\n\n나는 그들이 진화하는 것과 존속하기 위해 싸우는 모습을 지켜보았고, 그들이 멸망의 위기에 몰렸다가 궁극적으로 번성하기에 이르기까지의 모든 순간에 나는 그들과 함께했다.\n\n여러 세기가 흐르며 우리는 깊은 공생 관계를 맺었고, 우리의 정신은 하나의 의식으로 합쳐져 우리를 둘러싼 이 어둠을 뚫고 나아가기 위해 열의를 다했다.\n\n수많은 세월 속의 노력 끝에, 우리는 드디어 우주에 진출할 수 있게 되었다!"
+ 
+ cx_hive_stage_1: "공생체 성장 1단계"
+ cx_hive_stage_1_desc: "행성은 군체와 하나가 될 거대한 살아있는 생명체로 변화하고 있습니다."
+ cx_hive_stage_2: "공생체 성장 2단계"
+ cx_hive_stage_2_desc: "행성은 군체와 하나가 될 거대한 살아있는 생명체로 변화하고 있습니다."
+ 
+ decision_grow_hive_world: "군체 행성 성장"
+ decision_grow_hive_world_desc:0 "우리 종족의 번성을 위해서는 이 행성 표면에 거대한 생명체를 자라게 해야 합니다."
+ decision_grow_hive_world_effects: "이 행성을 §Y$pc_hive$§!으로 자라나게 하는 작업을 시작합니다."
+ 
+ 
+ 

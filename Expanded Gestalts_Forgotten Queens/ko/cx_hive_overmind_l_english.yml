@@ -1,0 +1,122 @@
+﻿l_english:
+ civic_overmind_secondary_species:0 "원격 드론"
+ origin_tooltip_overmind_effects:0 "§Y$citizenship_full$§! 시민권과 §Y$living_standard_hive_mind$§! 생활 수준을 가진 §Y하위 종족§! POP과 함께 게임 시작\n§Y지휘 종족§!의 구성원만 §Y지도자§!가 될 수 있음\n§Y지휘 종족§!의 구성원은 §Y지도자§!만 될 수 있음\n\n§Y지휘 종족§!§R의 특성은 게임 시작 후 변경할 수 없음§!\n\n안정도: §G+5§!"
+ origin_hive_overmind:0 "초월체"
+ origin_hive_overmind_desc:0 "이 군체의식은 §Y지휘 종족§!이 명령을 내리고 §Y하위 종족§!이 그 명령을 따릅니다."
+ civic_hive_deep_space_connection:0 "심우주 연결망"
+ civic_hive_deep_space_connection_desc:0 "이 군체의식의 정신과 우주의 구조는 깊게 맞물려 있으며, 어느 정도는 소통도 가능합니다."
+ civic_hive_strong_connection:0 "생체 통합적 기술"
+ civic_hive_strong_connection_desc:0 "선원의 일부이자 함선의 일부. 이 군체의식은 스스로와 기술을 융합하였고, 다른 제국은 이 기술을 이해할 수 없습니다."
+ civic_tooltip_strong_connection_effects:0 "함선이 잔해를 남기지 않기 때문에 다른 제국이 이를 역설계할 수 없음"
+ GetPurgeProcessingResource_life:0 "죽음에서 §HPOP§!을 만들고 식량을 줄이는 새로운 생명체입니다"
+ GetPurgeProcessingResource_all:1 "자원"
+ 
+ civic_hive_parasitic:0 "기생 배아"
+ civic_hive_parasitic_desc:0 "이 군체의식은 번식하기 위해 다른 §Y유기체§!에 배아를 주입해 감염시킵니다."
+ civic_tooltip_parasitic_effects:0 "당신의 제국이 §Y네크로파지§! 생물체를 감염시키고, 정화되면 §Y주종족§!의 새로운 팝으로 변환합니다.\n\n§Y기생 배아§!가 £pop£  §YPOP§!을 공물로 제공하도록 정복 할 수있는 모든 비-게슈탈트 제국에 §Y수요 희생§! 전쟁 명분을 얻습니다."
+ civic_hive_parasitic_lithoid:0 "수정 포자"
+ civic_hive_parasitic_lithoid_desc:0 "이 군체의식은 수정 포자로 다른 §Y유기체§!종족을 감염시켜 §YPOP 수§!를 증가시킵니다."
+ civic_hive_parasitic_necroid:0 "망령화 감염"
+ civic_hive_parasitic_necroid_desc:0 "이 군체의식은 다른 §Y유기체§!종족의 몸을 사용하여 부자연스러울 정도로 §YPOP 수§!를 증가시키는 능력을 가지고 있습니다."
+ 
+ civic_hive_natural_attraction:0 "자연 친화"
+ civic_hive_natural_attraction_desc:0 "꿀벌이 꽃에 이끌리듯이, 이 군체의식은 §Y농장§!으로부터 먹을 것을  모으고, §Y가축§!으로부터 먹을 것과 광물을 모으는 일에 최적화되어 있습니다."
+ civic_hive_natural_attraction_necroid:0 "비정상적 갈망"
+ civic_hive_natural_attraction_necroid_desc:0 "이 군체의식은 비정상적인 식욕에 휩싸여 있습니다. 특이한 식재료에 대한 이 갈망 덕에 이들은 §Y농장§!으로부터 £food£ §Y$food$§!을 모으고, §Y가축§!으로부터 £food£ §Y$food$§!과 £minerals£ §Y$minerals$§!을 모으는 일에 탁월한 실력을 가지고 있습니다."
+ personality_hive_farmers_desc:0 "온 은하가 재배하거나 사육할 먹이로 넘쳐납니다. 생리적 욕구를 충족하는 것은 아무런 문제도 없습니다."
+ personality_hive_farmers:0 "은하의 채집자"
+ personality_parasitic_alien_desc:0 "유기체 감염자는 아마 그 어떤 누구보다도 은하의 다른 생명체들을 소중히 여길 것입니다. 그래야 앞으로 태어날 배아에게 좋은 숙주를 제공할 수 있기 때문입니다."
+ personality_parasitic_alien:0 "유기체 감염자"
+ civic_tooltip_focused_mind_effects:0 "§Y£society£ $society_research$§!, §Y£physics£ $physics_research$§! , §Y£engineering£ $engineering_research$§! 연구 사이의 우선 순위를 정할 수 있는 §Y연구 초점§!정책을 제공합니다."
+ civic_hive_focused_mind:0 "집중하는 무리"
+ civic_hive_focused_mind_desc:0 "노력 없는 발전은 없습니다. 이 군체의식은 사고의 혼돈을 드나들며 발전과 통합 사이에서 줄타기를 합니다."
+ 
+ policy_focused_mind_policy:0 "연구 집중"
+ policy_focused_mind_policy_desc:0 "정신이란 것은 강력합니다. 생각만으로도 벽과 공허를 넘나들 수 있습니다."
+ 
+ focus_mind_normal:0 "시냅스 균형"
+ focus_mind_normal_desc:0 "변화는 언제나 일관성과 균형을 유지해야 한다."
+ 
+ focus_mind_society:0 "이타적인 호기심"
+ focus_mind_society_desc:0 "대인관계 기술과 협력적이고 상호의존적인 관계의 형성은 군체의식을 매료시킵니다."
+ 
+ focus_mind_engineering:0 "대담한 상상력"
+ focus_mind_engineering_desc:0 "새로운 물건을 만들고 시뮬레이팅하는 능력은 불가능을 상상할 수 있는 창의적이고 용감한 군체의식에겐 당연히 따라오는 능력입니다."
+ 
+ focus_mind_physics:0 "논리적-수학적 사고"
+ focus_mind_physics_desc:0 "이 군체의식은 패턴화, 카테고리, 관계와 같은 것에 많은 관심을 가지고 있습니다. 산술 문제, 전략 게임, 실험 등에 끌립니다."
+ 
+ 
+ #obsolete
+ focus_mind_unity:0 "드론 통제"
+ focus_mind_unity_desc:0 "모든 개체에 대해 선의와 정의를 유지한다. 모든 개체와의 평화와 조화를 이루어 나간다."
+ focus_mind_research:0 "혼돈적 사고"
+ focus_mind_research_desc:0 "변화하지 않는 자는 발전할 수 없고, 생각을 바꾸지 않는 자는 변화할 수 없다."
+ #obsolete end
+ focus_mind_ai:0 "AI 집중"
+ focus_mind_ai_desc:0 "AI는 오직 이 정책만을 사용."
+ 
+ 
+ policy_blood_tributary_policy:0 "인구 수확"
+ policy_blood_tributary_policy_desc:0 "우리는 조공국들이 우리에게 얼마나 자주 공물을 바쳐야 할 지를 명확히 표명해야 합니다."
+ blood_tributary_greedy:0 "연간 수확"
+ blood_tributary_greedy_name:0 "연간 수확"
+ blood_tributary_greedy_desc:0 "각 행성은 매년마다 공물을 바쳐야 합니다."
+ blood_tributary_balanced:0 "신생아 수확"
+ blood_tributary_balanced_name:0 "신생아 수확"
+ blood_tributary_balanced_desc:0 "신생아가 태어날 때마다 공물을 바쳐야 합니다."
+ blood_tributary_magnanimous:0 "관대함"
+ blood_tributary_magnanimous_name:0 "관대함"
+ blood_tributary_magnanimous_desc:0 "우리는 지배자로서의 자비를 베풀어 피지배국들이 인구를 늘릴 수 있도록 허용할 것입니다.\n그들의 신생아 절반은 공물로 바쳐져야 하지만, 나머지 절반은 그들이 원하는 대로 할 수 있을 것입니다."
+ 
+ 
+ 
+ 
+ gov_hive_farmers:0 "은하의 채집자"
+ gov_hive_farmers_desc:0 "온 은하가 재배하거나 사육할 먹이로 넘쳐납니다. 생리적 욕구를 충족하는 것은 아무런 문제도 없습니다."
+ gov_parasitic_alien:0 "사악한 기생충"
+ gov_parasitic_alien_desc:0 "$gov_parasitic_alien$들은 무자비한 유기적 감염자들입니다. 온 은하를 뒤져서라도 그들의 아이들을 감염시킬 유기체를 찾아나설 것입니다."
+ opinion_parasitic_alien:0 "$civic_hive_parasitic$"
+ opinion_parasitic_alien_overlord: "기생 군주"
+ trait_hive_mind_overlord:0 "군체 지휘자"
+ trait_hive_mind_overlord_desc:0 "§L이 종족은 그들의 집단의식을 통해 다른 종족을 통제합니다.§!\n"
+ trait_hive_mind_remote_drone:0 "원격 드론"
+ trait_hive_mind_remote_drone_desc:0 "§L이 종족은 그들의 주인을 섬깁니다.§!\n"
+ mod_planet_researchers_unity_produces_add:0 "£job_researcher£ $job_researcher_plural$이 생산하는 £unity£ 통합력"
+ mod_planet_livestock_food_produces_mult:0 "£job_livestock£ $job_livestock_plural$이 생산하는 £food£ 식량"
+ mod_planet_livestock_minerals_produces_mult:0 "£job_livestock£ $job_livestock_plural$이 생산하는 £minerals£ 광물"
+ organic_structures:0 "유기적 구조물"
+ organic_lithoid_structures:0 "살아있는 구조물"
+ organic_lithoid_structures_tooltip:0 "이 군체의식의 건물과 함선은 광물, 준광물 등과 융합한 살아있는 생명체입니다."
+ organic_structures_tooltip:0 "이 군체의식의 건물과 함선은 애벌레로부터 변태한 살아있는 생명체입니다."
+ creates_remote_drone:0 "§Y원격 드론§! POP을 생성함."
+ 
+ d_collapsed_burrows_remote:0 ""
+ d_collapsed_burrows_remote_desc:0 ""
+ d_hibernating_lithoids_remote:0 ""
+ d_hibernating_lithoids_remote_desc:0 ""
+ 
+ 
+ TRAIT_OVERMIND_OVERLORD_EFFECT:0 "오직 §Y지도자§!만 생성할 수 있음\n§YPOP§!을 생성할 수 없음\n§Y영원한§! 지도자를 만들 수 있음"
+ 
+ TRAIT_REMOTE_DRONE_EFFECT:0 "거주적합도: §G+10%§!\n§Y지도자§! 배출 불가"
+ 
+ leader_trait_admiral_eonian: "영원한"
+ leader_trait_admiral_eonian_desc: "이 지도자는 영겁의 세월을 살아왔으며, 그 경험은 많은 적을 능가할 수 있는 능력의 바탕이 됩니다."
+ 
+ leader_trait_general_eonian: "$leader_trait_admiral_eonian$"
+ leader_trait_general_eonian_desc: "이 지도자는 영겁의 세월을 살아왔으며, 수많은 전투에서 승리했습니다."
+ 
+ leader_trait_governor_eonian: "$leader_trait_admiral_eonian$"
+ leader_trait_governor_eonian_desc: "이 지도자는 영겁의 세월을 살아왔으며 수많은 이들을 통치했습니다."
+ 
+ leader_trait_scientist_eonian: "$leader_trait_admiral_eonian$"
+ leader_trait_scientist_eonian_desc: "이 지도자는 영겁의 세월을 살아왔으며 우주의 모든 진리를 약간이나마 알고 있습니다."
+ 
+ 
+ overmind_lithoids: "석질류의 대군주"
+ overmind_lithoids_tooltip: ""
+ overmind_biological: "유기체의 대군주"
+ overmind_biological_tooltip: ""
+
+ START_SCREEN_OVERMIND:0 "우리의 진정한 기원은 알려지지 않았으나, 우린 한때 무한한 시냅스 연결의 일부였습니다. 우리의 몸이 스러질때에도 우리가 우리로 존재할 수 있었던 이유가 바로 그 연결이었습니다.\n\n우리가 어떻게 원격 드론을 대량으로 동화시켰는지, 우리의 삶에 있어서 그것들이 어떤 역할이었는지는 알 수 없지만 우리가 계속해서 존재할 수 있고 군체의식을 은하 너머로 확장할 수 있는 원동력이 되는 것은 이러한 공생 관계 덕분입니다."

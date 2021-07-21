@@ -1,0 +1,31 @@
+﻿l_english:
+ 
+ TITAN_BOW_2X:0 "초중무장 포격 스테이션"
+ TITAN_BOW_XM:0 "중무장 포대 스테이션"
+ 
+ 
+ TITAN_POWER_CORE:0 "타이탄 반응로"
+ TITAN_POWER_CORE_DESC:0  "이 반응로가 제공하는 동력분배 개선으로 우리는 함선에 추가적인 무장을 장착하여 파괴력과 화력을 증가시킬 수 있습니다."
+ TITAN_POWER_CORE_IMPROVED:0 "개량된 타이탄 반응로"
+ TITAN_POWER_CORE_IMPROVED_DESC:0 "새로이 개선된 동력 분배로 무기 시스템에 더 많은 전력을 공급하고, 최적화된 동력 공급원은 추가적인 보호 장비를 장착할 수 있게 합니다."
+ TITAN_POWER_CORE_ADVANCED:0 "향상된 타이탄 반응로"
+ TITAN_POWER_CORE_ADVANCED_DESC:0 "함선 무기와 연동된 구조적 무결성의 장갑과 오버클럭 방식의 동력 분배 기술을 갖춘 고도로 발전된 반응로입니다."
+ 
+ 
+ tech_improved_titan_tech:0 "개량된 타이탄 기술"
+ tech_improved_titan_tech_desc:0 "타이탄의 동력 시스템을 개선하기 위해 고대 드레드노트 중추에 대한 이전 연구를 적용하려고 시도합니다."
+ tech_advanced_titan_tech:0 "향상된 타이탄 기술"
+ tech_advanced_titan_tech_desc:0 "타이탄 건조 및 동력 시스템 기술을 추가적으로 개선시킵니다."
+ TECH_UNLOCK_TITAN_POWER_CORE_TITLE:0 "§H부품 잠금해제:§! $TITAN_POWER_CORE_IMPROVED$"
+ TECH_UNLOCK_TITAN_POWER_CORE_DESC:0 "§H$TITAN_POWER_CORE_IMPROVED$§!\n$TITAN_POWER_CORE_IMPROVED_DESC$"
+ TECH_UNLOCK_TITAN_POWER_CORE_ADVANCED_TITLE:0 "§H부품 잠금해제:§! $TITAN_POWER_CORE_ADVANCED$"
+ TECH_UNLOCK_TITAN_POWER_CORE_ADVANCED_DESC:0 "§H$TITAN_POWER_CORE_ADVANCED$§!\n$TITAN_POWER_CORE_ADVANCED_DESC$"
+ 
+ TECH_UNLOCK_TITAN_SECTION_1_TITLE:0 "§H새로운 타이탄 섹션 잠금해제§!"
+ TECH_UNLOCK_TITAN_SECTION_1_DESC:0 "새로운 섹션을 함선 디자인 탭에서 확인하십시오."
+ 
+ tech_titan_build_speed:0 "표준화된 타이탄 양식"
+ tech_titan_build_speed_desc:0 "타이탄의 설계와 건조에 관한 새로운 표준을 확립하여 건조 공정의 효율성을 크게 향상시킵니다."
+ 
+ shipsize_titan_build_speed_mult:0 "타이탄 건조 속도"
+ mod_shipsize_titan_build_speed_mult:0 "타이탄 건조 속도"

@@ -1,0 +1,808 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###      Technologies : general      ###
+########################################
+
+nhsc_tech_central_research_bureau: "중앙 연구 시설"
+nhsc_tech_central_research_bureau_desc: "제국의 최고 두뇌들이 모여 과학 발전에 이바지하는 곳"
+NHSC_TECH_UNLOCK_ADV_COMPONENTS_TITLE: "§H기술 잠금 해제§!: 첨단 기술"
+NHSC_TECH_UNLOCK_ADV_COMPONENTS_DESC: "신형 무기는 그 자체만으로는 작동하지 않습니다. 전력을 공급하기 위한 원자로와 가동을 위한 엔진, 그리고..."
+
+nhsc_tech_culture_nexus: "고급 사회 생물학"
+nhsc_tech_culture_nexus_desc: "육체와 정신에 대한 더 깊은 이해는 우리 제국에 큰 도움이 될 것입니다."
+nhsc_tech_culture_nexus_desc_hive: "우리 자신과 더불어 저 통일되지 못한 생물들을 이해하는건 이익이 될 것입니다."
+nhsc_tech_culture_nexus_desc_machine: "유기체 간의 상호 작용을 관찰함으로써 무인 플랫폼의 성능을 최적화하고 생물체들에 대해 더 잘 이해할 수 있습니다."
+
+nhsc_tech_technology_institute: "기술 연구소"
+nhsc_tech_technology_institute_desc: "기술 발전의 최첨단에 서기 위해서는 모든 종류의 연구를 담당할 전문 기관이 필요합니다."
+
+nhsc_tech_advanced_materials_lab: "고급 재료 실험실"
+nhsc_tech_advanced_materials_lab_desc: "군사적 및 일상적 용도로 사용하는 더 나은 재료를 개발하기 위한 대형 실험실"
+
+nhsc_tech_new_age_warfare: "신세대 전쟁"
+nhsc_tech_new_age_warfare_desc: "군사력은 은하계에서 유일하게 공통된 언어입니다. 새로운 병기는 은하계에서 우리의 입지를 확고하게 만들어 줍니다."
+NHSC_TECH_UNLOCK_ADV_WEAPONS_TITLE: "§H기술 잠금 해제§!: 신형 무기"
+NHSC_TECH_UNLOCK_ADV_WEAPONS_DESC: "우주 함대를 위한 새로운 무기 개발."
+
+nhsc_tech_advanced_heavy_weapons: "차세대 중화기 체계"
+nhsc_tech_advanced_heavy_weapons_desc: "새로운 중화기의 개발은 우리 함대가 더 강력해지도록 합니다."
+NHSC_TECH_UNLOCK_ADV_HEAVY_WEAPONS_TITLE: "§H기술 잠금 해제§!: 차세대 중화기"
+NHSC_TECH_UNLOCK_ADV_HEAVY_WEAPONS_DESC: "함대를 위한 새로운 중화기 개발."
+
+nhsc_tech_gravity_manipulation: "중력 조작 기법"
+nhsc_tech_gravity_manipulation_desc: "한정된 범위의 중력을 조작하는 기술의 개발은 우리 앞에 새로운 지평을 열어줄 것입니다."
+NHSC_TECH_UNLOCK_GRAVITY_MANIPULATION_TITLE: "§H기술 잠금 해제§!: 중력 조작 기법."
+NHSC_TECH_UNLOCK_GRAVITY_MANIPULATION_DESC: "더 나은 삶을 위해 중력을 이용하세요."
+
+nhsc_tech_gravity_weapons: "중력 병기"
+nhsc_tech_gravity_weapons_desc: "중력 조작은 우리의 적을 공격하기 위한 수단으로 활용될 수 있습니다."
+NHSC_TECH_UNLOCK_GRAV_WEAPONS_TITLE: "§H기술 잠금 해제§!: 중력 병기."
+NHSC_TECH_UNLOCK_GRAV_WEAPONS_DESC: "제국의 적을 분쇄하기 위한 중력 기반 무기"
+
+nhsc_tech_advanced_materials: "고급 재료"
+nhsc_tech_advanced_materials_desc: "더 나은 원자재를 개발하기 위한 연구"
+NHSC_TECH_UNLOCK_ADV_MATERIALS_TITLE: "§H기술 잠금 해제§!: 신형 장갑 및 나노 기술."
+NHSC_TECH_UNLOCK_ADV_MATERIALS_DESC: "새로운 물질은 우리 앞에 새로운 지평을 열어 꿈꿔왔던 것들을 가능케 합니다."
+
+nhsc_tech_synthetic_lifeform_studies: "인공 나노 물질 연구"
+nhsc_tech_synthetic_lifeform_studies_desc: "나노머신의 창조와 연구."
+NHSC_TECH_UNLOCK_NANITIES_TITLE: "§H기술 잠금 해제§!: 나노 장갑과 병기"
+NHSC_TECH_UNLOCK_NANITIES_DESC: "인공적으로 생성된 나노 물질은 엄청난 속도와 정확성으로 작업을 수행합니다."
+
+nhsc_tech_psionic_weapons: "사이오닉 무기"
+nhsc_tech_psionic_weapons_desc: "정신의 힘은 함선 규모에서도 활용될 수 있습니다."
+NHSC_TECH_UNLOCK_PSI_WEAPONS_TITLE: "§H기술 잠금 해제§!: 사이오닉 무기"
+NHSC_TECH_UNLOCK_PSI_WEAPONS_DESC: "사이오닉 무기는 제국의 적을 파괴하기 위해 승무원의 정신력을 이용합니다."
+
+nhsc_tech_spacetime_manipulation: "시공 연속체 조작"
+nhsc_tech_spacetime_manipulation_desc: "현실을 제어하는 힘을 이용함으로써 우리는 새로운 과학적 성취를 이룩할 것입니다."
+NHSC_TECH_UNLOCK_REALITY_ALTER_TITLE: "§H기술 잠금 해제§!: 현실 조작 기술."
+NHSC_TECH_UNLOCK_REALITY_ALTER_DESC: "의지로 현실을 바꾸는 힘은 우리가 전에 꿈꿀 수 없었던 일을 이루어줍니다."
+
+nhsc_tech_quantum_node: "양자 계산 노드"
+nhsc_tech_quantum_node_desc: "무한 기계의 프로세서를 모델로 한 특수 컴퓨터 네트워크"
+
+nhsc_tech_stellar_energy_tower: "항성 에너지 타워"
+nhsc_tech_stellar_energy_tower_desc: "소형 태양처럼 소립자를 순수한 에너지로 변환하는 거대한 타워"
+
+nhsc_tech_watcher: "영원의 관측소"
+nhsc_tech_watcher_desc: "현실을 왜곡시켜 과거, 현재, 미래를 관측할 수 있는 거대 복합 단지"
+
+nhsc_tech_phase_shifted_ammunition: "위상 전이 탄두"
+nhsc_tech_phase_shifted_ammunition_desc: "시공간 연속체에 대한 지식을 무기에 적용하면 가장 강력한 방어 장치조차도 무시할 수 있습니다."
+
+nhsc_tech_time_dilation_chambers: "시간 확장실"
+nhsc_tech_time_dilation_chambers_desc: "모든 사람에게 추가적인 시간을 제공하는 것은 현재의 기술 수준에서는 불가능하지만, 가장 필요한 사람들에게 시간을 공급한다면 아주 효율적일 것입니다."
+
+nhsc_tech_superconductors: "초전도 물질"
+nhsc_tech_superconductors_desc: "초전도체의 광범위한 사용으로 손실전력이 크게 줄어듭니다."
+
+nhsc_tech_neutronium_tools: "뉴트로늄 코팅"
+nhsc_tech_neutronium_tools_desc: "공구에 얇은 뉴트로늄 합금 코팅을 입힘으로써 내마모성을 향상시켜 광업 효율을 올립니다."
+
+nhsc_tech_orbital_powerplant: "항성요새 발전소"
+nhsc_tech_orbital_powerplant_desc: "대규모 설비를 유지하기 위해 개조된 표준 영점 반응로."
+
+nhsc_tech_reprocessing_plant: "재처리 공장"
+nhsc_tech_reprocessing_plant_desc: "고철 수거 봇의 기술을 연구하면 자원을 재활용하는 보다 효율적인 방법을 찾을 수 있습니다."
+
+nhsc_tech_chrono_spatial_weapons: "현실 조작 무기화"
+nhsc_tech_chrono_spatial_weapons_desc: "새로이 발견된 현실 왜곡 능력은 우주에서 가장 강력한 무기가 될 수 있습니다."
+
+nhsc_tech_zro_distilleries: "지로 증류"
+nhsc_tech_zro_distilleries_desc: "사이오닉에 대한 이해가 늘어남에 따라 늘어난 우리의 잠재력을 최대한 발휘하려면 자극제가 필요합니다. 그 중 가장 좋은 것은 지로이며, 매우 드물지만 인공적으로 합성할 수 있습니다."
+
+nhsc_tech_dark_matter_facilities: "암흑 물질 생산"
+nhsc_tech_dark_matter_facilities_desc: "암흑 물질의 수요가 늘어남에 따라, 블랙홀에서의 채굴만으로는 공급이 불가능해졌습니다. 우리는 새로운 공급처를 찾아야 합니다."
+
+nhsc_tech_mantle_mining_1: "행성 핵 채굴"
+nhsc_tech_mantle_mining_1_desc: "원자재의 수요가 점점 늘어나고 있습니다. 우리는 행성의 내부에 눈을 돌렸습니다. 적절한 기술을 개발한다면 맨틀과 핵에서 귀중한 자원을 뽑아낼 수 있을 것입니다."
+
+nhsc_tech_mantle_mining_2: "개선된 행성 핵 채굴"
+nhsc_tech_mantle_mining_2_desc: "행성의 핵과 맨틀에서 자원을 채굴하는 더 세련된 공법."
+
+########################################
+###     Technologies : reactors      ###
+########################################
+
+nhsc_tech_enigmatic_tower: "수수께끼 에너지 수집기"
+nhsc_tech_enigmatic_tower_desc: "수수께끼 힘 코어에 의해 생성된 에너지를 수집하는 행성 시설"
+NHSC_TECH_ENIGMATIC_TOWER_TITLE: "수수께끼 에너지 수집기"
+NHSC_TECH_ENIGMATIC_TOWER_DESC: "수수께끼 힘 코어에 의해 생성된 에너지를 수집하는 행성 시설"
+
+nhsc_tech_advanced_reactor_1: "개량형 영점 반응로"
+nhsc_tech_advanced_reactor_1_desc: "소형화 과정 덕분에 이 새로운 영점 반응로는 이전 모델보다 훨씬 효율적입니다."
+NHSC_TECH_UNLOCK_REACTOR_6_TITLE: "§H부품 잠금 해제§!: 개량형 영점 반응로"
+NHSC_TECH_UNLOCK_REACTOR_6_DESC: "에너지 추출 밀도를 개선한 원점 반응로."
+
+nhsc_tech_advanced_reactor_2: "특이점 반응로"
+nhsc_tech_advanced_reactor_2_desc: "차세대 특이점 반응로는 이전보다 더 많은 에너지를 생산합니다."
+NHSC_TECH_UNLOCK_REACTOR_7_TITLE: "§H부품 잠금 해제§!: 특이점 반응로"
+NHSC_TECH_UNLOCK_REACTOR_7_DESC: "더 많은 에너지를 생산하는 특이점 반응로."
+
+nhsc_tech_advanced_reactor_3: "개량형 특이점 반응로"
+nhsc_tech_advanced_reactor_3_desc: "현존하는 가장 효율적인 함선 탑재 발전기"
+NHSC_TECH_UNLOCK_REACTOR_8_TITLE: "§H부품 잠금 해제§!: 개량형 특이점 반응로"
+NHSC_TECH_UNLOCK_REACTOR_8_DESC: "특이점 반응로의 개량형"
+
+nhsc_tech_dark_matter_power_core_2: "개량형 암흑 물질 반응로"
+nhsc_tech_dark_matter_power_core_2_desc: "고 에너지 입자의 채널링 현상을 이용하는 새로운 프로토콜을 통해 암흑 물질 반응로의 에너지 생산량을 높일 수 있습니다."
+NHSC_TECH_UNLOCK_DM_REACTOR_2_TITLE: "§H부품 잠금 해제§!: 개량형 암흑 물질 반응로"
+NHSC_TECH_UNLOCK_DM_REACTOR_2_DESC: "암흑 물질 반응로의 개량형"
+
+nhsc_tech_dark_matter_power_core_3: "완벽한 암흑 물질 반응로"
+nhsc_tech_dark_matter_power_core_3_desc: "암흑 물질의 본질에 관한 이해를 통해 우리가 암흑 물질의 방대한 잠재력을 이용하여 완벽한 반응로를 만들 수 있게 해 줍니다."
+NHSC_TECH_UNLOCK_DM_REACTOR_3_TITLE: "§HU부품 잠금 해제§!: 완벽한 암흑 물질 반응로"
+NHSC_TECH_UNLOCK_DM_REACTOR_3_DESC: "암흑 물질을 사용하는 완벽한 반응로"
+
+nhsc_tech_reactor_booster_4: "보조 영점 반응로"
+nhsc_tech_reactor_booster_4_desc: "보조 발전기는 주 반응로가 모든 시스템에 전원을 공급할 만큼 충분히 강하지 않을 때의 해결책입니다."
+
+nhsc_tech_reactor_booster_5: "보조 특이점 반응로"
+nhsc_tech_reactor_booster_5_desc: "더 많은 에너지를 생산하는 $nhsc_tech_reactor_booster_4$ 의 개량형."
+
+########################################
+###      Technologies : sensors      ###
+########################################
+
+nhsc_tech_advanced_sensors_1: "차세대 타키온 센서"
+nhsc_tech_advanced_sensors_1_desc: "더 넓은 탐지 거리를 제공하는 차세대 센서"
+TECH_UNLOCK_ADV_TACHYON_SENSOR_TITLE: "§H부품 잠금 해제§!: 차세대 타키온 센서"
+TECH_UNLOCK_ADV_TACHYON_SENSOR_DESC: "더 넓은 탐지 거리를 제공하는 차세대 센서"
+
+nhsc_tech_advanced_sensors_2: "초끈 이론"
+nhsc_tech_advanced_sensors_2_desc: "우리 세계에 대한 의문점들을 더 완전히 설명하는 새로운 이론"
+TECH_UNLOCK_STRING_SENSOR_TITLE: "§H부품 잠금 해제§!: 초끈 센서"
+TECH_UNLOCK_STRING_SENSOR_DESC: "차원 끈을 이용해 주변을 탐지하는 센서"
+
+nhsc_tech_advanced_sensors_3: "초끈 진동 분석"
+nhsc_tech_advanced_sensors_3_desc: "초끈 이론으로 우리의 지식을 재해석하면 마침내 세계에 대한 완전한 이해가 가능합니다."
+TECH_UNLOCK_ADV_STRING_SENSOR_TITLE: "§H부품 잠금 해제§!: 개량형 초끈 센서"
+TECH_UNLOCK_ADV_STRING_SENSOR_DESC: "기존 모델보다 탐지 거리가 향상된 차세대 초끈 기반 센서"
+
+nhsc_tech_psionic_sensors: "사이오닉 센서"
+nhsc_tech_psionic_sensors_desc: "초끈 이론의 사이오닉 능력에 대한 적용은 예상치 못했던 분야의 이해를 도왔습니다."
+TECH_UNLOCK_PSI_SENSOR_TITLE: "§H부품 잠금 해제§!: 사이오닉 센서"
+TECH_UNLOCK_PSI_SENSOR_DESC: "승무원의 사이오닉 에너지를 이용해 우주를 탐지하는 센서"
+
+nhsc_tech_precursor_sensors: "선구자 감시망"
+nhsc_tech_precursor_sensors_desc: "$sr_dark_matter$의 특이성을 활용해 광범위한 우주의 움직이는 물체를 즉시 찾아낼 수 있는 고급 감지기입니다."
+TECH_UNLOCK_PRECURSOR_SENSOR_TITLE: "§H부품 잠금 해제§!: $nhsc_tech_precursor_sensors$"
+TECH_UNLOCK_PRECURSOR_SENSOR_DESC: "$nhsc_tech_precursor_sensors_desc$"
+
+########################################
+###      Technologies : armors       ###
+########################################
+
+nhsc_tech_armor_6: "개량형 뉴트로늄 장갑"
+nhsc_tech_armor_6_desc: "거의 모든 공격을 방어할 수 있는 고밀도 중성미자 장갑"
+NHSC_TECH_TIER_6_ARMOR_TITLE: "개량형 뉴트로늄 장갑"
+NHSC_TECH_TIER_6_ARMOR_DESC: "거의 모든 공격을 방어할 수 있는 고밀도 중성미자 장갑"
+
+nhsc_tech_armor_7: "아다만티움 장갑"
+nhsc_tech_armor_7_desc: "판타지 속 물질에서 따온 이 장갑은 우리 함선에 절대적인 방호를 제공합니다."
+NHSC_TECH_TIER_7_ARMOR_TITLE: "아다만티움 장갑"
+NHSC_TECH_TIER_7_ARMOR_DESC: "판타지 속 물질에서 따온 이 장갑은 우리 함선에 절대적인 방호를 제공합니다."
+
+nhsc_tech_armor_nanite_1: "나노 물질 장갑"
+nhsc_tech_armor_nanite_1_desc: "선체에 수리 작업을 수행하도록 프로그래밍된 나노 머신을 탑재함으로써 우리는 공격 방호뿐만 아니라 손상 복구까지 수행하는 장갑을 만들 수 있습니다."
+NHSC_TECH_NANO_ARMOR_1_TITLE: "나노 물질 장갑"
+NHSC_TECH_NANO_ARMOR_1_DESC: "선체에 수리 작업을 수행하도록 프로그래밍된 나노 머신을 탑재함으로써 우리는 공격 방호뿐만 아니라 손상 복구까지 수행하는 장갑을 만들 수 있습니다."
+
+nhsc_tech_armor_nanite_2: "개량형 나노 물질 장갑"
+nhsc_tech_armor_nanite_2_desc: "나노 물질 장갑의 개량형은 더 단단하며 빠른 자체 수복이 가능합니다."
+NHSC_TECH_NANO_ARMOR_2_TITLE: "개량형 나노 물질 장갑"
+NHSC_TECH_NANO_ARMOR_2_DESC: "나노 물질 장갑의 개량형은 더 단단하며 빠른 자체 수복이 가능합니다."
+
+nhsc_tech_armor_shield_1: "실드 생성 장갑"
+nhsc_tech_armor_shield_1_desc: "주변의 에너지를 이용하도록 프로그래밍된 나노 머신을 탑재함으로써 함선을 보호하기 위해 소량의 추가 보호막을 생성하는 장갑을 만들 수 있습니다."
+NHSC_TECH_SHIELD_ARMOR_1_TITLE: "실드 생성 장갑"
+NHSC_TECH_SHIELD_ARMOR_1_DESC: "주변의 에너지를 이용하도록 프로그래밍된 나노 머신을 탑재함으로써 함선을 보호하기 위해 소량의 추가 보호막을 생성하는 장갑을 만들 수 있습니다."
+
+nhsc_tech_armor_shield_2: "개량형 실드 생성 장갑"
+nhsc_tech_armor_shield_2_desc: "실드 생성 장갑의 개량형은 더 단단하며 많은 실드를 생성합니다."
+NHSC_TECH_SHIELD_ARMOR_2_TITLE: "개량형 실드 생성 장갑"
+NHSC_TECH_SHIELD_ARMOR_2_DESC: "실드 생성 장갑의 개량형은 더 단단하며 많은 실드를 생성합니다."
+
+nhsc_tech_armor_shield_3: "차폐 장갑"
+nhsc_tech_armor_shield_3_desc: "더욱 강력한 실드를 생성하며 강도도 향상된 실드 생성 장갑입니다."
+NHSC_TECH_SHIELD_ARMOR_3_TITLE: "차폐 장갑"
+NHSC_TECH_SHIELD_ARMOR_3_DESC: "더욱 강력한 실드를 생성하며 강도도 향상된 실드 생성 장갑입니다."
+
+nhsc_tech_armor_dragonscales_nanite: "나노-용린 장갑"
+nhsc_tech_armor_dragonscales_nanite_desc: "용린 장갑에 나노머신을 주입하면 강도가 믿을 수 없을 만큼 향상됩니다."
+NHSC_TECH_NANO_DRAGON_ARMOR_TITLE: "나노-용린 장갑"
+NHSC_TECH_NANO_DRAGON_ARMOR_DESC: "용린 장갑에 나노머신을 주입하면 강도가 믿을 수 없을 만큼 향상됩니다."
+
+nhsc_tech_armor_wraith: "망령 장갑"
+nhsc_tech_armor_wraith_desc: "조정된 광자를 장갑에 주입해 의사물질 층을 형성합니다. 초과된 에너지는 실드에 공급되어 재생 속도를 높입니다."
+
+nhsc_tech_armor_horror: "이차원의 공포 장갑"
+nhsc_tech_armor_horror_desc: "포탈 잔여물에 대한 연구를 통해 이차원의 공포의 가죽을 이해할 수 있었습니다. 이 엄청나게 단단한 소재는 우리 함선에 새로운 차원의 방호력을 제공할 것입니다."
+
+nhsc_tech_crystal_armor_3: "강화 크리스탈 단조판"
+nhsc_tech_crystal_armor_3_desc: "크리스탈은 놀라운 내구성을 가지고 있으며 이를 바탕으로 선체를 도금할 수 있습니다."
+
+########################################
+###    Technologies : propulsion     ###
+########################################
+
+nhsc_tech_advanced_thrusters_1: "반물질 추진기"
+nhsc_tech_advanced_thrusters_1_desc: "쌍소멸을 통해 생성된 에너지를 이용해 이전보다 더 강력한 엔진을 만들 수 있습니다."
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_1_TITLE: "§H부품 잠금 해제§!: 반물질 추진기"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_1_DESC: "쌍소멸을 통해 생성된 에너지를 이용해 이전보다 더 강력한 엔진을 만들 수 있습니다."
+
+nhsc_tech_advanced_thrusters_2: "중력 조작 엔진"
+nhsc_tech_advanced_thrusters_2_desc: "실제 추진기는 아니지만, 이 엔진은 중력장을 조작해 재래식 추진기에서는 불가능한 속도와 정밀도로 함선을 움직일 수 있습니다."
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_2_TITLE: "§H부품 잠금 해제§!: 중력 조작 엔진"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_2_DESC: "실제 추진기는 아니지만, 이 엔진은 중력장을 조작해 재래식 추진기에서는 불가능한 속도와 정밀도로 함선을 움직일 수 있습니다."
+
+nhsc_tech_afterburners_3: "플라즈마 펄스 애프터버너"
+nhsc_tech_afterburners_3_desc: "최소한의 연료 소모로 필요할 때마다 선박을 신속하게 가속할 수 있는 최고급 애프터버너."
+
+nhsc_tech_jump_drive_2: "개선된 점프 드라이브"
+nhsc_tech_jump_drive_2_desc: "기존의 점프 드라이브 설계를 개선하여 점프 범위를 확장하고 시공간 연속체의 파손으로 인한 함선 손상을 줄입니다."
+
+nhsc_tech_jump_drive_3: "과충전된 점프 드라이브"
+nhsc_tech_jump_drive_3_desc: "점프 드라이브의 코어에 추가 전력을 인가하여 성능을 향상시킵니다. 우리에게 필요한 건 오직 더 많은 전력을 공급하기 위한 발전기 뿐입니다."
+
+nhsc_tech_jump_drive_precursor: "선구자 점프 드라이브"
+nhsc_tech_jump_drive_precursor_desc: "고대의 문명에 의해 만들어진, 아주 오랜 세월동안 개선된 완벽한 점프 드라이브입니다."
+
+nhsc_tech_psi_jump_drive_2: "개선된 사이오닉 점프 드라이브"
+nhsc_tech_psi_jump_drive_2_desc: "점프 범위가 확장되고 더 빨리 다음 점프를 준비할 수 있는 사이오닉 점프 드라이브입니다."
+
+nhsc_tech_psi_jump_drive_3: "장막의 인도"
+nhsc_tech_psi_jump_drive_3_desc: "장막을 거니는 이들에게서 얻어낸 영감을 활용해 사이오닉 점프 드라이브를 강화합니다."
+
+########################################
+###     Technologies : shields       ###
+########################################
+
+nhsc_tech_advanced_shields_1: "개량형 초강화 보호막"
+nhsc_tech_advanced_shields_1_desc: "차폐 기술의 발달은 더 높은 성능의 보호막을 창출했습니다."
+NHSC_TECH_ADV_SHIELDS_1_TITLE: "§H부품 잠금 해제§!: 개량형 초강화 보호막"
+NHSC_TECH_ADV_SHIELDS_1_DESC: "차폐 기술의 발달은 더 높은 성능의 보호막을 창출했습니다."
+
+nhsc_tech_advanced_shields_2: "과충전 초강화 보호막"
+nhsc_tech_advanced_shields_2_desc: "이 보호막은 독창적인 콘덴서 매트릭스를 통해 구성되어 극도로 견고합니다."
+NHSC_TECH_ADV_SHIELDS_2_TITLE: "§H부품 잠금 해제§!: 과충전 초강화 보호막"
+NHSC_TECH_ADV_SHIELDS_2_DESC: "이 보호막은 독창적인 콘덴서 매트릭스를 통해 구성되어 극도로 견고합니다."
+
+nhsc_tech_waveforcearmor: "파동 장벽"
+nhsc_tech_waveforcearmor_desc: "에너지의 방향을 이차원으로 전환하여 경이적인 방어력을 획득한 보호막."
+NHSC_TECH_WFARMOR_TITLE: "파동 장벽"
+NHSC_TECH_WFARMOR_DESC: "에너지의 방향을 이차원으로 전환하여 경이적인 방어력을 획득한 보호막."
+
+nhsc_tech_dark_matter_shields_2: "개량형 암흑 물질 보호막"
+nhsc_tech_dark_matter_shields_2_desc: "암흑 물질 보호막의 개선된 버전"
+NHSC_TECH_ENIGMA_SHIELDS_2_TITLE: "개량형 암흑 물질 보호막"
+NHSC_TECH_ENIGMA_SHIELDS_2_DESC: "암흑 물질 보호막의 개선된 버전"
+
+nhsc_tech_dark_matter_shields_3: "완벽한 암흑 물질 보호막"
+nhsc_tech_dark_matter_shields_3_desc: "암흑 물질의 본질에 대한 이해는 우리가 극도로 강력한 보호막을 만들 수 있게 해 줍니다."
+
+nhsc_tech_psionic_shield_2: "개선된 사이오닉 보호막"
+nhsc_tech_psionic_shield_2_desc: "더 강력한 사이오닉 에너지의 투사로 더 강력한 사이오닉 보호막을 만들어냅니다."
+NHSC_TECH_PSI_SHIELD_2_TITLE: "$nhsc_tech_psionic_shield_2$"
+NHSC_TECH_PSI_SHIELD_2_DESC: "$nhsc_tech_psionic_shield_2_desc$"
+
+nhsc_tech_atfield: "AT필드"
+nhsc_tech_atfield_desc: "절대 영역은 우리의 마음이 외부의 간섭을 거부하는 공간을 상징합니다."
+NHSC_TECH_ATFIELD_TITLE: "AT필드"
+NHSC_TECH_ATFIELD_DESC: "절대 영역은 우리의 마음이 외부의 간섭을 거부하는 공간을 상징합니다."
+
+nhsc_tech_shields_cyclonic_1: "사이클로닉 왜곡장"
+nhsc_tech_shields_cyclonic_1_desc: "사이클로닉 실드 하모닉스 테크™는 중첩된 장벽이 서로의 재생력을 향상시키는 왜곡장 설계의 새로운 길을 열었습니다."
+NHSC_TECH_CYCLONIC_SHIELDS_TITLE: "§H부품 잠금 해제§!: 사이클로닉 왜곡장"
+NHSC_TECH_CYCLONIC_SHIELDS_DESC: "$nhsc_tech_shields_cyclonic_1_desc$"
+
+nhsc_tech_shields_cyclonic_2: "사이클로닉 보호막"
+nhsc_tech_shields_cyclonic_2_desc: "빠른 재충전 속도를 유지하면서 강도를 향상시킨 새로운 사이클로닉 시리즈입니다."
+NHSC_TECH_ADV_CYCLONIC_SHIELDS_TITLE: "§H부품 잠금 해제§!: 사이클로닉 보호막"
+NHSC_TECH_ADV_CYCLONIC_SHIELDS_DESC: "$nhsc_tech_shields_cyclonic_2_desc$"
+
+nhsc_tech_shields_cyclonic_3: "사이클로닉 변조 보호막"
+nhsc_tech_shields_cyclonic_3_desc: "사이클로닉 보호막의 강도를 더욱 더 높이기 위해 새로운 커패시터 세트를 장착했습니다."
+NHSC_TECH_CYCLONIC_SHIELDS_3_TITLE: "사이클로닉 변조 보호막"
+NHSC_TECH_CYCLONIC_SHIELDS_3_DESC: "$nhsc_tech_shields_cyclonic_3_desc$"
+
+########################################
+###     Technologies : weapons       ###
+########################################
+
+### rockets and torpedoes
+
+nhsc_tech_missile_6: "조커 미사일"
+nhsc_tech_missile_6_desc: "강력하고 변칙적인 미사일"
+
+nhsc_tech_missile_7: "레이스 미사일"
+nhsc_tech_missile_7_desc: "죽음은 예고없이 찾아온다."
+
+nhsc_tech_torpedoes_4: "파괴자 어뢰"
+nhsc_tech_torpedoes_4_desc: "차세대 우주 어뢰는 기존 병기보다 더 파괴적입니다."
+
+nhsc_tech_torpedoes_5: "초토화 어뢰"
+nhsc_tech_torpedoes_5_desc: "우리가 상상할 수 있는 가장 강력한 어뢰."
+
+nhsc_tech_corrosivewarheadtorpedo: "부식 탄두 어뢰"
+nhsc_tech_corrosivewarheadtorpedo_desc: "시공 연속체를 찢어버리는 끔찍한 무기."
+
+nhsc_tech_swarmermissiles_3: "타이푼 미사일"
+nhsc_tech_swarmermissiles_3_desc: "이 차세대 스워머 미사일은 그 위력과 수로 적을 압도합니다."
+
+nhsc_tech_swarmermissiles_4: "허리케인 미사일"
+nhsc_tech_swarmermissiles_4_desc: "이타노 서커스를 현실로."
+
+nhsc_tech_xmissile1: "이종물질 탄두"
+nhsc_tech_xmissile1_desc: "표적에 이종물질을 접촉시켜 중첩된 폭발을 일으키는 특수 탄두."
+
+nhsc_tech_xmissile2: "기묘체 탄두"
+nhsc_tech_xmissile2_desc: "더욱 파괴적인 물질을 탑재한 개량형 이종물질 탄두."
+
+nhsc_tech_xmissile3: "반사식 미사일 런처"
+nhsc_tech_xmissile3_desc: "강력한 군함도 손쉽게 파괴할 수 있는 로켓 발사기."
+
+nhsc_tech_xmissile3_titanic: "$nhsc_tech_xmissile3$"
+nhsc_tech_xmissile3_titanic_desc: "$nhsc_tech_xmissile3_desc$"
+
+### gravity
+
+nhsc_tech_gravitic_torpedo_1: "공간 왜곡 어뢰"
+nhsc_tech_gravitic_torpedo_1_desc: "강력한 중력파를 생성해 원자 수준에서 물질을 분해시키는 어뢰."
+
+nhsc_tech_gravitic_torpedo_2: "국소특이점 어뢰"
+nhsc_tech_gravitic_torpedo_2_desc: "이 어뢰의 폭발은 초소형 블랙홀을 생성해 함선을 빨아들입니다."
+
+nhsc_tech_gravitic_cannon_1: "이상 중력 발생기"
+nhsc_tech_gravitic_cannon_1_desc: "이 무기는 무작위 중력파를 발생시켜 적 함선을 타격합니다."
+
+nhsc_tech_gravitic_cannon_2: "공간 왜곡 대포"
+nhsc_tech_gravitic_cannon_2_desc: "이상 중력 발생기의 개량형."
+
+nhsc_tech_gravitic_cannon_3: "국소특이점 대포"
+nhsc_tech_gravitic_cannon_3_desc: "이 대포는 초소형 불안정 특이점을 발사해 어떤 함선도 쉽게 소멸시킬 수 있습니다."
+
+nhsc_tech_gravitic_lance_1: "중력포"
+nhsc_tech_gravitic_lance_1_desc: "발사 궤적을 따라 시공간 연속성을 왜곡해 근처의 모든 것을 찢어버리는 입자 캐논."
+
+nhsc_tech_gravitic_lance_2: "집중형 중력포"
+nhsc_tech_gravitic_lance_2_desc: "중력포의 개선된 버전"
+
+nhsc_tech_gravitic_lance_titanic: "타이탄 중력포"
+nhsc_tech_gravitic_lance_titanic_desc: "우리 함대의 가장 거대한 함선을 위한 초대형 중력포."
+
+nhsc_tech_gravitic_strikecrafts: "특이점 폭격기"
+nhsc_tech_gravitic_strikecrafts_desc: "중력 병기로 무장한 함재기."
+
+### nanities
+
+nhsc_tech_nanite_torpedo_1: "나노 어뢰"
+nhsc_tech_nanite_torpedo_1_desc: "적 함선에 분해성 나노 물질을 투사하는 어뢰."
+
+nhsc_tech_nanite_torpedo_2: "그레이 구 어뢰"
+nhsc_tech_nanite_torpedo_2_desc: "더 공격적인 나노물질을 탑재한 개량형 어뢰."
+
+nhsc_tech_nanite_cannon_1: "나노 물질 대포"
+nhsc_tech_nanite_cannon_1_desc: "적의 배를 분해하는 나노 물질로 가득찬 탄환을 발사하는 대포."
+
+nhsc_tech_nanite_cannon_2: "개량형 나노 물질 대포"
+nhsc_tech_nanite_cannon_2_desc: "나노 물질 대포의 개량형"
+
+nhsc_tech_nanite_xslot_1: "나노 미사일 런처"
+nhsc_tech_nanite_xslot_1_desc: "더 강하고 사거리도 길어진 나노 어뢰. 탄속도 빨라졌습니다."
+
+nhsc_tech_nanite_xslot_2: "나노 로켓 자주포"
+nhsc_tech_nanite_xslot_2_desc: "나노 미사일 런처의 개량형"
+
+nhsc_tech_nanite_titanic_weapon: "나노 미사일 연속발사 시스템"
+nhsc_tech_nanite_titanic_weapon_desc: "타이탄 탑재용으로 대형화된 나노 로켓 자주포."
+
+nhsc_tech_nanite_strikecraft: "나노 폭격기"
+nhsc_tech_nanite_strikecraft_desc: "나노 물질 병기를 탑재한 함재기."
+
+### psionics
+
+nhsc_tech_psionic_torpedo_1: "사이오닉 폭풍 어뢰"
+nhsc_tech_psionic_torpedo_1_desc: "강력한 사이오닉 폭풍을 일으키는 에너지 어뢰."
+TECH_UNLOCK_PSIONIC_TORPEDO_1_TITLE: "§H부품 잠금 해제§!: 사이오닉 폭풍 어뢰"
+TECH_UNLOCK_PSIONIC_TORPEDO_1_DESC: "강력한 사이오닉 폭풍을 일으키는 에너지 어뢰."
+
+nhsc_tech_psionic_torpedo_2: "개량형 사이오닉 폭풍 어뢰"
+nhsc_tech_psionic_torpedo_2_desc: "사이오닉 에너지를 증가시켜 폭발력을 향상한 사이오닉 어뢰."
+
+nhsc_tech_psionic_cannon_1: "사이오닉 에너지 투사기"
+nhsc_tech_psionic_cannon_1_desc: "집중된 사이오닉 에너지로 목표를 파괴하는 에너지 무기."
+
+nhsc_tech_psionic_cannon_2: "사이오닉 파동포"
+nhsc_tech_psionic_cannon_2_desc: "사이오닉 에너지의 초점을 조정하면 투사기의 출력이 크게 증가합니다."
+
+nhsc_tech_psionic_cannon_3: "사이오닉 빔 캐논"
+nhsc_tech_psionic_cannon_3_desc: "몇 초 안에 상대를 소멸시킬 수 있는 집중된 사이오닉 에너지 광선."
+
+nhsc_tech_psionic_lance_1: "사이오닉 랜스"
+nhsc_tech_psionic_lance_1_desc: "집중된 사이오닉 에너지로 만든 에너지 랜스."
+
+nhsc_tech_psionic_lance_2: "장막 관통자"
+nhsc_tech_psionic_lance_2_desc: "사이오닉 랜스의 보다 강력한 개량형."
+
+nhsc_tech_psionic_lance_titanic: "공허 광선"
+nhsc_tech_psionic_lance_titanic_desc: "장막 속의 공허에서 힘을 끌어오는 사이오닉 랜스."
+
+nhsc_tech_psionic_strikecraft: "사이오닉 요격기"
+nhsc_tech_psionic_strikecraft_desc: "사이오닉 무기를 탑재한 함재기."
+
+### energy
+
+nhsc_tech_laser_6: "개량형 전투 레이저"
+nhsc_tech_laser_6_desc: "성능이 크게 향상된 차세대 전투용 레이저"
+
+nhsc_tech_laser_7: "오로라 레이저"
+nhsc_tech_laser_7_desc: "별처럼 아름답고, 지옥불처럼 치명적인."
+
+nhsc_tech_energy_launcher_3: "Antimatter Launcher"
+nhsc_tech_energy_launcher_3_desc: "A new generation of energy launchers that use matter-antimatter annihilation reaction to produce a destructive blast."
+
+nhsc_tech_energy_launcher_4: "Dark Matter Launcher"
+nhsc_tech_energy_launcher_4_desc: "An energy projectile that destroy their target with an obliterating blast generated by dark matter decomposition reaction."
+
+nhsc_tech_disruptors_4: "타키온 분열기"
+nhsc_tech_disruptors_4_desc: "장갑과 보호막을 모두 손상시키기 위해 타키온을 사용한 차세대 분열기."
+
+nhsc_tech_disruptors_5: "분열 랜스"
+nhsc_tech_disruptors_5_desc: "고출력 파티클 랜스에 분열기를 통합한 병기"
+
+nhsc_tech_plasma_4: "개량형 플라즈마 캐논"
+nhsc_tech_plasma_4_desc: "안정 상태의 플라즈마 클러스터를 발사하는 개량형 캐논은 더 많은 피해를 줄 수 있습니다."
+
+nhsc_tech_plasma_5: "용의 숨결"
+nhsc_tech_plasma_5_desc: "신화 속의 드래곤과 같이 뜨거운 플라즈마를 발사하는 대포."
+
+nhsc_tech_plasma_missiles_1: "플라즈마 안정화"
+nhsc_tech_plasma_missiles_1_desc: "플라즈마와 로켓 공학에 대한 이해로 플라즈마 탄두를 탑재한 미사일을 만들 수 있게 되었습니다."
+TECH_UNLOCK_PLASMA_MISSILE_TITLE: "§H부품 잠금 해제§!: 플라즈마 미사일"
+TECH_UNLOCK_PLASMA_MISSILE_DESC: "미사일처럼 목표를 추적하는 플라즈마 발사체."
+
+nhsc_tech_plasma_missiles_2: "개량형 플라즈마 미사일"
+nhsc_tech_plasma_missiles_2_desc: "더 빠르고 강하고 요격하기 힘들어진 플라즈마 미사일의 개량형."
+
+nhsc_tech_plasma_missiles_3: "화형 미사일"
+nhsc_tech_plasma_missiles_3_desc: "적을 잿더미로 만들어 버린다."
+
+nhsc_tech_chrono_vortex_cannon: "시공 와류 대포"
+nhsc_tech_chrono_vortex_cannon_desc: "이 끔찍한 무기는 적 함선을 불안정한 시공간 왜곡을 통해 파괴합니다."
+
+nhsc_tech_energy_lance_3: "개량형 타키온 랜스"
+nhsc_tech_energy_lance_3_desc: "개선된 집광 어레이를 탑재한 차세대 타키온 랜스."
+
+nhsc_tech_energy_lance_4: "과충전 타키온 랜스"
+nhsc_tech_energy_lance_4_desc: "타키온 랜스의 커패시터 코일을 과충전함으로써 위력을 더욱 증가시킬 수 있습니다."
+
+nhsc_tech_energy_lance_titanic: "파멸의 빛"
+nhsc_tech_energy_lance_titanic_desc: "랜스의 정점."
+
+nhsc_tech_arc_emitter_3: "라이트닝 에미터"
+nhsc_tech_arc_emitter_3_desc: "강력한 전기장을 발사하는 아크 에미터의 고급형."
+
+nhsc_tech_arc_emitter_4: "아크 캐논"
+nhsc_tech_arc_emitter_4_desc: "라이트닝 에미터의 가장 강력한 버전으로 그 어떤 단단한 장벽도 파괴할 수 있습니다."
+
+nhsc_tech_arc_emitter_titanic: "신의 번개"
+nhsc_tech_arc_emitter_titanic_desc: "무자비한 힘으로 적을 파괴하는 천상의 폭풍."
+
+nhsc_tech_wavemotiongun_1: "파동포"
+nhsc_tech_wavemotiongun_1_desc: "특수한 배기 포트를 통해 엔진 출력을 일시적으로 무장으로 전용하여 적을 파괴합니다."
+
+nhsc_tech_wavemotiongun_2: "차원 파동포"
+nhsc_tech_wavemotiongun_2_desc: "파동포의 업그레이드된 버전으로 빔 집중률을 향상해 정확도를 높였습니다."
+
+nhsc_tech_wavemotiongun_3: "타이탄 차원 파동포"
+nhsc_tech_wavemotiongun_3_desc:  "차원 파동포의 거대화 버전"
+
+nhsc_tech_arcenciel: "아르크 앙 시엘"
+nhsc_tech_arcenciel_desc: "포켓 디멘션에 목표를 봉인한 뒤 빅 크런치를 일으켜 목표물의 흔적마저도 소멸시킵니다."
+
+nhsc_tech_arcenciel_titanic: "아르크 앙 시엘"
+nhsc_tech_arcenciel_titanic_desc: "포켓 디멘션에 목표를 봉인한 뒤 빅 크런치를 일으켜 목표물의 흔적마저도 소멸시킵니다."
+
+nhsc_tech_cloud_lightning_2: "증폭 클라우드 라이트닝"
+nhsc_tech_cloud_lightning_2_desc: "우리 과학자들이 클라우드 라이트닝을 현대 우주전에 적합한 무기로 개량할 방법을 고안해냈습니다."
+
+nhsc_tech_cloud_lightning_3: "폭풍우 발생기"
+nhsc_tech_cloud_lightning_3_desc: "적 함선을 찢어버릴 강력한 번개."
+
+nhsc_tech_mining_laser_2: "플라즈마 커터"
+nhsc_tech_mining_laser_2_desc: "광산 드론이 사용하는 레이저에서 파생된 함선 절단용 병기."
+
+nhsc_tech_mining_laser_3: "개량형 플라즈마 커터"
+nhsc_tech_mining_laser_3_desc: "향상된 위력과 정확도를 특징으로 하는 $NHSC_MINING_LASER_2$의 개량판"
+
+### kinetic
+
+nhsc_tech_mass_driver_6: "개량형 가우스 캐논"
+nhsc_tech_mass_driver_6_desc: "더 정확하고 강력해진 가우스 캐논의 개량형."
+
+nhsc_tech_mass_driver_7: "타격포"
+nhsc_tech_mass_driver_7_desc: "작지만 치명적인 자기 가속포."
+
+nhsc_tech_autocannon_4: "개량형 스톰파이어 기관포"
+nhsc_tech_autocannon_4_desc: "높은 신뢰성과 향상된 재장전 속도가 특징인 스톰파이어 기관포의 개량형."
+
+nhsc_tech_autocannon_5: "파쇄자 기관포"
+nhsc_tech_autocannon_5_desc: "탄환의 폭풍으로 적을 조각내는 기관포."
+
+nhsc_tech_kinetic_artillery_3: "개량형 실탄 자주포"
+nhsc_tech_kinetic_artillery_3_desc: "더 정확하고 강력해진 실탄 자주포의 개량형."
+
+nhsc_tech_kinetic_artillery_4: "천공 자주포"
+nhsc_tech_kinetic_artillery_4_desc: "강력한 포탄으로 적과 하늘을 뚫어버리는 실탄포."
+
+nhsc_tech_mass_accelerator_3: "개량형 기가 캐논"
+nhsc_tech_mass_accelerator_3_desc: "더 정확하고 강력해진 기가 캐논의 개량형."
+
+nhsc_tech_mass_accelerator_4: "그랜드 캐논"
+nhsc_tech_mass_accelerator_4_desc: "최고의 장거리 실탄 무기!"
+
+nhsc_tech_mhdcannon: "자기 유체 역학 대포"
+nhsc_tech_mhdcannon_desc: "워터젯과 레일건을 기반으로 하는 이 강력한 무기는 융해된 금속을 상대론적 속도로 발사해 적 함선을 찢어버립니다."
+
+nhsc_tech_autocannon_x_1: "헤일스톰 기관포"
+nhsc_tech_autocannon_x_1_desc: "초대형 기관포가 실용적인 병기임이 입증되어, 이를 실증하는 병기가 탄생했습니다. 헤일스톰 기관포는 현존하는 가장 거대하고 강력한 기관포입니다!"
+
+nhsc_tech_autocannon_x_2: "파이어스톰 기관포"
+nhsc_tech_autocannon_x_2_desc: "헤일스톰 기관포의 더 세련된 버전. 적의 얼굴에 더 많은 탄환을 부어줄 수 있습니다!"
+
+nhsc_tech_autocannon_t: "템페스트 기관포"
+nhsc_tech_autocannon_t_desc: "전례없는 위력을 가진 거대한 기관포. 우리의 적들은 이 앞에서 녹아내릴지어다."
+
+### crystalline
+
+nhsc_tech_crystal_cannon_1: "크리스탈 샤드 투척기"
+nhsc_tech_crystal_cannon_1_desc: "크리스탈 개체들이 발사하는 것과 같은 유기 크리스탈 발사기."
+
+nhsc_tech_crystal_cannon_2: "개량형 크리스탈 샤드 투척기"
+nhsc_tech_crystal_cannon_2_desc: "크리스탈 샤드 투척기의 개량판은 더 단단한 투사체와 강화된 발사 시스템을 갖췄습니다."
+
+nhsc_tech_crystal_cannon_3: "크리스탈 쐐기 투척기"
+nhsc_tech_crystal_cannon_3_desc: "재료공학의 발달로 투사체로 사용되는 유기 결정체의 품질을 크게 향상시켜 피해량을 증가시켰습니다."
+
+nhsc_tech_crystal_cannon_4: "개량형 크리스탈 쐐기 투척기"
+nhsc_tech_crystal_cannon_4_desc: "크리스탈 무기 기술에 대한 몇 가지 추가 개선으로 무기의 출력이 더욱 증가합니다."
+
+nhsc_tech_crystal_cannon_5: "크리스탈 스피어"
+nhsc_tech_crystal_cannon_5_desc: "발사 메커니즘을 개선해 크리스탈 무기의 성능과 명중률을 크게 향상했습니다."
+
+nhsc_tech_crystal_lance_1: "크리스탈 재블린"
+nhsc_tech_crystal_lance_1_desc: "전함의 장갑조차 꿰뚫을 수 있는 대형 결정 가속기"
+
+nhsc_tech_crystal_lance_2: "크리스탈 랜스"
+nhsc_tech_crystal_lance_2_desc: "크리스탈 재블린의 더욱 세련된 버전."
+
+nhsc_tech_crystalline_impaler: "크리스탈 캐논"
+nhsc_tech_crystalline_impaler_desc: "타이탄을 위해 디자인된 초대형 크리스탈 랜스."
+
+### point defense
+
+nhsc_tech_pd_tracking_4: "수호자 거점 방어"
+nhsc_tech_pd_tracking_4_desc: "향상된 추적 알고리즘과 강력한 화력을 갖춘 수호 거점 방어 체계의 개량형."
+
+nhsc_tech_pd_tracking_5: "철의 장벽"
+nhsc_tech_pd_tracking_5_desc: "궁극의 거점 방어 체계."
+
+nhsc_tech_flak_battery_4: "개량형 대공 자주포"
+nhsc_tech_flak_battery_4_desc: "더 정확하고 강력해진 대공 자주포의 개량형."
+
+nhsc_tech_flak_battery_5: "아이언클라우드 대공포"
+nhsc_tech_flak_battery_5_desc: "궁극의 대공포. 어떤 공격도 이 방벽을 넘어설 수 없습니다."
+
+nhsc_tech_lightstorm_pd: "뇌전 거점 방어"
+nhsc_tech_lightstorm_pd_desc: "매우 효율적인 레이저 기반 거점 방어 체계."
+
+### leviathans
+
+nhsc_tech_enigmatic_energy_harvesting: "수수께끼 에너지 수확"
+nhsc_tech_enigmatic_energy_harvesting_desc: "수수께끼 요새의 비밀이 공개되어 그 안에 숨겨진 신비를 재현할 수 있게 되었습니다."
+
+nhsc_tech_enigmatic_discharger: "수수께끼 에너지 방출기"
+nhsc_tech_enigmatic_discharger_desc: "수수께끼같은 기술을 사용하는 강력한 무기."
+
+nhsc_tech_enigmatic_autocannon: "수수께끼 에너지 기관포"
+nhsc_tech_enigmatic_autocannon_desc: "수수께끼의 기술로 만들어진 에너지 기관포"
+
+nhsc_tech_enigmatic_lance: "수수께끼 에너지 랜스"
+nhsc_tech_enigmatic_lance_desc: "수수께끼의 기술로 만들어진 입자 랜스."
+
+nhsc_tech_enigmatic_lance_titanic: "수수께끼 에너지 랜스 대형화"
+nhsc_tech_enigmatic_lance_titanic_desc: "우리 함대의 가장 거대한 함선을 위한 $nhsc_tech_enigmatic_lance$의 대형화 버전."
+
+nhsc_tech_enigmatic_lash: "수수께끼 에너지 채찍"
+nhsc_tech_enigmatic_lash_desc: "에너지 방전으로 목표를 구워버리는 수수께끼의 무기."
+
+nhsc_tech_extradimensional_pd: "이차원 쐐기"
+nhsc_tech_extradimensional_pd_desc: "이차원의 공포에서 역설계된 무기. 포탈을 통해 적에게 쐐기를 쏘아냅니다."
+
+nhsc_tech_tiyanki_cannon: "티얀키 빔"
+nhsc_tech_tiyanki_cannon_desc: "티얀키 대모가 사용하는 생물학적 에너지 랜스."
+
+nhsc_tech_tiyanki_cannon_titanic: "티얀키 빔 대형화"
+nhsc_tech_tiyanki_cannon_titanic_desc: "가장 치명적인 공격을 가하는 $nhsc_tech_tiyanki_cannon$의 대형화 버전"
+
+nhsc_tech_junk_mine_launcher: "고철 발사기"
+nhsc_tech_junk_mine_launcher_desc: "고철 수거 봇이 사용하는 무기. 고철과 쓰레기를 투사체로 하는 값싸고 간단한 지뢰 발사기"
+
+nhsc_tech_voidspawn_missile: "공허 미사일"
+nhsc_tech_voidspawn_missile_desc: "보이드스폰이 사용하는 무기를 기반으로 한 반 유기체 미사일."
+
+### strikecrafts
+
+nhsc_tech_tactical_strikecrafts: "전술 함재기"
+nhsc_tech_tactical_strikecrafts_desc: "차세대 함재기는 모든 조건에서 최고의 성능을 발휘하도록 조정되었습니다."
+
+nhsc_tech_siegebreaker_strikecrafts: "공성 함재기"
+nhsc_tech_siegebreaker_strikecrafts_desc: "궁극의 우주 전투기."
+
+### extradimensional
+
+nhsc_tech_extradimensional_weapon_2: "물질 절멸기"
+nhsc_tech_extradimensional_weapon_2_desc: "이차원에서의 전리품을 기반으로 한 물질 분해기의 개선된 형태"
+
+nhsc_tech_extradimensional_weapon_2_x: "거대 물질 절멸기"
+nhsc_tech_extradimensional_weapon_2_x_desc: "더 많은 물질(그러니까, 적들의 함선)을 제거하기 위해 $nhsc_tech_extradimensional_weapon_2$의 크기를 키웁니다"
+
+nhsc_tech_extradimensional_weapon_2_t: "초거대 물질 절멸기"
+nhsc_tech_extradimensional_weapon_2_t_desc: "함대의 가장 거대한 함선에게 달아주기 위해 $nhsc_tech_extradimensional_weapon_2$의 크기를 좀 더 많이 키웁니다"
+
+nhsc_tech_extradimensional_weapon_3: "현실 말소기"
+nhsc_tech_extradimensional_weapon_3_desc: "물질 절멸기에 널 보이드 에너지를 추가하여 공격 대상이 되는 물질이 차지하는 공간 자체를 지워버리는, 현실을 지우는 무기를 만들 수 있습니다"
+
+nhsc_tech_extradimensional_weapon_3_x: "거대 현실 말소기"
+nhsc_tech_extradimensional_weapon_3_x_desc: "우리가 가진 그 어떤 무기보다도 적을 더 빠르게 지울 수 있는 $nhsc_tech_extradimensional_weapon_3$의 확장형 무기"
+
+nhsc_tech_extradimensional_weapon_3_t: "초거대 현실 말소기"
+nhsc_tech_extradimensional_weapon_3_t_desc: "함대의 가장 거대한 함선에게 달아주기 위해 $nhsc_tech_extradimensional_weapon_3$의 크기를 좀 더 많이 키웁니다"
+
+### Juggernaut-specific M-slots
+
+nhsc_tech_juggernaut_artillery_1: "저거너트 주포"
+nhsc_tech_juggernaut_artillery_1_desc: "저거너트는 우리가 만들 수 있는 가장 강력한 함선이며, 우리가 만들 수 있는 가장 강력한 무기를 달 자격이 있습니다. 그러나 우리가 왜 이미 가지고 있는 무기만을 달아야 합니까? 저거너트를 위한 더욱 강력한 무기를 만들어야 합니다."
+
+nhsc_tech_juggernaut_artillery_2: "개선된 저거너트 주포"
+nhsc_tech_juggernaut_artillery_2_desc: "저거너트 주포를 개선하여, 더욱 강력하고 치명적으로 만듭니다."
+
+nhsc_tech_juggernaut_beam_cannon_1: "저거너트 광선포"
+nhsc_tech_juggernaut_beam_cannon_1_desc: "저거너트는 우리가 만들 수 있는 가장 강력한 함선이며, 우리가 만들 수 있는 가장 강력한 무기를 달 자격이 있습니다. 그러나 우리가 왜 이미 가지고 있는 무기만을 달아야 합니까? 저거너트를 위한 더욱 강력한 무기를 만들어야 합니다."
+
+nhsc_tech_juggernaut_beam_cannon_2: "개선된 저거너트 광선포"
+nhsc_tech_juggernaut_beam_cannon_2_desc: "저거너트 광선포를 개선하여, 더욱 강력하고 치명적으로 만듭니다."
+
+nhsc_tech_juggernaut_pd_1: "저거너트 거점 방어 체계"
+nhsc_tech_juggernaut_pd_1_desc: "저거너트는 우리가 만들 수 있는 가장 강력한 함선이며, 우리가 만들 수 있는 가장 강력한 거점 방어 체계를 달 자격이 있습니다. 그러나 우리가 왜 이미 가지고 있는 것만을 달아야 합니까? 저거너트를 위한 더욱 강력한 거점 방어 체계를 만들어야 합니다."
+
+nhsc_tech_juggernaut_pd_2: "개선된 저거너트 거점 방어 체계"
+nhsc_tech_juggernaut_pd_2_desc: "개선된 발자체 조준 논리와 더욱 강력한 포신을 포함한, 저거너트 거점 방어 체계의 개선형입니다."
+
+### Technologies from ESC:Overwrites
+
+nhsc_tech_extradimensional_weapon_1: "초차원 무기"
+nhsc_tech_extradimensional_weapon_1_desc: "5차원 무기를 저차원에서 사용하면 예기치 못한 강력한 피해를 줍니다."
+
+nhsc_tech_scourge_missile_1: "스컬지 미사일"
+nhsc_tech_scourge_missile_1_desc: "프레소린이 사용하는 생물 무기를 분석하여 우리가 사용할 수 있도록 개조합니다."
+
+nhsc_tech_swarm_strike_craft_1: "군단 산란장"
+nhsc_tech_swarm_strike_craft_1_desc: "죽은 프레소린의 표본을 수집하여 복제한 후 유전적인 프로그래밍을 거치면 우리만의 전투 군단을 만들어낼 수 있습니다."
+
+########################################
+###      Technologies : other        ###
+########################################
+
+nhsc_tech_improved_crystal_farm: "개량형 크리스탈 농장"
+nhsc_tech_improved_crystal_farm_desc: "유기 크리스탈에 대한 이해가 증진되어 농장을 더 효율적으로 개선할 수 있게 되었습니다."
+
+nhsc_tech_repair_drones: "수리 드론"
+nhsc_tech_repair_drones_desc: "긴급 선체 복구용 무인 드론"
+NHSC_TECH_UNLOCK_AUX_REAPIR_DRONES_TITLE: "§H부품 잠금 해제§!: 수리 드론"
+NHSC_TECH_UNLOCK_AUX_REPAIR_DRONES_DESC: "긴급 선체 복구용 무인 드론"
+
+nhsc_tech_psionic_reinforcement: "사이오닉 강화"
+nhsc_tech_psionic_reinforcement_desc: "선체 안정성 강화를 위해 승무원의 사이오닉 에너지를 주입합니다."
+TECH_UNLOCK_PSIREINFORCEMENT_TITLE: "§H부품 잠금 해제§!: 사이오닉 강화"
+TECH_UNLOCK_PSIREINFORCEMENT_DESC: "선체 안정성 강화를 위해 승무원의 사이오닉 에너지를 주입합니다."
+
+nhsc_tech_tactical_strikecrafts: "전술 함재기"
+nhsc_tech_tactical_strikecrafts_desc: "우리가 이전까지 만들었던 그 어떤 전투기보다도 강력한 차세대 우주 전투기"
+
+nhsc_tech_siegebreaker_strikecrafts: "공성 함재기"
+nhsc_tech_siegebreaker_strikecrafts_desc: "궁극의 우주 전투기"
+
+nhsc_tech_amoeba_strike_craft_2: "사이버네틱 아메바"
+nhsc_tech_amoeba_strike_craft_2_desc: "인공 두뇌 임플란트를 특별히 사육된 아메바에 삽입함으로써 더 강하고 지능적인 전투기로 만들 수 있습니다."
+
+nhsc_tech_swarm_strike_craft_2: "포식자 떼"
+nhsc_tech_swarm_strike_craft_2_desc: "이 무리는 은하계의 가장 악랄한 유기체 전투기가 되기 위해 특수한 훈련과 약물을 주입받았습니다."
+
+nhsc_tech_strikecrafts_mercenary_1: "용병 고용"
+nhsc_tech_strikecrafts_mercenary_1_desc: "돈으로는 많은 것을 살 수 있습니다. 군사력은 더욱 그렇습니다. 독립적으로 살아가는 우주 비행사들과 접촉함으로써, 우리는 강하고 경험이 풍부한 조종사를 보충할 수 있을 것입니다. 그들의 전투기는 덤입니다."
+nhsc_tech_strikecrafts_mercenary_2: "정예 용병 접촉"
+nhsc_tech_strikecrafts_mercenary_2_desc: "관대한 고용주의 명성이 널리 퍼지면서, 더 많은 경험을 가진 용병들이 찾아왔습니다. 그들은 우리에게 충성할 것입니다. 충분한 보수가 주어진다면..."
+
+nhsc_tech_dreadnought_computer: "자동화 드레드노트 전투 알고리즘"
+nhsc_tech_dreadnought_computer_desc: "자동화 드레드노트 알고리즘을 사용하는 전투 컴퓨터."
+NHSC_TECH_UNLOCK_DREADNOUGHT_COMPUTER_TITLE: "§H부품 잠금 해제§!: 자동화 드레드노트 프로토콜"
+NHSC_TECH_UNLOCK_DREADNOUGHT_COMPUTER_DESC: "자동화 드레드노트 알고리즘을 사용하는 전투 컴퓨터."
+
+nhsc_tech_advanced_shield_capacitors: "고급 보호막 축전기"
+nhsc_tech_advanced_shield_capacitors_desc: "기존 모델보다 훨씬 빠르게 보호막을 재생성하는 신형 보호막 축전기"
+
+nhsc_tech_crystal_infused_capacitor: "결정 주입 보호막 축전기"
+nhsc_tech_crystal_infused_capacitor_desc: "결정질을 이용하여 선체를 강화하는 보호막 축전기"
+
+nhsc_tech_crystal_forged_capacitor: "결정 단조 보호막 축전기"
+nhsc_tech_crystal_forged_capacitor_desc: "$nhsc_tech_crystal_infused_capacitor_desc$"
+
+nhsc_tech_stellarite_powercore: "스텔라라이트 파워 코어"
+nhsc_tech_stellarite_powercore_desc: "항성 포식자의 심장은 핵융합로의 역할을 하는 것으로 보입니다. 아마도 이것을 우리 함선의 전력을 보충하는 데 사용할 수 있을 것입니다."
+
+nhsc_tech_standardized_warheads: "탄두 표준화"
+nhsc_tech_standardized_warheads_desc: "미사일 탄두의 표준화로 위력을 향상시킴과 동시에 고장률을 최소화할 수 있었습니다."
+
+nhsc_tech_auxiliary_fire_control_2: "고급 사격 통제 장치"
+nhsc_tech_auxiliary_fire_control_2_desc: "이 보조 컴퓨터는 정밀한 화기관제 체계를 제공합니다."
+
+nhsc_tech_structural_reinforcement: "선체 강화"
+nhsc_tech_structural_reinforcement_desc: "전문화된 건조 기술을 통해 우리 함선을 손상에 보다 강하게 만들 수 있습니다. 그러나 이것은 함선의 장갑을 약간 희생해야 합니다."
+
+nhsc_tech_precursor_armaments: "선구자 무장 기술"
+nhsc_tech_precursor_armaments_desc: "고대 문명은 자신들의 무기를 새로운 수준으로 끌어올리기 위해 특화된 반응로를 만들었습니다."
+
+nhsc_tech_crystalline_valuables: "크리스탈 보석"
+nhsc_tech_crystalline_valuables_desc: "생체 크리스탈은 군용으로 주로 쓰이지만, 특수한 가공을 통해 진귀한 보석으로 변환될 수도 있습니다."
+NHSC_TECH_LIVING_CRYSTALS_TRADE_TITLE: "§H직업 업그레이드§!: £job_esc_crystal_farmer£ §Y$job_esc_crystal_farmer_plural$§!는 £trade_value£ §Y$TRADE_VALUE$§! 또한 생산합니다."
+NHSC_TECH_LIVING_CRYSTALS_TRADE_DESC: "$nhsc_tech_crystalline_valuables_desc$"
+
+nhsc_tech_rare_crystals_cultivation: "희귀 크리스탈 재배"
+nhsc_tech_rare_crystals_cultivation_desc: "묘판의 개선으로, 우리는 보다 희귀하고 가치있는 종류의 크리스탈을 생산할 수 있게 되었습니다."
+NHSC_TECH_RARE_CRYSTALS_CULTIVATION_TITLE: "§H직업 업그레이드§!: £job_esc_crystal_farmer£ §Y$job_esc_crystal_farmer_plural$§!는 £rare_crystals£ §Y$rare_crystals$§! 또한 생산합니다."
+NHSC_TECH_RARE_CRYSTALS_CULTIVATION_T_DESC: "$nhsc_tech_rare_crystals_cultivation_desc$"
+
+nhsc_tech_autocannons_m: "기관포 대형화"
+nhsc_tech_autocannons_m_desc: "더 큰 대포! 더 많은 탄환!"
+#NHSC_TECH_UNLOCK_M_AUTOCANNONS_TITLE: "§H부품 잠금 해제§!: M-size advanced autocannons"
+#NHSC_TECH_UNLOCK_M_AUTOCANNONS_DESC: "$nhsc_tech_autocannons_m_desc$"
+
+nhsc_tech_autocannons_l: "초대형 기관포"
+nhsc_tech_autocannons_l_desc: "화력에 과잉이란 없습니다!"
+#NHSC_TECH_UNLOCK_L_AUTOCANNONS_TITLE: "§H부품 잠금 해제§!: L-size advanced autocannons"
+#NHSC_TECH_UNLOCK_L_AUTOCANNONS_DESC: "$nhsc_tech_autocannons_l_desc$"
+
+nhsc_tech_aura_mirage_system: "타이탄 오라: 신기루 체계"
+nhsc_tech_aura_mirage_system_desc: "함선이 실제로 존재하지 않는 곳에 모습만을 투영하는 것으로 적의 목표 설정의 효율성을 크게 감소시킬 수 있습니다."
+NHSC_TECH_UNLOCK_TITAN_AURA_MIRAGE: "§H타이탄 오라 잠금 해제§!: 신기루 체계"
+NHSC_TECH_UNLOCK_TITAN_AURA_MIRAGE_DESC: "$nhsc_tech_aura_mirage_system_desc$"
+
+nhsc_tech_aura_nanite_swarm: "타이탄 오라: 나나이트 침투 군집"
+nhsc_tech_aura_nanite_swarm_desc: "적 함선의 장갑층과 내부 선체를 공격하기 위해 나나이트를 프로그래밍하여 무기 체계의 무결성을 떨어트릴 수 있습니다."
+NHSC_TECH_UNLOCK_TITAN_AURA_NANITES: "§H타이탄 오라 잠금 해제§!: 나나이트 침투 군집"
+NHSC_TECH_UNLOCK_TITAN_AURA_NANITES_DESC: "$nhsc_tech_aura_nanite_swarm_desc$"
+
+nhsc_tech_aura_space_distortion: "타이탄 오라: 공간 왜곡 모듈"
+nhsc_tech_aura_space_distortion_desc: "우주 전투에 중력장 조작 기술을 적용하는 것은 전장을 통제하는 데 있어서 비할 데 없는 능력을 보여주며, 적의 회피 성능을 극도로 떨어트려 우리의 과녁으로 전락시킵니다."
+NHSC_TECH_UNLOCK_TITAN_AURA_SPATIAL: "§H타이탄 오라 잠금 해제§!: 공간 왜곡 모듈"
+NHSC_TECH_UNLOCK_TITAN_AURA_SPATIAL_DESC: "$nhsc_tech_aura_space_distortion_desc$"
+
+nhsc_tech_nanite_thought_matrix: "나나이트 사고 연결망"
+nhsc_tech_nanite_thought_matrix_desc: "뇌의 구조를 모방한 나나이트 구조를 기반으로 하는 인공지능은 이론상 모든 종류의 특질을 흉내낼 수 있으며, 수 밀리초 내에 복잡한 의사 결정을 수행할 수 있습니다. 해당 AI를 함선에 도입하여 더욱 뛰어난 성능을 낼 수 있을 것입니다."
+NHSC_TECH_UNLOCK_COMBAT_COMPUTERS_NANITE_TITLE: "§H부품 잠금 해제§!: $nhsc_tech_nanite_thought_matrix$ 전투 컴퓨터"
+NHSC_TECH_UNLOCK_COMBAT_COMPUTERS_NANITE_DESC: "뇌의 구조를 모방한 나나이트 구조를 기반으로 하는 인공지능은 이론상 모든 종류의 특질을 흉내낼 수 있으며, 수 밀리초 내에 복잡한 의사 결정을 수행할 수 있습니다."
+
+nhsc_tech_dragon_hatchery: "거대 생명체 복제"
+nhsc_tech_dragon_hatchery_desc: "생명을 다루는 기술에 대한 숙달의 결과, 마침내 거대한 외계 생명체를 복제할 가능성이 열렸습니다. 하지만 그럴 필요가 있을까요?"
+
+nhsc_tech_psionically_unified_society: "사이오닉 통합 사회"
+nhsc_tech_psionically_unified_society_desc: "텔레파시 능력자는 반체제 인사를 찾기 위해 국민을 감시하는 것 이상을 할 의무가 있습니다. 또한 사람들이 먼 거리를 떨어져 있어도 같은 생각을 하도록 도울 수 있습니다. 이들과 관련된 사이오닉 에너지는 제국의 힘을 증가시킬 수 있을 것입니다."
+
+nhsc_tech_psionic_overmind: "Psionic Overmind"
+nhsc_tech_psionic_overmind_desc: "사이오닉 연결망을 확장하고 발달시키는 것으로, 우리의 정신을 우리의 육체와 더욱 단단하게 연결할 수 있으며 더욱 정밀한 제어를 할 수 있게 될 것입니다. 또한 우리의 힘을 강화하기 위한 사이오닉 에너지를 모으는 데에도 사용할 수 있습니다."

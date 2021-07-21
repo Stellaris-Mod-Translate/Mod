@@ -1,0 +1,42 @@
+﻿l_english:
+
+###_z fw buildings  ################################################################################
+
+#_basic
+ z_fw_b_basic_advanced: "우리가 이해할 수 없는 불가사의한 현상에 대한 심도있는 연구를 통해 에너지와 물질을 자유롭게 변형 할 수 있어 제국의 생산성을 크게 높일 수 있습니다."
+ 
+ z_fw_b_mining: "완전 자동화 채굴 기지"
+ z_fw_b_mining_1: "$z_fw_b_mining$ LV1"
+ z_fw_b_mining_1_desc: "이 거대한 채굴 시설은 완전 자동화 되었습니다. 생산 잠재력은 일반 광산 산업 지역만큼 좋지 않을 수 있지만 과도한 인력 유지가 필요하지 않으며 언제든지 생산에 투입 할 수 있습니다."
+ z_fw_b_mining_2: "$z_fw_b_mining$ LV2"
+ z_fw_b_mining_2_desc: "$z_fw_b_mining_1_desc$"
+ z_fw_b_mining_3: "$z_fw_b_mining$ LV3"
+ z_fw_b_mining_3_desc: "$z_fw_b_mining_1_desc$"
+ z_fw_b_mining_4: "$z_fw_b_mining$ LV4"
+ z_fw_b_mining_4_desc: "$z_fw_b_mining_1_desc$"
+ z_fw_b_mining_5: "$z_fw_b_mining$ LV5"
+ z_fw_b_mining_5_desc: "$z_fw_b_mining_1_desc$\n$z_fw_b_basic_advanced$"
+ 
+ z_fw_b_energy: "완전 자동화 에너지 기지"
+ z_fw_b_energy_1: "$z_fw_b_energy$ LV1"
+ z_fw_b_energy_1_desc: "이 거대한 에너지 시설은 완전 자동화 되었습니다. 출력 잠재력은 일반 에너지 센터만큼 좋지 않을 수 있지만 과도한 인력 유지 관리가 필요하지 않으며 언제든지 생산에 투입 할 수 있습니다."
+ z_fw_b_energy_2: "$z_fw_b_energy$ LV2"
+ z_fw_b_energy_2_desc: "$z_fw_b_energy_1_desc$"
+ z_fw_b_energy_3: "$z_fw_b_energy$ LV3"
+ z_fw_b_energy_3_desc: "$z_fw_b_energy_1_desc$"
+ z_fw_b_energy_4: "$z_fw_b_energy$ LV4"
+ z_fw_b_energy_4_desc: "$z_fw_b_energy_1_desc$"
+ z_fw_b_energy_5: "$z_fw_b_energy$ LV5"
+ z_fw_b_energy_5_desc: "$z_fw_b_energy_1_desc$\n$z_fw_b_basic_advanced$"
+ 
+ z_fw_b_farm: "완전 자동화 수경재배 농장"
+ z_fw_b_farm_1: "$z_fw_b_farm$ LV1"
+ z_fw_b_farm_1_desc: "이 거대한 농업 시설은 완전 자동화 되었습니다. 생산 잠재력은 일반 농업 지역만큼 좋지 않을 수 있지만 과도한 인력 유지가 필요하지 않으며 언제든지 생산에 투입 할 수 있습니다."
+ z_fw_b_farm_2: "$z_fw_b_farm$ LV2"
+ z_fw_b_farm_2_desc: "$z_fw_b_farm_1_desc$"
+ z_fw_b_farm_3: "$z_fw_b_farm$ LV3"
+ z_fw_b_farm_3_desc: "$z_fw_b_farm_1_desc$"
+ z_fw_b_farm_4: "$z_fw_b_farm$ LV4"
+ z_fw_b_farm_4_desc: "$z_fw_b_farm_1_desc$"
+ z_fw_b_farm_5: "$z_fw_b_farm$ LV5"
+ z_fw_b_farm_5_desc: "$z_fw_b_farm_1_desc$\n$z_fw_b_basic_advanced$"

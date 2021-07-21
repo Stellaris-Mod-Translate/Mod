@@ -1,0 +1,295 @@
+﻿l_english:
+
+##################################################################################################################################################################################################################
+### TECHNOLOGIES ###
+####################
+
+tech_pd_destroyer_1:0 "방공 구축함"
+tech_pd_destroyer_1_desc:0 "미사일, 어뢰, 타격기 등은 모두 우리 함대에 중대한 위협이 되고 있습니다. 우리 함대 기술자들은 이런 위협들이 우리 함선에 도달하기 전에 이것들을 격추하기 위해 수많은 거점 방어 무기를 탑재하도록 재설계할 것을 제안했습니다."
+
+tech_StrikeCruiser_1:0 "타격 순양함"
+tech_StrikeCruiser_1_desc:0 "전투 경험과 광범위한 전투 훈련을 통해 알아낸 사실은 패배한 쪽이 FTL로 즉시 비상 점프를 하기 때문에 종종 함대 전투가 결정적인 결과 없이 끝난다는 것입니다.\n이를 해결하기 위해서 우리 최고의 과학자들은 항성기지에도 사용되는 아공간 덫을 함선에도 탑재하기 위해 소형화하는데 성공했습니다.\n이 소형화된 아공간 덪을 탑재한 새로운 함선들은 적 함대를 붙잡아놓기 위해 맹렬한 속도로 공격하고, 적 함선이 전투에서 이탈하지 못하도록 유지할 만큼 충분히 기동성이 좋으며, 적들의 공격에도 가능한 한 오래 버틸 수 있을만큼 충분히 튼튼한 함선입니다."
+
+tech_Battlecruiser_1:0 "전투 순양함"
+tech_Battlecruiser_1_desc:0 "점점 더 큰 함선이 보편화되면서 전투는 더 먼 거리에서 벌어지고 있으며, 함대의 화력은 전투에서 더욱 결정적인 요소가 되고 있습니다.\n우리 함대 이론가들은 중거리, 혹은 장거리에서 가능한 한 많은 무기를 적 함대에 투사할 수 있는 길고 강력한 함선을 건조할 것을 제안하고 있습니다."
+
+tech_escortcarrier_1:0 "호위 모함"
+tech_escortcarrier_1_desc:0 "행성 전투는 오랫동안 항공 요소들을 포함해 왔으며, 전투기와 폭격기는 어떠한 종류의 무력 충돌에도 절대적으로 필수적인 존재임을 증명했습니다.\n이 함선은 매우 성공적인 순양함 설계를 바탕으로 한 섹션 모델을 사용하여 이 강력한 전쟁 기계들의 우주 버전을 사출하기에 충분한 크기의 군함입니다."
+
+tech_Carrier_1:0 "모함"
+tech_Carrier_1_desc:0 "타격기는 해상전에서 매우 성공적인 무기체계임을 증명했습니다. 이제는 우주에서도 마찬가지로 타격기를 탑재하고 그에 필요한 대규모 지원 인력과 정비소를 수용하는 특별한 군함을 설계해야 할 차례입니다. 이를 통해 새로운 모함은 급조되어 사용되었던 이전 함선들보다 훨씬 더 많은 타격기를 탑재할 수 있을 것입니다."
+
+tech_heavycarrier_1:0 "중모함 개장"
+tech_heavycarrier_1_desc:0 "우리 제국의 함선 건조 능력이 계속 증가함에 따라, 기존 모함에 타격기의 유지관리에 필요한 지원 설비를 소형화하는 기술을 결합하여 기존보다 더 많은 격납고를 탑재할 수 있는 중모함으로 개장할 수 있을 것입니다."
+
+tech_supercarrier_1:0 "초중모함 개장"
+tech_supercarrier_1_desc:0 "함선 건조와 지원 시설의 소형화에 대한 추가적인 노력을 통해 우리는 모함에 믿을 수 없을 정도로 많은 격납고를 밀어넣을 수 있었습니다. 이 초중모함들은 우리 함대를 공격으로부터 더 잘 방어하고 최고의 조종사들로 적들을 압도할 수 있는 수많은 타격기들을 사출할 것입니다."
+
+tech_spitfire_1:0 "탄막생성 전함 특화"
+tech_spitfire_1_desc:0 "주력함들은 이전에 있던 어떤 함선보다 비싸고 강력하지만 순전히 숫자로 압도할 수 있는 상대적으로 값싼 소형함들에게는 좋은 표적이 됩니다.\n이에 대응하기 위해 우리 기술자들은 특별히 고안된 무기들과 함께 주력함인 전함을 초계함과 구축함을 상대하기 쉬운 함선으로 변화시킬 몇 가지의 청사진을 연구하고 있습니다.\n이 연구를 통한 '탄막생성 전함'들은 제작비가 많이 들겠지만 소형함에 상대적으로 취약한 우리 주력함들을 보호하는 역할을 수행할 것입니다."
+
+tech_Dreadnought_1:0 "드레드노트"
+tech_Dreadnought_1_desc:0 "장거리 타격 능력을 가진 전함이라는 함급과 XL무기의 등장은 혁혁한 전공과 함께 함선 설계와 전쟁의 성격을 완전히 바꾸어 놓았습니다.\n우리 해군 기술자들은 강력한 이 함선의 더 나은 설계를 개발해야 한다고 믿습니다. 그들이 제안한 '드레드노트'라는 함급은 더 단단한 방어력과 더 많은 무장, 그리고 이전 전쟁에서 성공적으로 사용되었던 XL무기 두 정을 탑재할 수 있을 것입니다."
+
+tech_Flagship_1:0 "기함"
+tech_Flagship_1_desc:0 "함대 군비 경쟁은 끝이 보이지 군함의 생산을 불러왔습니다. 그래서 우리 함대 기술자들은 어떠한 제국도 한 척 정도만 유지 가능할 정도의 궁극의 거대 함선을 건조함으로써 이 함선 건조의 연쇄를 끊으려 합니다.\n이 '기함'이라고 명명된 함선의 설계는 각 섹션이 최대한의 융통성을 가지도록 설계되어 목적에 맞게 함선을 건조할 수 있으며 다른 어떤 함선보다도 많은 추진기를 탑재하여 함대 후방의 포대 역할부터 대규모 타격기를 운용하는 거대 모함 역할까지 많은 역할을 할 수 있을 것입니다.\n\n그러나 이 함선은 건조하는 데 막대한 양의 자원과 시간 그리고 인력이 필요할 것입니다. 또한 건조되면 유지비로 작은 소국가의 국내총생산 전체가 사용될 정도라서 사업 승인을 받기 위해서는 막대한 정치적 영향력이 필요할 것입니다."
+
+tech_supportcruiser_1:0 "함대 지원함"
+tech_supportcruiser_1_desc:0 "우리 함대의 규모가 커지고, 이동하는 거리가 늘어나면서 장거리 보급선을 유지할 것이 아니라 내부적으로 지원할 필요가 있습니다. '함대 지원함'은 이 문제에 대한 해답으로, 고급 모듈 추가를 통해 우리 순양함에 새로운 지원 기능을 추가했습니다."
+
+tech_explorationship_1:0 "1세대 탐사 순양함"
+tech_explorationship_1_desc:0 "우리 용감한 과학자들은 은하를 탐사하고 은하의 모든 비밀을 밝혀내려는 그들의 탐구 활동에서 많은 위협에 직면해 있습니다. 우리 함선 기술자들은 새로운 세계를 탐험하고, 새로운 생명과 새로운 문명을 찾고, 누구도 가보지 못한 곳으로 대담하게 갈 수 있는 크고 전투가 가능한 과학선의 개발을 제압합니다."
+
+tech_explorationship_2:0 "2세대 탐사 순양함"
+tech_explorationship_2_desc:0 "함선 기술자들은 탐사 순양함의 성과에 기뻐하면서도 우리 과학자들에 대한 보호를 더욱 강화하기 위한 차세대 탐사 순양함을 개발할 것을 제안합니다."
+
+tech_explorationship_3:0 "3세대 탐사 순양함"
+tech_explorationship_3_desc:0 "함선 기술자들은 업그레이드된 탐사 순양함의 성능에 만족하면서도 과학자들에 대한 보호를 더욱 강화하기 위한 훨씬 더 강력한 탐사 순양함을 개발할 것을 제안하고 있습니다."
+
+tech_drydock_1:0 "항성기지 건선거"
+tech_drydock_1_desc:0 "이 특수 설계된 시설은 첨단 기술을 사용하여 조선소 내의 기압을 유지함으로써 기술자들이 더 쉽게 함선을 건조, 유지, 업그레이드 및 수리를 진행할 수 있도록 합니다."
+
+tech_sensorstation_1:0 "감지 스테이션"
+tech_sensorstation_1_desc:0 "항성기지의 감지 스테이션은 첨단 센서 배열을 사용하여 여러 항성계에 걸쳐 우리의 정보수집 기능을 확장하여 국경 인근에 있을 수 있는 모든 위협에 대한 정보를 제공합니다."
+
+tech_starbase_6:0 "항성성새"
+tech_starbase_6_desc:0 "함대가 점점 더 크고 강력해짐에 따라, 우리의 항성기지와 방어 시설도 강해져야 할 필요가 있었습니다. 항성성새는 고도의 기술력이 집약된 성계 방어 시설이며, 기존의 항성성채에서 대대적인 개수를 거쳤습니다. 이곳에선 다량의 시설을 지원할 수 있습니다."
+
+tech_starbase_7:0 "항성보루"
+tech_starbase_7_desc:0 "항성기지의 최종 강화형인 항성보루는 궁극의 지휘 및 방어 거점입니다. 적의 함대를 가장 앞에서 막아설 방파제이며, 제국의 가장 중요한 자산이고, 은하계의 가장 중요한 곳을 방어합니다."
+
+tech_space_defense_station_2:0 "심우주 방어 II"
+tech_space_defense_station_2_desc:0 "함대가 점점 더 커지고 강력해지면서 우리 방어 시설도 그에 맞춰야만 합니다. 우리가 현재 사용하고 있는 기본 방어 플랫폼의 개량형인 이 확장된 방어 스테이션은 적의 공격을 더욱 효과적으로 막아낼 것입니다."
+
+tech_space_defense_station_3:0 "심우주 방어 III"
+tech_space_defense_station_3_desc:0 "함대가 점점 더 커지고 강력해지면서 우리 방어 시설도 그에 맞춰야만 합니다. 우리가 현재 사용하고 있는 방어 스테이션의 개량형인 이 요새 수준의 방어시설은 적의 공격을 더욱 효과적으로 막아낼 것입니다."
+
+tech_specialcomponents_1:0 "발전된 함선 부품"
+tech_specialcomponents_1_desc:0 "우리 과학자들은 함선의 성능 향상과 추가적인 전문화를 가능케하는 다양하고 강력한 모듈을 고안했습니다. 이제 시제품을 함선에 탑재할 수 있을 정도로 소형화하기만 하면 됩니다."
+
+tech_ship_upkeep_1:0 "함대 보급선 효율화"
+tech_ship_upkeep_1_desc:0 "기술과 병참학의 발전으로 우리 함대에 훨씬 더 효율적인 보급선을 운영할 수 있게 되어 함선 유지 비용을 크게 절감할 수 있었습니다."
+
+tech_starbase_upkeep_1:0 "항성기지 유지관리 효율화"
+tech_starbase_upkeep_1_desc:0 "기술과 훈련의 발전으로 우리 항성기지 승무원들이 훨씬 더 효율적인 유지보수 방법을 습득할 수 있게 되어 항성기지 유지 비용을 크게 절감할 수 있었습니다."
+
+tech_singularity_power:0 "특이점 동력"
+tech_singularity_power_desc:0 "양자 특이점에서 동력을 공급받는 반응로입니다."
+
+tech_bh_power_3:0 "향상된 기함 반응로"
+tech_bh_power_3_desc:0 "인공 블랙홀에서 동력을 공급받는 반응로입니다."
+
+tech_bh_power_2:0 "개선된 기함 반응로"
+tech_bh_power_2_desc:0 "인공 블랙홀에서 동력을 공급받는 반응로입니다."
+
+tech_optimized_enigmatic_power:0 "최적화된 암흑 물질 반응로"
+tech_optimized_enigmatic_power_desc:0 "발전된 암흑 물질 반응로입니다."
+
+tech_graviton_power:0 "중력자 반응로"
+tech_graviton_power_desc:0 "반물질 반응을 강화하기 위한 중력자 투입을 통해 반응로의 에너지 생산량을 크게 증가시킵니다."
+
+tech_multidimensional_power:0 "다차원 반응로"
+tech_multidimensional_power_desc:0 "다른 차원, 다른 현실 사이에 물질이 이동할 수 있는 통로를 만드는 기술을 통해 다소 제한적이나마 반응로에 동력을 공급하기 위한 진공 에너지의 흐름을 이용할 수 있습니다."
+
+tech_naquadria_power:0 "나크아드리아 반응로"
+tech_naquadria_power_desc:0 "고대의 희귀한 수정에서 동력을 공급받는 반응로입니다."
+
+nsc_sec_power_core:0 "보조 반응로"
+nsc_sec_power_core_desc:0 "스테이션과 요새를 위한 보조 반응로입니다."
+
+tech_nsc_reactor_boosters_1:0 "중력자 가속기"
+tech_nsc_reactor_boosters_1_desc:0 "중력자 동력의 발견을 통해 더 강력한 반응로 가속기를 함선에 장착할 수 있게 되었습니다."
+tech_nsc_reactor_boosters_2:0 "나크아드리아 가속기"
+tech_nsc_reactor_boosters_2_desc:0 "나크아드리아 동력의 발견을 통해 더 강력한 반응로 가속기를 함선에 장착할 수 있게 되었습니다."
+tech_nsc_reactor_boosters_3:0 "특이점 가속기"
+tech_nsc_reactor_boosters_3_desc:0 "특이점 동력의 발견을 통해 더 강력한 반응로 가속기를 함선에 장착할 수 있게 되었습니다."
+
+tech_nsc_dlc_check:0 "아포칼립스 실행 여부"
+tech_nsc_dlc_check_desc:0 "아포칼립스 DLC의 존재 여부를 파악하기 위한 시작 기술입니다."
+
+tech_strikecruiser_build_speed:0 "표준화된 타격 순양함 양식"
+tech_strikecruiser_build_speed_desc:0 "타격 순양함의 설계와 건조에 관한 새로운 표준을 확립하여 건조 공정의 효율성을 크게 향상시킵니다"
+tech_strikecruiser_hull_1:0 "개선된 타격 순양함 선체"
+tech_strikecruiser_hull_1_desc:0 "건조 기술의 발전을 통해 보다 더 견고하고 내구성이 높은 타격 순양함을 건조할 수 있습니다."
+tech_strikecruiser_hull_2:0 "향상된 타격 순양함 선체"
+tech_strikecruiser_hull_2_desc:0 "최신형 타격 순양함 선체엔 최적화된 구조적 무결성 공정을 이용하고 개선된 격벽이 설치되었습니다."
+
+tech_battlecruiser_build_speed:0 "표준화된 전투 순양함 양식"
+tech_battlecruiser_build_speed_desc:0 "전투 순양함의 설계와 건조에 관한 새로운 표준을 확립하여 건조 공정의 효율성을 크게 향상시킵니다"
+tech_battlecruiser_hull_1:0 "개선된 전투 순양함 선체"
+tech_battlecruiser_hull_1_desc:0 "건조 기술의 발전을 통해 보다 더 견고하고 내구성이 높은 전투 순양함을 건조할 수 있습니다."
+tech_battlecruiser_hull_2:0 "향상된 타격 순양함 선체"
+tech_battlecruiser_hull_2_desc:0 "최신형 전투 순양함 선체엔 최적화된 구조적 무결성 공정을 이용하고 개선된 격벽이 설치되었습니다."
+
+tech_carrier_build_speed:0 "표준화된 모함 양식"
+tech_carrier_build_speed_desc:0 "모함의 설계와 건조에 관한 새로운 표준을 확립하여 건조 공정의 효율성을 크게 향상시킵니다"
+tech_carrier_hull_1:0 "개선된 모함 선체"
+tech_carrier_hull_1_desc:0 "건조 기술의 발전을 통해 보다 더 견고하고 내구성이 높은 모함을 건조할 수 있습니다."
+tech_carrier_hull_2:0 "향상된 타격 순양함 선체"
+tech_carrier_hull_2_desc:0 "최신형 모함 선체엔 최적화된 구조적 무결성 공정을 이용하고 개선된 격벽이 설치되었습니다."
+
+tech_dreadnought_build_speed:0 "표준화된 드레드노트 양식"
+tech_dreadnought_build_speed_desc:0 "드레드노트의 설계와 건조에 관한 새로운 표준을 확립하여 건조 공정의 효율성을 크게 향상시킵니다"
+tech_dreadnought_hull_1:0 "개선된 드레드노트 선체"
+tech_dreadnought_hull_1_desc:0 "건조 기술의 발전을 통해 보다 더 견고하고 내구성이 높은 드레드노트를 건조할 수 있습니다."
+tech_dreadnought_hull_2:0 "향상된 드레드노트 선체"
+tech_dreadnought_hull_2_desc:0 "최신형 드레드노트 선체엔 최적화된 구조적 무결성 공정을 이용하고 개선된 격벽이 설치되었습니다."
+
+tech_flagship_build_speed:0 "표준화된 기함 양식"
+tech_flagship_build_speed_desc:0 "기함의 설계와 건조에 관한 새로운 표준을 확립하여 건조 공정의 효율성을 크게 향상시킵니다"
+tech_flagship_hull_1:0 "개선된 기함 선체"
+tech_flagship_hull_1_desc:0 "건조 기술의 발전을 통해 보다 더 견고하고 내구성이 높은 기함을 건조할 수 있습니다."
+tech_flagship_hull_2:0 "향상된 기함 선체"
+tech_flagship_hull_2_desc:0 "최신형 기함 선체엔 최적화된 구조적 무결성 공정을 이용하고 개선된 격벽이 설치되었습니다."
+
+tech_stronghold_upgrades:0 "개선된 항성기지"
+tech_stronghold_upgrades_desc:0 "모든 항성기지의 설계와 건축에 대한 새로운 표준을 확립하여 건설 공정의 효율성을 크게 향상시킵니다."
+
+tech_mining_base:0 "성계 광물 정제소"
+tech_mining_base_desc:0 "우리 제국이 점점 확장함에 따라, 우리에겐 문명을 지탱하기 위한 더 많은 자원이 필요합니다. 특화된 우주 기반 광물 정제소를 만들어 광물 생산을 중앙 집중화하고 효율성을 높여 광물 생산량을 증가시킬 수 있습니다."
+
+tech_power_station:0 "성계 에너지 연결망"
+tech_power_station_desc:0 "팽창하는 성간 제국은 많은 에너지 생산을 필요로 합니다. 특화된 우주 기반 에너지 생산 시설을 만드는 것은 우리의 에너지 수요를 공급하기 위해 에너지 생산을 핵심 성계에 집중시킬 수 있도록 지원합니다."
+
+tech_defense_platforms_1:0 "방어 플랫폼 증강 I"
+tech_defense_platforms_1_desc:0 "기술 발전을 통해 항성기지를 위한 더 많은 방어 플랫폼을 구축할 수 있습니다."
+
+tech_defense_platforms_2:0 "방어 플랫폼 증강 II"
+tech_defense_platforms_2_desc:0 "기술 발전을 통해 항성기지를 위한 더 많은 방어 플랫폼을 구축할 수 있습니다."
+
+tech_defense_platforms_3:0 "방어 플랫폼 증강 III"
+tech_defense_platforms_3_desc:0 "기술 발전을 통해 항성기지를 위한 더 많은 방어 플랫폼을 구축할 수 있습니다."
+
+tech_defense_platforms_4:0 "방어 플랫폼 증강 IV"
+tech_defense_platforms_4_desc:0 "기술 발전을 통해 항성기지를 위한 더 많은 방어 플랫폼을 구축할 수 있습니다."
+
+tech_nsc_ai_computer_1:0 "인공지능 전투 체계"
+tech_nsc_ai_computer_1_desc:0 "극도로 발달된 컴퓨터 시스템은 함선의 키를 조작할 필요 없이 함선 내의 모든 전투 시스템을 지능적으로 작동시킬 수 있습니다. 이는 전투 중 완벽한 이동 제어를 가능케 합니다. 모함, 지원 순양함, 기함에 장착할 수 있습니다."
+
+tech_tomahawk_cruise_missile_1:0 "토마호크 순항 미사일"
+tech_tomahawk_cruise_missile_1_desc:0 "대규모 미사일 발사대를 탑재 가능한 전투 순양함의 등장과 더불어 점점 더 길어지는 사거리, 거대 주력함과 방어 시설의 출현으로 초장거리에서 발사할 수 있는 강력한 미사일의 필요성이 대두되고 있습니다.\n이 진보한 순항 미사일이 이 필요성에 대한 대답일 것입니다."
+
+tech_nsc_disabled_sections:0 "NSC 함선 구역 비활성화"
+tech_nsc_disabled_sections_desc:0 "만약 이 기술이 개발된 것을 보았다면 버그가 발생했거나 콘솔을 사용했다는 뜻입니다."
+
+tech_hospital:0 "은하 종합병원"
+tech_hospital_desc:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 모든 질병에 대한 분석과 치료를 전담하는 엄청나게 거대한 최점단 종합병원입니다."
+
+tech_galactic_mall:0 "은하 백화점"
+tech_galactic_mall_desc:0 "이 은하에서 가장 큰 쇼핑 센터입니다. 엄청난 양의 소비재를 생산할 수 있으며 은하에서 가장 헌신적인 쇼핑 중독자들에게는 이곳에 방문하는 것이 궁극적인 목표입니다."
+
+tech_hyperlane_generation:0 "하이퍼레인 생성"
+tech_hyperlane_generation_desc:0 "하이퍼 드라이브와 관문 활성화 기술을 연계해 우리가 직접 새로운 하이퍼레인을 만들거나 기존의 하이퍼레인을 제거할 수 있게 되었습니다. 마침내 우리의 필요와 목적에 맞는 은하 지도를 그려낼 수 있게 되었습니다."
+
+
+##################################################################################################################################################################################################################
+### TECH UNLOCKS ###
+####################
+
+TECH_UNLOCK_HYPERLANE_GENERATION_TITLE:0 "§H기능 사용 가능:§! 하이퍼레인 생성"
+TECH_UNLOCK_HYPERLANE_GENERATION_DESC:0 "§H하이퍼레인 생성§!\n하이퍼레인을 만들거나 제거할 수 있습니다."
+
+TECH_UNLOCK_GRAVITON_POWER_TITLE:0 "§H부품 사용 가능:§! $GRAVITON_REACTOR$"
+TECH_UNLOCK_GRAVITON_POWER_DESC:0 "§H$GRAVITON_REACTOR$§!\n$GRAVITON_REACTOR_DESC$"
+ 
+TECH_UNLOCK_NAQUADRIA_POWER_TITLE:0 "§H부품 사용 가능:§! $NAQUADRIA_REACTOR$"
+TECH_UNLOCK_NAQUADRIA_POWER_DESC:0 "§H$NAQUADRIA_REACTOR$§!\n$NAQUADRIA_REACTOR_DESC$"
+
+TECH_UNLOCK_SINGULARITY_POWER_TITLE:0 "§H부품 사용 가능:§! $SINGULARITY_REACTOR$"
+TECH_UNLOCK_SINGULARITY_POWER_DESC:0 "§H$SINGULARITY_REACTOR$§!\n$SINGULARITY_REACTOR_DESC$"
+
+TECH_UNLOCK_MULTIDIMENSIONAL_POWER_TITLE:0 "§H부품 사용 가능:§! $MULTIDIMENSIONAL_REACTOR$"
+TECH_UNLOCK_MULTIDIMENSIONAL_POWER_DESC:0 "§H$MULTIDIMENSIONAL_REACTOR$§!\n$MULTIDIMENSIONAL_REACTOR_DESC$"
+
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE:0 "§H부품 사용 가능:§! $OPTIMIZED_ENIGMATIC_REACTOR$"
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC:0 "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
+
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE:0 "§H부품 사용 가능:§! $OPTIMIZED_ENIGMATIC_REACTOR$"
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC:0 "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
+
+TECH_UNLOCK_BH_POWER_TITLE:0 "§H부품 사용 가능:§! $FLAGSHIP_BLACK_HOLE_REACTOR_1$"
+TECH_UNLOCK_BH_POWER_DESC:0 "§H$FLAGSHIP_BLACK_HOLE_REACTOR_1$§!\n$FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC$"
+
+TECH_UNLOCK_PD_DESTROYER_CONSTRUCTION_TITLE:0 "§H함선 구역 사용 가능:§! 방공 구축함"
+TECH_UNLOCK_PD_DESTROYER_CONSTRUCTION_DESC:0 "§H방공 구축함§!\n미사일, 어뢰, 타격기 등은 모두 우리 함대에 중대한 위협이 되고 있습니다. 우리 함대 기술자들은 이런 위협들이 우리 함선에 도달하기 전에 이것들을 격추하기 위해 수많은 거점 방어 무기를 탑재하도록 재설계할 것을 제안했습니다."
+
+TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_TITLE:0 "§H함선 유형 사용 가능:§! 타격 순양함"
+TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_DESC:0 "§H타격 순양함§!\n전투 경험과 광범위한 전투 훈련을 통해 알아낸 사실은 패배한 쪽이 FTL로 즉시 비상 점프를 하기 때문에 종종 함대 전투가 결정적인 결과 없이 끝난다는 것입니다.\n이를 해결하기 위해서 우리 최고의 과학자들은 항성기지에도 사용되는 아공간 덫을 함선에도 탑재하기 위해 소형화하는데 성공했습니다.\n이 소형화된 아공간 덪을 탑재한 새로운 함선들은 적 함대를 붙잡아놓기 위해 맹렬한 속도로 공격하고, 적 함선이 전투에서 이탈하지 못하도록 유지할 만큼 충분히 기동성이 좋으며, 적들의 공격에도 가능한 한 오래 버틸 수 있을만큼 충분히 튼튼한 함선입니다."
+
+TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_TITLE:0 "§H함선 유형 사용 가능:§! 전투 순양함"
+TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_DESC:0 "§H전투 순양함§!\n점점 더 큰 함선이 보편화되면서 전투는 더 먼 거리에서 벌어지고 있으며, 함대의 화력은 전투에서 더욱 결정적인 요소가 되고 있습니다.\n우리 함대 이론가들은 중거리, 혹은 장거리에서 가능한 한 많은 무기를 적 함대에 투사할 수 있는 길고 강력한 함선을 건조할 것을 제안하고 있습니다."
+
+TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_TITLE:0 "§H함선 유형 사용 가능:§! 호위 모함"
+TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_DESC:0 "§H호위 모함§!\n행성 전투는 오랫동안 항공 요소들을 포함해 왔으며, 전투기와 폭격기는 어떠한 종류의 무력 충돌에도 절대적으로 필수적인 존재임을 증명했습니다.\n이 함선은 매우 성공적인 순양함 설계를 바탕으로 한 섹션 모델을 사용하여 이 강력한 전쟁 기계들의 우주 버전을 사출하기에 충분한 크기의 군함입니다."
+
+TECH_UNLOCK_CARRIER_CONSTRUCTION_TITLE:0 "§H함선 유형 사용 가능:§! 모함"
+TECH_UNLOCK_CARRIER_CONSTRUCTION_DESC:0 "§H모함§!\n타격기는 해상전에서 매우 성공적인 무기체계임을 증명했습니다. 이제는 우주에서도 마찬가지로 타격기를 탑재하고 그에 필요한 대규모 지원 인력과 정비소를 수용하는 특별한 군함을 설계해야 할 차례입니다. 이를 통해 새로운 모함은 급조되어 사용되었던 이전 함선들보다 훨씬 더 많은 타격기를 탑재할 수 있을 것입니다."
+
+TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_TITLE:0 "§H함선 구역 사용 가능:§! 중모함"
+TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_DESC:0 "§H중모함§!\n우리 제국의 함선 건조 능력이 계속 증가함에 따라, 기존 모함에 타격기의 유지관리에 필요한 지원 설비를 소형화하는 기술을 결합하여 기존보다 더 많은 격납고를 탑재할 수 있는 중모함으로 개장할 수 있을 것입니다."
+
+TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_TITLE:0 "§H함선 구역 사용 가능:§! 초중모함"
+TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_DESC:0 "§H초중모함§!\n함선 건조와 지원 시설의 소형화에 대한 추가적인 노력을 통해 우리는 모함에 믿을 수 없을 정도로 많은 격납고를 밀어넣을 수 있었습니다. 이 초중모함들은 우리 함대를 공격으로부터 더 잘 방어하고 최고의 조종사들로 적들을 압도할 수 있는 수많은 타격기들을 사출할 것입니다."
+
+TECH_UNLOCK_SPITFIRE_CONSTRUCTION_TITLE:0 "§H탄막생성 전함 개장§!"
+TECH_UNLOCK_SPITFIRE_CONSTRUCTION_DESC:0 "주력함들은 이전에 있던 어떤 함선보다 비싸고 강력하지만 순전히 숫자로 압도할 수 있는 상대적으로 값싼 소형함들에게는 좋은 표적이 됩니다.\n이에 대응하기 위해 우리 기술자들은 특별히 고안된 무기들과 함께 주력함인 전함을 초계함과 구축함을 상대하기 쉬운 함선으로 변화시킬 몇 가지의 청사진을 연구하고 있습니다.\n이 연구를 통한 '탄막생성 전함'들은 제작비가 많이 들겠지만 소형함에 상대적으로 취약한 우리 주력함들을 보호하는 역할을 수행할 것입니다."
+
+TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_TITLE:0 "§H함선 유형 사용 가능:§! 드레드노트"
+TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_DESC:0 "§H드레드노트§!\n장거리 타격 능력을 가진 전함이라는 함급과 XL무기의 등장은 혁혁한 전공과 함께 함선 설계와 전쟁의 성격을 완전히 바꾸어 놓았습니다.\n우리 해군 기술자들은 강력한 이 함선의 더 나은 설계를 개발해야 한다고 믿습니다. 그들이 제안한 '드레드노트'라는 함급은 더 단단한 방어력과 더 많은 무장, 그리고 이전 전쟁에서 성공적으로 사용되었던 XL무기 두 정을 탑재할 수 있을 것입니다."
+
+TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_TITLE:0 "§H함선 유형 사용 가능:§! 기함"
+TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_DESC:0 "§H기함§!\n함대 군비 경쟁은 끝이 보이지 군함의 생산을 불러왔습니다. 그래서 우리 함대 기술자들은 어떠한 제국도 한 척 정도만 유지 가능할 정도의 궁극의 거대 함선을 건조함으로써 이 함선 건조의 연쇄를 끊으려 합니다.\n이 '기함'이라고 명명된 함선의 설계는 각 섹션이 최대한의 융통성을 가지도록 설계되어 목적에 맞게 함선을 건조할 수 있으며 다른 어떤 함선보다도 많은 추진기를 탑재하여 함대 후방의 포대 역할부터 대규모 타격기를 운용하는 거대 모함 역할까지 많은 역할을 할 수 있을 것입니다.\n\n그러나 이 함선은 건조하는 데 막대한 양의 자원과 시간 그리고 인력이 필요할 것입니다. 또한 건조되면 유지비로 작은 소국가의 국내총생산 전체가 사용될 정도라서 사업 승인을 받기 위해서는 막대한 정치적 영향력이 필요할 것입니다."
+
+TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_TITLE:0 "§H함선 개장 가능:§! 지원 순양함"
+TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_DESC:0 "§H지원 순양함§!\n우리 함대의 규모가 커지고, 이동하는 거리가 늘어나면서 장거리 보급선을 유지할 것이 아니라 내부적으로 지원할 필요가 있습니다. '지원 순양함'은 이 문제에 대한 해답으로, 고급 모듈 추가를 통해 우리 순양함에 새로운 지원 기능을 추가했습니다."
+
+TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_TITLE:0 "§H함선 유형 사용 가능:§! 1세대 탐사 순양함"
+TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_DESC:0 "§H1세대 탐사 순양함§!\n우리 용감한 과학자들은 은하를 탐사하고 은하의 모든 비밀을 밝혀내려는 그들의 탐구 활동에서 많은 위협에 직면해 있습니다. 우리 함선 기술자들은 새로운 세계를 탐험하고, 새로운 생명과 새로운 문명을 찾고, 누구도 가보지 못한 곳으로 대담하게 갈 수 있는 크고 전투가 가능한 과학선의 개발을 제압합니다."
+
+TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_TITLE:0 "§H함선 개장 가능:§! 2세대 탐사 순양함"
+TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_DESC:0 "§H2세대 탐사 순양함§!\n함선 기술자들은 탐사 순양함의 성과에 기뻐하면서도 우리 과학자들에 대한 보호를 더욱 강화하기 위한 차세대 탐사 순양함을 개발할 것을 제안합니다."
+
+TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_TITLE:0 "§H함선 개장 가능:§! 3세대 탐사 순양함"
+TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_DESC:0 "§H3세대 탐사 순양함§!\n함선 기술자들은 업그레이드된 탐사 순양함의 성능에 만족하면서도 과학자들에 대한 보호를 더욱 강화하기 위한 훨씬 더 강력한 탐사 순양함을 개발할 것을 제안하고 있습니다."
+
+TECH_UNLOCK_DRYDOCK_CONSTRUCTION_TITLE:0 "§H항성기지 건물 사용 가능:§! 건선거"
+TECH_UNLOCK_DRYDOCK_CONSTRUCTION_DESC:0 "§H건선거§!\n이 특수 설계된 시설은 첨단 기술을 사용하여 조선소 내의 기압을 유지함으로써 기술자들이 더 쉽게 함선을 건조, 유지, 업그레이드 및 수리를 진행할 수 있도록 합니다."
+
+TECH_UNLOCK_SENSORSTATION_CONSTRUCTION_TITLE:0 "§H항성기지 건물 사용 가능:§! 감지 스테이션"
+TECH_UNLOCK_SENSORSTATION_CONSTRUCTION_DESC:0 "§H감지 스테이션§!\n항성기지의 감지 스테이션은 첨단 센서 배열을 사용하여 여러 항성계에 걸쳐 우리의 정보수집 기능을 확장하여 국경 인근에 있을 수 있는 모든 위협에 대한 정보를 제공합니다."
+
+TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_TITLE:0 "§H항성기지 업그레이드:§! 항성성새"
+TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_DESC:0 "§H항성성새§!\n함대가 점점 더 크고 강력해짐에 따라, 우리의 항성기지와 방어 시설도 강해져야 할 필요가 있었습니다. 항성성새는 고도의 기술력이 집약된 성계 방어 시설이며, 기존의 항성성채에서 대대적인 개수를 거쳤습니다. 이곳에선 다량의 시설을 지원할 수 있습니다."
+
+TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_TITLE:0 "§H항성기지 업그레이드:§! 항성보루"
+TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_DESC:0 "§H항성보루§!\n항성기지의 최종 강화형인 항성보루는 궁극의 지휘 및 방어 거점입니다. 적의 함대를 가장 앞에서 막아설 방파제이며, 제국의 가장 중요한 자산이고, 은하계의 가장 중요한 곳을 방어합니다."
+
+TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_TITLE:0 "§H방어 플랫폼 사용 가능:§! 항성기지 방어 스테이션"
+TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_DESC:0 "§H항성기지 방어 스테이션§!\n함대가 점점 더 커지고 강력해지면서 우리 방어 시설도 그에 맞춰야만 합니다. 우리가 현재 사용하고 있는 기본 방어 플랫폼의 개량형인 이 확장된 방어 스테이션은 적의 공격을 더욱 효과적으로 막아낼 것입니다."
+
+TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_TITLE:0 "§H방어 플랫폼 사용 가능:§! 항성기지 방어 요새"
+TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_DESC:0 "§H항성기지 방어 요새§!\n함대가 점점 더 커지고 강력해지면서 우리 방어 시설도 그에 맞춰야만 합니다. 우리가 현재 사용하고 있는 방어 스테이션의 개량형인 이 요새 수준의 방어시설은 적의 공격을 더욱 효과적으로 막아낼 것입니다."
+
+TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_TITLE:0 "§H부품 사용 가능:§! 발전된 함선 부품"
+TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_DESC:0 "§H발전된 함선 부품§!\n우리 과학자들은 함선의 성능 향상과 추가적인 전문화를 가능케하는 다양하고 강력한 모듈을 고안했습니다. 이제 시제품을 함선에 탑재할 수 있을 정도로 소형화하기만 하면 됩니다."
+
+TECH_UNLOCK_NSC_DLC_CONSTRUCTION_TITLE:0 "이 기술은 아포칼립스 DLC적용 여부 파악을 위해 자동으로 습득되는 기술입니다."
+TECH_UNLOCK_NSC_DLC_CONSTRUCTION_DESC:0 "이 기술은 아포칼립스 DLC적용 여부 파악을 위해 자동으로 습득되는 기술입니다."
+
+TECH_UNLOCK_MINING_BASE_CONSTRUCTION_TITLE:0 "§H항성기지 건물 사용 가능:§! 성계 광물 정제소"
+TECH_UNLOCK_MINING_BASE_CONSTRUCTION_DESC:0 "§H성계 광물 정제소§!\n성계 전체의 광물 생산량을 향상시키는 성계 중앙 광물 처리 중추입니다."
+
+TECH_UNLOCK_POWER_STATON_CONSTRUCTION_TITLE:0 "§H항성기지 건물 사용 가능:§! 성계 에너지 연결망"
+TECH_UNLOCK_POWER_STATON_CONSTRUCTION_DESC:0 "§H성계 에너지 연결망§!\n성계 전체의 에너지 생산량을 향상시키는 성계 광역 에너지 그리드입니다."
+
+TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_TITLE:0 "§H전투 컴퓨터 사용 가능:§! 인공지능 전투 체계"
+TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC:0 "§H인공지능 전투 체계§!\n극도로 발달된 컴퓨터 시스템은 함선의 키를 조작할 필요 없이 함선 내의 모든 전투 시스템을 지능적으로 작동시킬 수 있습니다. 이는 전투 중 완벽한 이동 제어를 가능케 합니다. 모함, 지원 순양함, 기함에 장착할 수 있습니다."
+
+TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_TITLE:0 "§H무기 사용 가능:§! 토마호크 순항 미사일"
+TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_DESC:0 "§H토마호크 순항 미사일§!\n대규모 미사일 발사대를 탑재 가능한 전투 순양함의 등장과 더불어 점점 더 길어지는 사거리, 거대 주력함과 방어 시설의 출현으로 초장거리에서 발사할 수 있는 강력한 미사일의 필요성이 대두되고 있습니다.\n이 진보한 순항 미사일이 이 필요성에 대한 대답일 것입니다."
+
+TECH_UNLOCK_GALACTIC_MALL_TITLE:0 "§H거대 건축물 잠금 해제:§! 은하 백화점"
+TECH_UNLOCK_GALACTIC_MALL_DESC:0 "이 은하에서 가장 큰 쇼핑 센터입니다. 엄청난 양의 소비재를 생산할 수 있으며 은하에서 가장 헌신적인 쇼핑 중독자들에게는 이곳에 방문하는 것이 궁극적인 목표입니다."
+
+TECH_UNLOCK_HOPSITAL_TITLE:0 "§H거대 건축물 잠금 해제:§! 은하 종합병원"
+TECH_UNLOCK_HOSPITAL_DESC:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 모든 질병에 대한 분석과 치료를 전담하는 엄청나게 거대한 최점단 종합병원입니다."

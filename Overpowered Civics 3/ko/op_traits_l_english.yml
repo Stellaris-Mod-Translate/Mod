@@ -1,0 +1,16 @@
+﻿l_english:
+ ####################################
+ # Traits
+ ####################################
+
+ trait_ex_divine:0 "불멸"
+ trait_ex_divine_desc:0 "§L이 종족은 항성보다도 오래 살아갑니다.§!"
+ trait_ex_celestial:0 "천상의 종족"
+ trait_ex_celestial_desc:0 "§L이 종족은 다른 종족보다 훨씬 우월해, 때로는 신으로 여겨지기도 합니다.§!"
+ trait_ex_high_caste:0 "고위 계층"
+ trait_ex_high_caste_desc:0 "§L수세기에 걸친 유전적, 기계적 신체 개조는 지배계급을 불멸로 만들었습니다.§!"
+ trait_ex_low_caste:0 "하위 계층"
+ trait_ex_low_caste_desc:0 "§L수많은 증강 개조는 제국의 노예들이 단순히 감독관에게 복종할 뿐만 아니라, 감독관의 모든 변덕에조차 충성스럽게 봉사할 것을 보장합니다.§!"
+ leader_trait_supreme_tactician:0 "살아있는 전설"
+ leader_trait_supreme_tactician_desc:0 "§L가장 위대한 제독만이 성공할 수 있으며, 이를 위해 수년간의 준비를 거칩니다. 따라서 휘하의 장교들은 이들에게 절대적인 충성을 바칩니다.§!"
+

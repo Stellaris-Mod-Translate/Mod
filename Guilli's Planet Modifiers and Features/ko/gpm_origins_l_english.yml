@@ -1,0 +1,42 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # Deathworld
+ # Rebirth
+ # Lost Project
+ #######################################
+ 
+ 
+ 
+ #######################################
+ #### Deathworld
+ #######################################
+ origin_gpm_death_world:0 "데스월드 행성"
+ origin_gpm_death_world_desc:0 "매우 살아가기에 힘들고 치명적인 행성에서 시작합니다. 이 행성에서 살아남기 위해서는 종족이 고도로 적응하고 강해져야만 했습니다."
+ gpm_origin_death_world_mod:0 "$origin_gpm_death_world$ 기원"
+ 
+ origin_tooltip_gpm_death_world_effects:0 "§Y모성§!:\n §G2§!개의 §R가혹한§! 행성 모디파이어 추가\n 더 많은 §R행성 장애물§!로 시작\n §R데스월드 행성§!으로 시작:\n   POP §Y편의§! 소모량 상승: §R+40%§!\n   POP §Y소비재§! 유지비: §R+40%§!\n   행성 이주 선호도: §R-100%§!\n\n§Y종족§!:\n §Y지옥에서 태어난§! 특성을 가짐:\n   £discovery_planet  거주 적합도: §G+10%§!\n   $job_miner$ 직업으로부터 얻는 £minerals 광물 : §G+20%§!\n   $job_farmer$ 직업으로부터 얻는 £food 식량 : §G+20%§!"
+ 
+ gpm_death_world:0 "수도성 - 데스월드 행성"
+ gpm_death_world_desc:0 "이 행성의 식물을 포함한 거의 모든 생물은 어떤 면에서는 자각있는 생명체에게는 치명적입니다. 이 행성의 삶은 상상할 수 없을 정도로 가혹합니다. 유아 사망률은 50%가 넘어가고, 나머지 50%의 절반은 10세까지 살지 못합니다. 이 행성에서 성인이 된 사람들은 언제나 가장 강하고, 가장 단호하고, 가장 지략이 풍부한 전사들 중 한 명이며, 은하에서 가장 살기 힘든 환경 중 하나에서 살아남는 생존의 달인입니다."
+ 
+ #######################################
+ #### Rebirth
+ #######################################
+ origin_gpm_precursor_world:0 "재탄생"
+ origin_gpm_precursor_world_machine:0 "$origin_gpm_precursor_world$"
+ origin_gpm_precursor_world_desc:0 "당신 종족은 수만년이 지나 냉동 수면에서 깨어났습니다. 행성은 황폐해져 있었습니다. 냉동 수면 이후 시간이 얼마나 지났는지, 동족의 또다른 생존자가 있는지 궁금합니다."
+ origin_gpm_precursor_world_machine_desc:0 "$origin_gpm_precursor_world_desc$"
+ gpm_origin_precursor_world_mod:0 "$origin_gpm_precursor_world$ origins"
+ 
+ origin_tooltip_gpm_precursor_world_effects:0 "§Y제국§!:\n £pop  POP 편의 소모량: §R+15%§!\n\n§Y모성§!:\n §E고대§! 폐허 매장지를 가지고 시작\n §Y2§!개의 §E고대§! 행성 모디파이어 부여\n\n§Y종족§!:\n §Y잊혀진 종족§! 특성을 얻음:\n   지도자 최대 레벨: §G+2§!\n   지도자 경험치 획득: §G+100%§!"
+ 
+ #######################################
+ #### Lost Project
+ #######################################
+ origin_gpm_fallen_empire_colony:0 "잃어버린 계획"
+ origin_gpm_fallen_empire_colony_desc:0 "우주 어딘가의 잊힌 §H몰락 제국§!의 행성으로 시작합니다. 당신의 종족은 아주 오래전부터 존재했으며, 고대의 관리인을 통해 보호받고 있었습니다. 행성은 낙원을 유지하기에 충분한 시설이 있었으며, 지금껏 살아오며 그 무엇도 부족하지 않았습니다. 지금까지 우리 종족은 우리의 기원이 어디인지, 저 밖에는 무엇이 있는지 궁금해 할 필요가 없다고 생각했습니다."
+ gpm_origin_fallen_empire_colony_mod:0 "$origin_gpm_fallen_empire_colony$ origins"
+ 
+ origin_tooltip_gpm_fallen_empire_colony_effects:0 "§Y제국§!:\n 월간 영향력 획득: §G+1§!\n 연구 속도: §R-10%§!\n\n§Y모성§!:\n §H가이아§! 행성으로 시작\n §Y3§!개의 §H오래된§! 행성 모디파이어 부여\n\n§Y종족§!:\n §Y고귀한 태생§! 특성을 얻음:\n   다른 종족의 신뢰 성장: §G+15%§!\n   §H몰락 제국§! 관계도: §G+40§!"
+ 

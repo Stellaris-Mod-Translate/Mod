@@ -1,0 +1,89 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###      Psionic Blast Torpedo       ###
+########################################
+
+NHSC_TORPEDO_PSI_1: "사이오닉 폭풍 어뢰"
+NHSC_TORPEDO_PSI_1_DESC: "강력한 사이오닉 폭풍을 일으키는 에너지 어뢰."
+
+########################################
+###  Improved Psionic Blast Torpedo  ###
+########################################
+
+NHSC_TORPEDO_PSI_2: "개량형 사이오닉 폭풍 어뢰"
+NHSC_TORPEDO_PSI_2_DESC: "사이오닉 에너지를 증가시켜 폭발력을 향상한 사이오닉 어뢰."
+
+########################################
+###     Psionic Energy Projector     ###
+########################################
+
+NHSC_CANNON_PSI_1: "사이오닉 에너지 투사기"
+NHSC_CANNON_PSI_1_DESC: "집중된 사이오닉 에너지로 목표를 파괴하는 에너지 무기."
+SMALL_NHSC_CANNON_PSI_1: "소형 $NHSC_CANNON_PSI_1$"
+SMALL_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+MEDIUM_NHSC_CANNON_PSI_1: "중형 $NHSC_CANNON_PSI_1$"
+MEDIUM_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+LARGE_NHSC_CANNON_PSI_1: "대형 $NHSC_CANNON_PSI_1$"
+LARGE_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+
+########################################
+###       Psionic Wave Cannon        ###
+########################################
+
+NHSC_CANNON_PSI_2: "사이오닉 파동포"
+NHSC_CANNON_PSI_2_DESC: "사이오닉 에너지의 초점을 조정하면 투사기의 출력이 크게 증가합니다."
+SMALL_NHSC_CANNON_PSI_2: "소형 $NHSC_CANNON_PSI_2$"
+SMALL_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+MEDIUM_NHSC_CANNON_PSI_2: "중형 $NHSC_CANNON_PSI_2$"
+MEDIUM_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+LARGE_NHSC_CANNON_PSI_2: "대형 $NHSC_CANNON_PSI_2$"
+LARGE_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+
+########################################
+###       Psionic Beam Cannon        ###
+########################################
+
+NHSC_CANNON_PSI_3: "사이오닉 빔 캐논"
+NHSC_CANNON_PSI_3_DESC: "몇 초 안에 상대를 소멸시킬 수 있는 집중된 사이오닉 에너지 광선."
+SMALL_NHSC_CANNON_PSI_3: "소형 $NHSC_CANNON_PSI_3$"
+SMALL_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+MEDIUM_NHSC_CANNON_PSI_3: "중형 $NHSC_CANNON_PSI_3$"
+MEDIUM_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+LARGE_NHSC_CANNON_PSI_3: "대형 $NHSC_CANNON_PSI_3$"
+LARGE_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+
+########################################
+###           Psionic Lance          ###
+########################################
+
+NHSC_PSI_LANCE_1: "사이오닉 랜스"
+NHSC_PSI_LANCE_1_DESC: "집중된 사이오닉 에너지로 만든 에너지 랜스."
+
+########################################
+###           Shroud Piercer         ###
+########################################
+
+NHSC_PSI_LANCE_2: "장막 관통자"
+NHSC_PSI_LANCE_2_DESC: "사이오닉 랜스의 보다 강력한 개량형."
+
+########################################
+###              Void Ray            ###
+########################################
+
+NHSC_PSI_LANCE_TITANIC: "공허 광선"
+NHSC_PSI_LANCE_TITANIC_DESC: "장막 속의 공허에서 힘을 끌어오는 사이오닉 랜스."
+NHSC_PSI_LANCE_JUGGERNAUT: "$NHSC_PSI_LANCE_TITANIC$"
+NHSC_PSI_LANCE_JUGGERNAUT_DESC: "$NHSC_PSI_LANCE_TITANIC_DESC$"
+
+NHSC_PSIONIC_BLAST: "사이오닉 폭렬파"
+NHSC_PSIONIC_BLAST_DESC: "장애물을 치워버리는 강력하고 순수한 사이오닉 에너지 파동입니다."
+
+########################################
+###       Psionic Interceptors       ###
+########################################
+
+NHSC_PSI_CRAFTS: "사이오닉 요격기"
+NHSC_PSI_CRAFTS_DESC: "사이오닉 무기를 탑재한 함재기."

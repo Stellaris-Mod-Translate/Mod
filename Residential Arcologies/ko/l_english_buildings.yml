@@ -1,0 +1,14 @@
+﻿l_english:
+ 
+ building_residential_spire:0 "주거용 첨탑"
+ building_residential_spire_desc:0 "거대한 비율의 대도시 첨탑입니다. 가난한 사람들은 지하층의 비좁은 아파트에 살고 있고, 부유하고 운이 좋은 사람들은 반짝이는 상층 첨탑의 호화로운 펜트하우스에서 편안하게 살고 있고있습니다."
+
+ building_hive_spire:0 "군체 둥지탑"
+ building_hive_spire_desc:0 "기초적이지만 실용적인 인프라 미로망에 의해 상호 연결된 드론들의 둥지입니다. 위아래로 거대한 군체의식이 가득합니다."
+
+ building_drone_spire:0 "드론 첨탑"
+ building_drone_spire_desc:0 "효율적인 운송 시스템으로 상호 연결된 드론 저장 공간과 유지 보수 시설로 가득 찬 거대 시설입니다."
+ 
+ building_communal_spire:0 "공동 첨탑"
+ building_communal_spire_desc:0 "작지만 편안하고 실용적인 디자인을 갖춘 균일한 주거지가 빽빽이 들어찬 거대한 대도시입니다." 
+ 

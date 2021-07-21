@@ -1,0 +1,4 @@
+﻿l_english:
+
+ aura_BSW_starbase_attrition:0 "항성기지 소모적 피해\n§W성계 내의 적대적인 함선들은 항성기지로 인해 매일§! §R소모적 피해§!§W를 입습니다.§!"
+ #COMPONENT_AURA_DAMAGE_TOOLTIP:0 "성계 내의 적대적인 함선들은 항성기지로 인해 매일 §Y$MIN_DAMAGE|0$ - $MAX_DAMAGE|0$§! 의 §R소모적 피해§!를 입습니다."

@@ -1,0 +1,73 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###         Nanite Cannon            ###
+########################################
+
+NHSC_NANITE_CANNON_1: "나노 물질 대포"
+NHSC_NANITE_CANNON_1_DESC: "적의 배를 분해하는 나노 물질로 가득찬 탄환을 발사하는 대포."
+SMALL_NHSC_NANITE_CANNON_1: "소형 $NHSC_NANITE_CANNON_1$"
+SMALL_NHSC_NANITE_CANNON_1_DESC: "$NHSC_NANITE_CANNON_1_DESC$"
+MEDIUM_NHSC_NANITE_CANNON_1: "중형 $NHSC_NANITE_CANNON_1$"
+MEDIUM_NHSC_NANITE_CANNON_1_DESC: "$NHSC_NANITE_CANNON_1_DESC$"
+LARGE_NHSC_NANITE_CANNON_1: "대형 $NHSC_NANITE_CANNON_1$"
+LARGE_NHSC_NANITE_CANNON_1_DESC: "$NHSC_NANITE_CANNON_1_DESC$"
+
+########################################
+###      Improved Nanite Cannon      ###
+########################################
+
+NHSC_NANITE_CANNON_2: "개량형 나노 물질 대포"
+NHSC_NANITE_CANNON_2_DESC: "나노 물질 대포의 개량형"
+SMALL_NHSC_NANITE_CANNON_2: "소형 $NHSC_NANITE_CANNON_2$"
+SMALL_NHSC_NANITE_CANNON_2_DESC: "$NHSC_NANITE_CANNON_2_DESC$"
+MEDIUM_NHSC_NANITE_CANNON_2: "중형 $NHSC_NANITE_CANNON_2$"
+MEDIUM_NHSC_NANITE_CANNON_2_DESC: "$NHSC_NANITE_CANNON_2_DESC$"
+LARGE_NHSC_NANITE_CANNON_2: "대형 $NHSC_NANITE_CANNON_2$"
+LARGE_NHSC_NANITE_CANNON_2_DESC: "$NHSC_NANITE_CANNON_2_DESC$"
+
+########################################
+###      Nanite Warhead Torpedo      ###
+########################################
+
+NHSC_NANITE_TORPEDO_1: "나노 어뢰"
+NHSC_NANITE_TORPEDO_1_DESC: "적 함선에 분해성 나노 물질을 투사하는 어뢰."
+
+########################################
+###     Gray Goo Warhead Torpedo     ###
+########################################
+
+NHSC_NANITE_TORPEDO_2: "그레이 구 어뢰"
+NHSC_NANITE_TORPEDO_2_DESC: "더 공격적인 나노물질을 탑재한 개량형 어뢰."
+
+########################################
+### Nanite Warhead Missile Launcher  ###
+########################################
+
+NHSC_NANITE_XSLOT_1: "나노 미사일 런처"
+NHSC_NANITE_XSLOT_1_DESC: "나노 물질 어뢰의 대형화 버전."
+
+########################################
+### Nanite Warhead Rocket Artillery  ###
+########################################
+
+NHSC_NANITE_XSLOT_2: "나노 로켓 자주포"
+NHSC_NANITE_XSLOT_2_DESC: "나노 미사일 런처의 개량형"
+
+########################################
+###  Nanite Warhead Barrage System   ###
+########################################
+
+NHSC_NANITE_TITANIC_WEAPON: "나노 미사일 연속발사 시스템"
+NHSC_NANITE_TITANIC_WEAPON_DESC: "타이탄 탑재용으로 대형화된 나노 로켓 자주포."
+NHSC_NANITE_JUGGERNAUT_WEAPON: "$NHSC_NANITE_TITANIC_WEAPON$"
+NHSC_NANITE_JUGGERNAUT_WEAPON_DESC: "$NHSC_NANITE_TITANIC_WEAPON_DESC$"
+
+########################################
+###          Nanite Bombers          ###
+########################################
+
+NHSC_NANITE_STRIKECRAFT: "나노 폭격기"
+NHSC_NANITE_STRIKECRAFT_DESC: "나노 물질 병기를 탑재한 함재기."

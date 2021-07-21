@@ -1,0 +1,379 @@
+﻿l_english:
+
+
+##################################################################################################################################################################################################################
+### HULL SIZES ###
+##################
+
+STRIKECRUISER:0 "타격 순양함"
+BATTLECRUISER:0 "전투 순양함"
+CARRIER:0 "모함"
+DREADNOUGHT:0 "드레드노트"
+FLAGSHIP:0 "기함"
+SUPPORTSHIP:0 "함대 지원함"
+EXPLORATIONSHIP:0 "탐사 순양함"
+
+StrikeCruiser:0 "타격 순양함"
+StrikeCruiser_plural:0 "타격 순양함"
+Battlecruiser:0 "전투 순양함"
+Battlecruiser_plural:0 "전투 순양함" 
+Carrier:0 "모함"
+Carrier_plural:0 "모함"
+Dreadnought:0 "드레드노트"
+Dreadnought_plural:0 "드레드노트"
+Flagship:0 "기함"
+Flagship_plural:0 "기함"
+supportship:0 "함대 지원함"
+supportship_plural:0 "함대 지원함"
+explorationship:0 "탐사 순양함"
+explorationship_plural:0 "탐사 순양함"
+escortcarrier:0 "호위모함"
+escortcarrier_plural:0 "호위모함"
+
+starbase_stronghold:0 "항성성새"
+starbase_stronghold_plural:0 "항성성새"
+
+starbase_headquarters:0 "항성보루"
+starbase_headquarters_plural:0 "항성보루"
+
+headquarters:0 "사령부"
+headquarters_plural:0 "사령부"
+headquarters_desc:0 "§G사령부§! 제국 모디파이어를 제공합니다."
+
+xl_cannon:0 "절멸자 포"
+xl_cannon_plural:0 "절멸자 포"
+
+
+
+
+##################################################################################################################################################################################################################
+### SECTION NAMES ###
+#####################
+
+CORVETTE_MID_T1PD1: "미사일함"
+CORVETTE_MID_S3: "요격기"
+CORVETTE_MID_S2PD1: "초계함"
+#-------------------------------------------------------------------#
+DESTROYER_BOW_M1S2: "포격 스테이션"
+DESTROYER_BOW_S3: "초계 스테이션"
+DESTROYER_BOW_G2: "미사일 스테이션"
+DESTROYER_BOW_PD4_U: "방공 스테이션"
+
+DESTROYER_STERN_S2: "요격 스테이션"
+DESTROYER_STERN_M1: "포격 스테이션"
+DESTROYER_STERN_G1: "미사일 스테이션"
+DESTROYER_STERN_PD2_U: "방공 스테이션"
+#-------------------------------------------------------------------#
+CRUISER_BOW_L1: "포격 스테이션"
+CRUISER_BOW_G1S2: "미사일 스테이션"
+CRUISER_BOW_M2: "전열 스테이션"
+CRUISER_BOW_G1PD2: "정밀타격 스테이션"
+
+CRUISER_MID_L1M1: "포격 스테이션"
+CRUISER_MID_M3: "전열 스테이션"
+CRUISER_MID_G2S2: "미사일 스테이션"
+CRUISER_MID_G2PD2: "정밀타격 스테이션"
+
+CRUISER_STERN_M1: "전열 스테이션"
+CRUISER_STERN_S2: "탄막 스테이션"
+CRUISER_STERN_PD2: "정밀타격 스테이션"
+#-------------------------------------------------------------------#
+EXPLORATIONSHIP_BOW_L1: "1세대 포격 스테이션"
+EXPLORATIONSHIP_BOW_G1S2: "1세대 일제사격 스테이션"
+EXPLORATIONSHIP_BOW_M2: "1세대 전열 스테이션"
+EXPLORATIONSHIP_BOW_L2: "2세대 포격 스테이션"
+EXPLORATIONSHIP_BOW_G2S2: "2세대 일제사격 스테이션"
+EXPLORATIONSHIP_BOW_M3: "2세대 전열 스테이션"
+EXPLORATIONSHIP_BOW_L4: "3세대 포격 스테이션"
+EXPLORATIONSHIP_BOW_G4S4: "3세대 일제사격 스테이션"
+EXPLORATIONSHIP_BOW_M6: "3세대 전열 스테이션"
+
+EXPLORATIONSHIP_MID1_L1G1: "1세대 집중사격 스테이션"
+EXPLORATIONSHIP_MID1_L1M1: "1세대 포격 스테이션"
+EXPLORATIONSHIP_MID1_M2S2: "1세대 연발사격 스테이션"
+EXPLORATIONSHIP_MID1_G3: "1세대 미사일 스테이션"
+EXPLORATIONSHIP_MID1_M3: "1세대 전열 스테이션"
+EXPLORATIONSHIP_MID1_L1G2: "2세대 집중사격 스테이션"
+EXPLORATIONSHIP_MID1_L2M1: "2세대 포격 스테이션"
+EXPLORATIONSHIP_MID1_M3S3: "2세대 연발사격 스테이션"
+EXPLORATIONSHIP_MID1_G4H1: "2세대 미사일 스테이션"
+EXPLORATIONSHIP_MID1_M4: "2세대 전열 스테이션"
+EXPLORATIONSHIP_MID1_L2G4: "3세대 집중사격 스테이션"
+EXPLORATIONSHIP_MID1_L4M2: "3세대 포격 스테이션"
+EXPLORATIONSHIP_MID1_M6S6: "3세대 연발사격 스테이션"
+EXPLORATIONSHIP_MID1_G8H2: "3세대 미사일 스테이션"
+EXPLORATIONSHIP_MID1_M8: "3세대 전열 스테이션"
+
+EXPLORATIONSHIP_MID2_L1G1: "1세대 집중사격 스테이션"
+EXPLORATIONSHIP_MID2_L1M1: "1세대 포격 스테이션"
+EXPLORATIONSHIP_MID2_M2S2: "1세대 연발사격 스테이션"
+EXPLORATIONSHIP_MID2_G3: "1세대 미사일 스테이션"
+EXPLORATIONSHIP_MID2_M3: "1세대 전열 스테이션"
+EXPLORATIONSHIP_MID2_L1G2: "2세대 집중사격 스테이션"
+EXPLORATIONSHIP_MID2_L2M1: "2세대 포격 스테이션"
+EXPLORATIONSHIP_MID2_M3S3: "2세대 연발사격 스테이션"
+EXPLORATIONSHIP_MID2_G4H1: "2세대 미사일 스테이션"
+EXPLORATIONSHIP_MID2_M4: "2세대 전열 스테이션"
+EXPLORATIONSHIP_MID2_L2G4: "3세대 집중사격 스테이션"
+EXPLORATIONSHIP_MID2_L4M2: "3세대 포격 스테이션"
+EXPLORATIONSHIP_MID2_M6S6: "3세대 연발사격 스테이션"
+EXPLORATIONSHIP_MID2_G8H2: "3세대 미사일 스테이션"
+EXPLORATIONSHIP_MID2_M8: "3세대 전열 스테이션"
+
+EXPLORATIONSHIP_STERN_M1: "1세대 전열 스테이션"
+EXPLORATIONSHIP_STERN_L1: "1세대 포격 스테이션"
+EXPLORATIONSHIP_STERN_S3: "1세대 탄막 스테이션"
+EXPLORATIONSHIP_STERN_PD3: "1세대 방공 스테이션"
+EXPLORATIONSHIP_STERN_M4: "2세대 전열 스테이션"
+EXPLORATIONSHIP_STERN_L2: "2세대 포격 스테이션"
+EXPLORATIONSHIP_STERN_S6: "2세대 탄막 스테이션"
+EXPLORATIONSHIP_STERN_PD6: "2세대 방공 스테이션"
+EXPLORATIONSHIP_STERN_M8: "3세대 전열 스테이션"
+EXPLORATIONSHIP_STERN_L4: "3세대 포격 스테이션"
+EXPLORATIONSHIP_STERN_S12: "3세대 탄막 스테이션"
+EXPLORATIONSHIP_STERN_PD12: "3세대 방공 스테이션"
+#-------------------------------------------------------------------#
+ESCORTCARRIER_BOW_L1: "포격 스테이션"
+ESCORTCARRIER_BOW_M1S2: "전열 스테이션"
+ESCORTCARRIER_BOW_G2: "미사일 스테이션"
+
+ESCORTCARRIER_MID1_PD2H2: "모함 스테이션"
+
+ESCORTCARRIER_MID2_PD2H2: "모함 스테이션"
+ESCORTCARRIER_MID2_INV: "행성침공 스테이션"
+
+ESCORTCARRIER_STERN_M1: "전열 스테이션"
+ESCORTCARRIER_STERN_G1: "미사일 스테이션"
+ESCORTCARRIER_STERN_S2: "탄막 스테이션"
+ESCORTCARRIER_STERN_PD2: "방공 스테이션"
+#-------------------------------------------------------------------#
+STRIKECRUISER_BOW_M2S2: "연발사격 스테이션"
+STRIKECRUISER_BOW_M2PD2: "정밀타격 스테이션"
+STRIKECRUISER_BOW_G1S4: "일제사격 스테이션"
+STRIKECRUISER_BOW_G2: "미사일 스테이션"
+STRIKECRUISER_BOW_L1: "포격 스테이션"
+STRIKECRUISER_BOW_M3: "전열 스테이션"
+
+STRIKECRUISER_MID_M2S2: "연발사격 스테이션"
+STRIKECRUISER_MID_S6: "탄막 스테이션"
+STRIKECRUISER_MID_M3: "전열 스테이션"
+
+STRIKECRUISER_STERN_M2: "전열 스테이션"
+STRIKECRUISER_STERN_S2PD2: "정밀타격 스테이션"
+STRIKECRUISER_STERN_S4: "탄막 스테이션"
+#-------------------------------------------------------------------#
+BATTLECRUISER_BOW_L2: "포격 스테이션"
+BATTLECRUISER_BOW_G2S2: "일제사격 스테이션"
+BATTLECRUISER_BOW_M3: "전열 스테이션"
+
+BATTLECRUISER_MID1_L1G2: "집중사격 스테이션"
+BATTLECRUISER_MID1_L2M1: "포격 스테이션"
+BATTLECRUISER_MID1_M2S2: "연발사격 스테이션"
+BATTLECRUISER_MID1_G4: "미사일 스테이션"
+BATTLECRUISER_MID1_M4: "전열 스테이션"
+
+BATTLECRUISER_MID2_L1G2: "집중사격 스테이션"
+BATTLECRUISER_MID2_L2M1: "포격 스테이션"
+BATTLECRUISER_MID2_M2S2: "연발사격 스테이션"
+BATTLECRUISER_MID2_G4: "미사일 스테이션"
+BATTLECRUISER_MID2_M4: "전열 스테이션"
+
+BATTLECRUISER_MID3_L1G2: "집중사격 스테이션"
+BATTLECRUISER_MID3_L2M1: "포격 스테이션"
+BATTLECRUISER_MID3_M2S2: "연발사격 스테이션"
+BATTLECRUISER_MID3_G4: "미사일 스테이션"
+BATTLECRUISER_MID3_M4: "전열 스테이션"
+
+BATTLECRUISER_STERN_M2: "전열 스테이션"
+BATTLECRUISER_STERN_L1: "포격 스테이션"
+BATTLECRUISER_STERN_S3: "탄막 스테이션"
+BATTLECRUISER_STERN_PD3: "방공 스테이션"
+#-------------------------------------------------------------------#
+BATTLESHIP_BOW_L3M3S3: "커버리지 스테이션"
+BATTLESHIP_BOW_L4: "포격 스테이션"
+BATTLESHIP_BOW_L3S4: "카로네이드 스테이션"
+BATTLESHIP_BOW_M6S6: "연발사격 스테이션"
+BATTLESHIP_BOW_SFU: "탄막 스테이션"
+BATTLESHIP_BOW_XL1PD1: "XL포탑 스테이션"
+BATTLESHIP_BOW_XL1: "용골탑재 XL무기 스테이션"
+
+BATTLESHIP_MID_L3M3: "충격 스테이션"
+BATTLESHIP_MID_L4: "포격 스테이션"
+BATTLESHIP_MID_L2M6: "전열 스테이션"
+BATTLESHIP_MID_L3S5: "카로네이드 스테이션"
+BATTLESHIP_MID_SFU: "탄막 스테이션"
+
+BATTLESHIP_STERN_L4: "포격 스테이션"
+BATTLESHIP_STERN_M8: "전열 스테이션"
+BATTLESHIP_STERN_M6S6: "연발사격 스테이션"
+BATTLESHIP_STERN_M6PD4: "정밀타격 스테이션"
+BATTLESHIP_STERN_SFU: "탄막 스테이션"
+#-------------------------------------------------------------------#
+CARRIER_BOW_M1S2PD2: "기습타격 스테이션"
+CARRIER_BOW_M1G2PD4: "방공 스테이션"
+CARRIER_BOW_G3PD2: "집중사격 스테이션"
+CARRIER_BOW_G2S4PD2: "카로네이드 스테이션"
+
+CARRIER_MID1_G2HB: "미사일 스테이션"
+CARRIER_MID1_S2PD2HB: "정밀타격 스테이션"
+CARRIER_MID1_PD4HB: "방공 스테이션"
+CARRIER_MID1_INVASION: "행성침공 스테이션"
+
+CARRIER_MID1_G4HB_HU: "중모함 미사일 스테이션"
+CARRIER_MID1_S2PD2HB_HU: "중모함 정밀타격 스테이션"
+CARRIER_MID1_PD4HB_HU: "중모함 방공 스테이션"
+
+CARRIER_MID1_G4HB_SU: "초중모함 미사일 스테이션"
+CARRIER_MID1_S2PD2HB_SU: "초중모함 정밀타격 스테이션"
+CARRIER_MID1_PD4HB_SU: "초중모함 방공 스테이션"
+
+CARRIER_MID2_G2HB: "미사일 스테이션"
+CARRIER_MID2_S2PD2HB: "정밀타격 스테이션"
+CARRIER_MID2_PD4HB: "방공 스테이션"
+CARRIER_MID2_INVASION: "행성침공 스테이션"
+
+CARRIER_MID2_G4HB_HU: "중모함 미사일 스테이션"
+CARRIER_MID2_S2PD2HB_HU: "중모함 정밀타격 스테이션"
+CARRIER_MID2_PD4HB_HU: "중모함 방공 스테이션"
+
+CARRIER_MID2_G4HB_SU: "초중모함 미사일 스테이션"
+CARRIER_MID2_S2PD2HB_SU: "초중모함 정밀타격 스테이션"
+CARRIER_MID2_PD4HB_SU: "초중모함 방공 스테이션"
+
+CARRIER_STERN_G2: "미사일 스테이션"
+CARRIER_STERN_M1PD2: "커버리지 스테이션"
+CARRIER_STERN_S2PD2: "정밀타격 스테이션"
+#-------------------------------------------------------------------#
+DREADNOUGHT_BOW_L2M4S4: "커버리지 스테이션"
+DREADNOUGHT_BOW_L4: "포격 스테이션"
+DREADNOUGHT_BOW_L2S2PD6: "카로네이드 스테이션"
+DREADNOUGHT_BOW_X2: "파괴자 스테이션"
+DREADNOUGHT_BOW_XL2: "XL포탑 스테이션"
+
+DREADNOUGHT_MID1_L2G5: "집중사격 스테이션"
+DREADNOUGHT_MID1_L6: "포격 스테이션"
+DREADNOUGHT_MID1_L2M7: "충격 스테이션"
+DREADNOUGHT_MID1_L2PD9: "정밀타격 스테이션"
+
+DREADNOUGHT_MID2_L2G5: "집중사격 스테이션"
+DREADNOUGHT_MID2_L6: "포격 스테이션"
+DREADNOUGHT_MID2_L2M7: "충격 스테이션"
+DREADNOUGHT_MID2_L2PD9: "정밀타격 스테이션"
+
+DREADNOUGHT_MID3_L2G5: "집중사격 스테이션"
+DREADNOUGHT_MID3_L6: "포격 스테이션"
+DREADNOUGHT_MID3_L2M7: "충격 스테이션"
+DREADNOUGHT_MID3_L2PD9: "정밀타격 스테이션"
+
+DREADNOUGHT_STERN_L2: "포격 스테이션"
+DREADNOUGHT_STERN_M6: "전열 스테이션"
+DREADNOUGHT_STERN_M4S4PD2: "연발사격 스테이션"
+DREADNOUGHT_STERN_G4: "미사일 스테이션"
+#-------------------------------------------------------------------#
+TITAN_BOW_T2: "노바 스테이션"
+TITAN_BOW_XL3: "절멸자 스테이션"
+
+TITAN_MID1_G16: "미사일 스테이션"
+TITAN_MID1_L4G10PD2: "집중사격 스테이션"
+TITAN_MID1_L12PD4: "포격 스테이션"
+
+TITAN_STERN_G16: "미사일 스테이션"
+TITAN_STERN_L4G10PD2: "집중사격 스테이션"
+TITAN_STERN_L10PD4: "포격 스테이션"
+#-------------------------------------------------------------------#
+FLAGSHIP_BOW_T4H6_1: "공성 파괴자 스테이션 1"
+FLAGSHIP_BOW_T4H6_2: "공성 파괴자 스테이션 2"
+FLAGSHIP_BOW_T4H6_3: "공성 파괴자 스테이션 3"
+FLAGSHIP_BOW_T1XL8H6_1: "바실리스크 스테이션 1"
+FLAGSHIP_BOW_T1XL8H6_2: "바실리스크 스테이션 2"
+FLAGSHIP_BOW_T1XL8H6_3: "바실리스크 스테이션 3"
+FLAGSHIP_BOW_XL12H6_1: "폭풍인도자 스테이션 1"
+FLAGSHIP_BOW_XL12H6_2: "폭풍인도자 스테이션 2"
+FLAGSHIP_BOW_XL12H6_3: "폭풍인도자 스테이션 3"
+FLAGSHIP_BOW_G6S4H6: "헤일파이어 스테이션"
+FLAGSHIP_BOW_M7S2H6: "전열 스테이션"
+
+FLAGSHIP_MID1_L16: "포격 스테이션"
+FLAGSHIP_MID1_L8M8: "충격 스테이션"
+FLAGSHIP_MID1_L6S6PD4: "카로네이드 스테이션"
+FLAGSHIP_MID1_L8G8: "집중사격 스테이션"
+FLAGSHIP_MID1_G16: "미사일 스테이션"
+FLAGSHIP_MID1_M16: "전열 스테이션"
+FLAGSHIP_MID1_G8M8: "기습타격 스테이션"
+FLAGSHIP_MID1_H12PD4: "모함 스테이션"
+
+FLAGSHIP_MID2_L16: "포격 스테이션"
+FLAGSHIP_MID2_L8M8: "충격 스테이션"
+FLAGSHIP_MID2_L6S6PD4: "카로네이드 스테이션"
+FLAGSHIP_MID2_L8G8: "집중사격 스테이션"
+FLAGSHIP_MID2_G16: "미사일 스테이션"
+FLAGSHIP_MID2_M16: "전열 스테이션"
+FLAGSHIP_MID2_G8M8: "기습타격 스테이션"
+FLAGSHIP_MID2_H12PD4: "모함 스테이션"
+
+FLAGSHIP_MID3_L16: "포격 스테이션"
+FLAGSHIP_MID3_L8M8: "충격 스테이션"
+FLAGSHIP_MID3_L6S6PD4: "카로네이드 스테이션"
+FLAGSHIP_MID3_L8G8: "집중사격 스테이션"
+FLAGSHIP_MID3_G16: "미사일 스테이션"
+FLAGSHIP_MID3_M16: "전열 스테이션"
+FLAGSHIP_MID3_G8M8: "기습타격 스테이션"
+FLAGSHIP_MID3_H12PD4: "모함 스테이션"
+
+FLAGSHIP_MID4_L16: "포격 스테이션"
+FLAGSHIP_MID4_L8M8: "충격 스테이션"
+FLAGSHIP_MID4_L6S6PD4: "카로네이드 스테이션"
+FLAGSHIP_MID4_L8G8: "집중사격 스테이션"
+FLAGSHIP_MID4_G16: "미사일 스테이션"
+FLAGSHIP_MID4_M16: "전열 스테이션"
+FLAGSHIP_MID4_G8M8: "기습타격 스테이션"
+FLAGSHIP_MID4_H12PD4: "모함 스테이션"
+
+FLAGSHIP_STERN_L16: "포격 스테이션"
+FLAGSHIP_STERN_M16: "전열 스테이션"
+FLAGSHIP_STERN_G16: "미사일 스테이션"
+FLAGSHIP_STERN_M8PD8: "연발사격 스테이션"
+FLAGSHIP_STERN_G8PD8: "기습타격 스테이션"
+FLAGSHIP_STERN_H6PD10: "방공 스테이션"
+#-------------------------------------------------------------------#
+STRONGHOLD_STARBASE_SECTION_T: "항성성새"
+STRONGHOLD_STARBASE_SECTION_XL: "항성성새"
+#-------------------------------------------------------------------#
+HEADQUARTERS_STARBASE_SECTION_T: "항성보루"
+HEADQUARTERS_STARBASE_SECTION_XL: "항성보루"
+#-------------------------------------------------------------------#
+PDSMALL_MILITARY_STATION_SECTION: "경무장/거점방어 스테이션"
+MEDTORP_MILITARY_STATION_SECTION: "중형무장/어뢰 스테이션"
+
+LIGHT_MILITARY_STATION_SECTION_2: "경무장 스테이션"
+PD_MILITARY_STATION_SECTION_2: "거점방어 스테이션"
+PDSMALL_MILITARY_STATION_SECTION_2: "경무장/거점방어 스테이션"
+MEDIUM_MILITARY_STATION_SECTION_2: "중형무장 스테이션"
+MEDTORP_MILITARY_STATION_SECTION_2: "중형무장/어뢰 스테이션"
+MISSILE_MILITARY_STATION_SECTION_2: "미사일 스테이션"
+HEAVY_MILITARY_STATION_SECTION_2: "중무장 스테이션"
+HANGAR_MILITARY_STATION_SECTION_2: "격납고 스테이션"
+
+LIGHT_MILITARY_STATION_SECTION_3: "경무장 스테이션"
+PD_MILITARY_STATION_SECTION_3: "거점방어 스테이션"
+PDSMALL_MILITARY_STATION_SECTION_3: "경무장/거점방어 스테이션"
+MEDIUM_MILITARY_STATION_SECTION_3: "중형무장 스테이션"
+MEDTORP_MILITARY_STATION_SECTION_3: "중형무장/어뢰 스테이션"
+MISSILE_MILITARY_STATION_SECTION_3: "미사일 스테이션"
+HEAVY_MILITARY_STATION_SECTION_3: "중무장 스테이션"
+HANGAR_MILITARY_STATION_SECTION_3: "격납고 스테이션"
+
+#-------------------------------------------------------------------#
+XL_CANNON_CORE: "절멸자 포 스테이션"
+T_CANNON_CORE: "말살자 포 스테이션"
+T_CANNON_CORE: "말살자 스테이션"
+#-------------------------------------------------------------------#
+MISSILE_JUGGERNAUT_SECTION: "저거너트 미사일 스테이션"
+ARTILLERY_JUGGERNAUT_SECTION: "저거너트 포격 스테이션"
+STRIKECRAFT_JUGGERNAUT_SECTION: "저거너트 모함 스테이션"
+ARTILLERY_JUGGERNAUT_SECTION: "저거너트 일제사격 스테이션"
+#-------------------------------------------------------------------#
+CORE1_HEADQUARTERS_SECTION: "사령부 스테이션 1"
+CORE2_HEADQUARTERS_SECTION: "사령부 스테이션 2"
+CORE3_HEADQUARTERS_SECTION: "사령부 스테이션 3"
+CORE4_HEADQUARTERS_SECTION: "사령부 스테이션 4"

@@ -1,0 +1,31 @@
+﻿l_english:
+ ####################################
+ # Buildings
+ ####################################
+
+ building_low_arcology:0 "하급 거주구"
+ building_low_arcology_desc:0 "§L하급 계층의 집과 직장을 수용하는 거대한 거주구입니다.§!"
+ building_low_arcologyii:0 "하급 거주구 II"
+ building_low_arcologyii_desc:0 "§L하급 계층의 집과 직장을 수용하는 거대한 거주구입니다. 생산 최적화를 위해 설비가 증설되었습니다.§!"
+ building_low_arcologyiii:0 "하급 거주구 III"
+ building_low_arcologyiii_desc:0 "§L하급 계층의 집과 직장을 수용하는 거대한 거주구입니다. 지하의 많은 부분을 추가적으로 확장해, 자원을 더 생산할 수 있습니다.§!"
+ building_forgotten_archive:0 "잊힌 기록 보관소"
+ building_forgotten_archive_desc:0 "§L이 기록 보관소는 낡아보입니다. 손상되지 않은 것은 암호화되어 있으며, 암호화된 것의 절반은 지금까지 알려지지 않은 언어로 구성되어 있습니다. 하지만 인내심을 가지고 이를 해석한다면, 고대인의 비밀을 우리가 가질 수도 있을 것입니다.§!"
+ building_opvault:0 "선구자 금고 관문"
+ building_opvault_desc:0 "§L선구자 금고 안으로 이어진 작은 관문입니다. 한번에 들고 나갈 수 있는 양은 관문의 크기로 인해 제한됩니다만, 금고 저편에 쌓인 자원의 끝은 보이지 않습니다.§!"
+ building_corporate_superscraper:0 "기업용 거대 채굴기"
+ building_corporate_superscraper_desc:0 "§L네, 보기 좋진 않죠. 네, 이게 주변의 사람들을 얼마나 짜증나게 만드는지에 대한 보고도 들었습니다. 하지만 할당량을 얼마나 쉽게 충족시킬 수 있을 지 생각해보세요!§!"
+ building_plymoutharco:0 "수직 거주구"
+ building_plymoutharco_desc:1 "§L스모그 구름이 하늘을 뒤덮지만 않는다면 궤도에서 관측 가능한 수직 도시입니다.§!"
+ building_forestarco:0 "숲 거주구"
+ building_forestarco_desc:1 "§L거대한 농업단지 위에 세워진 아름다운 거주구입니다.§!"
+ building_mantledrill:0 "맨틀 광산"
+ building_mantledrill_desc:1 "§L이건 우리의 행성이고, 그 안을 파내어 자원을 꺼내는 것도 우리의 일입니다.§!"
+ building_high_arcology:0 "고급 거주구"
+ building_high_arcology_desc:0 "§L높으신 분을 모시기 위한 호화로운 첨탑입니다.§!"
+ building_psi_arcology:0 "사이오닉 성채"
+ building_psi_arcology_desc:0 "§L거주 가능한 크기의 거대한 사이오닉 증폭기인 사이오닉 성채는 거주민의 사이오닉 에너지를 수집하여 저장합니다.§!"
+ building_opbiobuilding:0 "심장 연결체"
+ building_opbiobuilding_desc:0 "고동치는 행성의 심장입니다."
+ building_opbiobuilding2:0 "뼈 대장간"
+ building_opbiobuilding2_desc:0 "생명공학의 경이로운 결과를 '뼈'라고 부르는 건 너무 함축시킨 말이긴 합니다만, 이미 고착화된 용어입니다."

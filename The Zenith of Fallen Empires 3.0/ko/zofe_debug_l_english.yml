@@ -1,0 +1,28 @@
+﻿l_english:
+ 
+ zofe_debug.1.name:0 "함선 설계"
+ zofe_debug.1.desc:0 "어떤 설계를 선택할까요?"
+ zofe_debug.1.a:0 "Beige/Brown/Cyan - 정신주의"
+ zofe_debug.1.b:0 "Black/Silver/Viridian - 물질주의"
+ zofe_debug.1.c:0 "Red/Gold/Sapphire - 외계종 선호"
+ zofe_debug.1.da:0 "Black/Brown/Red - 외계종 혐요"
+ zofe_debug.1.db:0 "Black/Silver/Purple - 정화자"
+ zofe_debug.1.e:0 "Black/Green/Yellow - 군국주의"
+ zofe_debug.1.fa:0 "Beige/Brown/White - 평화주의"
+ zofe_debug.1.fb:0 "Pink/Red/Viridian - 내적 완결성"
+ zofe_debug.1.g:0 "Black/Silver/White - 권위주의"
+ zofe_debug.1.h:0 "Silver/Blue/White - 평등주의"
+ zofe_debug.1.ia:0 "Green/Cyan/Yellow - 군체의식"
+ zofe_debug.1.ib:0 "Purple/Green - 포식자"
+ zofe_debug.1.ja:0 "Brown/Orange - 기계"
+ zofe_debug.1.jb:0 "Brown/Red - 말살자"
+ zofe_debug.1.k:0 "Brown/Yellow/Orange - 거대기업"
+ zofe_debug.1.l:0 "Black/Silver/Blue - 중립"
+ zofe_debug.1.m:0 "Silver/Gold - 오리지널"
+
+ 
+ zofe_debug.2.name: "초월 제국으로 변경 (Cheat)"
+ zofe_debug.2.desc: "큰 실수 하시는겁니다."
+ zofe_debug.2.a: "끔찍하군!"
+  
+ 

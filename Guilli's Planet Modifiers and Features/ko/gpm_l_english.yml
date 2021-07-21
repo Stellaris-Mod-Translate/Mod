@@ -1,0 +1,1321 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # Ambiend Objects
+ # Armies
+ # Artifact Actions
+ # Buildings
+ # Casus Bellis
+ # Colour Tricks
+ # Country Modifiers
+ # Debug
+ # Districts **************** NEW *******************
+ # Edicts
+ # Jobs
+ # Messages
+ # Modifier localisations
+ # Opinions
+ # Planet Classes **************** NEW *******************
+ # Policies
+ # R.E.S.
+ # Ships
+ # Ship Components
+ # Starbase Buildings and Modules
+ # Start Menu
+ # Techologies
+ # Traits
+ # War Goals
+ # war Names
+ #######################################
+ 
+ 
+ 
+ #######################################
+ #### Ambiend Objects
+ #######################################
+ gpm_broken_wormhole_ring:0 "부서진 웜홀 발전기"
+ gpm_abandoned_station_object:0 "버려진 스테이션"
+ gpm_mysterious_space_station_object:0 "스테이션 폐허"
+ gpm_abandoned_ship_2_object:0 "고대 함체"
+ gpm_abandoned_starbase_01_object:0 "부서진 스테이션"
+ 
+ gpm_precursor_shipyards_star:0 "고대 조선소"
+ gpm_precursor_shipyards_star_rs:0 "고대 조선소"
+ gpm_precursor_shipyards_30:0 "선구자 조선소"
+ gpm_precursor_shipyards_25:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_24:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_23:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_22:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_21:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_20:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_19:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_18:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_17:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_16:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_15:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_14:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_13:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_12:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_11:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_10:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_9:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_8:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_7:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_30:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_25:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_24:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_23:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_22:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_21:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_20:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_19:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_18:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_17:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_16:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_15:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_14:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_13:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_12:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_11:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_10:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_9:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_8:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_7:0 "$gpm_precursor_shipyards_30$"
+ 
+ gpm_precursor_shipyards_star_cybrex_desc:0 "사이브렉스가 한때 사용했던 거대한 조선소입니다. 확장된 조립장은 항성의 중력으로 인해 아래로 구부러져 함선 생산에 활용될 에너지를 흡수합니다."
+ gpm_precursor_shipyards_star_desc:0 "선구자 종족이 한때 사용했던 거대한 조선소입니다. 확장된 조립장은 항성의 중력으로 인해 아래로 구부러져 함선 생산에 활용될 에너지를 흡수합니다."
+ 
+ gpm_binary_asteroids:0 "[gpm_double_asteroid.GetName]의 쌍둥이"
+ 
+ #######################################
+ #### Armies
+ #######################################
+ gpm_precursor_mech_army:0 "수리된 선구자 로봇"
+ gpm_precursor_mech_army_plural:0 "수리된 선구자 로봇"
+ gpm_precursor_mech_army_desc:0 "수리 완료된 선구자 로봇입니다. 많은 자원이 들었지만 드디어 작동을 시작했습니다. 식민지 위에 우뚝 선채 거대한 무기를 탑재한 이 로봇들은 꽤 볼만한 풍경입니다. 이 로봇의 거대함은 불행하게도 방어 목적으로만 사용할 수 있다는 것을 의미하고 있습니다."
+ precursor_mech_army_trigger_tooltip:0 "§B선구자 로봇이 있는 행성에서만 제작할 수 있습니다.§!"
+ 
+ gpm_precursor_bunker_army:0 "선구자 방어시설"
+ gpm_precursor_bunker_army_plural:0 "선구자 방어시설"
+ gpm_precursor_bunker_army_desc:0 "첨단 인공지능에 의해 설계된 놀랍도록 복잡한 선구자의 방어 시설입니다. 모든 방어시설은 방어자에게 유리한 자기 유지 시스템을 가지고 있습니다. 또한 사실상 뚫을 수 없는 벽은 적들이 통과하는데 몇 달이 걸린다는 것을 의미합니다. 이 방어시설이 충분하다면 우리는 적의 군대를 무기한으로 저지할 수 있을 것입니다."
+ precursor_bunker_army_trigger_tooltip:0 "§B선구자 방어망이 있는 행성에서만 건설할 수 있습니다.§!"
+ 
+ gpm_giant_arachnid_army:0 "거대거미 군대"
+ gpm_giant_arachnid_army_plural:0 "거대거미 군대"
+ gpm_giant_arachnid_army_desc:0 "피, 땀, 눈물... 사실 거의 피와 눈물을 통해 간신히 이 거대거미들을 길들이는데 성공했습니다! 생체공학 이식물은 이 거대거미들이 이동할 방향을 제시함으로써 이것들을 통제할 수 있게 합니다. 이들은 보통 마주치는 모든 것을 먹으려고 노력하며 이놈들을 궤도에서 강하시키는 것은 전쟁에서 이길 만큼 무서울 것입니다."
+ giant_arachnid_army_trigger_tooltip:0 "§B거대거미가 있는 행성에서만 모집할 수 있습니다.§!"
+
+ gpm_giant_arachnid_army_defensive:0 "거대거미 무리"
+ gpm_giant_arachnid_army_defensive_plural:0 "거대거미 무리"
+ gpm_giant_arachnid_army_defensive_desc:0 "엄청난 공격성을 보이는 거대거미의 무리입니다."
+ 
+ gpm_precursor_mech_army_machine:0 "개조된 선구자 로봇"
+ gpm_precursor_mech_army_machine_plural:0 "개조된 선구자 로봇"
+ gpm_precursor_mech_army_machine_desc:0 "선구자 로봇을 기반으로 하여 우리 시스템을 통합시킨 개조된 선구자 로봇입니다. 인공관절과 인공근육은 필요한 부분에서의 움직임을 강제하기 위해 설치되었으며, 새로운 전원과 제어 장치를 통해 로봇들이 다시 작동하게 되었습니다."
+ precursor_mech_army_machine_trigger_tooltip:0 "§B선구자 로봇이 있는 행성에서만 제작할 수 있습니다.§!"
+ 
+ gpm_precursor_bunker_army_machine:0 "선구자 방어시설 군집"
+ gpm_precursor_bunker_army_machine_plural:0 "선구자 방어시설 군집"
+ gpm_precursor_bunker_army_machine_desc:0 "첨단 인공지능에 의해 설계된 놀랍도록 복잡한 선구자의 방어 시설 군집입니다. 모든 방어시설은 방어자에게 유리한 자기 유지 시스템을 가지고 있습니다. 또한 사실상 뚫을 수 없는 벽은 적들이 통과하는데 몇 달이 걸린다는 것을 의미합니다. 이 방어시설이 충분하다면 우리는 적의 군대를 무기한으로 저지할 수 있을 것입니다. 자가유지가 가능한 드론 군집을 도입함으로써 방어망의 모든 시설이 잠재적인 침입자를 제거할 수 있도록 합니다."
+ precursor_bunker_army_machine_trigger_tooltip:0 "§B선구자 방어망이 있는 행성에서만 건설할 수 있습니다.§!"
+ 
+ gpm_giant_arachnid_army_machine:0 "사이버네틱 거대거미 무리"
+ gpm_giant_arachnid_army_machine_plural:0 "사이버네틱 거대거미 무리"
+ gpm_giant_arachnid_army_machine_desc:0 "거대 거미들에게 광범위한 사이버네틱 시술과 심뇌 부착물을 사용함으로써 이 공격적인 생물들을 완전히 통제할 수 있었습니다. 또한 빠른 번식 프로그램은 이 생물들이 많이 사용될 수 있도록 했습니다. 엄격하고 빠르게 움직이는 무리처럼 행동하도록 프로그램되면 사실상 어떤 상황에서든 적에 대한 승리를 보장할 것입니다."
+ giant_arachnid_army_machine_trigger_tooltip:0 "§B거대거미가 있는 행성에서만 모집할 수 있습니다.§!"
+
+ gpm_relic_tank_battalion:0 "전차 부대"
+ gpm_relic_tank_battalion_desc:0 "고도로 진보한 호버 전차입니다."
+ 
+ gpm_relic_mech_squadron:0 "전투기계 부대"
+ gpm_relic_mech_squadron_desc:0 "작은 위성을 날려버릴 만큼 강력한 화력을 가진 우리 시민들에 의해 조종되는 거대 전투 기계입니다."
+
+ gpm_relic_fighter_squadron:0 "전투 비행대"
+ gpm_relic_fighter_squadron_desc:0 "저공비행이 가능한 빠르고 민첩한 소형 공격선입니다."
+ gpm_relic_power_armoured_troops:0 "파워아머 부대"
+ gpm_relic_power_armoured_troops_desc:0 "고도로 진보한 갑옷을 입은 전투 부대입니다."
+ 
+ # event xenomorph armies
+ gpm_xenomorph_army_defensive:0 "제노모프"
+ gpm_xenomorph_army_defensive_plural:0 "제노모프"
+ gpm_xenomorph_army_defensive_desc:0 "이빨과 발톱 그리고 죽이고싶은 본능적인 충동만으로 이루어진 굶주린 생물공학적 공포입니다."
+ 
+ gpm_xenomorph_army_queen:0 "제노모프 여왕"
+ gpm_xenomorph_army_queen_plural:0 "제노모프 여왕"
+ gpm_xenomorph_army_queen_desc:0 "알을 낳을 수 있는 거대한 제노모프입니다."
+ 
+ # xenomorph army dupe no upkeep
+ gpm_xenomorph_army_no_upkeep:0 "$xenomorph_army$"
+ gpm_xenomorph_army_no_upkeep_desc:0 "$xenomorph_army_desc$"
+ 
+ # Venerable dreadnaught army
+ gpm_venerable_dreadnaught_army:0 "고대의 거인"
+ gpm_venerable_dreadnaught_army_desc:0 "강력한 고대의 보행형 기계입니다."
+
+ # dreadnaught army
+ gpm_dreadnaught_army:0 "드레드노트"
+ hexagongpm_dreadnaught_army_desc:0 "파괴적인 무기 시스템과 두꺼운 장갑판을 가져 육중하지만 천천히 움직이는 독립적인 기계입니다."
+ 
+ #######################################
+ #### Artifact Actions
+ #######################################
+ # unused
+ # gpm_artifact_precursor_deciphering_locked:0 "§L??????§!"
+ # gpm_artifact_precursor_deciphering_locked_desc:0 "$artifact_action_locked_desc$"
+ # gpm_artifact_precursor_deciphering:0 "Experiment With Precursor Technology"
+ # gpm_artifact_precursor_deciphering_desc:0 "Have your scientists experiment with some minor artifacts to see what insights they will yield for our own research."
+ # gpm_artifact_precursor_deciphering_effect:0 "Experiment on £minor_artifacts£Minor Artifacts to discover random precursor technologies.\n\nCooldown: £time£ §Y1800§!"
+ # gpm_artifact_precursor_deciphering_cooldown:0 "Experiments Cooldown"
+ # requires_gpm_artifact_precursor_deciphering_no_cooldown:0 "Cannot have Experiments Cooldown" 
+ gpm_artifact_precursor_deciphering_effectTT:0 "£minor_artifacts£ 골동품을 분해해 무작위 기술 보너스를 획득합니다. 랜덤한 기술 연구 진행도를 획득하거나, 연구 점수를 획득하거나, 연구 속도 보너스를 획득할 수 있습니다.\n\n§Y20%§!확률로 희귀한 선구자 기술을 획득할 수 있습니다.\n\n재사용 대기시간: £time£ §Y1800§!"
+ 
+ requires_artifact_sell_collector_cooldown_no_cooldown:0 "$TRIGGER_FAIL$§R아직 골동품을 더 판매할 수 없습니다.§!"
+ artifact_sell_collector_cooldown:0 "$artifact_sell_collector$ 재사용 대기시간" 
+ gpm_artifact_sell_collectorTT:0 "\n\n재사용 대기시간: £time£ §Y360§!"
+ 
+ GPM_unlock_artifact_research_centre_locked:0 "§L??????§!"
+ GPM_unlock_artifact_research_centre_locked_desc:0 "$artifact_action_locked_desc$"
+ GPM_unlock_artifact_research_centre:0 "$gpm_tech_arcane_research$ 기금 조성"
+ GPM_unlock_artifact_research_centre_desc:0 "선구자 행성 모디파이어를 가진 행성이나 거주지에 §H$gpm_precursor_research_center$§!를 건설할 수 있게 하는 §H$gpm_tech_arcane_research$§! 기술을 해금합니다. 이 건물은 골동품의 연구와 실험에 도움을 주는 제국 고유 건물입니다."
+ GPM_unlock_artifact_research_centre_TT:0 "\n§Y$gpm_tech_arcane_research$§!는 2개의 $job_gpm_precursor_archaeologist$ 직업을 제공하는 §H$gpm_precursor_research_center$§!건물을 지을 수 있도록 합니다.\n\n$job_gpm_precursor_archaeologist_effect_desc$\n\n" 
+ gpm_artifact.1.name:0 "고대 기술을 통한 돌파구"
+ gpm_artifact.1.desc:0 "고대 유물을 통한 실험은 믿을 수 없는 기술적 돌파구를 만들어냈습니다."
+ gpm_artifact.2.name:0 "§H역설계§! 준비"
+ gpm_artifact.2.desc:0 "우리 과학자들이 또다른 £minor_artifacts£ 골동품을 §H역설계§!할 준비가 되었다고 보고합니다."
+ 
+ #######################################
+ #### Buildings
+ #######################################
+ gpm_building_stronghold:0 "복구된 선구자 방어시설 지휘부"
+ gpm_building_stronghold_desc:0 "이곳에서 행성 전역의 선구자 방어시설에 방어군을 배치하는 작전을 계획합니다. 시간이 지남에 따라 더 많은 방어시설을 사용할 수 있을 것입니다."
+ 
+ gpm_building_mining_nanite_nexus:0 "채광 나노봇 연결체"
+ gpm_building_mining_nanite_nexus_desc:0 "채광 나노봇을 위한 저장 및 통제 센터입니다. 이 나노봇들은 일단 풀려나면 종래의 방법으로는 채굴이 불가능한 광맥을 향해 매끄럽고 큰 터널을 뚫습니다."
+
+ gpm_precursor_research_center:0 "고대 연구 협회"
+ gpm_precursor_research_center_desc:0 "고대 및 선구자 문명을 연구하기 위한 전문적인 시설입니다."
+ 
+ gpm_building_ascension_tower:0 "승천 탑"
+ gpm_building_ascension_tower_desc:0 "증가하는 엄청난 인구를 수용할 수 있는 거대한 건물입니다. 탑의 높이가 너무 높아서 주민들이 질식하는것을 막기 위해 꼭대기 부분은 잘 밀봉되어 있습니다."
+ 
+ gpm_building_exotic_park:0 "외계 식물원"
+ gpm_building_exotic_park_desc:0 "이상하고 이국적인 외계 식물들로 가득 차 있는 공원입니다."
+ 
+ gpm_building_manufactory_hub:0 "제조업 허브"
+ gpm_building_manufactory_hub_desc:0 "최적의 효율로 공장을 가동하기 위해 생산과 재료 투입을 사전에 능동적으로 조정할 수 있는 정교한 제조 허브입니다."
+ 
+ gpm_building_core_prison:0 "초심도 감옥"
+ gpm_building_core_prison_desc:0 "행성의 핵 근처에 존재하는 탈출이 불가능한 감옥입니다. 감옥을 드나드는 유일한 길은 치명적인 자율 무기 시스템으로 보호되는 하나의 갱도 뿐입니다."
+ 
+ #######################################
+ #### Casus Bellis
+ #######################################
+ casus_belli_cb_gpm_r_time_displacer:0 "$gpm_r_time_displacer$ 요구"
+ casus_belli_cb_gpm_r_alien_eggs:0 "$gpm_r_alien_eggs$ 요구"
+ casus_belli_cb_gpm_r_machine_world_core:0 "$gpm_r_machine_world_core$ 요구"
+ casus_belli_cb_gpm_r_encyclopedia_galactica:0 "$gpm_r_encyclopedia_galactica$ 요구"
+ casus_belli_cb_gpm_r_zero_energy_generator:0 "$gpm_r_zero_energy_generator$ 요구"
+ casus_belli_cb_gpm_r_quantum_sphere:0 "$gpm_r_quantum_sphere$ 요구"
+ casus_belli_cb_gpm_r_ai_architect:0 "$gpm_r_ai_architect$ 요구"
+ casus_belli_cb_gpm_r_encrypted_sct:0 "$gpm_r_encrypted_sct$ 요구"
+ casus_belli_cb_gpm_r_experimental_weapon:0 "$gpm_r_experimental_weapon$ 요구"
+ casus_belli_cb_gpm_r_fallout_emergency_replicator:0 "$gpm_r_fallout_emergency_replicator$ 요구"
+ casus_belli_cb_gpm_r_power_core:0 "$gpm_r_power_core$ 요구"
+ casus_belli_cb_gpm_r_mysterious_shield_generator:0 "$gpm_r_mysterious_shield_generator$ 요구"
+ casus_belli_cb_gpm_r_gravity_engine:0 "$gpm_r_gravity_engine$ 요구"
+ casus_belli_cb_gpm_r_codex_administratum:0 "$gpm_r_codex_administratum$ 요구"
+ casus_belli_cb_gpm_r_enigmatic_advisor:0 "$gpm_r_enigmatic_advisor$ 요구"
+ casus_belli_cb_gpm_r_positronic_microchip:0 "$gpm_r_positronic_microchip$ 요구"
+ casus_belli_cb_gpm_r_venerable_dreadnaught:0 "$gpm_r_venerable_dreadnaught$ 요구"
+ casus_belli_cb_gpm_r_sentinel_queen:0 "$gpm_r_sentinel_queen$ 요구"
+ casus_belli_cb_gpm_r_earthquake_engine:0 "$gpm_r_earthquake_engine$ 요구"
+ casus_belli_cb_gpm_r_manufactorium_ship:0 "$gpm_r_manufactorium_ship$ 요구"
+ casus_belli_cb_gpm_r_datacube:0 "$gpm_r_datacube$ 요구"
+ casus_belli_cb_gpm_r_self_assembly_hub:0 "$gpm_r_self_assembly_hub$ 요구"
+ casus_belli_cb_gpm_r_banner_of_the_fallen:0 "$gpm_r_banner_of_the_fallen$ 요구"
+ casus_belli_cb_gpm_r_cloaking_device:0 "$gpm_r_cloaking_device$ 요구"
+ casus_belli_cb_gpm_r_q_storage_compressor:0 "$gpm_r_q_storage_compressor$ 요구"
+ casus_belli_cb_gpm_r_soul_gem:0 "$gpm_r_soul_gem$ 요구"
+ casus_belli_cb_gpm_r_self_repairing_obelisk:0 "$gpm_r_self_repairing_obelisk$ 요구"
+
+ casus_belli_cb_gpm_r_dragon_trophy:0 "$r_dragon_trophy$ 요구"
+ casus_belli_cb_gpm_r_khans_throne:0 "$r_khans_throne$ 요구"
+ casus_belli_cb_gpm_r_worm_scales:0 "$r_worm_scales$ 요구"
+ casus_belli_cb_gpm_r_galaxy:0 "$r_galaxy$ 요구"
+ casus_belli_cb_gpm_r_omnicodex:0 "$r_omnicodex$ 요구"
+ casus_belli_cb_gpm_r_surveyor:0 "$r_surveyor$ 요구"
+ casus_belli_cb_gpm_r_ancient_sword:0 "$r_ancient_sword$ 요구"
+ casus_belli_cb_gpm_r_severed_head:0 "$r_severed_head$ 요구"
+ casus_belli_cb_gpm_r_prethoryn_queen:0 "$r_prethoryn_queen$ 요구"
+ casus_belli_cb_gpm_r_unbidden_warlock:0 "$r_unbidden_warlock$ 요구"
+ casus_belli_cb_gpm_r_contingency_core:0 "$r_contingency_core$ 요구"
+ casus_belli_cb_gpm_r_zro_crystal:0 "$r_zro_crystal$ 요구"
+ casus_belli_cb_gpm_r_the_last_baol:0 "$r_the_last_baol$ 요구"
+ casus_belli_cb_gpm_r_the_defragmentor:0 "$r_the_defragmentor$ 요구"
+ casus_belli_cb_gpm_r_reality_perforator:0 "$r_reality_perforator$ 요구"
+ casus_belli_cb_gpm_r_cryo_core:0 "$r_cryo_core$ 요구"
+ casus_belli_cb_gpm_r_pox_sample:0 "$r_pox_sample$ 요구"
+ casus_belli_cb_gpm_r_war_forge:0 "$r_war_forge$ 요구"
+ 
+ #######################################
+ #### Colour Tricks
+ #######################################
+ # Change name to red with skull icon
+ color_red:0 "£military_power_boss  §R [This.GetName] §!"
+ 
+ # Change name to orange with something icon
+ # color_planet_wonder:0 "£gpm_planet_wonder  §H[This.GetName]§!"
+ color_planet_wonder:0 "§H[This.GetName]§!"
+ color_planet_wonder_col:0 "§H[This.GetName]§!"
+ 
+ # Change name to teal with something icon
+ # color_precursor:0 "£gpm_precursor  §B[This.GetName]§!"
+ color_precursor:0 "§B[This.GetName]§!"
+ color_precursor_col:0 "§B[This.GetName]§!"
+ 
+ # reset to default, only applies to planet names
+ color_default_white:0 "[Root.Solar_System.GetName] ruined world"
+ color_default_white_col:0 "§W[This.GetName]§!"
+ 
+ gpm_infested:0 "£military_power_boss §R Infested World§!"
+ 
+ #######################################
+ #### Country Modifiers
+ ####################################### 
+ gpm_precursor_remnants_discovery:0 "차원간 녹음 장치"
+ gpm_precursor_remnants_discovery_2:0 "고대 항성 기록"
+ gpm_precursor_energy_grid_discovery:0 "위상 유도기"
+ gpm_precursor_energy_grid_discovery_2:0 "충전탑"
+ gpm_precursor_satellite_grid_discovery:0 "항법 디플렉터"
+ gpm_precursor_satellite_grid_discovery_2:0 "4차원 자이로스코프"
+ gpm_precursor_city_discovery:0 "개인 중력 팩"
+ gpm_precursor_city_discovery_2:0 "특이합금 I빔"
+ gpm_precursor_shipyards_discovery:0 "자동화 조선소 로봇팔"
+ gpm_precursor_shipyards_discovery_2:0 "자가밀봉 복합체"
+ gpm_precursor_planetary_gun_discovery:0 "분열포"
+ gpm_precursor_planetary_gun_discovery_2:0 "음 에너지 충전 외피"
+ gpm_precursor_bunker_grid_discovery:0 "불발된 벙커버스터"
+ gpm_precursor_bunker_grid_discovery_2:0 "에너지 필드 투사기"
+ gpm_precursor_mechs_discovery:0 "플라즈마 분열포"
+ gpm_precursor_mechs_discovery_2:0 "복원된 전투기계 방어장갑"
+ gpm_precursor_planetary_shield_discovery:0 "실험적인 방사체"
+ gpm_precursor_planetary_shield_discovery_2:0 "외계 에너지 배터리 팩"
+ gpm_precursor_floating_city_discovery:0 "초장력 케이블"
+ gpm_precursor_floating_city_discovery_2:0 "고대 비행 자동차"
+ gpm_precursor_capital_complex_discovery:0 "은하 요식체계 규칙 3편"
+ gpm_precursor_capital_complex_discovery_2:0 "은하 요식체계 규칙 1편"
+ gpm_precursor_communication_hub_discovery:0 "고궤도 통신 중계기"
+ gpm_precursor_communication_hub_discovery_2:0 "고궤도 개인 통신 장치"
+ gpm_precursor_singularity_drive_discovery:0 "고대 양자 컴퓨터"
+ gpm_precursor_singularity_drive_discovery_2:0 "광자 메모리 모듈"
+ gpm_precursor_eternal_fortress_discovery:0 "스텔스장 투사기"
+ gpm_precursor_eternal_fortress_discovery_2:0 "버려진 호버탱크"
+ gpm_precursor_prison_planet_discovery:0 "3D 감옥 지도"
+ gpm_precursor_prison_planet_discovery_2:0 "숨겨진 피난처 설계도"
+ gpm_precursor_mines_discovery:0 "소형 채굴 드론"
+ gpm_precursor_mines_discovery_2:0 "자라나는 수정"
+ gpm_precursor_manufactorium_discovery:0 "사용하지 않는 합금 용광로"
+ gpm_precursor_manufactorium_discovery_2:0 "바스러진 합금 샘플"
+ gpm_precursor_vaults_discovery:0 "고대 유물 수집품"
+ gpm_precursor_vaults_discovery_2:0 "무한 에너지 데이터큐브"
+ gpm_precursor_crashed_spacestation_discovery:0 "고대 관리자 드로이드"
+ gpm_precursor_crashed_spacestation_discovery_2:0 "초광도 스테이션 구역"
+ gpm_precursor_battleground_ruins_discovery:0 "고대 화기 은닉처"
+ gpm_precursor_battleground_ruins_discovery_2:0 "휴대용 창"
+ gpm_precursor_outpost_ruins_discovery:0 "수수께끼의 함선 센서"
+ gpm_precursor_outpost_ruins_discovery_2:0 "완벽한 홀로그램 투사기"
+ gpm_precursor_harbor_ruins_discovery:0 "비상 생존 복제기"
+ gpm_precursor_harbor_ruins_discovery_2:0 "화석화된 잔해"
+ gpm_precursor_ruins_discovery:0 "고대 장신구 수집품"
+ gpm_precursor_ruins_discovery_2:0 "완벽하게 보존된 표본"
+ gpm_precursor_obelisks_discovery:0 "고대 방첨탑"
+ gpm_precursor_obelisks_discovery_2:0 "수정 방첨탑"
+ gpm_very_hot_core_discovery:0 "초고온 핵 발견"
+ gpm_very_hot_core_discovery_2:0 "초고온 핵 발견"
+ gpm_gaia_world_discovery:0 "맛있는 식물"
+ gpm_gaia_world_discovery_2:0 "영원의 꽃"
+ gpm_holy_world_discovery:0 "빛나는 컵"
+ gpm_holy_world_discovery_2:0 "불가사의한 메시지"
+ gpm_floating_islands_discovery:0 "열 발전 수정"
+ gpm_floating_islands_discovery_2:0 "자기 흑요석 파편"
+ gpm_ruined_battlefield_discovery:0 "고대 악기"
+ gpm_ruined_battlefield_discovery_2:0 "불발된 분열 수류탄"
+ gpm_spaceship_graveyard_discovery:0 "추락한 타격기"
+ gpm_spaceship_graveyard_discovery_2:0 "녹은 선체"
+ gpm_artificial_water_discovery:0 "나노수 샘플"
+ gpm_artificial_water_discovery_2:0 "정제된 나노수 샘플"
+ gpm_android_pleasure_palace_discovery:0 "꽂아서 즐기는 로봇 부품"
+ gpm_android_pleasure_palace_discovery_2:0 "개인용 유흥 로봇"
+ gpm_ancient_temple_discovery:0 "완벽하게 보존된 고대 두루마리"
+ gpm_ancient_temple_discovery_2:0 "읽을 수 없는 책"
+ gpm_crystal_moon_palace_discovery:0 "공명토"
+ gpm_crystal_moon_palace_discovery_2:0 "반투명 석질 동물"
+ gpm_plasmoid_life_discovery:0 "살아있는 플라즈마 추출물"
+ gpm_plasmoid_life_discovery_2:0 "살아있는 플라즈마 자료"
+ gpm_temple_of_the_ancient_one_discovery:0 "고대 존재의 관심"
+ gpm_temple_of_the_ancient_one_discovery_2:0 "어두운 비밀"
+ gpm_proto_forests_discovery:0 "원시행성 생명체"
+ gpm_proto_forests_discovery_2:0 "원시 아메바"
+ gpm_hiveworld_discovery:0 "화석화된 갑각"
+ gpm_hiveworld_discovery_2:0 "동면중인 '크립'"
+ gpm_arachnophobia_discovery:0 "길들여진 소형 거미"
+ gpm_arachnophobia_discovery_2:0 "시조 거미"
+ gpm_giant_worm_discovery:0 "거대 모래벌레 알"
+ gpm_giant_worm_discovery_2:0 "거대 모래벌레 피부 조각"
+ gpm_artificial_core_discovery:0 "인공 핵 발견"
+ gpm_artificial_core_discovery_2:0 "인공 핵 발견"
+ gpm_surface_of_bones_discovery:0 "죽음의 행성"
+ gpm_surface_of_bones_discovery_2:0 "죽음의 행성"
+ gpm_strange_alien_eggs_discovery:0 "휴면기의 외계종 알"
+ gpm_strange_alien_eggs_discovery_2:0 "죽은 외계 거머리"
+ gpm_mushroom_forest_discovery:0 "무해한 버섯 무리"
+ gpm_mushroom_forest_discovery_2:0 "매혹적인 버섯"
+ gpm_terraform_speed_one:0 "행성 공학"
+ gpm_terraform_speed_two:0 "행성 공학"
+ gpm_terraform_speed_three:0 "행성 공학"
+ 
+ #######################################
+ #### Debug
+ #######################################
+ 
+ #######################################
+ #### Districts
+ #######################################
+ district_gpm_precursor_housing:0 "복구된 도시지구"
+ district_gpm_precursor_housing_desc:0 "한때 위대했던 도시 구역의 수리된 부분입니다."
+ district_gpm_precursor_science:0 "고고학 지구"
+ district_gpm_precursor_science_desc:0 "중요한 고고학적 유적지로 지적된 무너진 도시 지역입니다."
+ 
+ district_gpm_precursor_science_standard:0 "고고학 지구"
+ district_gpm_precursor_science_standard_plural:0 "고고학 지구"
+ district_gpm_precursor_science_standard_desc:0 "중요한 고고학적 장소로 지정된 구역입니다."
+ mod_district_gpm_precursor_science_standard_max:0 "최대 $district_gpm_precursor_science_standard_plural$"
+ 
+ district_gpm_precursor_manufactorium:0 "복구된 제조지구"
+ district_gpm_precursor_manufactorium_plural:0 "복구된 제조지구"
+ district_gpm_precursor_manufactorium_desc:0 "완전히 복구된 제조지구는 엄청난 양의 제품을 생산할 수 있습니다."
+ mod_district_gpm_precursor_manufactorium_max:0 "최대 $district_gpm_precursor_manufactorium_plural$"
+ 
+ #######################################
+ #### Edicts
+ #######################################
+ edict_gpm_edict_pop_assembly:0 "고대기술 - 기계 조립"
+ edict_gpm_edict_pop_assembly_desc:0 "£minor_artifacts£  §B골동품§!을 사용해 새로운 기계를 더 빠르게 생산합니다. 이 기술은 매우 불안정하여 사용된 골동품을 파괴할 것입니다."
+ edict_gpm_edict_tech_alternatives:0 "고대기술 - 연구 선택지"
+ edict_gpm_edict_tech_alternatives_desc:0 "연구원들이 약간의 £minor_artifacts£  §B골동품§!을 분석해 새로운 것을 배우려 시도할 것입니다."
+ edict_gpm_edict_station_production:0 "고대기술 - 스테이션 생산량"
+ edict_gpm_edict_station_production_desc:0 "채광 스테이션을 약간의 £minor_artifacts£  §B골동품§!을 사용해 강화합니다. 이 기술은 매우 불안정하여 차후 장착된 골동품을 파괴할 것입니다."
+ edict_gpm_edict_alloy_production:0 "고대기술 - 합금 생산"
+ edict_gpm_edict_alloy_production_desc:0 "£minor_artifacts£ §B골동품§!을 사용해 £alloys£ §H합금§! 생산량을 증폭합니다. 이 기술은 매우 불안정하여 사용된 골동품을 파괴할 것입니다."
+ edict_gpm_edict_consumer_goods_production:0 "고대기술 - 소비재 생산"
+ edict_gpm_edict_consumer_goods_production_desc:0 "£minor_artifacts£ §B골동품§!을 사용해 £consumer_goods£ §H소비재§! 생산량을 증폭합니다. 이 기술은 매우 불안정하여 사용된 골동품을 파괴할 것입니다."
+ edict_gpm_edict_exotic_production:0 "고대기술 - 이종 물질 생산"
+ edict_gpm_edict_exotic_production_desc:0 "£minor_artifacts£ §B골동품§!을 사용해 §H이종 물질§! 생산량을 증폭합니다. 이 기술은 매우 불안정하여 사용된 골동품을 파괴할 것입니다."
+ edict_gpm_edict_planet_sensor_range:0 "고대기술 - 감지기 증폭"
+ edict_gpm_edict_planet_sensor_range_desc:0 "£minor_artifacts£ §B골동품§!을 행성과 식민지의 감지기 성능을 일시적으로 증폭하기 위해 사용합니다. 이 기술은 매우 불안정하여 사용된 골동품을 파괴할 것입니다."
+ edict_gpm_edict_terraform_speed:0 "고대기술 - 테라포밍 지식"
+ edict_gpm_edict_terraform_speed_desc:0 "£minor_artifacts£ §B골동품§!을 테라포밍 과정의 가속을 위해 사용합니다. 이 기술은 엄청난 에너지를 한 점에 집중시키기 때문에, 사용된 골동품은 파괴될 것입니다."
+ edict_gpm_edict_armor_regen:0 "고대기술 - 수리용 액체"
+ edict_gpm_edict_armor_regen_desc:0 "£minor_artifacts£ §B골동품§!을 함선 장갑의 재생을 위해 사용합니다."
+ edict_gpm_edict_shield_regen:0 "고대기술 - 보호막 증폭"
+ edict_gpm_edict_shield_regen_desc:0 "£minor_artifacts£ §B골동품§!을 함선 보호막의 재생량 증폭을 위해 사용합니다."
+ edict_gpm_edict_ship_bombard_dmg:0 "고대기술 - 대 행성 탄두"
+ edict_gpm_edict_ship_bombard_dmg_desc:0 "£minor_artifacts£ §B골동품§!을 행성 포격 무기의 파괴력을 향상시키기 위해 사용합니다."
+ edict_gpm_edict_army_boost:0 "고대기술 - 지상군 보급"
+ edict_gpm_edict_army_boost_desc:0 "£minor_artifacts£ §B골동품§!을 기반으로 만든 무기를 지상군에 보급합니다."
+ 
+ #######################################
+ #### Jobs
+ #######################################
+ # Categories
+ pop_cat_gpm_spacer:0 "궤도 추출업자"
+ pop_cat_gpm_spacer_plural:0 "궤도 추출업자"
+ pop_cat_gpm_spacer_desc:0 "이들은 우주에서 여러가지 필요한 물질들을 추출합니다."
+
+ pop_cat_gpm_spacer_specialist:0 "궤도 전문가"
+ pop_cat_gpm_spacer_specialist_plural:0 "궤도 전문가"
+ pop_cat_gpm_spacer_specialist_desc:0 "이들은 궤도상에서 정보와 물질을 수집하는 일을 합니다."
+ 
+ # Jobs
+ job_gpm_bunker_drone:0 "선구자 방어시설 드론 관리자"
+ job_gpm_bunker_drone_plural:0 "선구자 방어시설 드론 관리자"
+ job_gpm_bunker_drone_desc:0 "첨단 인공지능에 의해 설계된 이 방어망의 복잡성은 놀랍습니다. 모든 개별 방어시설은 자가수복이 가능하여 방어자에게 유리하게 작용하며, 사실상 뚫을 수 없는 벽은 적들이 이곳을 통과하는데 몇 달이 걸린다는 것을 의미합니다. 이 방어시설들이 충분하다면 적의 군대를 무기한으로 저지할 수 있을 것입니다. 또한 자가수복이 가능한 경계 드론을 도입함으로써 방어망의 모든 시설이 잠재적인 침입자를 제거할 수 있도록 할 수 있습니다."
+ job_gpm_bunker_drone_effect_desc:0 "£job_gpm_bunker_drone£ $job_gpm_bunker_drone_plural$는 £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!을 늘려주고 £job_gpm_bunker_drone£ §Y방위군§!을 생성합니다."
+ 
+ job_gpm_bunker_army:0 "선구자 방어시설 주둔 군인"
+ job_gpm_bunker_army_plural:0 "선구자 방어시설 주둔 군인"
+ job_gpm_bunker_army_desc:0 "첨단 인공지능에 의해 설계된 이 방어망의 복잡성은 놀랍습니다. 모든 개별 방어시설은 자가수복이 가능하여 방어자에게 유리하게 작용하며, 사실상 뚫을 수 없는 벽은 적들이 이곳을 통과하는데 몇 달이 걸린다는 것을 의미합니다. 이 방어시설들이 충분하다면 적의 군대를 무기한으로 저지할 수 있을 것입니다."
+ job_gpm_bunker_army_effect_desc:0 "£job_gpm_bunker_army£ $job_gpm_bunker_army_plural$은 £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!을 늘려주고 £job_gpm_bunker_army£ §Y방위군§!을 생성합니다."
+
+ job_gpm_moon_miner:0 "위성 채광업자"
+ job_gpm_moon_miner_plural:0 "위성 채광업자"
+ job_gpm_moon_miner_desc:0 "위성에서 쓸만한 광물들을 채취하는 것은 힘들지만 가치있는 일입니다."
+ job_gpm_moon_miner_effect_desc:0 "£job_gpm_moon_miner£ $job_gpm_moon_miner_plural$는 £minerals£ §Y$minerals$§!을 생산하지만 약간의 £consumer_goods£ §Y$consumer_goods$§!를 소모합니다."
+ 
+ job_gpm_moon_miner_drone:0 "위성 채광 드론"
+ job_gpm_moon_miner_drone_plural:0 "위성 채광 드론"
+ job_gpm_moon_miner_drone_desc:0 "$job_gpm_moon_miner_desc$"
+ job_gpm_moon_miner_drone_effect_desc:0 "£job_gpm_moon_miner_drone£ $job_gpm_moon_miner_drone_plural$는 £minerals£ §Y$minerals$§!을 생산하지만 약간의 £energy£ §Y$energy$§!를 소모합니다."
+
+ job_gpm_asteroid_miner:0 "소행성 채광업자"
+ job_gpm_asteroid_miner_plural:0 "소행성 채광업자"
+ job_gpm_asteroid_miner_desc:0 "가장 위험한 직업 중 하나로 포획한 소행성으로부터 물질을 추출하는 직업입니다. 작은 실수도 대형사고가 될 수 있습니다."
+ job_gpm_asteroid_miner_effect_desc:0 "£job_gpm_asteroid_miner£ $job_gpm_asteroid_miner_plural$는 £minerals£ §Y$minerals$§!을 생산하지만 약간의 £consumer_goods£ §Y$consumer_goods$§!를 소모합니다."
+
+ job_gpm_asteroid_miner_drone:0 "소행성 채광 드론"
+ job_gpm_asteroid_miner_drone_plural:0 "소행성 채광 드론"
+ job_gpm_asteroid_miner_drone_desc:0 "$job_gpm_asteroid_miner_desc$"
+ job_gpm_asteroid_miner_drone_effect_desc:0 "£job_gpm_asteroid_miner_drone£ $job_gpm_asteroid_miner_drone_plural$는 £minerals£ §Y$minerals$§!을 생산하지만 약간의 £energy£ §Y$energy$§!를 소모합니다."
+
+ job_gpm_orbital_researcher:0 "궤도 연구자"
+ job_gpm_orbital_researcher_plural:0 "궤도 연구자"
+ job_gpm_orbital_researcher_desc:0 "과학적 발견은 언제나 우리 제국의 등뼈같은 존재였습니다."
+ job_gpm_orbital_researcher_effect_desc:0 "£job_gpm_orbital_researcher£ $job_gpm_orbital_researcher_plural$는 £consumer_goods£ §Y$consumer_goods$§!를 £physics£ £society£ £engineering£ §Y연구 점수§!로 전환합니다."
+
+ job_gpm_orbital_researcher_drone:0 "궤도 연산 드론"
+ job_gpm_orbital_researcher_drone_plural:0 "궤도 연산 드론"
+ job_gpm_orbital_researcher_drone_desc:0 "$job_gpm_orbital_researcher_desc$"
+ job_gpm_orbital_researcher_drone_effect_desc:0 "£job_gpm_orbital_researcher_drone£ $job_gpm_orbital_researcher_drone_plural$는 £energy£ §Y$energy$§!를 £physics£ £society£ £engineering£ §Y연구 점수§!로 전환합니다."
+
+ job_gpm_archaeologist:0 "고고학자"
+ job_gpm_archaeologist_plural:0 "고고학자"
+ job_gpm_archaeologist_desc:0 "모자를 쓰고 채찍을 찬 긍정적인 태도의 고고학자들에겐 아래를 확인하지 않는 돌은 없습니다."
+ job_gpm_archaeologist_effect_desc:0 "£job_gpm_archaeologist£ $job_gpm_archaeologist_plural$는 £consumer_goods£ §Y$consumer_goods$§!를 £physics£ £society£ £engineering£ §Y연구 점수§!로 전환합니다."
+
+ job_gpm_archaeologist_drone:0 "고고학 드론"
+ job_gpm_archaeologist_drone_plural:0 "고고학 드론"
+ job_gpm_archaeologist_drone_desc:0 "$job_gpm_archaeologist_desc$"
+ job_gpm_archaeologist_drone_effect_desc:0 "£job_gpm_archaeologist_drone£ $job_gpm_archaeologist_drone_plural$는 £energy£ §Y$energy$§!를 £physics£ £society£ £engineering£ §Y연구 점수§!로 전환합니다."
+
+ job_gpm_precursor_archaeologist:0 "선구자 고고학자"
+ job_gpm_precursor_archaeologist_plural:0 "선구자 고고학자"
+ job_gpm_precursor_archaeologist_desc:0 "고대 문명 연구에 특화된 고고학자입니다."
+ job_gpm_precursor_archaeologist_effect_desc:0 "£job_gpm_precursor_archaeologist£ $job_gpm_precursor_archaeologist_plural$는 £consumer_goods£ §Y$consumer_goods$§!를 £physics£ £society£ £engineering£ §Y연구 점수§!와 £minor_artifacts£ §Y골동품§!으로 전환합니다."
+
+ job_gpm_precursor_archaeologist_drone:0 "선구자 고고학 드론"
+ job_gpm_precursor_archaeologist_drone_plural:0 "선구자 고고학 드론"
+ job_gpm_precursor_archaeologist_drone_desc:0 "$job_gpm_precursor_archaeologist_desc$"
+ job_gpm_precursor_archaeologist_drone_effect_desc:0 "£job_gpm_precursor_archaeologist_drone£ $job_gpm_precursor_archaeologist_drone_plural$은 £energy£ §Y$energy$§!를 £physics£ £society£ £engineering£ §Y연구 점수§!와 and £minor_artifacts£ §Y골동품§!으로 전환합니다."
+
+ job_gpm_orbital_alloy_miner:0 "궤도 합금 추출업자"
+ job_gpm_orbital_alloy_miner_plural:0 "궤도 합금 추출업자"
+ job_gpm_orbital_alloy_miner_desc:0 "위험한 우주에서 귀중한 합금을 추출하는 숙련된 기술자입니다."
+ job_gpm_orbital_alloy_miner_effect_desc:0 "£job_gpm_orbital_alloy_miner£ $job_gpm_orbital_alloy_miner_plural$는 £alloy£ §Y$alloys$§!을 생산하지만 약간의 £consumer_goods£ §Y$consumer_goods$§!를 소모합니다."
+
+ job_gpm_orbital_alloy_miner_drone:0 "궤도 합금 추출 드론"
+ job_gpm_orbital_alloy_miner_drone_plural:0 "궤도 합금 추출 드론"
+ job_gpm_orbital_alloy_miner_drone_desc:0 "$job_gpm_orbital_alloy_miner_desc$"
+ job_gpm_orbital_alloy_miner_drone_effect_desc:0 "£job_gpm_orbital_alloy_miner_drone£ $job_gpm_orbital_alloy_miner_drone_plural$는 £alloy£ §Y$alloys$§!을 생산하지만 약간의 £energy£ §Y$energy$§!를 소모합니다."
+
+ job_gpm_orbital_mineral_miner:0 "궤도 채광업자"
+ job_gpm_orbital_mineral_miner_plural:0 "궤도 채광업자"
+ job_gpm_orbital_mineral_miner_desc:0 "행성 표면에서 값싸지만 제국에 꼭 필요한 일반적인 광물들을 채굴하는 전문적인 직업입니다."
+ job_gpm_orbital_mineral_miner_effect_desc:0 "£job_gpm_orbital_mineral_miner£ $job_gpm_orbital_mineral_miner_plural$는 £minerals£ §Y$minerals$§!을 생산하지만 약간의 £consumer_goods£ §Y$consumer_goods$§!를 소모합니다."
+
+ job_gpm_orbital_mineral_miner_drone:0 "궤도 채광 드론"
+ job_gpm_orbital_mineral_miner_drone_plural:0 "궤도 채광 드론"
+ job_gpm_orbital_mineral_miner_drone_desc:0 "$job_gpm_orbital_mineral_miner_desc$"
+ job_gpm_orbital_mineral_miner_drone_effect_desc:0 "£job_gpm_orbital_mineral_miner_drone£ $job_gpm_orbital_mineral_miner_drone_plural$는 £minerals£ §Y$minerals$§!을 생산하지만 약간의 £energy£ §Y$energy$§!를 소모합니다."
+
+ job_gpm_orbital_particle_collector:0 "궤도 입자 채취업자"
+ job_gpm_orbital_particle_collector_plural:0 "궤도 입자 채취업자"
+ job_gpm_orbital_particle_collector_desc:0 "이 전문적인 직업은 극한의 환경 속에서도 쓸만한 입자들을 채취합니다."
+ job_gpm_orbital_particle_collector_effect_desc:0 "£job_gpm_orbital_particle_collector£ $job_gpm_orbital_particle_collector_plural$는 £energy£ §Y$energy$§!를 생산합니다."
+
+ job_gpm_orbital_particle_collector_drone:0 "궤도 입자 채취 드론"
+ job_gpm_orbital_particle_collector_drone_plural:0 "궤도 입자 채취 드론"
+ job_gpm_orbital_particle_collector_drone_desc:0 "$job_gpm_orbital_particle_collector_desc$"
+ job_gpm_orbital_particle_collector_drone_effect_desc:0 "£job_gpm_orbital_particle_collector_drone£ $job_gpm_orbital_particle_collector_drone_plural$은 £energy£ §Y$energy$§!를 생산합니다."
+
+ job_gpm_orbital_spicer:0 "궤도 향신료 채취업자"
+ job_gpm_orbital_spicer_plural:0 "궤도 향신료 채취업자"
+ job_gpm_orbital_spicer_desc:0 "향신료는 은하에 흐르는 피입니다. 우리는 꼭 이것을 모아야 합니다."
+ job_gpm_orbital_spicer_effect_desc:0 "£job_gpm_orbital_spicer£ $job_gpm_orbital_spicer_plural$는 £energy£ §Y$energy$§!를 생산합니다."
+ 
+ job_gpm_orbital_spicer_drone:0 "궤도 향신료 채집 드론"
+ job_gpm_orbital_spicer_drone_plural:0 "궤도 향신료 채집 드론"
+ job_gpm_orbital_spicer_drone_desc:0 "$job_gpm_orbital_spicer_desc$"
+ job_gpm_orbital_spicer_drone_effect_desc:0 "£job_gpm_orbital_spicer_drone£ $job_gpm_orbital_spicer_drone_plural$은 £energy£ §Y$energy$§!를 생산합니다."
+
+ job_gpm_android_entertainer:0 "'유흥' 방문자"
+ job_gpm_android_entertainer_plural:0 "'유흥' 방문자"
+ job_gpm_android_entertainer_desc:0 "정신은 굳건하지만 육신은 나약합니다."
+ job_gpm_android_entertainer_effect_desc:0 "£job_gpm_android_entertainer£ $job_gpm_android_entertainer_plural$는 £amenities£ §Y$AMENITIES$§!와 £trade_value£ §Y$trade_value$§!, 그리고 £unity£ §Y$unity$§!를 생산합니다."
+ 
+ #######################################
+ #### Messages
+ #######################################
+ gpm_relics.1001.name:0 "네 것이었던 것은 이제 우리의 것이다"
+ gpm_relics.1001.desc:0 "우리는 성공적으로 제국을 장악했고 그들의 방대한 자원, 문화예술, 그리고 유물들을 수집할 준비가 되었습니다."
+ gpm_relics.1101.name:0 "정복의 전리품"
+ gpm_relics.1101.desc:0 "우리의 영향력을 이용하여 성공적으로 [from.GetName] 제국을 정복했습니다. 이제 우리는 그들의 전리품을 손에 넣을 수 있습니다."
+ gpm_relics.1201.name:0 "네 모든 유물은 우리의 것이다"
+ gpm_relics.1201.desc:0 "[from.GetName] 제국의 통합으로, 이제 우리는 그들의 방대한 골동품 컬렉션을 장악했습니다."
+ 
+ GPM_MESSAGE_NEIGHBOUR_RELIC_RUMOUR_TITLE:0 "외계 제국의 유물 발견"
+ GPM_MESSAGE_NEIGHBOUR_RELIC_RUMOUR_DESC:0 "$COUNTRY|H$이(가) §H고대 유물§!을 발견했다는 소문이 돌고 있습니다."
+
+ GPM_MESSAGE_VALUABLE_WORLD_TITLE:0 "가치있는 행성 발견됨"
+ GPM_MESSAGE_VALUABLE_WORLD_DESC:0 "$PLANET|H$이(가) §H가치있는 행성§!임이 밝혀졌습니다. 적합한 기술만 있다면 이 행성을 §H테라포밍§!할 수 있을 것입니다."
+
+ GPM_MESSAGE_WONDROUS_WORLD_TITLE:0 "경이로운 행성 발견됨"
+ GPM_MESSAGE_WONDROUS_WORLD_DESC:0 "$PLANET|H$이(가) §H경이로운 행성§!임이 밝혀졌습니다."
+
+
+ ######################################
+ #### Modifier localisations
+ #######################################
+ mod_planet_districts_minerals_cost_add:0 "행성 지구 £minerals£ 광물 비용"
+ mod_planet_buildings_minerals_cost_add:0 "행성 건물 £minerals£ 광물 비용"
+ mod_planet_buildings_minerals_cost_mult:0 "행성 건물 £minerals£ 광물 비용"
+ mod_ship_components_alloys_cost_add:0 "함선 부품 £alloys£ 합금 비용"
+ mod_ship_components_alloys_cost_mult:0 "함선 부품 £alloys£ 합금 비용"
+ mod_ship_upgrades_alloys_cost_mult:0 "함선 업그레이드 £alloys£ 합금 비용"
+ mod_starbase_outpost_influence_cost_add:0 "전초기지 £influence£ 영향력 비용"
+ mod_station_observer_missions_society_research_produces_mult:0 "원시문명 관측소 £society_research£ 사회학 연구"
+ mod_stations_energy_upkeep_mult:0 "스테이션 £energy£ 에너지 유지비"
+ mod_planet_buildings_energy_upkeep_mult:0 "건물 £energy£ 에너지 유지비"
+ mod_planet_districts_energy_upkeep_mult:0 "지구 £energy£ 에너지 유지비"
+ mod_planet_districts_time_cost_mult:0 "지구 £time£ 건설 시간"
+ mod_ship_upgrades_time_cost_mult:0 "함선 업그레이드 £time£ 시간:"
+ mod_planet_pops_food_upkeep_mult:0 "PoP £food£ 식량 유지비"
+ mod_edicts_influence_cost_mult:0 "시행령 £influence£ 영향력 비용:"
+ MOD_SHIP_ARMOR_ADD:0 "함선 £armor£ 장갑 최대치"
+ MOD_SHIP_ARMOR_MULT:0 "함선 £armor£ 장갑 최대치"
+ mod_pop_ethic_fanatic_spiritualist_attraction_mult:0 "광적인 정신주의 윤리관 선호"
+ mod_planet_districts_minerals_cost_mult: "지구 £minerals£ 광물 비용"
+ mod_ship_sections_alloys_cost_mult:0 "함선 구획 £alloys£ 합금 비용"
+ mod_country_base_physics_research_produces_add:0 "월간 £physics_research£ 물리학 연구"
+ mod_country_base_society_research_produces_add:0 "월간 £society_research£ 사회학 연구"
+ mod_country_base_engineering_research_produces_add:0 "월간 £engineering_research£ 공학 연구"
+ mod_country_base_minor_artifacts_produces_add:0 "월간 £minor_artifacts£ 골동춤"
+ mod_country_base_nanites_produces_add:0 "월간 £nanites£ 나노봇"
+ mod_ship_sections_alloy_cost_multi:0 "함선 구획 £alloys£ 합금 비용"
+ mod_planet_refiners_exotic_gases_produces_add:0 "£job_gas_refiner£ 가스 정제사가 생산하는 £exotic_gases£ 이종 가스"
+ mod_planet_chemists_volatile_motes_produces_add:0 "£job_chemist£ 화학자가 생산하는 £volatile_motes£ 불안정 분말"
+ mod_planet_translucers_rare_crystals_produces_add:0 "£job_translucer£ 수정 합성사가 생산하는 £rare_crystals£ 희귀 수정"
+ mod_planet_translucers_rare_crystals_produces_mult:0 "£job_translucer£ 수정 합성사가 생산하는 £rare_crystals£ 희귀 수정"
+ mod_planet_jobs_specialist_rare_crystals_produces_mult:0 "전문가가 생산하는 £rare_crystals£ 희귀 수정"
+ mod_planet_jobs_specialist_volatile_motes_produces_mult:0 "전문가가 생산하는 £volatile_motes£ 불안정 분말"
+ mod_planet_jobs_specialist_exotic_gases_produces_mult:0 "전문가가 생산하는 £exotic_gases£ 이종 가스"
+ mod_ship_upgrades_cost_mult:0 "함선 업그레이드 비용"
+ mod_weapon_role_anti_armor_weapon_damage_mult:0 "대 장갑 무기 공격력" 
+ mod_weapon_role_anti_shield_weapon_damage_mult:0 "대 보호막 무기 공격력" 
+ mod_planet_soldiers_unity_produces_add:0 " £job_soldier£ 군인이 생산하는 £unity£ 통합력"
+ mod_starbases_energy_upkeep_mult:0 "우주항 £energy£ 에너지 유지비"
+ mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "거점 방어 무기 발사 속도"
+ mod_shipclass_starbase_build_speed_mult:0 "우주항 £time£ 건설 속도"
+ mod_country_resource_max_energy_add:0 "에너지 크레딧 저장 최대치"
+ mod_job_gpm_bunker_drone_add:0 "$job_gpm_bunker_drone$ 직업"
+ mod_job_gpm_bunker_army_add:0 "$job_gpm_bunker_army$ 직업"
+ mod_job_gpm_moon_miner_add:0 "$job_gpm_moon_miner$ 직업"
+ mod_job_gpm_moon_miner_drone_add:0 "$job_gpm_moon_miner_drone$ 직업"
+ mod_job_gpm_asteroid_miner_add:0 "$job_gpm_asteroid_miner$ 직업"
+ mod_job_gpm_asteroid_miner_drone_add:0 "$job_gpm_asteroid_miner_drone$ 직업"
+ mod_job_gpm_orbital_researcher_add:0 "$job_gpm_orbital_researcher$ 직업"
+ mod_job_gpm_orbital_researcher_drone_add:0 "$job_gpm_orbital_researcher_drone$ 직업"
+ mod_job_gpm_archaeologist_add:0 "$job_gpm_archaeologist$ 직업"
+ mod_job_gpm_archaeologist_drone_add:0 "$job_gpm_archaeologist_drone$ 직업"
+ mod_job_gpm_precursor_archaeologist_add:0 "$job_gpm_precursor_archaeologist$ 직업"
+ mod_job_gpm_precursor_archaeologist_drone_add:0 "$job_gpm_precursor_archaeologist_drone$ 직업"
+ mod_job_gpm_orbital_alloy_miner_add:0 "$job_gpm_orbital_alloy_miner$ 직업"
+ mod_job_gpm_orbital_alloy_miner_drone_add:0 "$job_gpm_orbital_alloy_miner_drone$ 직업"
+ mod_job_gpm_orbital_mineral_miner_add:0 "$job_gpm_orbital_mineral_miner$ 직업"
+ mod_job_gpm_orbital_mineral_miner_drone_add:0 "$job_gpm_orbital_mineral_miner_drone$ 직업"
+ mod_job_gpm_orbital_particle_collector_add:0 "$job_gpm_orbital_particle_collector$ 직업"
+ mod_job_gpm_orbital_particle_collector_drone_add:0 "$job_gpm_orbital_particle_collector_drone$ 직업"
+ mod_job_gpm_orbital_spicer_add:0 "$job_gpm_orbital_spicer$ 직업"
+ mod_job_gpm_orbital_spicer_drone_add:0 "$job_gpm_orbital_spicer_drone$ 직업"
+ mod_job_gpm_android_entertainer_add:0 "$job_gpm_android_entertainer$ 직업"
+ mod_megastructures_alloys_cost_mult:0 "거대 건축물 합금 비용"
+ mod_country_base_alloys_produces_add:0 "월간 £alloys£ 합금"
+ mod_country_base_consumer_goods_produces_add:0 "월간 £consumer_goods£ 소비재"
+ mod_job_gpm_orbital_spicer_per_pop:0 "$VALUE$ 팝 당 §G+1§! $job_gpm_orbital_spicer$ 직업"
+ mod_job_gpm_orbital_spicer_drone_per_pop:0 "$VALUE$ 팝 당 §G+1§! $job_gpm_orbital_spicer_drone$ 직업"
+ mod_planet_bureaucrats_unity_produces_add:0 "£job_bureaucrat£ 관료가 생산하는 £unity£ 통합력"
+ mod_planet_necro_apprentices_produces_mult:0 "£job_necro_apprentice£ $job_necro_apprentice_plural$ 산출량"
+ mod_planet_merchants_produces_mult:0 "£job_merchant£ $job_merchant_plural$ 산출량"
+ mod_planet_entertainers_produces_mult:0 "£job_entertainer£ $job_entertainer_plural$ 산출량"
+ mod_planet_necromancers_produces_mult:0 "£job_necromancer£ $job_necromancer_plural$ 산출량"
+ mod_planet_telepaths_produces_mult:0 "£job_telepath£ $job_telepath_plural$ 산출량"
+ mod_planet_metallurgists_minerals_upkeep_add:0 "£job_foundry£ 금속공학자 광물 유지비"
+ mod_planet_artisans_minerals_upkeep_add:0 "£job_artisan£ 직공 광물 유지비"
+ 
+ #######################################
+ #### Opinions
+ #######################################
+ opinion_respected_species:0 "관심받는 아이들"
+ opinion_respected_species_desc:0 "어떠한 이유에서인지 이 몰락 제국이 당신에게 호감을 가지게 되었습니다. 그들은 당신 종족의 기원에 관심이 많은 것 같습니다."
+ opinion_intellectual_promise:0 "지적 가능성"
+ 
+ #######################################
+ #### Policies
+ #######################################
+ policy_gpm_exploration_policy:0 "탐사 정책"
+ policy_gpm_exploration_policy_desc:0 "이 정책은 우리 과학선이 탐사할 때 사용할 절차를 결정합니다."
+ gpm_scientific_curiosity:0 "원정 탐사대"
+ gpm_scientific_curiosity_desc:0 "과학선으로부터 보내진 몇개의 원정 탐사팀은 우리가 마주치는 모든 행성의 표면을 지도화하고 조사합니다.\n\n§E조사로 얻는§! §YExperience§! §E경험치가§! §Y100%§! §E증가합니다. 그리고 탐사 발견으로부터§! §Y1§!§E개의 추가적인§! §Y보상§!§E을 획득합니다.§!\n\n"
+ gpm_to_boldly_go:0 "대담하게 나아가는"
+ gpm_to_boldly_go_desc:0 "과학선은 행성을 탐사할 때 오직 한 원정 탐사팀만 보낼 것입니다.\n"
+ gpm_long_range_scans:0 "궤도 지도화"
+ gpm_long_range_scans_desc:0 "과학선이 행성을 탐사할 때 원정 탐사팀을 파견하지 않습니다. 우리에게 필요한 것은 마주치는 모든 행성에 대한 빠른 스캔입니다. \n\n§R탐사 발견 없음§!\n\n"
+ 
+ #######################################
+ #### Planet Classes
+ #######################################
+ 
+ pc_gpm_precursor_tomb:0 "선구자 무덤 행성"
+ #######################################
+ #### R.E.S.
+ #######################################
+ pc_gpm_res:0 "채광 지점"
+ pc_gpm_res_anomaly_name:0 "고리"
+ pc_gpm_res_resource_name:0 "풍부한 자원"
+ pc_gpm_res_exploited_name:0 "자원 추출 지점" 
+ pc_gpm_res_tiyanki_name:0 "티얀키 먹이터"
+ pc_gpm_res_desc:0 "이 행성 고리는 즉시 채취할 수 있는 상당한 양의 쓸만한 자원들을 가지고 있습니다."
+ 
+ #######################################
+ #### Ships
+ #######################################
+ gpm_manufactorium_ship:0 "공장 함선"
+ gpm_manufactorium_ship_plural:0 "공장 함선들"
+ 
+ gpm_precursor_destroyer:0 "선구자 함선"
+ gpm_precursor_destroyer_plural:0 "선구자 함선들" 
+ 
+ gpm_crystal_ship_large_blue_elite:0 "거대 수정 괴물"
+ gpm_crystal_ship_large_blue_elite_plural:0 "거대 수정 괴물들"
+ gpm_crystal_ship_large_blue_elite_section:0 " "
+
+ gpm_crystal_ship_large_green_elite:0 "거대 수정 괴물"
+ gpm_crystal_ship_large_green_elite_plural:0 "거대 수정 괴물들"
+ gpm_crystal_ship_large_green_elite_section:0 " "
+
+ gpm_crystal_ship_large_yellow_elite:0 "거대 수정 괴물"
+ gpm_crystal_ship_large_yellow_elite_plural:0 "거대 수정 괴물들"
+ gpm_crystal_ship_large_yellow_elite_section:0 " "
+
+ gpm_crystal_ship_large_red_elite:0 "거대 수정 괴물"
+ gpm_crystal_ship_large_red_elite_plural:0 "거대 수정 괴물들"
+ gpm_crystal_ship_large_red_elite_section:0 " "
+ 
+ #######################################
+ #### Ship Components
+ ####################################### 
+ GPM_ENIGMATIC_POWER_RELAY:0 "수수께끼의 계전기"
+ GPM_ENIGMATIC_POWER_RELAY_DESC:0 "과열이나 과부하 없이 방대한 양의 에너지를 전달할 수 있는 첨단 계전기입니다."
+ 
+ GPM_SINGULARITY_MATRIX:0 "특이점 매트릭스"
+ GPM_SINGULARITY_MATRIX_DESC:0 "입력된 질문과 문제에 대한 답을 어떻게든 만들어 내는 이해할 수 없을 정도로 복잡한 양전자 나노와이어의 매트릭스입니다." 
+ gpm_singularity_matrix_tt:0 "생산량: £physics_research£2 £society_research£2 £engineering_research£2\n유지비: £energy£§R-2§!"
+ 
+ GPM_ORBITAL_FABRICATOR:0 "함내 제조소"
+ GPM_ORBITAL_FABRICATOR_DESC:0 "자원을 천천히 생산할 수 있는 고대의 이동식 제조소입니다." 
+ gpm_orbital_fabricator_tt:0 "생산량: £alloys£ 2"
+ 
+ #######################################
+ #### Starbase Buildings and Modules
+ #######################################
+ sm_gpm_precursor_shipyards_uplink:0 "선구자 조선소 업링크"
+ sm_gpm_precursor_shipyards_uplink_desc:0 "이 특별히 설계된 업링크는 항성기지와 고대 선구자 조선소를 연결합니다. 이를 통해 선구자 조선소에서 우리 함선의 건조를 진행할 수 있습니다."
+ 
+ #######################################
+ #### Start Menu
+ #######################################
+ gpm_start_menu.1.name:0 "Guilli's 플래닛 모디파이어"
+ gpm_start_menu.1.desc:0 "모든 행성에 생성할 모디파이어의 수를 선택하십시오. 이 옵션은 비활성화된 경우를 제외하고 링월드, 거주지, 테라포밍 후 생성되는 모디파이어에도 영향을 미칩니다.\n\n§h조언:§!\n  §Y- 먼저 원하는 옵션을 선택하십시오.§!\n  §Y- 모디파이어는 게임 내 시간으로 2에서 5일 사이에 활성화될 것입니다.§!\n  §Y- 게임 내 시간이 흐르기 전에 미리 과학선에게 탐사 명령을 내려두고 기다리십시오.\n\n§h선택 후 행성에 모디파이어를 생성하는 동안 일시적으로 게임이 느려지거나 정지할 수 있습니다.§!"
+
+ # §HThe mod might takes a few moments after unpausing to spawn everything during which the game may act slow or freeze for a second.§!
+
+ gpm_start_menu.1.START:0 "게임 시작"
+ gpm_start_menu.1.STARTTT:0 "이 버튼으로 게임이 시작될 것이며 선택한 설정이 모두 적용될 것입니다. 게임을 시작하면 이미 선택된 설정을 변경할 수 없습니다."
+ 
+ gpm_start_menu.1.max_one:0 "매우 적은 행성당 모디파이어 개수: §Y0§!에서 §Y1§!개"
+ gpm_start_menu.1.max_oneTT:0 "행성당 모디파이어 개수의 최솟값과 최대값을 결정합니다.\n-----§H모디파이어 개수§!:-----\n§W 행성당 0-1개§! §G(현재 선택됨)§!\n§L 행성당 0-2개 (적은)§!\n§L 행성당 0-3개 (보통)§!\n§L 행성당 1-3개 (많은)§!"
+
+ # number of modifiers option
+ gpm_start_menu.1.low:0 "적은 행성당 모디파이어 개수: §Y0§!에서 §Y2§!개"
+ gpm_start_menu.1.lowTT:0 "행성당 모디파이어 개수의 최솟값과 최대값을 결정합니다.\n-----§H모디파이어 개수§!:-----\n§L 행성당 0-1개 (매우 적은)§!\n§W 0-2 per planet§! §G(현재 선택됨)§!\n§L 행성당 0-3개 (보통)§!\n§L 행성당 1-3개 (많은)§!"
+
+ gpm_start_menu.1.normal:0 "보통 행성당 모디파이어 개수: §Y0§!에서 §Y3§!개 (§g추천§!)"
+ gpm_start_menu.1.normalTT:0 "행성당 모디파이어 개수의 최솟값과 최대값을 결정합니다.\n-----§H모디파이어 개수§!:-----\n§L 행성당 0-1개 (매우 적은)§!\n§L 행성당 0-2개 (적은)§!\n§W 행성당 0-3개§! §G(현재 선택됨)§!\n§L 행성당 1-3개 (많은)§!"
+
+ gpm_start_menu.1.high:0 "많은 행성당 모디파이어 개수: §Y1§!에서 §Y3§!개"
+ gpm_start_menu.1.highTT:0 "행성당 모디파이어 개수의 최솟값과 최대값을 결정합니다.\n-----§H모디파이어 개수§!:-----\n§L 행성당 0-1개 (매우 적은)§!\n§L 행성당 0-2개 (적은)§!\n§L 행성당 0-3개 (보통)§!\n§W 행성당 1-3개§! §G(현재 선택됨)§!"
+ 
+ # age of galaxy option
+ 
+ gpm_start_menu.1.young_galaxy_age:0 "§Y은하 나이:§! 젊음"
+ gpm_start_menu.1.young_galaxy_ageTT:0 "은하의 나이를 결정하는 설정입니다. 나이에 따라 행성 모디파이어의 발생 가능성이 조정되며, 젊은 은하는 폐허와 이전 문명의 흔적이 적게 생성됩니다..\n-----§H은하 나이:§!:-----\n§W 젊음§! §G(현재 선택됨)§!\n§L 보통§! \n§L 늙음§!"
+ 
+ gpm_start_menu.1.default_galaxy_age:0 "§Y은하 나이:§! 보통"
+ gpm_start_menu.1.default_galaxy_ageTT:0 "은하의 나이를 결정하는 설정입니다. 나이에 따라 행성 모디파이어의 발생 가능성이 조정되며, 보통 나이의 은하는 폐허와 이전 문명의 흔적이 평범하게 생성됩니다.\n-----§H은하 나이:§!:-----\n§L 젊음§!\n§W 보통 §G(현재 선택됨)§!§!\n§L 늙음§!"
+ 
+ gpm_start_menu.1.old_galaxy_age:0 "§Y은하 나이:§! 늙음"
+ gpm_start_menu.1.old_galaxy_ageTT:0 "은하의 나이를 결정하는 설정입니다. 나이에 따라 행성 모디파이어의 발생 가능성이 조정되며, 늙은 은하는 폐허와 이전 문명의 흔적이 더 많이 생성됩니다.\n-----§H은하 나이:§!:-----\n§L 젊음§! \n§L 보통§! \n§W 늙음§G(현재 선택됨)§!"
+
+ gpm_start_menu.1.default_scaling:0 "§Y행성 크기 비례:§! 켜짐"
+ gpm_start_menu.1.default_scalingTT:0 "§H클릭하여 변경합니다§! 행성 모디파이어 규모가 행성 크기에 따라 결정됩니다. §H현재 행성 크기 비례 모디파이어§! : §G켜짐§!"
+
+ gpm_start_menu.1.scaling_off:0 "§Y행성 크기 비례:§! 꺼짐"
+ gpm_start_menu.1.scaling_offTT:0 "§H클릭하여 변경합니다§! 행성 모디파이어 규모가 행성 크기에 따라 결정됩니다. §H현재 행성 크기 비례 모디파이어§! : §R꺼짐§!"
+ 
+ # various options
+ gpm_start_menu.1.options:0 "£options_icon  §Y설정§! £options_icon"
+ gpm_start_menu.1.optionsTT:0 "Guilli's 플래닛 모디파이어 모드의 다양한 선택지. 모드의 기능을 활성화, 비활성화할 수 있습니다.§Y모디파이어 수를 설정하기 전에 먼저 이곳에서 원하는 옵션을 선택해주세요."
+
+ gpm_start_menu.2.enabled_homeworld:0 "£options_icon  §G수도성 모디파이어 활성화§!"
+ gpm_start_menu.2.enabled_homeworldTT:0 "§H수도성 모디파이어를 활성화하려면 클릭하십시오.§!\n수도성에 무작위의 행성 모디파이어가 생성됩니다."
+ gpm_start_menu.2.disable_homeworld:0 "£options_icon  §R수도성 모디파이어 비활성화§!"
+ gpm_start_menu.2.disable_homeworldTT:0 "§H수도성 모디파이어를 비활성화하려면 클릭하십시오.§!\n수도성에 행성 모디파이어가 생성되는 것을 방지합니다."
+
+ gpm_start_menu.2.disable_precursor:0 "£options_icon  §R선구자 모디파이어 비활성화§!"
+ gpm_start_menu.2.enable_precursor:0 "£options_icon  §G선구자 모디파이어 활성화§!"
+ gpm_start_menu.2.disable_fallen_empire:0 "£options_icon  §R몰락 제국 모디파이어 비활성화§!"
+ gpm_start_menu.2.enable_fallen_empire:0 "£options_icon  §G몰락 제국 모디파이어 활성화§!"
+ gpm_start_menu.2.disable_habitats:0 "£options_icon  §R거주지 모디파이어 비활성화§!"
+ gpm_start_menu.2.enable_habitats:0 "£options_icon  §G거주지 모디파이어 활성화§!"
+ gpm_start_menu.2.disable_ringworlds:0 "£options_icon  §R링월드 모디파이어 비활성화§!"
+ gpm_start_menu.2.enable_ringworlds:0 "£options_icon  §G링월드 모디파이어 활성화§!"
+ gpm_start_menu.2.disable_wonders:0 "£options_icon  §R행성 불가사의 비활성화§!"
+ gpm_start_menu.2.enable_wonders:0 "£options_icon  §G행성 불가사의 활성화§!"
+ gpm_start_menu.2.disable_planetary_rings:0 "£options_icon  §R행성 고리 비활성화§!"
+ gpm_start_menu.2.enable_planetary_rings:0 "£options_icon  §G행성 고리 활성화§!"
+ gpm_start_menu.2.enable_arcane_technology:0 "£options_icon  §G골동품 사용 활성화§!"
+ gpm_start_menu.2.disable_arcane_technology:0 "£options_icon  §R골동품 사용 비활성화§!"
+ gpm_start_menu.2.enable_precursor_ai_chain:0 "£options_icon  §GAI 선구자 이벤트 체인 활성화§!"
+ gpm_start_menu.2.disable_precursor_ai_chain:0 "£options_icon  §RAI 선구자 이벤트 체인 비활성화§!"
+
+ gpm_start_menu.2.disable_precursorTT:0 "§H선구자 모디파이어를 비활성화하려면 클릭하십시오.§!\n선구자 모디파이어의 등장을 방지합니다."
+ gpm_start_menu.2.enable_precursorTT:0 "§H선구자 모디파이어를 활성화하려면 클릭하십시오.§!"
+ gpm_start_menu.2.disable_fallen_empireTT:0 "§H몰락 제국 모디파이어를 비활성화하려면 클릭하십시오.§!\n몰락 제국 모디파이어의 등장을 방지합니다."
+ gpm_start_menu.2.enable_fallen_empireTT:0 "§H몰락 제국 모디파이어를 활성화하려면 클릭하십시오.§!"
+ gpm_start_menu.2.disable_habitatsTT:0 "§H거주지 모디파이어를 비활성화하려면 클릭하십시오.§!\n거주지 모디파이어의 등장을 방지합니다."
+ gpm_start_menu.2.enable_habitatsTT:0 "§H거주지 모디파이어를 활성화하려면 클릭하십시오.§!"
+ gpm_start_menu.2.disable_ringworldsTT:0 "§H링월드 모디파이어를 비활성화하려면 클릭하십시오.§!\n링월드 모디파이어의 등장을 방지합니다."
+ gpm_start_menu.2.enable_ringworldsTT:0 "§H링월드 모디파이어를 활성화하려면 클릭하십시오§!"
+ gpm_start_menu.2.disable_wondersTT:0 "§H행성 불가사의를 비활성화하려면 클릭하십시오.§!\n행성 불가사의와 타일 장애물의 등장을 방지합니다."
+ gpm_start_menu.2.enable_wondersTT:0 "§H행성 불가사의를 활성화하려면 클릭하십시오.§!"
+ gpm_start_menu.2.disable_planetary_ringsTT:0 "§H행성 고리를 비활성화하려면 클릭하십시오.§!\n행성 고리와 그곳에 포함된 풍부한 자원의 등장을 방지합니다."
+ gpm_start_menu.2.enable_planetary_ringsTT:0 "§H행성 고리를 활성화하려면 클릭하십시오.§!"
+ 
+ gpm_start_menu.2.disable_precursor_ai_chainTT:0 "AI의 선구자 이벤트 체인을 §H비활성화§!하려면 클릭하십시오. AI는 선구자 이벤트 체인을 연구할 수 없습니다."
+ gpm_start_menu.2.enable_precursor_ai_chainTT:0 "AI의 선구자 이벤트 체인을 §H활성화§!하려면 클릭하십시오. AI는 선구자 이벤트 체인을 연구할 수 있습니다."
+
+ gpm_start_menu.2.back:0 "§Y주 메뉴로 복귀§!"
+ gpm_start_menu.2.backTT:0 "게임 시작을 위해 주 메뉴로 돌아갑니다."
+ 
+ gpm_start_menu.2.disable_relic_drops:0 "£options_icon  §R모드 유물 금지§!"
+ gpm_start_menu.2.enable_relic_drops:0 "£options_icon  §G모드 유물 허용§!"
+ gpm_start_menu.2.disable_relic_dropsTT:0 "§H이 모드로 추가된 유물을 금지하려면 클릭하십시오.§!\n이 선택으로 모드로 추가된 모든 유물이 은하에 등장하는 것을 막습니다."
+ gpm_start_menu.2.enable_relic_dropsTT:0 "§H이 모드로 추가된 유물을 허용하려면 클릭하십시오.§!"
+ 
+ #######################################
+ #### Techologies
+ #######################################
+ # unused
+ # gpm_tech_space_surveying:0 "Planetary Surveying"
+ # gpm_tech_space_surveying_desc:0 "Unlocks planetary decisions to extract resources on uninhabitable worlds in your colonised solar systems. (TO DO)"
+ # gpm_space_surveying_desc:0 "Unlocks Uninhabitable Planet Decisions"
+ # tech_gpm_artificial_core_discovery:0 ""
+ # tech_gpm_artificial_core_discovery_desc:0 "" 
+ # tech_gpm_artificial_core_discovery_2:0 ""
+ # tech_gpm_artificial_core_discovery_2_desc:0 ""
+ 
+ 
+ gpm_tech_arcane_research:0 "고대기술 연구 협회"
+ gpm_tech_arcane_research_desc:0 "고대 기술을 수집하고 연구하는 전문 연구 협회입니다."
+ 
+ tech_gpm_tb_toxic_gas:0 "대기-화학 중화제"
+ tech_gpm_tb_toxic_gas_desc:0 "대기를 부유하는 유독 가스 구름을 직접적으로 제거하는 것은 어려운 일입니다. 최선의 방법은 대기에 화학 중화제를 쏟아 부어버리는 것 입니다."
+
+ tech_gpm_tb_toxic_gas_hive_mind:0 "광범위한 화학 중화제"
+ tech_gpm_tb_toxic_gas_desc_hive_mind:0 "이 행성 전체에 화학 중화제를 살포하는 것에 노력을 기울일 것입니다."
+ tech_gpm_tb_toxic_gas_machine_intelligence:0 "비부식성 합금"
+ tech_gpm_tb_toxic_gas_desc_machine_intelligence:0 "표준 건축 자재에 특수한 비부식성 재료를 결합하여 건축물이 유독한 환경에서 무한정 버틸 수 있게 합니다."
+
+ tech_gpm_d_unusual_formations:0 "대규모 파괴작업"
+ tech_gpm_d_unusual_formations_desc:0 "이 자연 지형은 원래 구조적으로 불안정하여 폭발물만 있으면 됩니다."
+
+ tech_gpm_d_unusual_formations_machine_intelligence:0 "체계적 정리"
+ tech_gpm_d_unusual_formations_desc_machine_intelligence:0 "이 지형은 구조적으로 다양한 종류의 지형이 배치되어 있습니다. 좀 더 효율적인 통과와 건설을 위해 재정비되어야 합니다."
+
+ tech_gpm_tb_locust_plagues:0 "자연적 천적"
+ tech_gpm_tb_locust_plagues_desc:0 "환경에 무해한 천적을 도입함으로써 메뚜기 떼를 통제할 수 있을 것입니다. 부작용은 없을 것으로 예상됩니다."
+
+ tech_gpm_tb_locust_plagues_hive_mind:0 "체계적 박멸"
+ tech_gpm_tb_locust_plagues_desc_hive_mind:0 "메뚜기 무리와 효율적으로 싸우기 위해서는 그 지역을 부분으로 나누고 밖에서부터 작업해야 합니다. 또한 체계적인 박멸을 위해 전문화된 장비와 생물공학적으로 설계된 천적들이 사용될 것입니다."
+ 
+ tech_gpm_tb_locust_plagues_machine_intelligence:0 "인공 천적"
+ tech_gpm_tb_locust_plagues_desc_machine_intelligence:0 "모든 메뚜기를 박멸하기 위해 세심하게 조작된 기계 천적들을 도입합니다."
+
+ tech_gpm_tb_seasonal_flooding:0 "홍수 관리 전략"
+ tech_gpm_tb_seasonal_flooding_desc:0 "범람 방지 전략은 일반적으로 크게 두 가지 카테고리의 공학적 프로젝트가 포함됩니다. 하드 프로젝트는 과학, 기술 및 무자비한 힘의 조합을 통해 강을 범람하게 하지 못하도록하는 인공 구조물을 건설하는 프로젝트입니다.\n\n 반대인 소프트 프로젝트는 범람으로 인한 위험을 줄이기 위해 천연 자원과 지역 주민의 지식을 사용하는 방법입니다."
+
+ tech_gpm_tb_seasonal_flooding_machine_intelligence:0 "홍수 배수 시스템"
+ tech_gpm_tb_seasonal_flooding_desc_machine_intelligence:0 "인공 분지와 심층 물탱크는 자연적 혹은 인공적으로 발생한 홍수로부터 발생한 물을 저장합니다."
+
+ tech_gpm_d_arachnophobia:0 "장난 아니다"
+ tech_gpm_d_arachnophobia_desc:0 "가능만 하다면야 다시 개척선을 타고 떠날텐데 슬프게도 우리는 그럴 수 없습니다. 그래서 우리는 이 거대한 거미들에 대처를 할겁니다. 이 §r언제나§! 든든한 우리의 친구, 화염방사기로 말이죠."
+
+ tech_gpm_d_arachnophobia_hive_mind:0 "둥지 봉쇄"
+ tech_gpm_d_arachnophobia_desc_hive_mind:0 "거미들의 둥지 주변에 격납 시설을 설치합니다. 거미의 숫자를 관리하기 편한 수준으로 유지할 수 있습니다. 격납 시설 밖의 거미들은 모두 처리할 것입니다."
+ 
+ tech_gpm_d_arachnophobia_machine_intelligence:0 "사이버네틱 거대거미"
+ tech_gpm_d_arachnophobia_desc_machine_intelligence:0 "기계식 제어 임플란트를 거미들의 뇌에 강제로 삽입한다면 이들을 우리 마음대로 다룰 수 있을 것입니다. 심지어는 명령어 하나로 그들을 죽일 수도 있을 것입니다. 일련의 드론 무리가 거미들을 포획, 임플란트 삽입을 위해 동원될 것입니다."
+
+ tech_gpm_d_dunes:0 "사구 제거"
+ tech_gpm_d_dunes_desc:0 "모래 사구 제거 프로젝트에는 식생을 심는 것이 포함됩니다. 언제든지 강한 바람이 씨앗들을 날려 버릴 수 있기 때문에 모래 지역 위로 씨앗을 뿌리는 것은 낭비입니다.\n\n 묘묙을 모래 언덕이나 모래 지역의 움푹 파인 곳에서 심는 것이 행해져야 합니다. 묘목은 습한 환경에서 심어지고 모래 층으로 가볍게 덮어야하며, 다 자란 잔디 들은 깊은 구멍에 심어 바람 저항을 줄여야합니다."
+
+ tech_gpm_precursor_remnants_discovery:0 "비표준 고고학자 장비"
+ tech_gpm_precursor_remnants_discovery_desc:0 "고고학자들이 탐험하고 있는 장소에 따라 자신만의 장비와 보호구를 선택할 수 있도록 하는 것은 성공을 향한 기회를 제공할 것입니다."
+
+ tech_gpm_precursor_remnants_discovery_2:0 "삼중 탐사정 탐색 패턴"
+ tech_gpm_precursor_remnants_discovery_2_desc:0 "세 개의 탐사정을 동시에 사용하는 최적화된 탐색 패턴을 활용하면 행성의 표면을 스캔할 수 있는 능력이 크게 향상됩니다."
+
+ tech_gpm_precursor_energy_grid_discovery:0 "에너지 재활용 전선"
+ tech_gpm_precursor_energy_grid_discovery_desc:0 "전선의 새로운 열 재활용 시스템은 보다 효율적인 전력 전달을 가능하게 합니다. 불행히도 이 새로운 기술은 진공에서 가장 잘 작동하고 매우 취약하기 때문에 스테이션 설계에 적합합니다."
+
+ tech_gpm_precursor_energy_grid_discovery_2:0 "에너지장 이론"
+ tech_gpm_precursor_energy_grid_discovery_2_desc:0 "에너지 분야에 대한 새로운 이론들은 우리 제국의 에너지 생산 능력에 긍정적인 영향을 미칠 것입니다."
+
+ tech_gpm_precursor_satellite_grid_discovery:0 "비반사성 관측소"
+ tech_gpm_precursor_satellite_grid_discovery_desc:0 "초흑색 전파 흡수 물질의 특수 코팅은 우리 관측소와 위성을 사실상 보이지 않게 할 것입니다."
+
+ tech_gpm_precursor_satellite_grid_discovery_2:0 "심우주 신호 증폭기"
+ tech_gpm_precursor_satellite_grid_discovery_2_desc:0 "자체 동력을 가진 심우주 위성들은 장거리 통신을 위한 증폭기 역할을 합니다. 이 위성들은 장거리에서의 훨씬 더 효율적인 계획을 가능하게 해 줍니다."
+ 
+ tech_gpm_precursor_city_discovery:0 "영감을 주는 설계"
+ tech_gpm_precursor_city_discovery_desc:0 "고도로 비용 효뮬적이고 아름다운 건설 디자인입니다."
+ 
+ tech_gpm_precursor_city_discovery_2:0 "알고리즘 도시계획"
+ tech_gpm_precursor_city_discovery_2_desc:0 "진보한 알고리즘에 의해 만들어진 복잡한 도시 계획입니다."
+ 
+ tech_gpm_precursor_shipyards_discovery:0 "프랙탈 공정"
+ tech_gpm_precursor_shipyards_discovery_desc:0 "새로운 제조 기술을 사용하여 프랙탈 메쉬로 작은 부품들을 프린팅한다면 재료를 절약할 수 있을 것입니다."
+ 
+ tech_gpm_precursor_shipyards_discovery_2:0 "신속 교환 유닛"
+ tech_gpm_precursor_shipyards_discovery_2_desc:0 "자체적인 기본 인공지능 유닛을 장착한 작은 로봇 팔을 통해 훨씬 적은 폐기물을 배출하면서 구성품을 교환할 수 있습니다."
+ 
+ tech_gpm_precursor_planetary_gun_discovery:0 "양자 예측 알고리즘"
+ tech_gpm_precursor_planetary_gun_discovery_desc:0 "특수 양자 컴퓨터 칩은 목표의 위치를 예측하는데 훨씬 효율적입니다."
+ 
+ tech_gpm_precursor_planetary_gun_discovery_2:0 "에어로젤 냉각 도금"
+ tech_gpm_precursor_planetary_gun_discovery_2_desc:0 "특수 카본 에어로젤 도금을 무기 시스템에 적용하면 과열로 인한 내부 손상 없이 더 빠르게 발사할 수 있습니다."
+ 
+ tech_gpm_precursor_bunker_grid_discovery:0 "휴대 역장 방출기"
+ tech_gpm_precursor_bunker_grid_discovery_desc:0 "최첨단 역장 방출기를 사용해 보호막을 더 빠르게 전개합니다."
+ 
+ tech_gpm_precursor_bunker_grid_discovery_2:0 "방어 실험"
+ tech_gpm_precursor_bunker_grid_discovery_2_desc:0 "선구자 행성에서 발견된 광대한 방어망과 방어시설은 훨씬 더 격렬하고 현실적인 전투훈련을 가능케 합니다. 방어선에 대한 공격과 방어선에서의 방어작전 모두에 대한 전문적인 지식이 빠르게 확보될 것입니다."
+ 
+ tech_gpm_precursor_mechs_discovery:0 "채굴 기계"
+ tech_gpm_precursor_mechs_discovery_desc:0 "두 개의 고출력 채굴 드릴이 장착된 작은 기계들은 마주하는 어떤 종류의 암석도 뚫고 들어갈 수 있습니다."
+ 
+ tech_gpm_precursor_mechs_discovery_2:0 "자동장전 팔"
+ tech_gpm_precursor_mechs_discovery_2_desc:0 "작은 자율 로봇 팔은 우리 함선의 자기방어 시스템을 빠르게 재장전합니다."
+ 
+ tech_gpm_precursor_planetary_shield_discovery:0 "보호막 주파수 변조기"
+ tech_gpm_precursor_planetary_shield_discovery_desc:0 "특수 변조기는 우리 보호막에 직접 충격에 대한 추가적인 강도를 제공하는 파장을 일으킵니다."
+ 
+ tech_gpm_precursor_planetary_shield_discovery_2:0 "광대역 보호막 도관"
+ tech_gpm_precursor_planetary_shield_discovery_2_desc:0 "대형 개방 채널 도관은 훨씬 더 많은 전력이 보호막 방출기를 통과하도록 하여 우리 보호막이 더 빨리 복구되도록 합니다."
+
+ tech_gpm_precursor_floating_city_discovery:0 "중력 닻"
+ tech_gpm_precursor_floating_city_discovery_desc:0 "중력 닻은 자신의 무게로 인한 스트레스 구조의 양을 감소시킵니다. 이로인해 훨씬 더 높고 넓은 구조물을 건설할 수 있습니다."
+ 
+ tech_gpm_precursor_floating_city_discovery_2:0 "국소 중력장"
+ tech_gpm_precursor_floating_city_discovery_2_desc:0 "작은 방출체는 국소화된 반중력장을 생성하여 붕괴 없이 건축물에 크게 돌출된 플랫폼과 구간을 건설할 수 있습니다."
+ 
+ tech_gpm_precursor_capital_complex_discovery:0 "관료주의 절차"
+ tech_gpm_precursor_capital_complex_discovery_desc:0 "표준화된 효율적인 절차는 이전보다 더 빠르게 정부의 결정을 실행할 수 있도록 합니다."
+ 
+ tech_gpm_precursor_capital_complex_discovery_2:0 "외교적 유화책"
+ tech_gpm_precursor_capital_complex_discovery_2_desc:0 "실제로 관심이 있는 것과는 관계 없이, 우리를 아주 조금 낮추는 것으로 주변국가가 느끼는 위협을 줄일 수 있습니다. 보편적으로 통하는 외교 기법입니다. 공격적인 형제보다는, 그들의 부모와 같이 인식될 것입니다."
+ 
+ tech_gpm_precursor_communication_hub_discovery:0 "시간-수정 저장고"
+ tech_gpm_precursor_communication_hub_discovery_desc:0 "인공 시간-수정은 분해할 수 없습니다. 그 대신 방대한 양의 지식을 저장할 수 있습니다. 새로운 식민지가 성장하고 확장하는데 필요한 모든 지침을 담아두고 있습니다."
+ 
+ tech_gpm_precursor_communication_hub_discovery_2:0 "심우주 중계 정거장"
+ tech_gpm_precursor_communication_hub_discovery_2_desc:0 "효율적이며 자가동력을 사용하는 중계기지가 제국 국경 너머까지 신호를 증폭시킵니다."
+ 
+ tech_gpm_precursor_singularity_drive_discovery:0 "1급 데이터베이스"
+ tech_gpm_precursor_singularity_drive_discovery_desc:0 "제국 전체의 과학 정보를 담은 데이터베이스입니다. 데이터 검색 특화 알고리즘을 사용해 과학 정보간 상호 참조가 더욱 쉬워집니다."
+ 
+ tech_gpm_precursor_singularity_drive_discovery_2:0 "개인용 특이점 비서"
+ tech_gpm_precursor_singularity_drive_discovery_2_desc:0 "개인용 비서로 사용하기 위한 소형화된 형태의 특이점 드라이브입니다. 비록 형태는 단순하지만, 사용자가 필요로 한다면 매우 복잡한 작업도 쉽게 수행할 수 있습니다."
+ 
+ tech_gpm_precursor_eternal_fortress_discovery:0 "궤도 위장"
+ tech_gpm_precursor_eternal_fortress_discovery_desc:0 "구조물 주변을 다양한 각도와 색으로 위장하는 독특한 건설 기법은 건물을 궤도상에서 쉽게 인식할 수 없도록 만듭니다."
+ 
+ tech_gpm_precursor_eternal_fortress_discovery_2:0 "극지 주둔군"
+ tech_gpm_precursor_eternal_fortress_discovery_2_desc:0 "선구자 전쟁에 대한 연구는 극지를 방어하는 방법이 우리가 일반적으로 생각하던 것 보다 훨씬 더 효율적인 전략임을 보여줍니다."
+ 
+ tech_gpm_precursor_prison_planet_discovery:0 "드론 감시자"
+ tech_gpm_precursor_prison_planet_discovery_desc:0 "거리를 순찰하는 작은 드론입니다. 역할은 이전 세대의 고정형 교통 단속 장치와 동일합니다."
+ 
+ tech_gpm_precursor_prison_planet_discovery_2:0 "감옥 행성 선전"
+ tech_gpm_precursor_prison_planet_discovery_2_desc:0 "감옥 행성에서 보내는 시간은 결코 즐거운 것이 아님을 알아야 합니다. 그곳에 차곡차곡 쌓여 정리되는 것에 대한 두려움은 시민들이 자발적으로 질서를 유지하게 만들 것입니다."
+ 
+ tech_gpm_precursor_mines_discovery:0 "광물 감지장"
+ tech_gpm_precursor_mines_discovery_desc:0 "깊은 곳에 존재하는 작은 광맥조차도 놓치지 않을 정도로 정교한 감지장입니다."
+ 
+ tech_gpm_precursor_mines_discovery_2:0 "굴착 나노봇"
+ tech_gpm_precursor_mines_discovery_2_desc:0 "광맥을 향해 직통 터널을 파고들도록 고안된 초소형 기계입니다. 이전에 우리가 사용하던 기계보다 훨씬 더 깊은 곳으로 파고들어갈 수 있는 튼튼하고 복잡한 터널을 건설할 수 있습니다."
+ tech_gpm_precursor_mines_discovery_2TT:0 "§Y건물 잠금 해제:§! 채광 나노봇 연결체"
+ 
+ tech_gpm_precursor_manufactorium_discovery:0 "냉간 주조 공장"
+ tech_gpm_precursor_manufactorium_discovery_desc:0 "고압 극저온 시스템이 포함된 주조 공장으로 뜨거운 금속을 연속적으로 주조할 수 있습니다."
+ 
+ tech_gpm_precursor_manufactorium_discovery_2:0 "무중력 컨베이어"
+ tech_gpm_precursor_manufactorium_discovery_2_desc:0 "반중력장을 이용하면 물리적인 컨베이어 없이도 공장의 한 부분에서 다른 곳으로 재료와 완성품을 운반할 수 있습니다. 여러 종류의 생산 라인을 아주 작은 공간에 배치할 수 있습니다."
+ 
+ tech_gpm_precursor_vaults_discovery:0 "유물 파장"
+ tech_gpm_precursor_vaults_discovery_desc:0 "유물이 방출하는 독특한 파장은 아주 먼 거리에서도 탐지할 수 있습니다. 은하계엔 유물이 가득하고, 모두 우리의 것이 될 것입니다."
+ 
+ tech_gpm_precursor_vaults_discovery_2:0 "고대 금고 보물지도"
+ tech_gpm_precursor_vaults_discovery_2_desc:0 "유물더미 사이에서 지도 하나를 찾아냈습니다. 우리 영토 안의 한 위성에 숨겨진 금고의 위치를 그려둔 지도입니다. 탐험대가 이미 출발했습니다."
+ 
+ tech_gpm_precursor_crashed_spacestation_discovery:0 "자가 조립형 우주항 모듈"
+ tech_gpm_precursor_crashed_spacestation_discovery_desc:0 "고도의 모듈화를 통해 우주항에서 자체적으로 구성을 쉽게 변경할 수 있도록 합니다.."
+ 
+ tech_gpm_precursor_crashed_spacestation_discovery_2:0 "우주항 열 재활용"
+ tech_gpm_precursor_crashed_spacestation_discovery_2_desc:0 "고속 방열망의 연계를 통해 우주항에서 폐열을 효과적으로 재활용할 수 있습니다."
+ 
+ tech_gpm_precursor_battleground_ruins_discovery:0 "플라즈마 소총"
+ tech_gpm_precursor_battleground_ruins_discovery_desc:0 "플라즈마 소총을 장비한 병사들은 강력한 플라즈마 광선을 사용할 수 있습니다. 플라즈마는 원자핵, 자유 전자등이 뭉쳐있는 고에너지 상태의 물질이므로 부딪히는 모든 대상에 어마어마한 피해를 입힐 수 있습니다."
+ 
+ tech_gpm_precursor_battleground_ruins_discovery_2:0 "플라즈마 방사기"
+ tech_gpm_precursor_battleground_ruins_discovery_2_desc:0 "플라즈마 방사기는 플라즈마의 흐름을 발사해 접촉한 대상을 깔끔하게 증발시켜버립니다. 플라즈마 방사기의 앞에 서는 것은 군인이 경험할 수 있는 가장 두려운 경험이 될 것입니다."
+ 
+ tech_gpm_precursor_outpost_ruins_discovery:0 "아공간 감지기"
+ tech_gpm_precursor_outpost_ruins_discovery_desc:0 "아공간에 설치된 감지기는 기본 감지기의 범위보다 더 멀리 있는 함선의 이동 신호를 감지할 수 있습니다."
+ 
+ tech_gpm_precursor_outpost_ruins_discovery_2:0 "지휘 전초기지"
+ tech_gpm_precursor_outpost_ruins_discovery_2_desc:0 "군사 지휘 전문 기지는 함대가 중앙 지휘부로부터 더 효율적으로 명령을 받을 수 있게 해 줍니다. 그 결과, 전선에 더 많은 함대를 투입하는 것이 더 쉬워집니다."
+ 
+ tech_gpm_precursor_harbor_ruins_discovery:0 "자동화 어장"
+ tech_gpm_precursor_harbor_ruins_discovery_desc:0 "자동화된 항만 어장은 환경에 부정적인 영향을 끼치지 않으면서도 끝없이 식량을 공급할 수 있습니다."
+ 
+ tech_gpm_precursor_harbor_ruins_discovery_2:0 "나노봇 액체 필터"
+ tech_gpm_precursor_harbor_ruins_discovery_2_desc:0 "나노봇 유액을 통해 어떤 액체라도 마실 수 있는 액체로 걸러내는 필터입니다."
+ 
+ tech_gpm_precursor_ruins_discovery:0 "선구자 이론"
+ tech_gpm_precursor_ruins_discovery_desc:0 "우리가 지금껏 밝혀낸 선구자 지식을 보관하는 데이터베이스는 미래로 나아갈 기술의 초석이 될 것입니다."
+ 
+ tech_gpm_precursor_ruins_discovery_2:0 "융통성 있는 탐사"
+ tech_gpm_precursor_ruins_discovery_2_desc:0 "고대 유물을 탐사하기 위한 몇가지 지침을 적절히 무시해, 우리의 경쟁자들보다 더 빠르게 유물을 손에 넣을 수 있을 것입니다"
+ 
+ tech_gpm_precursor_obelisks_discovery:0 "테라포밍 방첨탑"
+ tech_gpm_precursor_obelisks_discovery_desc:0 "부서진 유물들을 정리하는 과정에서, 이 유물 조각들의 원형의 용도를 밝혀낼 수 있었습니다. 이 유물은 테라포밍 방첨탑이었습니다. 다양한 종류의 기체와 액체를 여과, 가열하여 행성 전역에 퍼트리기 위한 아주 높은 방첨탑 말입니다."
+ 
+ tech_gpm_precursor_obelisks_discovery_2:0 "A.I. 개인 장치"
+ tech_gpm_precursor_obelisks_discovery_2_desc:0 "수석 과학자가 분석한 유물 중 하나는 작은 컵정도의 크기인 소형 방첨탑입니다. 여러 복잡한 문제의 계산을 지원하는 용도로 사용할 수 있습니다."
+ 
+ tech_gpm_very_hot_core_discovery:0 "행성 핵 유체 역학"
+ tech_gpm_very_hot_core_discovery_desc:0 "행성의 핵을 둘러싼 대류 흐름을 이해하는 것은 테라포밍 효율에 큰 도움을 줄 것입니다."
+ 
+ tech_gpm_very_hot_core_discovery_2:0 "화산 창조"
+ tech_gpm_very_hot_core_discovery_2_desc:0 "행성 전역에 일시적으로 겨울을 불러오기 위해 전략적인 위치에서 인공 화산을 만드는 테라포밍 이론입니다. 대기 중의 입자를 가두고 행성을 가열하는 이 방법을 적용해 테라포밍에 필요한 에너지량을 크게 감소시킬 수 있습니다."
+ 
+ tech_gpm_gaia_world_discovery:0 "기후 이론"
+ tech_gpm_gaia_world_discovery_desc:0 "가이아 행성에서 발견된 다양한 종류의 기후에 대한 연구는 특이한 기후의 존재에 대한 몇가지 이론을 도출해냈습니다. 이 연구 결과를 우리의 환경에 적용하는 것은 많은 도움이 될 것입니다."
+ 
+ tech_gpm_gaia_world_discovery_2:0 "불멸의 콩"
+ tech_gpm_gaia_world_discovery_2_desc:0 "거의 모든 환경에서 자랄 수 있으며 풍부한 영양을 함유한 새로운 콩을 발명했습니다. 이 콩은 식민지를 먹여살리는 역할을 할 것입니다."
+ 
+ tech_gpm_holy_world_discovery:0 "옛 것 선망"
+ tech_gpm_holy_world_discovery_desc:0 "가이아 행성에서 발견한 성스러운 신호는 정부가 모든 과학 분야에서 필요로 하는 자금을 대도록 압박했습니다. 이 고대 제국의 실상을 반드시 밝혀내야만 합니다."
+ 
+ tech_gpm_holy_world_discovery_2:0 "실존주의 상담"
+ tech_gpm_holy_world_discovery_2_desc:0 "은하계에 아주 오래된 고대 문명이 있다는 소식은 우리 사회를 뒤흔들었습니다. 국민들이 마주한 실존적 두려움을 극복하기 위한 상담을 제공해야 합니다."
+ 
+ tech_gpm_floating_islands_discovery:0 "반중력 추진기"
+ tech_gpm_floating_islands_discovery_desc:0 "인공 반중력 추진기의 발견은 우리에게 인공 중력의 본질에 대한 연구 거리를 던져줬습니다."
+ tech_gpm_floating_islands_discovery_tt:0 "§H행성 결정 잠금해제:§! 부유섬 건설"
+ 
+ tech_gpm_floating_islands_discovery_2:0 "중력 배출기"
+ tech_gpm_floating_islands_discovery_2_desc:0 "반중력 분사기 체계는 장전된 발사체에 강한 중력을 일으켜 더 높은 속도로 발사할 수 있게 합니다."
+ 
+ tech_gpm_ruined_battlefield_discovery:0 "기동 전술"
+ tech_gpm_ruined_battlefield_discovery_desc:0 "고대 전장을 연구한 결과 고속 기동부대나 자전거 부대가 측면 기동을 취하는 것은 현대전에서도 여전히 가치를 가진다는 것을 알아냈습니다."
+ 
+ tech_gpm_ruined_battlefield_discovery_2:0 "보급선 사보타주"
+ tech_gpm_ruined_battlefield_discovery_2_desc:0 "연구 결과 보급선을 파괴하는 것이 적을 직접적으로 방해하거나 격파하는 것 보다 적에게 더 나쁜 영향을 미칩니다."
+  
+ tech_gpm_spaceship_graveyard_discovery:0 "표준 구획 견본"
+ tech_gpm_spaceship_graveyard_discovery_desc:0 "함선 구획의 표준 건설 견본을 마련해두어 시간이 갈수록 더 많은 자원을 절감할 수 있습니다."
+ 
+ tech_gpm_spaceship_graveyard_discovery_2:0 "초강도 격벽"
+ tech_gpm_spaceship_graveyard_discovery_2_desc:0 "극도로 밀집된 격벽은 함선의 모든 구획을 정렬해 함선이 물리적 피로도를 더 잘 견디게 합니다."
+ 
+ tech_gpm_artificial_water_discovery:0 "자가 복제"
+ tech_gpm_artificial_water_discovery_desc:0 "조심스레 조종되는 나노봇은 스스로 복제하는 기능을 터득했습니다. 이제 다른 곳에 사용할 수 있는 무한한 나노봇을 손에 넣었습니다."
+ 
+ tech_gpm_artificial_water_discovery_2:0 "나노봇 냉각제"
+ tech_gpm_artificial_water_discovery_2_desc:0 "나노봇 냉각제는 자체적인 저온을 스스로 유지할 수 있어, 언제나 영하의 온도를 유지할 수 있습니다. 이 기능은 환경에 열을 적극적으로 전달받아 초고효율 열전지에 열을 공급하는 방식으로 작동합니다."
+ 
+ tech_gpm_android_pleasure_palace_discovery:0 "암시장 드로이드"
+ tech_gpm_android_pleasure_palace_discovery_desc:0 "어디에나 드러내놓을 수 있는 것은 아닙니다만, 쾌락용 드로이드는 너무 널리 퍼져있어서 금지할 순 없습니다. 암시장의 번창은 드로이드를 가지고 있다는 것을 인정하진 않지만, 사실상 한 가정 한 드로이드를 보유하는 결과를 낳았습니다."
+ 
+ tech_gpm_android_pleasure_palace_discovery_2:0 "드로이드 가정부"
+ tech_gpm_android_pleasure_palace_discovery_2_desc:0 "유순하며 선정적인 ai는 이 은하에 지금껏 존재한 것 이상의 이상적인 로봇 하인을 제작하는데 사용됩니다."
+ 
+ tech_gpm_ancient_temple_discovery:0 "고고학 탐색 드론"
+ tech_gpm_ancient_temple_discovery_desc:0 "32-b-단형 모델은 우리가 접근하기 어려운 장소에서의 부자연스러운 물건을 찾을 수 있는 뛰어난 적응력과 신뢰도를 가진 드론입니다."
+ 
+ tech_gpm_ancient_temple_discovery_2:0 "고고학 AI"
+ tech_gpm_ancient_temple_discovery_2_desc:0 "발굴 현장에서 찾아낸 수많은 단서를 유기적으로 분석하는 데 특화된 ai입니다.."
+ 
+ tech_gpm_crystal_moon_palace_discovery:0 "수정 성장 촉매"
+ tech_gpm_crystal_moon_palace_discovery_desc:0 "인공적으로 만드는 결정 구조를 훨씬 더 빠르게 성장시키는 이종 물질 혼합물입니다."
+ 
+ tech_gpm_crystal_moon_palace_discovery_2:0 "프랙탈 굴절"
+ tech_gpm_crystal_moon_palace_discovery_2_desc:0 "끝없는 프랙탈 구조의 인공 수정은 굴절을 통해 한 지점에 에너지를 극도로 집중시킬 수 있습니다."
+ 
+ tech_gpm_plasmoid_life_discovery:0 "플라즈마장"
+ tech_gpm_plasmoid_life_discovery_desc:0 "무기의 포구 근처에 안정적인 플라즈마장을 형성해 발사한 포탄이 장갑을 더 쉽게 관통하도록 만듭니다."
+ 
+ tech_gpm_plasmoid_life_discovery_2:0 "라돈 플라즈마 제조"
+ tech_gpm_plasmoid_life_discovery_2_desc:0 "안정적이고 반응성이 낮은 라돈 가스를 플라즈마가 될 온도까지 가열해 비안정적 제조 분야에서 다양하게 사용할 수 있습니다."
+ 
+ tech_gpm_temple_of_the_ancient_one_discovery:0 "통찰의 의식"
+ tech_gpm_temple_of_the_ancient_one_discovery_desc:0 "이 고대의 문서는 우주의 본질을 고찰해볼 수 있는 의식에 대해 써 있습니다."
+ 
+ tech_gpm_temple_of_the_ancient_one_discovery_2:0 "희생의 의식"
+ tech_gpm_temple_of_the_ancient_one_discovery_2_desc:0 "이 고대의 문서는 생명을 연장할 수 있는 의식에 대해 써 있습니다. ...대가가 필요하지만요."
+ 
+ tech_gpm_proto_forests_discovery:0 "외계 과일"
+ tech_gpm_proto_forests_discovery_desc:0 "어디에서나 빠르게 과즙 가득한 오렌지를 맺는 외계 나무입니다."
+ 
+ tech_gpm_proto_forests_discovery_2:0 "회복 꽃"
+ tech_gpm_proto_forests_discovery_2_desc:0 "놀랄만한 회복 성능을 가진 외계종 꽃입니다. 매우 섬세하며 재배와 수확을 위해선 끝없는 관리가 필요합니다."
+ 
+ tech_gpm_hiveworld_discovery:0 "자가재생 슬라임"
+ tech_gpm_hiveworld_discovery_desc:0 "살아있는 슬라임을 모든 재료에 얇게 발라, 자가 수리되는 표면층을 만들 수 있습니다. 이 슬라임은 생각 외로 단단하며, 가혹한 우주 환경에서도 생존할 수 있습니다."
+ 
+ tech_gpm_hiveworld_discovery_2:0 "가스 포드"
+ tech_gpm_hiveworld_discovery_2_desc:0 "신진대사의 부산물로 나오는 희귀한 안정적인 가스를 주기적으로 수확할 수 있습니다."
+ 
+ tech_gpm_arachnophobia_discovery:0 "거미 DNA"
+ tech_gpm_arachnophobia_discovery_desc:0 "고대의 포식자를 복제하는 것이 뭐가 문제겠습니까?"
+ tech_gpm_arachnophobia_discovery_tt:0 "§H지상군 잠금해제:§! 거미 군대" 
+ 
+ tech_gpm_arachnophobia_discovery_2:0 "무리 행동 연구"
+ tech_gpm_arachnophobia_discovery_2_desc:0 "거대 거미의 무리 행동에 대한 연구는 다른 종족에 대한 연구에서 몇 가지 흥미로운 방법을 이끌어냈습니다."
+ 
+ tech_gpm_giant_worm_discovery:0 "단단한 외피"
+ tech_gpm_giant_worm_discovery_desc:0 "발견한 거대한 벌레로부터 주기적으로 거대한 비늘(셰드)을 채집해 함선 무기고를 보강할 수 있습니다."
+ 
+ tech_gpm_giant_worm_discovery_2:0 "채굴 벌레"
+ tech_gpm_giant_worm_discovery_2_desc:0 "토착 거대 벌레는 그 크기에 걸맞는 거대한 터널을 파냅니다. 아직 알 상태인 거대 벌레를 우리 식민지로 옮겨, 우리가 시키는 대로 굴착하게 만드는 세심한 육성을 진행합니다."
+ 
+ tech_gpm_surface_of_bones_discovery:0 "윤리관 교육"
+ tech_gpm_surface_of_bones_discovery_desc:0 "뼈로 가득한 행성의 발견은 사회 각층에 많은 파문을 일으켰습니다. 우리가 그런 공포스러운 상황에 빠지는 것을 막기 위해 고도의 윤리관 교육을 도입해야 합니다. 절대로 뼈로 가득한 행성에서 벌어졌던 실수가 우리에게 일어나선 안됩니다."
+ 
+ tech_gpm_surface_of_bones_discovery_2:0 "이차 피해 방지"
+ tech_gpm_surface_of_bones_discovery_2_desc:0 "표적을 파괴하기 위해 학살과 부수적 피해를 야기하는 것은 있어선 안됩니다. 더 똑똑한 무기 체계가 필요합니다. 강하고, 정확하고, 오직 적만을 공격할!"
+ 
+ tech_gpm_strange_alien_eggs_discovery:0 "인큐베이터"
+ tech_gpm_strange_alien_eggs_discovery_desc:0 "발견한 알을 조심스럽게 관리해 우리가 키울 수 있을 겁니다."
+ tech_gpm_strange_alien_eggs_discovery_tt:0 "매 7년마다 1 §Y이종 변이§! 군대를 획득합니다."
+ 
+ tech_gpm_strange_alien_eggs_discovery_2:0 "개인 후원자"
+ tech_gpm_strange_alien_eggs_discovery_2_desc:0 "때때로 우리가 발견해낸 것들은 민간 투자자들의 관심을 끌기 충분합니다."
+ 
+ tech_gpm_mushroom_forest_discovery:0 "죽음을 먹는 버섯"
+ tech_gpm_mushroom_forest_discovery_desc:0 "거대한 버섯 숲은 시체를 처리하기엔 안성맞춤입니다. 이 거대한 진균들이 시체를 분해하는 속도는 상상을 초월하며, 시체를 버리는 것이 가장 환경에 이로운 선택이 될 수도 있다는 것을 보여줍니다."
+ 
+ tech_gpm_mushroom_forest_discovery_2:0 "푸른 버섯"
+ tech_gpm_mushroom_forest_discovery_2_desc:0 "이상한 청색 버섯이 정력에 좋다는 것이 밝혀졌습니다. 중독성이 있으며, 한번 맛 본 이들은 계속 그 버섯을 찾습니다."
+ 
+ tech_gpm_supermaterials_precursor:0 "외계 초소재"
+ tech_gpm_supermaterials_precursor_desc:0 ""
+ 
+ tech_gpm_manufactory_hub:0 "제조효율 최대화"
+ tech_gpm_manufactory_hub_desc:0 "제조의 의사결정 과정에서 일부 자동화를 통합하는 것은 긍정적인 영향을 미칠 것입니다."
+ 
+ tech_gpm_enigmatic_power_relays:0 "무손실 함선 전력망"
+ tech_gpm_enigmatic_power_relays_desc:0 "선구자 전력망의 에너지 상태를 이해하는 것은 어려운 일이지만 충분히 가치있는 일입니다."
+ 
+ tech_gpm_singularity_matrix:0 "매트릭스 복제"
+ tech_gpm_singularity_matrix_desc:0 "우리는 이것의 디자인과 재료를 복사하는 방법은 알고 있지만, 정확히 어떻게 작동하는지는 모릅니다. 매트릭스를 복제하고 에너지 상태를 복사함으로써 효과적으로 더 많은 것을 만들 수 있습니다."
+
+ gpm_tech_ringworld_parabolic_forcefield:0 "링월드 $decision_gpm_ringworld_parabolic_forcefield$"
+ gpm_tech_ringworld_parabolic_forcefield_desc:0 "링월드 결정인 §H$decision_gpm_ringworld_parabolic_forcefield$§!은(는) 링월드에 §H$gpm_ringworld_breath_taking_view$§! 모디파이어를 추가하여 팝 행복도를 증가시키고 궤도 폭격 데미지를 경감시킵니다."
+ gpm_tech_ringworld_parabolic_forcefield_tt:0 "§H링월드 결정 잠금해제:§! $decision_gpm_ringworld_parabolic_forcefield$"
+ 
+ gpm_tech_ringworld_neural_nexus:0 "링월드 $decision_gpm_ringworld_neural_nexus$"
+ gpm_tech_ringworld_neural_nexus_desc:0 "링월드 결정인 §H$decision_gpm_ringworld_neural_nexus$§!은(는) 링월드에 §H$gpm_ringworld_neural_nexus$§! 모디파이어를 추가하여 팝의 연구 산출량을 증가시킵니다."
+ gpm_tech_ringworld_neural_nexus_tt:0 "§H링월드 결정 잠금해제:§! $decision_gpm_ringworld_neural_nexus$"
+ 
+ gpm_tech_ringworld_idyllic_gardens:0 "링월드 $decision_gpm_ringworld_idyllic_gardens$"
+ gpm_tech_ringworld_idyllic_gardens_desc:0 "링월드 결정인 §H$decision_gpm_ringworld_idyllic_gardens$§!은(는) 링월드에 §H$gpm_ringworld_idyllic_gardens$§! 모디파이어를 추가하여 팝의 통합력 산출량을 증가시키고 편의 사용량을 감소시킵니다."
+ gpm_tech_ringworld_idyllic_gardens_tt:0 "§H링월드 결정 잠금해제:§! $decision_gpm_ringworld_idyllic_gardens$"
+ 
+ gpm_tech_ringworld_xeno_zoo:0 "링월드 $decision_gpm_ringworld_xeno_zoo$"
+ gpm_tech_ringworld_xeno_zoo_desc:0 "링월드 결정인 §H$decision_gpm_ringworld_xeno_zoo$§!은(는) 링월드에 §H$gpm_ringworld_xeno_zoo$§! 모디파이어를 추가하여 문화 노동자의 산출량을 증가시키는 추가적인 외계종 동물원을 건설할 수 있게 합니다."
+ gpm_tech_ringworld_xeno_zoo_tt:0 "§H링월드 결정 잠금해제:§! $decision_gpm_ringworld_xeno_zoo$"
+ 
+ gpm_tech_ringworld_simulators:0 "링월드 $decision_gpm_ringworld_simulators$"
+ gpm_tech_ringworld_simulators_desc:0 "링월드 결정인 §H$decision_gpm_ringworld_simulators$§!은(는) 링월드에 §H$gpm_ringworld_battle_simulators$§! 모디파이어를 추가하여 링월드의 지상군 훈련 속도를 증가시키고 군인 직업을 추가합니다."
+ gpm_tech_ringworld_simulators_tt:0 "§H링월드 결정 잠금해제:§! $decision_gpm_ringworld_simulators$"
+ 
+ gpm_tech_ringworld_endless_oceans:0 "링월드 $decision_gpm_ringworld_endless_oceans$"
+ gpm_tech_ringworld_endless_oceans_desc:0 "링월드 결정인 §H$decision_gpm_ringworld_endless_oceans$§!은(는) 링월드에 §H$gpm_ringworld_endless_ocean$§! 모디파이어를 추가하여 농부 직업의 식량 생산량을 증가시키고 약간의 통합력을 생산하도록 합니다."
+ gpm_tech_ringworld_endless_oceans_tt:0 "§H링월드 결정 잠금해제:§! $decision_gpm_ringworld_endless_oceans$"
+ 
+ gpm_tech_ringworld_mass_transit:0 "링월드 $decision_gpm_ringworld_mass_transit$"
+ gpm_tech_ringworld_mass_transit_desc:0 "링월드 결정인 §H$decision_gpm_ringworld_mass_transit$§!은(는) 링월드에 §H$gpm_ringworld_mass_transit_systems$§! 모디파이어를 추가하여 팝의 유지비를 감소시킵니다."
+ gpm_tech_ringworld_mass_transit_tt:0 "§H링월드 결정 잠금해제:§! $decision_gpm_ringworld_mass_transit$"
+
+ #######################################
+ #### Traits
+ #######################################
+ trait_gpm_forgotten_species:0 "잊혀진 종족"
+ trait_gpm_forgotten_species_desc:0 "§L이미 개발된 행성에서 살고 있는 종족입니다. 이들은 배우는 속도가 빠르고, 우주에서 자신들의 위치에 대한 호기심으로 가득합니다.§!"
+ TRAIT_GPM_FORGOTTEN_SPECIES_EFFECT:0 ""
+ 
+ trait_gpm_mega_adaptive:0 "데스월드 행성 선호"
+ trait_gpm_mega_adaptive_desc:0 "§L이 종족은 가장 강한 종만이 살아남을 수 있는 데스월드 행성에서 유래되었습니다.§!"
+ TRAIT_GPM_MEGA_ADAPTIVE_EFFECT:0 ""
+ 
+ trait_gpm_high_status:0 "고귀한 태생"
+ trait_gpm_high_status_desc:0 "§L이 종족의 기원은 본인들에게도 알려져 있지 않고, 은하 구성원 대부분도 알 수 없습니다. 하지만 확실한 것은 존재 자체로 존경받는 종족이라는 사실입니다.§!"
+ TRAIT_GPM_HIGH_STATUS_EFFECT:0 "§Y신뢰 성장§!이 §G15%§! 만큼 증가합니다.\n또한, 이 종족은 §H몰락 제국§!에게서 의견 보너스를 받습니다.§!."
+
+ leader_trait_gpm_guilli:0 "미친 과학자"
+ leader_trait_gpm_guilli_desc:0 "구'일-리는 잰다르와 우주에 대한 이해를 위해 한평생을 잰다르에서 보냈습니다. 그는 약간 미친 것 같습니다."
+ 
+ leader_trait_gpm_stealth_tactician:0 "스텔스 전술가"
+ leader_trait_gpm_stealth_tactician_desc:0 "첨단 스텔스 전술과 전략에 대해 훈련받았습니다."
+ 
+ leader_trait_gpm_shared_soul:0 "공유된 영혼"
+ leader_trait_gpm_shared_soul_desc:0 "고대의 영혼이 이 지도자의 몸을 공유하고 있습니다."
+ 
+ trait_gpm_historian:0 "선구자 역사학자"
+ trait_gpm_historian_desc:0 "이전에 존재하던 문명을 이해하는 것이 우리 자신의 미래를 이해하는데 가장 중요합니다."
+ 
+ leader_trait_gpm_precursor_expert:0 "선구자 전문 기술"
+ leader_trait_gpm_precursor_expert_desc:0 "이 과학자는 선구자 분야에서 그 분야를 선도하는 학자입니다."
+ 
+ trait_gpm_enigmatic_update:0 "해킹당함"
+ trait_gpm_enigmatic_update_desc:0 "§L기계지능이 원치않는 업데이트를 받았습니다.§!"
+ 
+ leader_trait_gpm_fallen_heraldry:0 "몰락 가문"
+ leader_trait_gpm_fallen_heraldry_desc:0 "군대의 갑옷을 덮고 있는 밝고 빛나는 가문의 문장으로 자신감을 불어넣습니다."
+ 
+ leader_trait_gpm_battle_standards:0 "군기 숭배"
+ leader_trait_gpm_battle_standards_desc:0 "아군에게 자신감을 불어넣고 약해빠진 적들에게는 공포를 가져다주는 다채로운 군기를 숭배합니다."
+
+ leader_trait_gpm_personal_mech:0 "개인용 전투기계"
+ leader_trait_gpm_personal_mech_desc:0 "이 지도자는 개인용 전투기계에 엑세스할 수 있습니다."
+
+ #######################################
+ #### War Goals
+ #######################################
+ war_goal_wg_gpm_r_time_displacer:0 "유물 탈취"
+ war_goal_wg_gpm_r_time_displacer_desc:0 "$gpm_r_time_displacer$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_alien_eggs:0 "유물 탈취"
+ war_goal_wg_gpm_r_alien_eggs_desc:0 "$gpm_r_alien_eggs$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_machine_world_core:0 "유물 탈취"
+ war_goal_wg_gpm_r_machine_world_core_desc:0 "$gpm_r_machine_world_core$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_encyclopedia_galactica:0 "유물 탈취"
+ war_goal_wg_gpm_r_encyclopedia_galactica_desc:0 "$gpm_r_encyclopedia_galactica$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_zero_energy_generator:0 "유물 탈취"
+ war_goal_wg_gpm_r_zero_energy_generator_desc:0 "$gpm_r_zero_energy_generator$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_quantum_sphere:0 "유물 탈취"
+ war_goal_wg_gpm_r_quantum_sphere_desc:0 "$gpm_r_quantum_sphere$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_ai_architect:0 "유물 탈취"
+ war_goal_wg_gpm_r_ai_architect_desc:0 "$gpm_r_ai_architect$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_encrypted_sct:0 "유물 탈취"
+ war_goal_wg_gpm_r_encrypted_sct_desc:0 "$gpm_r_encrypted_sct$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_experimental_weapon:0 "유물 탈취"
+ war_goal_wg_gpm_r_experimental_weapon_desc:0 "$gpm_r_experimental_weapon$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_fallout_emergency_replicator:0 "유물 탈취"
+ war_goal_wg_gpm_r_fallout_emergency_replicator_desc:0 "$gpm_r_fallout_emergency_replicator$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_power_core:0 "유물 탈취"
+ war_goal_wg_gpm_r_power_core_desc:0 "$gpm_r_power_core$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_mysterious_shield_generator:0 "유물 탈취"
+ war_goal_wg_gpm_r_mysterious_shield_generator_desc:0 "$gpm_r_mysterious_shield_generator$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_gravity_engine:0 "유물 탈취"
+ war_goal_wg_gpm_r_gravity_engine_desc:0 "$gpm_r_gravity_engine$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_codex_administratum:0 "유물 탈취"
+ war_goal_wg_gpm_r_codex_administratum_desc:0 "$gpm_r_codex_administratum$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_enigmatic_advisor:0 "유물 탈취"
+ war_goal_wg_gpm_r_enigmatic_advisor_desc:0 "$gpm_r_enigmatic_advisor$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_positronic_microchip:0 "유물 탈취"
+ war_goal_wg_gpm_r_positronic_microchip_desc:0 "$gpm_r_positronic_microchip$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_venerable_dreadnaught:0 "유물 탈취"
+ war_goal_wg_gpm_r_venerable_dreadnaught_desc:0 "$gpm_r_venerable_dreadnaught$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_sentinel_queen:0 "유물 탈취"
+ war_goal_wg_gpm_r_sentinel_queen_desc:0 "$gpm_r_sentinel_queen$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_earthquake_engine:0 "유물 탈취"
+ war_goal_wg_gpm_r_earthquake_engine_desc:0 "$gpm_r_earthquake_engine$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_manufactorium_ship:0 "유물 탈취"
+ war_goal_wg_gpm_r_manufactorium_ship_desc:0 "$gpm_r_manufactorium_ship$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_datacube:0 "유물 탈취"
+ war_goal_wg_gpm_r_datacube_desc:0 "$gpm_r_datacube$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_self_assembly_hub:0 "유물 탈취"
+ war_goal_wg_gpm_r_self_assembly_hub_desc:0 "$gpm_r_self_assembly_hub$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_banner_of_the_fallen:0 "유물 탈취"
+ war_goal_wg_gpm_r_banner_of_the_fallen_desc:0 "$gpm_r_banner_of_the_fallen$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_cloaking_device:0 "유물 탈취"
+ war_goal_wg_gpm_r_cloaking_device_desc:0 "$gpm_r_cloaking_device$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_q_storage_compressor:0 "유물 탈취"
+ war_goal_wg_gpm_r_q_storage_compressor_desc:0 "$gpm_r_q_storage_compressor$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_soul_gem:0 "유물 탈취"
+ war_goal_wg_gpm_r_soul_gem_desc:0 "$gpm_r_soul_gem$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_self_repairing_obelisk:0 "유물 탈취"
+ war_goal_wg_gpm_r_self_repairing_obelisk_desc:0 "$gpm_r_self_repairing_obelisk$을(를) 탈취하기 위한 전쟁입니다."
+
+ war_goal_wg_gpm_r_dragon_trophy:0 "유물 탈취"
+ war_goal_wg_gpm_r_dragon_trophy_desc:0 "$r_dragon_trophy$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_khans_throne:0 "유물 탈취"
+ war_goal_wg_gpm_r_khans_throne_desc:0 "$r_khans_throne$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_worm_scales:0 "유물 탈취"
+ war_goal_wg_gpm_r_worm_scales_desc:0 "$r_worm_scales$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_rubricator:0 "유물 탈취"
+ war_goal_wg_gpm_r_rubricator_desc:0 "$r_rubricator$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_galaxy:0 "유물 탈취"
+ war_goal_wg_gpm_r_galaxy_desc:0 "$r_galaxy$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_omnicodex:0 "유물 탈취"
+ war_goal_wg_gpm_r_omnicodex_desc:0 "$r_omnicodex$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_surveyor:0 "유물 탈취"
+ war_goal_wg_gpm_r_surveyor_desc:0 "$r_surveyor$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_ancient_sword:0 "유물 탈취"
+ war_goal_wg_gpm_r_ancient_sword_desc:0 "$r_ancient_sword$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_severed_head:0 "유물 탈취"
+ war_goal_wg_gpm_r_severed_head_desc:0 "$r_severed_head$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_prethoryn_queen:0 "유물 탈취"
+ war_goal_wg_gpm_r_prethoryn_queen_desc:0 "$r_prethoryn_queen$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_unbidden_warlock:0 "유물 탈취"
+ war_goal_wg_gpm_r_unbidden_warlock_desc:0 "$r_unbidden_warlock$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_contingency_core:0 "유물 탈취"
+ war_goal_wg_gpm_r_contingency_core_desc:0 "$r_contingency_core$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_zro_crystal:0 "유물 탈취"
+ war_goal_wg_gpm_r_zro_crystal_desc:0 "$r_zro_crystal$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_the_last_baol:0 "유물 탈취"
+ war_goal_wg_gpm_r_the_last_baol_desc:0 "$r_the_last_baol$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_the_defragmentor:0 "유물 탈취"
+ war_goal_wg_gpm_r_the_defragmentor_desc:0 "$r_the_defragmentor$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_reality_perforator:0 "유물 탈취"
+ war_goal_wg_gpm_r_reality_perforator_desc:0 "$r_reality_perforator$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_pox_sample:0 "유물 탈취"
+ war_goal_wg_gpm_r_pox_sample_desc:0 "$r_pox_sample$을(를) 탈취하기 위한 전쟁입니다." 
+ war_goal_wg_gpm_r_cryo_core:0 "유물 탈취"
+ war_goal_wg_gpm_r_cryo_core_desc:0 "$r_cryo_core$을(를) 탈취하기 위한 전쟁입니다."
+ war_goal_wg_gpm_r_war_forge:0 "유물 탈취"
+ war_goal_wg_gpm_r_war_forge_desc:0 "$r_war_forge$을(를) 탈취하기 위한 전쟁입니다."
+ 
+ #######################################
+ #### war Names
+ #######################################
+ 
+ 
+ 
+ 
+ 
+ 
+ 

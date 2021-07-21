@@ -1,0 +1,131 @@
+﻿l_english:
+
+##################################################################################################################################################################################################################
+### MEGASTRUCTURES ###
+######################
+
+hyperlane_creator_emisor_0:0 "하이퍼레인 생성 신호 발신기 건설 구역"
+hyperlane_creator_emisor_0_DESC:0 "하이퍼레인 생성 1 단계: 이 구조물을 하이퍼레인 연결이 필요한 두 성계 중 하나에 건설합니다."
+hyperlane_creator_emisor_0_MEGASTRUCTURE_DETAILS:0 "하이퍼레인 생성 1 단계: 이 구조물을 하이퍼레인 연결이 필요한 두 성계 중 하나에 건설합니다."
+                                  
+hyperlane_creator_receptor_0:0 "하이퍼레인 생성 신호 수신기 건설 구역"
+hyperlane_creator_receptor_0_DESC:0 "하이퍼레인 생성 2 단계: 이 구조물을 하이퍼레인 연결이 필요한 두 성계 중 나머지 하나에 건설합니다."
+hyperlane_creator_receptor_0_MEGASTRUCTURE_DETAILS:0 "하이퍼레인 생성 2 단계: 이 구조물을 하이퍼레인 연결이 필요한 두 성계 중 나머지 하나에 건설합니다."
+
+hyperlane_creator_emisor_1:0 "하이퍼레인 생성 신호 발신기"
+hyperlane_creator_emisor_1_DESC:0 "하이퍼레인 생성 3 단계: 이 구조물을 업그레이드하여 하이퍼레인 생성 신호 발신기를 완성하십시오."
+
+hyperlane_creator_receptor_1:0 "하이퍼레인 생성 신호 수신기"
+hyperlane_creator_receptor_1_DESC:0 "하이퍼레인 생성 4 단계: 이 구조물을 업그레이드하여 하이퍼레인 생성 신호 수신기를 완성하십시오."
+
+hyperlane_creator_emisor_2:0 "하이퍼레인 생성 신호 발신기 - 활성화"
+hyperlane_creator_emisor_2_DESC:0 "하이퍼레인 생성 5 단계: 이 구조물을 업그레이드하여 발신기를 활성화하고 새 하이퍼레인을 생성하십시오."
+
+
+
+hyperlane_remover_emisor_0:0 "하이퍼레인 차단 신호 발신기 건설 구역"
+hyperlane_remover_emisor_0_DESC:0 "하이퍼레인 제거 1 단계: 이 구조물을 기존의 하이퍼레인 제거가 필요한 두 성계 중 하나에 건설합니다."
+hyperlane_remover_emisor_0_MEGASTRUCTURE_DETAILS:0 "하이퍼레인 제거 1 단계: 이 구조물을 기존의 하이퍼레인 제거가 필요한 두 성계 중 하나에 건설합니다."
+
+hyperlane_remover_receptor_0:0 "하이퍼레인 차단 신호 수신기 건설 구역"
+hyperlane_remover_receptor_0_DESC:0 "하이퍼레인 제거 2 단계: 이 구조물을 기존의 하이퍼레인 제거가 필요한 두 성계 중 나머지 하나에 건설합니다."
+hyperlane_remover_receptor_0_MEGASTRUCTURE_DETAILS:0 "하이퍼레인 제거 2 단계: 이 구조물을 기존의 하이퍼레인 제거가 필요한 두 성계 중 나머지 하나에 건설합니다."
+
+hyperlane_remover_emisor_1:0 "하이퍼레인 차단 신호 발신기"
+hyperlane_remover_emisor_1_DESC:0 "하이퍼레인 제거 3 단계: 이 구조물을 업그레이드하여 하이퍼레인 차단 신호 발신기를 완성하십시오."
+
+hyperlane_remover_receptor_1:0 "하이퍼레인 차단 신호 수신기"
+hyperlane_remover_receptor_1_DESC:0 "하이퍼레인 제거 4 단계: 이 구조물을 업그레이드하여 하이퍼레인 차단 신호 수신기를 완성하십시오."
+
+hyperlane_remover_emisor_2:0 "하이퍼레인 차단 신호 발신기 - 활성화"
+hyperlane_remover_emisor_2_DESC:0 "하이퍼레인 제거 5 단계: 이 구조물을 업그레이드하여 발신기를 활성화하고 기존의 하이퍼레인을 제거하십시오."
+
+
+
+nsc_strategic_resource_factory_0_MEGASTRUCTURE_DETAILS:0 "많은 광물과 에너지 크레딧을 소비하여 은하 전략자원의 대부분을 생산할 수 있는 대규모 산업단지입니다."
+nsc_strategic_resource_factory_0:0 "전략 자원 공장 건설구역"
+nsc_strategic_resource_factory_0_DESC:0 "많은 광물과 에너지 크레딧을 소비하여 은하 전략자원의 대부분을 생산할 수 있는 대규모 산업단지입니다."
+nsc_strategic_resource_factory_0_CONSTRUCTION_INFO_DELAYED:0 "많은 광물과 에너지 크레딧을 소비하여 은하 전략자원의 대부분을 생산할 수 있는 대규모 산업단지입니다."
+
+nsc_strategic_resource_factory_1:0 "전략 자원 공장"
+nsc_strategic_resource_factory_1_DESC:0 "많은 광물과 에너지 크레딧을 소비하여 은하 전략자원의 대부분을 생산할 수 있는 대규모 산업단지입니다."
+nsc_strategic_resource_factory_1_CONSTRUCTION_INFO_DELAYED:0 "많은 광물과 에너지 크레딧을 소비하여 은하 전략자원의 대부분을 생산할 수 있는 대규모 산업단지입니다."
+nsc_strategic_resource_factory_1_MEGASTRUCTURE_DETAILS:0 "많은 광물과 에너지 크레딧을 소비하여 은하 전략자원의 대부분을 생산할 수 있는 대규모 산업단지입니다."
+
+
+
+nsc_galactic_mall_0_MEGASTRUCTURE_DETAILS:0 "이 은하에서 가장 큰 쇼핑 센터입니다. 엄청난 양의 소비재를 생산할 수 있으며 궁극의 쇼핑 경험을 제공해줄 것입니다."
+
+nsc_galactic_mall_0:0 "은하 백화점 건설 구역"
+nsc_galactic_mall_0_DESC:0 "이 은하에서 가장 큰 쇼핑 센터입니다. 엄청난 양의 소비재를 생산할 수 있으며 궁극의 쇼핑 경험을 제공해줄 것입니다."
+nsc_galactic_mall_0_CONSTRUCTION_INFO_DELAYED:0 "이 은하에서 가장 큰 쇼핑 센터입니다. 엄청난 양의 소비재를 생산할 수 있으며 궁극의 쇼핑 경험을 제공해줄 것입니다."
+nsc_galactic_mall_1:0 "은하 백화점"
+nsc_galactic_mall_1_DESC:0 "이 은하에서 가장 큰 백화점으로 §G500§! 만큼의 £consumer_goods §Y소비재§!와 §G50§! 만큼의 £unity£ §Y통합력§!을 생산합니다."
+nsc_galactic_mall_1_CONSTRUCTION_INFO_DELAYED:0 "£energy 에너지 크레딧과 £minerals 광물을 사용하여 엄청난 양의 £consumer_goods 소비재를 생산할 수 있는 은하 최대 규모의 쇼핑 센터입니다."
+nsc_galactic_mall_1_MEGASTRUCTURE_DETAILS:0 "이 은하에서 가장 큰 쇼핑 센터입니다. 엄청난 양의 소비재를 생산할 수 있으며 궁극의 쇼핑 경험을 제공해줄 것입니다."
+
+
+
+nsc_hospital_0_MEGASTRUCTURE_DETAILS:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 대규모 병원입니다."
+				       
+nsc_hospital_0:0 "은하 종합병원 건설 구역"
+nsc_hospital_0_DESC:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 대규모 병원입니다."
+nsc_hospital_0_CONSTRUCTION_INFO_DELAYED:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 대규모 병원입니다."
+
+nsc_hospital_1:0 "은하 종합병원 진료 구역"
+nsc_hospital_1_DESC:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 대규모 진료소입니다."
+nsc_hospital_1_CONSTRUCTION_INFO_DELAYED:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 대규모 진료소입니다."
+nsc_hospital_1_MEGASTRUCTURE_DETAILS:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 대규모 진료소입니다."
+
+nsc_hospital_2:0 "은하 종합병원 의료 센터"
+nsc_hospital_2_DESC:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 거대한 의료 센터입니다."
+nsc_hospital_2_CONSTRUCTION_INFO_DELAYED:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 거대한 의료 센터입니다."
+nsc_hospital_2_MEGASTRUCTURE_DETAILS:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 다양한 질병에 대한 분석과 치료를 전담하는 거대한 의료 센터입니다."
+
+nsc_hospital_3:0 "은하 종합병원"
+nsc_hospital_3_DESC:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 모든 질병에 대한 분석과 치료를 전담하는 엄청나게 거대한 최점단 종합병원입니다."
+nsc_hospital_3_CONSTRUCTION_INFO_DELAYED:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 모든 질병에 대한 분석과 치료를 전담하는 엄청나게 거대한 최점단 종합병원입니다."
+nsc_hospital_3_MEGASTRUCTURE_DETAILS:0 "은하의 다양한 외계종 연구와 그들에게 영향을 미치는 모든 질병에 대한 분석과 치료를 전담하는 엄청나게 거대한 최점단 종합병원입니다."
+
+triggered_opinion_of_nsc_hopsital_1:0 "은하 종합병원"
+triggered_opinion_of_nsc_hopsital_2:0 "$triggered_opinion_of_nsc_hopsital_1$"
+triggered_opinion_of_nsc_hopsital_3:0 "$triggered_opinion_of_nsc_hopsital_1$"
+
+
+
+
+
+##################################################################################################################################################################################################################
+### HYPERLANE CREATION/REMOVAL ###
+##################################
+
+hyperlane_generation.1.name:0 "하이퍼레인 생성됨"
+hyperlane_generation.1.desc:0 "§Y[hyperlane_creator_emisor.GetName]§!와 §Y[hyperlane_creator_receptor.GetName]§! 사이에 새로운 하이퍼레인을 만들기 위한 우리의 노력이 결실을 맺었습니다."
+hyperlane_generation.a:0 "훌륭해."
+
+hyperlane_generation.3.name:0 "하이퍼레인 제거됨"
+hyperlane_generation.3.desc:0 "§Y[hyperlane_remover_emisor.GetName]§!와 §Y[hyperlane_remover_receptor.GetName]§! 사이에 있던 기존의 하이퍼레인을 제거하려는 우리의 노력이 결실을 맺었습니다."
+
+hyperlane_generation.5.name:0 "하이퍼레인 생성 신호 발신기 건설"
+hyperlane_generation.5.desc:0 "§Y[hyperlane_generator_1.GetName]§!에 하이퍼레인 생성 신호 발신기를 건설하기 위한 첫 단계를 완료했습니다."
+
+hyperlane_generation.7.name:0 "하이퍼레인 생성 신호 수신기 건설"
+hyperlane_generation.7.desc:0 "§Y[hyperlane_generator_2.GetName]§!에 하이퍼레인 생성 신호 수신기를 건설하기 위한 첫 단계를 완료했습니다."
+
+hyperlane_generation.9.name:0 "하이퍼레인 차단 신호 발신기 건설"
+hyperlane_generation.9.desc:0 "§Y[hyperlane_generator_3.GetName]§!에 하이퍼레인 차단 신호 발신기를 건설하기 위한 첫 단계를 완료했습니다."
+
+hyperlane_generation.11.name:0 "하이퍼레인 차단 신호 수신기 건설"
+hyperlane_generation.11.desc:0 "§Y[hyperlane_generator_4.GetName]§!에 하이퍼레인 차단 신호 수신기를 건설하기 위한 첫 단계를 완료했습니다."
+
+hyperlane_generation.6.name:0 "하이퍼레인 생성 신호 발신기 건설 완료"
+hyperlane_generation.6.desc:0 "마침내 §Y[From.From.GetName]§!에 하이퍼레인 생성 신호 발신기가 건설되었습니다."
+
+hyperlane_generation.8.name:0 "하이퍼레인 생성 신호 수신기 건설 완료"
+hyperlane_generation.8.desc:0 "마침내 §Y[From.From.GetName]§!에 하이퍼레인 생성 신호 수신기가 건설되었습니다."
+
+hyperlane_generation.10.name:0 "하이퍼레인 차단 신호 발신기 건설 완료"
+hyperlane_generation.10.desc:0 "마침내 §Y[From.From.GetName]§!에 하이퍼레인 차단 신호 발신기가 건설되었습니다."
+
+hyperlane_generation.12.name:0 "하이퍼레인 차단 신호 수신기 건설 완료"
+hyperlane_generation.12.desc:0 "마침내 §Y[From.From.GetName]§!에 하이퍼레인 차단 신호 수신기가 건설되었습니다."

@@ -1,0 +1,12 @@
+﻿ l_english:
+ 
+ 
+ civic_machine_quantum_systems: "양자 시뮬레이션"
+ civic_machine_quantum_systems_desc: "이 기계 지능은 과거 및 현재 사건에 대한 정보를 수집하여 미래를 예측하도록 설계되었습니다."
+ civic_tooltip_machine_quantum_systems_effects: "양자 시뮬레이션: 완료된 고고학 발굴지마다 §G+1§! , 최대 5.\n§Y양자 시뮬레이션§!은 누적되며 §G추적§!, §G회피§!, §G명중§!, §G함선 후퇴 확률§!에 보너스를 제공합니다."
+ 
+ cx_quantum_system_1: "양자 시뮬레이션"
+ cx_quantum_system_2: "$cx_quantum_system_1$"
+ cx_quantum_system_3: "$cx_quantum_system_1$"
+ cx_quantum_system_4: "$cx_quantum_system_1$"
+ cx_quantum_system_5: "$cx_quantum_system_1$"

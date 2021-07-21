@@ -1,0 +1,55 @@
+﻿l_english:
+
+ BSW_gamestart_event.2.name:0 "§GBSW 3§! 게임 시작 설정"
+
+ BSW_gamestart_event.2.desc:0 "게임 시작시 §GBSW 3 확장 요소§!를 사용할지를 선택할 수 있습니다.\n§R이 설정은 이후 변경할 수 없습니다.§!\n\n$BSW_gamestart_event.2.desc.SSP$\n\n$BSW_gamestart_event.2.desc.ECM$\n\n자세한 정보는 BSW 3 모드 페이지를 참고하세요."
+ BSW_gamestart_event.2.desc.SSP:0 "§H함선 전문화§!\n전문화 보너스는 각 함급별로 하나씩만 설정할 수 있는 역할 특화 보너스입니다.\n이는 해당 함급을 특정 역할에 극단적으로 적합하게 하고 다른 역할 수행을 어렵게 합니다."
+ BSW_gamestart_event.2.desc.ECM:0 "§H전자전 및 지원 함선§!\n적의 전투능력을 저해하거나 아군을 보조하는 부품을 장비하는 함선 구역을 사용할 수 있습니다."
+
+
+ BSW_gamestart_SSP.on:0 "함선 전문화: §GON§!"
+ BSW_gamestart_SSP.on.desc:0 "현재 §H함선 전문화§!를 §G사용하도록§! 설정되었습니다.\n이후 §G강화 함선 선체 기술§!을 개발하면 함선 전문화를 설정할 수 있고, AI 국가도 함선 전문화를 사용합니다.\n$BSW_gamestart_SSP.desc$"
+ BSW_gamestart_SSP.off:0 "함선 전문화: §ROFF§!"
+ BSW_gamestart_SSP.off.desc:0 "현재 §H함선 전문화§!를 §R사용하지 않도록§! 설정되었습니다.\n이후 강화 함선 선체 기술을 개발하여도 함선 전문화를 설정할 수 없고, AI 국가도 함선 전문화를 사용하지 않습니다.\n$BSW_gamestart_SSP.desc$"
+
+ BSW_gamestart_SSP.desc:0 "함선 전문화 사용 여부를 변경하려면 클릭하세요."
+
+
+ BSW_gamestart_ECM.on:0 "전자전함 및 지원함: §GON§!"
+ BSW_gamestart_ECM.on.desc:0 "현재 §H전자전함 및 지원함§!을 §G사용하도록§! 설정되었습니다.\n이후 §G전자전 기술§!이 개발되면 전자전 및 지원함 구역을 사용할 수 있고, AI 국가도 전자전 및 지원함을 사용합니다.\n$BSW_gamestart_ECM.desc$"
+ BSW_gamestart_ECM.off:0 "전자전함 및 지원함: §ROFF§!"
+ BSW_gamestart_ECM.off.desc:0 "현재 §H전자전함 및 지원함§!을 §R사용하지 않도록§! 설정되었습니다.\n전자전 기술 개발이 불가능하고, AI 국가도 전자전 및 지원함을 사용하지 않습니다.\n$BSW_gamestart_ECM.desc$"
+
+ BSW_gamestart_ECM.desc:0 "전자전함 및 지원함 사용 여부를 변경하려면 클릭하세요."
+
+
+ BSW_gamestart_FIGHTER.on:0 "방공 요격기: §GON§!"
+ BSW_gamestart_FIGHTER.on.desc:0 "현재 §H방공 요격기§!를 §G사용하도록§! 설정되었습니다.\n대함공격 위주의 폭격기와 대공전투 위주의 요격기를 모두 사용할 수 있습니다. AI 국가도 마찬가지입니다.\n$BSW_gamestart_FIGHTER.desc$"
+ BSW_gamestart_FIGHTER.off:0 "방공 요격기: §ROFF§!"
+ BSW_gamestart_FIGHTER.off.desc:0 "현재 §H방공 요격기§!를 §R사용하지 않도록§! 설정되었습니다.\n정찰기와 대함공격 위주의 폭격기만 사용할 수 있습니다. AI 국가도 마찬가지입니다.\n$BSW_gamestart_FIGHTER.desc$"
+
+ BSW_gamestart_FIGHTER.desc:0 "방공 요격기 사용 여부를 변경하려면 클릭하세요."
+ 
+
+ BSW_gamestart_PICKET_SPEED.on:0 "방공함 전투속도 조절: §GON§!"
+ BSW_gamestart_PICKET_SPEED.on.desc:0 "현재 §H방공함 전투속도 조절§!을 §G사용하도록§! 설정되었습니다.\n장거리에서 함재기가 포함된 상대와 전투할 경우 초계 컴퓨터를 장비한 함선들은 함대 내 가장 느린 함선에 속도를 맞춰 주력함을 보호하려고 할 것입니다. 거리가 가까워진다면 똑같이 돌격할 것입니다. AI 국가도 마찬가지입니다.\n$BSW_gamestart_PICKET_SPEED.desc$"
+ BSW_gamestart_PICKET_SPEED.half:0 "방공함 전투속도 조절: §YHALF§!"
+ BSW_gamestart_PICKET_SPEED.half.desc:0 "현재 §H방공함 전투속도 조절§!을 §Y일부만 사용하도록§! 설정되었습니다.\n함재기가 포함된 상대와 전투할 경우 초계 컴퓨터를 장비한 함선 중 일부는 함대 내 가장 느린 함선에 속도를 맞추고, 일부는 전속 전진할 것입니다. AI 국가도 마찬가지입니다.\n$BSW_gamestart_PICKET_SPEED.desc$"
+ BSW_gamestart_PICKET_SPEED.off:0 "방공함 전투속도 조절: §ROFF§!"
+ BSW_gamestart_PICKET_SPEED.off.desc:0 "현재 §H방공함 전투속도 조절§!을 §R사용하지 않도록§! 설정되었습니다.\n$BSW_gamestart_PICKET_SPEED.desc$"
+
+ BSW_gamestart_PICKET_SPEED.desc:0 "방공함 전투속도 조절 사용 여부를 변경하려면 클릭하세요."
+
+ 
+ BSW_gamestart_CC_XL.on:0 "순양함 중추 선수: §GON§!"
+ BSW_gamestart_CC_XL.on.desc:0 "현재 §H순양함 중추 선수§!를 §G사용하도록§! 설정되었습니다.\n$BSW_gamestart_CC_XL.desc$"
+ BSW_gamestart_CC_XL.penalty:0 "순양함 중추 선수: §YPENALTY§!"
+ BSW_gamestart_CC_XL.penalty.desc:0 "현재 §H순양함 중추 선수§!를 §Y사용하도록§! 설정되었습니다.\n다만, X 슬롯 무기를 중추 선수에 장비한 순양함은 함선의 기동력과 내구력을 상당 부분 희생해야 할 것입니다. AI 국가도 마찬가지입니다.\n§H중추 선수§!를 장비한 §G순양함§! 변동치:\n함선 내구력: §R-25%§!\n회피율: §R-50%§!\n$BSW_gamestart_CC_XL.desc$"
+ BSW_gamestart_CC_XL.off:0 "순양함 중추 선수: §ROFF§!"
+ BSW_gamestart_CC_XL.off.desc:0 "현재 §H순양함 중추 선수§!를 §R사용하지 않도록§! 설정되었습니다.\n$BSW_gamestart_CC_XL.desc$"
+
+ BSW_gamestart_CC_XL.desc:0 "순양함 중추 선수 사용 여부를 변경하려면 클릭하세요."
+
+
+ BSW_gamestart_finish.desc:0 "설정을 완료했다면 클릭하세요. §R이 설정은 이 게임 중에는 변경할 수 없습니다.§!"
+ 

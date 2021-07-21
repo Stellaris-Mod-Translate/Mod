@@ -1,0 +1,202 @@
+﻿ l_english:
+ 
+ 
+ ####################################
+ # Content
+ ####################################
+ 
+ job_cocoon:0 "유전자 조립자 직업"
+ job_cocoon_plural:0 "유전자 조립자"
+ job_cocoon_desc:0 "이 전문 드론들은 $building_cocoons_plant$에서 일하면서 생체공학을 활용하여 배아를 설계,조립, 육성하는 일을 담당합니다."
+ mod_job_cocoon_add:0 "$job_cocoon$ 직업"
+ mod_job_cocoon_per_pop:0 "§Y0§!, §Y15§!, §Y30§! 그리고 §Y60§! POP때 $job_cocoon$ 직업 추가"
+ mod_job_cocoon_per_pop_short:0 ""
+ 
+ 
+ building_cocoons_plant:0 "유기물질 보관실"
+ building_cocoons_plant_desc:0 "이 보관실은 군체의식에 통합되어 유용하게 쓰일 수 있도록 바이오매스를 적재하고 유지하는 밀폐된 환경을 제공합니다"
+ 
+ 
+ tech_gene_manipulation:0 "임의적 유전자 변경"
+ tech_gene_manipulation_desc:0 "우리는 더 이상 종의 기본적인 생물학적 구조에 의해 제한을 받지 않을 것입니다. DNA는 조각가가 의도하는 것처럼 형성되어야 할 또 다른 물질일 뿐입니다."
+ 
+ 
+ 
+ #\nSpecies within our empire can §YCrossbreed§!.
+ life_masters_tooltip:0 "§Y$life_masters_1_trait$§! 고유한 종족마다 특별한 보너스를 주는 모디파이가 추가 되었습니다.\n§Y유기물질 통합§!의 확률이 두배가 됩니다. (여전히 고유 유기물질 종족당 한번만 발생합니다.)"
+ #Species grown in cocoons can now gain an additional otherwise unattainable random trait, the main species type will favor some traits over others.
+ life_crafters_tooltip:0 "우주 항에 우주 생물체를 창조하는 기술을 부여합니다."
+ 
+ pop_cat_life_masters_trophy: "유기물질"
+ pop_cat_life_masters_trophy_plural: "유기물질"
+ pop_cat_life_masters_trophy_desc: "군체의 진화에 사용되는 유기물질입니다."
+ 
+ job_life_masters_bio_trophy: "유기물질 공급원 직업"
+ job_life_masters_bio_trophy_plural: "유기물질 공급원"
+ job_life_masters_bio_trophy_desc: "이 POP들은 군체의 진화를 위한 유기물질로 활용되고 있습니다."
+ job_life_masters_bio_trophy_effect_desc: "£job_life_masters_bio_trophy£ $job_life_masters_bio_trophy_plural$ (생체기념물) 은 §Y£society£ $society_research$§!와 §Y복합 드론 산출량§!을 생산합니다."
+ 
+ mod_job_life_masters_bio_trophy_add: "$job_life_masters_bio_trophy$ 직업"
+ mod_job_life_masters_bio_trophy_per_pop: "10 £pop£ §YPOP§!마다 §G+1§! $job_life_masters_bio_trophy$ 직업"
+ mod_job_life_masters_bio_trophy_per_pop_short: ""
+ 
+ 
+ 
+ hive_mind_biological_ascension_only1:0 "하이브 마인드 권한 요구"
+ 
+ ap_life_assemblers:0 "유기물질 통합"
+ ap_life_assemblers_desc:0 "유기물질로 가득찬 은하의 행복하다고 착각하는 무지를 기뻐하는 것은 더 이상 저지르지 않을 실수입니다."
+ ap_life_masters:0 "돌연변이 진화"
+ ap_life_masters_desc:0 "유기물질 통합은 우리의 유전 물질을 영구적으로 변화시킴으로써 더 진화할 수 있도록 하는 집합체의 가장 기본적인 기능입니다."
+ 
+ MESSAGE_SPECIES_MUTATION_TITLE:0 "유기물질 통합 완료"
+ MESSAGE_SPECIES_MUTATION:0 "$PLANET|Y$ 행성에서 사육하던 우리의 £pop£ POP이 변이했습니다."
+ 
+ tech_genetic_chimerism:0 "혼종화 변이"
+ tech_genetic_chimerism_desc:1 "DNA 돌연변이의 발전은 하나 이상의 명백한 표현형을 가진 세포로 구성된 유기체의 창조를 가능하게 합니다."
+ chimera_army:0 "키메라 부대"
+ chimera_army_plural:0 "키메라 부대"
+ chimera_army_desc:0 "여러 짐승들의 DNA로 구성된 이 공포스런 키메라 무리는 본능적인 살인 충동만이 있습니다."
+ 
+ 
+ 
+ ap_life_assemblers_modifier_desc:1 "§Y$citizenship_organic_trophy$§! 시민권이 활성화 됩니다.\n§H건물 잠금해제:§! $building_cocoons_plant$; 유기물질을 관리하기 위해 특별히 설계된 건물입니다.\n§Y군체§! POP과 §Y유기물질§! POP이 있는 행성에 있는 다른 종들간에 §Y유기물질 통합§!을 할 수 있습니다. 유기물질 통합은 §Y군체§! POP의 초상화를 딴 §Y혼종§!을 만들지만, §Y+1 최대 특성 점수§!와 §Y+1 최대 특성 갯수§!를 혼합한 특성을 갖게 됩니다.\n유기물질 통합은 고유 유기물질 종족 당 한 번만 가능합니다."
+ requires_technology_tech_cloning:0 "$TRIGGER_FAIL$£society£ §Y$tech_cloning$§! 기술을 필요로 합니다."
+ requires_ap_life_assemblers:0 "$TRIGGER_FAIL$£unity£ §Y$ap_life_assemblers$§! 승천 특전을 필요로 합니다."
+ 
+ 
+ life_masters_1_trait: "돌연변이 진화"
+ life_masters_2_trait: "$life_masters_1_trait$"
+ life_masters_3_trait: "$life_masters_1_trait$"
+ life_masters_4_trait: "$life_masters_1_trait$"
+ life_masters_5_trait: "$life_masters_1_trait$"
+ life_masters_6_trait: "$life_masters_1_trait$"
+ life_masters_7_trait: "$life_masters_1_trait$"
+ life_masters_8_trait: "$life_masters_1_trait$"
+ life_masters_9_trait: "$life_masters_1_trait$"
+ life_masters_10_trait: "$life_masters_1_trait$"
+ 
+ 
+ 
+ 
+ ####################################
+ # Traits
+ ####################################
+ 
+ trait_cortex:0 "확장된 시냅스 피질"
+ trait_cortex_desc:0 "§L이 종족의 뇌는 너무 커져서 아예 시냅스 피질이라는 새로운 조직을 만들어냈으며, 사고력이 향상되었습니다.§!\n"
+ 
+ trait_diaphragm:0 "강화 허파"
+ trait_diaphragm_desc:0 "§L이 종족의 허파는 다른 종족보다 대기를 더 효과적으로 호흡하고 사용할 수 있어, 향상된 활동 범위 및 환경 활용 능력을 제공합니다.§!\n"
+ 
+ trait_scales:0 "신진대사 지연"
+ trait_scales_desc:0 "§L이 종족은 늦춰진 신진대사 덕분에 주요 조직의 노화가 지연되었습니다.§!\n"
+ 
+ trait_wings:0 "개선된 날개"
+ trait_wings_desc:0 "§L이 종족의 날개는 공기역학적으로 재설계되어 더 높은 고도에 도달할 수 있도록 해줍니다.§!\n"
+ 
+ trait_exoskeleton:0 "신축성 외골격"
+ trait_exoskeleton_desc:0 "§L이 종족의 유연한 외골격은 좁은 공간에서도 자유자재로 움직일 수 있도록 해줍니다.§!\n"
+ 
+ trait_shell:0 "보강된 껍질"
+ trait_shell_desc:0 "§L어떤 때는 안식처이지만, 다른 때는 방어 기제입니다. 이 종족은 이제 고유의 껍질을 생성할 수 있습니다.§!\n"
+ 
+ trait_pheromones:0 "매혹적 페로몬"
+ trait_pheromones_desc:0 "§L이 종족은 다른 이들의 행동에 영향을 주는 화학 물질을 대기 중으로 방출할 수 있습니다.§!\n"
+ 
+ trait_photosynthetic:0 "광합성"
+ trait_photosynthetic_desc:0 "§L이 종족은 이제 광합성을 할 수 있습니다!§!"
+ 
+ trait_encrusted_minerals:0 "미네랄 신체"
+ trait_encrusted_minerals_desc:0 "§L이 종의 신체는 미네랄로 감싸져 있습니다. 그들의 분자 구조는 석질류와 같습니다.§!\n"
+ 
+ trait_metal_blood:0 "금속성 혈액"
+ trait_metal_blood_desc:0 "§L이 종족의 혈류 안에는 생체 금속이 흐르고 있습니다.§!\n"
+ 
+ trait_basic_genetic_template: "단순한 유전 구조"
+ trait_basic_genetic_template_desc: "§L이 종족의 게놈은 생존에 필요한 최소한의 부분만 남기고 간소화되어, 인위적으로 성장을 가속화하기에 용이해졌습니다.§!\n"
+ 
+ trait_hyperosmia: "초후각"
+ trait_hyperosmia_desc: "§L이 종족은 극도로 발달하고 예민한 후각을 가지고 있습니다.§!\n"
+ 
+ trait_lapidaries: "세공사"
+ trait_lapidaries_desc: "§L이 종족은 광물이나 보석 등을 매우 정밀하게 가공하거나 연마할 수 있는 것으로 잘 알려져 있습니다.§!\n"
+ 
+ trait_panners: "금속채취자"
+ trait_panners_desc: "§이 종은 강과 광산과 깊은 관련이 있어 금속 채취에 탁월합니다.§!\n"
+ 
+ trait_ironmongers: "강철예찬론자"
+ trait_ironmongers_desc: "§L이 종족은 강도를 개선하고 불순물을 제거하기 위해 금속을 접을 수 있는 능력으로 잘 알려져 있습니다.§!\n"
+ 
+ trait_refiners: "Refiners"
+ trait_refiners_desc: "§L이 종족은 광물이나 보석 등을 매우 정밀하게 가공하거나 연마할 수 있는 것으로 잘 알려져 있습니다.§!\n"
+ 
+ trait_disassemblable: "Disassemblable"
+ trait_disassemblable_desc: "§L이 종족은 원하는 대로 신체 부위를 분리하고 교체할 수 있어 필요할 때 공간을 절약할 수 있습니다§!\n"
+ 
+ 
+ 
+ ####################################
+ # Parasitic embryos
+ ####################################
+ 
+ job_purge_parasitic:0 "정화 중"
+ job_purge_parasitic_plural:0 "정화 중"
+ job_purge_parasitic_desc:2 "이 POP은 우리 정책에 따라 정화되고 있습니다."
+ 
+ casus_belli_cb_abduct:0 "예속"
+ casus_belli_cb_abduct_acquire_hint:0 "§E독립 제국이 되면 §Y$casus_belli_cb_abduct$§! §H비-게슈탈트§! 제국들에 대한 §H전쟁 명분§!을 얻을 수 있습니다.\n\n§R우리는 평화 속에 있어야 합니다!§!§!"
+ 
+ war_goal_wg_abduct:0 "제물 강요"
+ war_goal_wg_abduct_desc:0 "전쟁은 적을 피의 공포로 지배하기 위해 일어납니다.\n\n현상 유지 평화가 체결될 경우, 우리가 점령한 성계에 최소 하나의 행성이 있으면 새로운 피의 조공국이 됩니다."
+ 
+ 
+ casus_belli_cb_restraint:0 "지배"
+ 
+ war_goal_wg_restraint:0 "억제"
+ war_goal_wg_restraint_desc:0 "전쟁은 압제자들 밑에서 신음하는 신민들을 직접 계몽시키고 그 대가로 매달 '선의의 대가'를 받습니다.\n\n현상 유지 평화가 체결될 경우, 우리가 점령한 성계에 최소 하나의 행성이 있으면 새로운 조공국에게 양도될 것입니다."
+ war_goal_wg_restraint_megacorp:0 "$war_goal_wg_restraint$"
+ war_goal_wg_restraint_megacorp_desc:0 "$war_goal_wg_restraint_desc$"
+ 
+ #War is waged to sieze pops from the enemy empire for our own. Upon victory we will claim 25% of their population."
+ #wg_abduct_accept:0 "§Y[Root.GetName]§! gains §G25%§! §YPops§! from §Y[From.GetName]§!"
+ SUBJECT_pop_tributary:0 "피의 공포"
+ SUBJECT_DESC_pop_tributary:0 "피의 조공국은 외교적으로 독립이지만  매달 £pop£ §YPOP§!을 대군주에게 공물로 바침으로 경외를 표합니다."
+ MESSAGE_POP_SACRIFICED:0 "행성에서 $PLANET|Y$ £pop£ §Y$SPECIES$ POP§!은 공물로 제공되고 $TARGET_PLANET|Y$에 정착했습니다."
+ MESSAGE_POP_SACRIFICED_FROM_US:0 "$PLANET|Y$  £pop£ §Y$SPECIES$ POP§!은 우리의 대군주 $ABDUCTER|Y$에게 공물로 보내졌습니다."
+ 
+ MESSAGE_PARASITE_COMPLETE_TITLE:0 "감염된 POP"
+ MESSAGE_PARASITE_COMPLETE:0 "행성 $PLANET|Y$ 에서 감염이 시작된 후에 A £pop£ POP이 사육되었습니다. "
+ 
+ MESSAGE_TRAIT_GAINED_TITLE:0 "강화된 종"
+ MESSAGE_TRAIT_GAINED:0 "£pop£ POP은 행성 $PLANET|Y$에서 고치로 사육되는 동안 강화되었습니다."
+ 
+ 
+ ####################################
+ # OLD
+ ####################################
+ 
+ 
+ 
+ 
+ small_ship_swarm_bio:0 "머플링"
+ small_ship_swarm_bio_plural:0 "머플링스"
+ medium_ship_swarm_bio:0 "Myrmitogaster"
+ medium_ship_swarm_bio_plural:0 "마이미토가스터"
+ large_ship_carrier_swarm_bio:0 "아이넥투스"
+ large_ship_carrier_swarm_bio_plural:0 "아이넥투스"
+ queen_swarm_bio:0 "미미시언 퀸"
+ queen_swarm_bio_plural:0 "미미시언 퀸스"
+ 
+ 
+ 
+ larva:0 "애벌레"
+ larva_desc:0 "성체와 확연히 구별할 수 있는 아성체입니다. 성체가 되기 위해서는 변태를 거쳐야 합니다. 무엇으로 자라날까요?"
+ 
+ mod_planet_refiners_exotic_gases_produces_mult: "£job_gas_refiner_drone£ $job_gas_refiner_drone_plural$이 생산하는 £exotic_gases£ $exotic_gases$"
+ mod_planet_translucers_rare_crystals_produces_mult: "£job_translucer_drone£ $job_translucer_drone_plural$이 생산하는 £rare_crystals£ $rare_crystals$"
+ mod_planet_chemists_volatile_motes_produces_mult: "£job_chemist_drone£ $job_chemist_drone_plural$이 생산하는 £volatile_motes£ $volatile_motes$"
+ 
+ mod_planet_livestock_minerals_produces_add: "£job_livestock£ $job_livestock_plural$이 생산하는 £minerals£ $minerals$"
+ mod_planet_livestock_sr_living_metal_produces_add: "£job_livestock£ $job_livestock_plural$이 생산하는 £sr_living_metal£ $sr_living_metal$"
+ mod_planet_pops_organics_upkeep_mult: "생물 POP 유지"

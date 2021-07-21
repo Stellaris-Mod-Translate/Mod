@@ -1,0 +1,7 @@
+﻿l_english:
+ 
+bombardment_annihilation:0 "절멸"
+ bombardment_annihilation_desc:2 "$bombardment_annihilation$ 폭격 태세는 전술적 우위와 강력한 힘을 통해 행성 표면을 깔끔하게 쓸어버리는 것을 목표로 합니다.\n- §Y지상군§!에 §R심대한§! 피해 \n-  §R심대한§! 피해\n- §YPop§!에 §R심대한§! 피해\n- 무방비한 행성을 폭격할 것입니다."
+ 
+bombardment_rapture:0 "황홀"
+ bombardment_rapture_desc:2 "죽이거나 불구로 만드는 것은 잠재적 노동력을 낭비하는 일입니다. 그들을 더 나은 곳으로 데려가는 것이 훨씬 좋습니다.\n- §Y지상군§!에 §E경미한§! 피해 \n- §Y타일§!에 §E경미한§! 피해\n- §YPop§!에 §Y중간의§! 피해\n- 가능하다면 POP을 죽이는 대신 §Y납치§!할 것입니다."

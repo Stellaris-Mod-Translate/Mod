@@ -1,0 +1,177 @@
+﻿ l_english:
+ ####################################
+ # Misc
+ ####################################
+ 
+ 
+ 
+ job_larva_queen:0 "군단 여왕"
+ job_larva_queen_plural:0 "군단 여왕"
+ job_larva_queen_desc:0 "성체 여왕은 주기적으로 날개 달린 암컷과 수컷, 즉 유시충을 낳습니다. 무정란은 수컷이 됩니다. 유정란은 일반적으로 날개가 없는 불임 일꾼이 되지만, 특별한 조건과 보살핌 아래에서 처녀 암컷이 될 수도 있습니다."
+ 
+ civic_hive_organic:0 "유기적 구조물"
+ civic_hive_organic_desc: "이 군체의식은 그들의 애벌레를 자유자재로 변태시켜 살아있는 구조물과 함선을 만듭니다."
+ origin_hive_organic:0 "유기적 구조물"
+ origin_hive_organic_desc: "이 군체의식은 그들의 애벌레를 자유자재로 변태시켜 살아있는 구조물과 함선을 만듭니다."
+ civic_tooltip_organic_effects:0 "§Y유기체§! 함선 형태와 함께 게임 시작 (선택한 다른 함선 형태을 덮어씌움)\n\n§Y함선§!, §Y건물§! 그리고 §Y전초기지§!가 더 적은 £alloys£ §Y합금§!과 £minerals£ §Y광물§!을 소모하는 대가로 £food£ §Y$food$§!과 £larva£ §Y$larva$§!를 필요로 함\n모든 식민지에서 50 POP마다 £job_larva_queen£ §Y$job_larva_queen$§! 직업 추가\n§Y$job_larva_queen$§!이 §Y애벌레 생산§!과 §YPOP 성장 속도 증가§! 중 무엇에 더 집중할 지 결정할 수 있는 정책 제공\n일일 선체 재생: §G+1%§!\n농부 직업 생산: §G+2§!\n광부 직업 생산: §R-1§!"
+ START_SCREEN_ORGANIC_STRUCTURES:0 "개별 유기체에게는 일반적으로 외적 형질의 변이가 거의 일어나지 않지만, 우리 종족은 유전적 표현형을 상황에 맞게 변화시킬 수 있어 유충이 자신의 형태를 근본적으로 바꾸거나 여러 개체가 모여 합쳐질 수 있도록 진화했습니다.\n\n이 진화적 특성은 처음에는 우리 종족에게 혼란을 일으켰지만, 집단의식을 형성한 이래 우리는 각자가 가진 차이점을 받아들였습니다.\n\n우리가 가진 표현형의 가소성은 삶의 여러 난관을 극복하는 데 유리한 것으로 밝혀졌습니다. 여왕은 새 애벌레를 낳아 군체를 확장하기 위한 수단으로서 진화했으며, 다른 이들은 서로 뭉쳐 건물, 배, 복합 드론 또는 일꾼을 형성했습니다.\n\n이제 우리는 광활한 우주를 바라보며 다음 계획을 생각해보자 합니다.\n\n우리는 집단이자, 전체입니다."
+ 
+ 
+ civic_organic_lithoid:0 "살아있는 구조물"
+ civic_organic_lithoid_desc: "이 석질 군체의식은 그들의 신체를 광물, 준광물 덩어리와 융합하여 살아있는 구조물과 함선을 만듭니다."
+ civic_tooltip_organic_lithoid_effects:0 "§Y석질류§! 함선 형태와 함께 게임 시작 (선택한 다른 함선 형태를 덮어씌움).\n\n§Y함선§!, §Y건물§! 그리고 §Y전초기지§!가 더 적은 £energy£ §Y에너지§! 유지비 대가로 £minerals£ §Y$minerals$§!을 요구함.\n§Y일일 선체 재생:§! §G+1%§!\n광부 직업 생산: §G+2§!\n기술공 직업 생산: §R-1§!"
+ 
+ 
+ organic_structures_alates_name:0 "혼인 비행"
+ organic_structures_normal_name:0 "균형잡힌 무리"
+ organic_structures_workers_name:0 "불임 일꾼"
+ policy_organic_structures_policy:0 "무리 집중 정책"
+ policy_organic_structures_policy_desc:0 "우리의 $larva$가 유시충과 일꾼 사이에서 무엇으로 변태하는데 집중할 지 결정할 수 있습니다."
+ organic_structures_normal:0 "균형잡힌 무리"
+ organic_structures_normal_desc:0 "균형잡힌 둥지가 건강한 둥지입니다.\n$job_larva_queen$: POP 성장 속도: §G+5%§!"
+ organic_structures_alates:0 "혼인 비행"
+ organic_structures_alates_desc:0 "$larva$가 부족합니다. 정기적으로 혼인 비행을 속행함으로서, $job_larva_queen$이 더 많은 유시충을 낳아 둥지를 키우도록 할 수 있습니다."
+ organic_structures_workers:0 "불임 일꾼"
+ organic_structures_workers_desc:0 "$larva$가 충분합니다. 혼인 비행을 잠시 중단함으로서, 수정되지 않은 $larva$가 건물이나 함선 대신 일꾼이 되어 더 많은 노동력을 제공하게 할 수 있습니다.\n$job_larva_queen$: POP 성장 속도: §G+10%§!"
+ mod_planet_larva_queens_larva_produces_add: "군단 여왕 애벌레"
+ planet_larva_queens: "군단 여왕"
+ 
+ ####################################
+ # Planetary Buildings
+ ####################################
+ 
+ building_bioresource_silo:0 "자원 저장고"
+ building_bioresource_silo_desc:0 "대량의 자원을 안전하게 보관할 수 있는 대규모 자원 저장고 시설입니다."
+ 
+ building_biobetharian_power_plant:0 "베사리안 발전소"
+ building_biobetharian_power_plant_desc:1 "베사리안 발전소는 베사리안 암석을 사용하여 막대한 양의 에너지 크레딧을 생산합니다."
+ 
+ building_bioenergy_grid:0 "에너지 시설망"
+ building_bioenergy_grid_desc:0 "신중하게 조정된 시설망은 발전기의 출력을 극대화합니다."
+ building_bioenergy_nexus:0 "에너지 연결체"
+ building_bioenergy_nexus_desc:0 "이 거대한 시설은 행성의 모든 에너지망을 집중화하여, 효율성을 증가시킵니다."
+ building_biomineral_purification_plant:2 "광물 정제 공장"
+ building_biomineral_purification_plant_desc:2 "정제기를 거친 광물들은 최고 품질이 됩니다."
+ building_biomineral_purification_hub:2 "광물 정제 중추"
+ building_biomineral_purification_hub_desc:2 "광물을 모아 정제기로 보내는 거대한 중추입니다."
+ 
+ building_bioplanetary_shield_generator:0 "행성 보호막 생성소"
+ building_bioplanetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+ 
+ building_biostronghold:0 "주둔지"
+ building_biostronghold_desc:0 "침공과 반란으로부터 행성을 보호하기 위해 상당한 주둔군을 수용하는 행성의 거점입니다."
+ building_biofortress:0 "요새"
+ building_biofortress_desc:2 "더 많은 주둔군과 병사 훈련시설을 갖춘 대규모 복합 요새입니다."
+ 
+ 
+ 
+ ####################################
+ # Wonders
+ ####################################
+ 
+ building_superbrain:1 "행성 슈퍼컴퓨터"
+ building_superbrain_desc:1 "극도의 복잡한 계산이 시행 가능한, 행성 전체의 연구 생산을 늘리는 거대한 단일 슈퍼컴퓨터입니다."
+ 
+ building_biomilitary_academy:0 "사관학교"
+ building_biomilitary_academy_desc:1 "사관학교는 지역 모집률을 향상시키고 고수준의 훈련을 제공합니다."
+ 
+ 
+ ## BUILDINGS ##
+ building_biohydroponics_farm:0 "수경재배 농장"
+ building_biohydroponics_farm_desc:0 "수경재배 농장은 지역 POP의 소비에 맞춘 영양이 풍부한 채소를 생산합니다."
+ 
+ building_biocrystal_mines:0 "수정 광산"
+ building_biocrystal_mines_desc:1 "수정을 손상시키지 않으려면 이 광산을 굴착할 때 세심한 주의를 기울여야 합니다."
+ building_bioalloy_1:0 "합금 주조소"
+ building_bioalloy_1_desc:0 "이 주조소에서 일하는 금속공학자들은 고품질 합금을 생산합니다."
+ building_bioalloy_2:0 "합금 거대단조장"
+ building_bioalloy_2_desc:0 "거대한 규모의 이 단조장은 합금을 대량으로 생산할 수 있습니다."
+ building_bioalloy_3:0 "합금 나노공장"
+ building_bioalloy_3_desc:0 "나노머신을 이용해 합금을 생산하는 고급 생산 공장입니다."
+ 
+ 
+ building_bio_lab_1:0 "연구소"
+ building_bio_lab_1_desc:0 "연구소는 일반 연구를 위한 기본시설을 제공합니다."
+ building_bio_lab_2:0 "연구 복합단지"
+ building_bio_lab_2_desc:0 "직원 규모가 매우 큰 업그레이드된 연구시설입니다."
+ building_bio_lab_3:0 "고급 연구 복합단지"
+ building_bio_lab_3_desc:0 "이 고급 연구시설에는 최신 과학 장비가 갖추어져 있으며, 직원 규모는 극히 거대합니다."
+ 
+ building_biofood_processing_facility:0 "식품 가공시설"
+ building_biofood_processing_facility_desc:0 "이러한 시설에서 가공된 식품은 영양가가 크게 증가합니다."
+ building_biofood_processing_center:0 "식품 가공소"
+ building_biofood_processing_center_desc:0 "대규모의 식품을 가공할 수 있는 최신식 시설입니다."
+ 
+ building_biorefinery:0 "이종가스 정제소"
+ building_biorefinery_desc:0 "이 고급 정제소들은 이종가스를 생산하기 위해 밤낮으로 운영됩니다."
+ building_biocrystal_plant:0 "합성 수정 공장"
+ building_biocrystal_plant_desc:0 "이곳에서 생산된 수정은 실제와 거의 똑같이 최고의 품질입니다."
+ building_biochemical_plant:0 "화학 공장"
+ building_biochemical_plant_desc:0 "이곳에서는 예측 불가능하고 때때로 불안정한 불안정 분말이 인위적으로 생산됩니다. 이 공장의 반경 5km 이내에서는 점화 행위가 금지되어 있습니다."
+ building_biomote_harvesters:0 "불안정 분말 집진기"
+ building_biomote_harvesters_desc:0 "이 복잡한 시설은 에너지장 내부에 불안정 분말을 모아서 지면 아래의 특수한 격납 구역으로 보냅니다. 이 구역에서 불안정 분말은 안정화되어 수확됩니다."
+ building_biogas_extractors:0 "가스 추출정"
+ building_biogas_extractors_desc:0 "이 거대한 추출정은 이종가스의 매장지에 접근하기 위해서 행성 맨틀 깊숙한 부분까지 뻗어 있습니다."
+ 
+ 
+ 
+ mod_starbase_buildings_alloys_cost_mult:0 "항성기지 건물 합금 비용"
+ mod_starbase_buildings_food_cost_add:0 "항성기지 건물 식량 비용"
+ mod_starbase_modules_alloys_cost_mult:0 "항성기지 모듈 합금 비용"
+ mod_starbase_modules_food_cost_add:0 "항성기지 모듈 식량 비용"
+ 
+ mod_planet_districts_minerals_cost_mult:0 "지구 광물 비용"
+ mod_planet_districts_food_cost_add:0 "지구 식량 비용"
+ mod_planet_buildings_minerals_cost_mult:0 "행성 건물 합금 비용"
+ mod_planet_buildings_food_cost_add:0 "행성 건물 식량 비용"
+ 
+ mod_stations_minerals_cost_mult:0 "우주 스테이션 광물 비용"
+ mod_stations_food_cost_add:0 "우주 스테이션 광물 비용"
+ 
+ mod_station_gatherers_minerals_cost_mult:0 "채굴 스테이션 광물 비용"
+ mod_station_gatherers_food_cost_add:0 "채굴 스테이션 식량 비용"
+ mod_station_gatherers_energy_upkeep_mult:0 "채굴 스테이션 에너지 유지비"
+ mod_station_gatherers_food_upkeep_add:0 "채굴 스테이션 식량 유지비"
+ mod_station_researchers_minerals_cost_mult:0 "연구 스테이션 광물 비용"
+ mod_station_researchers_food_cost_add:0 "연구 스테이션 식량 비용"
+ mod_station_researchers_energy_upkeep_mult:0 "연구 스테이션 에너지 유지비"
+ mod_station_researchers_food_upkeep_add:0 "연구 스테이션 식량 유지비"
+ mod_station_observers_minerals_cost_mult:0 "관측 스테이션 광물 비용"
+ mod_station_observers_food_cost_add:0 "관측 스테이션 식량 비용"
+ mod_station_observers_energy_upkeep_mult:0 "관측 스테이션 에너지 유지비"
+ mod_station_observers_food_upkeep_add:0 "관측 스테이션 식량 유지비"
+ 
+ mod_ship_science_alloys_cost_mult:0 "과학선 합금 비용"
+ mod_ship_science_food_cost_add:0 "과학선 식량 비용"
+ mod_ship_science_alloys_upkeep_mult:0 "과학선 합금 유지비"
+ mod_ship_science_food_upkeep_add:0 "과학선 식량 유지비"
+ mod_ship_colonizer_alloys_cost_mult:0 "개척선 합금 비용"
+ mod_ship_colonizer_food_cost_add:0 "개척선 식량 비용"
+ mod_ship_colonizer_alloys_upkeep_mult:0 "개척선 합금 유지비"
+ mod_ship_colonizer_food_upkeep_add:0 "개척선 식량 유지비"
+ mod_ship_constructor_alloys_cost_mult:0 "건설선 합금 비용"
+ mod_ship_constructor_food_cost_add:0 "건설선 식량 비용"
+ mod_ship_constructor_alloys_upkeep_mult:0 "건설선 합금 유지비"
+ mod_ship_constructor_food_upkeep_add:0 "건설선 식량 유지비"
+ mod_ship_corvette_alloys_cost_mult:0 "초계함 합금 비용"
+ mod_ship_corvette_food_cost_add:0 "초계함 식량 비용"
+ mod_ship_destroyer_alloys_cost_mult:0 "구축함 합금 비용"
+ mod_ship_destroyer_food_cost_add:0 "구축함 식량 비용"
+ mod_ship_cruiser_alloys_cost_mult:0 "순양함 합금 비용"
+ mod_ship_cruiser_food_cost_add:0 "순양함 식량 비용"
+ mod_ship_battleship_alloys_cost_mult:0 "전함 합금 비용"
+ mod_ship_battleship_food_cost_add:0 "전함 식량 비용"
+ mod_ship_titan_alloys_cost_mult:0 "타이탄 합금 비용"
+ mod_ship_titan_food_cost_add:0 "타이탄 식량 비용"
+ mod_ship_military_station_small_alloys_cost_mult:0 "방어 플랫폼 합금 비용"
+ mod_ship_military_station_small_food_cost_add:0 "방어 플랫폼 식량 비용"
+ mod_ship_corvette_alloys_upkeep_mult:0 "초계함 합금 유지비"
+ mod_ship_corvette_food_upkeep_add:0 "초계함 식량 유지비"
+ mod_ship_destroyer_alloys_upkeep_mult:0 "구축함 합금 유지비"
+ mod_ship_destroyer_food_upkeep_add:0 "구축함 식량 유지비"
+ mod_ship_cruiser_alloys_upkeep_mult:0 "순양함 합금 유지비"
+ mod_ship_cruiser_food_upkeep_add:0 "순양함 식량 유지비"
+ mod_ship_battleship_alloys_upkeep_mult:0 "전함 합금 유지비"
+ mod_ship_battleship_food_upkeep_add:0 "전함 식량 유지비"
+ mod_ship_titan_alloys_upkeep_mult:0 "타이탄 합금 유지비"
+ mod_ship_titan_food_upkeep_add:0 "타이탄 식량 유지비"

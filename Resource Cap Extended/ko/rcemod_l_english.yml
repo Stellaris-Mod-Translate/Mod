@@ -1,0 +1,31 @@
+﻿l_english:
+
+ edict_change_capacity:0 "'REC' 모드 메뉴 열기"
+ edict_change_capacity_desc:0 "'Resource Cap Extended' 모드 메뉴를 엽니다. 저장 저장고 용량 설정을 여기서 할 수 있습니다."
+ 
+ rcemodevent.1.name:0 "모드 메뉴"
+ rcemodevent.1.desc:0 "저장 저장고 용량 설정을 여기서 할 수 있습니다. 설정 창 열기를 클릭하시기만 하시면 됩니다. 아무것도 변경하고 싶지 않으시거나 실수로 이 창을 여셨다면, 메뉴 닫기 버튼을 클릭하시기만 하면 별 일 없으실 겁니다."
+ rcemodevent.1.a:0 "설정 창 열기"
+ rcemodevent.1.b:0 "메뉴 닫기"
+
+ rcemodevent.2.name:0 "설정 창"
+ rcemodevent.2.desc:0 "여기서 자원 저장고 수치값을 변경할 수 있습니다. 새 게임이 시작되면 기본적으로 '아주 많음'으로 저장고 용량이 설정됩니다. 저장고 용량이 정확히 얼마나 늘어나는 지 보고 싶으시다면, 정부 인터페이스에서 제국 모디파이어를 확인하세요." 
+
+ rcemod_storage_very_large:0 "저장고 용량: §R아주 많음§!"
+ rcemod_storage_very_large_desc:0 "현재 자원 저장고 용량은 아주 많음으로 설정되었습니다."
+ rcemod_storage_large:0 "저장고 용량: §P많음§!"
+ rcemod_storage_large_desc:0 "현재 자원 저장고 용량은 많음으로 설정되었습니다."
+ rcemod_storage_medium:0 "저장고 용량: §Y중간§!"
+ rcemod_storage_medium_desc:0 "현재 자원 저장고 용량은 중간으로 설정되었습니다."
+ rcemod_storage_small:0 "저장고 용량: §B작음§!"
+ rcemod_storage_small_desc:0 "현재 자원 저장고 용량은 작음으로 설정되었습니다."
+ rcemod_storage_very_small:0 "저장고 용량: §E아주 작음§!"
+ rcemod_storage_very_small_desc:0 "현재 자원 저장고 용량은 아주 작음으로 설정되었습니다."
+
+ rcemodevent.2.a:0 "메뉴로 돌아가기"
+ rcemodevent.2.b:0 "저장고 용량 변경: §R아주 많음§!"
+ rcemodevent.2.c:0 "저장고 용량 변경: §P많음§!"
+ rcemodevent.2.d:0 "저장고 용량 변경: §Y중간§!"
+ rcemodevent.2.e:0 "저장고 용량 변경: §B작음§!" 
+ rcemodevent.2.f:0 "저장고 용량 변경: §E아주 작음§!"
+ rcemodevent.2.g:0 "저장고 용량 변경: §G기본§!"

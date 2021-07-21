@@ -1,0 +1,104 @@
+﻿l_english:
+
+d_ancestor_ruins:0 "고대의 폐허"
+d_ancestor_ruins_desc:0 "이 유적들은 고대의 것으로 보이고, 그 기원은 수수께끼입니다."
+
+d_ancestor_mineral_vault:0 "고대의 광물 저장고"
+d_ancestor_mineral_vault_desc:0 "Scanners detect a large amount of minerals hidden beneath the surface."
+
+d_ancestor_ship_graveyard:0 "고대의 우주선 묘지"
+d_ancestor_ship_graveyard_desc:0 "Remnants of what seem to be ancient starships scatter across the surface."
+
+d_ancestor_archives:0 "고대의 기록 보관소"
+d_ancestor_archives_desc:0 "The Ancient Archive seem to contain a vast amount of knowledge."
+
+
+beacon_of_infinity_system_initializer_NAME:0 "무한의 등대"
+beacon_of_infinity_system_initializer_DESC:0 "Ringworld start (4) on a yellow star, with 1 Ringworld (1) neighbor and 1 broken Ringworld."
+
+broken_ringworld_system_initializer_NAME:0 "부서진 링월드"
+broken_ringworld_system_initializer_DESC:0 "Ringworld start (1) on a random star."
+
+deutschland_system_system_initializer_NAME:0 "도이칠란트"
+deutschland_system_system_initializer_DESC:0 "Ringworld start (8) on a yellow star, with 1 Ringworld (2) neighbor and a ruined Ringworld."
+
+dystopia_system_system_initializer_NAME:0 "디스토피아"
+dystopia_system_system_initializer_DESC:0 "OP Ringworld start (1) on a red star with a ruined Dyson sphere, with 1 neighbor of ruined sentry array and science nexus, and 2 ruined Dyson Ringworlds."
+
+eternal_system_system_initializer_NAME:0 "영원의 빛"
+eternal_system_system_initializer_DESC:0 "Ringworld start (4) on a neutron star, with 1 Ringworld (4) neighbor and 1 ruined Ringworld."
+
+fynri_system_system_initializer_NAME:0 "평온의 정원"
+fynri_system_system_initializer_DESC:0 "OP Ringworld start (4) on a neutron star, with 1 Ringworld (1) neighbor, and a ruined Ringworld."
+
+immortal_system_system_initializer_NAME:0 "불멸의 왕좌"
+immortal_system_system_initializer_DESC:0 "Ringworld start (4) on a pulsar, with 1 Ringworld (4) neighbor and 1 ruined Ringworld."
+
+infinity_system_system_initializer_NAME:0 "무한의 단조장"
+infinity_system_system_initializer_DESC:0 "Ringworld start (4) on a black hole, with 1 Ringworld (4) neighbor and 1 ruined Ringworld."
+
+random_ringworld_system_initializer_NAME:0 "랜덤 링월드"
+random_ringworld_system_initializer_DESC:0 "Ringworld start (4) on a random star."
+
+random_rich_ringworld_system_initializer_NAME:0 "랜덤 부유한 링월드"
+random_rich_ringworld_system_initializer_DESC:0 "Rich Ringworld start (4) on a random star."
+
+random_op_ringworld_system_initializer_NAME:0 "랜덤 OP 링월드"
+random_op_ringworld_system_initializer_DESC:0 "OP Ringworld start (4) on a random star."
+
+shadow_system_system_initializer_NAME:0 "그림자의 땅"
+shadow_system_system_initializer_DESC:0 "OP Ringworld start (4) on a black hole, with 1 ruined Science Nexus Ringworld neighbor, and 1 black hole neighbor."
+
+utopia_system_initializer_NAME:0 "유토피아"
+utopia_system_initializer_DESC:0 "Ringworld start (8) on a blue star."
+
+massive_ringworld_system_initializer_NAME:0 "거대한 링월드"
+massive_ringworld_system_initializer_DESC:0 "Ringworld start (8) on a random star, with 2 Ringworlds (8) on random stars."
+
+ringworld_empire.1.name:0 "[Root.GetName]에서의 발견"
+ringworld_empire.1.desc:0 "감지기는 §H[Root.GetName]§!의 미개척 지역에서 몇 가지 비정상적인 금속 판독값을 보고했습니다. 그 지역을 파헤친 후, 우리 팀은 그것을 발견했습니다. 고대 전함의 잔해가 이곳에 묻혀있었지만, 그 모습은 알 수 없는 이유 때문에 이상하게도 친숙해보였습니다. 고고학자 한 팀이 곧 조사에 참여했는데, 놀랍게도 이 설계는 §H[Root.Owner.GetSpeciesAdj]§!의 선조가 그린 원시적인 그림과 일치했습니다. 어떻게 이럴 수가 있을까요? 이 함선은 §H[Root.Owner.GetSpeciesAdj]§!이(가) 우주 비행이 불가능하던 시대를 앞선 물건입니다.\n\n생물학자들은 §H[Root.Owner.GetSpeciesAdj]§! 진화에 대한 기존 이론을 수정하는 것이 불편해 보이지만, 물리학자와 기술자들은 이 함선에서 발견된 기술에 흥분하고 있습니다. 무기는 현재 우리가 이해하는 물리학의 범주를 넘어선 것이며, 함선이 조립되고 우주 비행을 가능하게 한 방법은 우리의 공학적 경험을 훨씬 뛰어넘는 것 같습니다. 이 문제를 해결하기 위해, 우리의 최고 과학자들은 이 기계들이 실제로 우주 비행을 할 수 있는지를 결정하기 위한 복원 프로젝트를 제안했습니다. 물론, 상당한 자원이 필요할 것입니다.\n\n우리의 선조들은 누구였을까요? 누가 우리가 살고있는 거대한 구조물을 지었을까요? 이 난파선이 우리의 과거에 대한 모든 해답을 가지고 있을 것 같습니다."
+ringworld_empire.1.a:0 "어떻게든 다시 날게할 수 있을까?"
+ringworld_empire.1.b:0 "자원을 위해 폐기해라."
+ringworld_empire.1.c:0 "그들의 기술을 배우자."
+ringworld_empire.1.d:0 "내버려 둬라. 고대 역사는 무관하다."
+
+ringworld_empire.2.name:0 "수리된 고대의 함선"
+ringworld_empire.2.desc:0 "웅웅거리기 시작했습니다. 그것은 처음에는 희미했습니다. 마치 우리의 멀지만 신비로운 과거에서 오는 메아리처럼 말이죠. 그러나 엔진이 굉음을 내며 살아났고, 오래 전에 죽었다고 생각했던 함선을 깨웠습니다. 무기, 생명유지장치, 하이퍼 드라이브 등 모든 것이 온라인 되었고, 이 사실을 함선의 AI가 고대 §H[Root.Owner.GetSpeciesAdj]§!의 방언으로 알렸습니다. 이것은 더 이상 묻히고 잊혀지지 않을 것입니다.\n\n우리는 이런 식으로 몇 척의 배를 다시 활성화시킬 수 있었고, 우리의 제독들은 그것이 실제로 작동하는 것을 보고 싶어 했습니다. 하지만 우리 과학자들은 현대 과학으로 이해되지 않는 이 함선의 기술을 역설계하거나 개조하는 것에 대해 경고했습니다. "어떻게 된건진 모르겠는데, 작동은 하고 폭발하진 않아요." 한 엔지니어가 투덜대며 말했습니다. "그러니까 망가뜨리지 마."\n\n이제 우리가 한때 성간 문명이었다는 것이 점점 명백해지고 있습니다. 원시시대 이전 우리의 진짜 조상들은 우리보다 훨씬 더 많은 기술을 가지고 있었고, 우리가 지금 살고있는 링월드를 건설했을 것입니다. 몇몇 고고학자들은 우리가 한때는 은하계에서 중요한 강국이었다고 주장하지만, 어떤 이유에선지 우리의 조상들은 모든 것을 잃고 우리가 알고 있는 원시적인 존재가 되었다고 말합니다. 하지만 어떻게 그럴 수 있을까요?\n\n의도적이든 아니든, 우리 선조들은 이 함선들을 우리에게 남겨두었습니다. 실수였을까요, 아니면 미래 세대가 언젠가는 은하계에서 그들의 정당한 위치를 되찾기를 바랐을까요? 그들은 말할 수 없는 공포를 마주했거나 수많은 적들을 상대했기 때문에 제국을 포기했을까요? 답이 무엇이든, 우리는 다시 한번 스스로를 위해 그것을 발견할 것입니다."
+ringworld_empire.2.a:0 "함선을 궤도에 올려라!"
+
+ringworld_empire.3.name:0 "드러난 적"
+ringworld_empire.3.desc:0 "우리 선조의 전함에 저장된 고도로 암호화된 파일들 가운데는 §H적§!에 대한 지속적인 언급이 있었습니다. 번역 소프트웨어의 최신 업그레이드를 통해 우리는 선조들의 행성과 문명을 먼지로 바꿔놓은 대성전을 발견할 수 있었습니다. §H적§!에 대한 가장 초기의 언급은 경쟁자에 대한 반감에 지나지 않았던 것 같습니다. 다음 세기에 걸쳐 경쟁은 깊어졌고, 이 제국은 단순히 §H적§!이라고 불렸습니다.\n\n그것은 대리 전쟁으로 시작되었습니다. 지배자의 환심을 사고자 했던 그들의 종속국들은 그들의 강점과 §H적§!의 결의를 시험하며 주인의 경쟁자 제국들과 전투를 벌였습니다. 광신적인 시민들은 곧 지옥으로 변할 전쟁에 대해 거의 알지 못했습니다. 이제 우리는 §H콜로서스 행성 파괴자§!가 대성전 때 처음 배치된 무기들 중 하나였다는 것을 알고 있습니다. 우리 선조의 경쟁자인 암호명 '네메시스'에 의해 배치된 또 다른 무기는 전투에서 파괴되었고 그 잔해는 연구를 위해 우리 선조들에 의해 회수되었습니다.\n\n네메시스의 행방은 극비지만, 수년간의 조사 끝에 우리는 §H[Root.GetName]§!에서 이 숨겨진 시설을 찾을 수 있었습니다. 과학자들은 우리 조상의 전함에서 그랬던 것처럼 이 무기를 복원하기 위한 승인을 요청합니다."
+ringworld_empire.3.a:0 "한번 해보지."
+ringworld_empire.3.b:0 "아니. 자원을 위해 폐기해라."
+ringworld_empire.3.c:0 "그것의 기술만 연구해라."
+ringworld_empire.3.d:0 "내버려 둬라. 그 무기는 너무 위험하다."
+
+ringworld_empire.4.name:0 "수리된 네메시스"
+ringworld_empire.4.desc:0 "네메시스가 §H[Root.GetName]§!의 하늘로 날아오르자 우리 과학자들은 이것이 선조들의 계획이었는지 궁금해하지 않을 수 없었습니다. 네메시스는 적의 약점을 연구할 목적으로만 회수된 것이 아니라, 우리 선조들이 네메시스가 그들의 깃발 아래 다시 한번 날아오르기를 원했던 것이 분명했습니다. 여전히 적의 휘장을 자랑스럽게 쓰고있는 네메시스는 적의 함대 바로 뒤의 초공간에서 튀어나와 그들의 무기로 적군을 격파하고 적의 제독들에게 충격을 주었을 것입니다. 적어도 그것이 선조들의 복수심이 되었을 것입니다.\n\n언젠가 이 복원 프로젝트는 포기되었습니다. 우리의 선조들은 아마도 전쟁에서 패배하고 우리가 알고있는 §H[Root.Owner.GetSpeciesAdj]§! 역사의 원시종이 되었을 것입니다. 하지만 그들이 전쟁에서 지지 않았다면 우리는 지금 어디에 있었을까요? 더 중요한 것은 어떤 §H적§!이 우리 선조들을 추방했을까요? 그들은 아직도 이 은하 어딘가에 있을까요? 만약 그렇다면, 그들은 여전히 우리를 경멸하는 태도로 바라보고 있을까요, 아니면 두 팔 벌려 우리를 환영할까요?"
+ringworld_empire.4.a:0 "우린 결국 알아낼 것이다."
+
+ringworld_empire.5.name:0 "새로운 링월드 설계"
+ringworld_empire.5.desc:0 "우리의 초월 이후, 우리 건축가들은 링월드를 위한 새로운 모습을 설계하는데 노력해왔습니다. 이제 설계가 준비되었습니다.  우리 링월드가 변신할 때가 되었을까요?"
+ringworld_empire.5.a:0 "해라."
+ringworld_empire.5.b:0 "미래의 건설에 사용하자."
+
+ringworld_empire.6.name:0 "암흑 물질 발전?"
+ringworld_empire.6.desc:0 "수년 간의 연구 끝에, 우리 과학자들은 마침내 우리 선조들의 함선을 움직이는 동력원이 사실 중력을 예측하기 쉽게 왜곡시켜 연료로 정제할 수 있는 암흑물질의 한 형태라는 결론을 내렸습니다. 사실, 일부 과학자들은 하나의 문명이 이 단일 동력원에 의지할 수 있다고 믿고 있습니다. 도저히 헤아릴 수 없을 정도입니다.\n\n지금 우리는 이 기술의 잠재적인 응용에 대해서만 이론화할 수 있습니다. 만약 우리가 이 동력원을 연구한다면, 분명히 그것은 우리를 몇 천년 전의 우리 선조들의 수준에 한 발짝 더 다가갈 수 있게 해줄 것입니다."
+ringworld_empire.6.a:0 "당장 연구를 시작해라!"
+ringworld_empire.6.b:0 "이게 뭐지? 폐기해라. 광물이 곧 전쟁의 승리다."
+ringworld_empire.6.c:0 "이론화하되, 멍청한 짓은 하지 마라. 알겠나?"
+ringworld_empire.6.d:0 "어쩌면 비밀은 묻혀있는게 가장 좋을지도 모르지."
+
+RINGWORLD_FLEET:0 "고대의 함선 수리"
+RINGWORLD_FLEET_DESC:0 "이 함선은 정말 낡아보입니다... 정말로요. 그러나 그것은 이상할만치 눈에 익은 것 같습니다. 이 무시무시한 껍데기에서 발견된 비문은 현재 국립 박물관에 전시되어 있는 고대 문헌들과 묘한 유사점을 지니고 있지만, 우리는 10여년 전까지만 해도 완전한 우주 비행을 이루지 못했습니다.\n\n잘못된 버튼을 눌러 실수로 함선이 폭발하지 않도록 주의하면서 함선의 작동 원리를 연구하는데 시간이 걸릴 것입니다."
+
+RINGWORLD_TITAN:0 "선조의 네메시스"
+RINGWORLD_TITAN_DESC:0 "다행히도, 우리 선조들은 대부분의 번역을 해왔고 '네메시스'의 작업을 고대 언어로 상당히 광범위하게 기록했습니다. 우리가 프로젝트에 상당한 자원을 투자한다면 '네메시스'의 전력 복원 시도를 할 수 있을 것입니다.\n\n항상 그렇듯이, 실수로 폭발하지 않도록 하기 위해 충분한 예방 조치와 시간이 필요할 것입니다."
+
+
+
+
+
+
+
+

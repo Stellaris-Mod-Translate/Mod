@@ -1,0 +1,50 @@
+﻿ l_english:
+ 
+ 
+ trait_machine_digital:0 "디지털화"
+ trait_machine_digital_desc:0 "§L이 POP들은 더 이상 물질 세계에 존재하지 않습니다. 마트료시카 행성에서 디지털화된 상태로 존재합니다.§!\n"
+ trait_pc_matryoshka_preference:0 "디지털화"
+ trait_pc_matryoshka_preference_desc:0 "§L이 POP들은 더 이상 물질 세계에 존재하지 않습니다. 마트료시카 행성에서 디지털화된 상태로 존재합니다.§!\n"
+ mod_pc_matryoshka_habitability:0 "디지털 존재"
+ 
+ 
+ district_matryoshka_housing:0 "행성 하드 드라이브"
+ district_matryoshka_housing_desc:0 "디지털 존재들은 여기에서 거주합니다."
+ district_matryoshka_housing_plural:0 "행성 하드 드라이브"
+ district_matryoshka_cpu_module:0 "중앙 처리 장치"
+ district_matryoshka_cpu_module_desc:0 "디지털 존재들은 이 곳에서 다양한 세계를 구현하며 지식의 경계를 확장할 수 있습니다."
+ 
+ district_matryoshka_cpu_module_plural:0 "중앙 처리 장치"
+ district_matryoshka_bus_module:0 "백신 회로"
+ district_matryoshka_bus_module_desc:0 "모든 종류의 컴퓨터는 '악성 코드'와 '바이러스'에 영향을 받을 수 있습니다. 이 장치는 그에 맞서 시스템의 유지보수와 보안을 책임집니다."
+ 
+ district_matryoshka_bus_module_plural:0 "백신 회로"
+ district_matryoshka_recursive_function:0 "재귀 장치"
+ district_matryoshka_recursive_function_desc:0 "복사와 백업 등의 작업에 매우 효율적인 특수한 연산 장치입니다."
+ 
+ district_matryoshka_recursive_function_plural:0 "재귀 장치"
+ 
+ ap_matryoshka_project:0 "마트료시카 프로젝트"
+ ap_matryoshka_project_desc:1 "행성 안에 깃든 하나의 세계. 가상 현실의 가능성은 무궁무진합니다."
+ allow_matryoshka_project:0 "§H결정 잠금해제:§! $ap_matryoshka_project$"
+ decision_matryoshka_project:0 ""
+ decision_matryoshka_project_effects:1 "행성의 천연자원이 §R이용 불가능§!해지는 것의 대가로, 행성을 §Y$pc_matryoshka$§!으로 바꾸고, £housing£ §Y$PLANET_HOUSING_TITLE$§! 그리고 §Y연구 점수 생산§!을 증가시키며, 특별한 £district£ §Y마트료시카 지구§!를 잠금해제합니다. £district£ §Y발전§!, §Y채굴§! 그리고 §Y농업지구§!의 추가적인 건설은 불가능합니다. 이 행성으로 이주한 §YPOP§!은 영구히 §Y디지털화§!되어, §Y$pc_matryoshka$§! 사이에서만 이주가 가능합니다."
+ 
+ decision_matryoshka_project_effects_short:2 "£housing£ §Y$PLANET_HOUSING_TITLE$§! 그리고 §Y연구 점수 생산§! 증가\n£district£ §Y마트료시카 지구§! 사용 가능\n£district£ §Y발전§!, §Y채굴§! 그리고 §Y농업지구§! 건설 불가\n"
+ 
+ decision_matryoshka_project_requirements:0 "£trigger_no£ §R행성의 모든 지구 슬롯이 §Y$district_nexus_plural$§!로 채워져 있어야 함§!"
+ 
+ decision_matryoshka_project_desc:1 "행성 안에 깃든 하나의 세계. 행성 핵에서 채집한 에너지가 가상 현실을 구현하는 거대한 행성 단위 컴퓨터에 동력을 공급합니다."
+ 
+ 
+ 
+ pc_matryoshka:0 "마트료시카 행성"
+ pc_matryoshka_desc:0 "행성 핵을 이용해 가상 현실에 동력을 공급하는 행성 크기의 컴퓨터입니다. 이 행성으로 이주한 POP은 디지털화됩니다. 영원히."
+ 
+ 
+ 
+ 
+ eq.300.name:0 "§H$pc_matryoshka$§!: [Root.GetName] 덮여짐"
+ eq.300.desc:0 "행성 핵으로부터 에너지를 공급받는 무수히 많은 컴퓨터 패널이 겹겹이 행성을 덮었습니다.\n\n이 웅장한 계획의 시작 이래로 불과 몇 년이 지났을 뿐이지만, [Root.GetName]의 원래 지표면을 기억하는 것은 이미 어려운 일입니다. 수목? 바위 투성이? 이제는 사방이 오로지 강철 구조물 뿐입니다.\n\n한 때 이곳은 우연과 지각없는 자연의 법칙으로 형성된 곳이었습니다. 그러나 이제는 불굴의 결단으로 재창조되었습니다."
+ 
+ eq.300.a:0 "인상적이야."

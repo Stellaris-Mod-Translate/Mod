@@ -1,0 +1,14 @@
+﻿ l_english:
+ civic_hive_autonomous_drones:0 "자율 드론"
+ civic_hive_autonomous_drones_desc:0 "이 군체는 드론이 자의식을 가지게 합니다. 드론은 여전히 군체의 일부이지만, 개별적인 특성이 있어 쉽게 구별할 수 있습니다."
+ civic_hive_autonomous_drones_desc_old:0 "이 군체의 드론들은 자의식을 가지고 있어 군체의식이 직접 직업을 할당할 필요가 없습니다. 실업 드론은 다른 드론의 요구사항을 처리합니다."
+ civic_tooltip_autonomous_drones_effects:0 "실업 드론이 우리 제국 내에 일자리와 주택이 있는 적합한 행성에 자발적으로 재정착하도록 장려하는 칙령을 해제합니다.\n"
+ job_autonomous_drone:0 "실업자"
+ job_autonomous_drone_desc:0 "구체적으로 정의된 명령이 없는 드론들은 다른 드론들이 필요로 하는 것을 생산하기 위해 이곳저곳을 돌아다니면서 자원을 모으는 경향이 있습니다.  약간의 £minerals£ $minerals$과 £amenities£ $amenities$를 생산할 것입니다."
+ job_autonomous_drone_plural:0 "실업자"
+ 
+ mod_unemployment_resources_minerals_produces_add: "£unemployment£ §Y실업자§!들은 £minerals£ §Y$minerals$§!을 생산할 것입니다"
+ 
+ edict_self_awareness:0 "자의식 부여"
+ edict_self_awareness_desc:0 "실업자 상태인 드론들에게 자의식을 부여하여 군체의식의 도움 없이도 그들 스스로가 주택과 직업이 있는 적절한 행성으로 이주할 수 있도록 장려합니다"
+ 

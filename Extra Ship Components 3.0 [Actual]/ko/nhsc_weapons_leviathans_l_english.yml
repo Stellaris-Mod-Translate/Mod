@@ -1,0 +1,67 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###   Enigmatic Energy Discharger    ###
+########################################
+
+NHSC_ENIGMATIC_CANNON: "수수께끼 에너지 방출기"
+NHSC_ENIGMATIC_CANNON_DESC: "수수께끼같은 기술을 사용하는 강력한 무기."
+
+########################################
+###      Enigmatic Energy Lash       ###
+########################################
+
+NHSC_ENIGMATIC_LASH: "수수께끼 에너지 채찍"
+NHSC_ENIGMATIC_LASH_DESC: "에너지 방전으로 목표를 구워버리는 수수께끼의 무기."
+
+########################################
+###   Enigmatic Energy Autocannon    ###
+########################################
+
+NHSC_ENIGMATIC_AUTOCANNON: "수수께끼 에너지 기관포"
+NHSC_ENIGMATIC_AUTOCANNON_DESC: "수수께끼의 기술로 만들어진 에너지 기관포"
+
+########################################
+###      Enigmatic Energy Lance      ###
+########################################
+
+NHSC_ENIGMATIC_LANCE: "수수께끼 에너지 랜스"
+NHSC_ENIGMATIC_LANCE_DESC: "수수께끼의 기술로 만들어진 입자 랜스."
+NHSC_ENIGMATIC_LANCE_TITANIC: "$NHSC_ENIGMATIC_LANCE$"
+NHSC_ENIGMATIC_LANCE_TITANIC_DESC: "$NHSC_ENIGMATIC_LANCE_DESC$"
+NHSC_ENIGMATIC_LANCE_JUGGERNAUT: "$NHSC_ENIGMATIC_LANCE$"
+NHSC_ENIGMATIC_LANCE_JUGGERNAUT_DESC: "$NHSC_ENIGMATIC_LANCE_DESC$"
+
+########################################
+###      Extradimensional Spike      ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_PD: "이차원 쐐기"
+NHSC_EXTRADIMENSIONAL_PD_DESC: "이차원의 공포에서 역설계된 무기. 포탈을 통해 적에게 쐐기를 쏘아냅니다."
+
+########################################
+###        Tiyanki Beam Cannon       ###
+########################################
+
+NHSC_TIYANKI_CANNON: "티얀키 빔"
+NHSC_TIYANKI_CANNON_DESC: "티얀키 대모가 사용하는 생물학적 에너지 랜스."
+NHSC_TIYANKI_CANNON_TITANIC: "$NHSC_TIYANKI_CANNON$"
+NHSC_TIYANKI_CANNON_TITANIC_DESC: "$NHSC_TIYANKI_CANNON_DESC$"
+NHSC_TIYANKI_CANNON_JUGGERNAUT: "$NHSC_TIYANKI_CANNON$"
+NHSC_TIYANKI_CANNON_JUGGERNAUT_DESC: "$NHSC_TIYANKI_CANNON_DESC$"
+
+########################################
+###        Junk Mines Launcher       ###
+########################################
+
+NHSC_JUNK_MINE_LAUNCHER: "고철 발사기"
+NHSC_JUNK_MINE_LAUNCHER_DESC: "고철 수거 봇이 사용하는 무기. 고철과 쓰레기를 투사체로 하는 값싸고 간단한 지뢰 발사기"
+
+########################################
+###        Voidspawn Missile         ###
+########################################
+
+NHSC_VOIDSPAWN_MISSILE: "공허 미사일"
+NHSC_VOIDSPAWN_MISSILE_DESC: "보이드스폰이 사용하는 무기를 기반으로 한 반 유기체 미사일."

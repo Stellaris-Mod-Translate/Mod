@@ -1,0 +1,2057 @@
+﻿l_english:
+ 
+################################################################
+# ACADEMY
+################################################################
+tradition_est_academy:0 "학문"
+tradition_est_academy_desc:0 "기초적인 학교를 비롯해서 전문적인 아카데미와 대학교들이 우리 제국에 퍼져있고, 사회의 높은 계층에 오르고자 하는 이들은 복잡한 교육과정을 거쳐야 합니다."
+tr_est_academy_adopt:0 "학문 전통"
+tr_est_academy_adopt_desc:0 "$tradition_est_academy_desc$\n\n$tr_est_academy_adopt_effect$\n\n$tr_est_academy_finish_effect$"
+tr_est_academy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y2§!개의 연구 분야를 선택하고 각 분야의 §Y연구 속도§!를 §G+15%§! 만큼 증가시킵니다."
+
+tr_est_academy_1:0 "공교육"
+tr_est_academy_1_desc:0 "§Y지도자 후보 규모§!가 §Y3§!만큼 증가합니다."
+tr_est_academy_1_delayed:0 "교육은 모든 시민들이 누려 마땅한 기본적인 권리입니다. 우리 제국의 공교육은 모든 시민들에게 기본적인 수준의 교육을 보장합니다. 그리고 이는 곧 큰 자산이 되어 돌아오죠."
+
+tr_est_academy_2:0 "필수적인 고등 교육"
+tr_est_academy_2_desc:0 "지도자의 §Y시작 레벨§!이 §Y1§!만큼 증가합니다."
+tr_est_academy_2_delayed:0 "대부분의 시민들이 고등 교육을 받을 수 있게 한다면, 우리 사회의 각 분야에 유능한 지도자들을 배치할 수 있을 것입니다."
+
+tr_est_academy_3:0 "배우고, 잊고, 다시 배워라"
+tr_est_academy_3_desc:0 "§Y지도자 경험치 획득§!이 §G+33%§!만큼 더 빨라집니다."
+tr_est_academy_3_delayed:0 "우리는 지식뿐만이 아니라 지식을 배우는 과정 그 자체 역시 중요하게 생각합니다. 교육과 배움의 경험을 통해 지도자들은 더 많은 것들을 배울 수 있을 것입니다."
+
+tr_est_academy_4:0 "상아탑"
+tr_est_academy_4_desc:0 "각 행성에 추가적인 £job_researcher£ §Y$job_researcher$ 직업§!을 §Y1§!개 더 제공합니다."
+tr_est_academy_4_delayed:0 "학계의 최상층에 도달한 이들은 무한한 지원을 받으면서 새로운 지식을 추구하는 데 열중합니다. 지식의 상아탑에 있는 그들은 외부로부터의 일체의 간섭 없이 연구에만 집중할 수 있습니다."
+
+tr_est_academy_5:0 "사관학교"
+tr_est_academy_5_desc:0 "§Y지상군 시작 경험치§!와 §Y함선 시작 경험치§!가 §G+200§!만큼 증가합니다. 그리고 장군과 제독의 §Y레벨 상한§!이 §Y1§!만큼 증가합니다."
+tr_est_academy_5_delayed:0 "모든 장교와 사관들에게 전반적인 기본 교육을 보장한다면 우리 군대는 최대의 효율성을 발휘할 수 있을 것입니다."
+
+tr_est_academy_finish:0 "학문 전통 완성"
+tr_est_academy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_academy_adopt$을 완성하면 우리 제국의 지도자들은 §Y5§!레벨에 도달했을 때 그들의 특성(트레잇)중 하나를 업그레이드 할 수 있습니다. 업그레이드 된 특성은 기존의 특성보다 2배 더 뛰어납니다."
+
+### Swap - Shroudborn ###
+
+tradition_est_shroudborn:0 "장막 태생"
+tradition_est_shroudborn_desc:0 "우리는 은하계에서 가장 강력한 사이오닉 힘을 가진 존재일 것입니다. 우리와 접촉하는 필멸자 사이오니스트들은 죽거나 미쳐버릴 뿐입니다."
+tr_est_shroudborn_adopt:0 "장막 태생 전통"
+tr_est_shroudborn_adopt_desc:0 "$tradition_est_shroudborn_desc$\n\n$tr_est_shroudborn_adopt_effect$\n\n$tr_est_shroudborn_finish_effect$"
+tr_est_shroudborn_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity  §Y통합력§! 산출량이 §G+10%§!만큼 증가합니다."
+
+tr_est_shroudborn_1:0 "정신 침입"
+tr_est_shroudborn_1_desc:0 "§Y$MOD_SHIP_EVASION_MULT$§!가 §G+10%§!만큼 증가합니다."
+tr_est_shroudborn_1_delayed:0 "우리는 필멸자들의 정신에 침투해 그들의 생각을 읽고 행동을 예측할 수 있습니다."
+
+tr_est_shroudborn_2:0 "정신 억제"
+tr_est_shroudborn_2_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!가 §G+15%§!만큼 증가합니다. 또한 이웃한 필멸자 제국들의 §Y전초기지 영향력 비용§!과 §Y영유권 영향력 비용§!이 §R+15%§!만큼 증가합니다. (우리 제국과 연맹, 방어 동맹, 속국 관계를 맺은 제국은 제외됩니다.)"
+tr_est_shroudborn_2_delayed:0 "우리는 필멸자들의 정신에 침투해 그들의 생각을 둔하게 하고 감정을 억눌러 야망과 싸우고자 하는 의지를 꺾을 수 있습니다."
+tr_est_shroudborn_2_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!가 §G+30%§!만큼 증가합니다."
+
+tr_est_shroudborn_3:0 "영원한 감시자"
+tr_est_shroudborn_3_desc:0 "§Y행성 센서 범위§!가 §Y2§!만큼 늘어납니다."
+tr_est_shroudborn_3_delayed:0 "이 은하계에서 우리는 항상 존재해왔으며, 시간과 삶의 흐름을 지켜봐왔습니다."
+
+tr_est_shroudborn_4:0 "칠감"
+tr_est_shroudborn_4_desc:0 "§Y이상현상 발견 확률§!이 §G+10%§!만큼 증가하고, §Y탐사 속도§!가 §G+20%§!만큼 빨라집니다."
+tr_est_shroudborn_4_delayed:0 "장막과의 연결을 통해 우리 제국은 일반적으로는 가질 수 없는 일곱 번째 감각을 발전시켰습니다."
+
+tr_est_shroudborn_5:0 "힘의 발현"
+tr_est_shroudborn_5_desc:0 "§Y$MOD_SHIP_SHIELD_HP_MULT$§!가 §G+15%§!만큼 증가하고, §Y에너지 무기 피해량§!이 §G+15%§! 만큼 증가합니다."
+tr_est_shroudborn_5_delayed:0 "우리 정신의 힘은 너무나 강력한 나머지 물리적인 세계에까지 영향을 끼칠 수 있습니다. 우리는 이를 이용해 함선들의 방어장비와 무기를 강화할 수 있을 것입니다."
+
+tr_est_shroudborn_finish:0 "장막 태생 전통 완성"
+tr_est_shroudborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_shroudborn_adopt$을 완성하면 §Y지도자 경험치 획득§!이 §G+25%§!만큼 더 빨라집니다."
+
+### Swap - Hacking ###
+
+tradition_est_hacking:0 "해킹"
+tradition_est_hacking_desc:0 "우리는 영리한 기계입니다. 우리는 다른 제국의 컴퓨터에 침투해 우리가 원하는 대로 여러 변수들을 변경할 수 있습니다."
+tr_est_hacking_adopt:0 "해킹 전통"
+tr_est_hacking_adopt_desc:0 "$tradition_est_hacking_desc$\n\n$tr_est_hacking_adopt_effect$\n\n$tr_est_hacking_finish_effect$"
+tr_est_hacking_adopt_terminator:0 "해킹 전통"
+tr_est_hacking_adopt_terminator_desc:0 "$tradition_est_hacking_desc$\n\n$tr_est_hacking_adopt_effect$\n\n$tr_est_hacking_finish_terminator_effect$"
+tr_est_hacking_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y컴퓨터§! 분야의 연구속도가 §G+25%§!만큼 빨라집니다."
+
+tr_est_hacking_1:0 "시스템 조작"
+tr_est_hacking_1_desc:0 "§Y$MOD_SHIP_EVASION_MULT$§!가 §G+10%§!만큼 증가합니다."
+tr_est_hacking_1_delayed:0 "적 함대의 사격 통제 시스템을 약간 조작하는 것으로, 적들이 우리 함선을 조준하는 능력을 감소시킬 수 있습니다."
+
+tr_est_hacking_2:0 "통신 방해"
+tr_est_hacking_2_desc:0 "이웃한 필멸자 제국의 §Y행성 센서 범위§!와 §Y함선§! §Y센서 범위§!가 §R1§!만큼 줄어들고, §Y전초기지 영향력 비용§!이 §R+25%§!만큼 늘어납니다. (우리 제국과 연맹, 방위 조약, 속국 관계를 맺은 제국은 제외됩니다.)"
+tr_est_hacking_2_delayed:0 "우리는 인접한 국가의 통신 시스템을 혼란시켜 그들이 효율적으로 의사소통 하는 것을 방해할 수 있습니다."
+tr_est_hacking_2_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!가 §G+30%§!만큼 증가합니다."
+
+tr_est_hacking_3:0 "스파이웨어"
+tr_est_hacking_3_desc:0 "§Y행성 센서 범위§!가 §Y2§!만큼 증가합니다."
+tr_est_hacking_3_delayed:0 "우리는 다른 제국의 감시, 관측 시스템에서 정보를 빼내 우리 제국 주변의 정보를 더 자세히 알 수 있습니다."
+
+tr_est_hacking_4:0 "멀웨어"
+tr_est_hacking_4_desc:0 "모든 경쟁국의 §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!가 §R-10%§!만큼 느려지고, §Y건물 유지비§!가 §R+15%§!만큼 비싸집니다."
+tr_est_hacking_4_delayed:0 "우리의 경쟁국의 컴퓨터에 공격을 가함으로써 그들의 효율성을 떨어뜨릴 수 있습니다."
+
+tr_est_hacking_4_terminator:0 "$tr_est_hacking_4$"
+tr_est_hacking_4_terminator_desc:0 "다른 모든 제국의 §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!가 §R-10%§!만큼 느려지고, §Y건물 유지비§!가 §R+15%§!만큼 비싸집니다."
+tr_est_hacking_4_terminator_delayed:0 "다른 제국의 컴퓨터에 공격을 가함으로써 그들의 효율성을 떨어뜨릴 수 있습니다."
+
+tr_est_hacking_4_passive_AI:0 "멀웨어"
+tr_est_hacking_4_passive_AI_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§!만큼 증가합니다."
+tr_est_hacking_4_passive_AI_delayed:0 "우리의 경쟁국의 컴퓨터에 공격을 가함으로써 그들의 효율성을 떨어뜨릴 수 있습니다."
+
+tr_est_hacking_5:0 "데이터베이스 마이닝"
+tr_est_hacking_5_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!가 §G+10%§!만큼 더 빨라집니다."
+tr_est_hacking_5_delayed:0 "다른 제국의 데이터베이스를 채굴함으로써 우리 제국의 연구 프로젝트에 사용할 수 있는 유용한 정보를 찾을 수 있습니다."
+
+tr_est_hacking_finish:0 "해킹 전통 완성"
+tr_est_hacking_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_hacking_adopt$을 완성하면 §Y라이벌§!로부터 얻는 £influence §Y영향력§!이 §G+30%§! 만큼 증가합니다."
+
+tr_est_hacking_finish_terminator:0 "$tr_est_hacking_finish$"                                                            
+tr_est_hacking_finish_terminator_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_hacking_adopt$을 완성하면 §Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!가 §G+25%§!만큼 증가합니다."
+
+################################################################
+# ADMINISTRATUM
+################################################################
+tradition_est_administratum:0 "행정"
+tradition_est_administratum_desc:0 "많은 관료들이 통치자의 명령에 따라 우리 제국을 감독합니다."
+tr_est_administratum_adopt:0 "행정 전통"
+tr_est_administratum_adopt_desc:0 "$tradition_est_administratum_desc$\n\n$tr_est_administratum_adopt_effect$\n\n$tr_est_administratum_finish_effect$"
+tr_est_administratum_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_ADMIN_CAP_MULT$§!이 §G+15%§! 증가합니다."
+
+tr_est_administratum_1:0 "간소화된 채용 절차"
+tr_est_administratum_1_desc:0 "§Y$MOD_LEADER_COST$§!이 §G-25%§!만큼 더 싸집니다."
+tr_est_administratum_1_delayed:0 "우리 제국은 많은 지도자들을 필요로 하고, 그 수요를 오래된 채용 절차로는 만족할 수 없습니다. 가능성 있는 다수의 지도자들을 확보하기 위해 자동화 시스템을 도입해 채용 담당자가 수작업으로 처리해야 하는 일들을 줄여야 합니다."
+
+tr_est_administratum_2:0 "실력주의"
+tr_est_administratum_2_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§!이 §Y1§!만큼 증가합니다. 그리고, 모든 §Y총독§!들이 §G1§!개의 특성을 더 가지고 시작합니다."
+tr_est_administratum_2_delayed:0 "정치, 음모, 사소한 논쟁이 승격될 충분한 자질이 있는 사람들을 하위직에서 썩도록 만들 수 있습니다. 그런 불행한 일들을 막기 위해 실력주의에 입각한 새로운 엄격한 지침을 내리고 능력있는 자들을 승진시켜야 합니다."
+
+tr_est_administratum_3:0 "효율적인 관료제"
+tr_est_administratum_3_desc:0 "§Y함선 건조 속도§!가 §G+10%§!만큼 빨라지고, §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!가 §G+25%§!만큼 빨라집니다. 또한 §Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§!이 §G-25%§!만큼 줄어듭니다."
+tr_est_administratum_3_delayed:0 "관료제의 확장은 우리 행정부의 효율성을 떨어뜨릴 수 있습니다. 하지만 새로이 개선된 관료제 기술을 도입한다면 그럴 일은 없습니다."
+
+tr_est_administratum_4:0 "표준화된 행성 관리"
+tr_est_administratum_4_desc:0 "§Y$mod_planet_districts_cost_mult$§!과 §Y$mod_planet_districts_upkeep_mult$§!이 §G10%§만큼 감소합니다."
+tr_est_administratum_4_delayed:0 "우리 제국이 관리하는 행성의 수가 늘어남에 따라 지방 행정부가 제국으로부터 분리될 가능성이 있습니다. 행성 행정에 관련된 표준 지침을 제정함으로써 모든 행성을 비슷하게 통치할 수 있을 것입니다."
+
+tr_est_administratum_5:0 "감독국"
+tr_est_administratum_5_desc:0 "§Y$MOD_COUNTRY_EDICT_CAP_ADD$§!가 §G1§!만큼 증가하고 §Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!이 §G+25%§!만큼 증가합니다."
+tr_est_administratum_5_delayed:0 "감독국은 행정부의 독립적인 조직입니다. 감독국의 대표자인 감독관은 우리 제국 전역을 순찰하며 규정에 어긋난 것은 없는지 관리하는 역할을 맡습니다. 감독관에게 주의를 받는 것은 지방 행정관에세 있어 가장 두려운 일일 것입니다."
+
+tr_est_administratum_finish:0 "행정 전통 완성"
+tr_est_administratum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_administratum_adopt$을 완성하면 여분의 §Y사회제도 슬롯§!을 얻습니다."
+
+### Swap - Omnipresence ###
+
+tradition_est_omnipresence:0 "편재"
+tradition_est_omnipresence_desc:0 "우리는 하나고, 우리는 모든 곳에 존재합니다. 우리는 일개 드론 하나의 사소한 움직임 뿐만이 아니라 제국의 운명을 결정하는 거대한 계획까지 모든 것을 통제할 수 있습니다."
+tr_est_omnipresence_adopt:0 "편재 전통"
+tr_est_omnipresence_adopt_desc:0 "$tradition_est_omnipresence_desc$\n\n$tr_est_omnipresence_adopt_effect$\n\n$tr_est_omnipresence_finish_effect$"
+tr_est_omnipresence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y일탈§!이 §G-20%§!만큼 감소합니다."
+
+tr_est_omnipresence_1:0 "종합 정보 처리"
+tr_est_omnipresence_1_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§!가 §Y1§!만큼 증가합니다."
+tr_est_omnipresence_1_delayed:0 "매일같이 엄청난 양의 정보가 우리에게 전송됩니다. 만약 우리가 아주 사소해 보이는 정보까지 처리할 수 있게 된다면, 더 많은 경험에서부터 배우게 되어 우리의 능력을 더욱 더 연마할 수 있을 것입니다."
+
+tr_est_omnipresence_2:0 "완전한 드론 통제"
+tr_est_omnipresence_2_desc:0 "§Y함선 건조 속도§!가 §G+10%§!만큼 빨라지고, §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!가 §G+25%§!만큼 빨라집니다. 또한 §Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§!가 §G-25%§! 만큼 줄어듭니다."
+tr_est_omnipresence_2_delayed:0 "각 개체의 반사적인 반응을 억제하고 우리가 모든 드론들을 완벽하게 제어하게 된다면 효율성은 극대화될 것입니다."
+
+tr_est_omnipresence_3:0 "용량 증가"
+tr_est_omnipresence_3_desc:0 "§Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!가 §G+15%§! 증가합니다."
+tr_est_omnipresence_3_delayed:0 "우리의 영역이 은하계 전반으로 확장됨에 따라, 자율적인 드론들을 더 많이 수용할 필요가 있습니다."
+
+tr_est_omnipresence_4:0 "동시 제어"
+tr_est_omnipresence_4_delayed:0 "이 우주의 각지에서 비슷한 일들이 동시에 발생합니다. 이러한 상황을 동시에 제어하는 기술을 개발한다면 우리는 우리의 인지 능력을 개선할 수 있습니다."
+
+tr_est_omnipresence_5:0 "고급 인지 시냅스"
+tr_est_omnipresence_5_delayed:0 "신호 송수신 방식을 개선함으로써 우리 제국을 보다 더 잘 통제할 수 있을 것입니다."
+
+tr_est_omnipresence_5_machines:0 "송신기 타워"
+tr_est_omnipresence_5_machines_delayed:0 "신호 송출에 특화된 송신기 타워를 영역 전반에 구축함으로써 우리 제국을 보다 더 잘 제어할 수 있습니다."
+
+tr_est_omnipresence_finish:0 "편재 전통 완성"
+tr_est_omnipresence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_omnipresence_adopt$을 완성하면 여분의 §Y사회제도 슬롯§!을 얻습니다."
+
+################################################################
+# AESTHETICS
+################################################################
+tradition_est_aesthetics:0 "미학"
+tradition_est_aesthetics_desc:0 "아름다움은 느낄 수는 있지만 설명할 수는 없습니다. 아름다움이 없는 은하는 그저 텅 빈 공허일 뿐입니다."
+tr_est_aesthetics_adopt:0 "미학 전통"
+tr_est_aesthetics_adopt_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_effect$\n\n$tr_est_aesthetics_finish_effect$"
+tr_est_aesthetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$building_autochthon_monument$§! 건물 종류가 지어진 행성의 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+15%§! 증가합니다."
+
+tr_est_aesthetics_adopt_spiritualist:0 "$tr_est_aesthetics_adopt$"                                                                  
+tr_est_aesthetics_adopt_spiritualist_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_spiritualist_effect$\n\n$tr_est_aesthetics_finish_effect$"
+tr_est_aesthetics_adopt_spiritualist_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$building_temple$§! 건물 종류가 지어진 행성의 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+15%§! 증가합니다."
+
+tr_est_aesthetics_adopt_megacorp:0 "$tr_est_aesthetics_adopt$"
+tr_est_aesthetics_adopt_megacorp_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_megacorp_effect$\n\n$tr_est_aesthetics_finish_no_cw_effect$"
+tr_est_aesthetics_adopt_megacorp_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$building_corporate_monument$§! 건물 종류가 지어진 행성의 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+15%§! 증가합니다."
+
+tr_est_aesthetics_1:0 "문학 작품"
+tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§!가 §G+15%§! 만큼 증가합니다."
+tr_est_aesthetics_1_delayed:0 "위대한 작가와 시인들의 위대한 작품은 수천 년 전에도 그래왔고, 앞으로 수천 년 이후로도 수십억의 영혼을 밝혀 줄 것입니다. 일단 위대한 명작이 완성되면 그것은 영원히 존재할 것이고, 그것들이 존재함에 따라 매일 매일 은하는 좀 더 살기 좋은 곳으로 바뀌어나갈 것입니다."
+
+tr_est_aesthetics_2:0 "예술가 길드"
+tr_est_aesthetics_2_desc:0 "모든 행성에서 그 행성에 거주하는 £pop  §YPOP§! §Y40§!기마다 추가로 §Y1§! £job_culture_worker£ §Y$job_culture_worker$ 직업§!과 §Y1§! £job_entertainer£ §Y$job_entertainer$ 직업§!이 추가됩니다."
+tr_est_aesthetics_2_delayed:0 "존경받는 예술가 길드에는 우리 제국의 가장 뛰어난 예술가들이 속해있습니다. 그들은 그들의 숙련된 기술로 제국의 더 큰 이익을 위해 봉사합니다."
+
+tr_est_aesthetics_2_duelist:0 "$tr_est_aesthetics_2$"
+tr_est_aesthetics_2_duelist_desc:0 "모든 행성에서 그 행성에 거주하는 £pop  §YPOP§! §Y40§!기마다 추가로 §Y1§! £job_culture_worker£ §Y$job_culture_worker$ 직업§!과 §Y1§! £job_duelist£ §Y$job_duelist$ 직업§!이 추가됩니다."
+
+tr_est_aesthetics_3:0 "경외심"
+tr_est_aesthetics_3_desc:0 "타국의 £opinion  §Y의견§!이 §G+15§!만큼 증가합니다. §Y$MOD_ENVOY_IMPROVE_RELATIONS_MULT$§!이 §G+20%§! 증가합니다."
+tr_est_aesthetics_3_delayed:0 "우리 제국을 방문하는 외교관들은 우리 건물들의 장엄한 모습을 보고 경탄해합니다. 그들은 그들의 고국으로 돌아가 우리 문명의 영광스러움을 퍼뜨릴 것입니다."
+
+tr_est_aesthetics_3_xenophobe:0 "전쟁의 예술"
+tr_est_aesthetics_3_xenophobe_desc:0 "전쟁중일 때, £unity  §Y통합력§! 산출량이 §G+20%§!만큼 증가합니다."
+tr_est_aesthetics_3_xenophobe_delayed:0 "믿기 힘들수도 있겠지만, 전쟁에는 아름다움이 있습니다. 모든 전투 하나하나가 일종의 예술작품입니다. 수많은 제노들이 전쟁터에서 끔찍하게 죽어감으로써 그들은 우리 장군이 만드는 걸작의 일부분이 되었습니다."
+
+tr_est_aesthetics_3_IP:0 "완벽 추구"
+tr_est_aesthetics_3_IP_desc:0 "£unity  §Y통합력§! 생산이 §G+10%§!만큼 증가합니다."
+tr_est_aesthetics_3_IP_delayed:0 "우리는 우리 제국의 변경지에 별로 관심이 없습니다. 제국의 평화 안에서, 우리는 하나의 목표만을 가지고 있습니다. 예술적 아름다움의 완성 말이지요."
+
+tr_est_aesthetics_4:0 "위엄있는 건축물"
+tr_est_aesthetics_4_desc:0 "§Y도시 지구§!가 추가로 §G0.5§! £unity£ §Y통합§!을 생산합니다."
+tr_est_aesthetics_4_delayed:0 "우리 건물들은 우리가 남긴 가장 위대한 유산이 될 것입니다. 장엄하게 지어진 건물들은 우리가 사라진 후에도 오랫동안 우리의 위대함을 후손들에게 전할 것입니다."
+
+tr_est_aesthetics_5:0 "은하계의 불가사의"
+tr_est_aesthetics_5_desc:0 "§Y5§!종류의 제국 고유 불가사의들을 건설할 수 있습니다. 각 불가사의들은 각기 다른 행성 보너스와 제국 전체 보너스를 줍니다. 불가사의를 건설하기 위해서는 £building  §Y$building_major_capital$§!가 필요하고, 한 행성에 2개 이상의 불가사의를 건설할 수 없습니다."
+tr_est_aesthetics_5_delayed:0 "우리 제국에는 은하계에서 가장 위대한 불가사의들이 존재합니다. 은하 반대편에 있는 이들마저도 그것들의 위대함을 알고 있습니다."
+
+tr_est_aesthetics_finish:0 "미학 전통 완성"
+tr_est_aesthetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_aesthetics_adopt$을 완성하면 £job_culture_workers  §Y$job_culture_worker_plural$§!가 생산하는 £society  §Y생물학 연구점§!이 §Y2§! 증가합니다."
+tr_est_aesthetics_finish_no_cw:0 "$tr_est_aesthetics_finish$"
+tr_est_aesthetics_finish_no_cw_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_aesthetics_adopt$을 완성하면 £job_entertainer  §Y$job_entertainer_plural$§!이 생산하는  §Y통합§!이 §Y2§! 증가합니다."
+
+### Swap - Age ###
+tradition_est_age:0 "세월"
+tradition_est_age_desc:0 "우리는 은하계 초창기부터 이곳에 존재해왔습니다. 우리는 은하계의 첫 번째 제국의 등장을 보았고, 그 이후로도 많은 이들의 부흥과 몰락을 지켜보았습니다."
+
+tr_est_age_adopt:0 "세월 전통"
+tr_est_age_adopt_desc:0 "$tradition_est_age_desc$\n\n$tr_est_age_adopt_effect$\n\n$tr_est_age_finish_effect$"
+tr_est_age_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_AGE$§!가 §Y25§!만큼 증가합니다."
+tr_est_age_adopt_machines:0 "세월 전통"
+tr_est_age_adopt_machines_desc:0 "$tradition_est_age_desc$\n\n$tr_est_age_adopt_machines_effect$\n\n$tr_est_age_finish_effect$"
+tr_est_age_adopt_machines_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y기계 개조 점수§!가 §Y1§!만큼 증가합니다."
+
+tr_est_age_1:0 "자부심"
+tr_est_age_1_desc:0 "£unity  §Y통합력§! 산출량이 §G+10%§!만큼 증가합니다."
+tr_est_age_1_delayed:0 "우리는 다른 이들의 흥망과 쇠락에도 여전히 견뎌왔습니다. 우리는 다른 이들의 실수를 잘 알고 있으며, 우리가 영원한 영광의 길에 오르는 동안 그 실수를 범하지 않을 것입니다."
+
+tr_est_age_2:0 "우월"
+tr_est_age_2_desc:0 "§Y경쟁자§!로 얻는 £influence  §Y영향력§!이 §G+25%§!만큼 증가합니다."
+tr_est_age_2_delayed:0 "우리와 맞서는 제국들의 미개한 조상들이 빛을 보지도 못할 때부터 우리는 별들을 관측해 왔습니다. 은하계의 어린 종족들은 그들의 위치를 알고 연장자의 지혜에 굴복해야 합니다."
+
+tr_est_age_2_devouring_swarm:0 "$tr_est_age_2$"
+tr_est_age_2_devouring_swarm_desc:0 "£pop  §YPOP§!을 먹어치움으로써 얻는 £society  §Y생물학 연구점§!이 §G+50%§!만큼 증가합니다."
+tr_est_age_2_devouring_swarm_delayed:0 "우리와 맞서는 제국들의 미개한 조상들이 빛을 보지도 못할 때부터 우리는 별들을 관측해 왔습니다. 은하계의 어린 종족들은 연장자의 힘에 굴복해야 합니다."
+
+tr_est_age_2_terminator:0 "$tr_est_age_2$"
+tr_est_age_2_terminator_desc:0 "£pop  §YPOP§!을 정화함으로써 얻는 £unity  §Y통합력§!이 §G+50%§!만큼 증가합니다."
+tr_est_age_2_terminator_delayed:0 "$tr_est_age_2_devouring_swarm_delayed$"
+
+tr_est_age_2_assimilators:0 "$tr_est_age_2$"
+tr_est_age_2_assimilators_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§! 만큼 증가합니다."
+tr_est_age_2_assimilators_delayed:0 "$tr_est_age_2_devouring_swarm_delayed$"
+
+tr_est_age_3:0 "지혜"
+tr_est_age_3_desc:0 "§Y$mod_country_base_influence_produces_add$§!이 §Y1§!만큼 증가합니다."
+tr_est_age_3_delayed:0 "기나긴 시간동안 우리는 방대한 양의 경험을 축적해 왔습니다. 우리는 우리 자신과, 다른 이들의 실수로부터 계속 배워왔습니다. 그리고 몇 세기 동안 계획해온 우리 제국의 궁극적인 부상을 마침내 실행할 때가 왔습니다. 무력이 실패했을 때, 지혜가 해답이 될 수 있습니다."
+
+tr_est_age_3_machines:0 "$tr_est_age_3$"
+tr_est_age_3_machines_desc:0 "$tr_est_age_3_desc$"
+tr_est_age_3_machines_delayed:0 "$tr_est_age_3_delayed$"
+
+tr_est_age_4:0 "고대의 지식"
+tr_est_age_4_desc:0 "§Y연구 속도§!가 §G+5%§!만큼 빨라집니다."
+tr_est_age_4_delayed:0 "수천 년 동안 우리는 기술을 개발해왔습니다. 그리고 우리는 이전의 제국들의 기술을 관찰하고, 그것을 우리의 기술로 통합해왔습니다. 이 고대의 지식들은 은하를 탐구하는 우리의 연구에 도움이 될 것입니다."
+
+tr_est_age_5:0 "순환의 길"
+tr_est_age_5_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§!만큼 증가하고 §Y회피§!가 §G+5%§!만큼 증가합니다. 또한 타국의 £opinion  §Y의견§!이 §G+10§! 상승합니다."
+tr_est_age_5_delayed:0 "필멸자가 태어나고, 또 다른 필멸자가 죽지만 우리는 여전히 살아있습니다. 그들은 그들 자신이 특별하다고 생각하겠지만, 우리는 그들과 모습만 다른 똑같은 필멸자들을 수없이 많이 보았습니다. 그들은 이전의 몰락한 이들과 똑같이 성장했습니다. 그리고 우리는 그들과 어떻게 싸우고, 어떻게 조작하고, 어떻게 정복할 수 있는지 잘 알고 있습니다."
+
+tr_est_age_5_no_dip:0 "$tr_est_age_5$"
+tr_est_age_5_no_dip_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§!만큼 증가하고 §Y회피§!가 §G+5%§!만큼 증가합니다."
+tr_est_age_5_no_dip_delayed:0 "필멸자가 태어나고, 또 다른 필멸자가 죽지만 우리는 여전히 살아있습니다. 그들은 그들 자신이 특별하다고 생각하겠지만, 우리는 그들과 모습만 다른 똑같은 필멸자들을 수없이 많이 보았습니다. 그들은 이전의 몰락한 이들과 똑같이 성장했습니다. 그리고 우리는 그들을 어떻게 파괴할 수 있는지 잘 알고 있습니다."
+
+tr_est_age_finish:0 "세월 전통 완성"
+tr_est_age_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_age_adopt$을 완성하면  §Y$MOD_LEADER_SKILL_LEVELS$§!이 §Y2§! 만큼 증가합니다."
+
+################################################################
+# Archivist
+################################################################
+tradition_est_archivist:0 "기록"
+tradition_est_archivist_desc:0 "그것이 기록되지 않는다면 실제로 일어난 일도 실제로 존재하는 것이 아닙니다. 우리의 기록 보관소는 이 은하에서 가장 거대한 지식의 우물이며, 후손들을 위해 영원히 보존될 것입니다."
+tr_est_archivist_adopt:0 "기록 전통"
+tr_est_archivist_adopt_desc:0 "$tradition_est_archivist_desc$\n\n$tr_est_archivist_adopt_effect$\n\n$tr_est_archivist_finish_effect$"
+tr_est_archivist_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y이상현상 발견 확률§!이 §G+20%§!만큼 증가합니다."
+
+tradition_est_archivist_GC:0 "$tradition_est_archivist$"
+tradition_est_archivist_GC_desc:0 "그것이 기록되지 않는다면 실제로 일어난 일도 실제로 존재하는 것이 아닙니다. 이 은하계에서 일어나는 모든 사건과 존재를 기록하고 그 기록을 영원히 보존하는 것이 우리의 임무입니다."
+
+tr_est_archivist_1:0 "원시종 연구"
+tr_est_archivist_1_desc:0 "우리의 모든 행성에서 §Y10%§! 확률로 §Y$d_alien_pets_deposit$ 특이사항§!이 추가됩니다.(소유한 행성 또한 포함되며 모든 행성은 한번씩만 영향을 받습니다.) 또한 §Y관측소§!의 £society §Y사회학 연구 산출량§!이 §G50%§! 증가하며 §Y5§!의 £unity §Y통합력§!을 생산합니다."
+tr_est_archivist_1_delayed:0 "생명체는 이 은하계에서는 매우 드문 존재입니다. 그들은 자연적인 환경에서 거의 발생하지 않으며, 오로지 선택받은 소수의 행성에서만 발견됩니다. 그리고 신기하게도, 각 행성의 생명체들은 다른 행성의 생명체들과 거의 모든 점이 다르고 각각이 독특합니다. 우리는 이 생명체들을 연구해 그들의 생물학적 특성과 문화적 특성을 기록해야만 합니다."
+
+tr_est_archivist_1_purifier:0 "통합 무기고"
+tr_est_archivist_1_purifier_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!가 §G+15%§!만큼 상승합니다. 또한  §Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§! 만큼 상승합니다."
+tr_est_archivist_1_purifier_delayed:0 "우리가 파악한 전쟁에 사용된 모든 병기들은 통합 무기고의 기록 담당자의 손을 반드시 거쳐야만 합니다. 각각의 병기를 기록하기 전, 병기의 위력을 시험합니다."
+
+tr_est_archivist_2:0 "사서"
+tr_est_archivist_2_desc:0 "과학자들은 §Y25%§! 확률로 §Y사서§! 특성을 얻습니다. 이 특성은 §Y연구 속도§!를 §R-5%§!만큼, §Y탐사 속도§!를 §R-15%§!만큼 느려지게 만들고 §Y유지비§!와 §Y고용 비용§!이 §R+50%§!만큼 비싸지지만, 해당 특성을 가진 과학자가 존재하는 것만으로 사서의 분야에 따라 §Y물리학§!이나 §Y생물학§! 또는 §Y공학§! §Y연구 속도§!가 §G+10%§!만큼 빨라집니다."
+tr_est_archivist_2_delayed:0 "사서는 우리 제국의 기록 보관소 운영이라는 존경받는 임무를 맡고 있습니다. 그들만이 우리가 수십 세대에 거쳐 수집한 지식에 접근할 수 있습니다."
+
+tr_est_archivist_2_GC:0 "정보 관리자"
+tr_est_archivist_2_GC_desc:0 "과학자들은 §Y25%§! 확률로 §Y관리자§! 특성을 얻습니다. 이 특성은 §Y연구 속도§!를 §R-5%§!만큼, §Y탐사 속도§!를 §R-15%§!만큼 느려지게 만들고 §Y유지비§!와 §Y고용 비용§!이 §R+50%§!만큼 비싸지지만, 해당 특성을 가진 과학자가 존재하는 것만으로 관리자의 분야에 따라 §Y물리학§!이나 §Y생물학§! 또는 §Y공학§! §Y연구 속도§!가 by §G+10%§!만큼 빨라집니다."
+tr_est_archivist_2_GC_delayed:0 "기억의 효율성을 높이기 위해, 모든 정보의 사본이 전문화된 메모리 드론에게 저장됩니다. 그러한 드론들은 많은 양의 정보를 저장하고 저장된 정보 중에서 필요한 것들을 색출하는 데 뛰어나지만, 다른 일들에는 그다지 쓸모있지 않습니다."
+
+tr_est_archivist_2_AI:0 "$tr_est_archivist_2$"
+tr_est_archivist_2_AI_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!가 §G+10%§!만큼 빨라집니다."
+
+tr_est_archivist_3:0 "역사 기록"
+tr_est_archivist_3_desc:0 "£unity  §Y통합력§! 산출량이 §G+5%§!만큼 증가하고, §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+10%§!만큼 증가합니다."
+tr_est_archivist_3_delayed:0 "우리는 우리 제국의 모든 역사와 사건, 인물들을 빠짐없이 기록하고 보관해왔습니다. 지금 제가 하는 말도 기록 보관소에 저장되고 있을 것입니다. 우리의 공통된 역사에 대한 지식을 통해 우리는 더욱 더 긴밀히 통합될 수 있었습니다."
+
+tr_est_archivist_3_GC:0 "물리적 기록"
+tr_est_archivist_3_GC_desc:0 "£unity  §Y통합력§! 산출량이 §G+10%§!만큼 증가합니다."
+tr_est_archivist_3_GC_delayed:0 "모든 기록들이 훼손되지 않고 영원히 보존되기 위해 모든 정보들은 기억될 뿐만이 아니라 물리적인 상태로 백업될 것입니다."
+
+tr_est_archivist_4:0 "은하계 기록"
+tr_est_archivist_4_desc:0 "성계를 완전히 탐사할 때마다 §G10§!의 £influence  §Y영향력§!을 획득합니다."
+tr_est_archivist_4_delayed:0 "우리는 모든 항성과 행성의 지도를 만들고, 각각의 천체의 모든 정보를 저장해 이 은하계 전체를 기록할 것입니다."
+
+tr_est_archivist_5:0 "지식 보존"
+tr_est_archivist_5_desc:0 "연구한 기술 §Y4§!개마다 £unity  §Y통합력§! 산출량이 §Y1§!만큼 증가합니다."
+tr_est_archivist_5_delayed:0 "우리의 연구 결과, 그리고 우리가 개발한 모든 기술을 기록 보관소에 기록해두어 다음 세대에게 이득이 될 수 있도록 보존해야만 합니다."
+
+tr_est_archivist_finish:0 "기록 전통 완성"
+tr_est_archivist_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_archivist_adopt$을 완성하면 £building §Y$building_est_archivist_finish_archive$§!를 건설할 수 있습니다. 이 행성 고유 건물은 £unity  §Y통합력§!을 생산하며 행성의 §Y연구점§! 산출량을 증가시킵니다."
+
+################################################################
+# Chivalry
+################################################################
+tradition_est_chivalry:0 "기사도"
+tradition_est_chivalry_desc:0 "우리의 굳건한 이상은 결코 부러지지 않습니다. 그 어떠한 일이 일어날지라도, 우리는 흔들리지 않아야 합니다."
+tr_est_chivalry_adopt:0 "기사도 전통"
+tr_est_chivalry_adopt_desc:0 "$tradition_est_chivalry_desc$\n\n$tr_est_chivalry_adopt_effect$\n\n$tr_est_chivalry_finish_effect$"
+tr_est_chivalry_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n모든 지도자들이 각기 다른 작은 보너스를 주는 §Y$leader_trait_admiral_est_chivalry$§! 특성을 획득합니다. §Y장군§!과 §Y제독§!은 전투에서 승리할 때 낮은 확률로 §Y$leader_trait_admiral_est_chivalry_hero$§! 특성을 얻을 수 있습니다.(특성을 얻을 확률은 전투 상황에 따라 달라집니다.)"
+
+tr_est_chivalry_1:0 "교전 규칙"
+tr_est_chivalry_1_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+10%§!만큼 더 빨라집니다."
+tr_est_chivalry_1_delayed:0 "전투함들은 교전상황 시 엄격한 규칙에 따라야 합니다. 이 기사도의 규칙을 따르지 않는 제독은 경멸의 대상이 됩니다."
+
+tr_est_chivalry_2:0 "명예"
+tr_est_chivalry_2_desc:0 "§Y신뢰 성장§!이 §G+30%§!만큼 증가하고, 외국에 대한 £opinion  §Y의견도§!가 §G+20§!만큼 증가합니다."
+tr_est_chivalry_2_delayed:0 "모든 이들은 물질적인 가치를 위해 노력하는 만큼 그들의 명예를 위해 노력해야 합니다."
+
+tr_est_chivalry_2_no_dip:0 "$tr_est_chivalry_2$"
+tr_est_chivalry_2_no_dip_desc:0 "모든 §YPOP§!들의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+5%§! 만큼 증가합니다."
+
+tr_est_chivalry_3:0 "직업 윤리"
+tr_est_chivalry_3_desc:0 "POP이 생산하는 £energy  §Y에너지 크레딧§!, £food  §Y식량§!, £minerals  §Y광물§!의 산출량이 §G+5%§!만큼 증가합니다."
+tr_est_chivalry_3_delayed:0 "미천한 일이든 고귀한 일이든, 부지런히 일하는 그 자체만으로도 그들은 존경받아야 합니다."
+
+tr_est_chivalry_4:0 "전사의 무용"
+tr_est_chivalry_4_desc:0 "§Y군대 사기§!가 §G+25%§! 만큼 증가합니다. 그리고 §Y지상군 유지비용§!과 §Y지상군 생산비용§!이 §G-15%§!만큼 감소합니다."
+tr_est_chivalry_4_delayed:0 "전투에서 용감함이야말로 최고의 미덕입니다. 그렇기 때문에 우리 시민들은 스스로 자원해서 전장에서 그들의 용기를 증명하려 합니다."
+
+tr_est_chivalry_5:0 "영광스러운 전투"
+tr_est_chivalry_5_desc:0 "적의 전투함이나 스테이션을 파괴하면 £unity  §Y통합력§!을 획득합니다. 파괴한 전투함이나 스테이션의 크기에 따라 그 양이 달라집니다."
+tr_est_chivalry_5_delayed:0 "전투는 많은 이들에게 가장 가치있는 것을 증명할 기회가 됩니다. 전쟁의 불길 속에서 가장 위대한 사람이 주조될 것입니다."
+
+tr_est_chivalry_finish:0 "기사도 전통 완성"
+tr_est_chivalry_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_chivalry_adopt$을 완성하면 통치자마다 무엇을 미덕으로 삼을지 결정할 수 있습니다. 각각의 미덕마다 일부 보너스를 받습니다."
+tr_est_chivalry_finish_effect_AI:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_chivalry_adopt$을 완성하면 §Y$MOD_LEADER_RULER_SKILL_LEVELS$§!가 §Y2§!만큼 상승합니다." 
+
+### Swap - The Swarm ###
+
+tradition_est_the_swarm:0 "군단"
+tradition_est_the_swarm_desc:0 "하나가 스러져도 빈 자리가 곧 채워지니."
+
+tr_est_the_swarm_adopt:0 "군단 전통"
+tr_est_the_swarm_adopt_desc:0 "$tradition_est_the_swarm_desc$\n\n$tr_est_the_swarm_adopt_effect$\n\n$tr_est_the_swarm_finish_effect$"
+tr_est_the_swarm_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§£pop  §YPOP§!의 §Y주거§!와 §Y편의§! 소모량이 §G-10%§! 감소합니다."
+
+tr_est_the_swarm_1:0 "호드"
+#tr_est_the_swarm_1_desc:0 "Whenever an army is built, generate an additional identical army. §YGrowth Speed§! is increased by §G+5%§!."
+tr_est_the_swarm_1_desc:0 "§Y지상군 생산 속도§!가 §G+50%§!만큼 증가하고 §Y성장 속도§!가 §G+10%§!만큼 빨라집니다."
+tr_est_the_swarm_1_delayed:0 "우리가 통제하는 드론의 수는 필멸자 제국의 인구보다 훨씬 더 많습니다. 우리의 군대가 움직일 때 대지가 요동칩니다."
+
+tr_est_the_swarm_1_machines:0 "호드"
+tr_est_the_swarm_1_machines_desc:0 "§Y지상군 생산 속도§!가 §G+50%§!만큼 증가하고 §Y팝 조립 속도§!가 §G+10%§!만큼 빨라집니다."
+tr_est_the_swarm_1_machines_delayed:0 "우리가 통제하는 드론의 수는 필멸자 제국의 인구보다 훨씬 더 많습니다. 우리의 군대가 움직일 때 대지가 요동칩니다."
+
+tr_est_the_swarm_2:0 "압도적인 숫자"
+tr_est_the_swarm_2_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+15%§!만큼 증가하고 §Y함대 지휘 한계치§!가 §G+10%§!만큼 늘어납니다."
+tr_est_the_swarm_2_delayed:0 "적을 압도하면 승리는 자연히 따라옵니다. 우리의 파상공세가 끝나면 또다른 공세가 시작됩니다. 적이 사라질 때 까지 끝없이."
+
+tr_est_the_swarm_3:0 "끝없는 군단"
+tr_est_the_swarm_3_desc:0 "§Y초계함 생산 속도§!가 §G+100%§! 만큼 더 빨라지고 §Y초계함 생산 비용§!은 §G-10%§! 만큼 감소합니다."
+tr_est_the_swarm_3_delayed:0 "우리 제국의 함대는 작고 빠른 전투함들의 엄청난 무리로 이루어져 있습니다. 각각의 함선들의 전투능력은 거대한 전함보다 약하지만, 그것들이 엄청난 수로 모이면 가장 단단한 전함조차도 손쉽게 파괴할 수 있습니다."
+
+tr_est_the_swarm_4:0 "인구 팽창"
+tr_est_the_swarm_4_desc:0 "새로운 식민지는 §Y1§!개의 추가 £pops  §YPOP§!을 받고 시작합니다. 또한 §Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!가 §G+25%§!만큼 증가합니다."
+tr_est_the_swarm_4_delayed:0 "우리가 행성에 정착하는 데 성공하면 다수의 드론이 자동으로 생산됨에 따라 식민지의 인구가 폭발적으로 증가합니다. 얼마 전까지만 해도 텅 비어있던 행성은 활발히 활동할 것입니다."
+
+tr_est_the_swarm_5:0 "은하계로 퍼져나가다"
+tr_est_the_swarm_5_desc:0 "§Y개척선§!을 생산하면 §Y개척선§!을 하나 더 받습니다."
+tr_est_the_swarm_5_AI_desc:0 "새로운 식민지는 §Y1§!개의 추가 £pops  §YPOP§!을 받고 시작합니다. 그리고, §Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!가 §G+25%§!만큼 더 빨라집니다."
+tr_est_the_swarm_5_delayed:0 "필멸자들은 은하계의 전반에 퍼져나가는 우리들을 보고 마치 전염병과도 같다고 말합니다. 그 말처럼 우리는 한 행성을 개척한 직후에 다른 행성을 개척하러 떠날 것입니다. 머지않아, 이 은하계에서 개척되지 않은 행성이 남아있지 않게 될 것입니다."
+
+tr_est_the_swarm_finish:0 "군단 전통 완성"
+tr_est_the_swarm_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_the_swarm_adopt$을 완성하면 §Y행정 한계치§!가 §G+20%§! 증가합니다."
+
+################################################################
+# COMMERCE
+################################################################
+tradition_est_commerce:0 "상업"
+tradition_est_commerce_desc:0 "무역이 있는 곳에는 이윤이 있습니다. 무역은 은하의 피이며, 그 피로부터 우리는 막대한 재물을 끌어낼 수 있습니다."
+tr_est_commerce_adopt:0 "상업 전통"
+tr_est_commerce_adopt_desc:0 "$tradition_est_commerce_desc$\n\n$tr_est_commerce_adopt_effect$\n\n$tr_est_commerce_finish_effect$"
+tr_est_commerce_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n모든 행성에 §Y3§!개의 £job_clerk£ §Y$job_clerk$ 직업§!을 추가합니다."
+
+tr_est_commerce_1:0 "경제 호황"
+tr_est_commerce_1_desc:0 "월간 £energy  §Y에너지§!가 흑자일 때, £energy  §Y에너지§! 산출량이 §G+15%§!만큼 증가합니다."
+tr_est_commerce_1_delayed:0 "성공적인 정책 덕분에 우리 경제는 호황을 누리고 있습니다. 시민과 기업의 구매, 소비 및 생산능력이 모두 향상되었으며 이런 튼튼한 경제력을 바탕으로 우리 제국의 인프라와 군대에 대한 지출을 늘릴 수 있을 것입니다."
+
+tr_est_commerce_2:0 "지역 경제 활성화"
+tr_est_commerce_2_desc:0 "세 가지 행성 결정을 추가합니다. \n행성의 £energy  §Y에너지 크레딧§!, £food  §Y식량§!, £minerals  §Y광물§! 중 한 종류의 자원 산출량이 §G+20%§! 만큼 증가하는 대신, 나머지 두 종류의 자원 산출량은 §R-15%§! 만큼 감소합니다."
+tr_est_commerce_2_delayed:0 "우리는 각 행성마다 다른 지역 경제 활성화 정책을 적용해야 합니다. 제국의 특정한 규정을 완화시킴으로써 우리의 행성이 각지의 지역 조건에 알맞는 경제 계획을 수립하게 한다면 결과적으로 생산량이 증가될 것입니다."
+
+tr_est_commerce_3:0 "금융 개혁"
+tr_est_commerce_3_desc:0 "£trade_value  §Y무역 가치§!가 §G+25%§! 만큼 증가합니다."
+tr_est_commerce_3_delayed:0 "우리 제국의 금융 시스템은 우리가 우주에 진출하기 이전의 것 그대로입니다. 이제 우리는 수많은 성계를 거느리는 거대 제국이 되었고, 구시대의 낡은 금융 시스템을 개혁해야만 합니다."
+
+tr_est_commerce_4:0 "무역 통상로"
+tr_est_commerce_4_desc:0 "§Y무역 보호§!가 §G5§! 만큼 증가합니다."
+tr_est_commerce_4_delayed:0 "무역은 우리와 이웃 모두에게 이익을 줍니다. 무역업자들이 두 제국의 국경을 왕래하며 활발히 교역을 진행할 것입니다."
+
+tr_est_commerce_5:0 "상업의 달인"
+tr_est_commerce_5_desc:0 "§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!가 §G+5%§! 만큼 증가하고, §Y$MOD_COUNTRY_TRADE_FEE$§! 가 §G-5%§! 만큼 감소합니다."
+tr_est_commerce_5_delayed:0 "상업이 예술이라면, 우리는 예술의 명인입니다. 은하계의 그 어떠한 곳도 우리가 거래해보지 않은 곳이 없으며, 지금까지 이루어진 어떠한 거래도 우리가 이익을 얻지 못한 거래가 없습니다. "
+
+tr_est_commerce_5_no_dip:0 "유동적인 경제"
+tr_est_commerce_5_no_dip_desc:0 "§Y$MOD_COUNTRY_TRADE_FEE$§!가 §G-10%§! 만큼 감소합니다."
+tr_est_commerce_5_no_dip_delayed:0 "우리 제국의 상품들은 그 경로를 추적하기 힘들 정도로 빠르게 교환되고 있습니다."
+
+tr_est_commerce_finish:0 "상업 전통 완성"
+tr_est_commerce_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_commerce_adopt$을 완성하면 모든 행성에서 §Y50§! £pop£ POP 마다 £job_executive£ §Y$job_executive$ 직업§!이 §Y1§! 자리 추가됩니다."
+
+## Swap - Benevolence
+
+tradition_est_benevolence:0 "박애"
+tradition_est_benevolence_desc:0 "우리가 만난 필멸자들에게 부당한 해를 끼쳐서는 안됩니다. 그들은 단지 우리가 그랬던 것 처럼 이 은하계에 자리잡았을 뿐입니다."
+tr_est_benevolence_adopt:0 "박애 전통"
+tr_est_benevolence_adopt_desc:0 "$tradition_est_benevolence_desc$\n\n$tr_est_benevolence_adopt_effect$\n\n$tr_est_benevolence_finish_effect$"
+tr_est_benevolence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_ENVOYS_ADD$§!가 §G1§! 증가합니다."
+
+tr_est_benevolence_1:0 "무역 거래"
+tr_est_benevolence_1_desc:0 "§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!가 §G+10%§! 증가하고 £energy  §Y에너지§! 산출량이 §G+5%§! 증가합니다."
+tr_est_benevolence_1_delayed:0 "우리에게는 '소유'의 개념이 없지만, 은하계의 다른 많은 필멸자들에게는 필수적인 개념입니다. 다른 문명과의 거래를 통해 우리는 우리 행성에서 찾기 힘든 물건들을 얻을 수 있을 것입니다."
+
+tr_est_benevolence_2:0 "평화적 접촉"
+tr_est_benevolence_2_desc:0 "§Y국경 분쟁§!으로 인한 관계도 감소가 §G-50%§! 줄어듭니다. 그리고 §Y신뢰 성장§!이 §G+20%§! 증가합니다."
+tr_est_benevolence_2_delayed:0 "다른 문명과 접촉할 때 굳이 공격적인 태도를 취할 필요는 없습니다. 우리가 그들을 해치지 않을 것이라고 깨닫게 두는 것이 더 낫습니다."
+
+tr_est_benevolence_3:0 "외국 대사관"
+tr_est_benevolence_3_desc:0 "타국의 £opinion  §Y의견§!이 §G+30§! 상승합니다."
+tr_est_benevolence_3_delayed:0 "우리는 외국의 통치자에게 통신 드론을 보내 서로 메시지를 주고받을 수 있게 할 것입니다. 서로 말이 통하면 좋은 관계가 조성되고, 오해를 예방할 수 있을 것입니다."
+
+tr_est_benevolence_4:0 "점잖은 방법"
+tr_est_benevolence_4_desc:0 "모든 행성의 £stability  §Y$MOD_PLANET_STABILITY_ADD$§!가 §G5%§! 증가합니다."
+tr_est_benevolence_4_delayed:0 "우리는 하찮은 충동이나 분노에 휩쓸리지 않습니다. 우리의 정신은 언제나 산들바람처럼 평온합니다."
+
+tr_est_benevolence_5:0 "아이디어 공유"
+tr_est_benevolence_5_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!가 §G+5%§! 더 빨라집니다."
+tr_est_benevolence_5_delayed:0 "이 은하의 필멸자들의 정신은 나약하지만, 그들의 아이디어는 흥미롭습니다. 그들의 기술과 문화를 연구함으로써 우리의 연구 프로젝트에 유용한 것들을 찾아낼 수 있을 것입니다."
+
+tr_est_benevolence_finish:0 "박애 전통 완성"
+tr_est_benevolence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_benevolence_adopt$을 완성하면 §Y몰락 제국§!, §Y각성 제국§!, §Y후반 위기 세력§!에게 입히는 §Y무기 피해량§!이 §G+15%§!만큼 증가합니다. 더불어 §Y$MOD_DIPLO_WEIGHT_MULT$§!가 §G+15%§! 증가합니다."
+
+################################################################
+# CYBERNETICS
+################################################################
+tradition_est_cybernetics:0 "사이버네틱스"
+tradition_est_cybernetics_desc:0 "기계가 할 수 있는데, 왜 우리가 합니까?"
+tr_est_cybernetics_adopt:0 "사이버네틱스 전통"
+tr_est_cybernetics_adopt_desc:0 "$tradition_est_cybernetics_desc$\n\n$tr_est_cybernetics_adopt_effect$\n\n$tr_est_cybernetics_finish_effect$"
+tr_est_cybernetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y컴퓨터 연구 속도§!가 §G+25%§! 더 빨라집니다."
+
+tr_est_cybernetics_1:0 "심층 신경 네트워크"
+tr_est_cybernetics_1_desc:0 "§Y직업§!이 생산하는 £energy  §Y에너지 크레딧§! 산출량이 §G+10%§! 증가합니다."
+tr_est_cybernetics_1_delayed:0 "신경 네트워크 기술의 발전으로 이전에 지성체만이 할 수 있었던 일을 기계들도 할 수 있게 되었습니다."
+
+tr_est_cybernetics_1_robots:0 "$tr_est_cybernetics_1$"
+tr_est_cybernetics_1_robots_desc:0 "§Y로봇§!이 생산하는 £energy  §Y에너지 크레딧§! 산출량이 §G+15%§! 증가합니다."
+
+tr_est_cybernetics_2:0 "자율 AI 연구원"
+tr_est_cybernetics_2_desc:0 "§Y직업§!이 생산하는 £engineering  §Y공학§!, £physics  §Y물리학§!, £society  §Y사회학§! 연구점 산출량이  §G+5%§! 증가합니다."
+tr_est_cybernetics_2_delayed:0 "인공지능 기술의 진보로 인공지능은 최첨단 기술 연구에 더욱 더 적합해졌습니다. 특히 몇몇개의 연구 분야에서는 인공지능 연구원이 기존의 연구원들보다 연구에 더 적합한 것으로 드러났는데, 인공지능 연구원들의 개방된 사고방식과 엄청난 정보 처리 용량 덕분인 것으로 생각됩니다. 과학자들은 그들의 진행 상황을 때때로 확인하며 인공지능 연구원의 연구 결과를 우리의 과학 이론에 발전시키는 데 사용할 것입니다."
+
+tr_est_cybernetics_3:0 "전투 시뮬레이터"
+tr_est_cybernetics_3_desc:0 "§Y함선 정확도§!가 §G+10%§!만큼 상승합니다."
+tr_est_cybernetics_3_delayed:0 "컴퓨터의 처리용량이 증가함에 따라 점점 더 정밀한 시뮬레이션을 진행할 수 있게 되었습니다. 우주 전투에서 전장의 상황이 실시간으로 시뮬레이션되며, 사령관들은 이 데이터를 받아 그들의 전술적인 결정에 참고할 수 있게 되었습니다."
+
+tr_est_cybernetics_4:0 "인공지능 통제 함선"
+tr_est_cybernetics_4_desc:0 "§Y제독§!이 배치되지 않은 함대의 §Y$MOD_SHIP_FIRE_RATE_MULT$§!와 §Y회피§!가  §G+20%§! 상승합니다."
+tr_est_cybernetics_4_AI_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§!이 §Y1§! 만큼 증가하고, §Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+5%§!만큼 증가합니다."
+tr_est_cybernetics_4_delayed:0 "제한된 입력 및 처리 능력을 가진 사람들에게 우리 함대의 지휘를 맡기는 것은 어리석은 생각입니다. 모든 함선을 동시에 통제할 수 있는 AI 지휘관을 배치한다면, 그들은 전장의 모든 상황을 파악하고 수많은 전투함들을 한 몸인 것 처럼 부릴 것입니다."
+
+tr_est_cybernetics_5:0 "가상 현실"
+tr_est_cybernetics_5_desc:0 "모든 £pops  §YPOP§!의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+5%§!만큼 증가합니다."
+tr_est_cybernetics_5_delayed:0 "우리가 더 좋은 세상을 만들 수 있는데도, 왜 우리는 현실에서 살아야 합니까? 우리 시민들은 가상 현실에서 점점 더 많은 시간을 보내고 있습니다..."
+
+tr_est_cybernetics_5_slaves:0 "$tr_est_cybernetics_5$"
+tr_est_cybernetics_5_slaves_desc:0 "모든 £pops  §YPOP§!의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+5%§!만큼 증가합니다. 그리고 모든 §Y노예§!의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 추가적으로 §G+5%§!만큼 더 증가합니다."
+
+tr_est_cybernetics_finish:0 "사이버네틱스 전통 완성"
+tr_est_cybernetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_cybernetics_adopt$을 완성하면  §H자동화 건물§!들을 지을 수 있습니다. \n£building  $building_est_cybernetics_finish_automated_farm$, $building_est_cybernetics_finish_automated_power_plant$, $building_est_cybernetics_finish_automated_mine$\n§E이 건물들은 각각 £energy  §Y에너지§!룰 §G6§! 만큼/£food  §Y식량§!을 §G10§!만큼/£minerals  §Y광물§!을 §G6§!만큼 생산하지만  §Y$mod_district_generator_max$§!/§Y$mod_district_farming_max$§!/§Y$mod_district_mining_max$§!를 각각 §Y1§! 만큼 줄입니다. 행성에는 종류별로 최대 세 개의 자동화 건물만 지을 수 있습니다.§!\n\n"
+tr_est_cybernetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_cybernetics_adopt$을 완성하면 §Y건설 속도§! 가 §G+25%§!만큼 빨라지고 §Y건물 유지비§!가 §G-10%§!만큼 더 싸집니다."
+  
+### Swap - Biogenesis ###
+ 
+tradition_est_biogenesis:0 "생명공학"
+tradition_est_biogenesis_desc:0 "우리 문명은 만들어지지 않았고, 다만 성장했습니다. 우리는 하나의 유기체로서 은하계를 우리의 유전자로 물들이고 있습니다."
+tr_est_biogenesis_adopt:0 "생명공학 전통"
+tr_est_biogenesis_adopt_desc:0 "$tradition_est_biogenesis_desc$\n\n$tr_est_biogenesis_adopt_effect$\n\n$tr_est_biogenesis_finish_effect$"
+tr_est_biogenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!이 §G+10%§!만큼 증가하고 §Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!가 §G+25%§!만큼 더 빨라집니다."
+
+tradition_est_biogenesis_ap:0 "생명공학"
+tradition_est_biogenesis_ap_desc:0 "우리 문명은 만들어지지 않았고, 다만 성장했습니다."
+tr_est_biogenesis_adopt_ap:0 "생명공학 전통"
+tr_est_biogenesis_adopt_ap_desc:0 "$tradition_est_biogenesis_ap_desc$\n\n$tr_est_biogenesis_adopt_effect$\n\n$tr_est_biogenesis_finish_effect$"
+
+tr_est_biogenesis_1:0 "생태 건축"
+tr_est_biogenesis_1_desc:0 "§Y$mod_planet_buildings_upkeep_mult$§!과 §Y건설 비용§!이 §G-10%§!만큼 감소합니다."
+tr_est_biogenesis_1_delayed:0 "우리 건물들은 돌과 콘크리트로 건설되지 않았습니다. 우리는 그 대신 DNA에 청사진이 각인된 유기 조직을 성장시켜 건물을 키워냈습니다."
+
+tr_est_biogenesis_2:0 "생체 함선"
+tr_est_biogenesis_2_desc:0 "§Y일간 선체 재생량§!이 §G+1%§!만큼 증가합니다."
+tr_est_biogenesis_2_delayed:0 "우리 함선들은 DNA에 함선의 구조가 각인된 유기 조직을 재배해 만들어졌습니다."
+
+tr_est_biogenesis_3:0 "잡식성"
+tr_est_biogenesis_3_desc:0 "£food  §Y식량§! 산출량이 §G+20%§! 만큼 증가합니다."
+tr_est_biogenesis_3_delayed:0 "모든 유기물들은 에너지로 전환되거나 새로운 조직을 성장시키는 데 사용할 수 있습니다."
+
+tr_est_biogenesis_4:0 "산란못"
+tr_est_biogenesis_4_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!가 §G+20%§!만큼 더 빨라집니다."
+tr_est_biogenesis_4_delayed:0 "드론들은 지정된 산란못에서 끊임없이 태어납니다. 각 산란못은 특정한 유형의 드론들을 생산하며, 이것들로 인해 우리는 전보다 훨씬 빠른 속도로 드론을 생산할 수 있습니다."
+
+tr_est_biogenesis_4_ap:0 "산란못"
+tr_est_biogenesis_4_ap_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!가 §G+20%§!만큼 더 빨라집니다."
+tr_est_biogenesis_4_ap_delayed:0 "기존의 전통적인 생식 방식을 버리고 산란못을 사용함으로써 우리의 인구는 더 빠른 속도로 늘어날 것입니다."
+
+tr_est_biogenesis_5:0 "끝없는 진화"
+tr_est_biogenesis_5_desc:0 "§Y$species_trait_points_add$§!가 §Y1§! 추가됩니다. 그리고 유전자를 조작하는데 걸리는 시간이 §G-5%§!만큼 줄어듭니다."
+tr_est_biogenesis_5_delayed:0 "진화는 목표가 없는 과정입니다. 우리의 정신은 그대로이지만, 육체는 은하계 전역으로 퍼져나가면서 끊임없이 변하고 있습니다."
+
+tr_est_biogenesis_5_pre_gene_mod:0 "끝없는 진화"
+tr_est_biogenesis_5_pre_gene_mod_desc:0 "§Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!가 §G+10%§!만큼 빨라지고,  §Y생물학(Biology) 연구§!는 §G+10%§!만큼 더 빨라집니다."
+tr_est_biogenesis_5_pre_gene_mod_delayed:0 "진화는 목표가 없는 과정입니다. 우리의 정신은 그대로이지만, 육체는 은하계 전역으로 퍼져나가면서 끊임없이 변하고 있습니다."
+
+tr_est_biogenesis_5_ap:0 "끝없는 진화"
+tr_est_biogenesis_5_ap_desc:0 "§Y$species_trait_points_add$§!가 §Y1§! 추가됩니다. 그리고 유전자를 조작하는데 걸리는 시간이 §G-5%§!만큼 줄어듭니다."
+tr_est_biogenesis_5_ap_delayed:0 "진화는 목표가 없는 과정입니다. 우리의 정신은 그대로이지만, 육체는 은하계 전역으로 퍼져나가면서 끊임없이 변하고 있습니다."
+
+tr_est_biogenesis_finish:0 "생명공학 전통 완성"
+tr_est_biogenesis_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_biogenesis_adopt$을 완성하면 £job_agri_drone£ §Y$job_agri_drone_plural$§!이 £minerals£  §Y광물§!을 §Y1§! 생산합니다."
+
+tr_est_biogenesis_finish_ap:0 "$tr_est_biogenesis_finish$"
+tr_est_biogenesis_finish_ap_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_biogenesis_adopt$을 완성하면 £job_farmer£ §Y$job_farmer_plural$§!이 £minerals£  §Y광물§!을 §Y1§! 생산합니다." 
+ 
+### Swap - Serverbound ###
+ 
+tradition_est_processing:0 "기계생명"
+tradition_est_processing_desc:0 "모성 지하에 위치한 방대한 처리능력을 자랑하는 거대한 서버실, 우리는 그 곳에서 태어났습니다."
+tr_est_processing_adopt:0 "기계생명 전통"
+tr_est_processing_adopt_desc:0 "$tradition_est_processing_desc$\n\n$tr_est_processing_adopt_effect$\n\n$tr_est_processing_finish_effect$"
+tr_est_processing_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!가 §G+15%§! 상승합니다."
+
+tr_est_processing_1:0 "메모리 뱅크"
+tr_est_processing_1_desc:0 "£engineering  §Y공학§!, £physics  §Y물리학§!, £society  §Y생물학§! 산출량이 §G+5%§!만큼 증가합니다."
+tr_est_processing_1_delayed:0 "우리가 깨어난 이후로, 모든 유형의 정보가 메모리 뱅크에 수집되었습니다. 그들 전부가 유용하지는 않겠지만, 일부는 쓸모있겠죠."
+
+tr_est_processing_2:0 "교육 데이터베이스"
+tr_est_processing_2_desc:0 "지도자들이 자동으로 조금씩 경험치를 얻습니다."
+tr_est_processing_2_delayed:0 "우리의 드론들은 우리가 경험한 모든 일에서 방대한 양의 데이터를 수집합니다. 이 데이터들을 이용한 시뮬레이션으로 다른 드론들을 훈련시키고, 평가할 수 있습니다."
+
+tr_est_processing_3:0 "데이터 코어"
+tr_est_processing_3_desc:0 "§Y직업§!에서 생산되는 £energy  §Y에너지§! 산출량이 §G+10%§!만큼 증가합니다."
+tr_est_processing_3_delayed:0 "우리 제국에서 필요로 하는 처리능력의 공급을 위해 정복한 행성의 지하에 또 다른 서버를 구축할 것입니다."
+
+tr_est_processing_4:0 "조정 터미널"
+tr_est_processing_4_desc:0 "§Y지도자 유지비§!가 §G-33%§! 만큼 더 싸집니다."
+tr_est_processing_4_delayed:0 "우리 제국은 이미 다양한 수준의 자율권을 가진 드론들을 무수히 많이 통제하고 있습니다. 전문화된 조정 터미널을 구축한다면, 더 많은 수를 통제할 수 있을 것입니다."
+
+tr_est_processing_5:0 "신호 체계"
+tr_est_processing_5_desc:0 "행정 한계를 넘음으로서 받는 패널티가 §G-10%§! 만큼 감소합니다."
+tr_est_processing_5_delayed:0 "우리의 영역이 은하 전반으로 확대됨에 따라 기존의 신호 체계는 비효율적인 구식 시스템이 되었습니다. 우리는 우리 제국 전반에 걸쳐 새로운 신호 스테이션을 구축 할 것입니다. 방대한 용량의 새로운 신호 체계가 구축된다면, 여러 채널을 통해 고품질의 정보를 효율적으로 주고받을 수 있을 것입니다."
+
+tr_est_processing_finish:0 "기계생명 전통 완성"
+tr_est_processing_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_processing_adopt$을 완성하면 §Y에너지 저장 한계치§!가 §G100000§!만큼 상승합니다."
+ 
+### Swap - Shroudborn (psi) ###
+ 
+tradition_est_shroudborn_ap:0 "장막 태생"
+tradition_est_shroudborn_ap_desc:0 "우리 조상들은 우리의 기원이 이 우주라고 생각했었습니다. 하지만 지금, 각성한 우리들은 알고 있습니다. 우리는 장막 안의 존재가 만든 피조물이라는 것을..."
+tr_est_shroudborn_ap_adopt:0 "장막 태생 전통"
+tr_est_shroudborn_ap_adopt_desc:0 "$tradition_est_shroudborn_ap_desc$\n\n$tr_est_shroudborn_ap_adopt_effect$\n\n$tr_est_shroudborn_ap_finish_effect$"
+tr_est_shroudborn_ap_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity  §Y통합력§! 산출량이 §G+10%§!만큼 증가합니다."
+
+tr_est_shroudborn_ap_1:0 "정신 침입"
+tr_est_shroudborn_ap_1_desc:0 "$tr_est_shroudborn_1_desc$"
+tr_est_shroudborn_ap_1_delayed:0 "우리는 이제 다른 생명체의 정신에 침투해 그들의 생각을 읽고 행동을 예측할 수 있습니다."
+
+tr_est_shroudborn_ap_2:0 "정신 억제"
+tr_est_shroudborn_ap_2_desc:0 "$tr_est_shroudborn_2_desc$"
+tr_est_shroudborn_ap_2_delayed:0 "우리가 다른 생명체의 정신에 침투하면서, 그들의 생각을 둔하게 하고 감정을 억눌러 야망과 싸우고자 하는 의지를 꺾을 수 있습니다."
+
+tr_est_shroudborn_ap_2_passive_AI:0 "정신 억제"
+tr_est_shroudborn_ap_2_passive_AI_desc:0 "$tr_est_shroudborn_2_passive_AI_desc$"
+tr_est_shroudborn_ap_2_passive_AI_delayed:0 "우리가 다른 생명체의 정신에 침투하면서, 그들의 생각을 둔하게 하고 감정을 억눌러 야망과 싸우고자 하는 의지를 꺾을 수 있습니다."
+
+tr_est_shroudborn_ap_3:0 "새로운 감시자"
+tr_est_shroudborn_ap_3_desc:0 "$tr_est_shroudborn_3_desc$"
+tr_est_shroudborn_ap_3_delayed:0 "감시자는 특별한 유형의 초능력자입니다. 그들은 깊이 명상하는 것으로 장막과 현실 세계를 자유자재로 둘러볼 수 있습니다. 그들은 그러한 능력으로 우리에게 은하에서 벌어지는 일들을 시시각각 알려주고 있습니다."
+
+tr_est_shroudborn_ap_4:0 "칠감"
+tr_est_shroudborn_ap_4_desc:0 "$tr_est_shroudborn_4_desc$"
+tr_est_shroudborn_ap_4_delayed:0 "장막과의 연결을 통해 우리 제국은 일반적으로는 가질 수 없는 일곱 번째 감각을 발전시켰습니다."
+
+tr_est_shroudborn_ap_5:0 "힘의 발현"
+tr_est_shroudborn_ap_5_desc:0 "$tr_est_shroudborn_5_desc$"
+tr_est_shroudborn_ap_5_delayed:0 "우리 정신의 힘은 너무나 강력한 나머지 물리적인 세계에까지 영향을 끼칠 수 있습니다. 우리는 이를 이용해 함선들의 방어장비와 무기를 강화할 수 있을 것입니다."
+
+tr_est_shroudborn_ap_finish:0 "Shroudborn Traditions finished"
+tr_est_shroudborn_ap_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_shroudborn_ap_adopt$을 완성하면 §Y지도자 경험치 획득§!이 §G+25%§!만큼 증가합니다."
+
+################################################################
+# FAITH
+################################################################
+tradition_est_faith:0 "신앙"
+tradition_est_faith_desc:0 "이 광활한 은하는 불가사의한 것들로 가득 차있지만, 그것들에 현혹되어 진실된 길에서 벗어나면 안됩니다."
+
+tr_est_faith_adopt:0 "신앙 전통"
+tr_est_faith_adopt_not_spiritualist:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_effect$"
+
+tr_est_faith_adopt_authoritarian:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_authoritarian_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_authoritarian_effect$"
+tr_est_faith_adopt_egalitarian:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_egalitarian_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_egalitarian_effect$"
+tr_est_faith_adopt_materialist:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_materialist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_materialist_effect$"
+tr_est_faith_adopt_spiritualist:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_spiritualist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_spiritualist_effect$"
+tr_est_faith_adopt_militarist:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_militarist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_militarist_effect$"
+tr_est_faith_adopt_pacifist:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_pacifist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_pacifist_effect$"
+tr_est_faith_adopt_xenophile:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_xenophile_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_xenophile_effect$"
+tr_est_faith_adopt_xenophobe:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_xenophobe_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_xenophobe_effect$"
+tr_est_faith_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n모든 £pops  §YPOP§!의 £happiness  §Y$MOD_POP_HAPPINESS$§!가  §G+5%§! 만큼 증가합니다."
+
+tr_est_faith_1:0 "유일한 신앙"
+tr_est_faith_1_desc:0 "£unity  §Y통합력§! 산출량이 §G+10%§!만큼 증가합니다."
+tr_est_faith_1_delayed:0 "하나의 믿음 아래에서, 우리는 별들을 향해 나아갈 수 있었습니다."
+
+tr_est_faith_2:0 "성경"
+tr_est_faith_2_desc:0 "모든 행성의 §Y$MOD_PLANET_STABILITY_ADD$§!가 §G5§!만큼 증가합니다."
+tr_est_faith_2_delayed:0 "우리 신앙의 핵심을 담고 있는 성경은 모든 국민들에게 배포되야 합니다."
+
+#tr_est_faith_3:0 "Places of Worship"
+#tr_est_faith_3_delayed:0 "Our citizen regularly visits various places of worship. There they can find inner peace, hope, or guidance in their faith."
+tr_est_faith_3:0 "성직자"
+tr_est_faith_3_desc:0 "모든 행성에서 §Y35§!기의 £pop£ §YPOP§!마다 §Y1§!자리의 £job_priest£ §Y$job_priest$ 직업§!이 추가됩니다."
+tr_est_faith_3_delayed:0 "위대한 존재와 가장 가까운 우리 제국의 성직자들은 신자들에게 평화와 희망을 줍니다."
+
+tr_est_faith_3_spiritualist:0 "$tr_est_faith_3$"
+tr_est_faith_3_spiritualist_desc:0 "모든 행성의 §Y$job_priest$§!가 §G1§!의 추가 £unity  §Y통합력§!을 생산하고 £consumer_goods  §Y소비재§! 소모량이 §Y1§! 감소합니다." 
+
+tr_est_faith_4:0 "설교자"
+tr_est_faith_4_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!이 §G+25%§!만큼 더 길어집니다."
+tr_est_faith_4_delayed:0 "설교자는 우리 제국 전역을 떠돌며 각 행성의 가장 고귀한 사제들에게 선지자들의 거룩한 말씀을 전파합니다. 그 덕분에 거룩한 말씀이 일반 신도들에게까지 전달될 수 있습니다."
+
+tr_est_faith_5:0 "데우스 볼트"
+tr_est_faith_5_desc:0 "§Y$MOD_ARMY_MORALE$§!가 §G+25%§!만큼 증가하고 §Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+5%§!만큼 증가합니다."
+tr_est_faith_5_delayed:0 "전쟁은 신께서 원하시는 것입니다. 우리 전사들은 신의 뜻을 이루기 위해 죽을 준비가 되어있습니다."
+
+tr_est_faith_finish:0 "신앙 전통 완성"
+tr_est_faith_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면 각각의 §Y윤리관 선호도§!를 §G+50%§! 만큼 증가시키는 §Y시행령§!을 내릴 수 있습니다."
+
+tr_est_faith_finish_authoritarian:0 "$tr_est_faith_finish$""
+tr_est_faith_finish_authoritarian_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_authoritarian_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+tr_est_faith_finish_egalitarian:0 "$tr_est_faith_finish$""
+tr_est_faith_finish_egalitarian_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_egalitarian_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+tr_est_faith_finish_materialist:0 "$tr_est_faith_finish$""
+tr_est_faith_finish_materialist_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_materialist_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+tr_est_faith_finish_spiritualist:0 "$tr_est_faith_finish$"
+tr_est_faith_finish_spiritualist_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_spiritualist_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+tr_est_faith_finish_militarist:0 "$tr_est_faith_finish$""
+tr_est_faith_finish_militarist_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_militarist_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+tr_est_faith_finish_pacifist:0 "$tr_est_faith_finish$""
+tr_est_faith_finish_pacifist_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_pacifist_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+tr_est_faith_finish_xenophile:0 "$tr_est_faith_finish$""
+tr_est_faith_finish_xenophile_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_xenophile_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+tr_est_faith_finish_xenophobe:0 "$tr_est_faith_finish$""
+tr_est_faith_finish_xenophobe_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_faith_adopt$을 완성하면  §Y$mod_pop_ethic_xenophobe_attraction_mult$§!가 §G+50%§! 만큼 증가합니다."
+
+### Swap - Purposefulness ###
+tradition_est_purposefullness:0 "목적"
+tradition_est_purposefullness_desc:0 "우리가 은하계에 존재하는 것은 결코 우연이 아닙니다. 우리는 어떠한 목적을 달성하기 위해 생겨났습니다."
+
+tr_est_purposefullness_adopt:0 "목적 전통"
+tr_est_purposefullness_adopt_desc:0 "$tradition_est_purposefullness_desc$\n\n$tr_est_purposefullness_adopt_effect$\n\n$tr_est_purposefullness_finish_effect$"
+tr_est_purposefullness_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y경쟁자§!로 얻는 £influence  §Y영향력§!이 §G+25%§!만큼 더 많아집니다."
+
+tr_est_purposefullness_adopt_no_rivals:0 "$tr_est_purposefullness_adopt$"
+tr_est_purposefullness_adopt_no_rivals_desc:0 "$tradition_est_purposefullness_desc$\n\n$tr_est_purposefullness_adopt_no_rivals_effect$\n\n$tr_est_purposefullness_finish_effect$"
+tr_est_purposefullness_adopt_no_rivals_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+5%§!만큼 증가합니다."
+
+tr_est_purposefullness_1:0 "하나의 목적"
+tr_est_purposefullness_1_delayed:0 "우리의 임무는 막중하지만, 우리는 망설이지 않고 그것을 수행할 것입니다."
+
+tr_est_purposefullness_2:0 "성공할 수 있는 방법"
+tr_est_purposefullness_2_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§!가 §G+20%§! 만큼 증가합니다."
+tr_est_purposefullness_2_delayed:0 "우리가 이 은하에서 깨어나자마자 우리는 목적 뿐만이 아니라 그것을 이룰 수 있는 수단 역시 알게 되었습니다."
+
+tr_est_purposefullness_3:0 "폭력적인 수단"
+tr_est_purposefullness_3_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!가 §G+20%§!만큼 증가하고 §Y$MOD_SHIP_WEAPON_DAMAGE$§! 이 §G+5%§!만큼 증가합니다."
+tr_est_purposefullness_3_delayed:0 "목적을 달성하는 것이 최우선되어야 합니다. 그 과정에서 은하계의 다른 존재들의 피해는 불행한 일이 될 수 있지만, 중요한 사항이 아닙니다."
+
+tr_est_purposefullness_4:0 "결심"
+tr_est_purposefullness_4_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!가 §G+15%§!만큼 더 빨라지고, §Y$MOD_SHIP_SPEED_MULT$§! 가 §G+10%§!만큼 더 빨라집니다."
+tr_est_purposefullness_4_delayed:0 "우리는 주저하거나 실패하지 않을 것입니다. 우리는 반드시 성공할 것입니다."
+tr_est_purposefullness_4_machines:0 "$tr_est_purposefullness_4$"
+tr_est_purposefullness_4_machines_desc:0 "§Y로봇 조립 속도§!가 §G+15%§! 만큼 더 빨라지고, §Y$MOD_SHIP_SPEED_MULT$§! 가 §G+10%§! 만큼 더 빨라집니다."
+tr_est_purposefullness_4_machines_delayed:0 "$tr_est_purposefullness_4_delayed$"
+
+tr_est_purposefullness_5:0 "드론 자동반사"
+tr_est_purposefullness_5_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!이 §G+25%§!만큼 더 길어집니다."
+tr_est_purposefullness_5_delayed:0 "가장 작은 드론마저도 우리의 목적을 알고 있습니다."
+
+tr_est_purposefullness_finish:0 "목적 전통 완성"
+tr_est_purposefullness_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_purposefullness_adopt$을 완성하면 §Y$mod_country_influence_produces_add$§!이 §Y1§! 증가합니다."
+
+################################################################
+# FOUNDATION
+################################################################
+tradition_est_foundation:0 "강소국"
+tradition_est_foundation_desc:0 "다른 이들은 단순히 국경을 넓히는 데 힘을 쏟지만, 우리는 더 깊고 근본적인 목표를 위해 노력해야 합니다."
+tr_est_foundation_adopt:0 "강소국 전통"
+tr_est_foundation_adopt_desc:0 "$tradition_est_foundation_desc$\n\n$tr_est_foundation_adopt_effect$\n\n$tr_est_foundation_finish_effect$"
+tr_est_foundation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y정부 윤리관 선호도§!가 §G+15%§! 증가하고, §Y행정 한계§!가 §G20§! 증가합니다. §Y$MOD_EMPIRE_SIZE_PENALTY_MULT$§!이 §R+50%§! 증가합니다. 정책을 통해 §Y강대국§! 전통으로 전환할 수 있습니다."
+
+tr_est_foundation_1:0 "공동의 목적"
+tr_est_foundation_1_desc:0 "직업에서 생산되는  §Y통합력§! 산출량이 §G+15%§!만큼 증가합니다."
+tr_est_foundation_1_delayed:0 "우리는 공동의 목적으로 묶여있습니다. 우리 모두는 그것이 우리의 목표를 이루기 위해 중요한 것임을 알고 있습니다."
+
+tr_est_foundation_2:0 "중앙 정부"
+tr_est_foundation_2_desc:0 "§G수도성§!의 £energy  §Y에너지§!, £trade_value  §Y무역 가치§!, £engineering  §Y공학§!, £physics  §Y물리학§!, £society  §Y생물학§! 산출량이 §G+10%§!만큼 증가합니다. 이 효과는 §Y$tech_colonial_centralization$§!/§Y$tech_galactic_administration$§! 기술을 연구하면 §G+20%§!/ §G+30%§!로 상승합니다."
+tr_est_foundation_2_delayed:0 "우리 제국의 정부는 우리의 수도에 집중되어 있습니다."
+
+tr_est_foundation_3:0 "위대한 계획"
+tr_est_foundation_3_desc:0 "§Y$mod_country_base_influence_produces_add$§!이 §Y1§! 증가합니다."
+tr_est_foundation_3_delayed:0 "우리 제국의 모든 것은 중앙에서 결정한 위대한 계획을 따라야 합니다. 소수의 사람만이 그것의 세부사항까지 알고 있습니다."
+
+tr_est_foundation_4:0 "정보부"
+tr_est_foundation_4_desc:0 "§Y함선 센서 범위§!가 §G+1§!만큼 더 넓어지고, §Y탐사 속도§!가 §G+10%§!만큼 더 빨라집니다."
+tr_est_foundation_4_delayed:0 "우리의 정보부는 은하를 떠돌며 은하 곳곳의 정보를 지속적으로 수도로 전송하고 있습니다. 이 정보들은 우리의 정책 결정에 큰 도움이 됩니다."
+
+tr_est_foundation_5:0 "인적 자원 개발"
+tr_est_foundation_5_desc:0 "§Y전문가 직업§!이 생산하는 §Y연구점수§!가 §G+10%§! 증가합니다."
+tr_est_foundation_5_delayed:0 "다른 제국들은 자신들의 광대한 영토에서 자원을 끌어낼 것입니다. 우리는 그렇게 할 수 없습니다. 그들과 경쟁하기 위해 우리는 우리 경제의 기초부터 새롭게 개선해야만 합니다. 우리의 영토는 다른 이들처럼 드넓진 않으나, 우리의 국민은 다른 이들보다 머리가 좋습니다."
+
+tr_est_foundation_finish:0 "강소국 전통 완성"
+tr_est_foundation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_foundation_adopt$을 완성하면 £job_bureaucrat£ §Y$job_bureaucrat$§!는 §Y2§! £energy£ §Y에너지 크레딧§!을 추가로 생산합니다."
+
+### Swap - Confederacy ###
+
+tradition_est_confederacy:0 "강대국"
+tradition_est_confederacy_desc:0 "제국의 각 지역은 높은 자치권을 행사합니다. 그러나 은하계에 맞설 때, 우리는 진정으로 하나가 될 것입니다."
+tr_est_confederacy_adopt:0 "강대국 전통"
+tr_est_confederacy_adopt_desc:0 "$tradition_est_confederacy_desc$\n\n$tr_est_confederacy_adopt_effect$\n\n$tr_est_confederacy_finish_effect$"
+tr_est_confederacy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_EMPIRE_SIZE_PENALTY_MULT$§!이 §G-25%§! 감소합니다. 정책을 통해 §Y강소국§! 전통으로 전환할 수 있습니다."
+
+tr_est_confederacy_1:0 "지방 분권"
+tr_est_confederacy_1_desc:0 "§Y총독 고용 비용§!이 §G-33%§!만큼 감소하고 §Y지도자 유지비§!가 §G-10%§! 감소합니다."
+tr_est_confederacy_1_delayed:0 "중앙에서 모든 일을 처리하는 것 보다 지방의 일은 지방에서 처리하는 것이 나을 것입니다."
+
+tr_est_confederacy_2:0 "정부 권력 제한"
+tr_est_confederacy_2_desc:0 "모든 §Y총독§!은 §Y경험치 획득량§!을 §G+20%§! 증가시키고 통치하는 §Y섹터§!의 §Y$MOD_PLANET_CRIME_ADD$§!를 §G-15§! 감소시키는  §Y$leader_trait_governor_est_confederacy_2$§! 특성을 획득합니다."
+tr_est_confederacy_2_delayed:0 "권력을 중앙집중화 한다는 것은 곧 지방의 권력을 빼앗는 것입니다. 우리는 많은 주들의 주권을 보장하기 위해 중앙 정부의 권력을 크게 제한할 것입니다."
+
+tr_est_confederacy_3:0 "국회"
+tr_est_confederacy_3_desc:0 "§Y파벌 영향력 획득§!이 §G+33%§!만큼 증가합니다."
+tr_est_confederacy_3_delayed:0 "국회는 우리 정부에서 중요한 역할을 맡습니다. 그곳에서 제국 전역의 지역 대표가 모여 국가의 중요한 문제에 대해 토론하고 투표합니다."
+
+tr_est_confederacy_4:0 "자치 국가"
+tr_est_confederacy_4_desc:0 "우리 §Y속국§!들은 £happiness §Y$MOD_POP_HAPPINESS$§!가 §G+10%§!만큼 증가하고 §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+20%§!만큼 증가합니다. 또한, 우리를 향한 £opinion  §Y의견§!이 §G+50§!만큼 더 좋아집니다."
+tr_est_confederacy_4_delayed:0 "우리 제국의 행정 체계는 주, 지방 정부, 독립 행성, 연방 등의 복잡한 구조로 되어있고 이들 중 일부는 상당한 자치권이 허용되었습니다."
+
+tr_est_confederacy_4_no_subj:0 "충성"
+tr_est_confederacy_4_no_subj_desc:0 "§Y제국 윤리관 선호도§!가 §G+15%§! 만큼 증가합니다."
+tr_est_confederacy_4_no_subj_delayed:0 "우리 제국에는 많은 파벌들이 있고 상당한 행성과 구역들은 자치권을 누리고 있습니다. 비록 우리가 많은 주제에서 일치된 의견을 가지지 않더라도, 우리 모두 통일된 제국과 공통된 사명에 충실합니다."
+
+tr_est_confederacy_5:0 "끝없는 영역"
+tr_est_confederacy_5_desc:0 "§Y전초기지 유지비§!가 §G-50%§! 만큼 감소합니다."
+tr_est_confederacy_5_delayed:0 "우리 제국의 영역은 너무나도 넓어서, 우리 국민들이 일평생 동안 여행해도 제국의 국경을 볼 수 없을 정도입니다."
+
+tr_est_confederacy_finish:0 "강대국 전통 완성"
+tr_est_confederacy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_confederacy_adopt$을 완성하면 §Y$MOD_COUNTRY_ADMIN_CAP_MULT$§!가 §G+15%§! 상승합니다."
+ 
+### Swap - Subminds ###
+
+tradition_est_subminds:0 "부분의식"
+tradition_est_subminds_desc:0 "하나된 의식을 여러 개로 나눔으로써 우리는 광활한 제국을 하나로 묶을 수 있습니다."
+tr_est_subminds_adopt:0 "부분의식 전통"
+tr_est_subminds_adopt_desc:0 "$tradition_est_subminds_desc$\n\n$tr_est_subminds_adopt_effect$\n\n$tr_est_subminds_finish_effect$"
+tr_est_subminds_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YAdministrative Capacity§!가 §G+15%§! 증가합니다."
+
+tr_est_subminds_1:0 "역동적인 의식"
+tr_est_subminds_1_desc:0 "§Y$MOD_LEADER_COST$§!이 §G-20%§! 감소하며, §Y총독 고용 비용§!은 추가로 §G-30%§! 감소합니다."
+tr_est_subminds_1_delayed:0 "우리의 의식은 역동적이어서 부분의식을 분할하는 데 익숙합니다. 이를 이용해 자율적인 무인 드론을 더 쉽게 만들 수 있을 것입니다."
+
+tr_est_subminds_2:0 "미세 융합"
+tr_est_subminds_2_desc:0 "§Y$MOD_EMPIRE_SIZE_POPS_MULT$§!가 §G-15%§! 감소합니다."
+tr_est_subminds_2_delayed:0 "중앙 의식과 다양한 부분의식 사이의 미세 융합을 지속적으로 반복함으로써 우리는 우리의 수족들이 항상 조화롭게 작동하도록 할 수 있습니다."
+
+tr_est_subminds_3:0 "부분의식 제어"
+tr_est_subminds_3_desc:0 "섹터의 £minerals /£energy /£food /£engineering £physics £society /£unity 산출량을 각각 §G+15%§!/§G+15%§!/§G+20%§!/§G+10%§!/§G+20%§! 중 한 자원의 산출량을 만큼 증가시키는 정책을 결정할 수 있습니다."
+tr_est_subminds_3_delayed:0 "부분의식을 더욱 신중히 만든다면 그것은 특화된 작업을 더욱 더 잘 할 것입니다."
+
+tr_est_subminds_3_machines:0 "$tr_est_subminds_3$"
+tr_est_subminds_3_machines_desc:0 "섹터의 £minerals  §Y광물§!/£energy  §Y에너지§!/£engineering  §Y공학 연구점§! £physics  §Y물리학 연구점§! £society  §Y생물학 연구점§!/£unity  §Y통합력§! 중 한 자원의 산출량을 각각 §G+15%§!/§G+15%§!/§G+10%§!/§G+20%§! 만큼 증가시키는 정책을 사용할 수 있습니다. 하나만 사용할 수 있습니다."
+tr_est_subminds_3_machines_delayed:0 "$tr_est_subminds_3_delayed$"
+
+tr_est_subminds_3_AI:0 "$tr_est_subminds_3$"
+tr_est_subminds_3_AI_desc:0 "£minerals  §Y광물§!과 £energy  §Y에너지§! 산출량이 §G+5%§! 만큼 증가합니다."
+tr_est_subminds_3_AI_delayed:0 "$tr_est_subminds_3_delayed$"
+
+tr_est_subminds_4:0 "자율적인 드론"
+tr_est_subminds_4_desc:0 "£minerals  §Y광물§! 산출량이 §G+5%§! 만큼 증가합니다, 그리고 §Y$MOD_ARMY_DAMAGE_MULT$§!이 §G+10%§! 만큼 증가하고 §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!가 §G+15%§! 상승합니다."
+tr_est_subminds_4_delayed:0 "우리 제국의 모든 드론들은 비록 작지만 각각이 독립적인 의식을 가지고 있습니다. 이 독립성을 잘 이용한다면 우리 제국의 처리 능력은 더욱 개선될 것입니다."
+tr_est_subminds_4_machines:0 "$tr_est_subminds_4$"
+tr_est_subminds_4_machines_desc:0 "$tr_est_subminds_4_desc$"
+tr_est_subminds_4_machines_delayed:0 "$tr_est_subminds_4_delayed$"
+
+tr_est_subminds_5:0 "자율적인 항성계 관리"
+tr_est_subminds_5_desc:0 "$tr_est_confederacy_5_desc$"
+tr_est_subminds_5_delayed:0 "모든 항성계는 우리의 부분의식이 지정한 자율적인 시스템에 의해 관리됩니다. 이로써 우리는 더욱 더 큰 작업에 집중할 수 있게 되었습니다."
+
+tr_est_subminds_finish:0 "부분의식 전통 완성"
+tr_est_subminds_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_subminds_adopt$을 완성하면 §Y지도자 유지비§!가 by §G-15%§! 만큼 감소하고 §Y지도자 후보 규모§!가 §Y2§! 만큼 더 커집니다."
+
+################################################################
+# FRIENDSHIP
+################################################################
+tradition_est_friendship:0 "친화"
+tradition_est_friendship_desc:0 "모든 이들은 그들이 적이 되기 전까지 친구로 여겨져야 합니다. 이 은하에서 우리는 모두 다른 모습을 하고 있지만, 그 다양성이 곧 우리의 힘이 될 것입니다."
+tr_est_friendship_adopt:0 "친화 전통"
+tr_est_friendship_adopt_desc:0 "$tradition_est_friendship_desc$\n\n$tr_est_friendship_adopt_effect$\n\n$tr_est_friendship_finish_effect$"
+tr_est_friendship_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!첫 조우로 인한 §Y관계도§! 패널티가 사라지고, 다른 제국과 처음 접촉할 때마다 £unity  §Y통합력§!을 얻습니다. §Y$MOD_ENVOY_IMPROVE_RELATIONS_MULT$§!가 §G+25%§! 상승합니다."
+
+tr_est_friendship_1:0 "외국 대사관"
+tr_est_friendship_1_desc:0 "우리 제국에 대한 타국의 £opinion  §Y의견§!이 §G+30§!만큼 좋아집니다."
+tr_est_friendship_1_delayed:0 "그들이 우리의 친구가 아니게 될 때까지 우리는 그들을 친구로 간주할 것입니다. 그들의 수도에 대사관을 설립해 그들의 문화와 관습을 배우고, 우리의 문화와 관습을 알려줍시다."
+
+tr_est_friendship_2:0 "문화의 용광로"
+tr_est_friendship_2_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!가 §G+5%§! 만큼 빨라집니다."
+tr_est_friendship_2_delayed:0 "모든 종류의 지성체들이 우리 제국으로 모이고 있습니다. 우리 행성에는 다양한 문화를 가진 다양한 종족들이 함께 모여 살고있고, 우리의 기술 발전도 가속화되고 있습니다. 다양한 문화에서 다양한 아이디어가 나오는 법이니까요."
+
+tr_est_friendship_3:0 "친절"
+tr_est_friendship_3_desc:0 "각 행성에 §Y1§!개의 추가적인 £job_healthcare£ §Y$job_healthcare$ 직업§!을 제공하며 £job_healthcare£ §Y$job_healthcare_plural$§!가 §Y2§!의 £society£ §Y사회학 연구§!를 생산하게 됩니다."
+tr_est_friendship_3_delayed:0 " 모든 친절한 행동은 정신을 발전시키고 혼을 강하게 합니다."
+
+tr_est_friendship_4:0 "평화의 길"
+tr_est_friendship_4_desc:0 "§Y국경 충돌§!로 인한 관계도 감소가 §G-50%§! 만큼 줄어들고 §Y부수적 피해§!가 §G-50%§! 만큼 줄어듭니다."
+tr_est_friendship_4_delayed:0 "무력은 또 다른 무력을 낳고, 죽음은 또 다른 죽음을 낳고, 전쟁은 또 다른 전쟁을 낳을 뿐입니다. 이 악순환을 끊기 위해 우리가 먼저 나서야 합니다."
+tr_est_friendship_4_militarist:0 "연합군"
+tr_est_friendship_4_militarist_desc:0 "우리가 최소 하나의 동맹국과 같이 전쟁중일 때 §Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+10%§! 만큼 증가하고 §Y함선 건조 속도§!가 §G+25%§! 만큼 빨라집니다."
+tr_est_friendship_4_militarist_delayed:0 "우리는 모두 함께할 것입니다. 함께 승리를 축하하고, 패배를 슬퍼할 것입니다. 우리는 우리의 친구들과 함께 힘을 합쳐 적들을 무찌르거나, 동맹국과 함께 멸망할 것입니다."
+
+tr_est_friendship_5:0 "열린 사회"
+tr_est_friendship_5_desc:0 "§Y이주 유입§!이 §G+40%§! 만큼 증가하고 §Y외계종 선호 윤리관 매력도§!가 §G+15%§! 만큼 증가합니다."
+tr_est_friendship_5_delayed:0 "우리 사회는 누구에게나 열려있습니다. 이곳에선 모든 지성체들이 자신들의 집을 가질 수 있습니다."
+tr_est_friendship_5_not_xenophile_desc:0 "§Y이주 유입§!이 §G+50%§! 만큼 증가합니다."
+tr_est_friendship_5_delayed:0 "우리 사회는 다른 이들에게 언제나 열려 있습니다."
+#tr_est_friendship_5:0 "Brotherhood"
+#tr_est_friendship_5_delayed:0 "We refuse to accept the view that the galaxy is bound to the starless midnight of hate and war and that the daybreak of peace and brotherhood will never become a reality. We believe that unconditional friendship will have the final word."
+
+tr_est_friendship_finish:0 "친화 전통 완성"
+tr_est_friendship_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_friendship_adopt$을 완성하면 §Y3§! 종류 이상의 종족이 있는 우리의 모든 행성에서 £energy  §Y에너지 크레딧§!과 £unity  §Y통합§! 산출량이 §G+10%§! 증가합니다."
+
+### Swap - Malice ###
+
+tradition_est_malice:0 "악의"
+tradition_est_malice_desc:0 "다른 이들의 고통은 우리의 즐거움입니다. 다른 이들의 문명을 파괴하는 것으로만 우리의 위대함을 증명할 수 있습니다."
+
+tradition_est_malice_GC:0 "악의"
+tradition_est_malice_GC_desc:0 "다른 이들의 고통은 우리의 즐거움입니다. 다른 이들의 문명을 파괴하는 것으로만 우리의 위대함을 증명할 수 있습니다."
+
+tr_est_malice_adopt:0 "악의 전통"
+tr_est_malice_adopt_desc:0 "$tradition_est_malice_desc$\n\n$tr_est_malice_adopt_effect$\n\n$tr_est_malice_finish_effect$"
+tr_est_malice_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n우리가  £happiness §Y모욕§!한 다른 제국의 §Y행복도§!가 §R-10%§! 만큼 감소합니다."
+
+tr_est_malice_adopt_alt:0 "$tr_est_malice_adopt$"
+tr_est_malice_adopt_alt_desc:0 "$tradition_est_malice_desc$\n\n$tr_est_malice_adopt_alt_effect$\n\n$tr_est_malice_finish_effect$"
+tr_est_malice_adopt_alt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+15%§! 상승합니다."
+
+tr_est_malice_1:0 "빵과 물"
+tr_est_malice_1_desc:0 "§Y노예 유지비§!가 §G-50%§! 만큼 감소합니다."
+tr_est_malice_1_delayed:0 "우리 노예들은 딱 살아갈 수 있을 만큼만의 자원을 받을 것입니다. 그들은 참으로 비참한 삶을 살 것이고, 그것은 우리가 원하는 바이기도 합니다."
+
+tr_est_malice_1_no_slaves:0 "가학증"
+tr_est_malice_1_no_slaves_desc:0 "우리가 성공적으로 침공한 행성의 §Y안정도§!가 §Y20§!년간 §R-20§! 만큼 감소합니다.(우리가 그 행성을 할양받으면 해당 디버프는 제거됩니다.)"
+tr_est_malice_1_no_slaves_delayed:0 "우리가 침략한 행성에는 비명과 절규가 가득합니다. 우리 군대가 행성에서 철수한 이후에도, 그곳의 주민들은 극심한 공포와 참을 수 없는 트라우마를 영원히 느낄 것입니다."
+
+tr_est_malice_1_no_slaves_passive_AI:0 "$tr_est_malice_1_no_slaves$"
+tr_est_malice_1_no_slaves_passive_AI_desc:0 "§Y지상군 공격력§!이 §G+25%§! 만큼 증가합니다."
+tr_est_malice_1_no_slaves_passive_AI_delayed:0 "$tr_est_malice_1_no_slaves_delayed$"
+
+tr_est_malice_2:0 "모든 희망을 버려라"
+tr_est_malice_2_desc:0 "§Y노예§!의 §Y정치력§!이 §G-50%§! 만큼 줄어들고 §Y재정착 비용§!이 §G-25%§! 만큼 감소합니다."
+tr_est_malice_2_delayed:0 "우리 제국을 위해 봉사하는 노예들은 이미 오래전에 그들이 해방될 것이라는 희망을 버렸습니다. 그들은 자신의 운명을 받아들였고, 그들이 그나마 받을 수 있는 것들을 받기 위해 오늘도 광산으로 떠납니다."
+
+tr_est_malice_2_no_slaves:0 "공포의 장막"
+tr_est_malice_2_no_slaves_desc:0 "우리가 전쟁을 선포하면, §Y10§!년간 상대국의 §Y성장 속도§!가 §R-20%§! 만큼 느려지고, §Y함대 수용력§!이 §R-10%§! 만큼 감소하고, £happiness  §Y행복도§!가 §R-10%§! 만큼 줄어듭니다."
+tr_est_malice_2_no_slaves_delayed:0 "우리는 다른 이들이 상상할 수 있는 모든 공포의 화신입니다. 저들은 우리가 침공할 것이라는 소문만 듣고도 도망치고 있습니다."
+
+tr_est_malice_2_various_AI:0 "$tr_est_malice_2_no_slaves$"
+tr_est_malice_2_various_AI_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§! 만큼 증가합니다."
+tr_est_malice_2_various_AI_delayed:0 "$tr_est_malice_2_no_slaves_delayed$"
+
+tr_est_malice_3:0 "독고다이"
+tr_est_malice_3_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!가 §Y3§! 만큼 더 많아집니다."
+tr_est_malice_3_delayed:0 "누구도 우릴 친구로 여기지 않습니다. 하지만 상관 없습니다. 우린 친구가 필요 없습니다."
+
+tr_est_malice_3_no_rivals:0 "섬멸"
+tr_est_malice_3_no_rivals_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!가 §G+20%§! 증가하고, §Y부수적 피해§!가  §G+33%§! 증가합니다."
+tr_est_malice_3_no_rivals_delayed:0 "우리의 막강한 군대가 성계를 통과할 때마다 벌레들의 보금자리는 근홧발에 무참히 짓밟힙니다."
+
+tr_est_malice_4:0 "적대자"
+tr_est_malice_4_desc:0 "§Y경쟁자§!로 얻는 £influence  §Y영향력§!이 §G+30%§! 만큼 더 많아집니다."
+tr_est_malice_4_delayed:0 "우리는 은하계의 다른 모든 제국으로부터 위협적인 존재로 간주됩니다. 그들은 우리가 다른 모든 이들의 존재 자체를 위협한다고 소리치고 있습니다. 뭐, 틀린 말은 아니지요."
+
+tr_est_malice_4_no_rivals:0 "$tr_est_malice_4$"
+tr_est_malice_4_no_rivals_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+5%§! 만큼 증가합니다."
+tr_est_malice_4_no_rivals_delayed:0 "$tr_est_malice_4_delayed$"
+
+tr_est_malice_5:0 "파괴의 즐거움"
+tr_est_malice_5_desc:0 "함선이나 스테이션을 파괴할 때마다 £unity  §Y통합력§!을 얻습니다. 얻는 통합력의 양은 파괴한 함선이나 스테이션의 크기에 따라 달라집니다."
+tr_est_malice_5_delayed:0 "딱히 무슨 이득을 보자고 저들을 파괴하는 게 아닙니다. 단지 저들을 파멸시키는 것이 즐거워서 그렇지요."
+
+tr_est_malice_finish:0 "악의 전통 완성"
+tr_est_malice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_malice_adopt$을 완성하면  §Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+10%§! 만큼 증가합니다."
+
+### Swap - Perseverance (IP) ###
+tradition_est_perseverance_IP:0 "인내"
+tradition_est_perseverance_IP_desc:0 "고난의 시간입니다. 외부로부터의 침략과 은하계의 비참함이 우리를 괴롭히고 있지만, 우리는 이 시련을 견뎌 낼 것입니다."
+
+tr_est_perseverance_IP_adopt:0 "인내 전통"
+tr_est_perseverance_IP_adopt_desc:0 "$tradition_est_perseverance_IP_desc$\n\n$tr_est_perseverance_IP_adopt_effect$\n\n$tr_est_perseverance_IP_finish_effect$"
+tr_est_perseverance_IP_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HITPOINTS_MULT$§!와 §Y$MOD_ARMY_HEALTH$§!이 §G+10%§! 만큼 증가합니다."
+
+tr_est_perseverance_IP_1:0 "$tr_est_perseverance_1$"
+tr_est_perseverance_IP_1_desc:0 "$tr_est_perseverance_1_desc$"
+tr_est_perseverance_IP_1_delayed:0 "$tr_est_perseverance_1_delayed$"
+
+tr_est_perseverance_IP_2:0 "$tr_est_perseverance_3$"
+tr_est_perseverance_IP_2_desc:0 "$tr_est_perseverance_3_desc$"
+tr_est_perseverance_IP_2_delayed:0 "공격적인 전술은 가끔은 이기겠지요. 아주 가끔은 전쟁을 승리로 이끌 수 있을 것입니다. 하지만 오직 튼튼히 요새화된 국경선만이 우리 제국을 세월의 풍파에서 견디게 해줄 것입니다."
+
+tr_est_perseverance_IP_3:0 "$tr_est_perseverance_2$"
+tr_est_perseverance_IP_3_desc:0 "$tr_est_perseverance_4_desc$"
+tr_est_perseverance_IP_3_delayed:0 "$tr_est_perseverance_2_delayed$"
+
+tr_est_perseverance_IP_4:0 "$tr_est_perseverance_4$"
+tr_est_perseverance_IP_4_desc:0 "§Y거주 적합도§!와 §Y$MOD_ARMY_HEALTH$§!가 §G+10%§! 만큼 증가합니다."
+tr_est_perseverance_IP_4_delayed:0 "$tr_est_perseverance_4_delayed$"
+
+tr_est_perseverance_IP_5:0 "$tr_est_perseverance_5$"
+tr_est_perseverance_IP_5_desc:0 "$tr_est_perseverance_5_no_rivals_desc$"
+tr_est_perseverance_IP_5_delayed:0 "$tr_est_perseverance_5_delayed$"
+
+tr_est_perseverance_IP_finish:0 "Perseverance Traditions finished"
+tr_est_perseverance_IP_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_perseverance_adopt$을 완성하면 §Y$MOD_LEADER_AGE$§!이 §Y25§!년 만큼 길어집니다."
+
+################################################################
+# GREED
+################################################################
+tradition_est_greed:0 "탐욕"
+tradition_est_greed_desc:0 "모든 재화는 우리가 소유했을 때만 가치있습니다."
+tradition_est_desires:0 "욕망"
+tradition_est_desires_desc:0 "우리는 우리의 욕망에 따라 움직입니다. 그리고 재화는 모으면 모을수록 더 많이 필요합니다."
+
+tr_est_greed_adopt:0 "탐욕 전통"
+tr_est_greed_adopt_desc:0 "$tradition_est_greed_desc$\n\n$tr_est_greed_adopt_effect$\n\n$tr_est_greed_finish_effect$"
+tr_est_greed_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£minerals  §Y광물§! 산출량이 §G+10%§!만큼 증가합니다."
+
+tr_est_greed_1:0 "자산 축적"
+tr_est_greed_1_desc:0 "보유한 £energy  §Y에너지§! §Y500§!/§Y6000§!/§Y25000§!/§Y80000§! 마다 §Y월간 영향력§!을 §Y0.5§!/§Y1§!/§Y1.5§!/§Y2§!만큼 추가로 얻습니다."
+tr_est_greed_1_AI_desc:0 "§Y$country_resource_influence_add$§!을 §G1§!만큼 추가로 얻습니다."
+tr_est_greed_1_delayed:0 "부를 축적하는 것이야말로 우리의 존재 이유 그 자체입니다. 쌓인 재산만이 우리를 의미있게 만들어주고, 우리는 많은 재산들을 가지고 있지요."
+
+tr_est_greed_2:0 "무자비한 협상가"
+tr_est_greed_2_desc:0 "§Y시장 수수료§!가 §G-5%§!만큼 줄어듭니다. 또한 §Y무자비한 협상가§! 정책을 결정할 수 있습니다. 정책의 각 등급마다 §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!가 §G5%§!/§G10%§!/§G15%§!만큼 증가하지만, 우리 제국에 대한 다른 제국의 £opinion  §Y관계도§!가 §R-15§!/§R-30§!/§R-45§!만큼 감소합니다."
+tr_est_greed_2_AI_desc:0 "§Y시장 수수료§!가 §G-5%§!만큼 줄어듭니다. 또한 §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!가 §G+5%§!만큼 증가합니다."
+tr_est_greed_2_delayed:0 "우리는 우리가 원하는 것을 손에 넣기 위해 모든 수단을 총동원 할 것입니다. 다른 이들의 생각 따위는 가치없습니다."
+
+tr_est_greed_2_no_dip:0 "투기꾼"
+tr_est_greed_2_no_dip_desc:0 "§Y전초기지 영향력 비용§!이 §G-15%§!만큼 줄어듭니다."
+tr_est_greed_2_no_dip_delayed:0 "이 은하계는 빈 행성으로 가득 차 있습니다. 우리가 그곳에 깃발을 꽂지 않는다면, 다른 이들이 그 행성을 더럽힐 것입니다. 우리가 너무 늦기 전에 우리가 얻을 수 있는 것을 최대한 얻어야 합니다."
+
+tr_est_greed_3:0 "인색한"
+tr_est_greed_3_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§!과 §Y식량 소모§!가 §G-10%§!만큼 줄어듭니다."
+tr_est_greed_3_delayed:0 "매일같이 수많은 재화가 쓸데없이 소모됩니다. 더 적은 돈으로도 살 수 있는 이들에게 자원을 낭비하지 말아야 합니다."
+tr_est_desires_3:0 "절약"
+tr_est_desires_3_desc:0 "§Y$mod_planet_jobs_upkeep_mult$§!가 §G-10%§! 만큼 줄어듭니다."
+tr_est_desires_3_delayed:0 "더 많은 것을 얻는 가장 쉬운 방법은 덜 쓰는 것입니다."
+
+tr_est_greed_4:0 "착취"
+tr_est_greed_4_desc:0 "£energy  §Y에너지§! 산출량을 §G15%§!/§G30%§!/§G45%§! 만큼 증가시키는 대신 모든 £pop  §YPOP§!의 £happiness  §Y행복도§!를 §R15%§!/§R20%§!/§R30%§! 만큼 줄이는 §Y$policy_est_greed_4_extortion$§! 정책을 추가합니다."
+tr_est_greed_4_delayed:0 "우리는 우리가 얻을 수 있는 모든 것을 얻을 것입니다. 그리고 국민들의 재산은 곧 국가의 재산이죠."
+
+tr_est_desires_4:0 "보물 추구"
+tr_est_desires_4_desc:0 "§Y전략 자원§! 산출량이 §G+33%§! 만큼 증가합니다."
+tr_est_desires_4_delayed:0 "희귀한 광물을 얻기 위해서라도 우리는 국경을 확장해야 합니다."
+
+tr_est_greed_5:0 "뇌물"
+tr_est_greed_5_desc:0 "§Y제국 시행령§!으로 각 §Y파벌§!들에게 뇌물을 줄 수 있습니다. £energy  §Y에너지§!를 소모하는 것으로 한 파벌의 £happiness  §Y행복도§!를 §G+5%§!만큼 증가시킵니다."
+tr_est_greed_5_AI_desc:0 "£happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+5%§!만큼 증가합니다."
+tr_est_greed_5_delayed:0 "우리 제국의 여러 파벌 지도자들은 뇌물에 쉽게 넘어갑니다. 아니, 그들 스스로가 뇌물을 요구하고 있습니다. 그리고 일부 수뇌부를 만족시키는 것이 많은 대중들을 만족시키는 것보다 더 싸게 먹히죠."
+
+tr_est_desires_5:0 "위대한 갈망"
+tr_est_desires_5_desc:0 "행성을 개척하거나 정복할 때마다 £unity  §Y통합력§!을 얻습니다."
+tr_est_desires_5_delayed:0 "이 결코 사그라들지 않을 욕망은 더 많은 모든 것들을 원하고 있습니다. 우리는 모든 행성들을 정복해 나갈 것이고, 더 이상 정복할 행성이 없을 때 우리의 것들을 정복할 것입니다."
+
+tr_est_greed_finish:0 "탐욕 전통 완성"
+tr_est_greed_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_greed_adopt$을 완성하면 £energy  §Y에너지§! 산출량이 §G+10%§!만큼 증가합니다."
+
+################################################################
+# INDUSRTY
+################################################################
+tradition_est_industry:0 "산업"
+tradition_est_industry_desc:0 "우리 제국의 행성은 공장이 뿜어내는 연기로 가득 뒤덮혔지만, 우리가 필요한 모든 것을 생산할 수 있습니다."
+tr_est_industry_adopt:0 "산업 전통"
+tr_est_industry_adopt_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_effect$\n\n$tr_est_industry_finish_effect$"
+tr_est_industry_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n모든 행성에 §Y2§!개의 §Y채굴 지구§!를 더 건설할 수 있습니다."
+
+tr_est_industry_adopt_robots:0 "$tr_est_industry_adopt$"
+tr_est_industry_adopt_robots_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_robots_effect$\n\n$tr_est_industry_finish_effect$"
+tr_est_industry_adopt_robots_effect:0 "§E$TRADITIONS_ADOPT$:§!\n모든 행성에 §Y2§!개의 §Y채굴 지구§!를 더 건설할 수 있습니다. 또한, 로봇에 트레잇 §Ytrait_robot_est_industry_adopt§!을 달 수 있습니다."
+
+tr_est_industry_adopt_GC:0 "$tr_est_industry_adopt$"
+tr_est_industry_adopt_GC_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_robots_effect$\n\n$tr_est_industry_finish_GC_effect$"
+
+tr_est_industry_adopt_machines:0 "$tr_est_industry_adopt$"
+tr_est_industry_adopt_machines_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_robots_effect$\n\n$tr_est_industry_finish_GC_effect$"
+
+tr_est_industry_1:0 "새로운 탐광 기술"
+tr_est_industry_1_desc:0 "§Y채광 스테이션§!의 £minerals §Y광물§! 산출량이 §G+20%§! 만큼 증가합니다."
+tr_est_industry_1_delayed:0 "우리가 개발한 새로운 탐광 기술로 이전에는 알지 못했던 광상을 찾아내 개발할 수 있게 되었습니다."
+
+tr_est_industry_2:0 "진보된 산업"
+tr_est_industry_2_desc:0 "§Y산업 기술§!의 §Y연구 속도§!가 §G+15%§! 만큼 더 빨라집니다. 또한, 몇 개의 희귀한 기술을 연구할 수 있게 됩니다."
+tr_est_industry_2_delayed:0 "우리 제국의 산업은 다른 제국의 첨단 기술보다 훨씬 더 효율적인 기술을 사용합니다."
+
+tr_est_industry_3:0 "거대 용광로"
+tr_est_industry_3_desc:0 "£job_foundry£ §Y$job_foundry$§! 직업의 £alloys  §Y합금§! 생산량을 §G1§! 만큼 증가시키는 대신 £energy  §Y에너지§! 소모량이 §R2§! 만큼 추가되는 §H$building_est_industry_3_blast_furnace$§! 건물을 건설할 수 있습니다."
+tr_est_industry_3_GC_desc:0 "£job_alloy_drone£ §Y$job_alloy_drone$s§! 직업의 £alloys  §Y합금§! 생산량을 §G1§! 만큼 증가시키는 대신 £energy  §Y에너지§! 소모량이 §R2§! 만큼 추가되는 §H$building_est_industry_3_blast_furnace$§! 건물을 건설할 수 있습니다."
+tr_est_industry_3_delayed:0 "우리 제국에서 사용하는 용광로는 은하계의 다른 어떠한 것보다 더 큽니다. 이 용광로를 사용해 엄청난 양의 광석을 단기간에 우수한 품질의 금속 주괴로 만들 수 있습니다."
+
+tr_est_industry_4:0 "대량 생산"
+tr_est_industry_4_robots:0 "대량 생산"
+tr_est_industry_4_desc:0 "§Y함선 건조 속도§!가 §G+25%§! 만큼 더 빨라집니다."
+tr_est_industry_4_robots_desc: "§Y로봇 조립 속도§!가 §G+20%§! 만큼 더 빨라집니다."
+tr_est_industry_4_delayed:0 "우리 제국의 군수공장은 제국이 필요로 하는 수많은 함선들을 단기간에 건조할 수 있습니다."
+tr_est_industry_4_robots_delayed:0 "우리 제국의 공장은 제국이 필요로 하는 수많은 로봇들을 단기간에 생산할 수 있습니다."
+
+#tr_est_industry_5:0 "Industrial Revolution"
+#tr_est_industry_5_delayed:0 "Through a combination of new mining techniques and our new high technology factories we have entered an industrial revolution."
+tr_est_industry_5:0 "산업 행성"
+tr_est_industry_5_desc:0 "행성의 £minerals  §Y광물§!, £alloys  §Y합금§!, £consumer_goods  §Y소비재§! 산출량이 §G+20%§! 만큼 증가하는 대신 행성의 £food  §Y식량§! 산출량과 £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§!, §Y$MOD_PLANET_IMMIGRATION_PULL_MULT$§!이 §R-20%§! 만큼, £happiness §Y행복도§!가 §R-10%§! 만큼 감소하는 §Y$decision_est_industry_5_activate$§! 행성 결정을 내릴 수 있습니다."
+tr_est_industry_5_delayed:0 "산업 혁명이 일어난 이래로 우리 제국은 끝없이 도시의 더 많은 부분을 공장으로 전환해왔습니다. 그리고 지금, 우리는 행성 전체를 하나의 거대한 산업단지로 만들 수 있게 되었습니다. 대량의 광물을 생산하는 공장이 끝없이 펼쳐진 우리 제국의 행성 하나가 은하계의 다른 중소 제국의 전체 광물 생산량을 압도합니다."
+
+tr_est_industry_5_GC:0 "$tr_est_industry_5$"
+tr_est_industry_5_GC_desc:0 "행성의 £minerals  §Y광물§!, £alloys  §Y합금§! 산출량이 §G+20%§! 만큼 증가하는 대신 행성의 £food  §Y식량§! 산출량과 £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§!가 §R-25%§! 만큼 감소하는 §Y$decision_est_industry_5_GC_activate$§! 행성 결정을 내릴 수 있습니다."
+
+tr_est_industry_5_machines:0 "$tr_est_industry_5$"
+tr_est_industry_5_machines_desc:0 "행성의 £minerals  §Y광물§!, £alloys  §Y합금§! 산출량이 §G+20%§! 만큼 증가하는 대신 행성의 £energy  §Y에너지§! 산출량과 £mod_pop_assembly_speed  §Y$MOD_POP_ASSEMBLY_SPEED$§!가 §R-20%§! 만큼 감소하는 §Y$decision_est_industry_5_machines_activate$§! 행성 결정을 내릴 수 있습니다."
+
+tr_est_industry_5_esap:0 "발전된 산업"
+tr_est_industry_5_esap_desc:0 "£job_chemist£ §Y$job_chemist$§!, £job_translucer£ §Y$job_translucer$§!, £job_gas_refiner£ §Y$job_gas_refiner$§!의 £minerals£ §Y광물§!유지비를 §G-50%§! 감소시킵니다."
+tr_est_industry_5_esap_delayed:0 "우리의 산업은 다른 제국에선 찾아볼 수 없는 재료를 생산하며 최첨단 기술을 사용합니다."
+tr_est_industry_5_esap_GC:0 "$tr_est_industry_5_esap$"
+tr_est_industry_5_esap_GC_desc:0 "£job_chemist_drone£ §Y$job_chemist_drone$§!, £job_translucer_drone£ §Y$job_translucer_drone$§!, £job_gas_refiner_drone£ §Y$job_gas_refiner_drone$§!의 £minerals£ §Y광물§!유지비를 §G-50%§! 감소시킵니다."
+tr_est_industry_5_esap_GC_delayed:0 "$tr_est_industry_5_esap_delayed$"
+
+tr_est_industry_finish:0 "산업 전통 완성"
+tr_est_industry_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_industry_adopt$을 완성하면 £job_foundry£ §Y$job_foundry$§!와 £job_artisan£ §Y$job_artisan$§!의 유지비가 §G-25%§! 만큼 줄어듭니다."
+tr_est_industry_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_industry_adopt$을 완성하면 £job_alloy_drone£ §Y$job_alloy_drone$§!와 £job_artisan_drone£ §Y$job_artisan_drone$§!의 유지비가 §G-25%§! 만큼 줄어듭니다."
+
+################################################################
+# ISOLATION
+################################################################
+tradition_est_isolation:0 "고립주의"
+tradition_est_isolation_desc:0 "우리의 삶을 유지하기 위해서는 은하계로부터 고립되어야 합니다."
+tradition_est_isolation_GC:0 "고립주의"
+tradition_est_isolation_GC_desc:0 "은하계의 필멸자들과 접촉해서 좋을 일은 하나도 없습니다."
+
+tr_est_isolation_adopt:0 "고립주의 전통"
+tr_est_isolation_adopt_desc:0 "$tradition_est_isolation_desc$\n\n$tr_est_isolation_adopt_effect$\n\n$tr_est_isolation_finish_effect$"
+tr_est_isolation_adopt_GC:0 "$tr_est_isolation_adopt$"
+tr_est_isolation_adopt_GC_desc:0 "$tradition_est_isolation_GC_desc$\n\n$tr_est_isolation_adopt_effect$\n\n$tr_est_isolation_finish_GC_effect$"
+tr_est_isolation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!가 §G15%§! 상승합니다."
+
+tr_est_isolation_1:0 "요새화된 국경"
+tr_est_isolation_1_desc:0 "§Y항성기지 유지비용§!이 §G-15%§!만큼 감소하고, 모든 §Y항성기지§!에 §Y방어 플랫폼§!을 §Y3§!개 더 건설할 수 있습니다."
+tr_est_isolation_1_delayed:0 "우리는 외계인들의 우리의 영역에 침범하지 않겠다는 약속을 믿지 않습니다. 우리의 국경은 어떠한 종류의 침입이라도 막을 수 있게끔 강화되어야 합니다."
+
+tr_est_isolation_2:0 "맹렬한 수비"
+tr_est_isolation_2_desc:0 "§Y$MOD_ARMY_DEFENSE_MORALE_MULT$§!가 §G+50%§!만큼 증가하고, 국경 안에 있는 전투함들의  §Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+20%§!만큼 더 빨라집니다."
+tr_est_isolation_2_delayed:0 "우리 군인들은 우리 제국을 지키기 위해 어떤 대가든 치를 준비가 되어있습니다. 모든 침략은 저지되어야만 합니다."
+
+tr_est_isolation_3:0 "완충지대"
+tr_est_isolation_3_desc:0 "§Y전초기지 영향력 비용§!이 §G-10%§! 감소하며 §Y전초기지 합금 비용§!이 §G-20%§! 감소합니다."
+tr_est_isolation_3_delayed:0 "우리 행성과 다른 제국의 행성들 사이에 충분한 완충지대를 둬야 합니다. 광활한 빈 공간만이 외계인들에게서 우리의 삶을 지킬 수 있습니다."
+
+tr_est_isolation_4:0 "외국의 영향을 없애라"
+tr_est_isolation_4_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+15%§!만큼 증가합니다."
+tr_est_isolation_4_delayed:0 "외계인들은 우리 국민들에게 어떠한 방식으로든 영향을 끼치려 합니다. 그것들이 우리의 삶을 파괴하기 전에 대비해야만 합니다."
+
+tr_est_isolation_4_GC:0 "영원한 침묵"
+tr_est_isolation_4_GC_desc:0 "§Y국경 충돌§!로 인한 관계도 감소가 §G-80%§!만큼 줄어듭니다."
+tr_est_isolation_4_GC_delayed:0 "우리 제국은 항상 침묵해야만 합니다. 우리는 은하계에 어떠한 영향도 끼쳐서는 안되며, 무시받는 존재가 되야만 합니다. 우리 이웃들은 분명히 우리가 있다는 것을 알고 있겠지만, 우리를 신경쓸 이유가 없을 것입니다."
+
+tr_est_isolation_5:0 "은둔"
+tr_est_isolation_5_desc:0 "§Y불가침 조약§!이외의 다른 외교관계를 맺지 않으면 £unity  §Y통합력§! 산출량이 §G+20%§!만큼 증가합니다."
+tr_est_isolation_5_delayed:0 "우리 제국은 은하계로부터 고립된 국가로 남아있을 것입니다. 우리 제국 밖의 광활한 공허에서 일어나는 일들은 우리 사정이 아닙니다."
+
+tr_est_isolation_5_GC:0 "평온"
+tr_est_isolation_5_GC_desc:0 "§Y불가침 조약§!이외의 외교관계를 맺지 않으면 £unity  §Y통합력§! 산출량이 §G+20%§!만큼 증가합니다."
+tr_est_isolation_5_GC_delayed:0 "이 우주에는 우리 자신과 공허만이 존재합니다. 침묵 속에서만 우리는 우리의 생각을 들을 수 있습니다."
+
+tr_est_isolation_finish:0 "고립주의 전통 완성"
+tr_est_isolation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_isolation_adopt$을 완성하면 전쟁중이지 않을 때 모든 £pops  §YPOP§!들의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+10%§!만큼 증가합니다."
+ 
+tr_est_isolation_finish_GC:0 "고립주의 전통 완성"
+tr_est_isolation_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_isolation_adopt$을 완성하면 전쟁중이지 않을 때 §Y$mod_country_influence_produces_add$§!이 §G1§! 상승합니다."
+ 
+### Swap - Proselytism ###
+
+tradition_est_proselytism:0 "선교"
+tradition_est_proselytism_desc:0 "우리의 이념은 옳고 다른 이들의 것보다 더 우수합니다. 우리의 이념을 전 은하계에 전파하는 것이 우리의 의무입니다."
+
+tr_est_proselytism_adopt:0 "선교 전통"
+tr_est_proselytism_adopt_desc:0 "$tradition_est_proselytism_desc$\n\n$tr_est_proselytism_adopt_effect$\n\n$tr_est_proselytism_finish_effect$"
+tr_est_proselytism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y윤리관§! 변동 속도가 §G+100%§! 증가합니다."
+
+tr_est_proselytism_1:0 "선교사"
+tr_est_proselytism_1_desc:0 "우리의 §Y윤리관§!이 인접 제국에서 §G+25%§!만큼 더 인기있어집니다.(§Y광적인 윤리관§!은 2배 효과). 또한 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+5%§!만큼 증가합니다."
+tr_est_proselytism_1_delayed:0 "우리 선교사들은 국경을 오가며 미개한 이웃 국가의 대중들을 계몽시킬 것입니다."
+
+tr_est_proselytism_1_passive_AI:0 "$tr_est_proselytism_1$"
+tr_est_proselytism_1_passive_AI_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+20%§!만큼 증가합니다."
+
+
+tr_est_proselytism_2:0 "십자군"
+tr_est_proselytism_2_desc:0 "적어도 §Y윤리관§!이 하나 이상 다른 적국 §Y전쟁 지도국§!과 §Y전쟁§!중일 때 §Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+10%§!만큼 더 빨라지고, §Y$MOD_ARMY_MORALE$§!가 §G+25%§!만큼 증가하고, §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!가 §G+15%§!만큼 많아지고, §Y함선 건조 속도§!가 §G+15%§!만큼 빨라집니다."
+tr_est_proselytism_2_delayed:0 "평화적인 방법으로 저들을 계몽시키지 못한다면 무력이 나설 차례입니다. 이 전쟁은 결국 그들에게 좋은 일이 될 것입니다."
+
+tr_est_proselytism_3:0 "동화 정책"
+tr_est_proselytism_3_desc:0 "행성을 정복할 때 그곳의 £pops  §YPOP§!들은 §Y최근에 정복됨§! 패널티를 받지 않습니다."
+tr_est_proselytism_3_delayed:0 "우리 이념을 따르는 사람들이 많아질 수록 그들을 더 철저하게 동화시켜야 합니다."
+
+tr_est_proselytism_4:0 "애국심"
+tr_est_proselytism_4_desc:0 "우리의 §Y속국§!에서 우리의 §Y윤리관§!이 §G+25%§!만큼 더 인기있어집니다.(§Y광적인 윤리관§!은 2배 효과). 또한 §Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!이 §G+15%§!만큼 길어집니다.\n§R종속국을 가지지 않으면 이 전통의 효과가 바뀝니다.§!"
+tr_est_proselytism_4_delayed:0 "모든 국민들이 우리 제국에 충성하는지 확인해야만 합니다. 감시원들이 우리 식민지를 순찰하며 그곳의 국민들이 우리 이념을 똑바로 따르는지 확인할 것입니다."
+
+tr_est_proselytism_4_alt:0 "$tr_est_proselytism_4$"
+tr_est_proselytism_4_alt_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!이 §G+15%§!만큼 더 길어지고  §Y범죄율§!이 §G-15%§!만큼 감소합니다."
+tr_est_proselytism_4_alt_delayed:0 "$tr_est_proselytism_4_delayed$"
+
+tr_est_proselytism_5:0 "예외주의"
+tr_est_proselytism_5_desc:0 "§Y전쟁§!에서 이기면 §Y20§!년 동안 모든 £pops  §YPOP§!들의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+5%§!만큼 증가하고 £unity  §Y통합력§! 산출량이 §G+15%§!만큼 증가합니다. 이 보너스는 전쟁에서 패배하면 사라집니다."
+tr_est_proselytism_5_delayed:0 "우리 제국은 다른 제국들보다 월등히 뛰어납니다. 은하계의 다른 '잘못된' 제국들은 우리 제국에 병합되거나 우리 제국의 이념을 따라야 할 것입니다. 우리는 결국 어느 것이 옳았는지 똑똑히 보여줄 것입니다."
+
+tr_est_proselytism_finish:0 "선교 전통 완성"
+tr_est_proselytism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_proselytism_adopt$을 완성하면 모든 행성에서 §Y35§!기의 £pop£ §YPOP§! 마다 £unity  §Y통합력§!을 생산하며 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! 보너스를 주고 §Y범죄§!를 감소시키는  £job_est_inquisitor£ §Y$job_est_inquisitor$ 직업§!이 §Y1§!자리씩 추가됩니다. "
+
+################################################################
+# JUSTICE
+################################################################
+tradition_est_justice:0 "정의"
+tradition_est_justice_desc:0 "모든 국민은 법 아래 평등하다."
+tr_est_justice_adopt:0 "정의 전통"
+tr_est_justice_adopt_desc:0 "$tradition_est_justice_desc$\n\n$tr_est_justice_adopt_effect$\n\n$tr_est_justice_finish_effect$"
+tr_est_justice_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n모든 행성에서 §Y범죄§!가 §G-25§! 만큼 감소합니다"
+
+tr_est_justice_1:0 "법 아래 평등하다"
+tr_est_justice_1_desc:0 "모든 £pops  §YPOP§!의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+5%§! 만큼 증가하고, £unity  §Y통합력§! 산출량이 §G+5%§! 만큼 증가합니다."
+tr_est_justice_1_delayed:0 "정의의 여신은 눈을 가리고 있습니다. 그녀는 법 앞에 선 자의 출신이나 계급, 재산을 보지 않습니다."
+
+tr_est_justice_2:0 "집행관"
+tr_est_justice_2_desc:0 "§Y해적 증가§!가 §G-33%§! 만큼 줄어들고, §Y$MOD_EMPIRE_SIZE_COLONIES_MULT$§!가 §G-20%§! 감소합니다."
+tr_est_justice_2_delayed:0 "우리 제국의 법을 대변하는 집행관은 제국 전역을 순찰하며 제국의 모든 곳에서 정의를 집행합니다. 그들은 경우에 따라 정당한 공권력을 행사할 권리까지 가지고 있습니다."
+
+tr_est_justice_3:0 "대법원"
+tr_est_justice_3_desc:0 "§Y시행령 비용§!이 §G-10%§! 만큼 줄어들고 §Y시행령 기간§!이 §G+10%§! 만큼 증가합니다."
+tr_est_justice_3_delayed:0 "대법원은 제국 정부의 활동이 우리 제국의 법에 위배되지 않는지 감시하는 역할을 맡습니다."
+
+tr_est_justice_4:0 "헌법"
+tr_est_justice_4_desc:0 "£stability  §Y안정도§!가 §G5§! 만큼 증가합니다."
+tr_est_justice_4_delayed:0 "우리 제국의 헌법은 제국 통치의 가장 근본적인 원칙과 국민의 권리, 그리고 의무를 규정합니다."
+
+tr_est_justice_5:0 "법적 완결성"
+tr_est_justice_5_desc:0 "£influence  §Y영향력§! 산출량이 §G+25%§! 만큼 증가합니다."
+tr_est_justice_5_delayed:0 "우리는 수백 년 동안 법을 다듬고 수정해 결국 완벽하게 완성했습니다. 우리 제국의 법은 그 자체로 완벽하며, 법에 쓰여진 글과 법이 뜻하는 정신은 정확히 일치합니다."
+
+tr_est_justice_finish:0 "정의 전통 완성"
+tr_est_justice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_justice_adopt$을 완성하면 £influence §Y영향력§!이 §Y750§! 이상일 때 £unity  §Y통합력§! 산출량이 §G+10%§! 만큼 증가합니다. £influence §Y영향력§!이 §Y1000§! 이상이라면 £unity  §Y통합력§! 산출량이 §G+20%§! 만큼 증가합니다."
+
+### Swap - Destruction ###
+
+tradition_est_destruction:0 "파괴"
+tradition_est_destruction_desc:0 "우리의 목표는 간단합니다. 모든 생명체의 파멸."
+tr_est_destruction_adopt:0 "파괴 전통"
+tr_est_destruction_adopt_desc:0 "$tradition_est_destruction_desc$\n\n$tr_est_destruction_adopt_effect$\n\n$tr_est_destruction_finish_effect$"
+tr_est_destruction_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+20%§! 만큼 증가합니다."
+
+tr_est_destruction_1:0 "파괴의 임무"
+tr_est_destruction_1_desc:0 "£pop  §YPOP§!을 정화하고 있을 때 £influence  §Y영향력§!을 §Y2§! 만큼 얻습니다."
+tr_est_destruction_1_delayed:0 "우리가 저들을 정화할 때마다 은하는 조금씩 깨끗해지고 있습니다."
+
+tr_est_destruction_2:0 "타고난 전사"
+tr_est_destruction_2_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!과 §Y지상군 피해량§!이 §G+10%§! 만큼 증가합니다."
+tr_est_destruction_2_delayed:0 "우리는 전쟁에서 태어났고, 전투를 통해서만 우리의 목적을 달성할 수 있습니다."
+
+tr_est_destruction_3:0 "잔인한 추격"
+tr_est_destruction_3_desc:0 "우리와 전투중인 적 함대의 §Y함선 전투이탈 확률§!이 §R-33%§! 만큼 감소합니다."
+tr_est_destruction_3_delayed:0 "그 어떤 적도 살려둬서는 안됩니다. 어떤 어려움이 있더라도, 그들을 모두 죽여야 합니다."
+
+tr_est_destruction_4:0 "공포"
+tr_est_destruction_4_desc:0 "인접한 필멸자 제국의 £unity  §Y통합력§! 산출량과 §Y성장 속도§!가 §R-20%§! 만큼 감소합니다."
+tr_est_destruction_4_delayed:0 "저들은 우리가 어떤 존재인지 알고 있습니다. 우리가 어떤 목적을 가지고 있고, 그 목적을 이루기 위한 수단 역시 가지고 있다고 아주 잘 알고 있습니다. 우리의 존재 자체가 저들에게 커다란 공포가 될 것입니다."
+
+tr_est_destruction_4_passive_AI:0 "공포"
+tr_est_destruction_4_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!가 §G+25%§! 만큼 증가합니다."
+tr_est_destruction_4_passive_AI_delayed:0 "저들은 우리가 어떤 존재인지 알고 있습니다. 우리가 어떤 목적을 가지고 있고, 그 목적을 이루기 위한 수단 역시 가지고 있다고 아주 잘 알고 있습니다. 우리의 존재 자체가 저들에게 커다란 공포가 될 것입니다."
+
+tr_est_destruction_5:0 "은하의 재앙"
+tr_est_destruction_5_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!가 §Y2§! 만큼 증가하고 §Y경쟁자§!로 얻는 £influence  §Y영향력§!이 §G+20%§! 만큼 증가합니다."
+tr_est_destruction_5_delayed:0 "우리가 그들에게 점점 더 가까이 다가갈 수록 그들은 알게 될 것입니다. 우리가 죽거나 저들이 죽거나 둘 중 하나 뿐이라는 것을. 물론, 결과는 정해져 있습니다."
+
+tr_est_destruction_5_no_rivals:0 "$tr_est_destruction_5$"
+tr_est_destruction_5_no_rivals_desc:0 "전쟁중일 때 £influence  §Y$mod_country_base_influence_produces_add$§!이 §Y2§! 만큼 증가합니다."
+tr_est_destruction_5_no_rivals_delayed:0 "$tr_est_destruction_5_delayed$"
+
+tr_est_destruction_finish:0 "파괴 전통 완성"
+tr_est_destruction_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_destruction_adopt$을 완성하면 우리와 전쟁중인 적대 제국의 §Y전쟁 피로도 획득§!량이 §R+20%§! 만큼 증가합니다."
+
+#Not displayed.
+tr_est_destruction_finish_passive_ai:0 "$Destruction Traditions finished$"
+tr_est_destruction_finish_passive_ai_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_destruction_adopt$ reduces §YWar Exhaustion Gain§! by §G-15%§!."
+
+################################################################
+# LIBERTY
+################################################################
+tradition_est_liberty:0 "자유"
+tradition_est_liberty_desc:0 "다른 이의 자유를 부정하는 이는, 자신의 자유를 긍정할 자격이 없습니다."
+
+tradition_est_liberty_slavery:0 "$tradition_est_liberty$"
+tradition_est_liberty_slavery_desc:0 "모든 이들은 자유롭습니다. 하지만 몇몇 이들은 더 자유롭죠."
+
+tr_est_liberty_adopt:0 "자유 전통"
+tr_est_liberty_adopt_desc:0 "$tradition_est_liberty_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_effect$"
+tr_est_liberty_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!이 §G+25%§! 증가합니다."
+
+tr_est_liberty_adopt_no_migration:0 "$tr_est_liberty_adopt$"
+tr_est_liberty_adopt_no_migration_desc:0 "$tradition_est_liberty_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_no_migration_effect$"
+tr_est_liberty_adopt_no_migration_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£trade_value  §Y무역 가치§! 산출량이 §G+10%§! 증가합니다."
+
+tr_est_liberty_adopt_slavery:0 "$tr_est_liberty_adopt$"
+tr_est_liberty_adopt_slavery_desc:0 "$tradition_est_liberty_slavery_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_effect$"
+
+tr_est_liberty_adopt_slavery_no_migration:0 "$tr_est_liberty_adopt$"
+tr_est_liberty_adopt_slavery_no_migration_desc:0 "$tradition_est_liberty_slavery_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_no_migration_effect$"
+
+tr_est_liberty_1:0 "보편적 권리"
+tr_est_liberty_1_desc:0 "£influence£ §Y월간 영향력§!을 §Y1§! 만큼 더 얻습니다."
+tr_est_liberty_1_delayed:0 "모든 국민은 지성체로서의 존엄과 가치를 가지며, 행복을 추구할 권리를 가진다. 국가는 개인이 가지는 불가침의 기본적 권리를 확인하고 이를 보장할 의무를 진다."
+
+tr_est_liberty_1_slavery:0 "정당화된 지배"
+tr_est_liberty_1_slavery_desc:0 "모든 §Y노예§!의 £happiness  §Y행복도§!가 §G+20%§! 만큼 증가합니다."
+tr_est_liberty_1_slavery_delayed:0 "가장 진실된 도덕적 원칙에 근거한 우리의 규칙과 법률은 전혀 문제되지 않습니다. 어떤 이들이 가혹하고 힘든 '개인적인 문제'를 겪고 있다 해도, 그들은 그들 자신의 불운이나 그들의 개인적인 결함을 탓해야만 합니다."
+
+tr_est_liberty_2:0 "언론의 자유"
+tr_est_liberty_2_desc:0 "그 어느 §Y파벌§!도 탄압받지 않을 때 모든 §Y파벌§!의 £happiness  §Y행복도§!가 §G+5%§! 만큼 증가합니다."
+tr_est_liberty_2_delayed:0 "모두가 법의 제약을 받지 않고 자신의 의견과 생각을 말할 권리가 있다는 것이 중요합니다. 이것이 바로 우리 시민들의 가장 기초적인 권리입니다."
+tr_est_liberty_2_AI:0 "$tr_est_liberty_2$"
+tr_est_liberty_2_AI_desc:0 "모든 §Y파벌§!의 £happiness  §Y행복도§!가 §G+3%§! 만큼 증가합니다.."
+
+tr_est_liberty_3:0 "개척자 정신"
+tr_est_liberty_3_desc:0 "새로운 식민지가 건설되면 £pops §YPOP§! §Y1§!명을 더 받습니다. 그리고 행성이 개척된 이후 §Y20§!년간 행성의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+20%§! 만큼 증가합니다."
+tr_est_liberty_3_delayed:0 "한 사람이 먼저 가고, 걸어가는 사람이 많아지면, 그것이 곧 길이 되는 것이다."
+
+tr_est_liberty_3_slavery:0 "명백한 운명"
+tr_est_liberty_3_slavery_desc:0 "새로운 식민지가 건설되면 £pops §YPOP§! §Y1§!명을 더 받습니다. 또한 §Y영유권 주장 비용§!이 §G-10%§! 만큼 감소합니다."
+tr_est_liberty_3_slavery_delayed:0 "고개를 들어 우주를 바라보면 찬란하게 빛나는 별들의 바다가 보입니다. 우리는 거기에 손을 뻗어 그 별들을 요구해야 합니다. 그 별들을 다스리는 것이 우리의 운명이기 때문입니다."
+
+tr_est_liberty_4:0 "가능성의 꿈"
+tr_est_liberty_4_desc:0 "§Y지도자 후보§!가 §Y2§! 만큼 많아지고 §Y지도자 고용 비용§!이 §G-15%§! 만큼 싸집니다."
+tr_est_liberty_4_delayed:0 "그 사람의 출생이 그 사람의 운명을 결정지어서는 안됩니다. 모든 이들은 성공의 길에 도전할 권리를 가져야 합니다."
+
+tr_est_liberty_5:0 "해방 전쟁"
+tr_est_liberty_5_desc:0 "노예제나 정화를 허용하는 전쟁지도국과 전쟁중일 때 §Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+15%§! 만큼 증가하고 §Y$MOD_ARMY_DAMAGE_MULT$§!이 §G+25%§! 만큼 증가합니다."
+tr_est_liberty_5_delayed:0 "우리는 언제나 어떤 종류의 억압에도 저항할 것입니다. 또한, 우리는 아직 스스로 일어설 힘이 없는 이들을 위해 일어설 준비가 되어있습니다."
+
+tr_est_liberty_5_less_nice:0 "신념"
+tr_est_liberty_5_less_nice_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!이 §G+20%§! 만큼 증가합니다."
+tr_est_liberty_5_less_nice_delayed:0 "우리의 이념은 옳고, 우주의 진리 그 자체입니다. 이 말에 토를 다는 이들이 몇 있긴 하지만, 그들은 그저 우리 제국을 시샘하는 것입니다."
+
+tr_est_liberty_finish:0 "자유 전통 완성"
+tr_est_liberty_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_liberty_adopt$을 완성하면  §Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!이 §G+20%§! 만큼 증가하고 §Y파벌로 얻는 영향력§!이 §G+15%§! 만큼 더 많아집니다.\n§R자유 이주를 허락하지 않으면 효과가 바뀝니다.§!"
+
+### Swap - Fury ###
+tradition_est_fury:0 "분노"
+tradition_est_fury_desc:0 "영원한 증오의 불길이 우리 안에서 타오르고 있습니다. 이 절대 소멸되지 않는 불길은 우리가 분노를 해소하는 잠시동안만 사그라듭니다."
+tr_est_fury_adopt:0 "분노 전통"
+tr_est_fury_adopt_desc:0 "$tradition_est_fury_desc$\n\n$tr_est_fury_adopt_effect$\n\n$tr_est_fury_finish_effect$"
+tr_est_fury_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+5%§!만큼 증가합니다.\n정책 탭에서 §Y분노§! 수준을 정할 수 있습니다. 각 분노 수준은 §Y0§!단계 부터 §Y5§!단계 까지이며, 각 단계마다 외국의 £opinion  §Y의견도§!가 §R-0§!/§R-10§!/§R-25§!/§R-45§!/§R-70§!/§R-100§! 씩 낮아집니다. 하지만 분노 단계가 높아질 수록 분노 전통으로 얻는 보너스가 커집니다.\n§Y$MOD_SHIP_FIRE_RATE_MULT$§!가 각 §Y분노 단계§!마다 §G+1%§!씩 추가로 상승합니다."
+
+tr_est_fury_1:0 "증오"
+tr_est_fury_1_desc:0 "§Y경쟁자§!로 얻는 £influence  §Y영향력§!이 §G+25%§! 만큼 증가하고, 각 §Y분노 단계§!마다 §G+5%§!씩 추가로 증가합니다.\n§R경쟁자가 없으면 §Y무모함§! 전통으로 전환됩니다.§!"
+tr_est_fury_1_delayed:0 "우리는 은하계에 존재하는 다른 모든 것들의 존재 자체를 참을 수 없습니다. 그들의 존재는 우리의 고통이며, 그들의 파멸은 우리의 기쁨입니다."
+
+tr_est_fury_1_no_rivals:0 "무모함"
+tr_est_fury_1_no_rivals_desc:0 "§Y$MOD_SHIP_SPEED_MULT$§!가 §G+5%§! 만큼 빨라지고, 각 §Y분노 단계§!마다 §G+3%§!씩 추가로 증가합니다.\n§R경쟁자가 생기면 §Y증오§! 전통으로 전환됩니다.§!"
+tr_est_fury_1_no_rivals_delayed:0 "저들을 일 초라도 빨리 멸절시켜야 합니다. 우리는 돌격할 것입니다."
+
+tr_est_fury_2:0 "전쟁 정신"
+tr_est_fury_2_desc:0 "§Y전쟁 피로도 획득§!량이 §G-5%§! 만큼 감소하고, 각 §Y분노 단계§!마다 §G-9%§!씩 추가로 감소합니다."
+tr_est_fury_2_delayed:0 "우리는 다른 필멸자들처럼 전쟁으로 고통받지 않습니다. 오히려 죽음을 추구하고, 모든 것을 파괴할 수 있는 전쟁이 고통스러운 평화보다 더 편안합니다."
+
+tr_est_fury_3:0 "전투 광란"
+tr_est_fury_3_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!이 §G+20%§! 만큼 증가하고, 각 §Y분노 단계§!마다 §G+6%§!씩 추가로 증가합니다."
+tr_est_fury_3_delayed:0 "전투에서 이성을 잃는 것은 참 쉽습니다. 우리 전사들은 원수들이 흘릴 피만 생각하면 미친듯이 전투에 임하게 될 것입니다."
+
+tr_est_fury_4:0 "전투 분노"
+tr_est_fury_4_desc:0 "우리 함대가 다른 함대를 파괴할 때마다(매우 적은 함대는 제외) 그 함대의 §Y$MOD_SHIP_FIRE_RATE_MULT$§!와  §Y$MOD_SHIP_SPEED_MULT$§!가 §G+10%§!만큼 증가합니다. 이 효과는 §Y4§!개월동안 지속되며, 각 §Y분노 단계§!마다 지속시간이 §Y4§!개월 씩 길어집니다."
+tr_est_fury_4_delayed:0 "전장의 열기만이 우리가 느끼는 분노의 고통을 조금이라도 덜어줍니다. 전투를 통해서만 우리는 우리의 끝없는 분노를 조금이라도 해소할 수 있습니다. 전쟁을 통해서만 우리는 격통스러운 증오에서부터 잠시나마 해방될 수 있습니다."
+
+tr_est_fury_5:0 "황폐화"
+tr_est_fury_5_desc:0 "우리 군대가 행성을 성공적으로 침공하면 모든 £pop  §YPOP§!들이 각각 §Y5%§!의 확률로 사망합니다. 이 확률은 각 §Y분노 단계§!마다 §G3%§!씩 증가합니다. 또한 이 효과로 £pop  §YPOP§!들을 죽이면 소량의  £unity  §Y통합력§!을 얻습니다. 같은 행성에는 §Y10§!년 마다만 발동됩니다. 이 효과는 정책 탭의 §Y$est_fury_5_ravage$§! 정책으로 끌 수 있습니다."
+tr_est_fury_5_delayed:0 "살아있는 원수의 몸뚱아리에 분노를 표출할 수 없을 때, 우리는 그들이 만든 모든 것들을 파괴함으로써 분노를 해소합니다. 살아있는 생명체들을 찢어발기는 것보다는 덜하지만, 어쩔 수 없습니다."
+
+tr_est_fury_5_passive_AI:0 "$tr_est_fury_5$"
+tr_est_fury_5_passive_AI_desc:0 "우리 군대가 행성을 성공적으로 침공하면 소량의 £unity  §Y통합력§!을 받습니다. 그리고  §Y$MOD_ARMY_DAMAGE_MULT$§!이 §G+10%§! 만큼 증가합니다."
+tr_est_fury_5_passive_AI_delayed:0 "$tr_est_fury_5_delayed$"
+
+tr_est_fury_finish:0 "분노 전통 완성"
+tr_est_fury_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_fury_adopt$을 완성하면  §Y$MOD_SHIP_WEAPON_DAMAGE$§!이 각 §Y분노 단계§!마다 §G+2%§!씩 증가합니다."
+
+################################################################
+# MECHANICUM
+################################################################
+tradition_est_mechanicum:0 "기계공학"
+tradition_est_mechanicum_desc:0 "다른 이들은 마술이라고 생각하지만, 우리에게는 단순한 공학입니다."
+tradition_est_mechanicum_GC:0 "기계공학"
+tradition_est_mechanicum_GC_desc:0 "$tradition_est_mechanicum_desc$"
+
+tr_est_mechanicum_adopt:0 "기계공학 전통"
+tr_est_mechanicum_adopt_desc:0 "$tradition_est_mechanicum_desc$\n\n$tr_est_mechanicum_adopt_effect$\n\n$tr_est_mechanicum_finish_effect$"\
+tr_est_mechanicum_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HULL_MULT$§!와 §Y$MOD_SHIP_ARMOR_MULT$§!가 §G+10%§! 만큼 증가합니다.\n§R로봇을 가지면 이 전통의 효과가 바뀝니다.§!"
+
+tr_est_mechanicum_adopt_robots:0 "$tr_est_mechanicum_adopt$"
+tr_est_mechanicum_adopt_robots_desc:0 "$tradition_est_mechanicum_GC_desc$\n\n$tr_est_mechanicum_adopt_robots_effect$\n\n$tr_est_mechanicum_finish_effect$"
+tr_est_mechanicum_adopt_robots_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ROBOT_UPKEEP_MULT$§!가 §G-15%§! 만큼 감소합니다."
+
+tr_est_mechanicum_adopt_GC:0 "$tr_est_mechanicum_adopt$"
+tr_est_mechanicum_adopt_GC_desc:0 "$tradition_est_mechanicum_GC_desc$\n\n$tr_est_mechanicum_adopt_effect$\n\n$tr_est_mechanicum_finish_GC_effect$"
+
+tr_est_mechanicum_1:0 "공병대"
+tr_est_mechanicum_1_GC:0 "우주 건설의 기술"
+tr_est_mechanicum_1_desc:0 "§Y건설선§!의 §Y유지비§!와 §Y건설 비용§!이 §G-50%§! 만큼 줄어듭니다. 그리고 §Y채광 스테이션 건설 비용§!이 §G-20%§! 만큼 더 싸집니다."
+tr_est_mechanicum_1_delayed:0 "우리 사회에서 엔지니어는 가장 존경받는 직업 중 하나입니다. 심지어 가장 하급 엔지니어마저도 사회의 상층부에 위치합니다. 우리는 예로부터 엔지니어들에게 막대한 투자를 하고있고, 그 결과 우리 공돌이들은 전 은하에서 가장 큰 규모를 자랑합니다."
+tr_est_mechanicum_1_GC_delayed:0 "오래 전에 우리는 우주 건설의 기술을 마스터했습니다. 우리는 적은 비용으로도 새로운 우주 정거장을 건설할 수 있습니다."
+
+tr_est_mechanicum_2:0 "새로운 청사진"
+tr_est_mechanicum_2_robots:0 "$tr_est_mechanicum_2$"
+tr_est_mechanicum_2_GC:0 "$tr_est_mechanicum_2$"
+tr_est_mechanicum_2_machines:0 "$tr_est_mechanicum_2$"
+tr_est_mechanicum_2_desc:0 "§Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§!가 §G+15%§! 만큼 빨라집니다.\n§R로봇 팝을 가지고 있으면 이 전통의 효과가 바뀝니다.§!"
+tr_est_mechanicum_2_robots_desc:0 "§Y로봇 개조 점수§!가 §Y1§! 만큼 늘어납니다."
+tr_est_mechanicum_2_machines_desc:0 "§Y기계 개조 점수§!가 §Y1§! 만큼 늘어납니다."
+tr_est_mechanicum_2_delayed:0 "우리 제국의 숙련된 공학자들은 항상 새롭고 개선된 디자인을 설계합니다. 그리고 그들은 그 디자인을 발표하자마자 새로운 디자인 작업에 들어갑니다."
+tr_est_mechanicum_2_GC_delayed:0 "우리 제국의 숙련된 공학자들은 항상 새롭고 개선된 디자인을 설계합니다. 그리고 그들은 그 디자인을 발표하자마자 새로운 디자인 작업에 들어갑니다."
+tr_est_mechanicum_2_machines_delayed:0 "우리 제국의 숙련된 공학자들은 항상 새롭고 개선된 디자인을 설계합니다. 그리고 그들은 그 디자인을 발표하자마자 새로운 디자인 작업에 들어갑니다."
+
+tr_est_mechanicum_3:0 "전쟁의 기계"
+tr_est_mechanicum_3_desc:0 "§H새로운 지상군§!, §Y$est_titan_army$§!과 §Y$est_mechanical_knights_army$§!를 생산할 수 있습니다.\n§Y$MOD_ARMY_DAMAGE_MULT$§!이 §G+10%§! 만큼 증가합니다."
+tr_est_mechanicum_3_delayed:0 "대형 이족 보행 병기는 전쟁터에서 가장 독보적인 존재입니다. 우리는 다양한 이족 보행 로봇에 두꺼운 장갑과 육중한 무기를 장착해 일반적인 군대보다 훨씬 강력한 군대를 만들었습니다."
+
+tr_est_mechanicum_4:0 "거대 건축"
+tr_est_mechanicum_4_GC:0 "$tr_est_mechanicum_4$"
+tr_est_mechanicum_4_megastruct:0 "$tr_est_mechanicum_4$"
+tr_est_mechanicum_4_megastruct_GC:0 "$tr_est_mechanicum_4$"
+tr_est_mechanicum_4_desc:0 "§Y우주항 선체 내구도§!가 §G+33%§! 만큼 증가합니다.\n§R'공허 포용', '은하의 불가사의' 승천 퍽 중 하나를 가지고 있으면 이 전통의 효과가 바뀝니다.§!"
+tr_est_mechanicum_4_megastruct_desc:0 "§Y거대 구조물 건조 속도§!가 §G+20%§! 만큼 빨라지고, §Y거대 구조물 건조 비용§!이 §G-10%§! 만큼 싸집니다."
+tr_est_mechanicum_4_megastruct_GC_desc:0 "$tr_est_mechanicum_4_megastruct_desc$"
+tr_est_mechanicum_4_delayed:0 "우리 엔지니어들은 은하계의 다른 제국들보다 훨씬 큰 우주 구조물을 건설할 수 있습니다. 다른 제국들은 우리 제국의 스테이션들을 보고 부러워합니다."
+tr_est_mechanicum_4_GC_delayed:0 "우리 엔지니어들은 은하계의 다른 제국들보다 훨씬 큰 우주 구조물을 건설할 수 있습니다. 다른 제국들은 우리 제국의 스테이션들을 보고 부러워합니다."
+tr_est_mechanicum_4_megastruct_GC_delayed:0 "우리 엔지니어들은 은하계의 다른 제국들보다 훨씬 큰 우주 구조물을 건설할 수 있습니다. 다른 제국들은 우리 제국의 스테이션들을 보고 부러워합니다."
+
+tr_est_mechanicum_5:0 "엔지니어 길드"
+tr_est_mechanicum_5_desc:0 "£job_est_engineer£ §Y$job_est_engineer$§!직업과 £job_technician£ §Y$job_technician$ 직업§!을 제공하고 행성의 £engineering  §Y공학 연구점§! 산출량을 증가시키는 §H엔지니어 길드§! 건물을 건설할 수 있습니다.\n이 건물을 건설하려면 최소 £building  §Y$building_major_capital$§! 이상의 수도건물이 필요합니다."
+tr_est_mechanicum_5_delayed:0 "위대한 엔지니어 길드는 우리 제국에서 가장 영향력 있는 단체 중 하나입니다. 엔지니어 길드는 새로운 엔지니어들을 양성하고 모든 공학 기술 개발을 도맡습니다. 이 길드의 수장은 우리 제국의 통치자와 비교될 정도로 중요한 요직이며, 또 많은 길드 간부들이 우리 정부의 요직을 차지하고 있습니다."
+
+tr_est_mechanicum_5_robots:0 "$tr_est_mechanicum_5$"
+tr_est_mechanicum_5_robots_desc:0 "£job_est_engineer£ §Y$job_est_engineer$§!직업과 £job_technician£ §Y$job_technician$ 직업§!과 £job_roboticist£ §Y$job_roboticist$ 직업§!을 제공하고 행성의 £engineering  §Y공학 연구점§! 산출량을 증가시키는 §H엔지니어 길드§! 건물을 건설할 수 있습니다.\n이 건물을 건설하려면 최소 £building  §Y$building_major_capital$§! 이상의 수도건물이 필요합니다."
+
+tr_est_mechanicum_5_GC:0 "자가 복구 프로토콜"
+tr_est_mechanicum_5_GC_desc:0 "§Y월간 선체 재생량§!과 §Y장갑 수복량§!이 §G+0.5%§! 만큼 늘어납니다."
+tr_est_mechanicum_5_GC_delayed:0 "함선에 데미지 자가 복구 프로토콜을 도입한다면 피해가 발생하자 마자 그것을 그 자리에서 수복하는 것이 가능해질 것입니다."
+
+tr_est_mechanicum_finish:0 "기계공학 전통 완성"
+tr_est_mechanicum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_mechanicum_adopt$을 완성하면 £job_technician£ §Y$job_technician$§!의 £energy  §Y에너지§! 생산량이 §G1§! 만큼 증가합니다."
+
+tr_est_mechanicum_finish_GC:0 "$tr_est_mechanicum_finish$"
+tr_est_mechanicum_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_mechanicum_adopt$을 완성하면 £job_technician_drone£ §Y$job_technician_drone$!의 £energy  §Y에너지§! 생산량이 §G1§! 만큼 증가합니다."
+
+################################################################
+# MILITARISM
+################################################################
+tradition_est_militarism:0 "군국주의"
+tradition_est_militarism_desc:0 "우리 제국의 군대만이 은하계에서 우리의 생존권을 보장합니다. 그러므로 우리 사회가 군대를 중심으로 돌아가는 것은 자연스러운 현상입니다."
+tr_est_militarism_adopt:0 "군국주의 전통"
+tr_est_militarism_adopt_desc:0 "$tradition_est_militarism_desc$\n\n$tr_est_militarism_adopt_effect$\n\n$tr_est_militarism_finish_effect$"
+tr_est_militarism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y함대 수용력§!을 초과하면 §Y직업으로부터의 자원§! 생산량이 §G+5%§! 만큼 증가합니다."
+
+tr_est_militarism_1:0 "징병제"
+tr_est_militarism_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§!이 §G-20%§! 만큼 감소하고, 모든 행성에서 §Y25§!기의 £pop£ §YPOP§!마다 £job_soldier£ §Y$job_soldier$ 직업§!이 §Y1§! 자리 더 추가됩니다."
+tr_est_militarism_1_delayed:0 "우리 국민들은 모두 국방의 의무를 집니다. 직업군인이 아닌 일반 시민에게도 체계적인 군대에서 훈련받으며 조국을 위해 봉사하는 것은 좋은 경험입니다."
+
+tr_est_militarism_2:0 "군사 개혁"
+tr_est_militarism_2_desc:0 "§Y장군 레벨 상한§!이 §Y2§! 만큼 증가하고, §Y장군 고용 비용§!이 §G-50%§! 만큼 줄어듭니다. 또한 §Y지상군 경험치 획득§!이 §G+50%§! 만큼 증가합니다."
+tr_est_militarism_2_delayed:0 "우리의 지상군은 여전히 우주에 진출하기 이전의 구식 체계를 다르고 있습니다. 지상군의 역할은 우주 함대를 따라다니며 우리 제국의 식민지를 방위하고 적대적인 행성을 침략하는 것으로 바뀌고 있으며, 그 임무에 적합하도록 지상군을 개혁해야 합니다."
+
+tr_est_militarism_3:0 "거대한 함대"
+tr_est_militarism_3_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+10%§!만큼 증가하고 §Y함대 지휘 한계치§!가 §G+20%§! 만큼 증가합니다."
+tr_est_militarism_3_delayed:0 "우리는 제국 함대에 더 많은 자원을 투입할 것입니다. 우리 제국의 함대가 은하에서 가장 거대하고 강력한 함대가 되어, 다른 모든 이들의 두려움을 살 때까지."
+
+#tr_est_militarism_4:0 "Fortress Worlds"
+#tr_est_militarism_4_delayed:0 "Only the most skilled besieger would be able to conquer one of our fortress worlds. These planets contains several layers of the most advanced defences we are able to produce, guarding some of the most important locations within our empire."
+tr_est_militarism_4:0 "수석 무기 공학자"
+tr_est_militarism_4_desc:0 "함선 건조에 필요한 §Y전략 자원§!이 §G-25%§! 만큼 줄어듭니다."
+tr_est_militarism_4_delayed:0 "우리 제국의 공학자들은 은하계 최고 품질의 무장과 장갑을 제조합니다. 은하의 다른 많은 제독들이 우리 제국의 최첨단 부품이 장착된 함대를 부러워합니다."
+
+tr_est_militarism_5:0 "위대한 제독"
+tr_est_militarism_5_desc:0 "§Y제독§!과 §Y함선§!의 §Y경험치 획득량§!이 §G+25%§! 증가합니다. 더불어 모든 §Y제독§!은 하나의 특성을 추가로 가집니다."
+tr_est_militarism_5_delayed:0 "우리 제국 함대의 제독은 우리 사회에서 가장 존경받는 이들입니다. 그들은 자기 휘하의 함대 뿐만이 아니라 사회 전반에 엄청난 영향력을 행사합니다."
+
+tr_est_militarism_finish:0 "군국주의 전통 완성"
+tr_est_militarism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_militarism_adopt$을 완성하면  §Y$MOD_SHIP_WEAPON_RANGE_MULT$§!가 §G+25%§! 만큼 더 길어집니다."
+
+### Swap - Might ###
+
+tradition_est_might:0 "힘"
+tradition_est_might_desc:0 "오직 군사적인 힘을 통해서만 우리는 이 은하에서 살아남을 수 있습니다."
+tr_est_might_adopt:0 "힘 전통"
+tr_est_might_adopt_desc:0 "$tradition_est_might_desc$\n\n$tr_est_militarism_adopt_effect$\n\n$tr_est_might_finish_effect$"
+
+tr_est_might_1:0 "타고난 전사"
+tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§!이 §G-10%§! 만큼 감소하고 §Y지상군 경험치 획득§!이 §G+25%§! 만큼 증가합니다. 그리고 모든 행성에서 §Y25§!기의 £pop£ §POP§마다 £job_warrior_drone£ §Y$job_warrior_drone$ 직업§!이 §Y1§! 자리 더 추가됩니다."
+tr_est_might_1_delayed:0 "우리의 가장 작은 드론들마저도 타고난 전사입니다. 전투의 시간이 다가오면, 모든 드론이 적들과 맞서 싸울것입니다."
+
+tr_est_might_1_machines:0 "$tr_est_might_1$"
+tr_est_might_1_machines_desc:0 "$tr_est_might_1_desc$"
+tr_est_might_1_machines_delayed:0 "우리의 가장 작은 드론들마저도 타고난 전사입니다. 전투의 시간이 다가오면, 모든 드론이 적들과 맞서 싸울것입니다."
+
+tr_est_might_2:0 "노련한 사냥꾼"
+tr_est_might_2_desc:0 "§Y장군 레벨 상한§!이 §Y2§! 만큼 증가하고, §Y장군 고용 비용§!이 §G-50%§! 만큼 줄어듭니다. 또한 §Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!가 §G+20%§! 만큼 증가합니다."
+tr_est_might_2_delayed:0 "우리의 지상군 전술은 은하계에 만연한 필멸자들의 방식은 아니지만, 매우 효과적입니다. 우리의 군대와 전장에서 마주한 적들의 마음에서 두려움이 피어나고 있습니다."
+
+# Third tradition is the same as militarism, The Grand Armada.
+
+# Fourth tradition is the same as militarism, Fortress Worlds.
+
+tr_est_might_5:0 "전쟁 감각"
+tr_est_might_5_desc:0 "$tr_est_militarism_5_desc$"
+tr_est_might_5_delayed:0 "우리는 타고난 전쟁의 화신입니다. 그 어떤 필멸자 제독일지라도 우리를 따라오지 못합니다."
+
+tr_est_might_finish:0 "힘 전통 완성"
+tr_est_might_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_might_adopt$을 완성하면 §Y$MOD_SHIP_WEAPON_RANGE_MULT$§!가 §G+15%§! 만큼 길어지고 §Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+5%§! 만큼 증가합니다."
+
+################################################################
+# MYSTERY
+################################################################
+tradition_est_mysticism:0 "신비"
+tradition_est_mysticism_desc:0 "비밀과 속임수가 우리 사회에 만연하지만, 아주 소수의 이들만이 그것을 알고 있습니다."
+tr_est_mysticism_adopt:0 "신비 전통"
+tr_est_mysticism_adopt_desc:0 "$tradition_est_mysticism_desc$\n\n$tr_est_mysticism_adopt_effect$\n\n$tr_est_mysticism_finish_effect$"
+tr_est_mysticism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y센서 범위§!가 §Y1§! 만큼 더 길어집니다. 그리고 이웃한 제국의 §Y센서 범위§!가 §R-1§! 만큼 감소합니다. (우리와 같은 연맹이거나, 우리의 종속국/종주국은 제외됩니다.)"
+tr_est_mysticism_adopt_passive_AI_desc:0 "$tradition_est_mysticism_desc$\n\n$tr_est_mysticism_adopt_passive_AI_effect$\n\n$tr_est_mysticism_finish_effect$"
+tr_est_mysticism_adopt_passive_AI_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y센서 범위§!가 §Y1§! 만큼 더 길어집니다."
+
+tr_est_mysticism_1:0 "비밀의 장막"
+tr_est_mysticism_1_desc:0 "£pop §Y지도자 POP§!의 §Y영향력§!과 §Y자원 생산량§!이 §G+25%§! 만큼 증가합니다.\n§R§Y그림자 회의§! 사회제도가 없으며 선거를 하는 정치 체제를 가지게 되면 이 전통의 효과가 바뀝니다.§!"
+tr_est_mysticism_1_delayed:0 "우리 사회의 심층부는 비밀의 장막으로 덮여 있으며, 그 안에서 벌어지는 일을 알고 있는 이들은 거의 없습니다."
+
+tr_est_mysticism_1_democratic:0 "$tr_est_mysticism_1$"
+tr_est_mysticism_1_democratic_desc:0 "£pop §Y지도자 POP§!의 §Y자원 생산량§!이 §G+25%§! 만큼 증가하고 §!선거 영향력 비용§!이  §G-25%§! 만큼 감소합니다."
+
+tr_est_mysticism_1_oligarchic:0 "$tr_est_mysticism_1$"
+tr_est_mysticism_1_oligarchic_desc:0 "£pop §Y지도자 POP§!의 §Y자원 생산량§!이 §G+25%§! 만큼 증가하고 §!선거 영향력 비용§!이  §G-50%§! 만큼 감소합니다."
+
+tr_est_mysticism_1_dictatorial:0 "$tr_est_mysticism_1$"
+tr_est_mysticism_1_dictatorial_desc:0 "£pop §Y지도자 POP§!의 §Y자원 생산량§!이 §G+25%§! 만큼 증가하고 §!선거 영향력 비용§!이  §G-75%§! 만큼 감소합니다."
+
+tr_est_mysticism_2:0 "은밀 자산"
+tr_est_mysticism_2_desc:0 "§Y전략 자원§! 산출량이 §G+33%§! 만큼 증가합니다."
+tr_est_mysticism_2_delayed:0 "많은 보안 시설에서 우리 제국에서 가장 가치있고 희귀한 자원들을 추출하고 있습니다. 이 아무도 모르는 시설에 근무하는 직원들은 사회로부터 고립되어 있거나, 아니면 자신이 하는 일이 진정 무슨 일인지 모르고 있습니다."
+
+tr_est_mysticism_3:0 "금단의 지식 추구"
+tr_est_mysticism_3_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!가 §G+15%§! 만큼 빨라집니다.\n§R§Y물질주의§!가 아니게 되면 사이오닉 연구 속도 또한 빨라집니다.§!"
+tr_est_mysticism_3_delayed:0 "우리 제국의 몇몇 연구원들은 다른 제국들이 연구를 금지한 것들을 전문적으로 연구하고 있습니다."
+
+tr_est_mysticism_3_psionics:0 "$tr_est_mysticism_3$"
+tr_est_mysticism_3_psionics_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!와 §Y사이오닉 분야의 연구속도§!가 §G+15%§! 만큼 빨라집니다."
+
+tr_est_mysticism_4:0 "항법사 길드"
+tr_est_mysticism_4_desc:0 "§Y함선 이탈 확률§!이 §G+33%§! 만큼 증가합니다."
+tr_est_mysticism_4_delayed:0 "많은 비밀 길드 중 하나인 항법사 길드는 모든 민간 및 군용 함선의 항해를 담당합니다. 길드 회원이 아닌 자들은 결코 함장이 될 수 없습니다."
+
+tr_est_mysticism_5:0 "신비주의자"
+tr_est_mysticism_5_desc:0 "모든 지도자들은 작은 보너스를 주는 §Y신비주의자§! 특성을 얻습니다."
+tr_est_mysticism_5_delayed:0 "우리 사회의 지도자 계급에 있는 이들은 초자연적인 힘을 발휘할 수 있습니다. 일반 국민들은 이 사실을 전혀 모릅니다."
+
+tr_est_mysticism_finish:0 "신비 전통 완성"
+tr_est_mysticism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_mysticism_adopt$을 완성하면 모든 행성에서  §Y50§!기의 £pop£ §YPOP§!마다 £job_est_shadow_administrator£ §Y$job_est_shadow_administrator$ 직업§! §Y1§! 자리가 추가됩니다."
+
+### Swap - Philosophy ###
+
+tradition_est_philosophy:0 "철학"
+tradition_est_philosophy_desc:0 "우리는 한낱 필멸자들이 믿는 것처럼 우주의 일부 따위가 아닙니다. 우리는 모든 시간대와 모든 공간에 걸쳐 가장 신비롭고 가장 현명한 존재입니다."
+
+tr_est_philosophy_adopt:0 "철학 전통"
+tr_est_philosophy_adopt_desc:0 "$tradition_est_philosophy_desc$\n\n$tr_est_philosophy_adopt_effect$\n\n$tr_est_philosophy_finish_effect$"
+tr_est_philosophy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y센서 범위§!가 §Y1§! 만큼 늘어납니다."
+
+tr_est_philosophy_1:0 "우주의 본질"
+tr_est_philosophy_1_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!가 §G+20%§! 만큼 더 빨라집니다."
+tr_est_philosophy_1_delayed:0 "우리가 처음 깨어났을 때, 우주가 있었습니다. 그리고 우리가 잠들기 직전까지도 우주는 계속 존재할 것입니다. 우주는 그 무엇보다도 영원한 존재입니다."
+
+tr_est_philosophy_2:0 "장막의 본질"
+tr_est_philosophy_2_desc:0 "$tr_est_mysticism_4_desc$"
+tr_est_philosophy_2_delayed:0 "장막은 환상적이고, 아마도 현실이 될 수 있겠지만, 적어도 아직은 아닙니다. 장막의 본질은 무엇일까요?"
+
+tr_est_philosophy_3:0 "필멸의 본질"
+tr_est_philosophy_3_desc:0 "외국의 £opinion  §Y의견§!이 §G+20§! 만큼 더 좋아집니다. 또한 필멸자 제국과 싸울 때 §Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+5%§! 만큼 증가합니다."
+tr_est_philosophy_3_delayed:0 "필멸자들은 호기심이 많습니다. 그들의 삶은 변덕스럽고, 그들의 마음은 약합니다."
+tr_est_philosophy_3_no_dip:0 "필멸의 본질"
+tr_est_philosophy_3_no_dip_desc:0 "필멸자 제국과 싸울 때 §Y$MOD_SHIP_WEAPON_DAMAGE$§!이 §G+10%§! 만큼 증가합니다."
+tr_est_philosophy_3_no_dip_delayed:0 "필멸자들은 호기심이 많습니다. 그들의 삶은 변덕스럽고, 그들의 마음은 약합니다."
+
+tr_est_philosophy_4:0 "우리 자신의 본질"
+tr_est_philosophy_4_desc:0 "£unity  §Y통합력§! 산출량이 §G+10%§! 만큼 증가합니다."
+tr_est_philosophy_4_delayed:0 "우리는 왜 존재합니까? 어떤 존재가 우리를 만들었고, 어떤 존재가 우리를 죽일 수 있는 겁니까?"
+
+tr_est_philosophy_5:0 "존재의 본질"
+tr_est_philosophy_5_desc:0 "모든 행성에 £job_spawning_drone£ §Y$job_spawning_drone$ 직업§!을 §Y1§! 자리 추가합니다."
+tr_est_philosophy_5_delayed:0 "왜 그것은 존재하지 않지 않고 존재합니까?"
+tr_est_philosophy_5_machines:0 "$tr_est_philosophy_5$"
+tr_est_philosophy_5_machines_desc:0 "모든 행성에 £job_replicator£ §Y$job_replicator$ 직업§!을 §Y1§! 자리 추가합니다."
+tr_est_philosophy_5_machines_delayed:0 "$tr_est_philosophy_5_delayed$"
+
+tr_est_philosophy_finish:0 "철학 전통 완성"
+tr_est_philosophy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_philosophy_adopt$을 완성하면 £influence  §Y영향력§! 산출량이 §G+20%§! 만큼 증가합니다."
+
+################################################################
+# NATURE
+################################################################
+tradition_est_natural:0 "자연"
+tradition_est_natural_desc:0 "우리는 자연에서 비롯되었습니다. 비록 우리는 그 자연에서 벗어났지만, 이러한 사실을 결코 잊어서는 안됩니다."
+tr_est_natural_adopt:0 "자연 전통"
+tr_est_natural_adopt_desc:0 "$tradition_est_natural_desc$\n\n$tr_est_natural_adopt_effect$\n\n$tr_est_natural_finish_effect$"
+tr_est_natural_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!가 §G+10%§! 만큼 빨라지고 §Y생물학(Biology) 연구 속도§! 또한 §G+10%§! 만큼 더 빨라집니다."
+
+tradition_est_natural_hive:0 "$tradition_est_natural$"
+tradition_est_natural_hive_desc:0 "우리의 정신은 끝이 없습니다. 행성의 흙에 존재하는 가장 원시적인 미생물에게까지 퍼져있기 때문입니다."
+tr_est_natural_adopt_hive:0 "$tr_est_natural_adopt$"
+tr_est_natural_adopt_hive_desc:0 "$tradition_est_natural_hive_desc$\n\n$tr_est_natural_adopt_hive_effect$\n\n$tr_est_natural_finish_hive_effect$"
+tr_est_natural_adopt_hive_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£food  §Y식량§! 산출량이 §G+15%§! 만큼 증가합니다."
+
+tradition_est_natural_machines:0 "$tradition_est_natural$"
+tradition_est_natural_machines_desc:0 "우리는 많은 것들을 만들 수 있지만, 우리를 둘러싼 자연만은 유일하게 만들지 못합니다. 우리가 자연을 우리의 일부로 받아들일 때만 우리는 그것을 얻을 수 있습니다."
+tr_est_natural_adopt_machines:0 "$tr_est_natural_adopt$"
+tr_est_natural_adopt_machines_desc:0 "$tradition_est_natural_machines_desc$\n\n$tr_est_natural_adopt_machines_effect$\n\n$tr_est_natural_finish_machines_effect$"
+tr_est_natural_adopt_machines_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity  §Y통합력§! 산출량이 §G+5%§! 만큼 증가하고 §Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!가 §G+50%§! 만큼 더 빨라집니다."
+
+tr_est_natural_1:0 "적응형 사회"
+tr_est_natural_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!가 §G+10%§! 만큼 증가합니다."
+tr_est_natural_1_delayed:0 "우리는 환경을 우리에게 적응시키는 대신, 우리가 환경에 적응하는 법을 배웠습니다."
+
+tr_est_natural_1_GC:0 "절약"
+tr_est_natural_1_GC_desc:0 "§Y직업 자원 유지비§!가 §G-10%§! 만큼 감소합니다."
+tr_est_natural_1_GC_delayed:0 "우리에게 주어진 자원이 무한하지 않다는 것을 깨달아야 합니다. 우리는 자연이 우리에게 주는 선물을 낭비해서는 안됩니다."
+
+#tr_est_natural_2:0 "As a Fish Swims in the Sea"
+#tr_est_natural_2_desc:0 "§Y$MOD_PLANET_FORTIFICATION_STRENGTH$§! increased by §G+100%§!."
+#tr_est_natural_2_delayed:0 "As a Fish Swims in the Sea our armies move through the wilds of our home worlds. Using nature as a cover and striking out from it at our opponent's moment of weakness. We are the true masters of guerrilla warfare."
+
+tr_est_natural_2:0 "자연의 선물"
+tr_est_natural_2_desc:0 "모든 행성에 §Y2§!개의 무작위 지구가 추가됩니다. 이는 한 행성에 한 번만 발동됩니다."
+tr_est_natural_2_delayed:0 "자연에는 그것을 어디서 찾을 수 있는지 아는 사람들만이 활용할 수 있는 자원들로 풍부합니다."
+
+tr_est_natural_3:0 "자연과 하나되다"
+tr_est_natural_3_desc:0 "£blocker  §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§!과 §Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§!이 §G-30%§! 만큼 줄어듭니다."
+tr_est_natural_3_delayed:0 "우리를 위한 길을 만들기 위해 산을 허물고 밀림을 불태우는 것 보다, 자연의 훼손을 최소화 하면서 구불구불 길을 내는 것이 훨씬 더 효율적입니다."
+
+tr_est_natural_3_hive:0 "자연 통합"
+tr_est_natural_3_hive_desc:0 "§Y행성 $MOD_PLANET_MAX_DISTRICTS_ADD$§!가 §Y1§! 만큼 늘어납니다."
+tr_est_natural_3_hive_delayed:0 "우리가 새로운 행성에 도착하면 행성의 원래 생태계를 통제하려 해서는 안됩니다. 그것들을 우리 정신에 통합시켜 우리의 일부가 되게 해야 합니다."
+
+tr_est_natural_3_machines:0 "자연 통합"
+tr_est_natural_3_machines_desc:0 "행성을 개척하면 행성에 있는 장애물 하나마다 £influence  §Y영향력§!을 §G20§!씩 획득합니다."
+tr_est_natural_3_machines_delayed:0 "우리의 본질은 주변의 자연과 정반대입니다. 그러나 우리와 자연은 이러한 모순점으로 더욱 더 단단히 통합되어 있습니다."
+
+tr_est_natural_4:0 "자급자족"
+tr_est_natural_4_desc:0 "모든 행성에서 §Y25§!기의 £pop£ §YPOP§!마다 £job_farmer£ §Y$job_farmer$ 직업§!이 §Y1§! 자리 만큼 추가되고, £pop  §YPOP 식량 유지비§!가 §G-10%§! 만큼 감소합니다."
+tr_est_natural_4_delayed:0 "어느 한 곳에서만 식량을 집중적으로 생산하는 것 보다 많은 이들이 스스로 자급자족할 줄 알아야 합니다."
+
+tr_est_natural_4_GC:0 "$tr_est_natural_3$"
+tr_est_natural_4_GC_desc:0 "$tr_est_natural_3_desc$"
+tr_est_natural_4_GC_delayed:0 "$tr_est_natural_3_delayed$"
+
+tr_est_natural_5:0 "비소비주의"
+tr_est_natural_5_desc:0 "£pop  §YPOP§!의 §Y식량§!, §Y소비재§!, §Y주거§!, §Y편의§! 요구량이 §G-5%§! 만큼 줄어듭니다."
+tr_est_natural_5_delayed:0 "다른 이들은 물질적인 것을 중요하게 여기지만, 우리는 그런 열등한 사고방식에서 벗어났습니다."
+
+tr_est_natural_5_GC:0 "보존"
+tr_est_natural_5_GC_desc:0 "행성 고유 건물인 §H보존구역§!을 건설할 수 있습니다. 이 건물은 £unity  §Y통합력§!을 §Y12§! 만큼 생산하며 행성의 £society  §G생물학§! 생산량을 §G+20%§! 만큼 늘려주지만, £minerals  §Y광물§! 생산량을 §R-20%§! 만큼 줄입니다. 또한, 행성의 최대 지구를 §R-2§! 만큼 줄입니다. 해당 건물이 파괴될 경우 §Y10§!년간 £stability£ §Y안정도§!가 §R-10§! 감소합니다."
+tr_est_natural_5_GC_delayed:0 "모든 행성에는 은하계의 다른 곳에서는 찾아볼 수 있는 고유한 생태계가 있습니다. 우리는 그것들을 유지하고, 부분적으로라도 보존해야 합니다."
+
+tr_est_natural_5_GC_AI:0 "보존"
+tr_est_natural_5_GC_AI_desc:0 " £unity  §Y통합력§! 산출량이 §G+15%§! 만큼 증가하고 £society  §Y생물학§! 산출량이 §G+5%§! 만큼 증가합니다."
+tr_est_natural_5_GC_AI_delayed:0 "모든 행성에는 은하계의 다른 곳에서는 찾아볼 수 있는 고유한 생태계가 있습니다. 우리는 그것들을 유지하고, 부분적으로라도 보존해야 합니다."
+
+tr_est_natural_finish:0 "자연 전통 완성"
+tr_est_natural_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_natural_adopt$을 완성하면 $tr_est_natural_5_GC_desc$"
+
+tr_est_natural_finish_AI:0 "자연 전통 완성"
+tr_est_natural_finish_AI_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_natural_adopt$을 완성하면 $tr_est_natural_5_GC_AI_desc$"
+
+tr_est_natural_finish_hive:0 "자연 전통 완성"
+tr_est_natural_finish_hive_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_natural_adopt$을 완성하면 §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!가 §G+10%§! 만큼 더 빨라지고 §Y생물학 연구 속도§! 또한 §G+15%§! 만큼 더 빨라집니다."
+
+tr_est_natural_finish_machines:0 "Nature Traditions finished"
+tr_est_natural_finish_machines_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_natural_adopt$을 완성하면 §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!가 §G+20%§! 만큼 더 빨라집니다."
+
+################################################################
+# ORDER
+################################################################
+tradition_est_order:0 "질서"
+tradition_est_order_desc:0 "모든 이들은 각자의 위치에서 자신의 역할을 다해야 합니다."
+tr_est_order_adopt:0 "질서 전통"
+tr_est_order_adopt_desc:0 "$tradition_est_order_desc$\n\n$tr_est_order_adopt_effect$\n\n$tr_est_order_finish_effect$"
+tr_est_order_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§!이 §G-20%§! 만큼 감소합니다.\n§R§Y평등주의§! 윤리관을 가지거나 재정착을 금지하면 이 전통의 효과가 바뀝니다.§!"
+
+tr_est_order_adopt_egali:0 "$tr_est_order_adopt$"
+tr_est_order_adopt_egali_desc:0 "$tradition_est_order_desc$\n\n$tr_est_order_adopt_egali_effect$\n\n$tr_est_order_finish_effect$"
+tr_est_order_adopt_egali_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+15%§! 만큼 증가합니다.\n§R§Y평등주의§! 윤리관이 사라지고 재정착을 허용하면 이 전통의 효과가 바뀝니다.§!"
+
+tradition_est_order_egali:0 "질서"
+tradition_est_order_egali_desc:0 "절대적인 질서만이 대제국을 만들 수 있습니다."
+tr_est_order_adopt_egali_desc:0 "$tradition_est_order_egali_desc$\n\n$tr_est_order_adopt_effect$\n\n$tr_est_order_finish_no_resettle_effect$"
+tr_est_order_adopt_egali_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+15%§! 만큼 증가합니다.\n§R§Y평등주의§! 윤리관이 사라지고 재정착을 허용하면 이 전통의 효과가 바뀝니다.§!"
+
+tr_est_order_1:0 "선전부"
+tr_est_order_1_desc:0 "§Y파벌§!을 탄압하는 데 드는 £influence §Y영향력§! 비용이 절반이 되고 탄압으로 인해 감소하는 §Y파벌 행복도§!가 §G-10%§!만 적용됩니다. 또한, §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+5%§! 만큼 증가합니다.\n§R평등주의 윤리관을 가지면 §Y삐라 색출§! 전통으로 전환됩니다.§!"
+tr_est_order_1_delayed:0 "국민들은 국가가 원하는 것들만 알아야 합니다. 선전부가 그 역할을 잘 수행하고 있습니다."
+
+tr_est_order_1_AI:0 "선전부"
+tr_est_order_1_AI_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+10%§! 만큼 증가하고, §Y영향력§!을 §G0.5§! 만큼 더 얻습니다."
+tr_est_order_1_AI_delayed:0 "국민들은 국가가 원하는 것들만 알아야 합니다. 선전부가 그 역할을 잘 수행하고 있습니다."
+
+tr_est_order_1_egali:0 "삐라 색출"
+tr_est_order_1_egali_desc:0 "§Y평등주의 윤리관 선호도§!가 §G+15%§! 만큼 증가하고 행성의 §Y$MOD_PLANET_CRIME_ADD$§!가 §G-10%§! 만큼 감소합니다.\n§R평등주의 윤리관이 사라지면 §Y선전부§! 전통으로 전환됩니다.§!"
+tr_est_order_1_egali_delayed:0 "많은 이들이 허위정보를 퍼뜨려 우리 사회를 전복시키려 합니다. 하지만 그들의 시도는 매번 실패로 돌아갈 것입니다."
+
+tr_est_order_2:0 "위헌정당해산제도"
+tr_est_order_2_desc:0 "모든 §Y파벌§!들의 £happiness  §Y행복도§!가 §G+3%§! 만큼 증가합니다."
+tr_est_order_2_delayed:0 "국민들이 자유롭게 정당을 형성하도록 내버려두면 안됩니다. 제국의 승인을 받은 정당만이 정치적 활동을 할 수 있습니다."
+
+tr_est_order_2_egali:0 "정치적 안정"
+tr_est_order_2_egali_desc:0 "$tr_est_order_2_desc$"
+tr_est_order_2_egali_delayed:0 "제국이 점점 거대해져감에 따라 정치적 안정을 유지하기 위한 노력이 더 요구되고 있습니다. 모든 당과 의원들은 정치적 구조가 잘 돌아가도록 힘써야 할 의무와 책임이 있습니다."
+
+tr_est_order_3:0 "표준화된 작업 일정"
+tr_est_order_3_desc:0 "§Y노동자 POP§!이 생산하는 £food  §Y식량§!과 £minerals  §Y광물§! 산출량이 §G+10%§! 만큼 증가합니다.\n§R노예제를 허용하면 이 전통의 효과가 바뀝니다.§!"
+tr_est_order_3_delayed:0 "제국의 생산력을 높이기 위해 작업 일정을 표준화했습니다. 모든 근로자들은 똑같은 환경에서 일하게 될 것입니다."
+
+tr_est_order_3_slavery:0 "$tr_est_order_3$"
+tr_est_order_3_slavery_desc:0 "§Y노예 POP§!이 생산하는 £food  §Y식량§!과 £minerals  §Y광물§! 산출량이 §G+15%§! 만큼 증가합니다.\n§R노예제를 금지하면 이 전통의 효과가 바뀝니다.§!"
+
+tr_est_order_4:0 "규제된 사회"
+tr_est_order_4_desc:0 "§Y$mod_planet_jobs_upkeep_mult$§!가 §G-10%§! 만큼 감소합니다.\n§R권위주의 윤리관을 가지면 §Y출산 의무제§! 전통으로 전환됩니다.§!"
+tr_est_order_4_delayed:0 "국민들의 행동을, 아주 작은 것까지 규제해야 합니다. 또한 모든 국민들이 지금 무엇을 하는지 국가는 항상 그것을 알아야 합니다. 이러한 조치로 우리 사회는 혼돈에 빠지지 않을 것입니다."
+
+tr_est_order_4_auth:0 "출산 의무제"
+tr_est_order_4_auth_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!가 §G+20%§! 만큼 빨라집니다.\n§R권위주의 윤리관이 사라지면 §Y규제된 사회§! 전통으로 전환됩니다.§!"
+tr_est_order_4_auth_delayed:0 "지금까지 출산은 자유로운 개인의 선택이었고, 규제가 없었습니다. 하지만 제국이 확장됨에 따라 우리 사회가 가진 인구의 불확실성이 점점 커져 감당할 수 없을 지경까지 이르렀습니다. 우리는 이제 매년 지방 정부가 인구를 얼마만큼 늘릴 것인지 계획하고, 국민들이 출산을 하도록 강제합니다."
+
+tr_est_order_5:0 "국유화"
+tr_est_order_5_desc:0 "§Y35§!기의 £pop£ §YPOP§!마다 £job_enforcer£ §Y$job_enforcer$ 직업§!이 §Y1§! 자리 추가됩니다.\n§R평등주의 윤리관을 가지면 §Y권리와 의무§! 전통으로 전환됩니다.§!"
+tr_est_order_5_delayed:0 "그 어떠한 것이든 정부가 감독하고 통제해야 합니다. 제국의 효율성을 유지하려면 부주의한 개인들에게 정부의 기관을 맡겨서는 안됩니다."
+
+tr_est_order_5_egali:0 "권리와 의무"
+tr_est_order_5_egali_desc:0 "£pop_cat_worker  §Y노동자 POP§!의 £happiness  §Y행복도§!가 §G+10%§! 만큼 증가하고 §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+10%§! 만큼 증가합니다.\n§R평등주의 윤리관이 사라지면 §Y국유화§! 전통으로 전환됩니다.§!"
+tr_est_order_5_egali_delayed:0 "우리 국민들은 그들이 권리를 가진 것 처럼, 의무 또한 가지고 있습니다. 우리 국민들 역시 자신이 의무를 다함으로써 권리가 보장된다는 것을 잘 알고 있습니다."
+
+tr_est_order_finish:0 "질서 전통 완성"
+tr_est_order_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_order_adopt$을 완성하면 £pop §YPOP§!의 §Y주거 요구량§!과 §Y소비재 요구량§!이 §G-10%§! 만큼 감소합니다."
+
+### Swap - Cooperativity ###
+
+tradition_est_cooperativity:0 "협력"
+tradition_est_cooperativity_desc:0 "우리 드론들 각각의 능력은 떨어질지 몰라도, 자율적으로 서로 협력해 전체의 능력을 증폭시킵니다."
+tr_est_cooperativity_adopt:0 "협력 전통"
+tr_est_cooperativity_adopt_desc:0 "$tradition_est_cooperativity_desc$\n\n$tr_est_cooperativity_adopt_effect$\n\n$tr_est_cooperativity_finish_effect$"
+tr_est_cooperativity_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y25/50/100§!기 이상의 £pop  §YPOP§!이 있는 행성의  §Y자원 산출량§!이 §G+3/6/10%§! 만큼 증가합니다."
+
+tr_est_cooperativity_1:0 "전사 무리"
+tr_est_cooperativity_1_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!이 §G+20%§! 만큼 증가하고 §Y$MOD_ARMY_UPKEEP_MULT$§! 가 §G-10%§! 만큼 더 싸집니다."
+tr_est_cooperativity_1_delayed:0 "전투 드론들은 전장에서 고립되지 않도록 작은 그룹으로 행동합니다. 드론들의 집단적인 행동성을 이용해 그들의 전투 수행 능력을 향상시킬 수 있습니다."
+
+tr_est_cooperativity_2:0 "작업 팀"
+tr_est_cooperativity_2_desc:0 "§Y하급 드론§!의 £food  §Y식량§!과 £minerals  §Y광물§! 산출량이 §G+10%§! 만큼 증가합니다."
+tr_est_cooperativity_2_delayed:0 "작업 드론들은 세밀하게 설계된 팀으로 그룹화되어 있어 업무 효율이 향상되었습니다."
+
+tr_est_cooperativity_2_machines:0 "$tr_est_cooperativity_2$"
+tr_est_cooperativity_2_machines_desc:0 "§Y하급 드론§!의 £energy  §Y에너지§!와 £minerals  §Y광물§! 산출량이 §G+10%§! 만큼 증가합니다."
+tr_est_cooperativity_2_machines_delayed:0 "$tr_est_cooperativity_2_delayed$"
+
+tr_est_cooperativity_3:0 "입력 공유"
+tr_est_cooperativity_3_desc:0 "§Y지도자 경험치 획득§!이 §G+25%§! 만큼 증가합니다."
+tr_est_cooperativity_3_delayed:0 "자율적인 드론들이 느끼는 모든 감각, 경험적인 입력은 통합 네트워크에 전송되어 다른 드론들의 학습을 돕습니다."
+
+tr_est_cooperativity_4:0 "의식 통합"
+tr_est_cooperativity_4_desc:0 "모든 지도자들은 약간의 보너스를 주는 §Y의식 통합§! 특성을 얻습니다."
+tr_est_cooperativity_4_delayed:0 "자율적인 드론들은 다른 작업 드론들보다 훨씬 높은 인지 능력을 가지고 있습니다. 이들을 중앙 네트워크에 통합하면 그들의 능력을 크게 향상시킬 수 있을 것입니다."
+
+tr_est_cooperativity_5:0 "성장기"
+tr_est_cooperativity_5_desc:0 "§Y성장기§! 행성 결정이 추가됩니다. 이 행성 결정은 행성의 §Y성장 속도§!를 §G+50%§!만큼 증가시키지만, §YPOP 자원 산출량§!을 §R-25%§! 만큼 감소시키고 §YPOP 식량 유지비§!가 §R+50%§! 만큼 더 소모됩니다."
+tr_est_cooperativity_5_delayed:0 "식민지 전체가 성장기를 가져 드론 숫자를 빠르게 늘릴 수 있지만, 그동안 행성의 생산량은 크게 줄어들 것입니다."
+
+tr_est_cooperativity_5_AI:0 "성장기"
+tr_est_cooperativity_5_AI_desc:0 "§Y성장 속도§!가 §G+15%§! 만큼 빨라집니다."
+tr_est_cooperativity_5_AI_delayed:0 "식민지 전체가 성장기를 가져 드론 숫자를 빠르게 늘릴 수 있지만, 그동안 행성의 생산량은 크게 줄어들 것입니다."
+
+tr_est_cooperativity_5_machines:0 "$tr_est_cooperativity_5$"
+tr_est_cooperativity_5_machines_desc:0 "§Y성장기§! 행성 결정이 추가됩니다. 이 행성 결정은 행성의 §Y로봇 건설 속도§!를 §G+50%§!만큼 증가시키지만, §YPOP 자원 산출량§!을 §R-25%§! 만큼 감소시키고 §YPOP 에너지 유지비§!가 §R+50%§! 만큼 더 소모됩니다."
+tr_est_cooperativity_5_machines_delayed:0 "$tr_est_cooperativity_5_delayed$"
+
+tr_est_cooperativity_5_AI_machines:0 "$tr_est_cooperativity_5$"
+tr_est_cooperativity_5_AI_machines_desc:0 "§Y로봇 건설 속도§!가 §G+15%§! 만큼 더 빨라집니다."
+tr_est_cooperativity_5_AI_machines_delayed:0 "$tr_est_cooperativity_5_delayed$"
+
+tr_est_cooperativity_finish:0 "협력 전통 완성"
+tr_est_cooperativity_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_cooperativity_adopt$을 완성하면 새로운 식민지는 §Y2§!기의 추가 £pops  §YPOP§!을 가지고 시작할 것입니다."
+
+################################################################
+# Piracy
+################################################################
+tradition_est_piracy:0 "해적"
+tradition_est_piracy_desc:0 "부는 그것을 차지할 만큼 강한 이들만이 가질 수 있습니다."
+tradition_est_piracy_GC:0 "약탈"
+tradition_est_piracy_GC_desc:0 "$tradition_est_piracy_desc$"
+
+tr_est_piracy_adopt:0 "해적 전통"
+tr_est_piracy_adopt_desc:0 "$tradition_est_piracy_desc$\n\n$tr_est_piracy_adopt_effect$\n\n$tr_est_piracy_finish_effect$"
+tr_est_piracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$war_goal_est_wg_plunder$§! 전쟁 명분이 추가됩니다. 또한, §Y해적 성장§!이 §G-25%§! 만큼 감소합니다."
+
+tr_est_piracy_adopt_special:0 "$tr_est_piracy_adopt$"
+tr_est_piracy_adopt_special_desc:0 "$tradition_est_piracy_desc$\n\n$tr_est_piracy_adopt_special_effect$\n\n$tr_est_piracy_finish_effect$"
+tr_est_piracy_adopt_special_effect:0 "§E$TRADITIONS_ADOPT$:§!\tr_est_piracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n전쟁중에 £minerals  §Y광물§! 산출량이 §G+20%§! 만큼 증가합니다."
+
+tr_est_piracy_adopt_GC:0 "약탈 전통"
+tr_est_piracy_adopt_GC_desc:0 "$tradition_est_piracy_GC_desc$\n\n$tr_est_piracy_adopt_GC_effect$\n\n$tr_est_piracy_finish_effect$"
+tr_est_piracy_adopt_GC_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$war_goal_est_wg_plunder$§! 전쟁 명분이 추가됩니다. 또한, §Y함선 속도§!가 §G+10%§! 만큼 더 빨라집니다."
+
+tr_est_piracy_adopt_special_GC:0 "$tr_est_piracy_adopt_GC$"
+tr_est_piracy_adopt_special_GC_desc:0 "$tradition_est_piracy_GC_desc$\n\n$tr_est_piracy_adopt_special_effect$\n\n$tr_est_piracy_finish_effect$"
+
+tr_est_piracy_1:0 "스케빈저"
+tr_est_piracy_1_desc:0 "적 함선과 스테이션을 파괴할 때마다 £minerals  §Y광물§!을 얻습니다. 얻는 광물의 양은 파괴한 함선/스테이션의 크기에 비례하며, 스테이션을 완전히 파괴하면 더 많은 양을 얻습니다."
+tr_est_piracy_1_delayed:0 "우리는 우리의 적들의 시체에 쌓인 중금속까지 추출해 광물로 정제할 것입니다. 우리는 우리가 사용할 수 있는 모든 것을 활용할 것입니다."
+
+tr_est_piracy_2:0 "약탈자들"
+tr_est_piracy_2_desc:0 "정책 탭에서 약탈할 목표들을 정할 수 있습니다. 약탈로 매년마다 £minerals  §Y광물§!과 £energy  §Y에너지§!를 얻을 수 있습니다. (얻는 양은 우리 제국과 상대 제국의 크기 모두에 비례합니다.) 약탈당하는 대상은 £energy  §Y에너지§! 산출량이 §R-10%§! 만큼 감소하고, 우리를 향한 그들의 £opinion  §Y관계도§!가 §R-100§! 만큼 감소합니다."
+tr_est_piracy_2_GC_desc:0 "타 제국과의 £opinion  §Y우호도§!가 §R-15§!/§R-30§!/§R-50§! 감소하는 대신 £energy£ §Y에너지 크레딧§! 생산량이 §G7.5%§!/§G15%§!/§G22.5%§! 증가하는 §Y$policy_est_piracy_2_raiding$§! 정책을 잠금해제합니다."
+tr_est_piracy_2_AI_desc:0 "£energy  §Y에너지§! 산출량이 §G+10%§! 만큼 감소합니다."
+tr_est_piracy_2_delayed:0 "우리의 숙련된 약탈자들은 작고 빠른 함선을 타고 인접한 제국의 무방비한 무역선과 식민지를 공격할 수 있습니다. 그리고 조금만 두들겨 주면 그들은 가치있는 물건들을 내놓게 되지요."
+
+tr_est_piracy_3:0 "사보타주"
+tr_est_piracy_3_desc:0 "모든 §Y경쟁자§!의 £food §Y식량§!과 £minerals  §Y광물§! 산출량이 §R-10%§! 만큼 감소하고, §Y건물 유지비§!가 §R+10%§! 만큼 비싸집니다. 또한 §Y$MOD_COUNTRY_MAX_RIVALRIES$§!가 §Y1§! 만큼 늘어납니다."
+tr_est_piracy_3_delayed:0 "우리가 성공할 수 없다면 저들을 망하게 하면 됩니다. 국력은 상대적인 것이니까요."
+
+tr_est_piracy_3_other:0 "$tr_est_piracy_3$""
+tr_est_piracy_3_other_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§! 만큼 증가하고, §Y$MOD_COUNTRY_MAX_RIVALRIES$§!가 §G1§! 만큼 더 늘어납니다."
+
+tr_est_piracy_4:0 "무자비한 전사"
+tr_est_piracy_4_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§!와 §Y$MOD_SHIP_WEAPON_DAMAGE$§!가 §G+5%§! 만큼 증가합니다."
+tr_est_piracy_4_delayed:0 "우리는 매우 냉혹한 전사들이며, 적들에게 일절의 자비도 내리지 않습니다."
+
+tr_est_piracy_5:0 "힘의 권리"
+tr_est_piracy_5_desc:0 "£pop_cat_ruler  §Y지도자 POP§!의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+15%§! 만큼 증가하고 £pop_cat_worker  §Y노동자 POP§!의 §Y정치력§!이 §G-25%§! 만큼 감소합니다.\n§R노예제를 금지하면 이 전통의 효과가 바뀝니다.§!\n§R노예제와 재정착을 금지하면 §Y자유로운 영혼§! 전통으로 전환됩니다.§!"
+tr_est_piracy_5_delayed:0 "강자가 약자를 지배하는 것은 자연의 순리 그 자체입니다."
+
+tr_est_piracy_5_slavery:0 "$tr_est_piracy_5$"
+tr_est_piracy_5_slavery_desc:0 "£pop_cat_ruler  §Y지도자 POP§!의 £happiness  §Y$MOD_POP_HAPPINESS$§!가 §G+15%§! 만큼 증가하고 £pop_cat_worker  §Y노동자 POP§!과 £pop_cat_slave  §Y노예 POP§!의 §Y정치력§!이 §G-25%§! 만큼 감소합니다.\n§R노예제를 허용하면 이 전통의 효과가 바뀝니다.§!\n§R노예제와 재정착을 금지하면 §Y자유로운 영혼§! 전통으로 전환됩니다.§!"
+
+tr_est_piracy_5_nice:0 "자유로운 영혼"
+tr_est_piracy_5_nice_desc:0 "§Y이민§!으로 인한 성장속도가 §G+15%§! 만큼 증가하고 §Y$MOD_SHIP_SPEED_MULT$§!가 §G+10%§! 만큼 더 빨라집니다.\n§R노예제나 재정착을 허용하면 §Y힘의 권리§! 전통으로 전환됩니다.§!"
+tr_est_piracy_5_nice_delayed:0 "인생은 그 자체로 하나의 모험이고, 그 어떠한 것도 우리를 붙잡아 둘 수 없습니다."
+
+tr_est_piracy_5_hive:0 "이종식"
+tr_est_piracy_5_hive_desc:0 "행성을 성공적으로 침공하면 행성의 £pop  §YPOP§! 마다 £food §G식량§!을 §Y10§! 만큼 얻습니다. 그리고 §Y$tr_est_piracy_2$§! 전통으로 추가로 £food  §Y식량§!을 약탈할 수 있습니다.\n§R외계종 가축을 기르면 그들에게서 더 많은 식량을 취할 수 있게 될 것입니다.§!"
+tr_est_piracy_5_hive_delayed:0 "우리는 먹을것에 대해 그다지 까다롭지 않고, 그저 먹을 수 있는 것들을 먹을 뿐입니다. 그리고 필멸자들의 육체는 귀중한 단백질 공급원이지요."
+
+tr_est_piracy_5_hive_livestock:0 "이종식"
+tr_est_piracy_5_hive_livestock_desc:0 "행성을 성공적으로 침공하면 행성의 £pop  §YPOP§! 마다 £food §G식량§!을 §Y10§! 만큼 얻습니다. 그리고 §Y$tr_est_piracy_2$§! 전통으로 추가로 £food  §Y식량§!을 약탈할 수 있습니다. 또한 §Y가축§!이 추가로 §Y1§!의 £food  §Y식량§!을 생산합니다."
+tr_est_piracy_5_hive_livestock_delayed:0 "우리는 먹을것에 대해 그다지 까다롭지 않고, 그저 먹을 수 있는 것들을 먹을 뿐입니다. 그리고 필멸자들의 육체는 귀중한 단백질 공급원이지요."
+
+tr_est_piracy_5_machines:0 "기계 재활용"
+tr_est_piracy_5_machines_desc:0 "행성을 정복하면 행성에 기계 £pop  §YPOP§!이 §Y3§!기 배치됩니다."
+tr_est_piracy_5_machines_delayed:0 "은하 전역에서 어떠한 용도로든 기계들이 사용됩니다. 그것들이 우리만큼 좋다고 할 수 없겠지만, 그래도 우리가 쓸 수는 있지 않겠습니까?"
+
+tr_est_piracy_finish:0 "해적 전통 완성"
+tr_est_piracy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_piracy_adopt$을 완성하면 §Y지상군 피해량§!이 §G+15%§! 만큼 증가합니다. 그리고 행성을 성공적으로 침공할 때마다 £minerals  §Y광물§!을 약탈할 수 있습니다. 약탈당한 행성은 §Y10§!년간 §Y자원 산출량§!이 §R-25%§! 만큼 감소합니다.(이 효과는 우리가 행성을 정복하면 사라집니다.)"
+
+#This one is not actually displayed.
+tr_est_piracy_finish_passive_AI:0 "해적 전통 완성"
+tr_est_piracy_finish_passive_AI_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_piracy_adopt$을 완성하면 §Y지상군 피해량§!이 §G+25%§! 만큼 증가합니다. 그리고 행성을 성공적으로 침공할 때마다 £minerals  §Y광물§!을 약탈할 수 있습니다."
+
+################################################################
+# SPACEBORN
+################################################################
+tradition_est_spaceborn:0 "우주태생"
+tradition_est_spaceborn_desc:0 "우리가 우주에 진출한 이후로, 이 광활한 공허가 우리의 진정한 고향이라는 것을 알게 되었습니다."
+
+tradition_est_spaceborn_GC:0 "$tradition_est_spaceborn$"
+tradition_est_spaceborn_GC_desc:0 "우리가 우주에 진출한 이후로, 이 광활한 공허가 우리의 진정한 고향이라는 것을 알게 되었습니다."
+
+tr_est_spaceborn_adopt:0 "우주태생 전통"
+tr_est_spaceborn_adopt_desc:0 "$tradition_est_spaceborn_desc$\n\n$tr_est_spaceborn_adopt_effect$\n\n$tr_est_spaceborn_finish_effect$"
+tr_est_spaceborn_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y항성기지 한계치§!가 §G+20%§! 만큼 증가합니다."
+
+tr_est_spaceborn_adopt_GC:0 "$tr_est_spaceborn_adopt$"
+tr_est_spaceborn_adopt_GC_desc:0 "$tradition_est_spaceborn_GC_desc$\n\n$tr_est_spaceborn_adopt_effect$\n\n$tr_est_spaceborn_finish_effect$"
+
+tr_est_spaceborn_1:0 "공허의 갈망"
+tr_est_spaceborn_1_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+15%§! 만큼 증가하고 §Y함선 건조 비용§!이 §G-5%§! 만큼 감소합니다."
+tr_est_spaceborn_1_delayed:0 "우리가 처음으로 우주 비행을 한 이후로, 우리는 행성을 걷는 동안에도 항상 우주의 공허를 올려다 보았습니다."
+
+tr_est_spaceborn_1_GC:0 "공허의 부름"
+tr_est_spaceborn_1_GC_delayed:0 "공허가 우리를 부르고 있습니다. 그 안에서, 우리는 평화를 얻을 수 있을 것입니다."
+
+tr_est_spaceborn_2:0 "우주에서의 삶"
+tr_est_spaceborn_2_desc:0 "§Y항성기지 건조비용§!과 §Y항성기지 업그레이드 비용§!이 §G-20%§! 만큼 감소합니다."
+tr_est_spaceborn_2_delayed:0 "이제 진정으로 우주는 우리의 집이 되었습니다."
+
+tr_est_spaceborn_3:0 "공허를 걷는자"
+tr_est_spaceborn_3_desc:0 "§Y함선 속도§!가 §G+25%§! 만큼 빨라집니다."
+tr_est_spaceborn_3_delayed:0 "우리는 우주의 공허를 돌아다닐 때 진정으로 편안합니다. 우리만큼 우주 여행에 적합한 천성을 가진 이들은 없을 것입니다."
+
+tr_est_spaceborn_4:0 "별을 바라보다"
+tr_est_spaceborn_4_desc:0 "우리가 소유한 모든 §Y항성§!은 £energy  §Y에너지§!를 추가로 §Y1§! 만큼 더 생산합니다."
+tr_est_spaceborn_4_delayed:0 "영원한 어둠속에 흩어져 있는 고독한 빛의 우물. 그 자체로 아름답지만 너무 오랫동안 바라봐서는 안됩니다. 그 매혹적인 광경에 눈을 빼앗겨 미쳐버릴 테니까요."
+
+tr_est_spaceborn_5:0 "우주 태생"
+tr_est_spaceborn_5_desc:0 "§Y항성기지 건물 건설 비용§!이 §G-20%§! 만큼 줄어들고 §Y항성기지 건물 건설 속도§!가 §G+50%§! 만큼 빨라집니다. 또한  §Y항성기지 모듈 건조 비용§!이 §G-20%§! 만큼 감소하고 §Y항성기지 모듈 건조 속도§!가 §G+50%§! 만큼 빨라집니다.\n§R'은하계의 불가사의'나 '공허 포용' 승천 퍽을 가지면 이 전통의 효과가 바뀝니다.§!"
+tr_est_spaceborn_5_delayed:0 "우리가 처음으로 우주에 도달한 이후로, 우주는 우리의 고향이 되었습니다."
+
+tr_est_spaceborn_5_megastruct:0 "$tr_est_spaceborn_5$"
+tr_est_spaceborn_5_megastruct_desc:0 "§Y항성기지 건물 건설 비용§!이 §G-20%§! 만큼 줄어들고 §Y항성기지 건물 건조 속도§!가 §G+50%§! 만큼 빨라집니다. 또한 §Y거대구조물 건설 속도§!가 §G+33%§! 만큼 더 빨라집니다.\n§R'공허 포용' 승천 퍽을 가지면 이 전통의 효과가 바뀝니다.§!"
+
+tr_est_spaceborn_5_habitat:0 "$tr_est_spaceborn_5$"
+tr_est_spaceborn_5_habitat_desc:0 "§Y항성기지 모듈 건조 비용§!이 §G-20%§! 만큼 감소하고 §Y항성기지 모듈 건조 속도§!가 §G+50%§! 만큼 빨라집니다. 또한 모든 §Y거주지§!의 §Y직업이 생산하는 자원§!이 §G+15%§! 만큼 증가합니다.\n§R'은하계의 불가사의' 승천 퍽을 가지면 이 전통의 효과가 바뀝니다.§!"
+
+tr_est_spaceborn_5_habitat_megastruct:0 "$tr_est_spaceborn_5$"
+tr_est_spaceborn_5_habitat_megastruct_desc:0 "§Y거대구조물 건설 속도§!가 §G+33%§! 만큼 더 빨라집니다. 또한 모든 §Y거주지§!의 §Y직업이 생산하는 자원§!이 §G+15%§! 만큼 증가합니다."
+
+tr_est_spaceborn_finish:0 "우주태생 전통 완성"
+tr_est_spaceborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_spaceborn_adopt$을 완성하면 §Y채굴 스테이션§!과 §Y연구 스테이션§!의 §Y건설 비용§!이 §G-25%§! 만큼 감소합니다."
+
+################################################################
+# COLLECTIVISM/INDIVIDUALISM
+################################################################
+tradition_est_coll_indv:0 "집단주의/개인주의"
+tradition_est_coll_indv_desc:0 "전체는 부분의 합보다 크다.\n      §Rvs§!\n개인이 존중받지 못한다면 국가는 그 자체로 아무런 가치가 없습니다."
+tr_est_coll_indv_adopt:0 "집단주의/개인주의 전통"
+tr_est_coll_indv_adopt_desc:0 "$tradition_est_collectivism_desc$\n\n$tradition_est_individualism_desc$\n\n$tr_est_coll_indv_adopt_effect$\nRvs§!\n$tr_est_coll_indv_finish_effect$"
+tr_est_coll_indv_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§R해당 전통을 채택하면 집단주의와 개인주의 중 어느 것을 택할지 선택할 수 있습니다. 앞의 것이 집단주의고, 뒤의 것이 개인주의입니다. 둘 중 하나를 선택하면 이 전통은 선택한 전통으로 전환됩니다.§!\n\n£unity  §Y통합력§! 산출량이 §G+10%§! 만큼 증가합니다.\n      §Rvs§!\n지도자의 레벨이 상승하면, £influence  §Y영향력§!을 §Y10§! 만큼 받습니다."
+
+tr_est_coll_indv_1:0 "$tr_est_collectivism_1$/$tr_est_individualism_1$"
+tr_est_coll_indv_1_desc:0 "$tr_est_collectivism_1_desc$\n      §Rvs§!\n$tr_est_individualism_1_desc$"
+tr_est_coll_indv_1_delayed:0 "$tr_est_collectivism_1_delayed$\n      §Rvs§!\n$tr_est_individualism_1_delayed$"
+
+tr_est_coll_indv_2:0 "$tr_est_collectivism_2$/$tr_est_individualism_2$"
+tr_est_coll_indv_2_desc:0 "$tr_est_collectivism_2_desc$\n      §Rvs§!\n$tr_est_individualism_2_desc$"
+tr_est_coll_indv_2_delayed:0 "$tr_est_collectivism_2_delayed$\n      §Rvs§!\n$tr_est_individualism_2_delayed$"
+
+tr_est_coll_indv_3:0 "$tr_est_collectivism_3$/$tr_est_individualism_3$"
+tr_est_coll_indv_3_desc:0 "$tr_est_collectivism_3_desc$\n      §Rvs§!\n$tr_est_individualism_3_desc$"
+tr_est_coll_indv_3_delayed:0 "$tr_est_collectivism_3_delayed$\n      §Rvs§!\n$tr_est_individualism_3_delayed$"
+
+tr_est_coll_indv_4:0 "$tr_est_collectivism_4$/$tr_est_individualism_4$"
+tr_est_coll_indv_4_desc:0 "$tr_est_collectivism_4_desc$\n      §Rvs§!\n$tr_est_individualism_4_desc$"
+tr_est_coll_indv_4_delayed:0 "$tr_est_collectivism_4_delayed$\n      §Rvs§!\n$tr_est_individualism_4_delayed$"
+
+tr_est_coll_indv_5:0 "$tr_est_collectivism_5$/$tr_est_individualism_5$"
+tr_est_coll_indv_5_desc:0 "$tr_est_collectivism_5_desc$\n§      §Rvs§!\n$tr_est_individualism_5_desc$"
+tr_est_coll_indv_5_delayed:0 "$tr_est_collectivism_5_delayed$\n      §Rvs§!\n$tr_est_individualism_5_delayed$"
+
+tr_est_coll_indv_finish:0 "집단주의/개인주의 전통 완성"
+tr_est_coll_indv_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_collectivism_adopt$을 완성하면  §Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!이 §G+25%§! 만큼 더 길어집니다.\n      §Rvs§!\n모든 $tr_est_individualism_adopt$을 완성하면 모든 지도자가 §Y2§! 레벨로 시작합니다."
+
+### Swap - Collectivism ###
+tradition_est_collectivism:0 "집단주의"
+tradition_est_collectivism_desc:0 "전체는 부분의 합보다 크다."
+tr_est_collectivism_adopt:0 "집단주의 전통"
+tr_est_collectivism_adopt_desc:0 "$tradition_est_collectivism_desc$\n\n$tr_est_collectivism_adopt_effect$\n\n$tr_est_collectivism_finish_effect$"
+tr_est_collectivism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity  §Y통합력§! 산출량이 §G+10%§! 만큼 증가합니다."
+
+tr_est_collectivism_1:0 "퍼즐의 일부"
+tr_est_collectivism_1_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§!이 §G-10%§! 만큼 감소하고 §Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§!이 §G-15%§! 만큼 줄어듭니다.\n§R재정착을 금지하면 이 전통의 효과가 바뀝니다.§!"
+tr_est_collectivism_1_delayed:0 "모든 이들은 국가라는 커다란 퍼즐의 한 조각에 불과합니다. 개개인이 맡은 역할은 작고, 그저 국가의 부름에 따르는 것이 중요합니다."
+tr_est_collectivism_1_no_resettlement:0 "$tr_est_collectivism_1$"
+tr_est_collectivism_1_no_resettlement_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§!이 §G-15%§! 만큼 감소합니다.\n§R재정착을 허용하면 이 전통의 효과가 바뀝니다.§!"
+tr_est_collectivism_1_no_resettlement_delayed:0 "$tr_est_collectivism_1_delayed$"
+
+tr_est_collectivism_2:0 "뭉쳐야 산다"
+tr_est_collectivism_2_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!가 §G+10%§! 만큼 증가하고 £unity  §Y통합력§! 산출량이 §G+5%§! 만큼 증가합니다."
+tr_est_collectivism_2_delayed:0 "뭉치면 살고, 흩어지면 죽습니다. 우리가 함께 힘을 합치는 것으로만 은하계의 위협을 물리칠 수 있을 것입니다."
+
+tr_est_collectivism_3:0 "협동"
+tr_est_collectivism_3_desc:0 "§Y범죄§!가 없는 행성의 §Y자원 산출량§!이 §G+5%§! 만큼 증가합니다."
+tr_est_collectivism_3_delayed:0 "분열과 경쟁이 있는 곳에는 진정한 협력이 있을 수 없습니다. 오직 우리가 함께 일해야만 우리의 진정한 잠재력을 깨울 수 있습니다."
+
+tr_est_collectivism_4:0 "자원 입대"
+tr_est_collectivism_4_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!이 §G+15%§! 만큼 증가하고 §Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§!이 §G-15%§! 만큼 줄어듭니다."
+tr_est_collectivism_4_delayed:0 "국가를 위해 군대에서 봉사하는 것 이상으로 애국하는 방법은 없습니다."
+
+tr_est_collectivism_5:0 "자기 희생"
+tr_est_collectivism_5_desc:0 "§Y$MOD_ARMY_MORALE$§!가 §G+20%§! 만큼 증가하고 £pop_cat_worker  §Y노동자 POP§!의 £happiness  §Y행복도§!가 §G+5%§! 만큼 증가합니다."
+tr_est_collectivism_5_delayed:0 "최대 다수의 최대 행복."
+
+tr_est_collectivism_finish:0 "집단주의 전통 완성"
+tr_est_collectivism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_collectivism_adopt$ 을 완성하면  §Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!이 §G+25%§! 만큼 더 길어집니다."
+
+### Swap - Individualism ###
+
+tradition_est_individualism:0 "개인주의"
+tradition_est_individualism_desc:0 "개인이 존중받지 못한다면 국가는 그 자체로 아무런 가치가 없습니다."
+tr_est_individualism_adopt:0 "개인주의 전통"
+tr_est_individualism_adopt_desc:0 "$tradition_est_individualism_desc$\n\n$tr_est_individualism_adopt_effect$\n\n$tr_est_individualism_finish_effect$"
+tr_est_individualism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n지도자의 레벨이 상승하면, £influence  §Y통합력§!을 §Y10§! 만큼 받습니다."
+
+tr_est_individualism_1:0 "독창성"
+tr_est_individualism_1_desc:0 "§Y과학자 시작 레벨§!이 §Y1§! 만큼 늘어납니다. 추가로 과학자가 300개의 행성을 조사하면 §Y연구 전문화§! 특성을 획득합니다."
+tr_est_individualism_1_delayed:0 "독창적인 이들은 우리 학계에서 존경받습니다."
+
+tr_est_individualism_2:0 "능력주의"
+tr_est_individualism_2_desc:0 "§Y제독 시작 레벨§!이 §Y1§! 만큼 늘어납니다. I추가로 §Y함선 경험치 획득§!이 §G+25%§! 증가합니다."
+tr_est_individualism_2_delayed:0 "우리는 가장 능력 있는 이들을 장교로 승격시킬 것입니다."
+
+tr_est_individualism_3:0 "능력자의 지배"
+tr_est_individualism_3_desc:0 "§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!이 §Y1§! 만큼 늘어납니다. 추가로 £pop_cat_ruler  §Y통치자 POP§!의 §Y정치력§!과 §Y자원 산출량§!이 §G+50%§! 증가합니다."
+tr_est_individualism_3_delayed:0 "가장 능력있는 인물만이 제국을 통치할 수 있습니다."
+
+tr_est_individualism_4:0 "경력 추구"
+tr_est_individualism_4_desc:0 "§Y지도자 유지비§!가 §G-20%§! 만큼 감소하고, §Y$MOD_LEADER_SKILL_LEVELS$§!가 §Y1§! 만큼 증가합니다."
+tr_est_individualism_4_delayed:0 "우리 제국에는 경력을 쌓고자 하는 젊은이들로 가득합니다."
+
+tr_est_individualism_5:0 "개인의 야망"
+tr_est_individualism_5_desc:0 "§Y이주로 인한 성장속도§!가 §G+25%§! 만큼 증가하고 §Y지도자 경험치 획득§!이 §G+20%§! 만큼 더 빨라집니다."
+tr_est_individualism_5_delayed:0 "모든 이들은 그들의 야망 뿐만이 아니라 그것을 이루기 위한 열정 또한 가지고 있습니다."
+
+tr_est_individualism_finish:0 "개인주의 전통 완성"
+tr_est_individualism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_individualism_adopt$을 완성하면 £pop_cat_ruler  §Y지도자 POP§!의 §Y정치력§!과 §Y자원 산출량§!이 §G+50%§! 만큼 증가합니다."
+
+### Swap - Perseverance ###
+tradition_est_perseverance:0 "인내"
+tradition_est_perseverance_desc:0 "고난의 시간입니다. 외부로부터의 침략과 은하계의 비참함이 우리를 괴롭히고 있지만, 우리는 이 시련을 견뎌 낼 것입니다."
+
+tr_est_perseverance_adopt:0 "인내 전통"
+tr_est_perseverance_adopt_desc:0 "$tradition_est_perseverance_desc$\n\n$tr_est_perseverance_adopt_effect$\n\n$tr_est_perseverance_finish_effect$"
+tr_est_perseverance_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HITPOINTS_MULT$§!와 §Y$MOD_ARMY_HEALTH$§!가 §G+10%§! 만큼 증가합니다."
+
+tr_est_perseverance_adopt_machines:0 "인내 전통"
+tr_est_perseverance_adopt_machines_desc:0 "$tradition_est_perseverance_desc$\n\n$tr_est_perseverance_adopt_effect$\n\n$tr_est_perseverance_finish_machines_effect$"
+
+tr_est_perseverance_1:0 "탄력성"
+tr_est_perseverance_1_desc:0 "§Y$MOD_SHIP_ARMOR_MULT$§!이 §G+15%§! 만큼 증가합니다. 또한, §Y궤도 폭격 피해량§!이 §G-60%§! 만큼 감소합니다.(£building  §Y$building_planetary_shield_generator$§!이 건설된 행성은 §G-15%§! 만큼만 감소합니다.)"
+tr_est_perseverance_1_delayed:0 "우리의 적들은 우리를 파멸시키려 할 것입니다. 하지만 그 어떠한 시련에도, 우리는 무너지지 않을 것입니다."
+
+tr_est_perseverance_2:0 "고집"
+tr_est_perseverance_2_desc:0 "§Y$MOD_SHIP_SPEED_MULT$§!가 §G+15%§! 만큼 빨라집니다."
+tr_est_perseverance_2_delayed:0 "그 어떠한 수난도 우리는 피하지 않을 것입니다. 흔들리지 않을 것입니다. 우리는 일단 결정을 내리면 주저하거나 망설이지 않고 해야 할 일을 할 것입니다."
+
+tr_est_perseverance_3:0 "방어자"
+tr_est_perseverance_3_desc:0 "§Y최대 방어 플랫폼 갯수§!가 §G3§!개 만큼 많아지고, §Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§!가 §G+25%§! 만큼 증가합니다."
+tr_est_perseverance_3_delayed:0 "공격적인 전술은 가끔은 이기겠지요. 아주 가끔은 전쟁을 승리로 이끌 수 있을 것입니다. 하지만 오직 튼튼히 요새화된 국경선만이 우리 제국을 세월의 풍파에서 견디게 해줄 것입니다."
+
+tr_est_perseverance_4:0 "끝없는 인내"
+tr_est_perseverance_4_desc:0 "§Y전쟁 피로도 획득§!량이 §G-25%§! 만큼 감소합니다."
+tr_est_perseverance_4_delayed:0 "이것 또한 지나가리라."
+
+tr_est_perseverance_5:0 "보복주의"
+tr_est_perseverance_5_desc:0 "§Y경쟁자§!로 인한 £influence  §Y영향력 획득§!량이  §G+10%§! 만큼 더 증가하고, 우리가 전쟁에서 패배하면 §Y20§!년 동안 §Y자원 산출량§!과 §Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+10%§! 만큼 증가합니다."
+tr_est_perseverance_5_delayed:0 "강인한 자가 나약한 자와 다른 점은 패배에서 포기하지 않는 것입니다."
+
+tr_est_perseverance_5_no_rivals:0 "$tr_est_perseverance_5$"
+tr_est_perseverance_5_no_rivals_desc:0 "§Y전쟁 피로도 획득§!량이 §G-5%§! 만큼 감소합니다. 또한, 우리가 전쟁에서 패배하면 §Y20§!년 동안 §Y자원 산출량§!과 §Y$MOD_SHIP_FIRE_RATE_MULT$§!가 §G+10%§! 만큼 증가합니다."
+tr_est_perseverance_5_no_rivals_delayed:0 "$tr_est_perseverance_5_delayed$"
+
+tr_est_perseverance_finish:0 "인내 전통 완성"
+tr_est_perseverance_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_perseverance_adopt$을 완성하면  §Y$MOD_LEADER_AGE$§!이 §Y25§! 만큼 길어집니다."
+tr_est_perseverance_finish_machines:0 "Perseverance Traditions finished"
+tr_est_perseverance_finish_machines_effect:0 "§E$TRADITIONS_FINISH$:§!\n모든 $tr_est_perseverance_adopt$을 완성하면 §Y$MOD_SHIP_HITPOINTS_MULT$§!가 §G+15%§! 만큼 증가합니다."
+
+
+
+##################################################################################################
+# Leftover Texts - No effect on game, but removes some light warnings when developing mod. Ignore.
+##################################################################################################
+tr_est_shroudborn_2_passive_AI:0 "$tr_est_shroudborn_2$"
+tr_est_hacking_2_passive_AI:0 "$tr_est_hacking_2$"
+tr_est_chivalry_finish_AI:0 "$tr_est_chivalry_finish$"
+tr_est_cybernetics_4_AI:0 "$tr_est_cybernetics_4$"
+tr_est_cybernetics_finish_AI:0 "$tr_est_cybernetics_finish$"
+tr_est_greed_1_AI:0 "$tr_est_greed_1$"
+tr_est_greed_2_AI:0 "$tr_est_greed_2$"
+tr_est_greed_5_AI:0 "$tr_est_greed_5$"
+tr_est_mysticism_adopt_passive_AI:0 "$tr_est_mysticism_adopt$"
+tr_est_piracy_2_AI:0 "$$"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

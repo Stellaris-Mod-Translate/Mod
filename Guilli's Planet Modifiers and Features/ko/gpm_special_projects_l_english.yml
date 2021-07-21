@@ -1,0 +1,91 @@
+﻿l_english:
+ 
+ #### In this file localisation for ####
+ # Unused
+ # Crystal beast event chain
+ # EGO
+ # Not specified
+ #######################################
+ 
+ 
+ 
+ #######################################
+ #### Unused
+ #######################################
+ 
+ 
+ #######################################
+ #### Crystal beast event chain
+ #######################################
+ GPM_CRYSTALINE_BEASTS_RESEARCH:0 "전초기지 건설"
+ GPM_CRYSTALINE_BEASTS_RESEARCH_DESC:0 "[from.GetName]의 탐사대원들이 신비한 수정 동굴에 대한 연구는 몇 달이 걸리지는 않더라도 몇 주는 걸릴 것릴 수 있기 때문에 연구 캠프를 설립할 필요가 있다고 합니다."
+ GPM_CRYSTALIZATION_RESEARCH:0 "수정화 식물 연구"
+ GPM_CRYSTALIZATION_RESEARCH_DESC:0 "우리 탐사대원들은 과학자들을 추가로 불러들여 완전한 연구기지를 마련했습니다. 수정 동굴 주변의 많은 수정 동식물들을 분석하는 과정이 시작될 것입니다."
+ 
+ #######################################
+ #### EGO
+ #######################################
+ EGO_THE_FIRST_VISIT:0 "첫번쨰 방문"
+ EGO_THE_FIRST_VISIT_DESC:0 "우리의 첫 번째 조사는 녹은 행성이 되어야 합니다. 아마도 이것으로 잔해의 양을 설명할 수 있을 것입니다."
+ EGO_THE_SECOND_VISIT:0 "두번째 방문"
+ EGO_THE_SECOND_VISIT_DESC:0 "우리의 두 번째 조사는 우리를 우거진 가이아 행성으로 이끕니다. 그곳에 더 많은 해답이 있기를 바랍니다."
+ 
+ #######################################
+ #### Not specified
+ #######################################
+ GPM_COLONY_SHIP_3:0 "단지 고철 조각이 아닌"
+ GPM_COLONY_SHIP_3_DESC:0 "추락한 우주선 중 인양될 수 있는 것이 있는지 확인합니다."
+ GPM_COLONY_SHIP_4:0 "진실이기엔 너무 좋은"
+ GPM_COLONY_SHIP_4_DESC:0 "우리 공학팀은 근처의 파괴된 함선의 일부를 이용하여 가능한 한 많은 함선을 복구하려고 할 것입니다."
+ gpm_colony_ship_event_chain_title:0 "고철 조각"
+ gpm_colony_ship_event_chain_desc:0 "고대의 추락한 함선으로 뒤덮인 행성에서 인양 작업을 시작할 준비가 되었습니다."
+ 
+ GPM_HUNT_KILL_BOTS:0 "살인로봇 박멸"
+ GPM_HUNT_KILL_BOTS_DESC:0 "숙련된 대-인공지능 병사들로 구성된 정예팀이 아래 행성에서 스텔스 궤도 낙하 후 살인로봇을 모조리 박멸할 것입니다."
+ 
+ GPM_DISCOVERY_EXPEDITION:0 "우리 과학 전문가는 흥미진진한 발견을 하거나 신비를 발견하기를 희망하면서 광범위하고 잠재적으로 위험할 수 있는 과학 탐험을 이끌 것입니다."
+ 
+ GPM_DISCOVERY_TERRAFORM_1:0 "지진 관측 탐사"
+ GPM_DISCOVERY_TERRAFORM_1_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_TERRAFORM_2:0 "토양 샘플 탐사"
+ GPM_DISCOVERY_TERRAFORM_2_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_TERRAFORM_3:0 "핵 채굴 탐사"
+ GPM_DISCOVERY_TERRAFORM_3_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_GAIA:0 "자연 탐사"
+ GPM_DISCOVERY_GAIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_HOLY_PLANET:0 "이상한 행성 과학 탐사"
+ GPM_DISCOVERY_HOLY_PLANET_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_FLOATING_ISLANDS:0 "부유섬 과학 탐사"
+ GPM_DISCOVERY_FLOATING_ISLANDS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_BATTLEFIELD:0 "고대의 전장 과학 탐사"
+ GPM_DISCOVERY_BATTLEFIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_SHIP_GRAVEYARD:0 "함선의 무덤 인양 탐사"
+ GPM_DISCOVERY_SHIP_GRAVEYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ARTIFICIAL_WATER:0 "나노수 표본 채취 탐사"
+ GPM_DISCOVERY_ARTIFICIAL_WATER_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_PLEASURE_PALACE:0 "안드로이드 쾌락 센터 '탐사'"
+ GPM_DISCOVERY_PLEASURE_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ANCIENT_TEMPLE:0 "고대 신전 고고학 탐사"
+ GPM_DISCOVERY_ANCIENT_TEMPLE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_CRYSTAL_MOON_PALACE:0 "수정궁 고고학 탐사"
+ GPM_DISCOVERY_CRYSTAL_MOON_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_PLASMOID_LIFE:0 "플라즈마 생명체 관찰 탐사"
+ GPM_DISCOVERY_PLASMOID_LIFE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_TEMPLE_ANCIENT_ONE:0 "이상한 신전 탐사"
+ GPM_DISCOVERY_TEMPLE_ANCIENT_ONE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_PROTO_FOREST:0 "원시림 과학 탐사"
+ GPM_DISCOVERY_PROTO_FOREST_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_HIVE_WORLD:0 "하이브 월드 고고학 탐사"
+ GPM_DISCOVERY_HIVE_WORLD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ARACHNAPHOBIA:0 "거대 거미 관찰 탐사"
+ GPM_DISCOVERY_ARACHNAPHOBIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_GIANT_WORM:0 "거대 모래 벌레 관찰 탐사"
+ GPM_DISCOVERY_GIANT_WORM_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ARTIFICIAL_CORE:0 "인공 핵 과학 탐사"
+ GPM_DISCOVERY_ARTIFICIAL_CORE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_SURFACE_OF_BONES:0 "표면의 뼈 색인화 탐사"
+ GPM_DISCOVERY_SURFACE_OF_BONES_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ALIEN_EGGS:0 "외계인 알 수집 탐사"
+ GPM_DISCOVERY_ALIEN_EGGS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_MUSHROOM_FORESTS:0 "버섯 숲 과학 탐사"
+ GPM_DISCOVERY_MUSHROOM_FORESTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"

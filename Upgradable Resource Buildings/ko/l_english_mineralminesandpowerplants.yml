@@ -1,0 +1,20 @@
+﻿l_english:
+ 
+ mineralminesandpowerplants_building_strip_mine:0 "광산"
+ mineralminesandpowerplants_building_strip_mine_desc:0 "전문 광물 채굴 시설을 통해 우리 광부들이 주요 채굴 구역에서 멀리 떨어진 광물이 풍부한 외딴 지역에 접근할 수 있도록 해줍니다."
+
+ mineralminesandpowerplants_building_power_plant:0 "발전소"
+ mineralminesandpowerplants_building_power_plant_desc:0 "발전소는 1차 발전 구역에서 멀리 떨어진 지역의 높은 에너지원을 활용하여 주 전력망에 연결합니다."
+
+ building_hydroponics_farm_2:0 "선진 수경재배소"
+ building_hydroponics_farm_2_desc:0 "농업 기술의 발전은 우리 농부들이 제한된 표면적 공간만을 사용하여 많은 양의 식량을 효율적으로 재배할 수 있게 합니다." 
+ 
+ building_powerplant_2:0 "선진 발전소"
+ building_powerplant_2_desc:0 "최첨단 현장 조작 기술을 적용한 발전소는 거의 모든 행성과 대부분의 지형에서 안전하게 에너지를 활용할 수 있습니다." 
+ 
+ building_mineralmines_2:0 "선진 광산"
+ building_mineralmines_2_desc:0 "행성 지각 깊숙한 곳의 시추기을 파고 행성 내핵에 광산 폐기물을 쌓음으로써 우리 광부들은 생태계 파괴를 일으키지 않고 거주 가능한 행성의 모든 가용 광물에 접근 할 수 있습니다."
+
+ tech_hydroponics_2:0 "수직 농업"
+ tech_hydroponics_2_desc:0 "진보된 수경 재배 시설은 수직으로 쌓인 층에 작물을 심어 아주 적은 공간을 사용하여 방대한 양의 식량을 재배 할 수 있습니다."
+ 

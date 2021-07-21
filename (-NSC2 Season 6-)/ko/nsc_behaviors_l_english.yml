@@ -1,0 +1,70 @@
+﻿l_english:
+
+
+##################################################################################################################################################################################################################
+### ADVANCED BEHAVIORS ###
+##########################
+
+ai_behaviour:0 "전투 인공지능 전술"
+ai_behaviour_DESC:0 "전투 인공지능 전술 슬롯입니다."
+
+ai_behaviour_default:0 "기본 전술"
+ai_behaviour_default_DESC:0 "바닐라 전투 컴퓨터와 함께 작동하도록, 기존에 설정된 전술 양식을 사용합니다.\n\n§G사용 방법:§! §B위쪽 슬롯에서 바닐라 전투 컴퓨터를 사용하고 고급 전술을 사용하지 않는다면 이 전투행동을 선택하십시오. 이 함종에 고급 전술을 사용하려면 먼저 위쪽 슬롯의 바닐라 컴퓨터를 선택한 후 이 슬롯에서 전투행동을 선택하십시오.§!\n\n"
+
+ai_behaviour_follow:0 "호위 전술"
+ai_behaviour_follow_DESC:0 "이 함선은 다른 함선을 뒤따라갈 것입니다. 균형잡힌 기본 전술 양식입니다."
+
+ai_behaviour_charge:0 "돌격 전술"
+ai_behaviour_charge_DESC:0 "이 함선은 가능한 한 적 함대에 가까이 접근해 가까운 거리에서 교전할 것입니다."
+
+ai_behaviour_stationary_40:0 "포격 전술 (거리: 40)"
+ai_behaviour_stationary_40_DESC:0 "함선은 일정 거리(40)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_50:0 "포격 전술 (거리: 50)"
+ai_behaviour_stationary_50_DESC:0 "함선은 일정 거리(50)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_60:0 "포격 전술 (거리: 60)"
+ai_behaviour_stationary_60_DESC:0 "함선은 일정 거리(60)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_70:0 "포격 전술 (거리: 70)"
+ai_behaviour_stationary_70_DESC:0 "함선은 일정 거리(70)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_80:0 "포격 전술 (거리: 80)"
+ai_behaviour_stationary_80_DESC:0 "함선은 일정 거리(80)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_90:0 "포격 전술 (거리: 90)"
+ai_behaviour_stationary_90_DESC:0 "함선은 일정 거리(90)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_100:0 "포격 전술 (거리: 100)"
+ai_behaviour_stationary_100_DESC:0 "함선은 일정 거리(100)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_110:0 "포격 전술c (거리: 110)"
+ai_behaviour_stationary_110_DESC:0 "함선은 일정 거리(110)를 유지하며 적을 항해 포격할 것입니다."
+ai_behaviour_stationary_120:0 "포격 전술 (거리: 120)"
+ai_behaviour_stationary_120_DESC:0 "함선은 일정 거리(120)를 유지하며 적을 항해 포격할 것입니다."
+
+ai_behaviour_stationary_200:0 "후방 지원 전술 (거리: 200)"
+ai_behaviour_stationary_200_DESC:0 "함선은 일정 거리(200)를 유지할 것입니다. \n알림: 이 설정을 사용할 경우 함선은 일반적인 무기 사거리 밖에 떨어져 적의 사격 범위에 벗어난 채로 전투에 참여하지 않도록 할 것입니다. 가능한 한 전투에 참가하면 안되는 함선에 적합합니다."
+
+ai_behaviour_flank_40:0 "측면 전술 (40)"
+ai_behaviour_flank_40_DESC:0 "함선은 일정 거리(40)를 유지하며 사격함과 동시에 적 주변을 선회할 것입니다."
+ai_behaviour_flank_60:0 "측면 전술 (60)"
+ai_behaviour_flank_60_DESC:0 "함선은 일정 거리(60)를 유지하며 사격함과 동시에 적 주변을 선회할 것입니다."
+ai_behaviour_flank_80:0 "측면 전술 (80)"
+ai_behaviour_flank_80_DESC:0 "함선은 일정 거리(80)를 유지하며 사격함과 동시에 적 주변을 선회할 것입니다."
+ai_behaviour_flank_100:0 "측면 전술 (100)"
+ai_behaviour_flank_100_DESC:0 "함선은 일정 거리(100)를 유지하며 사격함과 동시에 적 주변을 선회할 것입니다."
+
+ai_behaviour_hitnrun_40:0 "타격 후 이탈 전술 (40)"
+ai_behaviour_hitnrun_40_DESC:0 "함선은 일정 거리(40)로 이동해 공격한 후 다음 공격 전까지 뒤로 물러섭니다."
+ai_behaviour_hitnrun_60:0 "타격 후 이탈 전술 (60)"
+ai_behaviour_hitnrun_60_DESC:0 "함선은 일정 거리(60)로 이동해 공격한 후 다음 공격 전까지 뒤로 물러섭니다."
+ai_behaviour_hitnrun_80:0 "타격 후 이탈 전술 (80)"
+ai_behaviour_hitnrun_80_DESC:0 "함선은 일정 거리(80)로 이동해 공격한 후 다음 공격 전까지 뒤로 물러섭니다."
+ai_behaviour_hitnrun_100:0 "타격 후 이탈 전술 (100)"
+ai_behaviour_hitnrun_100_DESC:0 "함선은 일정 거리(100)로 이동해 공격한 후 다음 공격 전까지 뒤로 물러섭니다."
+
+NOAI_COMBAT_COMPUTER_1:0 "기본 전투 컴퓨터 (No AI)"
+NOAI_COMBAT_COMPUTER_2:0 "최적화된 전투 컴퓨터 (No AI)"
+NOAI_COMBAT_COMPUTER_3:0 "개선된 전투 컴퓨터 (No AI)"
+NOAI_COMBAT_COMPUTER_4:0 "지각 전투 컴퓨터 (No AI)"
+NOAI_COMBAT_COMPUTER_5:0 "예지 접속기 (No AI)"
+
+NOAI_COMBAT_COMPUTER_1_DESC:0 "다양한 전술 기동 능력을 보유한 기본 전투 컴퓨터입니다. 아래 슬롯에서 행동 양식을 선택하십시오."
+NOAI_COMBAT_COMPUTER_2_DESC:0 "다양한 전술 기동 능력을 보유한 최적화된 전투 컴퓨터입니다. 아래 슬롯에서 행동 양식을 선택하십시오."
+NOAI_COMBAT_COMPUTER_3_DESC:0 "다양한 전술 기동 능력을 보유한 개선된 전투 컴퓨터입니다. 아래 슬롯에서 행동 양식을 선택하십시오."
+NOAI_COMBAT_COMPUTER_4_DESC:0 "다양한 전술 기동 능력을 보유한 지각 전투 컴퓨터입니다. 아래 슬롯에서 행동 양식을 선택하십시오."
+NOAI_COMBAT_COMPUTER_5_DESC:0 "다양한 전술 기동 능력을 보유한 예지 접속기. 아래 슬롯에서 행동 양식을 선택하십시오."

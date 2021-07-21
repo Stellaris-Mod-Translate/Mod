@@ -1,0 +1,32 @@
+﻿ l_english:
+ 
+ must_be_habitable:2 "목표는 §Y거주적합§! 행성이어야 함"
+ 
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_DIGEST:0 "행성 포식 $PLANET|Y$"
+ 
+ 
+ PLANET_KILLER_DIGEST:0 "행성 포식자"
+ PLANET_KILLER_DIGEST_ACTION:0 "행성 포식"
+ PLANET_KILLER_DIGEST_DESC:0 "이 괴수는 치명적인 박테리아와 각종 효소를 잔뜩 포함하고 있는 뜨거운 액체를 행성의 대기층에 살포합니다. 이 액체는 행성에 있는 모든 가용 가능한 물질을 분해하고 추출... 즉, '소화'합니다. 살아 있든 죽어 있든, 행성 표면에 있는 모든 유기물과 무기물들은 좀 더 '쓸모 있는' 자원으로 분해될 것입니다."
+ apoc.110.digest.tooltip:0 "§R행성 파괴 무기 §!:\n§L$PLANET_KILLER_DIGEST_DESC$§!"
+ tech_pk_digest:0 "행성 소화자"
+ tech_pk_digest_desc:0 ""
+ get1stplanetkiller_digester:0 ""
+ 
+ MESSAGE_DESC_FOR_PLANET_KILLER_DIGEST:0 "에 의해 완전히 포식되었습니다."
+ 
+ d_food_1:0 "£food£ +1"
+ d_food_2:0 "£food£ +2"
+ d_food_3:0 "£food£ +3"
+ d_food_4:0 "£food£ +4"
+ d_food_5:0 "£food£ +5"
+ d_food_6:0 "£food£ +6"
+ d_food_7:0 "£food£ +6"
+ d_food_8:0 "£food£ +8"
+ d_food_9:0 "£food£ +9"
+ d_food_10:0 "£food£ +10"
+ 
+ 
+ planet_destruction_digest.2.name:0 "행성 소화됨"
+ planet_destruction_digest.2.desc:0 "[From.From.GetName]의 대기상에  각종 소화 효소와 강력한 박테리아 한가득 들어 있는 덩어리들을  배포하는 과정을 완료했습니다.\n\n박테리아는 행성 표면에 있는 거의 모든 것 : 바다, 식물, 동물, 금속, 유기 생물,  기계를 전부 다 소화할 것입니다. 이제 [From.GetName]은 정제된 형태로 가득히 쌓여서 수확할 준비가 완료된 자원의 산을 빼곤 아무것도 존재하지 않는 황량한 불모의 행성이 될 것입니다."
+ planet_destruction_digest.2.a:0 "잘 먹겠습니다!"

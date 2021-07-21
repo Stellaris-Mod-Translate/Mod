@@ -1,0 +1,24 @@
+﻿l_english:
+
+ PERDITION_BEAM_ION_DESC:0 "$PERDITION_BEAM_DESC$"
+
+ PERDITION_CANNON:0 "천벌 캐논"
+ PERDITION_CANNON_2:0 "징벌 캐논"
+ PERDITION_CANNON_3:0 "박멸 캐논" 
+
+ PERDITION_CANNON_DESC:0 "가장 무거운 질량 에너지 포탄을 발사하여 적의 방어막를 파괴하는 거대한 운동에너지 포입니다."
+ PERDITION_CANNON_2_DESC:0 "거대한 하이퍼 필드 기술을 통해 이 거대한 대포는 초 고밀도 슬러그를 발사하여 일격에 적을 제거 할 수 있습니다."
+ PERDITION_CANNON_3_DESC:0 "궁극의 운동에너지 포. 이 대포는 순수한 거대한 운동 에너지로 구성된 양자-중력자 초중탄두를 발사하여 앞길을 막는 모든 것을 박멸합니다."
+
+ PERDITION_CANNON_TITAN:0 "$PERDITION_CANNON$"
+ PERDITION_CANNON_TITAN_2:0 "$PERDITION_CANNON_2$"
+ PERDITION_CANNON_TITAN_3:0 "$PERDITION_CANNON_3$"
+
+ PERDITION_CANNON_ION:0 "$PERDITION_CANNON$"
+ PERDITION_CANNON_ION_DESC:0 "$PERDITION_CANNON_DESC$"
+
+ tech_perdition_cannon_2:0 "$PERDITION_CANNON_2$"
+ tech_perdition_cannon_3:0 "$PERDITION_CANNON_3$"
+
+ tech_perdition_cannon_2_desc:0 "$PERDITION_CANNON_2_DESC$"
+ tech_perdition_cannon_3_desc:0 "$PERDITION_CANNON_3_DESC$"

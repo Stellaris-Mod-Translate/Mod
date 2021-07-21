@@ -1,0 +1,18 @@
+﻿l_english:
+ ####################################
+ # jobs
+ ####################################
+ job_oparchivist:0 "기록 보관소 연구원"
+ job_oparchivist_plural:0 "기록 보관소 연구원"
+ job_oparchivist_desc:0 "기록 보관소 연구원은 사회가 신성시하는 위대한 것, 지식의 보존에 삶을 헌신하며 살아갑니다. 이들의 지위는 유명인, 혹은 성자에 가깝습니다."
+ job_oparchivist_effect_desc:0 "£job_oparchivist£ $job_oparchivist_plural$은 §Y$연구$§!를 생산합니다."
+ mod_job_oparchivist_add:0 "$job_oparchivist$ 직업"
+ mod_job_oparchivist_per_pop:0 "$VALUE$ POP당 §G+1§! $job_oparchivist$ 직업"
+ mod_job_oparchivist_per_pop_short:0 "\n$VALUE$ £pop당 §G+1§! £mod_job_oparchivist_add£" 
+ job_opvaulter:0 "금고지기"
+ job_opvaulter_plural:0 "금고지기"
+ job_opvaulter_desc:0 "금고에서 귀중한 발견을 가지고 돌아오는 고도로 훈련된 전문가입니다."
+ job_opvaulter_effect_desc:0 "£job_opvaulter£ $job_opvaulter_plural$는 £energy£ §Y에너지§!를 사용해 £volatile_motes£ £exotic_gases£ £rare_crystals£ §Y$전략자원$§!을 생산합니다."
+ mod_job_opvaulter_add:0 "$job_opvaulter$ 직업"
+ mod_job_opvaulter_per_pop:0 "$VALUE$ POP마다 §G+1§! $job_opvaulter$ 직업"
+ mod_job_opvaulter_per_pop_short:0 "\n$VALUE$ £pop마다 §G+1§! £mod_job_opvaulter_add£"

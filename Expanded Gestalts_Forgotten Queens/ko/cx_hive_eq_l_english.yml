@@ -1,0 +1,51 @@
+﻿ l_english:
+ job_queen_drone:0 "무리 여왕"
+ job_queen_drone_desc:0 "무리 여왕은 지도자가 아닌 군체의 산란을 담당합니다. 높은 지능으로 자립심을 가진 그녀는 드론들을 지배해 식민지를 불안정하게 하고 행성을 장악할려고 노력할 것입니다."
+ district_hollow_housing:0 "땅굴망 소굴"
+ district_hollow_housing_desc:0 "많은 드론을 수용하고 행성의 자원을 채취하기 위한 광대한 땅굴망입니다."
+ district_hollow_housing_plural:0 "땅굴망 소굴"
+ district_queen_den:0 "산란 소굴"
+ district_queen_den_desc:0 "전문적인 지식에 따른 복합 드론의 철저한 과학적 관리를 통해, 이 지하의 산란방에서는 우리의 산란자와 신경망을 자극하여 빠른 번식이 이루어질 수 있습니다"
+ district_queen_den_plural:0 "산란 소굴"
+ district_subterranean_network:0 "지옥단조 소굴"
+ district_subterranean_network_desc:0 "이 소굴은 행성의 가장 깊은 곳에 위치해 있습니다. 드론무리의 울음소리, 통로 곳곳에서 새어나오는 마그마로 가득찬 이 곳은 지옥과 닮았습니다."
+ district_subterranean_network_plural:0 "지옥단조 소굴"
+ district_soldier_den:0 "병정 소굴"
+ district_soldier_den_desc:0 "병정굴에는 군체의 가장 가공할만한 구성원들이 거주하고 있습니다."
+ district_soldier_den_plural:0 "병정 소굴"
+ mod_job_queen_drone_add:0 "무리 여왕 직업"
+ job_queen_drone_plural:0 "무리 여왕"
+ job_queen_drone_effect_desc:0 "무리 여왕은 §H성장률§을 증가시키지만, 행성의 안정도를 떨어트립니다"
+ 
+ 
+ trait_pc_hollow_preference:0 "땅굴 행성 선호"
+ trait_pc_hollow_preference_desc:0 "§L기후 선호도는 영겁의 진화와 설계 혹은 또는 잘 만들어진 유전자 조작에 의해 결정됩니다.§!"
+ mod_pc_hollow_habitability:0 "땅굴 행성 적합도"
+ 
+ 
+ 
+ mod_planet_refiners_exotic_gases_produces_add: "$job_gas_refiner_drone_plural$이 생산하는 $exotic_gases$"
+ mod_planet_translucers_rare_crystals_produces_add: "$job_translucer_drone_plural$이 생산하는 $rare_crystals$"
+ mod_planet_chemists_volatile_motes_produces_add: "$job_chemist_drone_plural$이 생산하는 $volatile_motes$ "
+ 
+ ap_hollow_project:0 "행성 공동화 프로젝트"
+ ap_hollow_project_desc:1 "그 어떤 설계도나 지도자도 필요 없다. 우리는 행성의  알맹이 하나하나까지 직접 옮겨 복잡한 땅굴로 가득한 행성을 창조할 것이다."
+ allow_hollow_project:0 "§H결정 잠금해제:§! $ap_hollow_project$"
+ decision_hollow_project:0 "$ap_hollow_project$"
+ decision_hollow_project_effects:1 "행성의 천연자원이 §R이용 불가능§!해지는 것의 대가로, 행성을 §Y$pc_hollow$§!으로 바꾸고, £housing£ §Y$PLANET_HOUSING_TITLE$§!, §Y자원 생산§! 그리고 §YPOP 성장§!을 증가시키며, 특별한 £district£ §Y땅굴 지구§!를 잠금해제합니다. £district£ §Y발전§!, §Y채굴§! 그리고 §Y농업지구§!의 추가적인 건설은 불가능합니다."
+ decision_hollow_project_effects_short:2 "£housing£ §Y$PLANET_HOUSING_TITLE$§!, §Y자원 생산§! 그리고 §YPOP 성장§! 증가\n£district£ §Y땅굴 지구§! 사용 가능\n£district£ §Y발전§!, §Y채굴§! 그리고 §Y농업지구§! 건설 불가"
+ decision_hollow_project_requirements:0 "£trigger_no£ §R행성의 모든 지구 슬롯이 §Y$district_hive_plural$§!로 채워져 있어야 함§!"
+ decision_hollow_project_desc:1 "그 어떤 설계도나 지도자도 필요 없다. 우리는 행성의  알맹이 하나하나까지 직접 옮겨 복잡한 땅굴로 가득한 행성을 창조할 것이다."
+ 
+ 
+ pc_hollow:0 "땅굴 행성"
+ pc_hollow_desc:0 "땅굴망이 행성의 지각 구석구석과 맨틀 상당 부분을 가로지르는 행성입니다. 행성의 외핵은 지하 깊숙히 생명체가 거주할 수 있게 해주는 열원과 에너지원이 되어줍니다."
+ 
+ 
+ eq.200.name:0 "§H땅굴화§!: [Root.GetName] 파내짐"
+ eq.200.desc:0 "맨틀까지 뻗어있는 웅장한 땅굴들이 행성의 지각을 완전히 덮었습니다.\n\n이 웅장한 계획의 시작 이래로 불과 몇 년이 지났을 뿐이지만, [Root.GetName]의 원래 지표면을 기억하는 것은 이미 어려운 일입니다. 수목? 바위 투성이? 이제는 사방이 오로지 흙더미와 땅굴 뿐입니다.\n\n한 때 이곳은 우연과 지각없는 자연의 법칙으로 형성된 곳이었습니다. 그러나 이제는 불굴의 결단으로 재창조되었습니다."
+ eq.200.a:0 "우리는 파내었다."
+ 
+ 
+ decision_prospect_hollow:0 "$decision_prospect$"
+ decision_prospect_hollow_desc:0 "$decision_prospect_desc$"

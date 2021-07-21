@@ -1,0 +1,523 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###          Auxiliary Slots         ###
+########################################
+
+NHSC_REPAIR_DRONES: "수리 드론"
+NHSC_REPAIR_DRONES_DESC: "긴급 선체 복구용 무인 드론"
+
+NHSC_ADV_SHIELD_RECHARGER: "고급 보호막 축전기"
+NHSC_ADV_SHIELD_RECHARGER_DESC: "기존 모델보다 훨씬 빠르게 보호막을 재생성하는 신형 보호막 축전기"
+
+NHSC_BLUE_CRYSTAL_CAPACITOR: "결정 주입 보호막 축전기"
+NHSC_BLUE_CRYSTAL_CAPACITOR_DESC: "$nhsc_tech_crystal_infused_capacitor_desc$"
+
+NHSC_RED_CRYSTAL_CAPACITOR: "결정 단조 보호막 축전기"
+NHSC_RED_CRYSTAL_CAPACITOR_DESC: "$nhsc_tech_crystal_infused_capacitor_desc$"
+
+NHSC_STELLARITE_POWER_CORE: "항성 포식자 파워 코어"
+NHSC_STELLARITE_POWER_CORE_DESC: "소립자를 에너지로 전환시키는 항성 포식자의 심장을 기반으로 한 반 유기 엔진"
+
+NHSC_STANDARDIZED_WARHEADS: "표준 탄두"
+NHSC_STANDARDIZED_WARHEADS_DESC: "미사일 탄두의 표준화로 위력을 향상시킴과 동시에 고장률을 최소화할 수 있었습니다."
+
+NHSC_PSI_REINFORCEMENT: "사이오닉 강화"
+NHSC_PSI_REINFORCEMENT_DESC: "선체 안정성 강화를 위해 승무원의 사이오닉 에너지를 주입합니다."
+
+NHSC_AFTERBURNER_3: "플라즈마 펄스 애프터버너"
+NHSC_AFTERBURNER_3_DESC: "성능과 연비를 개선한 애프터버너 세트"
+
+NHSC_REACTOR_BOOSTER_4: "보조 영점 반응로"
+NHSC_REACTOR_BOOSTER_4_DESC: "함선에 추가적인 동력을 제공하는 보조 발전기"
+
+NHSC_REACTOR_BOOSTER_5: "보조 특이점 반응로"
+NHSC_REACTOR_BOOSTER_5_DESC: "$NHSC_REACTOR_BOOSTER_4_DESC$"
+
+NHSC_ADV_AUX_FIRE_CONTROL: "고급 사격 통제 장치"
+NHSC_ADV_AUX_FIRE_CONTROL_DESC: "이 보조 컴퓨터는 정밀한 화기관제 체계를 제공합니다."
+
+NHSC_STRUCTURAL_REINFORCEMENT: "선체 강화"
+NHSC_STRUCTURAL_REINFORCEMENT_DESC: "약간의 장갑을 소모해 설계한 더 안정적인 선체 구조"
+
+NHSC_PRECURSOR_ARMS_ENHANCER: "선구자 무기 증폭 체계"
+NHSC_PRECURSOR_ARMS_ENHANCER_DESC: "고대 문명이 무기 성능을 향상시키기 위해 고안한 특별한 암흑 물질 원자로"
+
+########################################
+###           Strikecrafts           ###
+########################################
+
+NHSC_FIGHTERS_HANGAR_4: "전술 요격기"
+NHSC_FIGHTERS_HANGAR_4_DESC: "차세대 요격기는 모든 조건에서 최고의 성능을 발휘하도록 조정되었습니다."
+NHSC_BOMBERS_HANGAR_4: "전술 폭격기"
+NHSC_BOMBERS_HANGAR_4_DESC: "차세대 폭격기는 모든 조건에서 최고의 성능을 발휘하도록 조정되었습니다."
+
+NHSC_FIGHTERS_HANGAR_5: "공성 요격기"
+NHSC_FIGHTERS_HANGAR_5_DESC: "궁극의 요격기"
+NHSC_BOMBERS_HANGAR_5: "공성 폭격기"
+NHSC_BOMBERS_HANGAR_5_DESC: "궁극의 폭격기"
+
+NHSC_CYBER_AMOEBA: "사이버네틱 아메바"
+NHSC_CYBER_AMOEBA_DESC: "인공 두뇌 임플란트를 특별히 사육된 아메바에 삽입함으로써 더 강하고 지능적인 전투기로 만들 수 있습니다."
+
+NHSC_RAVAGING_SWARMERS: "포식자 떼"
+NHSC_RAVAGING_SWARMERS_DESC: "이 무리는 은하계의 가장 악랄한 유기체 전투기가 되기 위해 특수한 훈련과 약물을 주입받았습니다."
+
+NHSC_MERCENRY_HANGAR_1: "용병 부대"
+NHSC_MERCENRY_HANGAR_1_DESC: "크레딧을 위해 싸우는 우주 유랑민. 군인으로서의 명예는 없지만 싸고 효과적입니다."
+
+NHSC_MERCENRY_HANGAR_2: "정예 용병 부대"
+NHSC_MERCENRY_HANGAR_2_DESC: "일반 용병 부대보다 비용이 많이 들지만 이 숙련된 조종사는 경험과 더불어 최적화된 전투기를 보유하고 있습니다."
+
+NHSC_SWARM_STRIKE_CRAFT_1: "군단 타격기"
+NHSC_SWARM_STRIKE_CRAFT_1_DESC: "복제된 소형 프레소린 견본을 우리가 함대 통신에 사용하는 파장과 비슷한 주파수를 통해 제어하여 효과적인 타격기로 사용할 수 있습니다."
+
+########################################
+###         Special Resources        ###
+########################################
+
+esc_psionic_charge: "사이오닉 전하"
+esc_psionic_charge_plural: "$esc_psionic_charge$"
+esc_psionic_charge_desc: "정신 기술에 필수적인 안정화된 사이오닉 에너지 소용돌이"
+
+esc_gravitic_anomaly: "변동 중력원"
+esc_gravitic_anomaly_desc: "군용 중력 변칙 발생기"
+
+esc_living_crystal: "생체 크리스탈"
+esc_living_crystal_desc: "크리스탈 객체를 구성하는 모방한 반 유기 결정질"
+
+esc_transdimensional_vortex: "다차원 와류"
+esc_transdimensional_vortex_desc: "이차원에서의 에너지. 이게 문제를 일으키지 않기를 빌자..."
+
+esc_enigmatic_energy: "수수께끼 에너지"
+esc_enigmatic_energy_desc: "수수께끼 요새에서 사용된 동력의 재현품"
+
+########################################
+###               Jobs               ###
+########################################
+
+job_esc_crystal_farmer: "크리스탈 농부"
+job_esc_crystal_farmer_plural: "크리스탈 농부"
+mod_job_esc_crystal_farmer_add: "$job_esc_crystal_farmer$"
+job_esc_crystal_farmer_desc: "이 노동자는 소량의 합금 뿐만 아니라 생체 크리스탈 역시 생산하는 크리스탈 농장에서 일합니다."
+job_esc_crystal_farmer_drone: "크리스탈 농부 드론"
+job_esc_crystal_farmer_drone_plural: "크리스탈 농부 드론"
+mod_job_esc_crystal_farmer_drone_add: "$job_esc_crystal_farmer_drone$"
+job_esc_crystal_farmer_drone_desc: "이 단순 드론은 소량의 합금 뿐만 아니라 생체 크리스탈 역시 생산하는 크리스탈 농장에서 일합니다."
+job_esc_crystal_farmer_unit: "크리스탈 농부 개체"
+job_esc_crystal_farmer_unit_plural: "크리스탈 농부 개체"
+mod_job_esc_crystal_farmer_unit_add: "$job_esc_crystal_farmer_unit$"
+job_esc_crystal_farmer_unit_desc: "$job_esc_crystal_farmer_drone_desc$"
+
+job_esc_channeller: "채널러"
+job_esc_channeller_plural: "채널러"
+mod_job_esc_channeller_add: "$job_esc_channeller$"
+job_esc_channeller_desc: "이 전문가 집단은 사이오닉 격리를 통해 에너지의 흐름을 조작하여 사이오닉 전하를 생산합니다."
+job_esc_channeller_drone: "채널러 드론"
+job_esc_channeller_drone_plural: "채널러 드론"
+mod_job_esc_channeller_drone_add: "$job_esc_channeller_drone$"
+job_esc_channeller_drone_desc: "이 복잡 드론은 군체가 생산한 사이오닉 에너지를 사이오닉 전하로 저장합니다."
+
+job_esc_gravity_manipulator: "중력 조정자"
+job_esc_gravity_manipulator_plural: "중력 조정자"
+mod_job_esc_gravity_manipulator_add: "$job_esc_gravity_manipulator$"
+job_esc_gravity_manipulator_desc: "이 전문가 집단은 변동중력원을 생산하기 위한 중력자 콘덴서를 관리합니다."
+job_esc_gravity_manipulator_drone: "중력 조정 드론"
+job_esc_gravity_manipulator_drone_plural: "중력 조정 드론"
+mod_job_esc_gravity_manipulator_drone_add: "$job_esc_gravity_manipulator_drone$"
+job_esc_gravity_manipulator_drone_desc: "이 복잡 드론은 변동중력원을 생산하기 위한 중력자 콘덴서를 관리합니다."
+job_esc_gravity_manipulator_unit: "중력 조정 개체"
+job_esc_gravity_manipulator_unit_plural: "중력 조정 개체"
+mod_job_esc_gravity_manipulator_unit_add: "$job_esc_gravity_manipulator_unit$"
+job_esc_gravity_manipulator_unit_desc: "$job_esc_gravity_manipulator_drone_desc$"
+
+job_esc_dimension_warper: "차원 도약자"
+job_esc_dimension_warper_plural: "차원 도약자"
+mod_job_esc_dimension_warper_add: "$job_esc_dimension_warper$"
+job_esc_dimension_warper_desc: "이 전문가 집단은 다차원 와류를 생산하는 차원의 틈의 작업을 감독합니다."
+job_esc_dimension_warper_drone: "차원 도약 드론"
+job_esc_dimension_warper_drone_plural: "차원 도약 드론"
+mod_job_esc_dimension_warper_drone_add: "$job_esc_dimension_warper_drone$"
+job_esc_dimension_warper_drone_desc: "이 복잡 드론은 다차원 와류를 생산하는 차원의 틈의 작업을 감독합니다."
+job_esc_dimension_warper_unit: "차원 도약 개체"
+job_esc_dimension_warper_unit_plural: "차원 도약 개체"
+mod_job_esc_dimension_warper_unit_add: "$job_esc_dimension_warper_unit$"
+job_esc_dimension_warper_unit_desc: "$job_esc_dimension_warper_drone_desc$"
+
+job_esc_enigma_reader: "수수께끼 해석자"
+job_esc_enigma_reader_plural: "수수께끼 해석자"
+mod_job_esc_enigma_reader_add: "$job_esc_enigma_reader$"
+job_esc_enigma_reader_desc: "이 전문가 집단은 수수께끼 에너지를 생산하는 수수께끼 에너지 코일을 연구합니다."
+job_esc_enigma_reader_drone: "수수께끼 해석 드론"
+job_esc_enigma_reader_drone_plural: "Enigma Reader Drones"
+mod_job_esc_enigma_reader_drone_add: "$job_esc_enigma_reader_drone$"
+job_esc_enigma_reader_drone_desc: "이 복잡 드론은 수수께끼 에너지를 생산하는 수수께끼 에너지 코일을 연구합니다.."
+job_esc_enigma_reader_unit: "수수께끼 해석 개체"
+job_esc_enigma_reader_unit_plural: "Enigma Reader Units"
+mod_job_esc_enigma_reader_unit_add: "$job_esc_enigma_reader_unit$"
+job_esc_enigma_reader_unit_desc: "$job_esc_enigma_reader_drone_desc$"
+
+job_esc_nanite_breeder: "나노 물질 사육인"
+job_esc_nanite_breeder_plural: "나노 물질 사육인"
+mod_job_esc_nanite_breeder_add: "$job_esc_nanite_breeder$"
+job_esc_nanite_breeder_desc: "이 전문가 집단은 나노 물질를 생산하는 나노 물질 파운드리에 근무합니다."
+job_esc_nanite_breeder_drone: "나노 물질 사육 드론"
+job_esc_nanite_breeder_drone_plural: "나노 물질 사육 드론"
+mod_job_esc_nanite_breeder_drone_add: "$job_esc_nanite_breeder_drone$"
+job_esc_nanite_breeder_drone_desc: "이 복잡 드론은 나노 물질를 생산하는 나노 물질 파운드리에 근무합니다."
+job_esc_nanite_breeder_unit: "나노 물질 사육 개체"
+job_esc_nanite_breeder_unit_plural: "나노 물질 사육 개체"
+mod_job_esc_nanite_breeder_unit_add: "$job_esc_nanite_breeder_unit$"
+job_esc_nanite_breeder_unit_desc: "$job_esc_nanite_breeder_drone_desc$"
+
+job_esc_reprocessor: "재처리 공장 운영자"
+job_esc_reprocessor_plural: "재처리 공장 운영자"
+mod_job_esc_reprocessor_add: "$job_esc_reprocessor$"
+job_esc_reprocessor_desc: "이 전문가 집단은 재처리 공장의 쓰레기에서 유용한 자원을 뽑아냅니다."
+mod_job_esc_reprocessor_per_pop: "§Y25§! 팝마다 §G+1§! $job_esc_reprocessor$ 직업"
+mod_job_esc_reprocessor_per_pop_short: "\n§Y25§! £pop£ 당 §G+1§! £job_esc_reprocessor£"
+job_esc_reprocessor_drone: "재처리 드론"
+job_esc_reprocessor_drone_plural: "재처리 드론"
+mod_job_esc_reprocessor_drone_add: "$job_esc_reprocessor_drone$"
+job_esc_reprocessor_drone_desc: "이 복잡 드론은 재처리 공장의 쓰레기에서 유용한 자원을 뽑아냅니다."
+mod_job_esc_reprocessor_drone_per_pop: "§Y25§! 팝마다 §G+1§! $job_esc_reprocessor_drone$ 직업"
+mod_job_esc_reprocessor_drone_per_pop_short: "\n§Y25§! £pop£ 당 §G+1§! £job_esc_reprocessor_drone£"
+job_esc_reprocessor_unit: "재처리 개체"
+job_esc_reprocessor_unit_plural: "재처리 개체"
+mod_job_esc_reprocessor_unit_add: "$job_esc_reprocessor_unit$"
+job_esc_reprocessor_unit_desc: "$job_esc_reprocessor_drone_desc$"
+mod_job_esc_reprocessor_unit_per_pop: "§Y25§! 팝마다 §G+1§! $job_esc_reprocessor_unit$ 직업"
+mod_job_esc_reprocessor_unit_per_pop_short: "\n§Y25§! £pop£ 당 §G+1§! £job_esc_reprocessor_unit£"
+
+job_esc_zro_distiller: "지로 증류업자"
+job_esc_zro_distiller_plural: "지로 증류업자"
+mod_job_esc_zro_distiller_add: "$job_esc_zro_distiller$"
+job_esc_zro_distiller_desc: "원재료에서 지로를 추출하는 프로세스의 관리자"
+job_esc_zro_distiller_drone: "지로 증류 드론"
+job_esc_zro_distiller_drone_plural: "지로 증류 드론"
+mod_job_esc_zro_distiller_drone_add: "$job_esc_zro_distiller_drone$"
+job_esc_zro_distiller_drone_desc: "$job_esc_zro_distiller_desc$"
+
+job_esc_dark_matter_shaper: "암흑 물질 생산자"
+job_esc_dark_matter_shaper_plural: "암흑 물질 생산자"
+mod_job_esc_dark_matter_shaper_add: "$job_esc_dark_matter_shaper$"
+job_esc_dark_matter_shaper_desc: "이 전문가 집단은 암흑 물질 생산 시설을 운영하여 제국에 귀중한 자원을 제공합니다."
+job_esc_dark_matter_shaper_drone: "암흑물질 생산 드론"
+job_esc_dark_matter_shaper_drone_plural: "암흑물질 생산 드론"
+mod_job_esc_dark_matter_shaper_drone_add: "$job_esc_dark_matter_shaper_drone$"
+job_esc_dark_matter_shaper_drone_desc: "이 복잡 드론은 암흑 물질 생산 시설을 운영하여 제국에 귀중한 자원을 제공합니다."
+job_esc_dark_matter_shaper_unit: "암흑 물질 생산 개체"
+job_esc_dark_matter_shaper_unit_plural: "암흑 물질 생산 개체"
+mod_job_esc_dark_matter_shaper_unit_add: "$job_esc_dark_matter_shaper_unit$"
+job_esc_dark_matter_shaper_unit_desc: "$job_esc_dark_matter_shaper_drone_desc$"
+
+job_esc_planetary_core_miner: "행성 핵 광부"
+job_esc_planetary_core_miner_plural: "행성 핵 광부"
+mod_job_esc_planetary_core_miner_add: "$job_esc_planetary_core_miner$"
+job_esc_planetary_core_miner_desc: "행성의 맨틀과 핵에서 귀중한 자원을 추출하는 광부"
+job_esc_planetary_core_miner_drone: "행성 핵 채굴 드론"
+job_esc_planetary_core_miner_drone_plural: "행성 핵 채굴 드론"
+mod_job_esc_planetary_core_miner_drone_add: "$job_esc_planetary_core_miner_drone$"
+job_esc_planetary_core_miner_drone_desc: "행성의 맨틀과 핵에서 귀중한 자원을 추출하는 드론"
+job_esc_planetary_core_miner_unit: "행성 핵 채굴 개체"
+job_esc_planetary_core_miner_unit_plural: "행성 핵 채굴 개체"
+mod_job_esc_planetary_core_miner_unit_add: "$job_esc_planetary_core_miner_unit$"
+job_esc_planetary_core_miner_unit_desc: "$job_esc_planetary_core_miner_drone_desc$"
+
+job_esc_borehole_maintainer: "시추공 관리인"
+job_esc_borehole_maintainer_plural: "시추공 관리인"
+mod_job_esc_borehole_maintainer_add: "$job_esc_borehole_maintainer$"
+job_esc_borehole_maintainer_desc: "맨틀 채굴 시설의 시추공이 적절하게 유지되는지 확인하는 전문가 집단. 또한 행성 핵에서 추출할 추가 자원을 선택합니다."
+job_esc_borehole_maintainer_drone: "시추공 관리 드론"
+job_esc_borehole_maintainer_drone_plural: "시추공 관리 드론"
+mod_job_esc_borehole_maintainer_drone_add: "$job_esc_borehole_maintainer_drone$"
+job_esc_borehole_maintainer_drone_desc: "맨틀 채굴 시설의 시추공이 적절하게 유지되는지 확인하는 복잡 드론. 또한 행성 핵에서 추출할 추가 자원을 선택합니다."
+job_esc_borehole_maintainer_unit: "시추공 관리 개체"
+job_esc_borehole_maintainer_unit_plural: "시추공 관리 개체"
+mod_job_esc_borehole_maintainer_unit_add: "$job_esc_borehole_maintainer_unit$"
+job_esc_borehole_maintainer_unit_desc: "$job_esc_borehole_maintainer_drone_desc$"
+
+job_esc_mind_walker: "정신 관리 드론"
+job_esc_mind_walker_plural: "정신 관리 드론"
+mod_job_esc_mind_walker_add: "$job_esc_mind_walker$"
+job_esc_mind_walker_desc: "이 드론은 단일한 정신을 벗어나는 개체들을 다시금 위대한 정신의 품으로 돌아오게 하는 역할을 합니다."
+
+job_esc_network_curator: "연결망 관리 개체"
+job_esc_network_curator_plural: "연결망 관리 개체"
+mod_job_esc_network_curator_add: "$job_esc_network_curator$"
+job_esc_network_curator_desc: "이 복잡 드론은 기계 지능 연결망에서 순환되는 많은 양의 자료를 끝없이 관리하여 모든 개체가 기계 기능의 단일한 목표를 위해 작업하도록 보정합니다."
+
+########################################
+###    Deposits and Tile Blockers    ###
+########################################
+
+d_nhsc_large_borehole_1: "거대 시추공"
+d_nhsc_large_borehole_1_desc: "행성의 맨틀과 핵에서 자원을 추출하기 위해 만들어진 거대한 시추공."
+d_nhsc_large_borehole_2: "확장 $d_nhsc_large_borehole_1$"
+d_nhsc_large_borehole_2_desc: "$d_nhsc_large_borehole_1_desc$"
+
+########################################
+###              Edicts              ###
+########################################
+
+edict_nhsc_mega_construction: "거대 건축 계획"
+edict_nhsc_mega_construction_desc: "인력을 필요한 곳에 재배분함으로써 비용을 절감하면서 놀라운 성과를 달성할 수 있습니다."
+
+edict_nhsc_millennium_project: "밀레니엄 계획"
+edict_nhsc_millennium_project_desc: "거대 건축물은 우리 공학 기술의 가장 큰 업적입니다. 그것의 건축에 어떤 방해도 있어서는 안됩니다."
+
+edict_nhsc_mod_control_edict: "ESC 3.0 설정 메뉴"
+edict_nhsc_mod_control_edict_desc: "ESC 3.0의 설정을 변경합니다."
+edict_nhsc_mod_control_edict2: "$edict_nhsc_mod_control_edict$"
+edict_nhsc_mod_control_edict2_desc: "$edict_nhsc_mod_control_edict_desc$"
+
+edict_nhsc_edict_living_crystal_trading: "생체 크리스탈 거래"
+edict_nhsc_edict_living_crystal_trading_desc: "다량의 보석급 생체 크리스탈을 민간 시장에 판매함으로써 제국 전역의 사치품 생산을 촉진할 수 있습니다."
+
+edict_nhsc_edict_living_crystals_extractors: "생체 크리스탈 추출"
+edict_nhsc_edict_living_crystals_extractors_desc: "추출 패턴에 생체 크리스탈을 통합함으로써 채굴 속도를 상당히 높일 수 있습니다."
+
+edict_nhsc_edict_psychic_unification: "정신 통일"
+edict_nhsc_edict_psychic_unification_desc: "대량의 사이오닉 에너지를 소비함으로써 국민들이 정부의 정책을 더 지지하도록 할 수 있습니다."
+
+edict_nhsc_edict_psionic_avatar: "사이오닉 아바타 소환"
+edict_nhsc_edict_psionic_avatar_desc: "충분한 양의 사이오닉 에너지가 있으면 우리는 장막 속의 강력한 힘을 가진 존재들을 소환하고 구속할 수 있습니다."
+
+edict_nhsc_edict_improved_gravity_manipulation: "중력 조정 개선"
+edict_nhsc_edict_improved_gravity_manipulation_desc: "변동중력원의 적용을 통해 프로젝트의 건설 기간을 단축할 수 있습니다."
+
+edict_nhsc_edict_gravitic_foundries: "중력 주조소"
+edict_nhsc_edict_gravitic_foundries_desc: "생산 과정에 중력 조정을 이용하면 보다 효율적으로 합금을 생산할 수 있습니다."
+
+edict_nhsc_edict_improved_nano_assemblers: "나노 조립기 개선"
+edict_nhsc_edict_improved_nano_assemblers_desc: "일상 용품을 위해 특화된 나노 물질의 사용은 우리 인구의 끝없이 증가하는 수요를 훨씬 쉽게 충족시킬 것입니다."
+
+edict_nhsc_edict_maintenance_nanites: "나노 물질 조정"
+edict_nhsc_edict_maintenance_nanites_desc: "특화된 나노 물질을 사용하면 제국의 드론을 유지하는 것이 훨씬 쉬워집니다."
+
+edict_nhsc_edict_enigmatic_energy_boost: "수수께끼 에너지 가속"
+edict_nhsc_edict_enigmatic_energy_boost_desc: "수수께끼 에너지를 전력망에 방출함으로써 제국의 에너지 생산성을 향상시키고 선박의 유지력이 높아집니다."
+
+edict_nhsc_edict_transdimensional_research: "다차원 연구"
+edict_nhsc_edict_transdimensional_research_desc: "연구 부서가 차원 와류에 접촉할 수 있게 함으로써 효율성을 향상시킵니다."
+
+########################################
+###          Starbase stuff          ###
+########################################
+
+sm_nhsc_starbase_reactor: "항성요새 발전소"
+sm_nhsc_starbase_reactor_desc: "대규모 시설을 유지하는 거대 영점 반응로"
+
+########################################
+###            Event stuff           ###
+########################################
+
+nhsc_buildings.111.name: "광물 부자"
+nhsc_buildings.111.desc: "§Y[Root.GetName]§!의 광부들이 행성의 맨틀에서 믿을 수 없을 만큼 거대한 광맥을 발견했습니다."
+
+nhsc_buildings.112.name: "융해된 합금"
+nhsc_buildings.112.desc: "§Y[Root.GetName]§!의 광부들이 최근 대량의 융해된 합금이 일반적인 광물과 함깨 행성의 핵에서 추출되었다고 보고했습니다."
+
+nhsc_buildings.113.name: "크리스탈 선물"
+nhsc_buildings.113.desc: "§Y[Root.GetName]§!의 광부들이 행성의 맨틀에서 대량의 희귀 결정을 발견했습니다."
+
+nhsc_buildings.114.name: "융해된 분말"
+nhsc_buildings.114.desc: "§Y[Root.GetName]§!의 광부들이 맨틀 속의 융해된 암석에서 휘발성 분말을 발견했습니다."
+
+nhsc_buildings.115.name: "희귀 가스 공동"
+nhsc_buildings.115.desc: "§Y[Root.GetName]§!의 광부들이 맨틀 속에서 희귀 가스 공동을 발견했습니다. 추출은 성공적이었으며 대량의 희귀 자원을 발견했습니다."
+
+nhsc.22.name: "자동화된 드레드노트 관찰: 제안됨"
+nhsc.22.desc: "자동화된 드레드노트는 매혹적인 기술입니다. 비록 그 개체가 우리가 그것의 설계를 근접해서 연구하는 것을 두고 볼 것 같진 않습니다만, 성계를 돌아다니는 움직임을 관찰하는 것에서도 많은 것을 배울 수 있을 것입니다. 만약 우리가 그 드레드노트의 전투 컴퓨터의 기반 논리를 복제할 수 있다면, 우리 함선에 적용할 수 있을 것입니다."
+nhsc.22.a: "우리는 배울 수 있는 모든 것을 배울 것이다."
+nhsc.22.b: "우린 저 쓰레기 덩어리를 복제할 필요가 없다!"
+
+nhsc.23.name: "자동화된 드레드노트 관찰: 보고"
+nhsc.23.desc: "관측팀이 자동화된 드레드노트의 움직임과 전투 태세에 대해 수집한 자료를 기반으로, 과학부에선 우리 함선 전체에 적용할 수 있는 행동 논리의 기반을 복제할 수 있으리라 확신합니다."
+
+NHSC_DREADNOUGHT_OBSERVATION: "자동화된 드레드노트 관찰"
+NHSC_DREADNOUGHT_OBSERVATION_DESC: "자동화된 드레드노트의 전투 체계는 자체적인 지능을 가지고 있는 것 같진 않습니다만 매우 발달되었음을 부정할 순 없으며, 행동 논리를 복제하여 우리 함대에 적용할 수 있다면 큰 도움이 될 것입니다."
+
+nhsc.42.name: "나나이트 사고 연결망 개발"
+nhsc.42.desc: "나노 기술과 AI의 발달로 일부 과학자들이 나나이트로 작동하며 유기체의 생각 과정을 모방한 차세대 AI 개발 작업에 착수했습니다. 군 당국은 이러한 AI를 함대 전투 컴퓨터에 도입하는 데 관심이 있으며, 연구를 후원하고자 합니다."
+nhsc.42.a: "연구를 지원하라."
+nhsc.42.b: "굳이 그런 기술이 필요하진 않을 것이다."
+
+NHSC_NANITE_THOUGHT_MATRIX_DEVELOP: "나나이트 사고 연결망 개발"
+NHSC_NANITE_THOUGHT_MATRIX_DEVELOP_DESC: "최근 논문에 따르면, 나나이트를 기반으로 작동하는 AI는 기계 특유의 놀라운 속도와 정밀도에 더불어, 유기체의 사고 과정을 완벽하게 복제할 수 있을 것으로 추측됩니다. 이런 AI를 개발한다면 많은 분야에서 혁명적인 성과를 거둘 수 있을 것이며, 군 당국은 전투에 도입하기를 원합니다. 함선에 이런 AI를 탑재하면 단순하고 시대에 뒤떨어진 AI를 사용하는 적보다 크게 앞서나갈 수 있을 것입니다."
+
+nhsc.44.name: "온전한 회색 폭풍 함선 회수"
+nhsc.44.desc: "최근 회색 폭풍이라고 불리는 외우주의 위협과의 전투에서 거의 손상되지 않은 함선을 입수했습니다. 과학자들의 선행 조사에 따르면 이 함선은 나나이트를 기반으로 유기체를 모방한 AI에 의해 조종된 것입니다. 선행 조사 보고서에서는 이 함선의 AI를 만든 기술을 복제하여 우리 함선의 전투력을 향상시키는 데 사용할 수 있을 것이라고 합니다."
+nhsc.44.a: "연구를 지원하라."
+nhsc.44.b: "굳이 그런 기술이 필요하진 않을 것이다."
+
+NHSC_NANITE_THOUGHT_MATRIX_RENGINEER: "나나이트 사고 연결망 역설계"
+NHSC_NANITE_THOUGHT_MATRIX_RENGINEER_DESC: "회색 폭풍의 함선이 보여준 놀라운 움직임은 나나이트를 기반으로 하는 진보된 AI의 효과입니다. 그러한 움직임을 목격했으니, 베끼고 싶어지는 것은 당연한 일일 것입니다."
+
+nhsc.45.name: "나나이트 사고 연결망"
+nhsc.45.desc: "마침내 유기체의 사고 과정을 완벽하게 모방할 수 있는 나나이트 AI를 만들 수 있게 되었습니다. 우리가 새로운 시대의 여명을 열 것입니다."
+
+nhsc.211.title: "날아오르는 에테르 드레이크"
+nhsc.211.desc: "에테르 드레이크를 복제해내기 위한 노력이 결실을 거두었으며, 어린 개체를 만들어냈습니다. 과학자들이 다룰 때 상당히 온순한 모습을 보이고 있으며, 우리의 힘이 되어줄 것입니다."
+
+########################################
+###         Static Modifiers         ###
+########################################
+
+esc_ai_early_game_science_boost_easy: "ESC AI 연구 부스트 (쉬움 - 비례)"
+esc_ai_early_game_science_boost_easy_desc: "AI 제국은 연구 보너스를 획득합니다.\n초기 +§G10§!%\n중반 +§G25§!%\n후반 +§G50§!%"
+esc_ai_mid_game_science_boost_easy: "$esc_ai_early_game_science_boost_easy$"
+esc_ai_mid_game_science_boost_easy_desc: "$esc_ai_early_game_science_boost_easy_desc$"
+esc_ai_end_game_science_boost_easy: "$esc_ai_early_game_science_boost_easy$"
+esc_ai_end_game_science_boost_easy_desc: "$esc_ai_early_game_science_boost_easy_desc$"
+esc_ai_science_boost_easy_static: "ESC AI 연구 부스트 (쉬움)"
+esc_ai_science_boost_easy_static_desc: "AI 제국은 연구 보너스를 +§G25§!% 획득합니다."
+
+esc_ai_early_game_science_boost_moderate: "ESC AI 연구 부스트 (보통 - 비례)"
+esc_ai_early_game_science_boost_moderate_desc: "AI 제국은 연구 보너스를 획득합니다.\n초기 +§G25§!%\n중반 +§G50§!%\n후반 +§G100§!%"
+esc_ai_mid_game_science_boost_moderate: "$esc_ai_early_game_science_boost_moderate$"
+esc_ai_mid_game_science_boost_moderate_desc: "$esc_ai_early_game_science_boost_moderate_desc$"
+esc_ai_end_game_science_boost_moderate: "$esc_ai_early_game_science_boost_moderate$"
+esc_ai_end_game_science_boost_moderate_desc: "$esc_ai_early_game_science_boost_moderate_desc$"
+esc_ai_science_boost_moderate_static: "ESC AI 연구 부스트 (보통)"
+esc_ai_science_boost_moderate_static_desc: "AI 제국은 연구 보너스를 +§G50§!% 획득합니다."
+
+esc_ai_early_game_science_boost_challenging: "ESC AI 연구 부스트 (도전 - 비례)"
+esc_ai_early_game_science_boost_challenging_desc: "AI 제국은 연구 보너스를 획득합니다.\n초기 +§G50§!%\n중반 +§G100§!%\n후반 +§G150§!%"
+esc_ai_mid_game_science_boost_challenging: "$esc_ai_early_game_science_boost_challenging$"
+esc_ai_mid_game_science_boost_challenging_desc: "$esc_ai_early_game_science_boost_challenging_desc$"
+esc_ai_end_game_science_boost_challenging: "$esc_ai_early_game_science_boost_challenging$"
+esc_ai_end_game_science_boost_challenging_desc: "$esc_ai_early_game_science_boost_challenging_desc$"
+esc_ai_science_boost_challenging_static: "ESC AI 연구 부스트 (도전)"
+esc_ai_science_boost_challenging_static_desc: "AI 제국은 연구 보너스를 +§G100§!% 획득합니다."
+
+esc_ai_psionic_charges_boost: "AI 사이오닉 전하 보너스"
+esc_ai_psionic_charges_boost_desc: "AI를 위한 추가 자원"
+mod_country_base_esc_psionic_charge_produces_add: "월간 £esc_psionic_charge£ 사이오닉 전하"
+
+esc_ai_living_crystals_boost: "AI 생체 크리스탈 보너스"
+esc_ai_living_crystals_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_living_crystal_produces_add: "월간 £esc_living_crystal£ 생체 크리스탈"
+
+esc_ai_gravitic_anomaly_boost: "AI 변동 중력원 보너스"
+esc_ai_gravitic_anomaly_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_gravitic_anomaly_produces_add: "월간 £esc_gravitic_anomaly£ 변동 중력원"
+
+esc_ai_enigmatic_energy_boost: "AI 수수께끼 에너지 보너스"
+esc_ai_enigmatic_energy_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_enigmatic_energy_produces_add: "월간 £esc_enigmatic_energy£ 수수께끼 에너지"
+
+esc_ai_transdimension_vortex_boost: "AI 다차원 와류 보너스"
+esc_ai_transdimension_vortex_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_transdimensional_vortex_produces_add: "월간 £esc_transdimensional_vortex£ 다차원 와류"
+
+esc_ai_nanites_boost: "AI 나나이트 보너스"
+esc_ai_nanites_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+
+########################################
+###          Country Flags           ###
+########################################
+
+nhsc_building_centralresearchbureau_queued: "$nhsc_building_centralresearchbureau$ 진행중"
+nhsc_culture_nexus_queued: "$nhsc_building_culture_nexus$ 진행중"
+nhsc_advanced_materals_laboratory_queued: "$nhsc_building_materials_laboratory$ 진행중"
+nhsc_technology_institute_queued: "$nhsc_building_technology_institute$ 진행중"
+nhsc_watcher_of_eternity_queued: "$nhsc_building_watcher$ 진행중"
+ESC_MENU_ACTIVE: "$edict_nhsc_mod_control_edict$ 개방됨"
+
+########################################
+###            Decisions             ###
+########################################
+
+decision_nhsc_mod_menu: "$edict_nhsc_mod_control_edict$"
+decision_nhsc_mod_menu_desc: "$edict_nhsc_mod_control_edict_desc$"
+
+decision_nhsc_clone_dragon: "에테르 드레이크 유체 복제"
+decision_nhsc_clone_dragon_desc: "과학자들이 어린 에테르 드레이크를 복제하여 다룰 것입니다."
+nhsc_drake_clone_requested: "에테르 드레이크 복제 진행중"
+
+########################################
+###              Armies              ###
+########################################
+
+esc_psionic_avatar_army: "§M사이오닉 아바타§!"
+esc_psionic_avatar_army_desc: "우릴 대신하여 싸울 강력한 사이오닉 아바타입니다."
+esc_psionic_avatar_army_plural: "§M사이오닉 아바타§!"
+esc_erasure_squad_army: "말소 부대"
+esc_erasure_squad_army_desc: "적을 현실에서 지워버릴 강력한 무장을 장비한 특수부대입니다."
+esc_erasure_squad_army_plural: "말소 부대"
+esc_eradicator_droids_army: "박멸 드로이드 군단"
+esc_eradicator_droids_army_desc: "적을 현실에서 지워버릴 강력한 무장을 장비한 기계군단입니다."
+esc_eradicator_droids_army_plural: "박멸 드로이드 군단"
+
+########################################
+###         Dummy ship sizes         ###
+########################################
+
+esc_dummy_strike_cruiser: "Dummy Strike Cruiser"
+esc_dummy_strike_cruiser_desc: "This is a dummy ship_size used as a way around the issues with size_restriction failing to restrict components if the list of allowed ship_sizes contains no valid entries. YOU SHOULD NOT BE SEEING THIS!"
+esc_dummy_strike_cruiser_plural: "Dummy Strike Cruisers"
+
+esc_dummy_battle_cruiser: "Dummy Battle Cruiser"
+esc_dummy_battle_cruiser_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_battle_cruiser_plural: "Dummy Battle Cruisers"
+
+esc_dummy_carrier: "Dummy Carrier"
+esc_dummy_carrier_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_carrier_plural: "Dummy Carriers"
+
+esc_dummy_dreadnought: "Dummy Dreadnought"
+esc_dummy_dreadnought_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_dreadnought_plural: "Dummy Dreadnoughts"
+
+esc_dummy_flagship: "Dummy Flagship"
+esc_dummy_flagship_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_flagship_plural: "Dummy Flagships"
+
+esc_dummy_scx_dreadnought: "Dummy Dreadnought"
+esc_dummy_scx_dreadnought_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_scx_dreadnought_plural: "Dummy Dreadnoughts"
+
+esc_dummy_military_platform: "Dummy Defense Platform"
+esc_dummy_military_platform_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_military_platform_plural: "Dummy Defense Platforms"
+
+esc_dummy_starbase: "Dummy Starbase"
+esc_dummy_starbase_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_starbase_plural: "Dummy Starbases"
+
+esc_dummy_juggernaut: "Dummy Jugernaut"
+esc_dummy_juggernaut_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_juggernaut_plural: "Dummy Juggernauts"
+
+########################################
+###         Starbase Modules         ###
+########################################
+
+sm_nhsc_starbase_dm_orbital_plant: "궤도 암흑 물질 공장"
+sm_nhsc_starbase_dm_orbital_plant_desc: "암흑 물질 생산을 위한 우주항 시설입니다. 어떤 곳에 짓더라도 작동하지만, 근처에 블랙홀과 같은 암흑 물질을 수집할 수 있는 곳이 있다면 더 효과적일 것입니다."
+sm_nhsc_starbase_zro_orbital_plant: "궤도 지로 공장"
+sm_nhsc_starbase_zro_orbital_plant_desc: "합성 지로 생산을 위한 우주항 시설입니다. 근처에서 지로를 수집할 수 있다면 더욱 효과적일 것입니다."
+sm_nhsc_starbase_nanite_factory: "궤도 나나이트 공장"
+sm_nhsc_starbase_nanite_factory_desc: "나나이트 생산을 위한 우주항 시설입니다. 근처에서 나나이트를 수집할 수 있다면 더욱 효과적일 것입니다."
+sm_nhsc_starbase_gravitic_anomaly_collector: "중력원 수집기"
+sm_nhsc_starbase_gravitic_anomaly_collector_desc: "변동중력원을 포착하고 수집하는 대규모 설비입니다. 어떤 곳에 짓더라도 작동하지만, 근처에 중성자 별이나 퀘이사와 같은 고에너지의 중력원이 있다면 효율이 높아집니다."
+sm_nhsc_starbase_crystal_farm: "궤도 크리스탈 농장"
+sm_nhsc_starbase_crystal_farm_desc: "생체 크리스탈을 키우는 궤도 농장입니다. 부산물로 약간의 합금도 생산됩니다."
+sm_nhsc_starbase_psionic_energy_collector: "사이오닉 에너지 수집기"
+sm_nhsc_starbase_psionic_energy_collector_desc: "성계 내의 생명체가 방출하는 사이오닉 에너지를 수집하여 사이오닉 전하로 전환하는 우주항 시설입니다."
+sm_nhsc_starbase_enigmatic_energy_plant: "수수께끼 에너지 공장"
+sm_nhsc_starbase_enigmatic_energy_plant_desc: "거대한 수수께끼 에너지 코일입니다. 암흑 물질 흐름을 조작하여 수수께끼 에너지를 생성합니다."
+sm_nhsc_starbase_vortex_laboratory: "다차원 와류 연구소"
+sm_nhsc_starbase_vortex_laboratory_desc: "다차원 와류를 연구하는 거대한 시설입니다. 퀘이사나 화이트홀과 같은 현실 굴절 객체가 존재할 경우 효율이 높아집니다."
+
+########################################
+###            Modifiers             ###
+########################################
+
+mod_megastructures_cost_mult: "거대건축물 비용"
+mod_country_base_nanites_produces_add: "나나이트 생산"
+mod_planet_telepaths_esc_psionic_charge_produces_add: "$job_telepath_plural$이 생산하는 £esc_psionic_charge£ §Y$esc_psionic_charge_plural$§!"
+mod_planet_synapse_drones_esc_psionic_charge_produces_add: "$job_synapse_drone_plural$이 생산하는 £esc_psionic_charge£ §Y$esc_psionic_charge_plural$§!"
