@@ -3,7 +3,7 @@
 edict_cancel_auto_build_station: "§R스테이션 자동 건설 취소§!"
 edict_cancel_auto_build_station_desc: "$policy_auto_build_station$ 정책을 비활성화하면 새로운 궤도 스테이션을 건설하는 데 더 이상 광물이 사용되지 않습니다."
 policy_auto_build_station: "§B스테이션 자동 건설s§!"
-policy_auto_build_station_desc: "이 정책이 활성화되면 아직 개발되지 않은 매장지마다 §Y90§! £minerals£ 광물 비용으로 귀하의 영토에 선박을 배치하고 채광 또는 연구 스테이션을 건설할 수 있습니다. 게임이나 다른 모드의 전략적 자원이 있는 궤도 자원을 채취하기 위해서는 먼저 기술이 필요합니다."
+policy_auto_build_station_desc: "이 정책을 활성화되면 아직 개발되지 않은 매장지마다 §Y90§! £minerals£ 광물 비용으로 귀하의 영토에 선박을 배치하고 채광 또는 연구 스테이션을 건설할 수 있습니다. 게임이나 다른 모드의 전략적 자원이 있는 궤도 자원을 채취하기 위해서는 먼저 기술이 필요합니다."
 policy_auto_build_station_deactivated: "§R비활성화됨§!"
 policy_auto_build_station_deactivated_desc: "정책을 비활성화하면 새로운 궤도 스테이션을 건설하는 데 더 이상 광물이 사용되지 않습니다."
 policy_auto_build_station_activated: "§G활성화됨§!"
