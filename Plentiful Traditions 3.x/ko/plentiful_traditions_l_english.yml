@@ -10,6 +10,7 @@ plentiful_traditions_announcement.3.desc:0 "이 모드의 이전 버전과 더 �
 # MYSTICISM
 tradition_plentiful_mysticism:0 "신비주의"
 tradition_plentiful_mysticism_desc:0 "물질적 이익과 이기적 욕망보다 생물다양성의 풍요와 자연과의 조화를 이루는 길을 따라가고 지켜나가십시오. # 아무도 관심을 갖지 않는 것을 보호하지 않을 것이고, 아무도 경험하지 못한 것에 신경 쓰지 않을 것입니다. - 데이비드 애튼버러"
+# No one will protect what they don't care about, and no one will care about what they have never experienced. David Attenborough
 tr_plentiful_mysticism_adopt:0 "신비주의 전통"
 tr_plentiful_mysticism_adopt_desc:0 "$tradition_plentiful_mysticism_desc$\n\n$tr_plentiful_mysticism_adopt_effect$\n\n$tr_plentiful_mysticism_finish_effect$"
 tr_plentiful_mysticism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!이 §G+20%§!증가합니다.\n\n§H항성기지 모듈 해제:§! $sm_orbital_cosmic_rays_shield$, 성계와 행성의 £job_healthcare §Y$MOD_POP_GROWTH_SPEED$§!를 증가시키는 항성기지 모듈입니다.\n\n"
@@ -118,6 +119,7 @@ tr_plentiful_cybernetics_4_desc:1 "£engineering£ §Y공학§! 생산량이 §G
 tr_plentiful_cybernetics_4_delayed:0 "우주엔 아직도 수많은 알 수 없는 변수가 존재합니다."
 tr_plentiful_cybernetics_5:0 "자자리안 시계"
 tr_plentiful_cybernetics_5_desc:0 "§H행성 시행령 잠금해제:§! $plentiful_traditions_adaptive_foundry_1$은 행성의 £engineering£ §Y공학§! 생산을  §G+5%§!만큼 늘릴 것입니다. 이 결정은 총 §Y10§! 번 반복할수 있고, 최종적으로 §G+50%§!만큼 늘어나게 됩니다.\n\n §H항성기지 모듈 잠금해제:§!$sm_orbital_automatic_spare_part_industry$를 건설하면 성계와 행성의 £job_replicator£§Y$MOD_PLANET_POP_ASSEMBLY_ADD$§!과 §Y$MOD_POP_ASSEMBLY_SPEED$§!이 늘어납니다.\n\n 비용으로 §H안정도§!와   £minerals£ §Y광물§!, £food£ §Y식량§! 생산량이 §R-10%§!만큼 줄어듭니다."
+#at the cost of §R-10%§! §HHabitability§!, £minerals  §YMinerals§! and £food  §YFood§! 
 tr_plentiful_cybernetics_5_delayed:0 "우리 집단의 능력이 계속 향상됨에 따라 다른 제국들이 우리를 위협으로 볼 가능성이 높다고 추정합니다. 우리는 더 많은 힘과 에너지가 필요합니다. 하지만 어떻게요?"
 sm_orbital_automatic_spare_part_industry:0 "자동화 예비 부품 공장"
 tech_plentiful_traditions_orbital_a_s_p_i:0 "예비 부품 공장 자동화"
@@ -128,6 +130,7 @@ building_plentiful_traditions_cybernetics_facility_desc:0 "인공두뇌학 시�
 # Cybernetics edicts
 plentiful_traditions_adaptive_foundry_1:0 "§Y적응형 주조장§!"
 plentiful_traditions_adaptive_foundry_1_desc:1 "이 행성 시행령은 추가로 사용할때마다 §Y공학 시설§!에서 생산하는 £engineering£  §Y공학§! 산출량을 §G+5%§! 영구히 증가시킵니다.\n\n" # §R-10%§! §Y거주 적합도§!, £minerals£  §Y광물§! 과 £food£  §Y식량§!"
+#at the cost of §R-10%§! §YHabitability§!, £minerals  §YMinerals§! and £food  §YFood§! 
 plentiful_traditions_adaptive_foundry_2:0 "$plentiful_traditions_adaptive_foundry_1$"
 plentiful_traditions_adaptive_foundry_2_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
 plentiful_traditions_adaptive_foundry_3:0 "$plentiful_traditions_adaptive_foundry_1$"
@@ -184,7 +187,7 @@ trait_plentiful_traditions_robot_supercharged_drills_desc:0 "§L광물 없이 �
 trait_plentiful_traditions_robot_backup_batteries:0 "예비 전지"
 trait_plentiful_traditions_robot_backup_batteries_desc:0 "§L배터리로 무장 할 수 있다면 누가 보조 드릴 팔이 필요 할까요?§!\n"
 trait_plentiful_traditions_robot_underclocked_processors:0 "다운클럭 프로세서"
-trait_plentiful_traditions_robot_underclocked_processors_desc:0 "§L01100101 01110010 01110010 01101111 01110010...§!\n"
+trait_plentiful_traditions_robot_underclocked_processors_desc:0 "§L01100101 01110010 01110010 01101111 01110010§!\n"
 trait_plentiful_traditions_robot_blockchain_enthusiasts:0 "블록체인 애호가"
 trait_plentiful_traditions_robot_blockchain_enthusiasts_desc:0 "§L양자 블록체인 펌웨어 v1.8이 곧 설치될 예정입니다.§!\n"
 # BIOGENESIS
@@ -636,7 +639,7 @@ tr_plentiful_kleptocracy_5_delayed:0 "형식상의 절차들을 좋지만, 사�
 building_plentiful_traditions_syndicate_quarters:0 "범죄조직 기지"
 building_plentiful_traditions_syndicate_quarters_desc:0 "범죄조직 기지는 우리 제국의 함선 수용력을 증가시킬 것입니다."
 sm_orbital_trading_beacon:0 "궤도 거래 비콘"
-tech_plentiful_traditions_orbital_trading_beacon:0 ""
+tech_plentiful_traditions_orbital_trading_beacon:0 "Orbital Trading Beacon"
 tech_plentiful_traditions_orbital_trading_beacon_desc:0 "무역 기술의 발전은 우리의 발전 네트워크 에너지 생산량의 더 효율적인 처리가 가능하게 해줍니다."
 # Kleptocracy edicts
 triggered_opinion_tr_plentiful_kleptocracy_4:0 "부패한 정치인들"
@@ -1136,7 +1139,7 @@ pop_generated:1 "우리 종족의 인구 하나가 생성될 것입니다."
 more_pop_generated:1 "우리 종족의 인구 몇이 생성될 것입니다."
 pop_not_generated:1 "인구가 생성되지 않을 것입니다."
 # PLENTIFUL PERKS - Species
-NAME_Cocoon:0 ""
+NAME_Cocoon:0 "Cocoon"
 COCOON:0 "고치"
 building_cocoon_assembly_plant:0 "고치 생성소"
 building_cocoon_assembly_plant_desc:0 "이 건물에서 고치들이 생성됩니다. 그리고 이후 다른 종족들을 우리로 변화시키기 위해 사용될 것입니다."
@@ -1297,7 +1300,7 @@ habitat_3_MEGASTRUCTURE_DETAILS:1 "§Y$pc_habitat_robot$§!: 이론적으로 자
 habitat_3_CONSTRUCTION_INFO_DELAYED:2 "거주지는 거주지에 특화된 £building£ §YBuildings§!만 수용할 수 있으며 §Y2§! 타일로 제한되고 로봇만 수용할 수 있습니다. 하지만 이 거주지들은 확장이 가능하며 미래에 생명체도 수용할 수 있을 것입니다."
 habitat_3:0 "개방된 거주지"
 habitat_3_DESC:0 "거주가 불가능한 행성을 도는 거주 정거장으로 §H로봇 인구§!와 §H건물§!을 지상으로부터 멀리 떨어진 곳에 수용할 수 있습니다."
-pc_habitat_robot:0 ""
+pc_habitat_robot:0 "Open Habitat"
 pc_habitat_robot_desc:0 "인공 중력 발전기 위에 설치된 광물 플레이트들은 도시 및 산업 건설을 위한 기반 역할을 합니다."
 pc_habitat_robot_tile:0 "개방된 거주지 지형"
 pc_habitat_robot_tile_desc:0 "인공 중력 발전기 위에 설치된 광물 플레이트들은 도시 및 산업 건설을 위한 기반 역할을 합니다."
