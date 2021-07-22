@@ -1,0 +1,12 @@
+﻿l_english:
+
+edict_cancel_auto_build_station: "§R스테이션 자동 건설 취소§!"
+edict_cancel_auto_build_station_desc: "$policy_auto_build_station$ 정책을 비활성화하면 새로운 궤도 스테이션을 건설하는 데 더 이상 광물이 사용되지 않습니다."
+policy_auto_build_station: "§B스테이션 자동 건설s§!"
+policy_auto_build_station_desc: ""
+policy_auto_build_station_deactivated: ""
+policy_auto_build_station_deactivated_desc: ""
+policy_auto_build_station_activated: ""
+policy_auto_build_station_activated_desc: ""
+policy_auto_build_station_overactivated: ""
+policy_auto_build_station_overactivated_desc: ""
