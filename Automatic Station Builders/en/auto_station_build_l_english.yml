@@ -1,0 +1,13 @@
+﻿l_english:
+
+ edict_cancel_auto_build_station: "§RCancel Auto Build Station§!"
+ edict_cancel_auto_build_station_desc: "Deactive the policy $policy_auto_build_station$, no more mineral will be used to construct new orbital stations."
+ 
+ policy_auto_build_station: "§BAuto Build Stations§!"
+ policy_auto_build_station_desc: "Once activated this policy will deploy vessels in your territory and construct mining or research stations at a cost of §Y90§! £minerals£ Minerals for every deposit not being already exploited. Take in note that any system with hostiles inside will need to be secured before having their space stations constructed. Orbital deposits with strategic resources from the game or any other mod will first need the required technology before being exploited."
+ policy_auto_build_station_deactivated: "§RDeactivated§!"
+ policy_auto_build_station_deactivated_desc: "Deactive the policy, no more mineral will be used to construct new orbital stations."
+ policy_auto_build_station_activated: "§GActivated§!"
+ policy_auto_build_station_activated_desc: "The policy is activated, the minerals of the country will be used to construct orbital stations where the requirements are met. If you have used that policy by mistake you can still turn it off using the edict: $edict_cancel_auto_build_station$"
+ policy_auto_build_station_overactivated: "§YFaster§!"
+ policy_auto_build_station_overactivated_desc: "§YIncrease the construction rate of new orbital stations by 5 but it also means that mineral stockpiles will be drained faster!§! If you have used that policy by mistake you can still turn it off using the edict: $edict_cancel_auto_build_station$"
