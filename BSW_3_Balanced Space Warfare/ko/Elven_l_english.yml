@@ -1,0 +1,460 @@
+﻿l_english:
+
+FLAG_CATEGORY_elven: ""
+
+# Name Lists
+
+name_list_eos_namelist_elf_ayleid: ""
+name_list_eos_namelist_elf_wild: ""
+name_list_eos_namelist_elf_hidden: ""
+
+## QUENYA
+
+name_list_eos_namelist_elf_eldali: ""
+
+## Pseudo-Gaulish
+
+name_list_eos_namelist_elf_aenari: ""
+name_list_eos_namelist_elf_altmer: ""
+
+# System Initializers-
+
+elven_system_imperial_initializer_NAME: ""
+elven_system_imperial_initializer_DESC: ""
+elven_system_lhuren_initializer_NAME: ""
+elven_system_lhuren_initializer_DESC: ""
+elven_system_gaul_initializer_NAME: ""
+elven_system_gaul_initializer_DESC: ""
+
+# Origins 
+
+origin_elven_foundations: ""
+origin_elven_foundations_desc: ""
+origin_tooltip_elven_foundations_effects: ""
+origin_elven_arcadian_symbiosis: ""
+origin_elven_arcadian_symbiosis_desc: ""
+origin_tooltip_elven_arcadian_symbiosis_effects: ""
+origin_elven_celestial_throne: ""
+origin_elven_celestial_throne_desc: ""
+origin_tooltip_elven_celestial_throne_effects: ""
+
+# Species Classes
+
+ELVEN: ""
+ELVEN_desc: ""
+ELVEN_plural: ""
+ELVEN_insult_01: ""
+ELVEN_insult_plural_01: ""
+ELVEN_insult_02: ""
+ELVEN_insult_plural_02: ""
+ELVEN_insult_03: ""
+ELVEN_insult_plural_03: ""
+ELVEN_insult_04: ""
+ELVEN_insult_plural_04: ""
+ELVEN_compliment_01: ""
+ELVEN_compliment_plural_01: ""
+ELVEN_spawn: ""
+ELVEN_spawn_plural: ""
+ELVEN_sound_01: ""
+ELVEN_sound_02: ""
+ELVEN_sound_03: ""
+ELVEN_sound_04: ""
+ELVEN_sound_05: ""
+ELVEN_organ: ""
+ELVEN_organ_plural: ""
+ELVEN_mouth: ""
+ELVEN_ear: ""
+ELVEN_ear_plural: ""
+ELVEN_hand: ""
+ELVEN_hand_plural: ""
+ELVEN_tooth: ""
+ELVEN_tooth_plural: ""
+RT_DRUID: ""
+
+# MEGASTRUCTURES
+
+elven_avari_ring_MEGASTRUCTURE_DETAILS: ""
+elven_avari_ring_CONSTRUCTION_INFO_DELAYED: ""
+elven_avari_ring: ""
+elven_avari_ring_DESC: ""
+elven_avari_shield_MEGASTRUCTURE_DETAILS: ""
+elven_avari_shield_CONSTRUCTION_INFO_DELAYED: ""
+elven_avari_shield: ""
+elven_avari_shield_DESC: ""
+
+## AINATELE AKA SANCTUARY! ##
+
+pc_elven_sanctuary: ""
+pc_elven_sanctuary_adj: ""
+pc_elven_sanctuary_desc: ""
+mod_pc_elven_sanctuary_habitability: ""
+trait_pc_elven_sanctuary_preference: ""
+trait_pc_elven_sanctuary_preference_desc: ""
+
+# Traits
+
+trait_elven_true: ""
+trait_elven_true_desc: ""
+trait_elven_savage: ""
+trait_elven_savage_desc: ""
+
+# OPINION MODIFIERS
+
+elven_triggered_opinion_elf_and_elf: ""
+elven_triggered_opinion_elf_and_drow: ""
+elven_triggered_opinion_drow_and_elf: ""
+
+# CIVICS
+
+civic_elven_arcane_minded: ""
+civic_elven_arcane_minded_desc: ""
+civic_tooltip_arcane_minded_effects: ""
+
+#civic_tooltip_arcane_minded_effects:0 "사이오닉 연구 속도: §G+15%§!\n이상현상 실패 확률 §G-10%§!\n연구 속도 §G+5%§!"
+
+civic_elven_craft: ""
+civic_elven_craft_desc: ""
+civic_elven_tooltip_craft_effects: ""
+
+#civic_elven_great_firewall:0 "만리방화벽"
+
+
+#civic_elven_great_firewall_desc:0 "반체제 사상이 어떤 사회에서건 위험하다는 사실을 실감한 이후, 우린 이에 대한 최종적인 해결책을 만들기 위해 노력했습니다. 결국 단순한 물리적인 요소 뿐만이 아니라 위험한 사상을 배제할 수 있는 방법을 찾아냈습니다. 이제 파괴적인 사상들은 어디에서 나왔던간에 신속하게 소멸될 것입니다."
+
+civic_elven_celestial_grace: ""
+civic_elven_celestial_grace_desc: ""
+civic_tooltip_celestial_grace_effects: ""
+elven_celestial_favor_0: ""
+elven_celestial_favor_1p: ""
+elven_celestial_favor_2p: ""
+elven_celestial_favor_3p: ""
+elven_celestial_favor_4p: ""
+elven_celestial_favor_5p: ""
+elven_celestial_favor_1n: ""
+elven_celestial_favor_2n: ""
+elven_celestial_favor_3n: ""
+elven_celestial_favor_4n: ""
+elven_celestial_favor_5n: ""
+elven_celestial_favor_factor_ruler_psi: ""
+elven_celestial_favor_factor_ruler_psi_desc: ""
+elven_celestial_favor_factor_ruler_chosen: ""
+elven_celestial_favor_factor_ruler_chosen_desc: ""
+elven_celestial_favor_factor_ruler_erudite: ""
+elven_celestial_favor_factor_ruler_erudite_desc: ""
+elven_celestial_favor_factor_ruler_skilled: ""
+elven_celestial_favor_factor_ruler_skilled_desc: ""
+elven_celestial_favor_factor_peace: ""
+elven_celestial_favor_factor_peace_desc: ""
+elven_celestial_favor_factor_safe: ""
+elven_celestial_favor_factor_safe_desc: ""
+elven_celestial_favor_factor_ruler_neg: ""
+elven_celestial_favor_factor_ruler_neg_desc: ""
+elven_celestial_favor_factor_ruler_alien: ""
+elven_celestial_favor_factor_ruler_alien_desc: ""
+elven_celestial_favor_factor_threatened: ""
+elven_celestial_favor_factor_threatened_desc: ""
+elven_celestial_favor_factor_threatened_multi: ""
+elven_celestial_favor_factor_threatened_multi_desc: ""
+elven_celestial_favor_factor_subject: ""
+elven_celestial_favor_factor_subject_desc: ""
+elven_celestial_favor_factor_used_pearl: ""
+elven_celestial_favor_factor_used_pearl_desc: ""
+elven_celestial_favor_factor_ruler_ding: ""
+elven_celestial_favor_factor_ruler_ding_desc: ""
+elven_celestial_favor_factor_new_colony: ""
+elven_celestial_favor_factor_new_colony_desc: ""
+elven_celestial_favor_factor_mega_built: ""
+elven_celestial_favor_factor_mega_built_desc: ""
+elven_celestial_favor_factor_mega_upgraded: ""
+elven_celestial_favor_factor_mega_upgraded_desc: ""
+elven_celestial_favor_factor_won_war: ""
+elven_celestial_favor_factor_won_war_desc: ""
+elven_celestial_favor_factor_won_def: ""
+elven_celestial_favor_factor_won_def_desc: ""
+elven_celestial_favor_factor_quo_war: ""
+elven_celestial_favor_factor_quo_war_desc: ""
+elven_celestial_favor_factor_lost_war: ""
+elven_celestial_favor_factor_lost_war_desc: ""
+elven_celestial_favor_factor_lost_planet: ""
+elven_celestial_favor_factor_lost_planet_desc: ""
+elven_celestial_favor_factor_lost_system: ""
+elven_celestial_favor_factor_lost_system_desc: ""
+
+# New restriction text not in vanilla
+
+civic_elven_tooltip_not_materialistic: ""
+agenda_elven_isolationism: ""
+
+# Policies 
+
+policy_elven_gender_policy: ""
+policy_elven_gender_policy_desc: ""
+elven_gender_default_name: ""
+elven_gender_default: ""
+elven_gender_default_desc: ""
+elven_gender_matriarchy_full_name: ""
+elven_gender_matriarchy_full: ""
+elven_gender_matriarchy_full_desc: ""
+
+#"Males are prone to emotionality and clouded judgement. It therefore follows that only females should be leaders at all levels of society."
+
+elven_gender_matriarchy_governor_name: ""
+elven_gender_matriarchy_governor: ""
+elven_gender_matriarchy_governor_desc: ""
+
+#"Females are more suited for ruling and top tier management. All rulers and governors are female."
+
+elven_gender_patriarchy_military_name: ""
+elven_gender_patriarchy_military: ""
+elven_gender_patriarchy_military_desc: ""
+
+#"It is the sacred duty of males to defend the weak and defensless. As such, only males are involved in combat oriented positions."
+
+elven_gender_patriarchy_full_name: ""
+elven_gender_patriarchy_full: ""
+elven_gender_patriarchy_full_desc: ""
+
+# Diplomacy
+
+personality_ayleid_personality: ""
+personality_ayleid_personality_desc: ""
+personality_sidh_personality: ""
+personality_sidh_personality_desc: ""
+personality_gaul_personality: ""
+personality_gaul_personality_desc: ""
+gov_elven_druid_circle: ""
+gov_elven_druid_circle_desc: ""
+
+# Nations 
+
+
+####################################
+
+EMPIRE_DESIGN_elven_civ1: ""
+EMPIRE_DESIGN_elven_civ2: ""
+EMPIRE_DESIGN_elven_civ2_desc: ""
+EMPIRE_DESIGN_elven_civ3: ""
+EMPIRE_DESIGN_elven_civ3_desc: ""
+
+### STARS ###
+
+
+#############
+
+pc_elven_prismatic_star: ""
+pc_elven_prismatic_star_desc: ""
+
+### BUILDINGS ###
+
+
+#################
+
+elven_building_army_primitive: ""
+elven_building_army_primitive_desc: ""
+
+### ARMIES ###
+
+elven_primitive_army: ""
+
+### PLANET MODIFIERS ###
+
+
+########################
+
+elven_avari_ring_modifier: ""
+elven_avari_ring_modifier_desc: ""
+elven_avari_shield_modifier: ""
+elven_avari_shield_modifier_desc: ""
+elven_mineral_poor: ""
+elven_mineral_poor_desc: ""
+elven_natural_beauty: ""
+elven_natural_beauty_desc: ""
+elven_irradiated_planet: ""
+elven_irradiated_planet_desc: ""
+elven_storm_world_modifier: ""
+elven_storm_world_modifier_desc: ""
+elven_great_firewall_modifier: ""
+elven_great_firewall_modifier_desc: ""
+elven_treant_harmony_5: ""
+elven_treant_harmony_5_desc: ""
+elven_treant_harmony_10: ""
+elven_treant_harmony_10_desc: ""
+elven_treant_harmony_15: ""
+elven_treant_harmony_15_desc: ""
+elven_treant_harmony_20: ""
+elven_treant_harmony_20_desc: ""
+elven_treant_harmony_25: ""
+elven_treant_harmony_25_desc: ""
+elven_treant_harmony_30: ""
+elven_treant_harmony_30_desc: ""
+elven_treant_harmony_35: ""
+elven_treant_harmony_35_desc: ""
+elven_treant_harmony_40: ""
+elven_treant_harmony_40_desc: ""
+elven_treant_harmony_45: ""
+elven_treant_harmony_45_desc: ""
+elven_treant_harmony_50: ""
+elven_treant_harmony_50_desc: ""
+
+### EVENTS ###
+
+
+##############
+
+elven_leader_events.33.name: ""
+elven_leader_events.33.desc: ""
+elven_decision_arcology_project: ""
+elven_decision_arcology_project_effects: "행성을 §Y$pc_city$§!로 변환 하고, £housing£ §Y$PLANET_HOUSING_TITLE$§!와, §Y자원 생산량§! 그리고 §Y인구 성장률§!을 증가시킵니다. 또한 추가 £district£ §Y발전지구§!, §Y채굴지구§! 그리고 §Y농업지구§!의 건설을 제한하며 자연적 자원 생산을 불가하게 하는 대신 고유 지구인 £district£ §Y아콜로지 지구§! 의 건설을 허용합니다."
+elven_decision_arcology_project_effects_short: "£housing£ §Y$PLANET_HOUSING_TITLE$§!와 §Y자원 생산량§! 그리고 §Y인구 증가량§!을 증가합니다\n£district£ §Y아콜로지 지구§!의 건설이 가능합니다\n£district£ §Y발전 지구§!, §Y채굴 지구§! 그리고 §Y농업 지구§!의 건설이 불가합니다."
+elven_decision_arcology_project_requirements: ""
+elven_decision_arcology_project_desc: ""
+
+### STAR CLASSES ###
+
+
+####################
+
+sc_elven_prismatic: ""
+sc_elven_prismatic_black_hole: ""
+sc_elven_binary_1: ""
+sc_elven_binary_2: ""
+sc_elven_binary_3: ""
+sc_elven_binary_4: ""
+sc_elven_binary_5: ""
+sc_elven_binary_6: ""
+sc_elven_binary_prismatic_black_hole: ""
+sc_elven_trinary_1: ""
+sc_elven_trinary_2: ""
+sc_elven_sexenary_1: ""
+sc_elven_septenary_1: ""
+sc_elven_septenary_2: ""
+sc_elven_super_1: ""
+sc_elven_gaul: ""
+sc_elven_imperial: ""
+sc_elven_polydora: ""
+
+### JOBS ###
+
+
+############
+
+job_elven_dragon_researcher: ""
+job_elven_dragon_researcher_plural: ""
+job_elven_dragon_researcher_desc: ""
+job_elven_dragon_researcher_effect_desc: ""
+mod_job_elven_dragon_researcher_add: ""
+mod_job_elven_dragon_researcher_per_pop: ""
+mod_job_elven_dragon_researcher_per_pop_short: ""
+job_elven_dragon_priest: ""
+job_elven_dragon_priest_plural: ""
+job_elven_dragon_priest_desc: ""
+job_elven_dragon_priest_effect_desc: ""
+mod_job_elven_dragon_priest_add: ""
+mod_job_elven_dragon_priest_per_pop: ""
+mod_job_elven_dragon_priest_per_pop_short: ""
+job_elven_archaeologist: ""
+job_elven_archaeologist_plural: ""
+job_elven_archaeologist_desc: ""
+job_elven_archaeologist_effect_desc: ""
+mod_job_elven_archaeologist_add: ""
+mod_job_elven_archaeologist_per_pop: ""
+mod_job_elven_archaeologist_per_pop_short: ""
+
+### PLANET FEATURES ###
+
+
+# AYLEID #
+
+d_elven_planetary_tir_aranad: ""
+d_elven_planetary_tir_aranad_desc: ""
+d_elven_planetary_frensca_tol_blocker: ""
+d_elven_planetary_frensca_tol_blocker_desc: ""
+d_elven_planetary_frensca_tol: ""
+d_elven_planetary_frensca_tol_desc: ""
+d_elven_planetary_sentient_dragons: ""
+d_elven_planetary_sentient_dragons_desc: ""
+d_elven_planetary_sentient_dragons_blocker: ""
+d_elven_planetary_sentient_dragons_blocker_desc: ""
+d_elven_planetary_gardens_of_heaven: ""
+d_elven_planetary_gardens_of_heaven_desc: ""
+d_elven_planetary_gardens_of_heaven_blocker: ""
+d_elven_planetary_gardens_of_heaven_blocker_desc: ""
+d_elven_planetary_forbidden_arcology_blocker: ""
+d_elven_planetary_forbidden_arcology_blocker_desc: ""
+
+# SIDH #
+
+d_elven_planetary_light_of_altanis: ""
+d_elven_planetary_light_of_altanis_desc: ""
+d_elven_planetary_daerlas_mina_blocker: ""
+d_elven_planetary_daerlas_mina_blocker_desc: ""
+d_elven_planetary_daerlas_mina: ""
+d_elven_planetary_daerlas_mina_desc: ""
+d_elven_planetary_aerostat_plantations: ""
+d_elven_planetary_aerostat_plantations_desc: ""
+d_elven_healing_spring: ""
+d_elven_healing_spring_desc: ""
+
+# ARCHEOLOGY RELATED #
+
+d_elven_planetary_elenyas_gate: ""
+d_elven_planetary_elenyas_gate_desc: ""
+
+###     RELICS      ###
+
+
+#######################
+
+
+# LHUREN #
+
+r_elven_flaming_pearl: ""
+r_elven_flaming_pearl_desc: ""
+elven_relic_flaming_pearl_active: ""
+elven_relic_events.0101.name: ""
+elven_relic_events.0101.desc: ""
+elven_relic_events.0101.a: ""
+elven_relic_events.0102.name: ""
+elven_relic_events.0102.desc: ""
+elven_relic_events.0102.a: ""
+elven_relic_events.0103.name: ""
+elven_relic_events.0103.desc: ""
+elven_relic_events.0103.a: ""
+elven_relic_events.0104.name: ""
+elven_relic_events.0104.desc: ""
+elven_relic_events.0104.a: ""
+elven_relic_events.0105.name: ""
+elven_relic_events.0105.desc: ""
+elven_relic_events.0105.a: ""
+elven_relic_events.0106.name: ""
+elven_relic_events.0106.desc: ""
+elven_relic_events.0106.a: ""
+elven_relic_flaming_pearl_rainfall: ""
+elven_relic_events.0107.name: ""
+elven_relic_events.0107.desc: ""
+elven_relic_events.0107.a: ""
+elven_relic_flaming_pearl_artifice: ""
+elven_relic_events.0108.name: ""
+elven_relic_events.0108.desc: ""
+elven_relic_events.0108.a: ""
+elven_relic_flaming_pearl_jade: ""
+elven_relic_events.0109.name: ""
+elven_relic_events.0109.desc: ""
+elven_relic_events.0109.a: ""
+elven_relic_flaming_pearl_authority: ""
+elven_relic_events.0110.name: ""
+elven_relic_events.0110.desc: ""
+elven_relic_events.0110.a: ""
+elven_relic_flaming_pearl_guardian: ""
+
+###      War Goals      ##
+
+
+##########################
+
+war_goal_wg_elven_imperial_tributary: ""
+war_goal_wg_elven_imperial_tributary_desc: ""
+cb_elven_celestial_tribute: ""
+casus_belli_cb_elven_celestial_tribute: ""
+elven_celestial_tribute_favor_fail: ""
+elven_celestial_tribute_favor: ""
