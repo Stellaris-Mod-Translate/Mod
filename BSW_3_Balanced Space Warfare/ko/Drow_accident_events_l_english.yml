@@ -1,0 +1,41 @@
+﻿l_english:
+
+
+# Ruler
+
+elven_accident_events.211.name: ""
+elven_accident_events.211.desc: ""
+
+# Governor
+
+elven_accident_events.221.name: ""
+elven_accident_events.221.desc: ""
+elven_accident_events.222.name: ""
+elven_accident_events.222.desc: "긴급 소식입니다! §R[assassin_leader.GetName]§!은(는) [assassinated_leader.GetName]의 암살 시도로 인해 현행범으로 체포되었습니다. 짧은 재판 후, [assassin_leader.GetName]는 [assassinated_leader.GetHerHis]의 범죄에 대한 대가로 처형되었습니다."
+elven_accident_events.223.name: ""
+elven_accident_events.223.desc: ""
+
+# Scientist
+
+elven_accident_events.231.name: ""
+elven_accident_events.231.desc: ""
+
+# Generic
+
+elven_accident_events.241.name: ""
+elven_accident_events.241.desc: ""
+elven_accident_events.242.name: ""
+elven_accident_events.242.desc: ""
+elven_accident_events.243.name: ""
+elven_accident_events.243.desc: ""
+elven_accident_events.244.name: ""
+elven_accident_events.244.desc: ""
+elven_accident_events.245.name: ""
+elven_accident_events.245.desc: ""
+elven_accident_events.246.name: ""
+elven_accident_events.246.desc: ""
+
+# Admiral
+
+elven_accident_events.251.name: ""
+elven_accident_events.251.desc: ""
