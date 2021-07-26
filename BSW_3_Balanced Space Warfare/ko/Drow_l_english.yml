@@ -1,0 +1,312 @@
+﻿l_english:
+
+FLAG_CATEGORY_drow: ""
+
+# Name Lists
+
+name_list_eos_namelist_drow_dunmer: ""
+name_list_eos_namelist_drow_ilythiiri: ""
+name_list_eos_namelist_drow_darkelf: ""
+
+# System Initializers
+
+drow_system_tulshar_initializer_NAME: ""
+drow_system_tulshar_initializer_DESC: ""
+drow_system_eilistraee_initializer_NAME: ""
+drow_system_eilistraee_initializer_DESC: ""
+
+# Origins 
+
+origin_drow_subterranean_inception: ""
+origin_drow_subterranean_inception_desc: ""
+origin_tooltip_drow_subterranean_inception_effects: ""
+origin_drow_prismatic_refuge: ""
+origin_drow_prismatic_refuge_desc: ""
+origin_tooltip_drow_prismatic_refuge_effects: ""
+
+### PLANET MODIFIERS ###
+
+
+########################
+
+drow_glowing_waters: ""
+drow_glowing_waters_desc: ""
+drow_strong_magnetic_field: ""
+drow_strong_magnetic_field_desc: ""
+drow_defunct_lifesupport: ""
+drow_defunct_lifesupport_desc: ""
+drow_decimated_infrastructure: ""
+drow_decimated_infrastructure_desc: ""
+drow_trait_xenocidal_terror: ""
+drow_trait_xenocidal_terror_desc: ""
+
+# Species Classes
+
+DROW: ""
+DROW_desc: ""
+DROW_plural: ""
+DROW_insult_01: ""
+DROW_insult_plural_01: ""
+DROW_insult_02: ""
+DROW_insult_plural_02: ""
+DROW_insult_03: ""
+DROW_insult_plural_03: ""
+DROW_insult_04: ""
+DROW_insult_plural_04: ""
+DROW_compliment_01: ""
+DROW_compliment_plural_01: ""
+DROW_spawn: ""
+DROW_spawn_plural: ""
+DROW_sound_01: ""
+DROW_sound_02: ""
+DROW_sound_03: ""
+DROW_sound_04: ""
+DROW_sound_05: ""
+DROW_organ: ""
+DROW_organ_plural: ""
+DROW_mouth: ""
+DROW_ear: ""
+DROW_ear_plural: ""
+DROW_hand: ""
+DROW_hand_plural: ""
+DROW_tooth: ""
+DROW_tooth_plural: ""
+RT_VALSHARESS: ""
+ILYTHIIRI: ""
+ILYTHIIRI_desc: ""
+ILYTHIIRI_plural: ""
+ILYTHIIRI_insult_01: ""
+ILYTHIIRI_insult_plural_01: ""
+ILYTHIIRI_insult_02: ""
+ILYTHIIRI_insult_plural_02: ""
+ILYTHIIRI_insult_03: ""
+ILYTHIIRI_insult_plural_03: ""
+ILYTHIIRI_insult_04: ""
+ILYTHIIRI_insult_plural_04: ""
+ILYTHIIRI_compliment_01: ""
+ILYTHIIRI_compliment_plural_01: ""
+ILYTHIIRI_spawn: ""
+ILYTHIIRI_spawn_plural: ""
+ILYTHIIRI_sound_01: ""
+ILYTHIIRI_sound_02: ""
+ILYTHIIRI_sound_03: ""
+ILYTHIIRI_sound_04: ""
+ILYTHIIRI_sound_05: ""
+ILYTHIIRI_organ: ""
+ILYTHIIRI_organ_plural: ""
+ILYTHIIRI_mouth: ""
+ILYTHIIRI_ear: ""
+ILYTHIIRI_ear_plural: ""
+ILYTHIIRI_hand: ""
+ILYTHIIRI_hand_plural: ""
+ILYTHIIRI_tooth: ""
+ILYTHIIRI_tooth_plural: ""
+
+# Traits
+
+trait_drow: ""
+trait_drow_desc: "§L엘다르의 분파에 가까운 이 종족은 그들의 형제처럼 불로는 아니지만 매우 긴 시간을 삽니다.§!\n"
+trait_drow_savage: ""
+trait_drow_savage_desc: ""
+trait_drow_xenocidal: ""
+trait_drow_xenocidal_desc: ""
+
+# Civics 
+
+civic_drow_eilistraee: ""
+civic_drow_eilistraee_desc: ""
+civic_drow_eilistraee_tooltip_effects: ""
+civic_drow_warriors: ""
+civic_drow_warriors_desc: "이 사회는 성공하기 위한 속임수와 힘을 긍정하고 장려합니다. 한명이 실패하면 다른 사람이 그 자리를 채웁니다. 끝없는 지도자간의 음모는 서로를 나태하지 않게 하고, 뒤쳐진 자는 죽어서 정리됩니다. 또한 세습을 기반으로 한 계급체계가 아니라 사이오닉적 능력에 따라 위계가 결정되며, 이러한 사이오닉 능력주의는 개인부터 집단까지 모두를 통제하고 국가는 계승권을 놓고 서로 싸우는 상태에 빠져있습니다."
+civic_drow_arcane: ""
+civic_drow_arcane_desc: "이 사회는 세습을 기반으로 한 계급체계가 아니라 사이오닉적 능력에 따라 위계가 결정되며, 이러한 사이오닉 능력주의는 개인부터 집단까지 모두를 통제하고 국가는 계승권을 놓고 서로 싸우는 상태에 빠져있습니다."
+civic_tooltip_drow_warriors_effects: ""
+
+#civic_tooltip_drow_warriors_effects:0 "지도자와 통치자들에게 §Y사고§!가 발생할 수 있습니다\n§Y평등§!, §Y기사도§! 그리고 §Y완전한 가부장제§! 성 평등 정책을 사용하지 못합니다\n$MOD_COUNTRY_INFLUENCE_GAIN_ADD$: §G+1§!\n$MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n$mod_leaders_cost_mult$: §G-50%§!\n$MOD_COUNTRY_ELECTION_INFLUENCE_COST$: §G-50%§!\n$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§!\n$mod_category_psionics_research_speed_mult$: §G+25%§!\n$MOD_COUNTRY_INSULT_EFFICIENCY$: §G+50%§!\n$MOD_COUNTRY_TRUST_CAP_ADD$: §R-50§!\n$MOD_COUNTRY_TRUST_GROWTH$: §R-75%§!\n$MOD_COUNTRY_DIPLOMACY_INFLUENCE_COST$: §R+50%§!\n"
+
+
+# New restriction text not in vanilla
+
+civic_drow_tooltip_not_materialistic: ""
+
+# Diplomacy
+
+personality_tulshar_personality: ""
+personality_tulshar_personality_desc: ""
+personality_eilistraeean_personality: ""
+personality_eilistraeean_personality_desc: ""
+gov_drow_matriarchal_council: ""
+gov_drow_matriarchal_council_desc: ""
+
+### PLANET STUFF ###
+
+pc_drow_valshaquellar: ""
+pc_drow_valshaquellar_adj: ""
+pc_drow_valshaquellar_desc: ""
+mod_pc_drow_valshaquellar_habitability: ""
+trait_pc_drow_valshaquellar_preference: ""
+trait_pc_drow_valshaquellar_preference_desc: ""
+pc_drow_valshaquellar_dead: ""
+pc_drow_valshaquellar_dead_adj: ""
+pc_drow_valshaquellar_dead_desc: ""
+mod_pc_drow_valshaquellar_dead_habitability: ""
+trait_pc_drow_valshaquellar_dead_preference: ""
+trait_pc_drow_valshaquellar_dead_preference_desc: ""
+pc_drow_speleoterrestrial: ""
+pc_drow_speleoterrestrial_adj: ""
+pc_drow_speleoterrestrial_desc: ""
+pc_drow_speleoterrestrial_habitability: ""
+mod_pc_drow_speleoterrestrial_habitability: ""
+trait_pc_drow_speleoterrestrial_preference: ""
+trait_pc_drow_speleoterrestrial_preference_desc: ""
+pc_drow_valshaquellar_tile: ""
+pc_drow_valshaquellar_tile_desc: ""
+
+### BUILDINGS ###
+
+
+#################
+
+drow_building_army_primitive: ""
+drow_building_army_primitive_desc: ""
+
+### ARMIES ###
+
+
+##############
+
+drow_primitive_army: ""
+
+# Nations 
+
+
+####################################
+
+EMPIRE_DESIGN_drow_civ1: ""
+EMPIRE_DESIGN_drow_civ1_desc: ""
+EMPIRE_DESIGN_drow_tulshar_civ: ""
+EMPIRE_DESIGN_drow_tulshar_civ_desc: ""
+
+### EVENT STUFF ###
+
+
+###################
+
+
+#[Root.GetName]
+
+drow_special.1.name: ""
+drow_special.1.desc: ""
+drow_special.1a.desc: ""
+drow_special.1.a: ""
+drow_special.2.name: ""
+drow_special.2.desc: ""
+drow_special.2.a: ""
+drow_decision_valshaquellar_repair: ""
+drow_decision_valshaquellar_repair_desc: ""
+drow_decision_valshaquellar_repair_tooltip: ""
+elven_valshaquellar_chain_title: ""
+elven_valshaquellar_chain_desc: ""
+START_SCREEN_SUBTERRANEAN_INCEPTION: ""
+
+### STAR CLASSES ###
+
+
+####################
+
+sc_drow_binary_1: ""
+sc_drow_binary_2: ""
+sc_drow_binary_3: ""
+sc_drow_trinary_1: ""
+sc_drow_trinary_2: ""
+sc_drow_quaternary_1: ""
+sc_drow_quaternary_2: ""
+sc_drow_tulshar: ""
+
+### PLANET FEATURES ###
+
+
+#######################
+
+
+## TULSHAR ##
+
+d_drow_planetary_speleostructural_instability: ""
+d_drow_planetary_speleostructural_instability_desc: ""
+d_drow_planetary_cheel_xsaus: ""
+d_drow_planetary_cheel_xsaus_desc: ""
+d_drow_planetary_murrpau_sanguine: ""
+d_drow_planetary_murrpau_sanguine_desc: ""
+d_drow_planetary_murrpau_sanguine_blocker: ""
+d_drow_planetary_murrpau_sanguine_blocker_desc: ""
+d_drow_planetary_zhevalshath_blocker: ""
+d_drow_planetary_zhevalshath_blocker_desc: ""
+d_drow_planetary_zhevalshath: ""
+d_drow_planetary_zhevalshath_desc: ""
+d_drow_planetary_subterranean_hydroponics: ""
+d_drow_planetary_subterranean_hydroponics_desc: ""
+d_drow_planetary_buried_sea: ""
+d_drow_planetary_buried_sea_desc: ""
+d_drow_planetary_happy_lizard_farms: ""
+d_drow_planetary_happy_lizard_farms_desc: ""
+d_drow_planetary_shroom_flats: ""
+d_drow_planetary_shroom_flats_desc: ""
+d_drow_planetary_luminous_lichen: ""
+d_drow_planetary_luminous_lichen_desc: ""
+d_drow_planetary_ancient_dynamos: ""
+d_drow_planetary_ancient_dynamos_desc: ""
+d_drow_planetary_sunken_geysers: ""
+d_drow_planetary_sunken_geysers_desc: ""
+d_drow_planetary_serpentine_trench: ""
+d_drow_planetary_serpentine_trench_desc: ""
+d_drow_planetary_metal_wastefields: ""
+d_drow_planetary_metal_wastefields_desc: ""
+d_drow_planetary_aurous_fissures: ""
+d_drow_planetary_aurous_fissures_desc: ""
+d_drow_planetary_carbon_subterrane: ""
+d_drow_planetary_carbon_subterrane_desc: ""
+
+## VALSHAQUELLAR ##
+
+d_drow_collapsed_spire: ""
+d_drow_collapsed_spire_desc: ""
+d_drow_massive_crevice: ""
+d_drow_massive_crevice_desc: ""
+d_drow_shattered_solar_array: ""
+d_drow_shattered_solar_array_desc: ""
+d_drow_flooded_reactor_pits: ""
+d_drow_flooded_reactor_pits_desc: ""
+d_drow_ancient_reactor_pits: ""
+d_drow_ancient_reactor_pits_desc: ""
+d_drow_immense_solar_array: ""
+d_drow_immense_solar_array_desc: ""
+d_drow_central_spire: ""
+d_drow_central_spire_desc: ""
+d_drow_industrial_sector: ""
+d_drow_industrial_sector_desc: ""
+d_drow_relic_dense_ruins: ""
+d_drow_relic_dense_ruins_desc: ""
+
+## EILISTRAEEN ##
+
+d_drow_planetary_feral_fairies: ""
+d_drow_planetary_feral_fairies_desc: ""
+d_drow_planetary_cp_klepto_fairies: ""
+d_drow_planetary_cp_klepto_fairies_desc: ""
+d_drow_planetary_feral_fairies_blocker: ""
+d_drow_planetary_feral_fairies_blocker_desc: ""
+d_drow_planetary_glowing_forests: ""
+d_drow_planetary_glowing_forests_desc: ""
+d_drow_planetary_glowing_forests_blocker: ""
+d_drow_planetary_glowing_forests_blocker_desc: ""
+d_drow_planetary_cheel_krezust: ""
+d_drow_planetary_cheel_krezust_desc: ""
+d_drow_planetary_glowing_oceans: ""
+d_drow_planetary_glowing_oceans_desc: ""
+
+## FALLEN EMPIRES ##
+
+d_drow_planetary_cheel_phalar_blocker: ""
+d_drow_planetary_cheel_phalar_blocker_desc: ""
+d_drow_planetary_cheel_phalar_cursed: ""
+d_drow_planetary_cheel_phalar_cursed_desc: ""
