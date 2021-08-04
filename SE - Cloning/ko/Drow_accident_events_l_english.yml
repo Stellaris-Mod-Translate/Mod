@@ -1,0 +1,41 @@
+﻿l_english:
+
+
+# Ruler
+
+elven_accident_events.211.name: ""
+elven_accident_events.211.desc: ""
+
+# Governor
+
+elven_accident_events.221.name: ""
+elven_accident_events.221.desc: "§R[assassinated_leader.GetName]§!은(는) [assassinated_leader.GetHerHis]의 저택의 피웅덩이에서 누운 채로 발견되었습니다. 살해자의 동기에 대해선 밝혀진 바가 없습니다. [assassinated_leader.GetName]은 [assassinated_leader.GetHerHis]의 자녀들과 약간의 문제가 있었다고 알려져 있었습니다. 혹은 지난달에 [assassinated_leader.GetSheHe]가 서명했던 멍청한 법안 때문일지도 모릅니다. 평의회는 아직도 그 법안에 대해 분노하고 있으니까요."
+elven_accident_events.222.name: ""
+elven_accident_events.222.desc: ""
+elven_accident_events.223.name: ""
+elven_accident_events.223.desc: ""
+
+# Scientist
+
+elven_accident_events.231.name: ""
+elven_accident_events.231.desc: ""
+
+# Generic
+
+elven_accident_events.241.name: ""
+elven_accident_events.241.desc: ""
+elven_accident_events.242.name: ""
+elven_accident_events.242.desc: ""
+elven_accident_events.243.name: ""
+elven_accident_events.243.desc: ""
+elven_accident_events.244.name: ""
+elven_accident_events.244.desc: ""
+elven_accident_events.245.name: ""
+elven_accident_events.245.desc: ""
+elven_accident_events.246.name: ""
+elven_accident_events.246.desc: ""
+
+# Admiral
+
+elven_accident_events.251.name: ""
+elven_accident_events.251.desc: ""
