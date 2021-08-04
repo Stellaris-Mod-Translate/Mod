@@ -1371,7 +1371,7 @@ NO_ELITE_RULE: ""
 NO_ELITISM_TRADITION: ""
 NO_ELITIST_INDOCTRINATION: ""
 
-#Unlocks planetary edict §YBlood Sacrifice§!, which is available only in times of War and can be used once a year. It randomy kills a Pop and provides global temporary (a year) Empire's modifier, increasing §YRivalry Influece Gain§! by §G25%§!, §Y$MOD_SHIP_FIRE_RATE_MULT$§! by §G15%§! and §Y$MOD_ARMY_MORALE$§! is increased by §G10%§!, and a temporary (a year) planet's modifier, reducing local §YHappiness§! by §G5%§!.
+#행성칙령 §Y피의 희생§!을 사용할 수 있습니다, 이 칙령은 일년에 한번 전쟁중 사용 가능합니다. 무작위의 인구 한명을 제거하여 전제국에 한시적 (1년) 제국 모디파이어를 부여합니다 §Y경쟁자 영향력 휙득량§! §G25%§! 증가, §Y$MOD_SHIP_FIRE_RATE_MULT$§! §G15%§! 증가 그리고 §Y$MOD_ARMY_MORALE$§!가 §G10%§!만큼 강화합니다. 그리고 한시적 (1년) 행성 모디파이어로 §Y행복도§!가 §G5%§! 감소합니다..
 
 NO_ENERGY_INFRASTRUCTURE: ""
 NO_ENGINEERING_SCIENCE: ""
@@ -2483,12 +2483,12 @@ XENO_ZOO: ""
 mod_job_corporate_researcher_per_pop_short: ""
 01_INSULT_PROPOSE_IND_COL: ""
 TRADE_INNOVATIONS: ""
-02_INSULT_PROPOSE_COL_IND: ""
+02_INSULT_PROPOSE_COL_IND: "그래서 오늘날 너희의 웃기는 조그마한 항성 국가를 지배하는 것이 누구지? 정말 진기한 생각이군, 누군가를 '투표'로 집권시키다니! 당연하게도, 그것이 필연적으로 너희의 몰락으로 이어질 것이다."
 TRADE_INNOVATIONS_DESC: ""
 02_INSULT_PROPOSE_IND_COL: ""
 03_INSULT_PROPOSE_COL_IND: ""
 job_entrepreneur: ""
-03_INSULT_PROPOSE_IND_COL: ""
+03_INSULT_PROPOSE_IND_COL: "[Root.GetName]와 같은 권위주의 국가가 존재할 수 있다는 것은 얼마나 슬픈 일인가. 모든 곳의 지성체들에게 부끄러운 일이다."
 job_entrepreneur_plural: ""
 04_INSULT_PROPOSE_COL_IND: ""
 job_entrepreneur_desc: ""
