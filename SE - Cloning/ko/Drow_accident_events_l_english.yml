@@ -1,7 +1,7 @@
 ﻿l_english:
 
 
-# Ruler
+
 
 elven_accident_events.211.name: ""
 elven_accident_events.211.desc: ""
@@ -18,18 +18,18 @@ elven_accident_events.223.desc: ""
 # Scientist
 
 elven_accident_events.231.name: ""
-elven_accident_events.231.desc: ""
+elven_accident_events.231.desc: "§R[assassinated_leader.GetName]§!은(는) 권력을 유지하기엔 너무 멍청했습니다. 어리석은 자만이 자신이 알아낸 바를 소리내 떠드는 것이죠! [assassinated_leader.GetHerHim]가 이 사건에서 교훈을 얻었길 바랍니다."
 
 # Generic
 
 elven_accident_events.241.name: ""
-elven_accident_events.241.desc: ""
+elven_accident_events.241.desc: "[assassinated_leader.GetHerHim]에게 불운하게도, §R[assassinated_leader.GetName]§!은(는) 격노한 여사제를 우연히 만났습니다. 하지만 [assassinated_leader.GetSheHe]의 죽음은 헛되지 않았습니다. [assassinated_leader.GetHerHis]의 죽음으로 여사제는 진정했으며, 추가적인 사망자는 발생하지 않았습니다."
 elven_accident_events.242.name: ""
-elven_accident_events.242.desc: ""
+elven_accident_events.242.desc: "§R[assassinated_leader.GetName]§!은(는) 좁은 길을 걸어가던 도중, 갑작스래 자신의 가슴에 튀어나온 칼날을 발견했습니다. 우리 모두에게 교훈이 되는 죽음이었습니다. 방심은 금물!"
 elven_accident_events.243.name: ""
-elven_accident_events.243.desc: ""
+elven_accident_events.243.desc: "§R[assassinated_leader.GetName]§!은(는) 여사제의 변덕에 의해 산채로 거미에게 잡아먹혔습니다! 긍정적인 면을 보자면, 여신께서 총애하시는 이 절지동물이 한동안 배가 부르겠군요."
 elven_accident_events.244.name: ""
-elven_accident_events.244.desc: ""
+elven_accident_events.244.desc: "§R[assassinated_leader.GetName]§!은(는) 갑작스레 사라졌습니다! [assassinated_leader.GetHerHis]의 신체에 대한 흔적이나, 원한에 대한 어떠한 증거도 발견되지 않았습니다. [assassinated_leader.GetSheHe]는 죽었거나, 겁쟁이처럼 도망쳤겠죠. 이에 대한 추가적인 조사는 불필요할듯 합니다."
 elven_accident_events.245.name: ""
 elven_accident_events.245.desc: ""
 elven_accident_events.246.name: ""
