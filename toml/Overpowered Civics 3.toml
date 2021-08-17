@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Overpowered Civics 3/en/*.yml"
 	l10n = "Overpowered Civics 3/{locale}/*.yml"

@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Planetary Assault Army & Ship/en/*.yml"
 	l10n = "Planetary Assault Army & Ship/{locale}/*.yml"

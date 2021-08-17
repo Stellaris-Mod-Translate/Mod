@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Nemesis++/en/*.yml"
 	l10n = "Nemesis++/{locale}/*.yml"

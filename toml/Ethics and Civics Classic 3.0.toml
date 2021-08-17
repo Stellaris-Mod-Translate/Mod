@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Ethics and Civics Classic 3.0/en/*.yml"
 	l10n = "Ethics and Civics Classic 3.0/{locale}/*.yml"

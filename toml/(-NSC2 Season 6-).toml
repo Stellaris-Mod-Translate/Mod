@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "(-NSC2 Season 6-)/en/*.yml"
 	l10n = "(-NSC2 Season 6-)/{locale}/*.yml"

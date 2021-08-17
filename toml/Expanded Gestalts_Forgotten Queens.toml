@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Expanded Gestalts_Forgotten Queens/en/*.yml"
 	l10n = "Expanded Gestalts_Forgotten Queens/{locale}/*.yml"

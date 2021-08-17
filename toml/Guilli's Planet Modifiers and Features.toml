@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Guilli's Planet Modifiers and Features/en/*.yml"
 	l10n = "Guilli's Planet Modifiers and Features/{locale}/*.yml"

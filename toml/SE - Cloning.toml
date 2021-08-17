@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "SE - Cloning/en/*.yml"
 	l10n = "SE - Cloning/{locale}/*.yml"

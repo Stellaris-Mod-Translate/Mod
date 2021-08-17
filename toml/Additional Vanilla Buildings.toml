@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Additional Vanilla Buildings/en/*.yml"
 	l10n = "Additional Vanilla Buildings/{locale}/*.yml"

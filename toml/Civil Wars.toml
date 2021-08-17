@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Civil Wars/en/*.yml"
 	l10n = "Civil Wars/{locale}/*.yml"

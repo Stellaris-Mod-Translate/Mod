@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "! Better Performance & Utilities !/en/*.yml"
 	l10n = "! Better Performance & Utilities !/{locale}/*.yml"

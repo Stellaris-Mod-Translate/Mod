@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Residential Arcologies/en/*.yml"
 	l10n = "Residential Arcologies/{locale}/*.yml"

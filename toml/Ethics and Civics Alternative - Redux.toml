@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Ethics and Civics Alternative - Redux/en/*.yml"
 	l10n = "Ethics and Civics Alternative - Redux/{locale}/*.yml"

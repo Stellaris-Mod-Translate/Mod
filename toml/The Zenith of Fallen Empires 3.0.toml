@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "The Zenith of Fallen Empires 3.0/en/*.yml"
 	l10n = "The Zenith of Fallen Empires 3.0/{locale}/*.yml"

@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Otter Editor Expanded/en/*.yml"
 	l10n = "Otter Editor Expanded/{locale}/*.yml"

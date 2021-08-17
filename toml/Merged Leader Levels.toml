@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Merged Leader Levels/en/*.yml"
 	l10n = "Merged Leader Levels/{locale}/*.yml"

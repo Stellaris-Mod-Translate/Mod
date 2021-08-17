@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Storypack The Nyblax and the Collector/en/*.yml"
 	l10n = "Storypack The Nyblax and the Collector/{locale}/*.yml"

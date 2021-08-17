@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Sexopolis/en/*.yml"
 	l10n = "Sexopolis/{locale}/*.yml"

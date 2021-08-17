@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Starbase Buildings & Modules/en/*.yml"
 	l10n = "Starbase Buildings & Modules/{locale}/*.yml"

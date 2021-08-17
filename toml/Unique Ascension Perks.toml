@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Unique Ascension Perks/en/*.yml"
 	l10n = "Unique Ascension Perks/{locale}/*.yml"

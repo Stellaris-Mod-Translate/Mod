@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Precursor Story Pack/en/*.yml"
 	l10n = "Precursor Story Pack/{locale}/*.yml"

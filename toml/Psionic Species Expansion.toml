@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Psionic Species Expansion/en/*.yml"
 	l10n = "Psionic Species Expansion/{locale}/*.yml"

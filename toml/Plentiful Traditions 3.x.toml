@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Plentiful Traditions 3.x/en/*.yml"
 	l10n = "Plentiful Traditions 3.x/{locale}/*.yml"

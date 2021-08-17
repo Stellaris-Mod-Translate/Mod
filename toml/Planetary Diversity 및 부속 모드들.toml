@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Planetary Diversity 및 부속 모드들/en/*.yml"
 	l10n = "Planetary Diversity 및 부속 모드들/{locale}/*.yml"

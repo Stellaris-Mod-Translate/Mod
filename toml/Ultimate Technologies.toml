@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "Ultimate Technologies/en/*.yml"
 	l10n = "Ultimate Technologies/{locale}/*.yml"

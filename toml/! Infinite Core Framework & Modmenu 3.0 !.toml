@@ -1,5 +1,5 @@
 basepath = ".."
 
-[[pahts]]
+[[paths]]
 	reference = "! Infinite Core Framework & Modmenu 3.0 !/en/*.yml"
 	l10n = "! Infinite Core Framework & Modmenu 3.0 !/{locale}/*.yml"
