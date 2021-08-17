@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Galactic Community Expanded.toml/en/*.yml"
+	reference = "Galactic Community Expanded.toml/{locale}/*.yml"

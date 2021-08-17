@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "! Better Performance & Utilities !.toml/en/*.yml"
+	reference = "! Better Performance & Utilities !.toml/{locale}/*.yml"

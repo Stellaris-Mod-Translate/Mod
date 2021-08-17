@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Psionic Species Expansion.toml/en/*.yml"
+	reference = "Psionic Species Expansion.toml/{locale}/*.yml"

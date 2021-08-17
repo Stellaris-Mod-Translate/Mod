@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "The Zenith of Fallen Empires_Origins.toml/en/*.yml"
+	reference = "The Zenith of Fallen Empires_Origins.toml/{locale}/*.yml"

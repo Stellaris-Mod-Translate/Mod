@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Extra Ship Components 3.0 [Actual].toml/en/*.yml"
+	reference = "Extra Ship Components 3.0 [Actual].toml/{locale}/*.yml"

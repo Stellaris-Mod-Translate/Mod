@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Planetary Diversity 및 부속 모드들.toml/en/*.yml"
+	reference = "Planetary Diversity 및 부속 모드들.toml/{locale}/*.yml"

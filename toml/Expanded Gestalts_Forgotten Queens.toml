@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Expanded Gestalts_Forgotten Queens.toml/en/*.yml"
+	reference = "Expanded Gestalts_Forgotten Queens.toml/{locale}/*.yml"

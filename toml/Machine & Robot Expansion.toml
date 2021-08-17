@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Machine & Robot Expansion.toml/en/*.yml"
+	reference = "Machine & Robot Expansion.toml/{locale}/*.yml"

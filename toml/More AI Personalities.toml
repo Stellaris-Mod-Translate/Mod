@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "More AI Personalities.toml/en/*.yml"
+	reference = "More AI Personalities.toml/{locale}/*.yml"

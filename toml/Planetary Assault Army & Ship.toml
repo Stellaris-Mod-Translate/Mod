@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Planetary Assault Army & Ship.toml/en/*.yml"
+	reference = "Planetary Assault Army & Ship.toml/{locale}/*.yml"

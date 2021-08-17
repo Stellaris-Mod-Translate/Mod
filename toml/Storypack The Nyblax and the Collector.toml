@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Storypack The Nyblax and the Collector.toml/en/*.yml"
+	reference = "Storypack The Nyblax and the Collector.toml/{locale}/*.yml"

@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Civil Wars.toml/en/*.yml"
+	reference = "Civil Wars.toml/{locale}/*.yml"

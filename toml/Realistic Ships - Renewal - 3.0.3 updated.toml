@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Realistic Ships - Renewal - 3.0.3 updated.toml/en/*.yml"
+	reference = "Realistic Ships - Renewal - 3.0.3 updated.toml/{locale}/*.yml"

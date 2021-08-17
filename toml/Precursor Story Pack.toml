@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Precursor Story Pack.toml/en/*.yml"
+	reference = "Precursor Story Pack.toml/{locale}/*.yml"

@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Ultimate Imperium of Man Namelist.toml/en/*.yml"
+	reference = "Ultimate Imperium of Man Namelist.toml/{locale}/*.yml"

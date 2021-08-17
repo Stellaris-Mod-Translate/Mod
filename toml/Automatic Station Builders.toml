@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Automatic Station Builders.toml/en/*.yml"
+	reference = "Automatic Station Builders.toml/{locale}/*.yml"

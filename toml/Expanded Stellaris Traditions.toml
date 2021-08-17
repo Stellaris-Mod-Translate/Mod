@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Expanded Stellaris Traditions.toml/en/*.yml"
+	reference = "Expanded Stellaris Traditions.toml/{locale}/*.yml"

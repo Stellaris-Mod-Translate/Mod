@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Ultimate Technologies.toml/en/*.yml"
+	reference = "Ultimate Technologies.toml/{locale}/*.yml"

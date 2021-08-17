@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "(-NSC2 Season 6-).toml/en/*.yml"
+	reference = "(-NSC2 Season 6-).toml/{locale}/*.yml"

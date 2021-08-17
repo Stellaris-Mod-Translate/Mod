@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Expanded Starbases.toml/en/*.yml"
+	reference = "Expanded Starbases.toml/{locale}/*.yml"

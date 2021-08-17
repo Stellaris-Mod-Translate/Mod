@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Abandon Colony.toml/en/*.yml"
+	reference = "Abandon Colony.toml/{locale}/*.yml"

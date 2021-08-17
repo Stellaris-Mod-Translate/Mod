@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[pahts]]
+	reference = "Merged Leader Levels.toml/en/*.yml"
+	reference = "Merged Leader Levels.toml/{locale}/*.yml"
