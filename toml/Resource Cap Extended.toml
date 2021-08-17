@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Resource Cap Extended/en/*.yml"
-	reference = "Resource Cap Extended/{locale}/*.yml"
+	l10n = "Resource Cap Extended/{locale}/*.yml"

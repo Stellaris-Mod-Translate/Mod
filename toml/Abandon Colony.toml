@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Abandon Colony/en/*.yml"
-	reference = "Abandon Colony/{locale}/*.yml"
+	l10n = "Abandon Colony/{locale}/*.yml"

@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Civil Wars/en/*.yml"
-	reference = "Civil Wars/{locale}/*.yml"
+	l10n = "Civil Wars/{locale}/*.yml"

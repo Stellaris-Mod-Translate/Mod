@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Starbase Buildings & Modules/en/*.yml"
-	reference = "Starbase Buildings & Modules/{locale}/*.yml"
+	l10n = "Starbase Buildings & Modules/{locale}/*.yml"

@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Superstrucutre for Real Space v2.0/en/*.yml"
-	reference = "Superstrucutre for Real Space v2.0/{locale}/*.yml"
+	l10n = "Superstrucutre for Real Space v2.0/{locale}/*.yml"

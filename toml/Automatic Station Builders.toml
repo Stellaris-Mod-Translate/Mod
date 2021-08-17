@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Automatic Station Builders/en/*.yml"
-	reference = "Automatic Station Builders/{locale}/*.yml"
+	l10n = "Automatic Station Builders/{locale}/*.yml"

@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Guilli's Planet Modifiers and Features/en/*.yml"
-	reference = "Guilli's Planet Modifiers and Features/{locale}/*.yml"
+	l10n = "Guilli's Planet Modifiers and Features/{locale}/*.yml"

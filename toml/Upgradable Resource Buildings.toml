@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Upgradable Resource Buildings/en/*.yml"
-	reference = "Upgradable Resource Buildings/{locale}/*.yml"
+	l10n = "Upgradable Resource Buildings/{locale}/*.yml"

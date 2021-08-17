@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "More AI Personalities/en/*.yml"
-	reference = "More AI Personalities/{locale}/*.yml"
+	l10n = "More AI Personalities/{locale}/*.yml"

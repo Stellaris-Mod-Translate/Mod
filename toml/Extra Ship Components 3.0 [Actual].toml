@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Extra Ship Components 3.0 [Actual]/en/*.yml"
-	reference = "Extra Ship Components 3.0 [Actual]/{locale}/*.yml"
+	l10n = "Extra Ship Components 3.0 [Actual]/{locale}/*.yml"

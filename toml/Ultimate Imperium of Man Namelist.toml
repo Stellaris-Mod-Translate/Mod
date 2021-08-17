@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Ultimate Imperium of Man Namelist/en/*.yml"
-	reference = "Ultimate Imperium of Man Namelist/{locale}/*.yml"
+	l10n = "Ultimate Imperium of Man Namelist/{locale}/*.yml"

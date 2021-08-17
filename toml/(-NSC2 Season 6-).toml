@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "(-NSC2 Season 6-)/en/*.yml"
-	reference = "(-NSC2 Season 6-)/{locale}/*.yml"
+	l10n = "(-NSC2 Season 6-)/{locale}/*.yml"

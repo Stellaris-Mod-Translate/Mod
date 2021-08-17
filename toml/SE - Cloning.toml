@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "SE - Cloning/en/*.yml"
-	reference = "SE - Cloning/{locale}/*.yml"
+	l10n = "SE - Cloning/{locale}/*.yml"

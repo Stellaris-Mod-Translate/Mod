@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "! Infinite Core Framework & Modmenu 3.0 !/en/*.yml"
-	reference = "! Infinite Core Framework & Modmenu 3.0 !/{locale}/*.yml"
+	l10n = "! Infinite Core Framework & Modmenu 3.0 !/{locale}/*.yml"

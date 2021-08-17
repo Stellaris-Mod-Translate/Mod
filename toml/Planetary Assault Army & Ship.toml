@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Planetary Assault Army & Ship/en/*.yml"
-	reference = "Planetary Assault Army & Ship/{locale}/*.yml"
+	l10n = "Planetary Assault Army & Ship/{locale}/*.yml"

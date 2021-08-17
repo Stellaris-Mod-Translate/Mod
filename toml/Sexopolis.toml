@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Sexopolis/en/*.yml"
-	reference = "Sexopolis/{locale}/*.yml"
+	l10n = "Sexopolis/{locale}/*.yml"

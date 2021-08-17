@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Expanded Gestalts_Forgotten Queens/en/*.yml"
-	reference = "Expanded Gestalts_Forgotten Queens/{locale}/*.yml"
+	l10n = "Expanded Gestalts_Forgotten Queens/{locale}/*.yml"

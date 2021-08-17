@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Psionic Species Expansion/en/*.yml"
-	reference = "Psionic Species Expansion/{locale}/*.yml"
+	l10n = "Psionic Species Expansion/{locale}/*.yml"

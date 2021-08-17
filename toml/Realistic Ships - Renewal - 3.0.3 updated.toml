@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Realistic Ships - Renewal - 3.0.3 updated/en/*.yml"
-	reference = "Realistic Ships - Renewal - 3.0.3 updated/{locale}/*.yml"
+	l10n = "Realistic Ships - Renewal - 3.0.3 updated/{locale}/*.yml"

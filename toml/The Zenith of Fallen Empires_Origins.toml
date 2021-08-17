@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "The Zenith of Fallen Empires_Origins/en/*.yml"
-	reference = "The Zenith of Fallen Empires_Origins/{locale}/*.yml"
+	l10n = "The Zenith of Fallen Empires_Origins/{locale}/*.yml"

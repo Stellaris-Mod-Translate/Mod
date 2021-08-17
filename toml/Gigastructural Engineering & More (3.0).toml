@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Gigastructural Engineering & More (3.0)/en/*.yml"
-	reference = "Gigastructural Engineering & More (3.0)/{locale}/*.yml"
+	l10n = "Gigastructural Engineering & More (3.0)/{locale}/*.yml"

@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Storypack The Nyblax and the Collector/en/*.yml"
-	reference = "Storypack The Nyblax and the Collector/{locale}/*.yml"
+	l10n = "Storypack The Nyblax and the Collector/{locale}/*.yml"

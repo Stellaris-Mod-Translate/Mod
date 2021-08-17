@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "! Better Performance & Utilities !/en/*.yml"
-	reference = "! Better Performance & Utilities !/{locale}/*.yml"
+	l10n = "! Better Performance & Utilities !/{locale}/*.yml"

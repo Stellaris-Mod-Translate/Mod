@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Nemesis++/en/*.yml"
-	reference = "Nemesis++/{locale}/*.yml"
+	l10n = "Nemesis++/{locale}/*.yml"

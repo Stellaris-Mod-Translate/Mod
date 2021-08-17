@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Machine & Robot Expansion/en/*.yml"
-	reference = "Machine & Robot Expansion/{locale}/*.yml"
+	l10n = "Machine & Robot Expansion/{locale}/*.yml"

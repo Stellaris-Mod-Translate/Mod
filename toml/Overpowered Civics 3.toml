@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Overpowered Civics 3/en/*.yml"
-	reference = "Overpowered Civics 3/{locale}/*.yml"
+	l10n = "Overpowered Civics 3/{locale}/*.yml"

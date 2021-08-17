@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Precursor Story Pack/en/*.yml"
-	reference = "Precursor Story Pack/{locale}/*.yml"
+	l10n = "Precursor Story Pack/{locale}/*.yml"

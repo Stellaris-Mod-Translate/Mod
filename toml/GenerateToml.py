@@ -7,7 +7,7 @@ def write_toml(file, name):
     file.write('basepath = \"..\"\n\n')
     file.write('[[pahts]]\n')
     file.write(f'\treference = \"{name}/en/*.yml\"\n')
-    file.write(f'\treference = \"{name}/{{locale}}/*.yml\"')
+    file.write(f'\tl10n = \"{name}/{{locale}}/*.yml\"')
 
 def main():
     toml_path = Path.cwd()

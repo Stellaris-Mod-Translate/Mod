@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Unique Ascension Perks/en/*.yml"
-	reference = "Unique Ascension Perks/{locale}/*.yml"
+	l10n = "Unique Ascension Perks/{locale}/*.yml"

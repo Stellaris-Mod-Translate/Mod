@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Archaeology Story Pack/en/*.yml"
-	reference = "Archaeology Story Pack/{locale}/*.yml"
+	l10n = "Archaeology Story Pack/{locale}/*.yml"

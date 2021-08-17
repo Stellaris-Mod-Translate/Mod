@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Elves of Stellaris/en/*.yml"
-	reference = "Elves of Stellaris/{locale}/*.yml"
+	l10n = "Elves of Stellaris/{locale}/*.yml"

@@ -2,4 +2,4 @@ basepath = ".."
 
 [[pahts]]
 	reference = "Ancient Dreadnought and Improved Titan 3.0/en/*.yml"
-	reference = "Ancient Dreadnought and Improved Titan 3.0/{locale}/*.yml"
+	l10n = "Ancient Dreadnought and Improved Titan 3.0/{locale}/*.yml"
