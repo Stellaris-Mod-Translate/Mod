@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "SE - Cloning.toml/en/*.yml"
-	reference = "SE - Cloning.toml/{locale}/*.yml"
+	reference = "SE - Cloning/en/*.yml"
+	reference = "SE - Cloning/{locale}/*.yml"

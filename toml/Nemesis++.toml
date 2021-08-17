@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Nemesis++.toml/en/*.yml"
-	reference = "Nemesis++.toml/{locale}/*.yml"
+	reference = "Nemesis++/en/*.yml"
+	reference = "Nemesis++/{locale}/*.yml"

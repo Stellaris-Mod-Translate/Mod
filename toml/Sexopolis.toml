@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Sexopolis.toml/en/*.yml"
-	reference = "Sexopolis.toml/{locale}/*.yml"
+	reference = "Sexopolis/en/*.yml"
+	reference = "Sexopolis/{locale}/*.yml"

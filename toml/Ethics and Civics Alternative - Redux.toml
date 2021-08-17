@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Ethics and Civics Alternative - Redux.toml/en/*.yml"
-	reference = "Ethics and Civics Alternative - Redux.toml/{locale}/*.yml"
+	reference = "Ethics and Civics Alternative - Redux/en/*.yml"
+	reference = "Ethics and Civics Alternative - Redux/{locale}/*.yml"

@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Otter Editor Expanded.toml/en/*.yml"
-	reference = "Otter Editor Expanded.toml/{locale}/*.yml"
+	reference = "Otter Editor Expanded/en/*.yml"
+	reference = "Otter Editor Expanded/{locale}/*.yml"

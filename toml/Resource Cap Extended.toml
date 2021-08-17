@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Resource Cap Extended.toml/en/*.yml"
-	reference = "Resource Cap Extended.toml/{locale}/*.yml"
+	reference = "Resource Cap Extended/en/*.yml"
+	reference = "Resource Cap Extended/{locale}/*.yml"

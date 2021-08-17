@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Ultimate Eldar Namelist.toml/en/*.yml"
-	reference = "Ultimate Eldar Namelist.toml/{locale}/*.yml"
+	reference = "Ultimate Eldar Namelist/en/*.yml"
+	reference = "Ultimate Eldar Namelist/{locale}/*.yml"

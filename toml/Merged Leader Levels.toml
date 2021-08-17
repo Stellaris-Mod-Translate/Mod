@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Merged Leader Levels.toml/en/*.yml"
-	reference = "Merged Leader Levels.toml/{locale}/*.yml"
+	reference = "Merged Leader Levels/en/*.yml"
+	reference = "Merged Leader Levels/{locale}/*.yml"

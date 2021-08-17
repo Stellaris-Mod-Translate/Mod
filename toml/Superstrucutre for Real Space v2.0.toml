@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Superstrucutre for Real Space v2.0.toml/en/*.yml"
-	reference = "Superstrucutre for Real Space v2.0.toml/{locale}/*.yml"
+	reference = "Superstrucutre for Real Space v2.0/en/*.yml"
+	reference = "Superstrucutre for Real Space v2.0/{locale}/*.yml"

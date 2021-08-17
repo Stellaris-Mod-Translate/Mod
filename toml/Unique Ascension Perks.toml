@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Unique Ascension Perks.toml/en/*.yml"
-	reference = "Unique Ascension Perks.toml/{locale}/*.yml"
+	reference = "Unique Ascension Perks/en/*.yml"
+	reference = "Unique Ascension Perks/{locale}/*.yml"

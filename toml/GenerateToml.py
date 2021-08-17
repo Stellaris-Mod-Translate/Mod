@@ -17,7 +17,7 @@ def main():
     for mod_path in mod_path_lists:
         toml_file_path = toml_path / (mod_path.name + '.toml')
         with toml_file_path.open(mode='w', encoding='utf-8') as f:
-            write_toml(f, toml_file_path.name)
+            write_toml(f, mod_path.name)
             print(f'Write {toml_file_path.name}')
 
 if __name__ == "__main__":

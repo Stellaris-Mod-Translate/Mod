@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Terraform Planetary Deposits.toml/en/*.yml"
-	reference = "Terraform Planetary Deposits.toml/{locale}/*.yml"
+	reference = "Terraform Planetary Deposits/en/*.yml"
+	reference = "Terraform Planetary Deposits/{locale}/*.yml"

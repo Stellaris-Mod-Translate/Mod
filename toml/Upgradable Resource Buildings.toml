@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Upgradable Resource Buildings.toml/en/*.yml"
-	reference = "Upgradable Resource Buildings.toml/{locale}/*.yml"
+	reference = "Upgradable Resource Buildings/en/*.yml"
+	reference = "Upgradable Resource Buildings/{locale}/*.yml"

@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "! Infinite Core Framework & Modmenu 3.0 !.toml/en/*.yml"
-	reference = "! Infinite Core Framework & Modmenu 3.0 !.toml/{locale}/*.yml"
+	reference = "! Infinite Core Framework & Modmenu 3.0 !/en/*.yml"
+	reference = "! Infinite Core Framework & Modmenu 3.0 !/{locale}/*.yml"

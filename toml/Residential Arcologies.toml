@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Residential Arcologies.toml/en/*.yml"
-	reference = "Residential Arcologies.toml/{locale}/*.yml"
+	reference = "Residential Arcologies/en/*.yml"
+	reference = "Residential Arcologies/{locale}/*.yml"

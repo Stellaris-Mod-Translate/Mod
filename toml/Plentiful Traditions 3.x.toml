@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "Plentiful Traditions 3.x.toml/en/*.yml"
-	reference = "Plentiful Traditions 3.x.toml/{locale}/*.yml"
+	reference = "Plentiful Traditions 3.x/en/*.yml"
+	reference = "Plentiful Traditions 3.x/{locale}/*.yml"

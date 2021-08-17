@@ -1,5 +1,5 @@
 basepath = ".."
 
 [[pahts]]
-	reference = "BSW_3_Balanced Space Warfare.toml/en/*.yml"
-	reference = "BSW_3_Balanced Space Warfare.toml/{locale}/*.yml"
+	reference = "BSW_3_Balanced Space Warfare/en/*.yml"
+	reference = "BSW_3_Balanced Space Warfare/{locale}/*.yml"
