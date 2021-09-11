@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Planetary Diversity 및 부속 모드들/en/*.yml"

@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Planetary Assault Army & Ship/en/*.yml"

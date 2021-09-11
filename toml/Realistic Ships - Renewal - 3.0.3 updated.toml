@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Realistic Ships - Renewal - 3.0.3 updated/en/*.yml"

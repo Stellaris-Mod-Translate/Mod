@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "BSW_3_Balanced Space Warfare/en/*.yml"

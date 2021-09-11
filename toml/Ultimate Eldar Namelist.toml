@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Ultimate Eldar Namelist/en/*.yml"

@@ -4,7 +4,7 @@ def is_mod_directory(path):
     return (path / 'en').is_dir()
 
 def write_toml(file, name):
-    file.write('basepath = \"..\"\n\n')
+    file.write('basepath = \"./\"\n\n')
     file.write('[[paths]]\n')
     file.write(f'\treference = \"{name}/en/*.yml\"\n')
     file.write(f'\tl10n = \"{name}/{{locale}}/*.yml\"')

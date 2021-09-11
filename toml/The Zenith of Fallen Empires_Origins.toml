@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "The Zenith of Fallen Empires_Origins/en/*.yml"

@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Ancient Dreadnought and Improved Titan 3.0/en/*.yml"

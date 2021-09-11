@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Guilli's Planet Modifiers and Features/en/*.yml"

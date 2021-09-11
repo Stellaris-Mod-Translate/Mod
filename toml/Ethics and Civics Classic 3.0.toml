@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Ethics and Civics Classic 3.0/en/*.yml"

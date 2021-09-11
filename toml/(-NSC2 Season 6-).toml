@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "(-NSC2 Season 6-)/en/*.yml"

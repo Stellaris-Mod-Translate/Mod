@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Storypack The Nyblax and the Collector/en/*.yml"

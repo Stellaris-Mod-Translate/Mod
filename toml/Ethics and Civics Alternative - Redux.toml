@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "./"
 
 [[paths]]
 	reference = "Ethics and Civics Alternative - Redux/en/*.yml"
