@@ -1,0 +1,5 @@
+basepath = "./"
+
+[[paths]]
+	reference = "Automatic Station Builders/en/*.yml"
+	l10n = "Automatic Station Builders/{locale}/*.yml"
