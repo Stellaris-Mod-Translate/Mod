@@ -1,195 +1,144 @@
 ﻿l_english:
 
 
-##################################################################################################################################################################################################################
 ### STARBASE MODULES & BUILDINGS ###
+
+
 #############################################
 
-stb_shipyard:0 "조선소"
-stb_shipyard_desc:0 "함선 건조에 초점을 맞춘 항성기지입니다."
-
-sm_drydock:0 "건선거"
-sm_drydock_desc:0 "이 특수 설계된 시설은 첨단 기술을 사용하여 조선소 내의 기압을 유지함으로써 기술자들이 더 쉽게 함선을 건조, 유지, 업그레이드 및 수리를 진행할 수 있도록 합니다."
-
-sm_sensor_station:0 "감지 스테이션"
-sm_sensor_station_desc:0 "항성기지의 감지 스테이션은 첨단 센서 배열을 사용하여 여러 항성계에 걸쳐 우리의 정보수집 기능을 확장하여 국경 인근에 있을 수 있는 모든 위협에 대한 정보를 제공합니다."
-
-sm_solar_panel_01:0 "소형 태양광 발전망"
-sm_solar_panel_01_desc:0 "이 작은 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
-sm_solar_panel_02:0 "중형 태양광 발전망"
-sm_solar_panel_02_desc:0 "이 중간 크기의 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
-sm_solar_panel_03:0 "대형 태양광 발전망"
-sm_solar_panel_03_desc:0 "이 대형 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
-sm_solar_panel_04:0 "초대형 태양광 발전망"
-sm_solar_panel_04_desc:0 "이 초대형 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
-
-sm_hq_annex:0 "함대 지휘소"
-sm_hq_annex_desc:0 "제국 전체에 상당한 보너스를 제공하는 발전된 지휘소입니다."
-
-sm_starbase_management:0 "항성기지 행정부"
-sm_starbase_management_desc:0 "몇몇 성계는 우리 제국의 무역망 유지에 절대적으로 중요합니다. 이 항성기지 행정부는 우리 제국의 매우 중요한 기관으로 지역 무역로의 보호와 중요한 행성기지의 방어를 담당하는 시설입니다."
-
-sm_customs_office:0 "항성기지 세관"
-sm_customs_office_desc:0 "성계의 모든 이민자가 거쳐가는 항성기지 시설입니다."
-
-mod_pop_category_bio_trophy_unity_produces_mult:0 "생체기념물 통합"
-
-sm_starbase_management_machine:0 "항성기지 네트워크 중추"
-sm_starbase_management_machine_desc:0 "01000101 01110010 01110010 01101111 01110010 00100000 00110100 00110000 00110100 0001010"
-
-sm_starbase_management_hive:0 "항성기지 비밀 심층부"
-sm_starbase_management_hive_desc:0 "우린 하나다."
-
-sm_mining_base:0 "성계 광물 정제소"
-sm_mining_base_desc:0 "일부 항성계는 우리 제국의 경제를 부양하기 위한 광물 자원 채굴에 특화되어 있습니다. 이런 항성계의 더 나은 자원 산출을 위해 이 시설은 항성기지가 성계 내의 모든 행성에서 광물 채광 작업의 효율성을 높일 수 있도록 합니다."
-
-sm_farming_base:0 "성계 농업 관리 시설"
-sm_farming_base_desc:0 "일부 항성계는 계속해서 증가하는 우리 인구를 지탱하기 위해 대량의 식량 생산에 특화되어 있습니다. 이런 항성계의 더 나은 자원 산출을 위해 위해 이 시설은 항성기지가 성계 내의 모든 행성에서 농작물 수확량을 증가시킬 수 있도록 합니다."
-
-sm_power_station:0 "성계 에너지 연결망"
-sm_power_station_desc:0 "일부 항성계는 우리 문명이 기능하는데 필요한 에너지를 생산하는 데 특화되어 있습니다. 이런 항성계의 더 나은 자원 산출을 위해 이 시설은 항성기지가 성계 내의 모든 행성에서 에너지 기술자들의 효율을 높일 수 있도록 합니다."
-
-sm_orbital_housing:0 "궤도 거주 구역"
-sm_orbital_housing_desc:0 "일부 항성기지는 순수하게 군사 시설이나 행정 시설이 아닌 다른 시설이 될 수 있습니다. 이 시설은 항성기지에 건설되어 민간인을 수용하고 그들의 집으로써 사용되며 계속해서 증가하는 우리 제국의 인구를 위한 주택을 제공합니다."
-
-
-
+stb_shipyard: "조선소"
+stb_shipyard_desc: "함선 건조에 초점을 맞춘 항성기지입니다."
+sm_drydock: "건선거"
+sm_drydock_desc: "이 특수 설계된 시설은 첨단 기술을 사용하여 조선소 내의 기압을 유지함으로써 기술자들이 더 쉽게 함선을 건조, 유지, 업그레이드 및 수리를 진행할 수 있도록 합니다."
+sm_sensor_station: "감지 스테이션"
+sm_sensor_station_desc: "항성기지의 감지 스테이션은 첨단 센서 배열을 사용하여 여러 항성계에 걸쳐 우리의 정보수집 기능을 확장하여 국경 인근에 있을 수 있는 모든 위협에 대한 정보를 제공합니다."
+sm_solar_panel_01: "소형 태양광 발전망"
+sm_solar_panel_01_desc: "이 작은 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
+sm_solar_panel_02: "중형 태양광 발전망"
+sm_solar_panel_02_desc: "이 중간 크기의 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
+sm_solar_panel_03: "대형 태양광 발전망"
+sm_solar_panel_03_desc: "이 대형 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
+sm_solar_panel_04: "초대형 태양광 발전망"
+sm_solar_panel_04_desc: "이 초대형 태양 전지판 배열망은 항성기지에 에너지를 공급하여 설비 가동시의 비용 절감에 도움이 되거나 잉여 에너지를 발생시킵니다."
+sm_hq_annex: "함대 지휘소"
+sm_hq_annex_desc: "제국 전체에 상당한 보너스를 제공하는 발전된 지휘소입니다."
+sm_starbase_management: "항성기지 행정부"
+sm_starbase_management_desc: "몇몇 성계는 우리 제국의 무역망 유지에 절대적으로 중요합니다. 이 항성기지 행정부는 우리 제국의 매우 중요한 기관으로 지역 무역로의 보호와 중요한 행성기지의 방어를 담당하는 시설입니다."
+sm_customs_office: "항성기지 세관"
+sm_customs_office_desc: "성계의 모든 이민자가 거쳐가는 항성기지 시설입니다."
+mod_pop_category_bio_trophy_unity_produces_mult: "생체기념물 통합"
+sm_starbase_management_machine: "항성기지 네트워크 중추"
+sm_starbase_management_machine_desc: "01000101 01110010 01110010 01101111 01110010 00100000 00110100 00110000 00110100 0001010"
+sm_starbase_management_hive: "항성기지 비밀 심층부"
+sm_starbase_management_hive_desc: "우린 하나다."
+sm_mining_base: "성계 광물 정제소"
+sm_mining_base_desc: "일부 항성계는 우리 제국의 경제를 부양하기 위한 광물 자원 채굴에 특화되어 있습니다. 이런 항성계의 더 나은 자원 산출을 위해 이 시설은 항성기지가 성계 내의 모든 행성에서 광물 채광 작업의 효율성을 높일 수 있도록 합니다."
+sm_farming_base: "성계 농업 관리 시설"
+sm_farming_base_desc: "일부 항성계는 계속해서 증가하는 우리 인구를 지탱하기 위해 대량의 식량 생산에 특화되어 있습니다. 이런 항성계의 더 나은 자원 산출을 위해 위해 이 시설은 항성기지가 성계 내의 모든 행성에서 농작물 수확량을 증가시킬 수 있도록 합니다."
+sm_power_station: "성계 에너지 연결망"
+sm_power_station_desc: "일부 항성계는 우리 문명이 기능하는데 필요한 에너지를 생산하는 데 특화되어 있습니다. 이런 항성계의 더 나은 자원 산출을 위해 이 시설은 항성기지가 성계 내의 모든 행성에서 에너지 기술자들의 효율을 높일 수 있도록 합니다."
+sm_orbital_housing: "궤도 거주 구역"
+sm_orbital_housing_desc: "일부 항성기지는 순수하게 군사 시설이나 행정 시설이 아닌 다른 시설이 될 수 있습니다. 이 시설은 항성기지에 건설되어 민간인을 수용하고 그들의 집으로써 사용되며 계속해서 증가하는 우리 제국의 인구를 위한 주택을 제공합니다."
 
 ##################################################################################################################################################################################################################
+
+
 ### STARBASE EXTENDED ###
+
+
 #########################
 
- mod_station_researchers_physics_research_produces_mult: "연구 스테이션 £physics 물리학 생산량"
- mod_station_researchers_society_research_produces_mult: "연구 스테이션 £society 사회학 생산량"
- mod_station_researchers_engineering_research_produces_mult: "연구 스테이션 £engineering 공학 생산량"
- 
- sm_shield_module: "보호막 생성기 모듈"
- sm_shield_module_desc: "항성기지에 추가적인 보호막을 생성합니다."
-
- sm_armor_module: "증가장갑 모듈"
- sm_armor_module_desc: "항성기지에 추가적인 장갑을 장착합니다."
-
- sm_pd_battery: "거점방호 모듈"
- sm_pd_battery_desc: "항성기지에 추가적인 2개의 거점방호 슬롯을 추가합니다."
- 
- sm_large_battery: "대형 포대 모듈"
- sm_large_battery_desc: "항성기지에 추가적인 1개의 L무기 슬롯을 추가합니다."
- 
- sm_xl_battery: "초대형 포대 모듈"
- sm_xl_battery_desc: "항성기지에 추가적인 1개의 XL무기 슬롯을 추가합니다. §Y경고: 이 모듈은 항성기지당 최대 6개까지 건설할 수 있습니다. 한도 이상 건설하면 엄청난 유지비가 들 것입니다.§!"
- 
- sm_titanic_battery: "타이탄 포대 모듈"
- sm_titanic_battery_desc: "항성기지에 추가적인 1개의 T무기 슬롯을 추가합니다. §Y경고: 이 모듈은 항성기지당 최대 3개까지 건설할 수 있습니다. 한도 이상 건설하면 엄청난 유지비가 들 것입니다.§!"
- 
- sm_adv_space_engineers: "항성기지 건축시설"
- sm_adv_space_engineers_desc: "항성기지의 모듈 및 건물 건설과 업그레이드 효율성을 증가시킵니다."
- 
- sm_asteroid_mining: "소행성 채굴 팀"
- sm_asteroid_mining_desc: "현 성계 내에서 기존의 채굴 스테이션으로 채굴하기에는 너무 작은 천체에 존재하는 광물 채굴을 위한 인력이 배치된 건물입니다. §G소행성 채굴 관리자§!는 §Y2§!만큼의 £minerals 광물 생산량을 증가시킵니다."
-
- sm_mining_experts: "소행성 채굴 관리자"
- sm_mining_experts_desc: "모든 소행성 채굴 모듈의 생산량을 향상시키는 소행성 채굴 전문가입니다. 모든 §G소행성 채굴 팀§!의 £minerals 광물 생산량을 §Y2§!만큼 증가시킵니다."
-
- sm_reinforced_defenses: "강화된 항성기지 방어 지휘소"
- sm_reinforced_defenses_desc: "항성기지의 보호막과 장갑을 향상시킵니다."
-
- sm_strategic_defenses: "항성기지 전략방어 지휘소"
- sm_strategic_defenses_desc: "항성기지의 보호막과 무기를 향상시킵니다."
-
- sm_adv_starbase: "진보한 항성기지 방어 지휘소"
- sm_adv_starbase_desc: "항성기지의 장갑과 무기를 향상시킵니다."
-
- sm_orbital_lab: "궤도 연구 모듈"
- sm_orbital_lab_desc: "궤도의 연구소입니다. §G보조 연구소§!를 건설함으로써 연구 생산량을 증가시킬 수 있습니다."
-
- sm_orbital_physics_support_lab: "물리학 보조 연구 모듈"
- sm_orbital_physics_support_lab_desc: "물리학 분야에 특화된 보조 연구소입니다. 모든 §G궤도 연구소§!의 물리학 생산량을 §Y2§!만큼 증가시킵니다."
-
- sm_orbital_society_support_lab: "사회학 보조 연구 모듈"
- sm_orbital_society_support_lab_desc: "사회학 분야에 특화된 보조 연구소입니다. 모든 §G궤도 연구소§!의 사회학 생산량을 §Y2§!만큼 증가시킵니다."
-
- sm_orbital_engineering_support_lab: "공학 보조 연구 모듈"
- sm_orbital_engineering_support_lab_desc: "공학 분야에 특화된 보조 연구소입니다. 모든 §G궤도 연구소§!의 공학 생산량을 §Y2§!만큼 증가시킵니다."
-
- sm_advanced_military_program: "지상군 사관학교"
- sm_advanced_military_program_desc: "지상군 모집 및 훈련 효율성을 증가시킵니다."
-
- sm_space_power_plant: "궤도 발전 시설"
- sm_space_power_plant_desc: "항성기지 인근 궤도의 발전 시설입니다."
-
- sm_repair_module: "수리 플랫폼"
- sm_repair_module_desc: "항성기지 궤도에 진입한 함선의 신속한 수리에 특화된 시설입니다."
-
- sm_tile_blocker_cleaner: "행성 건설 모듈"
- sm_tile_blocker_cleaner_desc: "행성 표면의 장애물 제거를 전문으로 하는 건설 기술자들이 모인 모듈입니다."
-
- sm_space_foundry: "우주 주조 시설"
- sm_space_foundry_desc: "광물을 합금으로 전환하는 시설입니다. 보유한 §G연쇄 제조소§!마다 £alloys 합금 생산량이 §Y1§!만큼 증가합니다."
-
- sm_space_factory: "우주 산업 시설"
- sm_space_factory_desc: "광물을 소비재로 전환하는 시설입니다. 보유한 §G연쇄 제조소§!마다 £consumer_goods 소비재 생산량이 §Y2§!만큼 증가합니다."
-
- sm_security_branch_office: "보안 모듈"
- sm_security_branch_office_desc: "보안 모듈은 해적행위에 대해 무역로를 방어하는데 초점을 둔 건물입니다."
-
- sm_administration_office: "행정 모듈"
- sm_administration_office_desc: "행정 모듈은 국가 수준의 관리 작업을 지원하여 제국의 행정 능력을 높일 수 있는 건물입니다."
-
- sm_synthetic_crystal_fabricator: "인공 희귀수정 변환기"
- sm_synthetic_crystal_fabricator_desc: "광물을 희귀수정으로 변화시키는 특수한 시설입니다."
-
- sm_synthetic_volatile_motes_fabricator: "인공 불안정 분말 변환기"
- sm_synthetic_volatile_motes_fabricator_desc: "광물을 불안정 분말로 변화시키는 특수한 시설입니다."
-
- sm_synthetic_gase_fabricator: "인공 이종가스 변환기"
- sm_synthetic_gase_fabricator_desc: "광물을 이종가스로 변화시키는 특수한 시설입니다."
-
- sm_orbital_assembly: "로봇 조립 시설"
- sm_orbital_assembly_desc: "로봇을 제작한 후 자동으로 성계의 식민지로 보내는 건물입니다."
-
- sm_chain_manufacturing: "연쇄 제조소"
- sm_chain_manufacturing_desc: "우주와 행성에서의 합금 및 소비재 생산에 도움이 되는 건물입니다. 모든 §G우주 주조 시설§!의 £alloys 합금 생산량을 §Y1§! 만큼, §G우주 산업 시설§!의 £consumer_goods 소비재 생산량을 §Y2§!만큼 증가시킵니다." 
-
- sm_construction_planificator: "행성 공학 모듈"
- sm_construction_planificator_desc: "성계 내의 행성의 건물, 지구, 프로젝트의 건설을 가속화하기 위해 건설 청사진을 만드는 건물입니다."
-
- sm_financial_space_center: "연방준비은행"
- sm_financial_space_center_desc: "성계 내의 무역 개선을 돕는 대형 금융 은행입니다."
-
- sm_stasis_chambers: "클론 시설"
- sm_stasis_chambers_desc: "성계 전체의 인구 성장에 도움이 되는 시설로, 행복도를 감소시킵니다."
-
- sm_emergency_portal: "나브컴 인공지능"
- sm_emergency_portal_desc: "비상 점프의 좌표를 신속하게 계산할 수 있는 매우 진보된 항법 시스템입니다. 함선이 성공적으로 전투에서 이탈할 확률이 증가합니다."
-
- sm_starbase_optimal_systems: "항성기지 인공지능"
- sm_starbase_optimal_systems_desc: "항성기지의 공격, 방어 및 무역 보호 능력을 향상시킬 수 있는 최첨단의 인공지능 컴퓨터입니다."
-
- sm_market_computers: "오락 프로그램 스튜디오"
- sm_market_computers_desc: "이 TV 스튜디오는 성계 전체에 걸쳐 시민들을 위한 오락 프로그램 제작에 전념함으로써 성계 내부 행성의 편의를 증가시킵니다."
-
- sm_stellar_housing: "부동산 개발 시설"
- sm_stellar_housing_desc: "부동산 개발업자들이 새 집을 짓기에 적합한 장소를 찾는 시민들을 도와주는 시설입니다. 행성의 주거를 증가시킵니다."
-
- sm_administration_computers: "TV 뉴스 네트워크"
- sm_administration_computers_desc: "성계 시민들을 위한 뉴스 프로그램을 제작하여 성계 내부 행성의 안정도를 증가시키는 TV 스튜디오입니다."
-
- sm_research_computers: "연구 분석 시스템"
- sm_research_computers_desc: "성계 내부의 모든 연구 시설과 연결할 수 있는 고급 컴퓨터 시설로, 직업에 의해 생성된 연구를 증가시킵니다."
-
- POINT_DEFENCE_STARBASE: "자동화된 방어 시스템"
- POINT_DEFENCE_STARBASE_DESC: ""
- CITADEL_DARK_MATTER_REACTOR: "암흑 물질 반응로"
- CITADEL_DARK_MATTER_REACTOR_DESC: ""
- STARBASE_AURA_SHIP_DISRUPTOR: "함선 교란기"
- STARBASE_AURA_SHIP_AMPLIFIER: "함대 통신 증폭기"
- aura_starbase_ship_disruptor:0 "$offensive_aura$ - $STARBASE_AURA_SHIP_DISRUPTOR$"
- aura_starbase_ship_amplifier:0 "$defensive_aura$ - $STARBASE_AURA_SHIP_AMPLIFIER$"
- 
- TITANIC_STARBASE_SECTION: "타이탄 포대 스테이션"
- EXTRA_LARGE_STARBASE_SECTION: "초대형 포대 스테이션"
- LARGE_STARBASE_SECTION: "대형 포대 스테이션"
- PD_STARBASE_SECTION: "거점방호 스테이션"
- HANGAR_STARBASE_SECTION: "격납고 스테이션"
- MISSILE_STARBASE_SECTION: "미사일 스테이션"
- BATTERY_STARBASE_SECTION: "중형 스테이션"
+mod_station_researchers_physics_research_produces_mult: "연구 스테이션 £physics 물리학 생산량"
+mod_station_researchers_society_research_produces_mult: "연구 스테이션 £society 사회학 생산량"
+mod_station_researchers_engineering_research_produces_mult: "연구 스테이션 £engineering 공학 생산량"
+sm_shield_module: "보호막 생성기 모듈"
+sm_shield_module_desc: "항성기지에 추가적인 보호막을 생성합니다."
+sm_armor_module: "증가장갑 모듈"
+sm_armor_module_desc: "항성기지에 추가적인 장갑을 장착합니다."
+sm_pd_battery: "거점방호 모듈"
+sm_pd_battery_desc: "항성기지에 추가적인 2개의 거점방호 슬롯을 추가합니다."
+sm_large_battery: "대형 포대 모듈"
+sm_large_battery_desc: "항성기지에 추가적인 1개의 L무기 슬롯을 추가합니다."
+sm_xl_battery: "초대형 포대 모듈"
+sm_xl_battery_desc: "항성기지에 추가적인 1개의 XL무기 슬롯을 추가합니다. §Y경고: 이 모듈은 항성기지당 최대 6개까지 건설할 수 있습니다. 한도 이상 건설하면 엄청난 유지비가 들 것입니다.§!"
+sm_titanic_battery: "타이탄 포대 모듈"
+sm_titanic_battery_desc: "항성기지에 추가적인 1개의 T무기 슬롯을 추가합니다. §Y경고: 이 모듈은 항성기지당 최대 3개까지 건설할 수 있습니다. 한도 이상 건설하면 엄청난 유지비가 들 것입니다.§!"
+sm_adv_space_engineers: "항성기지 건축시설"
+sm_adv_space_engineers_desc: "항성기지의 모듈 및 건물 건설과 업그레이드 효율성을 증가시킵니다."
+sm_asteroid_mining: "소행성 채굴 팀"
+sm_asteroid_mining_desc: "현 성계 내에서 기존의 채굴 스테이션으로 채굴하기에는 너무 작은 천체에 존재하는 광물 채굴을 위한 인력이 배치된 건물입니다. §G소행성 채굴 관리자§!는 §Y2§!만큼의 £minerals 광물 생산량을 증가시킵니다."
+sm_mining_experts: "소행성 채굴 관리자"
+sm_mining_experts_desc: "모든 소행성 채굴 모듈의 생산량을 향상시키는 소행성 채굴 전문가입니다. 모든 §G소행성 채굴 팀§!의 £minerals 광물 생산량을 §Y2§!만큼 증가시킵니다."
+sm_reinforced_defenses: "강화된 항성기지 방어 지휘소"
+sm_reinforced_defenses_desc: "항성기지의 보호막과 장갑을 향상시킵니다."
+sm_strategic_defenses: "항성기지 전략방어 지휘소"
+sm_strategic_defenses_desc: "항성기지의 보호막과 무기를 향상시킵니다."
+sm_adv_starbase: "진보한 항성기지 방어 지휘소"
+sm_adv_starbase_desc: "항성기지의 장갑과 무기를 향상시킵니다."
+sm_orbital_lab: "궤도 연구 모듈"
+sm_orbital_lab_desc: "궤도의 연구소입니다. §G보조 연구소§!를 건설함으로써 연구 생산량을 증가시킬 수 있습니다."
+sm_orbital_physics_support_lab: "물리학 보조 연구 모듈"
+sm_orbital_physics_support_lab_desc: "물리학 분야에 특화된 보조 연구소입니다. 모든 §G궤도 연구소§!의 물리학 생산량을 §Y2§!만큼 증가시킵니다."
+sm_orbital_society_support_lab: "사회학 보조 연구 모듈"
+sm_orbital_society_support_lab_desc: "사회학 분야에 특화된 보조 연구소입니다. 모든 §G궤도 연구소§!의 사회학 생산량을 §Y2§!만큼 증가시킵니다."
+sm_orbital_engineering_support_lab: "공학 보조 연구 모듈"
+sm_orbital_engineering_support_lab_desc: "공학 분야에 특화된 보조 연구소입니다. 모든 §G궤도 연구소§!의 공학 생산량을 §Y2§!만큼 증가시킵니다."
+sm_advanced_military_program: "지상군 사관학교"
+sm_advanced_military_program_desc: "지상군 모집 및 훈련 효율성을 증가시킵니다."
+sm_space_power_plant: "궤도 발전 시설"
+sm_space_power_plant_desc: "항성기지 인근 궤도의 발전 시설입니다."
+sm_repair_module: "수리 플랫폼"
+sm_repair_module_desc: "항성기지 궤도에 진입한 함선의 신속한 수리에 특화된 시설입니다."
+sm_tile_blocker_cleaner: "행성 건설 모듈"
+sm_tile_blocker_cleaner_desc: "행성 표면의 장애물 제거를 전문으로 하는 건설 기술자들이 모인 모듈입니다."
+sm_space_foundry: "우주 주조 시설"
+sm_space_foundry_desc: "광물을 합금으로 전환하는 시설입니다. 보유한 §G연쇄 제조소§!마다 £alloys 합금 생산량이 §Y1§!만큼 증가합니다."
+sm_space_factory: "우주 산업 시설"
+sm_space_factory_desc: "광물을 소비재로 전환하는 시설입니다. 보유한 §G연쇄 제조소§!마다 £consumer_goods 소비재 생산량이 §Y2§!만큼 증가합니다."
+sm_security_branch_office: "보안 모듈"
+sm_security_branch_office_desc: "보안 모듈은 해적행위에 대해 무역로를 방어하는데 초점을 둔 건물입니다."
+sm_administration_office: "행정 모듈"
+sm_administration_office_desc: "행정 모듈은 국가 수준의 관리 작업을 지원하여 제국의 행정 능력을 높일 수 있는 건물입니다."
+sm_synthetic_crystal_fabricator: "인공 희귀수정 변환기"
+sm_synthetic_crystal_fabricator_desc: "광물을 희귀수정으로 변화시키는 특수한 시설입니다."
+sm_synthetic_volatile_motes_fabricator: "인공 불안정 분말 변환기"
+sm_synthetic_volatile_motes_fabricator_desc: "광물을 불안정 분말로 변화시키는 특수한 시설입니다."
+sm_synthetic_gase_fabricator: "인공 이종가스 변환기"
+sm_synthetic_gase_fabricator_desc: "광물을 이종가스로 변화시키는 특수한 시설입니다."
+sm_orbital_assembly: "로봇 조립 시설"
+sm_orbital_assembly_desc: "로봇을 제작한 후 자동으로 성계의 식민지로 보내는 건물입니다."
+sm_chain_manufacturing: "연쇄 제조소"
+sm_chain_manufacturing_desc: "우주와 행성에서의 합금 및 소비재 생산에 도움이 되는 건물입니다. 모든 §G우주 주조 시설§!의 £alloys 합금 생산량을 §Y1§! 만큼, §G우주 산업 시설§!의 £consumer_goods 소비재 생산량을 §Y2§!만큼 증가시킵니다."
+sm_construction_planificator: "행성 공학 모듈"
+sm_construction_planificator_desc: "성계 내의 행성의 건물, 지구, 프로젝트의 건설을 가속화하기 위해 건설 청사진을 만드는 건물입니다."
+sm_financial_space_center: "연방준비은행"
+sm_financial_space_center_desc: "성계 내의 무역 개선을 돕는 대형 금융 은행입니다."
+sm_stasis_chambers: "클론 시설"
+sm_stasis_chambers_desc: "성계 전체의 인구 성장에 도움이 되는 시설로, 행복도를 감소시킵니다."
+sm_emergency_portal: "나브컴 인공지능"
+sm_emergency_portal_desc: "비상 점프의 좌표를 신속하게 계산할 수 있는 매우 진보된 항법 시스템입니다. 함선이 성공적으로 전투에서 이탈할 확률이 증가합니다."
+sm_starbase_optimal_systems: "항성기지 인공지능"
+sm_starbase_optimal_systems_desc: "항성기지의 공격, 방어 및 무역 보호 능력을 향상시킬 수 있는 최첨단의 인공지능 컴퓨터입니다."
+sm_market_computers: "오락 프로그램 스튜디오"
+sm_market_computers_desc: "이 TV 스튜디오는 성계 전체에 걸쳐 시민들을 위한 오락 프로그램 제작에 전념함으로써 성계 내부 행성의 편의를 증가시킵니다."
+sm_stellar_housing: "부동산 개발 시설"
+sm_stellar_housing_desc: "부동산 개발업자들이 새 집을 짓기에 적합한 장소를 찾는 시민들을 도와주는 시설입니다. 행성의 주거를 증가시킵니다."
+sm_administration_computers: "TV 뉴스 네트워크"
+sm_administration_computers_desc: "성계 시민들을 위한 뉴스 프로그램을 제작하여 성계 내부 행성의 안정도를 증가시키는 TV 스튜디오입니다."
+sm_research_computers: "연구 분석 시스템"
+sm_research_computers_desc: "성계 내부의 모든 연구 시설과 연결할 수 있는 고급 컴퓨터 시설로, 직업에 의해 생성된 연구를 증가시킵니다."
+POINT_DEFENCE_STARBASE: "자동화된 방어 시스템"
+POINT_DEFENCE_STARBASE_DESC: ""
+CITADEL_DARK_MATTER_REACTOR: "암흑 물질 반응로"
+CITADEL_DARK_MATTER_REACTOR_DESC: ""
+STARBASE_AURA_SHIP_DISRUPTOR: "함선 교란기"
+STARBASE_AURA_SHIP_AMPLIFIER: "함대 통신 증폭기"
+aura_starbase_ship_disruptor: "$offensive_aura$ - $STARBASE_AURA_SHIP_DISRUPTOR$"
+aura_starbase_ship_amplifier: "$defensive_aura$ - $STARBASE_AURA_SHIP_AMPLIFIER$"
+TITANIC_STARBASE_SECTION: "타이탄 포대 스테이션"
+EXTRA_LARGE_STARBASE_SECTION: "초대형 포대 스테이션"
+LARGE_STARBASE_SECTION: "대형 포대 스테이션"
+PD_STARBASE_SECTION: "거점방호 스테이션"
+HANGAR_STARBASE_SECTION: "격납고 스테이션"
+MISSILE_STARBASE_SECTION: "미사일 스테이션"
+BATTERY_STARBASE_SECTION: "중형 스테이션"

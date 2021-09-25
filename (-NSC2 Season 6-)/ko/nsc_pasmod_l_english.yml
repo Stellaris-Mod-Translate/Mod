@@ -1,88 +1,92 @@
 ﻿l_english:
 
+
 ### 디시인사이드 스텔라리스 갤러리 '어ㅅㅂ' 제작 ###
 
+
 ##################################################################################################################################################################################################################
+
+
 ### PASMOD ###
+
+
 ##############
 
+
 ### TIER I ###
-pasmod_orbital_drop_pod_default:0 "소형 궤도 낙하기"
-pasmod_orbital_drop_pod_default_DESC:0 "§H지상군 종류: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_clone:0 "$pasmod_orbital_drop_pod_default$"
-pasmod_orbital_drop_pod_clone_DESC:0 "§H지상군 종류: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_gene:0 "$pasmod_orbital_drop_pod_default$"
-pasmod_orbital_drop_pod_gene_DESC:0 "§H지상군 종류: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
 
-pasmod_orbital_drop_pod_psionic_force:0 "$pasmod_orbital_drop_pod_default$"
-pasmod_orbital_drop_pod_psionic_force_DESC:0 "§H지상군 종류: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_slave_army:0 "$pasmod_orbital_drop_pod_default$"
-pasmod_orbital_drop_pod_slave_army_DESC:0 "§H지상군 종류: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_droid_army:0 "$pasmod_orbital_drop_pod_default$"
-pasmod_orbital_drop_pod_droid_army_DESC:0 "§H지상군 종류: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-
-pasmod_orbital_drop_pod_battle_frame:0 "배틀 프레임"
-pasmod_orbital_drop_pod_battle_frame_DESC:0 "$pasmod_assault_army_battle_frame$"
+pasmod_orbital_drop_pod_default: "소형 궤도 낙하기"
+pasmod_orbital_drop_pod_default_DESC: "§H지상군 종류: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_clone: "$pasmod_orbital_drop_pod_default$"
+pasmod_orbital_drop_pod_clone_DESC: "§H지상군 종류: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_gene: "$pasmod_orbital_drop_pod_default$"
+pasmod_orbital_drop_pod_gene_DESC: "§H지상군 종류: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_psionic_force: "$pasmod_orbital_drop_pod_default$"
+pasmod_orbital_drop_pod_psionic_force_DESC: "§H지상군 종류: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_slave_army: "$pasmod_orbital_drop_pod_default$"
+pasmod_orbital_drop_pod_slave_army_DESC: "§H지상군 종류: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_droid_army: "$pasmod_orbital_drop_pod_default$"
+pasmod_orbital_drop_pod_droid_army_DESC: "§H지상군 종류: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YSmall§! §Y5§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_battle_frame: "배틀 프레임"
+pasmod_orbital_drop_pod_battle_frame_DESC: "$pasmod_assault_army_battle_frame$"
 
 ### TIER II ###
-pasmod_orbital_drop_pod_default_2:0 "중형 궤도 낙하기"
-pasmod_orbital_drop_pod_default_2_DESC:0 "§H지상군 종류: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_clone_2:0 "$pasmod_orbital_drop_pod_default_2$"
-pasmod_orbital_drop_pod_clone_2_DESC:0 "§H지상군 종류: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_gene_2:0 "$pasmod_orbital_drop_pod_default_2$"
-pasmod_orbital_drop_pod_gene_2_DESC:0 "§H지상군 종류: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
 
-pasmod_orbital_drop_pod_psionic_force_2:0 "$pasmod_orbital_drop_pod_default_2$"
-pasmod_orbital_drop_pod_psionic_force_2_DESC:0 "§H지상군 종류: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_slave_army_2:0 "$pasmod_orbital_drop_pod_default_2$"
-pasmod_orbital_drop_pod_slave_army_2_DESC:0 "§H지상군 종류: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_droid_army_2:0 "$pasmod_orbital_drop_pod_default_2$"
-pasmod_orbital_drop_pod_droid_army_2_DESC:0 "§H지상군 종류: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-
-pasmod_orbital_drop_pod_battle_frame_2:0 "배틀 프레임 II"
-pasmod_orbital_drop_pod_battle_frame_2_DESC:0 "$pasmod_assault_army_battle_frame$"
+pasmod_orbital_drop_pod_default_2: "중형 궤도 낙하기"
+pasmod_orbital_drop_pod_default_2_DESC: "§H지상군 종류: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_clone_2: "$pasmod_orbital_drop_pod_default_2$"
+pasmod_orbital_drop_pod_clone_2_DESC: "§H지상군 종류: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_gene_2: "$pasmod_orbital_drop_pod_default_2$"
+pasmod_orbital_drop_pod_gene_2_DESC: "§H지상군 종류: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_psionic_force_2: "$pasmod_orbital_drop_pod_default_2$"
+pasmod_orbital_drop_pod_psionic_force_2_DESC: "§H지상군 종류: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_slave_army_2: "$pasmod_orbital_drop_pod_default_2$"
+pasmod_orbital_drop_pod_slave_army_2_DESC: "§H지상군 종류: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_droid_army_2: "$pasmod_orbital_drop_pod_default_2$"
+pasmod_orbital_drop_pod_droid_army_2_DESC: "§H지상군 종류: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YMedium§! §Y10§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_battle_frame_2: "배틀 프레임 II"
+pasmod_orbital_drop_pod_battle_frame_2_DESC: "$pasmod_assault_army_battle_frame$"
 
 ### TIER III ###
-pasmod_orbital_drop_pod_default_3:0 "대형 궤도 낙하기"
-pasmod_orbital_drop_pod_default_3_DESC:0 "§H지상군 종류: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_clone_3:0 "$pasmod_orbital_drop_pod_default_3$"
-pasmod_orbital_drop_pod_clone_3_DESC:0 "§H지상군 종류: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_gene_3:0 "$pasmod_orbital_drop_pod_default_3$"
-pasmod_orbital_drop_pod_gene_3_DESC:0 "§H지상군 종류: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
 
-pasmod_orbital_drop_pod_psionic_force_3:0 "$pasmod_orbital_drop_pod_default_3$"
-pasmod_orbital_drop_pod_psionic_force_3_DESC:0 "§H지상군 종류: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_slave_army_3:0 "$pasmod_orbital_drop_pod_default_3$"
-pasmod_orbital_drop_pod_slave_army_3_DESC:0 "§H지상군 종류: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-pasmod_orbital_drop_pod_droid_army_3:0 "$pasmod_orbital_drop_pod_default_3$"
-pasmod_orbital_drop_pod_droid_army_3_DESC:0 "§H지상군 종류: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-
-pasmod_orbital_drop_pod_battle_frame_3:0 "배틀 프레임 III"
-pasmod_orbital_drop_pod_battle_frame_3_DESC:0 "$pasmod_assault_army_battle_frame$"
+pasmod_orbital_drop_pod_default_3: "대형 궤도 낙하기"
+pasmod_orbital_drop_pod_default_3_DESC: "§H지상군 종류: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_clone_3: "$pasmod_orbital_drop_pod_default_3$"
+pasmod_orbital_drop_pod_clone_3_DESC: "§H지상군 종류: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_gene_3: "$pasmod_orbital_drop_pod_default_3$"
+pasmod_orbital_drop_pod_gene_3_DESC: "§H지상군 종류: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_psionic_force_3: "$pasmod_orbital_drop_pod_default_3$"
+pasmod_orbital_drop_pod_psionic_force_3_DESC: "§H지상군 종류: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_slave_army_3: "$pasmod_orbital_drop_pod_default_3$"
+pasmod_orbital_drop_pod_slave_army_3_DESC: "§H지상군 종류: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_droid_army_3: "$pasmod_orbital_drop_pod_default_3$"
+pasmod_orbital_drop_pod_droid_army_3_DESC: "§H지상군 종류: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YLarge§! §Y20§!개의 지상군이 동시에 지표면으로 낙하하며 침공 스테이션이 장착된 호위 모함이나 모함에 장착 가능합니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+pasmod_orbital_drop_pod_battle_frame_3: "배틀 프레임 III"
+pasmod_orbital_drop_pod_battle_frame_3_DESC: "$pasmod_assault_army_battle_frame$"
 
 ### ARMIES ###
-pasmod_assault_army_default:0 "행성 강습 부대"
-pasmod_assault_army_default_plural:0 "행성 강습 부대"
-pasmod_assault_army_default_DESC:0 "궤도 낙하기 강하 훈련을 이수한 기본 행성 강습 부대입니다."
-pasmod_assault_army_clone:0 "클론 강습 부대"
-pasmod_assault_army_clone_plural:0 "클론 강습 부대"
-pasmod_assault_army_clone_DESC:0 "비용적인 측면에서 효율적이며, 사기 피해를 받지 않도록 설계된 클론 부대입니다."
-pasmod_assault_army_gene:0 "궤도 강습 사단"
-pasmod_assault_army_gene_plural:0 "궤도 강습 사단"
-pasmod_assault_army_gene_DESC:0 "유전자 조작 부대를 포함한 대규모 강습 사단입니다."
 
-pasmod_assault_army_psionic_force:0 "사이오닉 특수부대"
-pasmod_assault_army_psionic_force_DESC:0 "강력한 초능력으로 적들의 정신뿐만이 아니라 사기도 허물어버립니다."
-pasmod_assault_army_slave_army:0 "노예 부대"
-pasmod_assault_army_slave_army_DESC:0 "자신의 의사와는 관계 없이 모집된 육군 부대입니다. 죽는 그 순간까지도 자신의 의무를 다하게 될 것입니다."
-pasmod_assault_army_droid_army:0 "드로이드 부대"
-pasmod_assault_army_droid_army_DESC:0 "이 멍청한 깡통들은 주저없이 주어진 명령을 수행할 것입니다.\n§L"명령 수행중" - 드로이드 개체, 전사 직전의 무전§!"
-
-pasmod_assault_army_battle_frame:0 "배틀 프레임"
-pasmod_assault_army_battle_frame_desc:0 ""
+pasmod_assault_army_default: "행성 강습 부대"
+pasmod_assault_army_default_plural: "행성 강습 부대"
+pasmod_assault_army_default_DESC: "궤도 낙하기 강하 훈련을 이수한 기본 행성 강습 부대입니다."
+pasmod_assault_army_clone: "클론 강습 부대"
+pasmod_assault_army_clone_plural: "클론 강습 부대"
+pasmod_assault_army_clone_DESC: "비용적인 측면에서 효율적이며, 사기 피해를 받지 않도록 설계된 클론 부대입니다."
+pasmod_assault_army_gene: "궤도 강습 사단"
+pasmod_assault_army_gene_plural: "궤도 강습 사단"
+pasmod_assault_army_gene_DESC: "유전자 조작 부대를 포함한 대규모 강습 사단입니다."
+pasmod_assault_army_psionic_force: "사이오닉 특수부대"
+pasmod_assault_army_psionic_force_DESC: "강력한 초능력으로 적들의 정신뿐만이 아니라 사기도 허물어버립니다."
+pasmod_assault_army_slave_army: "노예 부대"
+pasmod_assault_army_slave_army_DESC: "자신의 의사와는 관계 없이 모집된 육군 부대입니다. 죽는 그 순간까지도 자신의 의무를 다하게 될 것입니다."
+pasmod_assault_army_droid_army: "드로이드 부대"
+pasmod_assault_army_droid_army_DESC: "이 멍청한 깡통들은 주저없이 주어진 명령을 수행할 것입니다.\n§L"명령 수행중" - 드로이드 개체, 전사 직전의 무전§!"
+pasmod_assault_army_battle_frame: "배틀 프레임"
+pasmod_assault_army_battle_frame_desc: ""
 
 ### PASMOD TECHS ###
-tech_pasmod_basic_drop_pod:0 "신형 궤도 낙하기"
-tech_pasmod_basic_drop_pod_desc:0 "궤도 낙하기는 제한된 수의 행성 침략군을 적 행성으로 낙하시키도록 설계되었습니다. 이 부품은 군대를 수용하는 데 필요한 공간 때문에 호위 모함이나 모함의 새로운 침공 스테이션 부분에만 장착할 수 있습니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
-TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_TITLE:0 "§H부품 잠금해제:§! $pasmod_orbital_drop_pod_default$"
-TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_default$§!\n궤도 낙하기는 제한된 수의 행성 침략군을 적 행성으로 낙하시키도록 설계되었습니다. 이 부품은 군대를 수용하는 데 필요한 공간 때문에 호위 모함이나 모함의 새로운 침공 스테이션 부분에만 장착할 수 있습니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+
+tech_pasmod_basic_drop_pod: "신형 궤도 낙하기"
+tech_pasmod_basic_drop_pod_desc: "궤도 낙하기는 제한된 수의 행성 침략군을 적 행성으로 낙하시키도록 설계되었습니다. 이 부품은 군대를 수용하는 데 필요한 공간 때문에 호위 모함이나 모함의 새로운 침공 스테이션 부분에만 장착할 수 있습니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
+TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_TITLE: "§H부품 잠금해제:§! $pasmod_orbital_drop_pod_default$"
+TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_DESC: "§H$pasmod_orbital_drop_pod_default$§!\n궤도 낙하기는 제한된 수의 행성 침략군을 적 행성으로 낙하시키도록 설계되었습니다. 이 부품은 군대를 수용하는 데 필요한 공간 때문에 호위 모함이나 모함의 새로운 침공 스테이션 부분에만 장착할 수 있습니다.\n\n§B강하선은 행성의 황폐도가 30%에 도달하면 자동으로 지상으로 낙하합니다.§!"
