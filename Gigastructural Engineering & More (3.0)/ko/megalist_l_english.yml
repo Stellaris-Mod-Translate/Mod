@@ -1,5 +1,0 @@
-﻿l_english:
- megalist_title:0 "거대구조물 목록"
- megalist_desc:0 ""
- MEGALIST_ENTRY:0 "[This.solar_system.Star.GetName]의 [This.GetName]"
- MEGALIST_ENTRY_DESC:0 ""
