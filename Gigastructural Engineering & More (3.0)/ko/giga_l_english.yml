@@ -4481,9 +4481,9 @@ giga_psychic_beacon.009.a: "길이 열렸다."
 # Flusion
 
 giga_psychic_beacon.0061.name: ""
-giga_psychic_beacon.0061.desc: ""
-giga_psychic_beacon.0061.a: ""
-giga_psychic_beacon.00611.name: ""
+giga_psychic_beacon.0061.desc: "긴급 소식입니다. 우리의 $name_psychic_beacon$이 §Y플러션§!의 무형세계와 현실세계 사이의 베일을 찢으려했지만, 행성에 어떠한 종류의 충격도 가하지 못했습니다.\n\n사실, 플러션을 가두기 위한 우리의 시도는 그저 행성 전체를 둘러싼 보이지 않는일종의 §Y사이킥 반발장§!에 의해 저지된것 같습니다. 그리고 보고에 따르면 §Y캇첸아르티히 제국§!의 수도인 §Y캐타운§! 밑에 있는 거대한 장치가 그것을 생성한다고 합니다.\n\n전에 생각했던 것보다 카이저가 더 많은 기술을 알고있는듯 합니다..."
+giga_psychic_beacon.0061.a: "비참한 쥐새끼로군!"
+giga_psychic_beacon.00611.name: "플러션 에지카니아가 변이하다!"
 giga_psychic_beacon.00611.desc: ""
 giga_psychic_beacon.00611.a: ""
 giga_psychic_beacon.0041.name: ""
