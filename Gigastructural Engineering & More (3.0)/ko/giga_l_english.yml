@@ -3846,17 +3846,17 @@ pc_whc_star_desc: "§B창조주§!가 음-질량으로부터 나온 암흑물질
 # Condensed Quantum Electrodynamics
 
 tech_condensed_qe: "응축 양자 전기역학"
-tech_condensed_qe_desc: "Dominion over the electromagnetic field will allow us to further manipulate probabilistic, quantum-effect dominated entities to a level, which can only be surpassed by true gravitational field control."
+tech_condensed_qe_desc: "전자기장에 대한 지배력으로 우리는 확률론적이고 양자적 영향을 받는 존재를 실제 중력장 조정으로 극복할 수 있는 수준까지 조작할 수 있게될 것입니다."
 
 # Event Horizon Offset Facility Alpha
 
-allow_ehof_p1: ""
-tech_ehof_phase_01: ""
-tech_ehof_phase_01_desc: ""
+allow_ehof_p1: "§H거대구조물 잠금해제:§! $ehof_ehofp1$"
+tech_ehof_phase_01: "$ehof_ehofp1$"
+tech_ehof_phase_01_desc: "블랙홀의 사건의 지평선에서 나타났다 사라졌다 하는 확률적인 $ehof_wormholes$을 압축되고 응축된 전자기장을 사용해 조작하고 확장합니다. 그것의 확률적 성질 때문에, 목적지는 무작위적입니다."
 
 # Abstract Physics Theory
 
-tech_abstract_1: ""
+tech_abstract_1: "추상 물리학 이론"
 tech_abstract_1_desc: ""
 
 # Applied Abstract Physics
