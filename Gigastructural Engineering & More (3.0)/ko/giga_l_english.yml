@@ -3888,12 +3888,12 @@ tech_grav_control_desc: "추상 물리학의 진보는 우리에게 중력장을
 # Passive Negative Mass Enrichment
 
 tech_negative_mass_enrichment: "간접 음성 질량 강화"
-tech_negative_mass_enrichment_desc: ""
+tech_negative_mass_enrichment_desc: "약하지만 영구적인 음성 압력의 적용과 $ehof_darkmatter$의 주입이 사건의 지평선 주위에 작고 지속적인 음질량의 흐름을 만들었습니다. 이 음질량은 $ehof_ehof$ 전개에 의해 생성되는 많은 양 옆의 $ehof_ehofs$ 수집 시스템으로 수집할 수 있습니다."
 
 # Event Horizon Offset Facility Omega
 
-allow_ehof_p3: ""
-tech_ehof_phase_03: ""
+allow_ehof_p3: "§H거대구조물 잠금해제:§! $ehof_ehofp3$"
+tech_ehof_phase_03: "$ehof_ehofp3$"
 tech_ehof_phase_03_desc: ""
 
 # Micro-wormhole Destination Precognition
