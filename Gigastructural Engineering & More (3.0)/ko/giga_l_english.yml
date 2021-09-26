@@ -4316,23 +4316,23 @@ asteroid_manufactory_2_DESC: "소행성으로부터 원료를 추출하여 모�
 # Tech
 
 giga_tech_asteroid_manufactory: "소행성 제조 공장"
-giga_tech_asteroid_manufactory_desc: ""
+giga_tech_asteroid_manufactory_desc: "대부분의 행성계의 형성때 생긴 찌꺼기인 소행성은 쉽게 접근 가능한 원자재로 가득합니다. 주위로 건설된 거대한 구조물은 특수한 채집기가 장착되어 이를 이용해 자원들을 지속적으로 수집하고 우리 국민이 사용 가능한 굉장히 다양한 제품들로 가공할 수 있습니다. 이로써 끊임없이 성장하는 인구의 압박으로 인한 우리 행성측의 소비재 공장의 스트레스를 경감할 수 있게 되었습니다."
 
 # Construction Site
 
-giga_dialog.10901.name: ""
-giga_dialog.10901.desc: ""
-giga_dialog.10901.a: ""
+giga_dialog.10901.name: "소행성 제조소 건설구역 완공!"
+giga_dialog.10901.desc: "[From.GetName] 성계에서 미래의 소행성 제조소를 위한 건설 구역을 완공했습니다. 소행성 근처를 떠다니는 이 거대한 플랫폼은 대규모 제조 단지를 건설하기 위한 필요한 장비를 포함하고 있습니다. 이 제조 단지는 소행성에서 재료를 채집해 우리 제국이 필요한 모든 종류의 제품으로 가공할 것입니다."
+giga_dialog.10901.a: "휼륭하군."
 
 # Phase 1
 
-giga_dialog.10902.name: ""
-giga_dialog.10902.desc: ""
-giga_dialog.10902.a: ""
+giga_dialog.10902.name: "소행성 제조소 채굴 장치 완공!"
+giga_dialog.10902.desc: "[From.GetName] 성계에서 우리의 소행성 제조소 채굴 장치를 완공했습니다. 소행성 주위를 완전히 감싸고 계속해서 소행성에서 자원을 채집할 드릴 장비들과 자동 노천 채굴 로봇을 수용하는 거대한 고리입니다. 우리는 이제 시설의 실제 제조 구역 작업을 시작해야합니다."
+giga_dialog.10902.a: "대단하군."
 
 # Completed
 
-giga_dialog.10903.name: ""
+giga_dialog.10903.name: "소행성 제조소 완공!"
 giga_dialog.10903.desc: ""
 giga_dialog.10903.a: ""
 desc_asteroid_manufactory: ""
