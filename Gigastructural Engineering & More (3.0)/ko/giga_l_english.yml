@@ -4450,33 +4450,33 @@ giga_psychic_beacon.0111.a.tooltip: "살아있는 아바타 당 10 §MPsionic Su
 giga_psychic_beacon.015.name: "사이오닉 비컨: §Y각인§!"
 giga_psychic_beacon.015.desc: "§B"장막 자체의 표식을 각인할 제독을 선택하세요. 이것은 위험한 작전입니다."§!"
 giga_imprint_t: "§B"좋다. 장막의 에너지가 이 존재에게 전달될 것이다."§!"
-giga_psychic_beacon.0151.name: ""
-giga_psychic_beacon.0151.desc: ""
+giga_psychic_beacon.0151.name: "각인 실패!"
+giga_psychic_beacon.0151.desc: "놀라운 소식입니다! 전체 능력의 일부로 작동되리라 생각했던 사이오닉 비콘의 충격적인 함이 불행히도 [giga_leader_imprinted.GetName]을(를) 압도하기엔 충분했습니다.\n\n한때 [giga_leader_imprinted.GetHerHis] 스스로도 강력한 사이오닉 능력자였던 제독이지만 이제 [giga_leader_imprinted.GetHerHis]의 육체의 본질의 조각뿐입니다."
 giga_psychic_beacon.0151.a: "[giga_leader_imprinted.GetName]은(는) 기억될 것이다."
 giga_psychic_beacon.0152.name: "각인 성공!"
-giga_psychic_beacon.0152.desc: ""
-giga_psychic_beacon.0152.a: ""
-giga_psychic_beacon.0152.a.tooltip: ""
-must_have_valid_beacon_admiral: ""
-leader_trait_admiral_astute: ""
-leader_trait_admiral_astute_desc: ""
-leader_trait_admiral_farsighted: ""
-leader_trait_admiral_farsighted_desc: ""
-leader_trait_admiral_fortifier: ""
-leader_trait_admiral_fortifier_desc: ""
-purge_sublimate: ""
-beacon_shrouded_habitable_structure: ""
-beacon_shrouded_habitable_structure_desc: ""
+giga_psychic_beacon.0152.desc: "됐습니다. 비록 사이오닉 비콘은 전체 능력의 일부로 작동하고 있었지만, [giga_leader_imprinted.GetName]이(가) 흡수할 에너지를 방출했습니다.\n\n이미 [giga_leader_imprinted.GetHerHis] 스스로도 강력한 사이오닉 능력자이지만 [giga_leader_imprinted.GetName]은(는) 더욱 위대한 능력자로 각인되었습니다."
+giga_psychic_beacon.0152.a: "이 새로운 능력이 제국에 도움이 되기를."
+giga_psychic_beacon.0152.a.tooltip: "[giga_leader_imprinted.GetName]이(가) 강력한 §M사이오닉 특성§!을 얻습니다."
+must_have_valid_beacon_admiral: "제독이 더 필요합니다."
+leader_trait_admiral_astute: "기민한"
+leader_trait_admiral_astute_desc: "사이오닉 비콘의 압도적인 힘으로 각인된 이 제독은 전투력을 유지하고 보존하는 데 있어 타의 추종을 불허하는 달인입니다."
+leader_trait_admiral_farsighted: "선견지명"
+leader_trait_admiral_farsighted_desc: "사이오닉 비컨의 압도적인 힘으로 각인된 이 제독은 전례 없는 기술로 적을 탐지하고 교전하며 적을 압도할 수 있습니다."
+leader_trait_admiral_fortifier: "강화"
+leader_trait_admiral_fortifier_desc: "사이오닉 비콘의 압도적인 힘으로 각인된 이 제독은 자신의 모든 함선을 추적할 수 있고, 장막 에너지를 이용해 그 능력을 증대시킬 수 있습니다."
+purge_sublimate: "승화"
+beacon_shrouded_habitable_structure: "장막 구조"
+beacon_shrouded_habitable_structure_desc: "이 인공 세상은 장막의 사나운 에너지의 포로가 되었습니다. 더 이상 거주할 수 없습니다."
 
 # The shroud contacts you to give you the tech
 
-giga_psychic_beacon.008.desc: ""
-giga_psychic_beacon.008.a: ""
+giga_psychic_beacon.008.desc: "일상적이고 눈에 띄지 않는 텔레파시 동안, 충격적인 무언가가 자신을 드러냅니다. 미묘한 안개 속에 묻혀있는 구멍은 멀리있는 듯한 광원에 의해 잘 보이기는 하지만, 의심스러운 실제 우주의 파편처럼 보입니다. 그것이 단순한 환영인지, 아니면 장막의 내부에 있는 진정한 정신의 안식처일지 확인하려는 시도는 우리 정신능력 감응자가 형태없는 실체의 존재를 느끼고 중단됩니다.\n\n"나는 한낱 항해사일 뿐이다." 그것이 말합니다. "여럿 중 하나일 뿐."\n\n그것으로 이해에 도달합니다. 그 실체는 아이같은 흥분과 호기심을 감추지 못한 채 참을성 있는 침묵에 물러납니다."
+giga_psychic_beacon.008.a: "존재와 계약을 맺는다."
 
 # Shroud grants you 1000% jumpdrive range modifier for 1 year.
 
 giga_psychic_beacon.009.desc: ""
-giga_psychic_beacon.009.a: ""
+giga_psychic_beacon.009.a: "길이 열렸다."
 
 # Flusion
 
