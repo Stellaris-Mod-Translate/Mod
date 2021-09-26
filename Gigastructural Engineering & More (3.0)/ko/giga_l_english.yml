@@ -3910,11 +3910,11 @@ tech_vedrs_desc: "우리가 구체 내부에서 밝혀낸 비밀은 진공 제�
 
 allow_ehof_p4: "§H거대구조물 잠금해제:§! $ehof_ehofp4$"
 tech_ehof_phase_04: "$ehof_ehofp4$"
-tech_ehof_phase_04_desc: ""
+tech_ehof_phase_04_desc: "$tech_prob_c$이 초고속 반응 타키온 감지기를 사용해 그것이 확장되기도 전에 목적지를 감지함으로써 은하의 어떤 위치도 선택할 수 있게 되었습니다."
 
 # Quasi-Neural Networks
 
-tech_quasi_neural_net: ""
+tech_quasi_neural_net: "의사 신경망"
 tech_quasi_neural_net_desc: ""
 
 # Scourge Deployment
