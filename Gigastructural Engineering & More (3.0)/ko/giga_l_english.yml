@@ -3873,21 +3873,21 @@ tech_negative_pressure_desc: "음성 압력 현상은 양자역학적 카시미�
 
 allow_ehof_p2: "§H거대구조물 잠금해제:§! $ehof_ehofp2$"
 tech_ehof_phase_02: "$ehof_ehofp2$"
-tech_ehof_phase_02_desc: ""
+tech_ehof_phase_02_desc: "블랙홀의 사건의 지평선에서 나타났다 사라졌다 하는 확률적인 $ehof_wormholes$을 압축되고 응축된 전자기장을 사용해 조작하고 확장합니다. 음성 압력은 가능한 목적지의 확률을 높입니다."
 
 # Dark Matter Injection
 
-tech_dm_injection: ""
-tech_dm_injection_desc: ""
+tech_dm_injection: "암흑 물질 주입"
+tech_dm_injection_desc: "$ehof_ehof$의 확장으로 우리는 음성 압력의 적용 외에도, $ehof_ehof$의 효율을 대폭 상향시킬 수 있는 성질을 가진 $ehof_darkmatter$을 블랙홀 내부로 주입할 수 있게 되었습니다. 음성 압력과 $ehof_darkmatter$의 조합으로 부풀어오른 $ehof_wormholes$을 더욱 안정화시킬 수 있을 것입니다."
 
 # Gravitational field control
 
-tech_grav_control: ""
-tech_grav_control_desc: ""
+tech_grav_control: "중력장 제어"
+tech_grav_control_desc: "추상 물리학의 진보는 우리에게 중력장을 조작할 권능을 주었습니다. 중력장의 힘은 우리가 국소적 시공간 곡률을 딱 맞고 쉽게 확장하고 압축하는 즉, 기초 입자와 같은 양자적 영향을 받는 존재의 중력 조작을 거대한 규모로 쉽게 진행할 수 있게 해주었습니다."
 
 # Passive Negative Mass Enrichment
 
-tech_negative_mass_enrichment: ""
+tech_negative_mass_enrichment: "간접 음성 질량 강화"
 tech_negative_mass_enrichment_desc: ""
 
 # Event Horizon Offset Facility Omega
@@ -4290,8 +4290,8 @@ giga_planetshipyard_capacity_increase_desc: ""
 
 giga_tech_event_exotic_lab_data: ""
 giga_tech_event_exotic_lab_data_desc: ""
-giga_tech_event_pouchkinn_lifespan: ""
-giga_tech_event_pouchkinn_lifespan_desc: ""
+giga_tech_event_pouchkinn_lifespan: "고대의 수명 연장 데이터"
+giga_tech_event_pouchkinn_lifespan_desc: "고독한 과학자의 몸에서 회수된 생체 이식물을 분석하는 것은 우리의 수명 연장에 대한 연구에 큰 도움이 될 것입니다."
 
 ### Relics ##############################
 
@@ -7081,12 +7081,12 @@ hrae_mc_4_DESC: ""
 
 ### Pouchkinn ###########################
 
-giga_pouchkinn.002.title: ""
-giga_pouchkinn.002.desc: ""
-giga_pouchkinn.002.a: ""
-giga_pouchkinn.101.name: ""
-giga_pouchkinn.101.desc: ""
-giga_pouchkinn.101.a: ""
+giga_pouchkinn.002.title: "고대의 실험실"
+giga_pouchkinn.002.desc: "버려진 $name_orb_elysium$을 조사하는 우리의 과학선이 표면에서 이상한 실험실을 발견했습니다. 잠겨있는것 같고 스캔결과 그 놀라운 연대가 확인되었습니다.\n\n우리 과학자는 이 이상한 건물에 대해 더 알고 싶다면 궤도 서식지를 식민지화 할 것을 권장합니다."
+giga_pouchkinn.002.a: "독특하군."
+giga_pouchkinn.101.name: "실험실"
+giga_pouchkinn.101.desc: "우리 식민지 주민들이 겉보기에 버려진 $name_orb_elysium$에 발을 들여 놓은 이래로 신비한 고대 실험실은 수수께끼의 미스터리로 남아 있습니다. 스캔결과 어떤 형태의 지적 생명체도 들어있지 않다는 것이 확인되었습니다. 내부로 파견 된 원정대는 매우 진보 된 기술로 만들어진 수백 년 된 장치를 발견했습니다.\n\n그러나 우리는 아직도이 장소를 누가, 왜 지었는지 전혀 모릅니다. $name_orb_elysium$의 식민지 주민들은 이 실험실이 잠재적으로 위험한 기술을 포함할 수 있기 때문에 이 실험실의 기원을 알아 내고 싶어했습니다."
+giga_pouchkinn.101.a: "이 장소의 깊숙한 곳으로 탐험대를 조직하십시오."
 giga_pouchkinn.101.b: ""
 giga_pouchkinn.101.b.tooltip: ""
 giga_pouchkinn.101.c: ""
