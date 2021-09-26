@@ -3894,22 +3894,22 @@ tech_negative_mass_enrichment_desc: "약하지만 영구적인 음성 압력의 
 
 allow_ehof_p3: "§H거대구조물 잠금해제:§! $ehof_ehofp3$"
 tech_ehof_phase_03: "$ehof_ehofp3$"
-tech_ehof_phase_03_desc: ""
+tech_ehof_phase_03_desc: "블랙홀의 사건의 지평선에서 나타났다 사라졌다 하는 확률적인 $ehof_wormholes$을 압축되고 응축된 전자기장을 사용해 조작하고 확장합니다. 중력전자기장은 확장 과정의 효율을 높이고 $ehof_darkmatter$과 음성 압력의 조합은 가능한 목적지의 확률을 높입니다."
 
 # Micro-wormhole Destination Precognition
 
-tech_prob_c: ""
-tech_prob_c_desc: ""
+tech_prob_c: "$ehof_wormhole$ 목적지 예지"
+tech_prob_c_desc: "추 천 플랑크 시간 내에 받응과 감지가 가능한 상상도 못하게 민감한 타키온 감지기가 $ehof_ehof$가 $ehof_wormhole$을 확장 하기도 전에 목적지를 예측하게 되었습니다. 웜홀 목적지의 전조는 $ehof_ehof$의 안전성과 정확성을 의외의 수준으로 증가시킵니다. 이 기술로 우리의 $ehof_ehof$는 제한 없지 은하의 어떤 목적지도 직접 선택할 수 있게될 것입니다. 무한한 가능성이 기다립니다."
 
 # Vacuum Energy Density Resonance Stimulation
 
-tech_vedrs: ""
-tech_vedrs_desc: ""
+tech_vedrs: "진공 에너지 밀도 공명 자극"
+tech_vedrs_desc: "우리가 구체 내부에서 밝혀낸 비밀은 진공 제어 기술을 더 큰 규모로 발전시켰습니다. 진동 타키온은 진공 에너지 밀도 공명 자극을 통해 더 적극적으로 한정적인 힉스입자 필드를 제어하는 투영판을 처리합니다. 이것은 감소하는 진공 에너지 밀도와 다른 물리법칙을 통해 작은 시공의 버블을 만들어 내며 이는 $ehof_ehof$가 붕괴없이 절대적으로 안정적이며 심지어 영구적으로 열려있는 $ehof_wormholes$를 만들어내게 할 수 있습니다."
 
 # Event Horizon Offset Facility Ultima
 
-allow_ehof_p4: ""
-tech_ehof_phase_04: ""
+allow_ehof_p4: "§H거대구조물 잠금해제:§! $ehof_ehofp4$"
+tech_ehof_phase_04: "$ehof_ehofp4$"
 tech_ehof_phase_04_desc: ""
 
 # Quasi-Neural Networks
