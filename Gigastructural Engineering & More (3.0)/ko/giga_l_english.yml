@@ -3857,22 +3857,22 @@ tech_ehof_phase_01_desc: "블랙홀의 사건의 지평선에서 나타났다 �
 # Abstract Physics Theory
 
 tech_abstract_1: "추상 물리학 이론"
-tech_abstract_1_desc: ""
+tech_abstract_1_desc: "어떤 '물리 법칙을 파괴하는' 현상은 양자역학적 접근으로 설명이 불가능할지도 모릅니다. '추상 물리학'이라 불리는 물리학의 새로운 분야는 극도로 비관습적이고 추상적인 수학과 물리학으로 문제를 해결합니다. 이 새로운 물리학은 어쩌면 우주의 말도 안되는 물리학적 현상 대부분에 대한 해답을 줄 수 있을지도 모릅니다."
 
 # Applied Abstract Physics
 
-tech_abstract_2: ""
-tech_abstract_2_desc: ""
+tech_abstract_2: "응용 추상 물리학"
+tech_abstract_2_desc: "추상 물리학의 획기적인 접근은 분명 우주의 가장 추상적인 현상조차도 잘 설명할 수 있게끔 도와주었습니다. 이전까지 누구도 생각하지 못했던 새롭고 추상적이며 획기적인 돌파법을 만들어내는 이러한 접근법은 특별하고 강력한 기술을 보여줄지도 모릅니다."
 
 # Negative Pressure Application
 
-tech_negative_pressure: ""
-tech_negative_pressure_desc: ""
+tech_negative_pressure: "음성 압력 적용"
+tech_negative_pressure_desc: "음성 압력 현상은 양자역학적 카시미르 효과 이전에 발생했던 것입니다. 진공 에너지의 형태로 나타나지만 불행히도 통제가 불가능합니다. 추상 물리학의 적용으로 음성 압력을 생산하고 제어하는 대체적인 더 활용적이고 더 좋은 응용법을 발견해냈습니다. 이는 다양한 응용 분야에서 사용될 수 있습니다만 블랙홀과 같은 초고밀도 공간 왜곡장 안에서만 가능합니다."
 
 # Event Horizon Offset Facility Lambda
 
-allow_ehof_p2: ""
-tech_ehof_phase_02: ""
+allow_ehof_p2: "§H거대구조물 잠금해제:§! $ehof_ehofp2$"
+tech_ehof_phase_02: "$ehof_ehofp2$"
 tech_ehof_phase_02_desc: ""
 
 # Dark Matter Injection
