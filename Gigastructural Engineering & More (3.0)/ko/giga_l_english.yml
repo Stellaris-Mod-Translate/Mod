@@ -4308,14 +4308,14 @@ name_plural_asteroid_manufactory: "소행성 제조소"
 asteroid_manufactory_0: "소행성 제조소 건설구역"
 asteroid_manufactory_0_DESC: "미래의 소행성 제조소의 건설 구역으로, 인근 소행성 주위에 대규모 광업 시설과 공장을 건설하기 위해 필요한 장비와 시설을 갖추고 있습니다."
 asteroid_manufactory_0_MEGASTRUCTURE_DETAILS: "소행성 주위에 대규모 공장을 세워 물질을 수확하고 £consumer_goods£ 소비재를 생산합니다."
-asteroid_manufactory_1: "소행성 제조소 채굴 장치"
+asteroid_manufactory_1: ""
 asteroid_manufactory_1_DESC: ""
-asteroid_manufactory_2: ""
-asteroid_manufactory_2_DESC: ""
+asteroid_manufactory_2: "$name_asteroid_manufactory$"
+asteroid_manufactory_2_DESC: "소행성으로부터 원료를 추출하여 모든 종류의 유용한 제품으로 정제하는 완전한 소행성 제조소입니다."
 
 # Tech
 
-giga_tech_asteroid_manufactory: ""
+giga_tech_asteroid_manufactory: "소행성 제조 공장"
 giga_tech_asteroid_manufactory_desc: ""
 
 # Construction Site
