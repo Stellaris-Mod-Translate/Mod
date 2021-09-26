@@ -6115,14 +6115,14 @@ fusion_suppressor_4_DESC: "항성이 한 번 더 압축되면 기본 구조가 �
 fusion_suppressor_5: "$name_fusion_suppressor$ - 중성자별 단계"
 fusion_suppressor_5_DESC: "$name_fusion_suppressor$가 간신히 별을 양성자와 전자가 핵 안에서 융합해 중성자가 될 정도로 압축했습니다. 항성이 중성자별이 될거라고 말합니다. 이것은 사실상 일반적인 항성 플라즈마로 둘러싸인 중성자별입니다."
 fusion_suppressor_6: "$name_fusion_suppressor$"
-fusion_suppressor_6_DESC: ""
-fusion_suppressor_7: ""
-fusion_suppressor_7_DESC: ""
+fusion_suppressor_6_DESC: "항성의 물질이 이제 빛 조차 천체의 중력을 빠져나오지 못하는 수준으로 붕괴되어 사실상 인공 블랙홀이 되었습니다. 굉장한 연구 잠재력을 지니고 있습니다."
+fusion_suppressor_7: "$name_fusion_suppressor$ 해체"
+fusion_suppressor_7_DESC: "이 $name_fusion_suppressor$를 해체해 블랙홀을 사용 가능하게 합니다."
 
 ### Nicoll Dyson Beam ###################
 
-giga_tech_ndb_1: ""
-giga_tech_ndb_1_desc: ""
+giga_tech_ndb_1: "위상 에너지 전력 축전기"
+giga_tech_ndb_1_desc: "막대한 양의 에너지는 항성 크기 거대구조물에 저장하는것은 굉장히 유용한 응용일지도 모릅니다."
 giga_tech_ndb_2: ""
 giga_tech_ndb_2_desc: ""
 giga_tech_ndb_3: ""
