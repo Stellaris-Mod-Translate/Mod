@@ -3924,63 +3924,63 @@ tech_scourge_deployment_desc: "진홍빛 재앙은 첨단 합성독이며, 이�
 
 # Sentient Metal Tier 1 (Reality Code 1)
 
-tech_ehof_sentient_tier_1: "$ehof_sm$ I 등급"
-tech_ehof_sentient_tier_1_desc: ""
+tech_ehof_sentient_tier_1: "$ehof_sm$ I 단계"
+tech_ehof_sentient_tier_1_desc: "증폭기와 $PGATE_GALACTICS$의 비밀에 대한 연구의 결과로 개발된 $ehof_sm$ 기술의 첫 세대입니다. 이는 새로운 시설을 위한 기술의 절충안입니다, 이 시설은 '$ehof_sm$ 주조소'라 불리는 증식지로 이용될 예정입니다. 이로써 우리는 더 이상 $PGATE_GALACTICS$으로부터 추출할 필요 없이 더 많은 $ehof_sm$을 생성할 수 있게되었습니다."
 
 # Sentient Metal Tier 2 (Reality Code 2)
 
-tech_ehof_sentient_tier_2: "$ehof_sm$ II 등급"
+tech_ehof_sentient_tier_2: "$ehof_sm$ II 단계"
 tech_ehof_sentient_tier_2_desc: "증폭기와 $PGATE_GALACTICS$의 비밀에 대한 연구의 결과로 개발된 $ehof_sm$ 기술의 두 번째 세대입니다. 이는 $ehof_sm$ 장갑이라 불리는 신형 장갑을 위한 기술의 절충안입니다. 이 장갑은 다가오는 투사체를 무력화시키는 극도로 진보된 $ehof_sm$ A.I 루틴을 사용하는 신형 대공 포화 포탑과 $ehof_sm$의 자가 재생 및 회복 장치를 사용합니다."
 
 # Sentient Metal Tier 3 (Reality Code 3)
 
-tech_ehof_sentient_tier_3: "$ehof_sm$ III 등급"
+tech_ehof_sentient_tier_3: "$ehof_sm$ III 단계"
 tech_ehof_sentient_tier_3_desc: "증폭기와 $PGATE_GALACTICS$의 비밀에 대한 연구의 결과로 개발된 $ehof_sm$ 기술의 세 번째 세대입니다. 이는 보다 진보된 $ehof_sm$ 장갑과 레일건같은 신형 포탑을 위한 기술의 절충안입니다. 이 포탑은 $ehof_sm$을 사용해 목표를 조준하고 추적해 그 구조를 녹여버립니다."
 
 # Sentient Metal Tier 4 (Reality Code 4)
 
-tech_ehof_sentient_tier_4: "$ehof_sm$ IV 등급"
+tech_ehof_sentient_tier_4: "$ehof_sm$ IV 단계"
 tech_ehof_sentient_tier_4_desc: "증폭기와 $PGATE_GALACTICS$의 비밀에 대한 연구의 결과로 개발된 $ehof_sm$ 기술의 네 번째 세대입니다. 이는 $ehof_sm$을 사용해 목표를 조준하고 추적해 피해를 입히는 화포같은 포탑과 굉장히 강력한 $ehof_sm$ 군체의식으로 함선과 스테이션을 통제하는 함선 컴퓨터를 위한 기술의 절충안입니다."
 
 # Sentient Metal Tier 5 (Reality Code 5)
 
-tech_ehof_sentient_tier_5: "$ehof_sm$ V 등급"
-tech_ehof_sentient_tier_5_desc: ""
+tech_ehof_sentient_tier_5: "$ehof_sm$ V 단계"
+tech_ehof_sentient_tier_5_desc: "증폭기와 $PGATE_GALACTICS$의 비밀에 대한 연구의 결과로 개발된 $ehof_sm$ 기술의 다섯 번째 세대입니다. 이는 $ehof_sm$을 사용해 목표를 조준하고 추적해 피해를 입히는 자동포탑과 훨씬 더 많은 $ehof_sm$을 생산할 수 있는 신세대 $ehof_sm$ 증식 시설을 위한 기술의 절충안입니다."
 
 # Sentient Metal Tier 6 (Reality Code 6)
 
-tech_ehof_sentient_tier_6: ""
-tech_ehof_sentient_tier_6_desc: ""
+tech_ehof_sentient_tier_6: "$ehof_sm$ VI 단계"
+tech_ehof_sentient_tier_6_desc: "증폭기와 $PGATE_GALACTICS$의 비밀에 대한 연구의 결과로 개발된 $ehof_sm$ 기술의 여섯 번째 세대입니다. 이는 $ehof_sm$을 사용해 목표를 조준하고 추적하고 피해를 입히는 신형 회전포탑과 더 진보된 형태의 $ehof_sm$ 장갑, 그리고 $PGATE_GALACTIC$ 에너지원에 접근해 막대한 양의 에너지를 생산하는 $ehof_sm$ 동력 코어를 위한 기술의 절충안입니다."
 
 # Sentient Metal Tier 7 (Reality Code 7)
 
-tech_ehof_sentient_tier_7: ""
-tech_ehof_sentient_tier_7_desc: ""
-tech_sm_megastructure: ""
-tech_sm_megastructure_desc: ""
-allow_sm_megastructure: ""
-ehof_sm_megastructure_DESC: ""
-ehof_sm_forge_phase0: ""
-ehof_sm_forge_phase0_DESC: ""
-ehof_sm_forge_phase0_MEGASTRUCTURE_DETAILS: ""
-ehof_sm_forge_phase00: ""
-ehof_sm_forge_phase00_DESC: ""
-ehof_sm_forge_phase00_MEGASTRUCTURE_DETAILS: ""
-ehof_sm_forge_phase1: ""
-ehof_sm_forge_phase1_DESC: ""
-ehof_sm_forge_phase2: ""
-ehof_sm_forge_phase2_DESC: ""
-ehof_sm_forge_phase3: ""
-ehof_sm_forge_phase3_DESC: ""
-ehof_sm_forge_phase4: ""
-ehof_sm_forge_phase4_DESC: ""
-giga_dialog.11101.name: ""
-giga_dialog.11101.desc: ""
-giga_dialog.11101.a: ""
-giga_dialog.11102.name: ""
-giga_dialog.11102.desc: ""
-giga_dialog.11102.a: ""
-giga_dialog.11103.name: ""
+tech_ehof_sentient_tier_7: "$ehof_sm$ VII 단계"
+tech_ehof_sentient_tier_7_desc: "증폭기와 $PGATE_GALACTICS$의 비밀에 대한 연구의 결과로 개발된 $ehof_sm$ 기술의 일곱 번째 세대입니다. 이는 $ehof_sm$을 사용해 목표를 조준하고 추적해 피해를 입히는 타이탄 크기의 신형 포탑과 훨씬 더 진보된 형태의 $ehof_sm$ 장갑을 위한 기술의 절충안입니다."
+tech_sm_megastructure: "자의식 금속 제련소"
+tech_sm_megastructure_desc: "§Y$tech_sm_megastructure$§!는 $ehof_the_sphere_named$에서의 추출 및 자가 복제를 통해, $ehof_sm$과 $ehof_qnm$를 생성합니다."
+allow_sm_megastructure: "§H거대구조물 잠금해제:§! $tech_sm_megastructure$"
+ehof_sm_megastructure_DESC: "$tech_sm_megastructure_desc$"
+ehof_sm_forge_phase0: "$tech_sm_megastructure$ 조립"
+ehof_sm_forge_phase0_DESC: "$tech_sm_megastructure_desc$"
+ehof_sm_forge_phase0_MEGASTRUCTURE_DETAILS: "$tech_sm_megastructure_desc$"
+ehof_sm_forge_phase00: "$ehof_sm_forge_phase0$"
+ehof_sm_forge_phase00_DESC: "$ehof_sm_forge_phase0_DESC$"
+ehof_sm_forge_phase00_MEGASTRUCTURE_DETAILS: "$tech_sm_megastructure_desc$"
+ehof_sm_forge_phase1: "$tech_sm_megastructure$ 거주 구역"
+ehof_sm_forge_phase1_DESC: "$tech_sm_megastructure_desc$"
+ehof_sm_forge_phase2: "$tech_sm_megastructure$ 추출 시설"
+ehof_sm_forge_phase2_DESC: "$tech_sm_megastructure_desc$"
+ehof_sm_forge_phase3: "$tech_sm_megastructure$ 이중 추출 시설"
+ehof_sm_forge_phase3_DESC: "$tech_sm_megastructure_desc$"
+ehof_sm_forge_phase4: "$tech_sm_megastructure$"
+ehof_sm_forge_phase4_DESC: "$tech_sm_megastructure_desc$"
+giga_dialog.11101.name: "$ehof_sm_forge_phase0$"
+giga_dialog.11101.desc: "건설 자원이 도착했고 $ehof_the_sphere_named$ 바깥 현장은 처음이자 어쩌면 유일할 $ehof_sm_forge_phase4$의 작업을 시작할 준비가 되었습니다."
+giga_dialog.11101.a: "휼륭하군."
+giga_dialog.11102.name: "$ehof_sm_forge_phase1$"
+giga_dialog.11102.desc: "우리는 주조소 그 자체에 거대한 살아있는 단지를 포함한것처럼 주조소로부터 생산을 최대화하려는 계획입니다."
+giga_dialog.11102.a: "다음 단계로 넘어가자!"
+giga_dialog.11103.name: "$ehof_sm_forge_phase2$"
 giga_dialog.11103.desc: ""
 giga_dialog.11103.a: ""
 giga_dialog.11104.name: ""
