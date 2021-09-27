@@ -6748,15 +6748,15 @@ macro_stabilizer_0_MEGASTRUCTURE_DETAILS: "가스 행성 주변의 큰 고리 �
 macro_stabilizer_1: "$name_terraform_gasgiant$ 자기 고리"
 macro_stabilizer_1_DESC: "이 행성의 주위에 뻗어있는 거대한 고리는 강력한 자기장을 방출하는데, 이것을 아직 건설되지 않은 고급 중력 조절기에 동력원으로 사용할 수 있습니다."
 macro_stabilizer_2: "$name_terraform_gasgiant$"
-macro_stabilizer_2_DESC: ""
-macro_stabilizer_3: ""
-macro_stabilizer_3_DESC: ""
+macro_stabilizer_2_DESC: "중력 조절기가 설치되었으니, 이제 이 $name_terraform_gasgiant$가 완성되었습니다. 남은 것은 안정화 작업을 시작하는 것 뿐입니다."
+macro_stabilizer_3: "안정화 시작"
+macro_stabilizer_3_DESC: "$name_terraform_gasgiant$의 첨단 기계를 사용해 가스 거성의 초고층 대기를 안정화하여 어느 정도 거주 가능하게 바꿉니다."
 
 ### Interstellar Habitat ################
 
-giga_tech_interstellar_habitat: ""
-giga_tech_interstellar_habitat_desc: ""
-giga_tech_interstellar_ringworld: ""
+giga_tech_interstellar_habitat: "$name_interstellar_hab$"
+giga_tech_interstellar_habitat_desc: "별과 별 사이의 광대한 공허는 어떠한 생명이나 활동이 전혀 없습니다. 그러나 극도로 효율적인 재활용 시스템과 진보된 공학을 사용하여 한때 거칠었고 탐사되지 않았던 영역을 우리의 집으로 바꿀 수 있습니다."
+giga_tech_interstellar_ringworld: "$name_interstellar_ring$"
 giga_tech_interstellar_ringworld_desc: ""
 giga_dialog.2901.title: ""
 giga_dialog.2901.desc: ""
