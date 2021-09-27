@@ -6402,8 +6402,8 @@ gigablackhole_ring_world_3_DESC: "$name_penrose$에 의해 구동되는 두 개�
 ### Ringworld Upgrade ###################
 
 giga_tech_ringworld_upgrade: "초고효율 링월드 지원 시스템"
-giga_tech_ringworld_upgrade_desc: ""
-giga_dialog.1501.name: ""
+giga_tech_ringworld_upgrade_desc: "링월드의 주요한 한계점은 (그리고, 다른 거대구조물들도 어느 정도는 마찬가지로) 링월드를 한 덩어리로 유지하는 다양한 방법 뿐만 아니라, 표면에 안정적인 생태계를 유지하는데 사용되는 생명 유지 시스템의 크기 그 자체입니다. 그런 시스템이란, 동력 생산과 생명체 목록 작성, 중력 안정화 등등을 포함합니다. 그 시스템은 현재 거주지 구역 옆의 링월드 구획에 보관되어 있지만, 충분히 진보한 기술을 이용하면, 링월드의 수용량을 급격하게 증가시키게끔, 그 시스템을 링월드 거주 구역 그 자체에 보관할 수도 있을 것입니다.\n\n§H개선을 원하는 링월드 구획에 결정을 내려야 합니다§!"
+giga_dialog.1501.name: "링월드 업그레이드"
 giga_dialog.1501.desc: ""
 giga_dialog.1501.a: ""
 giga_dialog.1502.name: ""
