@@ -7499,42 +7499,42 @@ giga_flusion.406.a: "시원하군."
 # An attack moon has fallen in battle, there's a special project available to repair it
 
 giga_mega.601.name: "$name_war_moon$ 파괴됨!"
-giga_mega.601.desc: ""
-giga_mega.601.a: ""
+giga_mega.601.desc: "전투 보고에 따르면 [giga_debris_system.GetName] 성계의 $name_war_moon$이 파괴되었습니다. 비록 그 구조물이 큰 피해를 견뎌냈지만, 더 이상 싸울 수 없습니다. 이는 여전히 대부분은 무사하며, 충분한 시간만 있다면, 우리든 우리의 적이든 그 구조물을 수리할 수 있을 것입니다...\n\n우리가 전쟁 위성의 잔해를 소유하고 있지 않지만 우리의 영토 내에 존재한다면, 성계의 항성에서 §Y천체 함선 강탈§ 결정을 사용하여 우리의 것으로 만들 수 있습니다."
+giga_mega.601.a: "무조건 수리해야 한다!"
 
 # Successfully repaired
 
-giga_mega.602.name: ""
-giga_mega.602.desc: ""
-giga_mega.602.a: ""
+giga_mega.602.name: "$name_war_moon$ 수리됨!"
+giga_mega.602.desc: "멋진 소식입니다! 우리는 [giga_debris_system.GetName] 성계의 폐허가 된 $name_war_moon$을 성공적으로 복구하였습니다. 내부를 완전히 처음부터 재건했어야 해서 꽤나 힘든 작업이었지만, 이 강력한 전함은 이제 다시 작동합니다."
+giga_mega.602.a: "멋지군."
 
 ### Attack Planet Debris #################
 
 
 # An attack planet has fallen in battle, there's a special project available to repair it
 
-giga_mega.701.name: ""
-giga_mega.701.desc: ""
-giga_mega.701.a: ""
-giga_mega.702.name: ""
-giga_mega.702.desc: ""
-giga_mega.702.a: ""
+giga_mega.701.name: "$name_war_planet$ 파괴됨!"
+giga_mega.701.desc: "전투 보고에 따르면 [giga_debris_system.GetName] 성계의 $name_war_planet$이 파괴되었습니다. 비록 그 구조물이 큰 피해를 견뎌냈지만, 더 이상 싸울 수 없습니다. 이는 여전히 대부분은 무사하며, 충분한 시간만 있다면, 우리든 우리의 적이든 그 구조물을 수리할 수 있을 것입니다...\n\n우리가 베히모스 요새 행성의 잔해를 소유하고 있지 않지만 우리의 영토 내에 존재한다면, 성계의 항성에서 §Y천체 함선 강탈§ 결정을 사용하여 우리의 것으로 만들 수 있습니다."
+giga_mega.701.a: "무조건 수리해야 한다!"
+giga_mega.702.name: "$name_war_planet$ 수리됨!"
+giga_mega.702.desc: "멋진 소식입니다! 우리는 [giga_debris_system.GetName] 성계의 폐허가 된 $name_war_planet$을 성공적으로 복구하였습니다. 내부를 완전히 처음부터 재건했어야 해서 꽤나 힘든 작업이었지만, 이 강력한 전함은 이제 다시 작동합니다."
+giga_mega.702.a: "멋지군."
 
 ### Traders ##############################
 
-ehof_trader: ""
+ehof_trader: "§S우르마진§!"
 ehof_alt_qnm: ""
-ehof_trader_d: ""
-ehof_trader_t: ""
-ehof_trader_dt: ""
-ehof_trader_dominion: ""
+ehof_trader_d: "몽상가"
+ehof_trader_t: "한계"
+ehof_trader_dt: "몽상가의 한계"
+ehof_trader_dominion: "지배"
 ehof_trader_machines: ""
-ehof_trader_new_system: ""
-ehof_trader_old_system: ""
-ehof_trader_realm: ""
-ehof_galactic_market: ""
-ehof_trader_gateway: ""
-ehof_trader_gateway_plural: ""
+ehof_trader_new_system: "[urmazin_capital.GetName]"
+ehof_trader_old_system: "[urmazin_system_01.GetName]"
+ehof_trader_realm: "모두가 꿈꿔온 왕국"
+ehof_galactic_market: "$galactic_market_station$"
+ehof_trader_gateway: "§S$ehof_trader$ 웜홀§!"
+ehof_trader_gateway_plural: "§S$ehof_trader$ 웜홀§!"
 ehof_trader_gateway_DESC: ""
 ehof_mega_trader.008.desc: ""
 r_rare_system: ""
